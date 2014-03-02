@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <string-array name="timezone_filters">
         <item>Amerika</item>
@@ -447,5 +448,172 @@
         <item>stredné</item>
         <item>nízke</item>
         <item>kritické</item>
+    </string-array>
+    <string-array name="haptic_feedback_level_entries">
+        <item>Silné</item>
+        <item>Stredné</item>
+        <item>Slabé</item>
+    </string-array>
+    <string-array name="media_feedback_level_entries">
+        <item>Silné</item>
+        <item>Stredné</item>
+        <item>Slabé</item>
+    </string-array>
+    <string-array name="battery_indicator_style_entries">
+        <item>Grafická</item>
+        <item>Percentá</item>
+        <item>Čiara nad oznamovacou lištou</item>
+    </string-array>
+    <string-array name="usb_connection_mode_entries">
+        <item>Pýtať sa pri pripojení</item>
+        <item>Len nabíjať</item>
+        <item>Pripojiť úložisko</item>
+    </string-array>
+    <string-array name="led_freq_entries">
+        <item>2 sekundy</item>
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekúnd</item>
+        <item>6 sekúnd</item>
+        <item>7 sekúnd</item>
+        <item>8 sekúnd</item>
+        <item>9 sekúnd</item>
+    </string-array>
+    <string-array name="mi1_led_color_entries">
+        <item>Modrá</item>
+        <item>Červená</item>
+        <item>Zelená</item>
+        <item>Ružová</item>
+        <item>Tirkisová</item>
+        <item>Fialová</item>
+    </string-array>
+    <string-array name="screen_key_long_press_action">
+        <item>Žiadna akcia</item>
+        <item>Spustiť manažér RAM</item>
+        <item>Spustiť Hlasový Asistent</item>
+        <item>Spustiť Google Now</item>
+        <item>Ukončiť otvorenú aplikáciu</item>
+    </string-array>
+    <string-array name="screen_key_long_press_timeout">
+        <item>0.5 sekundy</item>
+        <item>1 sekunda</item>
+        <item>1.5 sekundy</item>
+        <item>2 sekundy</item>
+    </string-array>
+    <string-array name="button_light_timeout_entries">
+        <item>1 sekunda</item>
+        <item>2 sekundy</item>
+        <item>5 sekúnd</item>
+        <item>10 sekúnd</item>
+        <item>20 sekúnd</item>
+        <item>Vždy zapnuté</item>
+    </string-array>
+    <string-array name="wfd_status">
+        <item>Zariadenie pripojené, vytvára sa relácia...</item>
+        <item>Relácia vytvorená.</item>
+        <item>Session tearing down…</item>
+        <item>Relácia zlyhala.</item>
+        <item>Čas vypršal, skúša sa opäť...</item>
+        <item>Zariadenie pripojené</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>Výkonný režim</item>
+        <item>Vyvážený režim</item>
+        <item>Úsporný režim</item>
+    </string-array>
+       <string-array name="msd_pc_system">
+        <item>Windows XP alebo starší</item>
+        <item>Windows Vista,7,8</item>
+        <item>Mac OS</item>
+        <item>Linux</item>
+    </string-array>
+    <string-array name="msd_pc_system_install_start_summary">
+        <item>"Pre Windows XP a staršie systémy,
+musí byť ovládač nainštalovaný manuálne"</item>
+        <item>"Pre Windows Vista a Win7,8,
+sa zariadenie zobrazí ako prehrávač hudby MTP"</item>
+        <item>"Pre operačný systém Mac OS,
+musí byť ovládač nainštalovaný manuálne"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_1_summary">
+        <item>"(Ignorujte sprievodcu pri inštalácií)
+XIAOMI úložisko sa zobrazí vo Vašom počítači.
+Otvorte súbor Setup.exe pre začatie inštalácie"</item>
+        <item></item>
+        <item>"XIAOMI úložisko sa zobrazí vo Vašom počítači.
+Otvorte súbor AndroidFileTransfer.dmg pre začatie inštalácie"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_step_2_summary">
+        <item>"2. Úložisko sa zobrazí vo Vašom počítači
+Teraz môžete kopírovať súbory"</item>
+        <item></item>
+        <item>"Počítač automaticky otvorí zložku vo Vašom telefóne
+Teraz môžete kopírovať súbory"</item>
+        <item></item>
+    </string-array>
+    <string-array name="msd_pc_system_install_finish_summary">
+        <item>"Ak nainštalujete tento ovládač
+úložisko sa zobrazí vo Vašom počítači"</item>
+        <item>"Pre Windows Vista a Win7,8,
+sa zobrazí ako prehrávač hudby vo Vašom počítači"</item>
+        <item>"Ak nainštalujete tento ovládač
+Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
+        <item></item>
+    </string-array>
+    <string-array name="screen_color_title">
+        <item>Teplé farby</item>
+        <item>Prirodzené farby</item>
+        <item>Studené farby</item>
+    </string-array>
+    <string-array name="screen_saturation_title">
+        <item>Brilliant</item>
+        <item>Štandard</item>
+    </string-array>
+    <string-array name="perm_hips_action">
+        <item>Povoliť</item>
+        <item>Opýtať sa</item>
+        <item>Zakázať</item>
+    </string-array>
+    <string-array name="startup_hips_action">
+        <item>Povoliť</item>
+        <item>Zakázať</item>
+    </string-array>
+    <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Prirodzené</item>
+    </string-array>
+    <string-array name="phone_call_noise_suppression_title">
+        <item>Potlačenie jedným mikrofónom</item>
+        <item>Potlačenie dvoma mikrofónmi</item>
+    </string-array>
+    <string-array name="change_security_lock_picker">
+        <item>Odblokovanie tvárou</item>
+        <item>Vzor</item>
+        <item>PIN</item>
+        <item>Heslo</item>
+    </string-array>
+    <string-array name="wifi_connect_type_entries">
+        <item>Automaticky pripojiť</item>
+        <item>Manuálne pripojiť</item>
+        <item>Vždy sa opýtať</item>
+    </string-array>
+    <string-array name="slideshow_time_entries">
+        <item>5 minút</item>
+        <item>15 minút</item>
+        <item>30 minút</item>
+        <item>1 hodina</item>
+        <item>Bez obmedzenia</item>
+    </string-array>
+    <string-array name="preferred_app_entries">
+        <item>Launcher</item>
+        <item>Volanie</item>
+        <item>Správy</item>
+        <item>Prehliadač</item>
+        <item>Fotoaparát</item>
+        <item>Galéria</item>
+        <item>Hudba</item>
+        <item>Email</item>
     </string-array>
 </resources>
