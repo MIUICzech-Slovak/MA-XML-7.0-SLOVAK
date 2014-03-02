@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <plurals name="in_half_hour">
+        <item quantity="other">Pred pol hodinou</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Pred hodinou</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Pred pol hodinou</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Za okamih</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">Pred hodinou</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Práve teraz</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Pred pol hodinou</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Pred hodinou</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Pred hodinou</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Práve teraz</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Pred pol hodinou</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Za okamih</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">pred %d min</item>
+        <item quantity="one">pred 1 min</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 min</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za 1 min</item>
+    </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">položiek: %1$d </item>
+        <item quantity="one">položiek: %1$d</item>
+    </plurals>
+</resources>

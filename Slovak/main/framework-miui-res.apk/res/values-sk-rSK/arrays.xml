@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="alarm_in_future">
+        <item>To je o menej než minútu</item>
+        <item>To je o %1$s</item>
+        <item>To je o %2$s</item>
+        <item>To je o %1$s %2$s</item>
+        <item>To je o %3$s</item>
+        <item>To je o %1$s %3$s</item>
+        <item>To je o %2$s %3$s</item>
+        <item>To je o %1$s %2$s %3$s</item>
+    </string-array>
+	<string-array name="contact_entries">
+        <item>Meno</item>
+        <item>Prezývka</item>
+        <item>Telefón</item>
+        <item>E-mail</item>
+        <item>Firma</item>
+        <item>Chat</item>
+        <item>SIP</item>
+        <item>Narodeniny</item>
+        <item>Web</item>
+        <item>Adresa</item>
+        <item>Poznámka</item>
+    </string-array>
+</resources>
