@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="format_for_exported_note">
+        <item>-%s</item>
+        <item>--%s</item>
+        <item>--%s</item>
+        <item>--%s</item>
+    </string-array>
+    <string-array name="menu_share_ways">
+        <item>Správa</item>
+        <item>Email</item>
+    </string-array>
+	<string-array name="contact_entries">
+        <item>Meno</item>
+        <item>Prezývka</item>
+        <item>Telefón</item>
+        <item>E-mail</item>
+        <item>Organizácia</item>
+        <item>Chat</item>
+        <item>SIP Telefón</item>
+        <item>Narodeniny</item>
+        <item>Web</item>
+        <item>Adresa</item>
+        <item>Poznámka</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Malé</item>
+        <item>Stredné</item>
+        <item>Veľké</item>
+        <item>Obrovské</item>
+    </string-array>
+</resources>

@@ -19,7 +19,7 @@
         <item>Iná</item>
     </string-array>		
     <string-array name="pref_text_size_choices">
-	<item>Veľmi malý</item>
+	    <item>Veľmi malý</item>
         <item>Malý</item>
         <item>Normálny</item>
         <item>Veľký</item>
@@ -61,10 +61,17 @@
     <string-array name="menu_theme_setting">
         <item>Biela</item>
         <item>Žltá</item>
-        <item>Šedá</item>
-        <item>Hnedá</item>
-        <item>Zelená</item>
-        <item>Modrá</item>
-        <item>Tmavá</item>
+        <item>Čierna</item>
+    </string-array>
+    <string-array name="font_size_names">
+        <item>Malé</item>
+        <item>Normálne</item>
+        <item>Veľká</item>
+        <item>Obrovské</item>
+    </string-array>
+    <string-array name="pref_ua_choices">
+        <item>iPad</item>
+        <item>Desktop</item>
+        <item>Android Pad</item>
     </string-array>
 </resources>
