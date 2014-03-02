@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <plurals name="Ntracks_remove_from_favorite_playlist">
+        <item quantity="other">Skladby odstránených zo zoznamu: %d</item>
+        <item quantity="one">1 skladba odstránená zo zoznamu</item>
+    </plurals>
+    <plurals name="Ntracks_search_result_format">
+        <item quantity="other">Skladby: %d</item>
+        <item quantity="one">Skladby: %d</item>
+    </plurals>
+    <plurals name="Ntracks_total">
+        <item quantity="other">Skladby: %d</item>
+        <item quantity="one">Skladby: %d</item>
+    </plurals>
+    <plurals name="Ntracks_string">
+        <item quantity="other">Skladby: %d</item>
+        <item quantity="one">Skladby: %d</item>
+    </plurals>
+    <plurals name="Ntracks_format">
+        <item quantity="other">Skladby: %d</item>
+        <item quantity="one">Skladby: %d</item>
+    </plurals>
+    <plurals name="Nalbums_format">
+        <item quantity="other">Albumy: %d</item>
+        <item quantity="one">Albumy: %d</item>
+    </plurals>
+    <plurals name="Ntracks">
+        <item quantity="other">" skladieb"</item>
+        <item quantity="one">" skladba"</item>
+    </plurals>
+    <plurals name="Nalbums">
+        <item quantity="other">" albumov"</item>
+        <item quantity="one">" album"</item>
+    </plurals>
+    <plurals name="Nartists">
+        <item quantity="other">" umelcov"</item>
+        <item quantity="one">" umelec"</item>
+    </plurals>
+    <plurals name="Nplaylists">
+        <item quantity="other">" playlistov"</item>
+        <item quantity="one">" playlist"</item>
+    </plurals>
+    <plurals name="Nfolders">
+        <item quantity="other">" zložiek"</item>
+        <item quantity="one">" zložka"</item>
+    </plurals>
+    <plurals name="Ntracks_batch_selection">
+        <item quantity="other">Vybraných skladieb: %d</item>
+        <item quantity="one">%d vybraná skladba</item>
+    </plurals>
+    <plurals name="Ntrack_in_sdcard_format">
+        <item quantity="other">Na SD karte je %d skladieb</item>
+        <item quantity="one">Na SD karte je %d skladba</item>
+    </plurals>
+    <plurals name="NNNtrackstoplaylist">
+        <item quantity="other">%d pridaných do playlistu.</item>
+        <item quantity="one">1 skladba pridaná do playlistu.</item>
+    </plurals>
+    <plurals name="NNNtrackstofavoriteplaylist">
+        <item quantity="other">%d pridaných do playlistu.</item>
+        <item quantity="one">1 skladba pridaná do playlistu.</item>
+    </plurals>
+    <plurals name="Nonlinecategory">
+        <item quantity="other">" kategórií"</item>
+        <item quantity="one">" kategória"</item>
+    </plurals>
+    <plurals name="album_details_format">
+        <item quantity="other">%1$s, %2$d skladieb</item>
+        <item quantity="one">%1$s, %2$d skladba</item>
+    </plurals>
+    <plurals name="NNNtracksdeleted">
+        <item quantity="other">Vymazaných skladieb: %d</item>
+        <item quantity="one">1 skladba vymazaná.</item>
+    </plurals>
+    <plurals name="NTrackstoDownload">
+        <item quantity="other">%d skladieb bude stiahnutých.</item>
+        <item quantity="one">1 skladba bude stiahnutá.</item>
+    </plurals>
+        <plurals name="Nhot_tracks_total">
+        <item quantity="other">Hitov: %d</item>
+        <item quantity="one">%d hit</item>
+    </plurals>
+    <plurals name="Nsearch_results">
+        <item quantity="other">Nájdených: %d</item>
+        <item quantity="one">Nájdených: %d</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">%d skladieb odstránených z playlistu.</item>
+        <item quantity="one">1 skladba odstránená z playlistu.</item>
+    </plurals>
+	<plurals name="Nexpiration_reminder">
+        <item quantity="other">Skončí o %d dní</item>
+        <item quantity="one">Skončí o %d deň</item>
+    </plurals>
+	<plurals name="Nvip_expired_remind">
+        <item quantity="other">Váš prístup k vysokej kvalite hudby čoskoro skončí (ostáva %d dní)</item>
+    </plurals>
+	<plurals name="Nexpired_remind">
+        <item quantity="other">Ostáva %d dní</item>
+        <item quantity="one">Ostáva %d deň</item>
+    </plurals>
+</resources>

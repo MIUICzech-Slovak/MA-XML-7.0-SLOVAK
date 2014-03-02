@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <plurals name="number_of_items_selected">
+        <item quantity="other">Vybraných: %1$d </item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
+    </plurals>
+    <plurals name="number_of_images">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="number_of_pictures">
+        <item quantity="other">%1$d</item>
+        <item quantity="zero">%1$d</item>
+        <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="make_albums_available_offline">
+        <item quantity="other">Sprístupniť albumy offline.</item>
+        <item quantity="one">Sprístupniť album offline.</item>
+    </plurals>
+    <plurals name="number_of_cloudimages">
+        <item quantity="other">Obrázkov: %1$d</item>
+        <item quantity="zero">Obrázkov: %1$d</item>
+        <item quantity="one">Obrázkov: %1$d</item>
+    </plurals>
+</resources>

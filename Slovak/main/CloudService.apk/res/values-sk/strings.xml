@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="app_name">Správca účtu Xiaomi (MIUI)</string> 
+  <string name="find_device">Nájsť telefón</string>
+  <string name="find_device_stop_noise">Kliknite na \"OK\" pre zastavenie alarmu</string>
+  <string name="pref_summary_sync_display_photo_on_wifi_only">Odporúča sa zapnúť, inak môže spotrebovať Vaše dáta</string>
+  <string name="pref_title_sync_contacts_title">Synch. kontakty</string>
+  <string name="pref_title_sync_my_profile_title">Synch. môj profil</string>
+  <string name="pref_title_sync_display_photo_on_wifi_only">Použiť iba Wi-Fi pre zobrazenie fotky</string>
+  <string name="sub_sync_item_sms_summary">Odporúča sa zapnúť, inak môže spotrebovať Vaše dáta</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Použiť iba Wi-Fi pre synch. MMS / SMS</string>
+  <string name="sync_item_sms_summary">Prečítané SMS budú automaticky synchronizované</string>
+  <string name="sync_item_sms_title">Synch. SMS</string>
+  <string name="find_device_noise_title">Nájsť telefón podľa zvuku</string>
+  <string name="sync_item_calllog_title">Synch. záznamy o volaní</string>
+  <string name="sync_item_calllog_summary">Synchronizovať záznamy o prichádzajúcich a odchádzajúcich hovoroch</string>
+ </resources>
