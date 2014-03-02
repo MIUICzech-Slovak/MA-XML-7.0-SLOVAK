@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-<string name="account_bind_prompt">"Migrovanie užívateľských dát. 
-Váš účet bude dočasne zablokovaný, 
-čakajte prosím..."</string>
+<string name="account_bind_prompt">"Migrovanie užívateľských dát. čakajte prosím..."</string>
 <string name="add_task">Pridať úlohu</string>
 <string name="adding_upload_tasks">Pridávanie súborov pre odosielanie.</string>
 <string name="already_signin_description">Podpísať sa môžete len raz za 24h, skúste to opäť zajtra.</string>
@@ -32,7 +30,6 @@ Váš účet bude dočasne zablokovaný,
 <string name="category_document">Dokum.</string>
 <string name="category_favorite">Obľúbené</string>
 <string name="category_log">Záznamy</string>
-<string name="category_mirouter">MiRouter</string>
 <string name="category_music">Hudba</string>
 <string name="category_other">Ostatné</string>
 <string name="category_picture">Obrázky</string>
@@ -145,6 +142,7 @@ Server je momentálne nedostupný, skúste to opäť neskôr
 <string name="kuaipan_tech_support">Poskytuje Kingsoft Kuaipan</string>
 <string name="load_err">Načítavanie zlyhalo</string>
 <string name="loading">Načítavam...</string>
+<string name="local">Lokálne</string>
 <string name="local_cache_size">Veľkosť lokálnej cache: %s</string>
 <string name="login_reg_content">S MiDrive môžete synchronizovať súbory medzi rôznými zariadeniami.</string>
 <string name="login_reg_content0">MiDrive je Váš Cloud</string>
@@ -259,10 +257,12 @@ Získali ste ďalších %1$s"</string>
 <string name="storage_usb">USB úložisko</string>
 <string name="storage_warning">SD karta nie je prístupné alebo sa nedá čítať.</string>
 <string name="sys_size">Celková kapacita %1$s</string>
+<string name="sys_size_enable">povoliť</string>
 <string name="sys_size_title">Celková kapacita úložiska</string>
 <string name="tab_category">Kategórie</string>
 <string name="tab_networkdisk">MiDrive</string>
 <string name="tab_phone">Telefón</string>
+<string name="tab_sys_size">Celkové úložisko</string>
 <string name="temp_file_cleanup_indication">%s dočasné súbory</string>
 <string name="temp_file_title">Dočasné súbory</string>
 <string name="thumbnail_cleanup_indication">%s náhľadov</string>
