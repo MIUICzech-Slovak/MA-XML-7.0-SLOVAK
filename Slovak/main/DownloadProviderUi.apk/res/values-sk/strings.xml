@@ -26,7 +26,7 @@
     <string name="dialog_queued_body">Súbor zatiaľ nie je k dispozícii, pretože je v poradí na budúce prevzatie.</string>	
     <string name="dialog_title_not_available">Nepodarilo sa prevziať</string>	
     <string name="dialog_title_queued_body">Súbor v poradí</string>	
-    <string name="doc_filter">DOKUMENTY</string>
+    <string name="doc_filter">DOKUM.</string>
     <string name="download_complete">Stiahnuté</string>
     <string name="download_error">Neúspešné</string>
     <string name="download_error_insufficient_space">Nedostatok miesta</string>	
@@ -62,7 +62,7 @@
     <string name="paused_unknown">Pozastavené</string>	
     <string name="paused_waiting_for_network">Pozastavené, čakám na pripojenie k sieti</string>	
     <string name="paused_waiting_to_retry">Pozastavené, čakám na obnovenie</string>	
-	<string name="prefDefault_max_bytes_limit">52428800</string>
+    <string name="prefDefault_max_bytes_limit">52428800</string>
     <string name="pref_dialog_title_max_bytes_limit">Limit veľkosti súboru</string>	
     <string name="pref_download_settings_title">Využitie dát</string>	
     <string name="pref_summary_any_bytes_popup">Sťahovať len cez Wi-Fi</string>	

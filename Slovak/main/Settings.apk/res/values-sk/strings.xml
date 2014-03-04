@@ -435,8 +435,8 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="bluetooth_show_received_files">Zobraziť prijaté súbory</string>
   <string name="bluetooth_tether_checkbox_text">Pripojenie cez Bluetooth</string>
   <string name="bluetooth_tethering_available_subtext">Zdieľa internetové pripojenie tohto zariadenia</string>
-  <string name="bluetooth_tethering_device_connected_subtext">Internetové pripojenie tabletu zdieľa jedno zariadenie</string>
-  <string name="bluetooth_tethering_devices_connected_subtext">Zariadenia zdieľajúce internetové pripojenie tabletu (%1$d)</string>
+  <string name="bluetooth_tethering_device_connected_subtext">Internetové pripojenie zariadenia zdieľa jedno zariadenie</string>
+  <string name="bluetooth_tethering_devices_connected_subtext">Zariadenia zdieľajúce internetové pripojenie (%1$d)</string>
   <string name="bluetooth_tethering_errored_subtext">Internetové pripojenie nie je zdieľané</string>
   <string name="bluetooth_tethering_off_subtext">Nezdieľa internetové pripojenie tohto zariadenia</string>
   <string name="bluetooth_tethering_overflow_error">Maximálny počet zariadení na zdieľanie dátového pripojenia: %1$d.</string>
@@ -578,26 +578,26 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="credentials_unlock"/>
   <string name="credentials_unlock_hint">Zadajte heslo pre úložisko poverení.</string>
   <string name="credentials_wrong_password">Nesprávne heslo.</string>
-  <string name="crypt_keeper_button_text">Šifrovať tablet</string>
+  <string name="crypt_keeper_button_text">Šifrovať zariadenie</string>
   <string name="crypt_keeper_confirm_title">Šifrovať?</string>
   <string name="crypt_keeper_cooldown">Počet sekúnd zostávajúcich do ďalšieho pokusu: ^1.</string>
-  <string name="crypt_keeper_desc">"Svoje účty, nastavenia, prevzaté aplikácie a ich údaje môžete šifrovať. Po zašifrovaní tabletu budete musieť pri každom zapnutí zadať číselný kód PIN alebo heslo a dešifrovať ho – toto šifrovanie budete môcť zrušiť iba obnovením továrenských nastavení, čím sa všetky údaje v zariadení vymažú.
+  <string name="crypt_keeper_desc">"Svoje účty, nastavenia, prevzaté aplikácie a ich údaje môžete šifrovať. Po zašifrovaní zariadenia budete musieť pri každom zapnutí zadať číselný kód PIN alebo heslo a dešifrovať ho – toto šifrovanie budete môcť zrušiť iba obnovením továrenských nastavení, čím sa všetky údaje v zariadení vymažú.
 
 Šifrovanie môže trvať aj viac ako hodinu. V zariadení musí byť pred šifrovaním nabitá batéria a po celú dobu šifrovania musí byť pripojený k zdroju napájania. Ak šifrovanie prerušíte, stratíte niektoré alebo všetky údaje."</string>
   <string name="crypt_keeper_dialog_need_password_message">Pred spustením šifrovania musíte nastaviť heslo alebo kód PIN uzamknutia obrazovky.</string>
   <string name="crypt_keeper_dialog_need_password_title">Chýba heslo alebo číslo PIN na odomknutie obrazovky</string>
-  <string name="crypt_keeper_encrypt_summary">Pri každom zapnutí tabletu požadovať číslo PIN alebo heslo na jeho dešifrovanie</string>
-  <string name="crypt_keeper_encrypt_title">Šifrovať tablet</string>
+  <string name="crypt_keeper_encrypt_summary">Pri každom zapnutí zariadenia požadovať číslo PIN alebo heslo na jeho dešifrovanie</string>
+  <string name="crypt_keeper_encrypt_title">Šifrovať zariadenie</string>
   <string name="crypt_keeper_encrypted_summary">Šifrované</string>
   <string name="crypt_keeper_enter_password">Zadajte svoje heslo</string>
   <string name="crypt_keeper_failed_summary">"Šifrovanie bolo prerušené a nedá sa dokončiť. Výsledkom je, že údaje vo vašom zariadení už nie sú k dispozícii. 
 
-Ak chcete ďalej používať svoj tablet, musíte obnoviť jeho továrenské nastavenia. Po ich obnovení budete mať počas nastavovania tabletu príležitosť obnoviť všetky údaje, ktoré sa zálohovali do vášho účtu Google."</string>
+Ak chcete ďalej používať svoje zariadenie, musíte obnoviť jeho továrenské nastavenia. Po ich obnovení budete mať počas nastavovania zariadenia príležitosť obnoviť všetky údaje, ktoré sa zálohovali do vášho účtu Google."</string>
   <string name="crypt_keeper_failed_title">Šifrovanie bolo neúspešné</string>
-  <string name="crypt_keeper_final_desc">Operácia šifrovania je nevratná a ak ju prerušíte, prídete o údaje. Šifrovanie môže trvať viac ako hodinu. Tablet sa počas tejto doby niekoľkokrát reštartuje.</string>
+  <string name="crypt_keeper_final_desc">Operácia šifrovania je nevratná a ak ju prerušíte, prídete o údaje. Šifrovanie môže trvať viac ako hodinu. Zariadenie sa počas tejto doby niekoľkokrát reštartuje.</string>
   <string name="crypt_keeper_low_charge_text">Nabite batériu a skúste to znova.</string>
   <string name="crypt_keeper_settings_title">Šifrovanie</string>
-  <string name="crypt_keeper_setup_description">Čakajte na dokončenie procesu šifrovania tabletu. Dokončené: ^1%.</string>
+  <string name="crypt_keeper_setup_description">Čakajte na dokončenie procesu šifrovania zariadenia. Dokončené: ^1%.</string>
   <string name="crypt_keeper_setup_title">Šifrovanie</string>
   <string name="crypt_keeper_switch_input_method">Prepnúť metódu vstupu</string>
   <string name="crypt_keeper_unplugged_text">Zapojte nabíjačku a skúste to znova.</string>
@@ -619,7 +619,7 @@ Vhodnejšie spôsoby ovládania využívania údajov nájdete v nastaveniach apl
   <string name="data_usage_app_settings">Zobraziť nastavenia aplikácie</string>
   <string name="data_usage_auto_sync_off_dialog">Toto nastavenie šetrí spotrebu dát a batérie. Na získanie najnovších informácií však budete musieť každý účet synchronizovať ručne. Nebudete tiež dostávať upozornenia na dostupné aktualizácie.</string>
   <string name="data_usage_auto_sync_off_dialog_title">Vypnúť automat. synchr. údajov?</string>
-  <string name="data_usage_auto_sync_on_dialog">"Všetky zmeny vykonané v rámci vašich účtov na webe sa automaticky skopírujú do vášho tabletu.
+  <string name="data_usage_auto_sync_on_dialog">"Všetky zmeny vykonané v rámci vašich účtov na webe sa automaticky skopírujú do vášho zariadenia.
 
 Niektoré účty môžu tiež automaticky skopírovať na web akékoľvek zmeny vykonané v zariadení. Týmto spôsobom funguje aj účet Google.
 
@@ -643,7 +643,7 @@ Typy informácií, ktoré sa budú v jednotlivých účtoch synchronizovať, mô
   <string name="data_usage_label_foreground">V popredí</string>
   <string name="data_usage_limit_dialog_mobile">"Po dosiahnutí stanoveného limitu bude vaše mobilné dátové pripojenie zakázané.
 
-Keďže sa využitie dát meria pomocou vášho tabletu a operátor môže využitie dát účtovať inak, zvážte nastavenie nižšieho limitu."</string>
+Keďže sa využitie dát meria pomocou vášho zariadenia a operátor môže využitie dát účtovať inak, zvážte nastavenie nižšieho limitu."</string>
   <string name="data_usage_limit_dialog_title">Nastavuje sa obmedzenie dátových prenosov</string>
   <string name="data_usage_limit_editor_title">Nastaviť limit využívania údajov</string>
   <string name="data_usage_list_mobile">Mobil</string>
@@ -665,7 +665,7 @@ Keďže sa využitie dát meria pomocou vášho tabletu a operátor môže využ
   <string name="data_usage_restrict_background">Ak obmedzíte mobilné dáta na pozadí, niektoré aplikácie a služby nebudú fungovať, dokým sa nepripojíte k sieti Wi-Fi.</string>
   <string name="data_usage_restrict_background_multiuser">"Ak obmedzíte mobilné dáta na pozadí, niektoré aplikácie a služby nebudú fungovať, dokým sa nepripojíte k sieti Wi-Fi.
 
-Toto nastavenie ovplyvní všetkých používateľov tohto tabletu."</string>
+Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="data_usage_restrict_background_title">Obmedziť údaje na pozadí?</string>
   <string name="data_usage_restrict_denied_dialog">Obmedzenie údajov na pozadí je možné len v prípade, že ste nastavili dátový limit pre mobilnú sieť.</string>
   <string name="data_usage_summary_title">Využitie dát</string>
@@ -679,7 +679,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto tabletu."</string>
   <string name="data_usage_tab_mobile">Mobil</string>
   <string name="data_usage_tab_wifi">Wi-Fi</string>
   <string name="data_usage_total_during_range">%2$s: využitých približne %1$s.</string>
-  <string name="data_usage_total_during_range_mobile">%2$s: podľa meraní tabletu využitých asi %1$s. Operátor môže využitie dát účtovať inak.</string>
+  <string name="data_usage_total_during_range_mobile">%2$s: podľa meraní zariadenia využitých asi %1$s. Operátor môže využitie dát účtovať inak.</string>
   <string name="data_usage_uninstalled_apps">Odstránené aplikácie</string>
   <string name="data_usage_uninstalled_apps_users">Odstránené aplikácie a používatelia</string>
   <string name="data_usage_warning_editor_title">Nastaviť upozornenie o využívaní údajov</string>
@@ -736,7 +736,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto tabletu."</string>
   <string name="device_info_default">Neznáme</string>
   <string name="device_info_label">Informácie o zariadení</string>
   <string name="device_info_not_available">Nie je k dispozícii</string>
-  <string name="device_info_settings">Stav tabletu</string>
+  <string name="device_info_settings">Stav zariadenia</string>
   <string name="device_internal_memory">Internal memory</string>
   <string name="device_memory">RAM</string>
   <string name="device_miui_version">MIUI</string>
@@ -815,15 +815,15 @@ Toto nastavenie ovplyvní všetkých používateľov tohto tabletu."</string>
   <string name="dock_audio_settings_title">Zvuk</string>
   <string name="dock_audio_summary_car">Nastavenia pripojeného doku do auta</string>
   <string name="dock_audio_summary_desk">Nastavenia pripojeného stolného doku</string>
-  <string name="dock_audio_summary_none">Tablet nie je vložený do doku</string>
+  <string name="dock_audio_summary_none">Zariadenie nie je vložené do doku</string>
   <string name="dock_audio_summary_unknown">Nastavenia pripojeného doku</string>
-  <string name="dock_not_found_text">Pred nastavením zvuku doku v ňom musí byť vložený tablet.</string>
+  <string name="dock_not_found_text">Pred nastavením zvuku doku v ňom musí byť zariadenie vložené.</string>
   <string name="dock_not_found_title">Dok nebol nájdený</string>
   <string name="dock_settings">Dok</string>
   <string name="dock_settings_summary">Nastavenia zvuku pre pripojený dok</string>
   <string name="dock_settings_title">Nastavenie doku</string>
-  <string name="dock_sounds_enable_summary_off">Neprehrávať zvuk pri vkladaní alebo odstraňovaní tabletu z doku</string>
-  <string name="dock_sounds_enable_summary_on">Prehrať zvuk pri vkladaní alebo odstraňovaní tabletu z doku</string>
+  <string name="dock_sounds_enable_summary_off">Neprehrávať zvuk pri vkladaní alebo odstraňovaní zariadenia z doku</string>
+  <string name="dock_sounds_enable_summary_on">Prehrať zvuk pri vkladaní alebo odstraňovaní zariadenia z doku</string>
   <string name="dock_sounds_enable_title">Zvuk pri vkladaní do doku</string>
   <string name="does_not_exist">Aplikácia neexistuje</string>
   <string name="dolby_bassboost_high">Silný</string>
@@ -955,7 +955,7 @@ Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich v�
   <string name="gadget_toggle_wifi">Prebieha aktualizácia nastavenia Wi-Fi</string>
   <string name="gadget_wifi">Wi-Fi</string>
   <string name="game_controller_settings_category">Herné ovládače</string>
-  <string name="global_change_warning">Toto nastavenie ovplyvní všetkých používateľov tohto tabletu.</string>
+  <string name="global_change_warning">Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia.</string>
   <string name="global_font_change_title">Zmeniť veľkosť písma</string>
   <string name="global_locale_change_title">Zmeniť jazyk</string>
   <string name="gsm_to_wifi_connect_type_title">Mobilný->Wi-Fi</string>
@@ -1040,7 +1040,7 @@ Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich v�
   <string name="input_methods_settings_label_format">Nastavenia %1$s</string>
   <string name="input_methods_settings_title">Zadávanie textu</string>
   <string name="input_settings">Nastavenie vstupu</string>
-  <string name="install_all_warning">Váš tablet a osobné údaje sú zraniteľnejšie voči útokom aplikácií z neznámych zdrojov. Súhlasíte s tým, že ste výhradne zodpovedný/-á za všetky škody na zariadení alebo stratu údajov, ktoré môžu vzniknúť v dôsledku používania týchto aplikácií.</string>
+  <string name="install_all_warning">Vaše zariadenie a osobné údaje sú zraniteľnejšie voči útokom aplikácií z neznámych zdrojov. Súhlasíte s tým, že ste výhradne zodpovedný/-á za všetky škody na zariadení alebo stratu údajov, ktoré môžu vzniknúť v dôsledku používania týchto aplikácií.</string>
   <string name="install_applications">Neznáme zdroje</string>
   <string name="install_text">Inštalovať</string>
   <string name="install_unknown_applications">Povoliť inštaláciu aplikácií z iných zdrojov ako z aplikácie Obchod Play</string>
@@ -1215,7 +1215,7 @@ Aktuálne ste prihlásení do nasledujúcich účtov:
   <string name="master_clear_all">"Táto akcia vymaže všetky dáta z interného úložiska, mimo iných aj nasledujúce: účet Google, nastavenie a dáta systému a aplikácií, stiahnuté aplikácie!"</string>
   <string name="master_clear_button_text">Obnoviť</string>
   <string name="master_clear_confirm_title">Obnoviť?</string>
-  <string name="master_clear_desc">Táto operácia vymaže všetky údaje v &lt;b&gt;internom &amp;#250;lo&amp;#382;isku&lt;/b&gt;" tabletu, vr&amp;#225;tane:
+  <string name="master_clear_desc">Táto operácia vymaže všetky údaje v &lt;b&gt;internom &amp;#250;lo&amp;#382;isku&lt;/b&gt;" zariadenia, vr&amp;#225;tane:
 
 "&lt;li&gt;&amp;#250;&amp;#269;tu Google&lt;/li&gt;"
 "&lt;li&gt;&amp;#250;dajov a nastaven&amp;#237; syst&amp;#233;mu a aplik&amp;#225;ci&amp;#237;&lt;/li&gt;"
@@ -1304,7 +1304,7 @@ Ak chcete vymazať hudbu, obrázky a ďalšie používateľské údaje, musíte 
   <string name="move_app">Presunúť</string>
   <string name="move_app_failed_dlg_text">Aplikáciu sa nepodarilo presunúť. %1$s</string>
   <string name="move_app_failed_dlg_title"/>
-  <string name="move_app_to_internal">Presunúť do tabletu</string>
+  <string name="move_app_to_internal">Presunúť do zariadenia</string>
   <string name="move_app_to_sdcard">Presun. do ukl. priestoru USB</string>
   <string name="moving">Presúvanie</string>
   <string name="msd_driver_download">Stiahnuť ovládač</string>	
@@ -1364,7 +1364,7 @@ skúste:
   <string name="nfc_payment_set_default_instead_of">Chcete pri platbách mobilom namiesto aplikácie %2$s vždy používať aplikáciu %1$s?</string>
   <string name="nfc_payment_set_default_label">Nastaviť ako predvoľbu?</string>
   <string name="nfc_payment_settings_title">Platby mobilom</string>
-  <string name="nfc_quick_toggle_summary">Povoliť výmenu údajov, ak sa tablet dotýka iného zariadenia</string>
+  <string name="nfc_quick_toggle_summary">Povoliť výmenu údajov, ak sa zariadenie dotýka iného zariadenia</string>
   <string name="nfc_quick_toggle_title">NFC</string>
   <string name="nfc_se_route_title">Secure element position</string>
   <string name="no">Nie</string>
@@ -1610,7 +1610,7 @@ skúste:
   <string name="radio_info_smsc_refresh_label">Obnoviť</string>
   <string name="radio_info_smsc_update_label">Aktualizovať</string>
   <string name="radio_info_toggle_dns_check_label">Prepnúť kontrolu DNS</string>
-  <string name="really_remove_account_message">Odstránením tohto účtu budú z tabletu odstránené aj všetky správy, kontakty a ďalšie údaje!</string>
+  <string name="really_remove_account_message">Odstránením tohto účtu budú zo zariadenia odstránené aj všetky správy, kontakty a ďalšie údaje!</string>
   <string name="really_remove_account_title">Odstrániť účet?</string>
   <string name="recognizer_settings_summary">Nastavenia modulu gadget „%s“</string>
   <string name="recognizer_settings_title">Hlasové vyhľadávanie</string>
@@ -1618,7 +1618,7 @@ skúste:
   <string name="recompute_size">Prebieha prepočítanie veľkosti...</string>
   <string name="regulatory_info_text"/>
   <string name="regulatory_information">Regulačné informácie</string>
-  <string name="remove_account_failed">Niektoré aplikácie vyžadujú tento účet. Odstrániť ich môžete obnovením tabletu na predvolené továrenské nastavenia (čím odstránite všetky vaše osobné údaje) v časti Nastavenia &gt; Zálohovať a obnoviť.</string>
+  <string name="remove_account_failed">Niektoré aplikácie vyžadujú tento účet. Odstrániť ich môžete obnovením zariadenia na predvolené továrenské nastavenia (čím odstránite všetky vaše osobné údaje) v časti Nastavenia &gt; Zálohovať a obnoviť.</string>
   <string name="remove_account_label">Odstrániť účet</string>
   <string name="remove_device_admin">Deaktivovať</string>
   <string name="remove_from_frequently_fragment">Odstrániť \"%s\" z častého nastavenia?</string>
@@ -1645,7 +1645,7 @@ skúste:
   <string name="restriction_location_enable_title">Poloha</string>
   <string name="restriction_menu_change_pin">Zmeniť kód PIN</string>
   <string name="restriction_menu_reset">Odstrániť obmedzenia</string>
-  <string name="restriction_nfc_enable_summary">Povoliť výmenu údajov, ak sa tablet dotýka iného zariadenia</string>
+  <string name="restriction_nfc_enable_summary">Povoliť výmenu údajov, ak sa zariadenie dotýka iného zariadenia</string>
   <string name="restriction_nfc_enable_title">NFC</string>
   <string name="restriction_settings_title">Obmedzenia</string>
   <string name="restriction_wifi_config_summary">Povoliť úpravu nastavení sietí Wi-Fi a mobilných sietí</string>
@@ -1663,7 +1663,7 @@ skúste:
   <string name="roaming_warning">Ak povolíte dátové služby pri roamingu, môžu sa účtovať vysoké poplatky.</string>
   <string name="roaming_warning_multiuser">"Ak povolíte dátové služby pri roamingu, môžu sa účtovať vysoké poplatky za roaming!
 
-Toto nastavenie ovplyvní všetkých používateľov tohto tabletu."</string>
+Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="rssi_label">RSSI:</string>
   <string name="running_process_item_removed_user_label">Odstránený používateľ</string>
   <string name="running_process_item_user_label">Používateľ: %1$s</string>
@@ -1674,7 +1674,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto tabletu."</string>
   <string name="runningservicedetails_processes_title">Procesy</string>
   <string name="runningservicedetails_services_title">Služby</string>
   <string name="runningservicedetails_settings_title">Spustená aplikácia</string>
-  <string name="runningservicedetails_stop_dlg_text">Ak túto službu zastavíte, niektoré funkcie vášho tabletu nemusia fungovať. Ich funkčnosť sa obnoví až po vypnutí tabletu a jeho opätovnom zapnutí.</string>
+  <string name="runningservicedetails_stop_dlg_text">Ak túto službu zastavíte, niektoré funkcie vášho zariadenia nemusia fungovať. Ich funkčnosť sa obnoví až po vypnutí zariadenia a jeho opätovnom zapnutí.</string>
   <string name="runningservicedetails_stop_dlg_title">Zastaviť systémovú službu?</string>
   <string name="runningservices_settings_summary">Zobrazenie a ovládanie aktuálne spustených služieb</string>
   <string name="runningservices_settings_title">Spustené služby</string>
@@ -1771,7 +1771,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto tabletu."</string>
   <string name="security_privacy_settings_title">Zabezpečenie súkromia</string>
   <string name="security_relative">Bezpečnosť</string>	
   <string name="security_settings_billing_desc">Táto aplikácia vám môže účtovať poplatky:</string>
-  <string name="security_settings_desc">Táto aplikácia môže pristupovať k nasledujúcim funkciám tabletu:</string>
+  <string name="security_settings_desc">Táto aplikácia môže pristupovať k nasledujúcim funkciám zariadenia:</string>
   <string name="security_settings_desc_multi">Táto aplikácia môže pristupovať k nasledujúcim aplikáciám v zariadení. Niektoré z týchto povolení sú s cieľom zlepšenia výkonu a zníženia využívania pamäte k dispozícii aj pre aplikáciu %1$s, ktorá sa spúšťa v rámci rovnakého procesu ako aplikácia %2$s:</string>
   <string name="security_settings_premium_sms_desc">Odoslať prémiovú správu SMS</string>
   <string name="security_settings_summary">Moja poloha, odomknutie obrazovky, zámok SIM, zámok ukladacieho priestoru poverení</string>
@@ -1854,8 +1854,8 @@ Kód PIN je zrejme nesprávny."</string>
 Nepodporovaná SIM."</string>
   <string name="sim_lock_failed">"Stav zámku karty SIM nie je možné zmeniť.
 Zrejme ste zadali nesprávny kód PIN."</string>
-  <string name="sim_lock_off">Ak chcete použiť tablet, musíte zadať kód PIN</string>
-  <string name="sim_lock_on">Ak chcete použiť tablet, musíte zadať kód PIN</string>
+  <string name="sim_lock_off">Ak chcete použiť zariadenie, musíte zadať kód PIN</string>
+  <string name="sim_lock_on">Ak chcete použiť zariadenie, musíte zadať kód PIN</string>
   <string name="sim_lock_settings">Nastavenia zámky karty SIM</string>
   <string name="sim_lock_settings_category">Nastavenia zámky karty SIM</string>
   <string name="sim_lock_settings_title">Zámka karty SIM</string>
@@ -2149,7 +2149,7 @@ Spolo&amp;#269;nos&amp;#357; Google pomocou nej synchronizuje &amp;#250;daje a u
   <string name="usage_type_gps">GPS</string>
   <string name="usage_type_no_coverage">Doba bez signálu</string>
   <string name="usage_type_on_time">Doba zapnutia</string>
-  <string name="usage_type_phone">Tablet</string>
+  <string name="usage_type_phone">Zariadenie</string>
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Zakázať režim spánku</string>
   <string name="usage_type_wifi_running">Pripojenie Wi-Fi aktívne</string>
@@ -2183,7 +2183,7 @@ Spolo&amp;#269;nos&amp;#357; Google pomocou nej synchronizuje &amp;#250;daje a u
   <string name="user_add_user_item_summary">Používatelia majú svoje vlastné aplikácie a obsah</string>
   <string name="user_add_user_item_title">Používateľ</string>
   <string name="user_add_user_menu">Pridať používateľa alebo profil</string>
-  <string name="user_add_user_message_long">"Toto zariadenie môžete zdieľať aj s inými ľuďmi. Stačí vytvoriť ďalších používateľov. Každý používateľ má svoj vlastný priestor, ktorý si môže prispôsobiť pomocou aplikácií, tapety a pod. Používatelia si môžu prispôsobiť aj nastavenia tabletu, ktoré majú vplyv na ostatných (napr. nastavenia siete Wi-Fi).
+  <string name="user_add_user_message_long">"Toto zariadenie môžete zdieľať aj s inými ľuďmi. Stačí vytvoriť ďalších používateľov. Každý používateľ má svoj vlastný priestor, ktorý si môže prispôsobiť pomocou aplikácií, tapety a pod. Používatelia si môžu prispôsobiť aj nastavenia zariadenia, ktoré majú vplyv na ostatných (napr. nastavenia siete Wi-Fi).
 
 Keď vytvoríte nového používateľa, táto osoba musí prejsť procesom nastavenia.
 
@@ -2195,8 +2195,8 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="user_add_user_type_title">Pridať</string>
   <string name="user_adding_new_user">Pridáv. nového používateľa...</string>
   <string name="user_cannot_add_accounts_message">Profily s obmedzeniami nemôžu pridávať účty</string>
-  <string name="user_cannot_manage_message">Používateľov môže spravovať iba vlastník tabletu.</string>
-  <string name="user_confirm_remove_message">Miesto v pamäti a údaje používateľa sa z tabletu odstránia. Táto akcia sa nedá vrátiť späť.</string>
+  <string name="user_cannot_manage_message">Používateľov môže spravovať iba vlastník zariadenia.</string>
+  <string name="user_confirm_remove_message">Miesto v pamäti a údaje používateľa sa zo zariadenia odstránia. Táto akcia sa nedá vrátiť späť.</string>
   <string name="user_confirm_remove_self_message">Prídete o miesto v pamäti a údaje v tomto zariadení. Táto akcia sa nedá vrátiť späť.</string>
   <string name="user_confirm_remove_self_title">Chcete odstrániť svoj profil?</string>
   <string name="user_confirm_remove_title">Odstrániť používateľa?</string>
@@ -2231,7 +2231,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="user_nickname">Prezývka</string>
   <string name="user_owner">Vlastník</string>
   <string name="user_picture_title">ID fotografie</string>
-  <string name="user_profile_confirm_remove_message">Z tabletu sa odstráni miesto v pamäti a údaje profilu. Táto akcia sa nedá vrátiť späť.</string>
+  <string name="user_profile_confirm_remove_message">Zo zariadenia sa odstráni miesto v pamäti a údaje profilu. Táto akcia sa nedá vrátiť späť.</string>
   <string name="user_profile_confirm_remove_title">Chcete odstrániť profil?</string>
   <string name="user_remove_user_menu">Odstrániť %1$s zo zariadenia</string>
   <string name="user_rename">PREMENOVAŤ</string>
@@ -2375,7 +2375,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="wifi_advanced_mac_address_title">Adresa MAC</string>
   <string name="wifi_advanced_settings_label">Nastavenia adresy IP</string>
   <string name="wifi_advanced_titlebar">Rozšírené nastavenia Wi-Fi</string>
-  <string name="wifi_and_mobile_skipped_message">UPOZORNENIE: Tablet nebude môcť overiť aktuálnosť vášho softvéru, až kým nebudete mať pripojenie k internetu.</string>
+  <string name="wifi_and_mobile_skipped_message">UPOZORNENIE: Zariadenia nebude môcť overiť aktuálnosť vášho softvéru, až kým nebudete mať pripojenie k internetu.</string>
   <string name="wifi_api_test">Wi-Fi API</string>
   <string name="wifi_auto_connect">Auto pripojenie</string>
   <string name="wifi_available_title">Pripojiť k Wi-Fi</string>
@@ -2499,7 +2499,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="wifi_quick_toggle_summary">Zapnúť Wi-Fi</string>
   <string name="wifi_quick_toggle_title">Wi-Fi</string>
   <string name="wifi_remembered">Uložené</string>
-  <string name="wifi_required_info_text">Tablet potrebuje na dokončenie nastavení prístup k sieti Wi-Fi. Po nastavení môžete prepínať medzi mobilným dátovým pripojením a sieťou Wi-Fi.</string>
+  <string name="wifi_required_info_text">Zariadenie potrebuje na dokončenie nastavení prístup k sieti Wi-Fi. Po nastavení môžete prepínať medzi mobilným dátovým pripojením a sieťou Wi-Fi.</string>
   <string name="wifi_save">Uložiť</string>
   <string name="wifi_scan_always_available">Vyhľadávanie vždy zapnuté</string>
   <string name="wifi_scan_always_available_summary">Povoliť službe určovania polohy Google a ostatným aplikáciám vyhľadávať siete aj v prípade, že je sieť Wi-Fi vypnutá</string>
@@ -2608,7 +2608,7 @@ môžete použiť inú sieť"</string>
   <string name="wifi_skip_anyway">Preskočiť aj tak</string>
   <string name="wifi_skipped_message">"UPOZORNENIE: Operátor môže účtovať ďalšie poplatky za dáta.
 
-Nastavenie tabletu môže vyžadovať prenos významného množstva dát."</string>
+Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</string>
   <string name="wifi_speed">Rýchlosť pripojenia</string>
   <string name="wifi_ssid">Identifikátor SSID siete</string>
   <string name="wifi_ssid_hint">Zadajte identifikátor SSID</string>
