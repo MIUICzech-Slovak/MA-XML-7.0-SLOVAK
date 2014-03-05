@@ -195,7 +195,7 @@
     <string name="folder_name">Názov zložky</string>
     <string name="forward">Dopredu</string>
     <string name="geolocation_permissions_prompt_dont_share">Odmietnuť</string>	
-    <string name="geolocation_permissions_prompt_message">%s chce zistiť vašu polohu</string>	
+    <string name="geolocation_permissions_prompt_message">chce zistiť vašu polohu</string>	
     <string name="geolocation_permissions_prompt_remember">Zapamätať výber</string>	
     <string name="geolocation_permissions_prompt_share">Zdieľať polohu</string>	
     <string name="geolocation_permissions_prompt_toast_allowed">Táto stránka má prístup k vašej polohe. Zmeniť to môžete v Nastavenia > Rozšírené > Obrazovka web stránky.</string>	
