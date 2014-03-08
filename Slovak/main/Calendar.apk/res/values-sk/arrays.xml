@@ -8,9 +8,8 @@
         <item>Alarm</item>
     </string-array>    
     <string-array name="reminder_minutes_labels">
-	<item>Nikdy</item>
         <item>0 minút</item>
-	<item>1 minúta</item>
+	    <item>1 minúta</item>
         <item>5 minút</item>
         <item>10 minút</item>
         <item>15 minút</item>
@@ -28,8 +27,8 @@
     </string-array>
 	<string-array name="preferences_default_reminder_labels">
         <item>Žiadne</item>
-	<item>0 minut</item>        
-	<item>1 minúta</item>
+	    <item>0 minut</item>        
+	    <item>1 minúta</item>
         <item>5 minút</item>
         <item>10 minút</item>
         <item>15 minút</item>
@@ -51,147 +50,105 @@
         <item>Nedeľa</item>
         <item>Pondelok</item>
     </string-array>
-    <string-array name="timezone_labels">
-        <item>Marshallove ostrovy</item>
-        <item>Midwayské ostrovy</item>
-        <item>Havaj</item>
-        <item>Aljaška</item>
-        <item>Tichomorie</item>
-        <item>Tijuana</item>
-        <item>Arizona</item>
-        <item>Chihuahua</item>
-        <item>Horský čas</item>
-        <item>Stredná Amerika</item>
-        <item>Centrálný čas</item>
-        <item>Mexico City</item>
-        <item>Saskatchewan</item>
-        <item>Bogotá</item>
-        <item>Východný čas</item>
-        <item>Venezuela</item>
-        <item>Atlantický čas</item>
-        <item>Atlantic Time (Canada)</item>
-        <item>Manaus</item>
-        <item>Santiago</item>
-        <item>Newfoundland</item>
-        <item>Brazília</item>
-        <item>Buenos Aires</item>
-        <item>Grónsko</item>
-        <item>Montevideo</item>
-        <item>Stredoatlantický</item>
-        <item>Azory</item>
-        <item>Kapverdské ostrovy</item>
-        <item>Casablanca</item>
-        <item>Londýn, Dublin</item>
-        <item>Amsterdam, Berlín</item>
-        <item>Belehrad</item>
-        <item>Brusel</item>
-        <item>Sarajevo</item>
-        <item>Windhoek</item>
-        <item>Západoafrický čas</item>
-        <item>Ammán, Jordánsko</item>
-        <item>Atény, Istanbul</item>
-        <item>Bejrút, Libanon</item>
-        <item>Káhira</item>
-        <item>Helsinky</item>
-        <item>Jeruzalem</item>
-        <item>Minsk</item>
-        <item>Harare</item>
-        <item>Bagdád</item>
-        <item>Moskva</item>
-        <item>Kuvajt</item>
-        <item>Nairobi</item>
-        <item>Teherán</item>
-        <item>Baku</item>
-        <item>Tbilisi</item>
-        <item>Jerevan</item>
-        <item>Dubaj</item>
-        <item>Kábul</item>
-        <item>Islámábád, Karáčí</item>
-        <item>Uralsk</item>
-        <item>Jekatěrinburg</item>
-        <item>Kalkata</item>
-        <item>Srí Lanka</item>
-        <item>Káthmandú</item>
-        <item>Astana</item>
-        <item>Rangún</item>
-        <item>Krasnojarsk</item>
-        <item>Bangkok</item>
-        <item>Peking</item>
-        <item>Hongkong</item>
-        <item>Irkutsk</item>
-        <item>Kuala Lumpur</item>
-        <item>Perth</item>
-        <item>Tchaj-pej</item>
-        <item>Soul</item>
-        <item>Tokio, Ósaka</item>
-        <item>Jakutsk</item>
-        <item>Adelaide</item>
-        <item>Darwin</item>
-        <item>Brisbane</item>
-        <item>Hobart</item>
-        <item>Sydney, Canberra</item>
-        <item>Vladivostok</item>
-        <item>Guam</item>
-        <item>Magadan</item>
-        <item>Auckland</item>
-        <item>Fidži</item>
-        <item>Tonga</item>
-    </string-array>
     <string-array name="availability">
         <item>Zaneprázdnený</item>
         <item>Dostupný</item>
-	<item>Nezáväzný</item>
-    </string-array>      
+        <item>Možno</item>
+    </string-array>
     <string-array name="visibility">
-        <item>Predvolená</item>
-        <item>Súkromná</item>
-        <item>Verejná</item>
+        <item>Predvolené</item>
+        <item>Súkromné</item>
+        <item>Verejné</item>
     </string-array>
     <string-array name="ordinal_labels">
-        <item>1.</item>
-        <item>2.</item>
-        <item>3.</item>
-        <item>4.</item>
-        <item>posledné</item>
+        <item>prvý</item>
+        <item>druhý</item>
+        <item>tretí</item>
+        <item>štvrtý</item>
+        <item>posledný</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>(Bez odpovede)</item>
+        <item>Bez odpovede</item>
         <item>Áno</item>
         <item>Možno</item>
         <item>Nie</item>
     </string-array>
     <string-array name="delete_repeating_labels">
         <item>Len táto udalosť</item>
-        <item>Táto a budúce udalosti</item>
+        <item>Táto a ďalšie udalosti</item>
         <item>Všetky udalosti</item>
     </string-array>
     <string-array name="delete_repeating_labels_no_selected">
-        <item>Táto a budúce udalosti</item>
+        <item>Táto a ďalšie udalosti</item>
         <item>Všetky udalosti</item>
     </string-array>
     <string-array name="change_response_labels">
         <item>Len táto udalosť</item>
-        <item>Všetky udalosti</item>
+        <item>Všetky nasledujúce udalosti</item>
     </string-array>
-	<string-array name="buttons_list">
+    <string-array name="buttons_list">
         <item>Deň</item>
         <item>Týždeň</item>
         <item>Mesiac</item>
         <item>Agenda</item>
     </string-array>
-    <string-array name="quick_response_defaults">
-        <item>Budem trochu meškať.</item>
-        <item>Budem tam o 10min.</item>
-        <item>Začnite bezomňa.</item>
-        <item>"Sorry, ale nestíham. Musíme to presunúť na inokedy."</item>
-    </string-array> 
-   <string-array name="prefEntries_alerts_vibrateWhen">
-        <item>Vždy</item>
-        <item>Len v tichom režime</item>
-        <item>Nikdy</item>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Len ak odmietnutá</item>
+        <item>Ak odmietnutá alebo neodpovedaná</item>
     </string-array>
-    <string-array name="widget_style_list">
-        <item>Čierny priehľadný</item>
-        <item>Bielé pozadie</item>
+   <string-array name="repeat_by_nth_sun">
+        <item>každú prvú Nedeľu</item>
+        <item>každú druhú Nedeľu</item>
+        <item>každú tretiu Nedeľu</item>
+        <item>každú štvrtú Nedeľu</item>
+        <item>každú poslednú Nedeľu</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>každý prvý Pondelok</item>
+        <item>každý druhý Pondelok</item>
+        <item>každý tretí Pondelok</item>
+        <item>každý štvrtý Pondelok</item>
+        <item>každý posledný Pondelok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>každý prvý Utorok</item>
+        <item>každý druhý Utorok</item>
+        <item>každý tretí Utorok</item>
+        <item>každý štvrtý Utorok</item>
+        <item>každý posledný Utorok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>každú prvú Stredu</item>
+        <item>každú druhú Stredu</item>
+        <item>každú tretiu Stredu</item>
+        <item>každú štvrtú Stredu</item>
+        <item>každú poslednú Stredu</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>každý prvý Štvrtok</item>
+        <item>každý druhý Štvrtok</item>
+        <item>každý tretí Štvrtok</item>
+        <item>každý štvrtý Štvrtok</item>
+        <item>každý posledný Štvrtok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>každý prvý Piatok</item>
+        <item>každý druhý Piatok</item>
+        <item>každý tretí Piatok</item>
+        <item>každý štvrtý Piatok</item>
+        <item>každý posledný Piatok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>každú prvú Sobotu</item>
+        <item>každú druhú Sobotu</item>
+        <item>každú tretiu Sobotu</item>
+        <item>každú štvrtú Sobotu</item>
+        <item>každú poslednú Sobotu</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Budem chvíľu meškať.</item>
+        <item>Budem tam o 10 min.</item>
+        <item>Začnite bezomna.</item>
+        <item>"Prepač ale nestíham, Naplánujeme na budúce."</item>
     </string-array>
 </resources>

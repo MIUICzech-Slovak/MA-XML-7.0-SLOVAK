@@ -1,18 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+  <string name="activate">Aktivovať</string>
+  <string name="activate_fail_notification_title">Znovu aktivovaťc</string>
   <string name="app_name">Správca účtu Xiaomi (MIUI)</string> 
+  <string name="check_phone_error_title">Synchronizácia nie je povolená</string>
+  <string name="check_phone_io_error">Chyba siete</string>
+  <string name="error_forbidden">NAstali problémy s vašim účtom: Synchr. deaktivovaná.</string>
+  <string name="error_not_acceptable">Chyba servera: Synchr. deaktivovaná.</string>
+  <string name="error_title">Chyba Synchr.</string>
+  <string name="error_unauthorized">Príliš mnoho pokusov o prihlásenie: Synchr. deaktivovaná.</string>
   <string name="find_device">Nájsť telefón</string>
+  <string name="find_device_noise_title">Nájsť telefón podľa zvuku</string>
   <string name="find_device_stop_noise">Kliknite na \"OK\" pre zastavenie alarmu</string>
+  <string name="no_sim">SIM karta nenájdená</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Odporúča sa zapnúť, inak môže spotrebovať Vaše dáta</string>
   <string name="pref_title_sync_contacts_title">Synch. kontakty</string>
-  <string name="pref_title_sync_my_profile_title">Synch. môj profil</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Použiť iba Wi-Fi pre zobrazenie fotky</string>
-  <string name="sub_sync_item_sms_summary">Odporúča sa zapnúť, inak môže spotrebovať Vaše dáta</string>
-  <string name="sub_sync_item_sms_title_wifi_only">Použiť iba Wi-Fi pre synch. MMS / SMS</string>
+  <string name="send_sms_for_sync_notice">Aktivačná SMS bude odoslaná.</string>
+  <string name="send_sms_for_sync_title">Synchronizácia nie je aktivovaná</string>
+  <string name="sim_changed_reactivate_int_notice">Súčasná SIM karta je deaktivovaná. Aktivačná SMS bude odoslaná automaticky.</string>
+  <string name="sim_changed_reactivate_notice">Súčasná SIM karta je deaktivovaná. Aktivačná SMS bude odoslaná automaticky.</string>
+  <string name="sim_in_airplane_mode">Musíte deaktivovať režim Lietadlo.</string>
+  <string name="sim_locked">SIM karta je uzamknutá</string>
+  <string name="sim_not_ready">SIM karta sa používa. Skúste to neskôr.</string>
+  <string name="sim_unavailable">SIM karta nedostupná</string>
+  <string name="sub_sync_item_sms_summary">"Nepoužívajte mobilne dáta pre synchronizáciu MMS"</string>
+  <string name="sub_sync_item_sms_title_wifi_only">Synchr. MMS len cez Wi-Fi</string>
   <string name="sync_item_sms_summary">Prečítané SMS budú automaticky synchronizované</string>
-  <string name="sync_item_sms_title">Synch. SMS</string>
-  <string name="find_device_noise_title">Nájsť telefón podľa zvuku</string>
-  <string name="sync_item_calllog_title">Synch. záznamy o volaní</string>
-  <string name="sync_item_calllog_summary">Synchronizovať záznamy o prichádzajúcich a odchádzajúcich hovoroch</string>
+  <string name="sync_item_sms_title">Synchr. SMS</string>
  </resources>

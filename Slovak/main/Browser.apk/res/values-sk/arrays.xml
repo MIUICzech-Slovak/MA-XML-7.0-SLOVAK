@@ -70,8 +70,8 @@
         <item>Obrovské</item>
     </string-array>
     <string-array name="pref_ua_choices">
+        <item>Predvolené</item>
         <item>iPad</item>
         <item>Desktop</item>
-        <item>Android Pad</item>
     </string-array>
 </resources>
