@@ -16,13 +16,4 @@
         <item quantity="zero">%1$d</item>
         <item quantity="one">%1$d</item>
     </plurals>
-    <plurals name="make_albums_available_offline">
-        <item quantity="other">Sprístupniť albumy offline.</item>
-        <item quantity="one">Sprístupniť album offline.</item>
-    </plurals>
-    <plurals name="number_of_cloudimages">
-        <item quantity="other">Obrázkov: %1$d</item>
-        <item quantity="zero">Obrázkov: %1$d</item>
-        <item quantity="one">Obrázkov: %1$d</item>
-    </plurals>
 </resources>

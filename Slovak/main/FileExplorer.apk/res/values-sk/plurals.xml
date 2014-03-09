@@ -5,20 +5,9 @@
         <item quantity="other">položiek: %d</item>
         <item quantity="one">1 položka</item>
     </plurals>
-    <plurals name="delete_files_confirm">
-        <item quantity="other">Vymazať súbory (%1$d)</item>
-        <item quantity="one">Vymazať 1 súbor</item>
-    </plurals>
-    <plurals name="delete_folders_confirm">
-        <item quantity="other">" a zložky (%1$d)?"</item>
-        <item quantity="one">" a 1 zložku?"</item>
-    </plurals>
-    <plurals name="ui_bar_txt_download_progress">
-        <item quantity="other">Ostáva stiahnuť súborov: %1$d</item>
-        <item quantity="one">Ostáva stiahnuť 1 súbor</item>
-    </plurals>
-    <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="other">Ostáva nahrať súborov: %1$d</item>
-        <item quantity="one">Ostáva nahrať súbor</item>
+    <plurals name="numSelectedFile">
+        <item quantity="other">Vybraných: %1$d</item>
+        <item quantity="zero">Vybraných: %1$d</item>
+        <item quantity="one">Vybraných: %1$d</item>
     </plurals>
 </resources>

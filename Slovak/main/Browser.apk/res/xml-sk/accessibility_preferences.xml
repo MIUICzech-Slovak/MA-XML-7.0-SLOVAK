@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<PreferenceScreen
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <PreferenceCategory>
-        <CheckBoxPreference android:title="@string/pref_content_autofit" android:summary="@string/pref_content_autofit_summary" android:key="autofit_pages" android:defaultValue="true" />
-    </PreferenceCategory>
-</PreferenceScreen>

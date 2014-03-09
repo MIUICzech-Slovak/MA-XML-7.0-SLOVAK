@@ -13,7 +13,6 @@
   <string name="add_to_cloud_fail_too_many_items">Operáciu nie je možne dokončiť, je zvolených príliš mnoho položiek</string>
   <string name="add_to_cloud_failed_message_with_count">%2$s súborov nie je možné pridať do cloudu: %1$s.</string>
   <string name="add_to_cloud_file_exist_message">Fotografia už existuje v tomto albume.</string>
-  <string name="add_to_cloud_file_not_exist_message">Súbor neexistuje.</string>
   <string name="add_to_cloud_folder">Pridať do Cloud zložky</string>
   <string name="add_to_cloud_image_limit_exceeded_message">Prekročený limit obrázkov.</string>
   <string name="add_to_cloud_local_space_full_message">Úložisko je plné.</string>
@@ -40,14 +39,12 @@
   <string name="albums">Albumov</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Oznam</string>
-  <string name="alert_message_initial_cloud">Systém automaticky odošle Vaše staré a nové fotografie len ak ste pripojení na sieť Wi-Fi.</string>
   <string name="alert_message_open_sync">Vyžaduje sa synchronizácia, prajete si synchronizovať teraz?</string>
   <string name="already_apply_album">Otvoriť %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Tapety</string>
   <string name="aperture">Clona</string> 
   <string name="app_name">Galéria</string>
-  <string name="apply_successfully">Pripojený k albumu.</string>
   <string name="appwidget_empty_text">Žiadne snímky.</string>
   <string name="appwidget_title">Fotogaléria</string>
   <string name="auto">Auto</string>
@@ -71,7 +68,6 @@
   <string name="camera_folder_display_name">Fotografie</string>
   <string name="camera_setas_wallpaper">Tapeta</string>
   <string name="camera_view_none_message">Tu budú zobrazené Vaše fotografie.</string>
-  <string name="can_modified">Povoliť užívateľom pridať fotografie</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_hint">Operácia je zrušená</string>
   <string name="cannot_delete_sharer_photo">Nie je možné vymazať %s položiek nahraných niekym iným.</string>
@@ -84,7 +80,6 @@
   <string name="clear_thumbnail_cache">Vymazať cache náhľadov</string>
   <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria prehľadá mediálne súbory a vytvorí nové náhľady.</string>
   <string name="clear_thumbnail_cache_summary">Prezeranie galérie vytvorí náhľady. Vymazanie medzipamäte uvoľní miesto na úložisku.</string>
-  <string name="click_to_enter_camera">Otvoriť fotoaparát</string>
   <string name="click_top_right">Stlač ikonu vpravo hore</string>
   <string name="close">Zatvoriť</string>
   <string name="cloud_album_more_settings">Cloud album(y) a auto upload</string>
@@ -124,12 +119,12 @@ spoločne!"</string>
   <string name="confirm_delete_this_video">Vymazať toto video?</string>
   <string name="confirm_delete_videos">%s</string>
   <string name="confirm_download">"Potrebujete stiahnuť %s. Toto okno sa už viac nezobrazí."</string>
+  <string name="confirm_download_video_message">Musíte dokončiť sťahovanie pred spustením videa. Sťahovanie bude pokračovať ak sa pripojíte na Wi-Fi.</string>
+  <string name="confirm_download_video_title">Stiahnuť video</string>
   <string name="contact_photo">Obrázok kontaktu</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>
   <string name="context_menu_copy">Kopírovať</string>
   <string name="context_menu_copy_notice">Skopírované do schránky</string>
-  <string name="context_menu_new_contact">Nový kontakt</string>
-  <string name="context_menu_view_contact">Zobraziť kontakt</string>
   <string name="contrast">Kontrast</string>
   <string name="create_new_cloud_folder">Vytvoriť novú zložku v Cloude</string>
   <string name="crop">Orezať</string>
@@ -145,7 +140,6 @@ spoločne!"</string>
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Mobile</string>
   <string name="delete"> Vymazať</string>
-  <string name="delete_fail_too_many_items">Nepodarilo sa vymazať, je vybraných príliš mnoho položiek</string>
   <string name="delete_file">Ste si istý, že chcete vymazať tieto súbory (%1$d)?</string>
   <string name="delete_files_and_folders">Ste si istý, že chcete vymazať tieto súbory (%1$d) a zložky (%2$d)?</string>
   <string name="delete_folder">Ste si istý, že chcete vymazať tieto zložky (%1$d)?</string>
@@ -157,6 +151,7 @@ spoločne!"</string>
   <string name="details">Detaily</string>
   <string name="details_sharer">Zdieľané od</string>
   <string name="details_title">%1$d z %2$d:</string>
+  <string name="device_model">Zariadenie</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="documentary">Dokument</string>
   <string name="done">Hotovo</string>
@@ -170,7 +165,6 @@ spoločne!"</string>
   <string name="edit">Upraviť</string>
   <string name="edited_photo_bucket_name">Upravené</string>
   <string name="email_picker_title">Pridať zdieľaný E-mail</string>
-  <string name="empty_album">Žiadne obrázky/videá.</string>
   <string name="enable_cloud_for_sharing">Je potrebné povoliť cloudové album pre zobrazenie zdieľaných fotografií.</string>
   <string name="enter_email_hint">"Zadajte E-mail "</string>
   <string name="error_album_not_exist">"Album neexistuje."</string>
@@ -195,7 +189,6 @@ spoločne!"</string>
   <string name="facetan">Stmavenie tváre</string>
   <string name="fail_hint">Operácia zlyhala.</string>
   <string name="fail_init_gallery_db_helper">Aplikácia je zamknutá, nemožno otvoriť databázu galérie, pamäť je plná.</string>
-  <string name="fail_to_apply">Pripojenie k albumu zlyhalo.</string>
   <string name="fail_to_pick_email">Nie je vybraný žiaden E-mail</string>
   <string name="fail_to_sync_album">Nastala chyba pri synchronizácií so serverom. Skontrolujte nastavenie siete.</string>
   <string name="file_not_exist_message">Súbor neexistuje.</string>
@@ -230,9 +223,13 @@ spoločne!"</string>
   <string name="height">Výška</string>
   <string name="highlight">Jas</string>
   <string name="home_my_captured_items">" snímkov"</string>
+  <string name="home_page_tab_cloud">Cloud</string>
+  <string name="home_page_tab_local">Lokálne</string>
+  <string name="home_page_tab_photo">Fotografie</string>
   <string name="how_many_pics">%d\u0020Snímkov</string>
   <string name="how_many_sub_folders">%d\u0020Priečinkov</string>
   <string name="how_many_videos">%d\u0020Videí</string>
+  <string name="image_download_item_title">Sťiahnúť obrázok(%s)</string>
   <string name="image_quota_fulfiled">"Nie je možné vytvoriť obrázok, Počet obrázkov presiahol limit."</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import kompletný</string>
@@ -256,8 +253,11 @@ spoločne!"</string>
   <string name="kick_sharer_successfully">Úspešne odstránené zo zdieľaných</string>
   <string name="loading">Nahrávam...</string>
   <string name="loading_failure">Snímku sa nepodarilo nahrať</string>
+  <string name="loading_image">Sťahovanie obrázku...</string>
   <string name="loading_members">Načítavanie členov...</string>
+  <string name="loading_suspend">Sťahovanie pozastavené: Bude pokračovať až po pripojení na Wi-Fi</string>
   <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
+  <string name="loading_video">Sťahovanie videa...</string>
   <string name="local_albums">Lokálne Albumy</string>
   <string name="location">Poloha</string>
   <string name="locations">Miesta</string>
@@ -286,9 +286,7 @@ spoločne!"</string>
   <string name="mimetype">MIME písmo</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Screenshoty</string>
-  <string name="model">Model</string>
-  <string name="modify_allow_hint">Je povolené pridávanie nových fotografií</string>
-  <string name="modify_disallow_hint">Nie je povolené pridávanie nových fotografií</string>
+  <string name="modified_time">Čas úpravy</string>
   <string name="more">Viac</string>
   <string name="move">Presunúť</string>
   <string name="move_to_cloud_album">Premiestniť do Cloudu</string>
@@ -335,10 +333,12 @@ spoločne!"</string>
   <string name="path">Cesta</string>
   <string name="people">Ľudia</string>
   <string name="photo_page_always_rotate">Automaticky otočiť</string>
+  <string name="photo_page_detail_show_in_the_map">Zobraziť polohu na mape</string>
   <string name="photo_page_save_image">Uložiť</string>
   <string name="photo_page_save_uri_image_fail">Ukladanie snímky zlyhalo.</string>
   <string name="photo_page_save_uri_image_ok">Snímka bola uložená do zložky fotoaparátu.</string>
   <string name="photo_saved">Snímka uložená v %s albume</string>
+  <string name="photo_size">Veľkosť</string>
   <string name="photoeditor_name">Foto štúdio</string>
   <string name="photos">"Snímkov"</string>
   <string name="pick_too_many_recipients">Príliš mnoho príjemcov</string>
@@ -365,7 +365,6 @@ spoločne!"</string>
   <string name="rename_failed">Premenovať sa nepodarilo</string>
   <string name="rename_failed_duplicated_name">Tento názov už existuje, nemožno premenovať</string>
   <string name="renren_image">RenRen</string>
-  <string name="request_qr_code">Vytváranie QR kódu...</string>
   <string name="request_qr_code_failed">Vytváranie QR kódu zlyhalo, skúste to znova</string>
   <string name="request_sms_url_failed">Vytváranie URL pre zdieľanie cez SMS zlyhalo</string>
   <string name="request_sms_url_msg">Vytváranie URL pre zdieľanie cez SMS...</string>
@@ -380,17 +379,13 @@ spoločne!"</string>
   <string name="save_photo">Uložiť upravenú snímku?</string>
   <string name="saving_failure">Snímka nemôže byť uložená</string>
   <string name="saving_image">Ukladám obrázok...</string>
-  <string name="scan_barcode">Skenovať</string>
   <string name="scan_barcode_guide">Pre zobrazenie QR kódu, stlačte tlačidlo zdieľať v pravom hornom rohu.</string>
   <string name="scan_barcode_to_join">Načítať QR kód pre vstup do albumu.</string>
-  <string name="scan_qr_code">Povoliť ostatným oskenovať QR kód pre zobrazenie tohto albumu</string>
   <string name="scan_qr_code_buttom_text">QR kód pre zobrazenie tohto albumu.</string>
   <string name="scan_qr_code_failure">Skenovanie zlyhalo.</string>
-  <string name="scan_qr_code_top_text">Môžu prezerať a pridávať fotografie.</string>
   <string name="screensaver_activate_mode">Prezentácia</string>
   <string name="screensaver_activate_only_charging">Len počas nabíjania</string>
   <string name="screensaver_category">Šetrič displeja</string>
-  <string name="screensaver_no_data">Žiadne obrázky v albume.</string>
   <string name="screensaver_path">Album:</string>
   <string name="screensaver_path_not_set">Nenastavené</string>
   <string name="sd_not_available">SD karta nie je vložená alebo je nedostupná</string>
@@ -404,7 +399,6 @@ spoločne!"</string>
   <string name="send">Odoslať</string>
   <string name="send_multiple_files_hint_format">Odoslať viac súborov (%s)</string>
   <string name="send_public_url">Odoslať URL albumu</string>
-  <string name="send_to_cloud_failed_message">Odoslanie položky do Cloudu zlyhalo</string>
   <string name="sepia">Sépia</string>
   <string name="set_hidden_album">Skryť album</string>
   <string name="set_image">Nastaviť obrázok ako</string>
@@ -424,19 +418,12 @@ spoločne!"</string>
   <string name="shadow">Tiene</string>
   <string name="share_album">Zdieľať album</string>
   <string name="share_album_owner">Vlastník</string>
-  <string name="share_album_qr_code">QR kód</string>
-  <string name="share_album_share_to">Zdieľať</string>
   <string name="share_album_space_full">Tento album je plný. Vymažte niektoré nepotrebné fotografie.</string>
   <string name="share_by_email_start">Pokus o zdieľanie %1$s na pozadí</string>
   <string name="share_by_email_successfully">Zdieľanie %1$s cez E-mail úspešné</string>
   <string name="share_current_album">Zdieľať tento album</string>
   <string name="share_public_url_text">Zdieľam album %1$s. Prezrite si ho na %2$s</string>
-  <string name="share_user_name">Názov</string>
   <string name="sharer_quota_fulfiled">"Nie je možné pridať na zdieľanie. Počet zdieľaných osôb pre tento album presiahol limit."</string>
-  <string name="sharer_status_accepted">Akceptované</string>
-  <string name="sharer_status_refused">Odmietnuté</string>
-  <string name="sharer_status_waiting">Čaká</string>
-  <string name="sharer_status_waitting">Čaká</string>
   <string name="sharpen">Zaostriť</string>
   <string name="show_all">Obrázky a videá</string>
   <string name="show_hidden_album">Zobraziť skryté albumy</string>
@@ -457,6 +444,7 @@ spoločne!"</string>
   <string name="slideshow_repeat_mode">Opakovať</string>
   <string name="slideshow_time_select_title">Zvoľte čas prezentácie</string>
   <string name="slideshow_time_title">Čas prezentácie</string>
+  <string name="start_slide_show">Spustiť prezentáciu</string>
   <string name="storage_all_volumes">Všetky úložné zariadenia</string>
   <string name="storage_no_space">"Nieje voľné miesto na úložisku."</string>
   <string name="straighten">Vyrovnať</string>
@@ -475,6 +463,7 @@ spoločne!"</string>
   <string name="tab_lockscreen_text">Tapeta zámku</string>
   <string name="tab_wallpaper_text">Tapeta plochy</string>
   <string name="tags">Tagy</string>
+  <string name="taken_time">Čas zhotovenia</string>
   <string name="temperature">Teplota</string>
   <string name="tencent_mobile_qq_img_save">QQ2012</string>
   <string name="tencent_qq_hd_pic">QQ HD</string>
@@ -488,8 +477,6 @@ spoločne!"</string>
   <string name="to_count">%d celkovo</string>
   <string name="too_many_recipients">Správa má príliš mnoho príjemcov (%1$s), povolených je %2$s.</string>
   <string name="try_to_send">Pokúsiť sa odoslať</string>
-  <string name="turn_left">Otočiť doľava</string>
-  <string name="turn_right">Otočiť doprava</string>
   <string name="ucdownloads_screenshot">UC Prehliadač</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Odstránenie z verejných albumov zlyhalo.</string>
@@ -497,8 +484,6 @@ spoločne!"</string>
   <string name="unpublishing">Ruší sa zverejnenie...</string>
   <string name="untagged">Neoznačené</string>
   <string name="user_alias_self">Ja</string>
-  <string name="video_download_in_process">Sťahovanie videa</string>
-  <string name="video_download_start">Začať sťahovať video</string>
   <string name="video_err">"Nie je možné prehrať video."</string>
   <string name="video_not_exist">Video sa nenašlo</string>
   <string name="view_sharers">Zdieľané s</string>
@@ -514,12 +499,4 @@ spoločne!"</string>
   <string name="widget_type_shuffle">Náhodne všetky obrázky</string>
   <string name="width">Šírka</string>
   <string name="yes">Áno</string>
-  <string name="loading_video">Sťahovanie videa...</string>
-  <string name="loading_image">Sťahovanie obrázku...</string>
-  <string name="loading_suspend">Sťahovanie pozastavené: Bude obnovené keď sa pripojíte na Wi-Fi.</string>
-  <string name="confirm_download_video_title">Stiahnuť video</string>
-  <string name="confirm_download_video_message">Nie je možné video prehrať ak nie je dokončené jeho sťahovanie. Sťahovanie bude obnovené keď sa pripojíte na Wi-Fi.</string>
-  <string name="image_download_item_title">Sťahovanie obrázka(%s)</string>
-  <string name="time_line_view">Časová línia</string>
-  <string name="folder_holder_file">Mali by ste vymazať tento súbor</string>
 </resources>
