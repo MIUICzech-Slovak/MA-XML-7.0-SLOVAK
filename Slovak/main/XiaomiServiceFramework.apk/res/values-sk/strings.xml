@@ -212,7 +212,7 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
     <string name="micloud_storage_space">Úložisko MiCloud</string>	
     <string name="micloud_summary">Prihláste sa na Xiaomi účet pre synchronizáciu kontaktov, fotografií a mnoho iných funkcií.</string>	
     <string name="micloud_title_dspt" formatted="false">"Využité %s / Celkovo %s"</string>
-    <string name="micloud_title_dspt_remain">%s ostáva</string>
+    <string name="micloud_title_dspt_remain">" / %s Ostáva"</string>
     <string name="micloud_title_full_dspt">"Dosiahli ste limit Vášho úložiska!"</string>
     <string name="micloud_user_base_info">Info o užívateľovi</string>
     <string name="micloud_user_email">E-mail</string>
