@@ -1376,7 +1376,7 @@ skúste:
   <string name="no_notification_listeners">Nie sú nainštalované žiadne aplikácie na počúvanie upozornení.</string>
   <string name="no_running_services">Nič nie je spustené.</string>
   <string name="no_services">Neaktívne</string>
-  <string name="no_update_found">Najnovšia verzia</string>
+  <string name="no_update_found">"Najnovšia verzia "</string>
   <string name="no_updates_found">"Už máte nainštalovanú najnovšiu verziu MIUI."</string>
   <string name="no_updates_warning">Žiadne nové aktualizácie pre Vaše zariadenie neboli nájdené.</string>
   <string name="no_updates_warning2">"Pokoj! upozorníme Vás ak bude dostupná nová aktualizácia."</string>

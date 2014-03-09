@@ -434,4 +434,9 @@
         <item>Tonga</item>
         <item>Jakarta</item>
     </string-array>
+    <string-array name="days">
+        <item>Včera</item>
+        <item>Dnes</item>
+        <item>Zajtra</item>
+    </string-array>
 </resources>

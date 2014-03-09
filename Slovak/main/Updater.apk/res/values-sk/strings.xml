@@ -3,8 +3,7 @@
 <resources>
     <string name="about_device">Info o telefóne</string>
     <string name="active_xiaomi_account">Aktivovať</string>
-    <string name="active_xiaomi_account_msg">"Navštívte fórum MIUI pre aktiváciu Xiaomi účtu:
-https://account.xiaomi.com/pass/serviceLogin"</string>
+    <string name="active_xiaomi_account_msg">"Navštívte fórum MIUI.com pre aktiváciu Xiaomi účtu."</string>
     <string name="active_xiaomi_account_title">Aktivovať Xiaomi účet</string>
     <string name="app_name">Aktualizácia</string>
     <string name="apply_buddy_update_info_message">Kliknutím na tlačidlo Aktualizovať, sa začne inštalácia novej verzie MIUI.</string>
@@ -28,13 +27,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="check_update_when_wifi_available">Skontrolovať dostupnosť aktualizácií len cez Wi-Fi pripojenie</string>
     <string name="checking_for_updates">Kontrola aktualizácií...</string>
     <string name="choose_recommend">Prosím vyberte, či chcete odporučiť</string>
-    <string name="comment_invalid">Zvoľte počet hviezdičiek</string>
-    <string name="comment_publish">Odoslať</string>
-    <string name="comment_sending">Odosielanie...</string>
-    <string name="comment_upload_failed">Odosielanie zlyhalo</string>
-    <string name="comment_upload_hint">Ďakujeme!</string>
-    <string name="comment_upload_not_logined">Najskôr sa prihláste</string>
-    <string name="comment_upload_success">Odoslané!</string>
     <string name="confirm_download_cancelation_dialog_message">Zrušiť sťahovanie aktualizácie?</string>
     <string name="copy_install_log">Skopírovať</string>
     <string name="current_version_text">Súčasná verzia\u0020</string>
@@ -47,9 +39,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="download_ota_rom">Stiahnuť (%s)</string>
     <string name="download_whole_rom">Stiahnuť celú ROM (%s)</string>
     <string name="downloading_description">Sťahovanie...</string>
-    <string name="edit_comment">Komentovať</string>
-    <string name="edit_comment_title">Upraviť</string>
-    <string name="edit_text_default">Napíšte svoj komentár</string>
     <string name="emegency_build">Verzia:</string>
     <string name="exception_while_downloading">Chyba pri sťahovaní aktualizácie</string>
     <string name="expect">4.Očakávania</string>
@@ -65,7 +54,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="install_file_explorer">Prosím nainštalujte správcu súborov</string>
     <string name="install_qq">Inštalovať QQ app</string>
     <string name="install_rom_from_sd">Vybrať ZIP s novou verziou MIUI</string>
-    <string name="install_sina">Inštalovať Sina app</string>
     <string name="install_whole_rom">Nie je stiahnutá správna ROM alebo zip súbor je poškodený</string>
     <string name="internal_build">Neverejná verzia</string>
     <string name="kernel_upgrade_link"/>
@@ -77,10 +65,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="mione_update_fail_title">Aktualizácia sa nepodarila</string>
     <string name="mione_update_success_title">Aktualizované</string>
     <string name="monthly_build">Mesačná verzia</string>
-    <string name="move_data_to_sdcard_not_enough_space_message">Nie je dostatok miesta na SD karte na presun %dMB dát.</string>
-    <string name="move_data_to_sdcard_title">Presunúť dáta na SD kartu</string>
-    <string name="moving_data_to_sdcard_message">"Dáta sa presúvajú na SD kartu. Prosím nevypínajte USB pripojenie alebo nevyberajte SD kartu."</string>
-    <string name="moving_data_to_sdcard_progress_format">Prenesených %1$ddKb z %2$dKb</string>
     <string name="my_best_update">Najlepší update</string>
     <string name="my_expect_update">Podľa očakávaní</string>
     <string name="my_rank">Hodnotenie:</string>
@@ -127,11 +111,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="sign_in_info"/>
     <string name="sign_in_info_rank_more"/>
     <string name="sign_in_info_total_more"/>
-    <string name="sina_share_fail">Sending failed!</string>
-    <string name="sina_share_pendding">Sending...</string>
-    <string name="sina_share_success">Sending successful!</string>
-    <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
-    <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
     <string name="stable_build">Stabilné verzie</string>
     <string name="start_update">Aktualizovať</string>
     <string name="submit">Odoslať</string>
@@ -147,7 +126,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="system_backup_helper">Aktualizácia nevymaže vaše užívateľské dáta. Avšak odporúča sa v rámci bezpečnosti tieto dáta zálohovať.</string>
     <string name="system_backup_ok_text">Zálohovať</string>
     <string name="top_secret_build">Tajná verzia</string>
-    <string name="unstable_build">Nestabilná verzia</string>
     <string name="update_comment_hint">(voliteľné)</string>
     <string name="update_comment_title">Komentovať</string>
     <string name="update_feedback">Hodnotenie aktualizácie</string>
@@ -160,7 +138,6 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="update_success">Aktualizácia prebehla úspešne!</string>
     <string name="update_success_body">na verziu %s</string>
     <string name="update_success_title">MIUI je aktualizovaná</string>
-    <string name="updater_finish_download">Sťahovanie ROM je dokončené</string>
     <string name="upgrade_close">Zavrieť</string>
     <string name="upgrade_kernel">Kernel je potrebné aktualizovať</string>
     <string name="upgrade_kernel_msg">"Verzia kernelu nesúhlasí s MIUI ROM. Musíte aktualizovať kernel manuálne. Postup aktualizácie nájdete tu:"</string>
@@ -172,5 +149,4 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
     <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
     <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
     <string name="worst_update">Zlý update</string>
-    <string name="new_update_content_notification_shade" />
 </resources>
