@@ -578,4 +578,11 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
     <string name="webview_today">Dnes</string>
     <string name="webview_yesterday">Včera</string>
     <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+    <string name="miui_content_select">Vybrať</string>
+    <string name="miui_content_select_all">Všetko</string>
+    <string name="miui_content_cut">Vystrihnúť</string>
+    <string name="miui_content_copy">Kopírovať</string>
+    <string name="miui_content_paste">Vložiť</string>
+    <string name="miui_content_web_search">Vyhľadať</string>
+    <string name="miui_content_share">Zdieľať</string>
 </resources>
