@@ -1,0 +1,370 @@
+{
+    "quicklinks":     [
+                {
+            "siteId": 01,
+            "imageId": 29,
+            "title": "Google",
+            "url": "http://www.google.com/",
+            "favicon": "",
+            "displayName": "Google",
+            "position": 0,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "http://www.google.com/",
+            "matchUrl": "http://www.google.com/"
+        },
+                {
+            "siteId": 02,
+            "imageId": 290,
+            "title": "xiaomimobile.cz",
+            "url": "http://www.xiaomimobile.cz/",
+            "favicon": "",
+            "displayName": "Xiaomimobile.cz",
+            "position": 1,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "http://www.xiaomimobile.cz/",
+            "matchUrl": "http://www.xiaomimobile.cz/"
+        },
+                {
+            "siteId": 03,
+            "imageId": 291,
+            "title": "Github MIUI CZECH&SLOVAK",
+            "url": "https://github.com/MIUICzech-Slovak/",
+            "favicon": "",
+            "displayName": "Github MIUI CZECH&SLOVAK",
+            "position": 2,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "https://github.com/MIUICzech-Slovak/",
+            "matchUrl": "https://github.com/MIUICzech-Slovak/"
+        },
+                {
+            "siteId": 04,
+            "imageId": 292,
+            "title": "AndroidNEWS.sk",
+            "url": "http://www.androidnews.sk/",
+            "favicon": "",
+            "displayName": "AndroidNEWS.sk",
+            "position": 3,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "http://www.androidnews.sk/",
+            "matchUrl": "http://www.androidnews.sk/"
+        },
+                {
+            "siteId": 05,
+            "imageId": 293,
+            "title": "MIUI CZECH&SLOVAK",
+            "url": "http://miui.cz/",
+            "favicon": "",
+            "displayName": "MIUI CZECH&SLOVAK",
+            "position": 4,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "http://miui.cz/",
+            "matchUrl": "http://miui.cz/"
+        },
+                {
+            "siteId": 06,
+            "imageId": 294,
+            "title": "HarekTrade",
+            "url": "http://harektrade.cz/",
+            "favicon": "",
+            "displayName": "HarekTrade",
+            "position": 5,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "http://harektrade.cz/",
+            "matchUrl": "http://harektrade.cz/"
+        },
+                {
+            "siteId": 07,
+            "imageId": 295,
+            "title": "Google+ MIUI CZECH&SLOVAK",
+            "url": "https://plus.google.com/+MiuiCzSk/posts",
+            "favicon": "",
+            "displayName": "Google+ MIUI CZECH&SLOVAK",
+            "position": 6,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "https://plus.google.com/+MiuiCzSk/posts",
+            "matchUrl": "https://plus.google.com/+MiuiCzSk/posts"
+        },
+                {
+            "siteId": 08,
+            "imageId": 296,
+            "title": "Xiaomi.eu",
+            "url": "http://xiaomi.eu/",
+            "favicon": "",
+            "displayName": "Xiaomi.eu",
+            "position": 7,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "http://xiaomi.eu/",
+            "matchUrl": "http://xiaomi.eu/"
+        },
+                {
+            "siteId": 09,
+            "imageId": 297,
+            "title": "Twitter @MIUICzech",
+            "url": "https://twitter.com/MIUICzech/",
+            "favicon": "",
+            "displayName": "Twitter @MIUICzech",
+            "position": 8,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "https://twitter.com/MIUICzech/",
+            "matchUrl": "https://twitter.com/MIUICzech/"
+        },
+                {
+            "siteId": 10,
+            "imageId": 298,
+            "title": "iBuyGou.com",
+            "url": "http://www.ibuygou.com/",
+            "favicon": "",
+            "displayName": "iBuyGou.com",
+            "position": 9,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "http://www.ibuygou.com/",
+            "matchUrl": "http://www.ibuygou.com/"
+        },
+                {
+            "siteId": 11,
+            "imageId": 299,
+            "title": "SmartMania",
+            "url": "http://smartmania.cz/",
+            "favicon": "",
+            "displayName": "SmartMania",
+            "position": 10,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "http://smartmania.cz/",
+            "matchUrl": "http://smartmania.cz/"
+        },
+                {
+            "siteId": 12,
+            "imageId": 300,
+            "title": "Facebook MIUI CZECH&SLOVAK",
+            "url": "https://www.facebook.com/MiuiCzechSlovakXiaomi/",
+            "favicon": "",
+            "displayName": "Facebook MIUI CZECH&SLOVAK",
+            "position": 11,
+            "movable": true,
+            "isDelete": true,
+            "recommend": false,
+            "alias": "https://www.facebook.com/MiuiCzechSlovakXiaomi/",
+            "matchUrl": "https://www.facebook.com/MiuiCzechSlovakXiaomi/"
+        }
+    ],
+    "topquicklinks":     [
+                {
+            "siteId": 01,
+            "imageId": 29,
+            "title": "Google",
+            "url": "http://www.google.com/",
+            "favicon": "",
+            "displayName": "Google",
+            "alias": "http://www.google.com/",
+            "matchUrl": "http://www.google.com/"
+        },
+                {
+            "siteId": 02,
+            "imageId": 290,
+            "title": "xiaomimobile.cz",
+            "url": "http://www.xiaomimobile.cz/",
+            "favicon": "",
+            "displayName": "xiaomimobile.cz",
+            "alias": "http://www.xiaomimobile.cz/",
+            "matchUrl": "http://www.xiaomimobile.cz/"
+        },
+                {
+            "siteId": 03,
+            "imageId": 291,
+            "title": "Github MIUI CZECH&SLOVAK",
+            "url": "https://github.com/MIUICzech-Slovak/",
+            "favicon": "",
+            "displayName": "Github MIUI CZECH&SLOVAK",
+            "alias": "https://github.com/MIUICzech-Slovak/",
+            "matchUrl": "https://github.com/MIUICzech-Slovak/"
+        },
+                {
+            "siteId": 04,
+            "imageId": 292,
+            "title": "AndroidNEWS.sk",
+            "url": "http://www.androidnews.sk/",
+            "favicon": "",
+            "displayName": "AndroidNEWS.sk",
+            "alias": "http://www.androidnews.sk/",
+            "matchUrl": "http://www.androidnews.sk/"
+        },
+                {
+            "siteId": 05,
+            "imageId": 293,
+            "title": "MIUI CZECH&SLOVAK",
+            "url": "http://miui.cz/",
+            "favicon": "",
+            "displayName": "MIUI CZECH&SLOVAK",
+            "alias": "http://miui.cz/",
+            "matchUrl": "http://miui.cz/"
+        },
+                {
+            "siteId": 06,
+            "imageId": 294,
+            "title": "HarekTrade",
+            "url": "http://harektrade.cz/",
+            "favicon": "",
+            "displayName": "HarekTrade",
+            "alias": "http://harektrade.cz/",
+            "matchUrl": "http://harektrade.cz/"
+        },
+                {
+            "siteId": 07,
+            "imageId": 295,
+            "title": "Google+ MIUI CZECH&SLOVAK",
+            "url": "https://plus.google.com/+MiuiCzSk/posts",
+            "favicon": "",
+            "displayName": "Google+ MIUI CZECH&SLOVAK",
+            "alias": "https://plus.google.com/+MiuiCzSk/posts",
+            "matchUrl": "https://plus.google.com/+MiuiCzSk/posts"
+        },
+                {
+            "siteId": 08,
+            "imageId": 296,
+            "title": "Xiaomi.eu",
+            "url": "http://xiaomi.eu/",
+            "favicon": "",
+            "displayName": "Xiaomi.eu",
+            "alias": "http://xiaomi.eu/",
+            "matchUrl": "http://xiaomi.eu/"
+        },
+                {
+            "siteId": 09,
+            "imageId": 297,
+            "title": "Twitter @MIUICzech",
+            "url": "https://twitter.com/MIUICzech/",
+            "favicon": "",
+            "displayName": "CNN",
+            "alias": "https://twitter.com/MIUICzech/",
+            "matchUrl": "https://twitter.com/MIUICzech/"
+        },
+                {
+            "siteId": 10,
+            "imageId": 298,
+            "title": "iBuyGou.com",
+            "url": "http://www.ibuygou.com/",
+            "favicon": "",
+            "displayName": "iBuyGou.com",
+            "alias": "http://www.ibuygou.com/",
+            "matchUrl": "http://www.ibuygou.com/"
+        },
+                {
+            "siteId": 11,
+            "imageId": 299,
+            "title": "SmartMania",
+            "url": "http://smartmania.cz/",
+            "favicon": "",
+            "displayName": "SmartMania",
+            "alias": "http://smartmania.cz/",
+            "matchUrl": "http://smartmania.cz/"
+        },
+                {
+            "siteId": 62,
+            "imageId": 300,
+            "title": "Facebook MIUI CZECH&SLOVAK",
+            "url": "https://www.facebook.com/MiuiCzechSlovakXiaomi/",
+            "favicon": "",
+            "displayName": "Facebook MIUI CZECH&SLOVAK",
+            "alias": "https://www.facebook.com/MiuiCzechSlovakXiaomi/",
+            "matchUrl": "https://www.facebook.com/MiuiCzechSlovakXiaomi/"
+        }
+    ],
+    "quicklinkgroups": [],
+    "images":     [
+                {
+            "id": 29,
+            "foreground": "6b4d8fd2-42d0-4794-ac48-648107881716.png",
+            "background": "5a267092-f3ec-4355-9312-d08873506aea.png",
+            "updateTime": 1393233855000
+        },
+                {
+            "id": 290,
+            "foreground": "xm.png",
+            "background": "fd9448f1-5f00-4a3d-be71-e68a755ca8c6.png",
+            "updateTime": 1393382497000
+        },
+                {
+            "id": 291,
+            "foreground": "change-cz-sk.png",
+            "background": "f2bbc635-4f04-440f-9053-2e060932c44b.png",
+            "updateTime": 1393382633000
+        },
+                {
+            "id": 292,
+            "foreground": "androidnews_logo.png",
+            "background": "fd9448f1-5f00-4a3d-be71-e68a755ca8c6.png",
+            "updateTime": 1393382673000
+        },
+                {
+            "id": 293,
+            "foreground": "miui_cz-sk.png",
+            "background": "87df939a-771a-4d35-8598-80fe52f74c1a.png",
+            "updateTime": 1393382707000
+        },
+                {
+            "id": 294,
+            "foreground": "harek.png",
+            "background": "1068dbc1-8404-4a1e-8d02-d7a9146c67dd.png",
+            "updateTime": 1393382759000
+        },
+                {
+            "id": 295,
+            "foreground": "g_plus.png",
+            "background": "5a267092-f3ec-4355-9312-d08873506aea.png",
+            "updateTime": 1393382787000
+        },
+                {
+            "id": 296,
+            "foreground": "thumb_xiaomi.png",
+            "background": "e9a97d4d-ff68-4148-a4c3-ff2075695206.png",
+            "updateTime": 1393382815000
+        },
+                {
+            "id": 297,
+            "foreground": "thumb_twitter-cz.png",
+            "background": "e9a97d4d-ff68-4148-a4c3-ff2075695206.png",
+            "updateTime": 1393382842000
+        },
+                {
+            "id": 298,
+            "foreground": "ibuy.png",
+            "background": "f046657d-18e6-4a08-ace3-9cbb72318eeb.png",
+            "updateTime": 1393382875000
+        },
+                {
+            "id": 299,
+            "foreground": "smart.png",
+            "background": "f562f979-0e9b-4ec2-a125-dc619471617e.png",
+            "updateTime": 1393382903000
+        },
+                {
+            "id": 300,
+            "foreground": "face.png",
+            "background": "1068dbc1-8404-4a1e-8d02-d7a9146c67dd.png",
+            "updateTime": 1393382962000
+        }
+    ],
+    "nightModeMask": "nightModeMask.png"
+}
