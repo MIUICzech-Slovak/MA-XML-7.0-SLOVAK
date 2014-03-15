@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="lockscreen_emergency_call">Núdzový hovor</string>
+    <string name="lockscreen_forgot_pattern_button_text">Zabudol som</string>
+    <string name="lockscreen_transport_prev_description">Predchádzajúce</string>
+    <string name="lockscreen_transport_next_description">Ďalej</string>
+    <string name="lockscreen_transport_play_description">Prehrávanie</string>
+    <string name="lockscreen_too_many_failed_attempts_countdown">Skúste to znova o %d sekúnd.</string>
+    <string name="lockscreen_pattern_wrong">Znova:</string>
+    <string name="lockscreen_pattern_instructions">Nakreslite vzor pre odomknutie</string>
+    <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
+    <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
+    <string name="unlockscreen_low_battery">Pripojte nabíjačku</string>
+    <string name="emergency_call_string">SOS</string>
+    <string name="forget_password_string">Zabudol som heslo</string>
+    <string name="miui_unlockscreen_password_wrong">Znova:</string>
+    <string name="contact_carrier_message">Ak máte ďalšie otázky, opýtajte sa vášho operátora.</string>
+    <string name="input_puk_code">Zadajte PUK</string>
+    <string name="input_puk_code_to_unlock">Zadajte PUK kód pre odblokovanie zariadenia</string>
+    <string name="unlocking_sim_card">Odblokovanie SIM karty</string>
+    <string name="short_pukcode_error_msg">Musíte zadať najmenej 8 čísel.</string>
+    <string name="short_pincode_error_msg">Zadajte 4-8 znakov</string>
+    <string name="input_pin_code">PIN</string>
+    <string name="input_pin_code_to_unlock">Zadajte PIN pre odomknutie</string>
+    <string name="pincode_set_to_default_msg">PIN je nastavený na 1234, môžete ho zmeniť tu:</string>
+    <string name="incorrect_pukcode_remaining_attempts">Nesprávny PUK kód, ostávajúce pokusy: %d</string>
+    <string name="incorrect_pincode_remaining_attempts">Nesprávny PIN kód, ostávajúce pokusy: %d</string>
+    <string name="incorrect_pukcode">Nesprávny PUK</string>
+    <string name="incorrect_pincode">Nesprávny PIN</string>
+    <string name="puk_operation_failed">PUK zlyhal.</string>
+    <string name="pin_operation_failed">PIN zlyhal.</string>
+    <string name="return_to_me_message">Ak je stratený, vráťte ho</string>
+    <string name="unlock_string">OK</string>
+    <string name="open_wifi_settings">Nastavenia siete</string>
+    <string name="lock_screen_date">EEEE, dd. MMMM</string>
+    <string name="lockscreen_glogin_instructions">Pre odblokovanie sa prihláste svojim Xiaomi účtom</string>
+    <string name="lockscreen_glogin_password_hint">Heslo</string>
+    <string name="lockscreen_glogin_checking_password">Kontrola...</string>
+    <string name="login_website_in_case_forget_password">Pre nastavenie hesla choďte na i.xiaomi.com.</string>
+    <string name="screen_on_proximity_sensor_title">Zabrániť náhodnému vytočeniu</string>
+    <string name="screen_on_proximity_sensor_summary">"Nezakrývajte vrchnú časť zariadenia"</string>
+    <string name="screen_on_proximity_sensor_hint">Pre deaktivovanie tejto funkcie, stlačte súčasne tlačidlá Späť a Hlasitosť nahor.</string>
+    <string name="experimental_validate_thanks">Ďakujeme!</string>
+    <string name="experimental_validate_warning">Ďakujeme za pomoc vylepšenia MIUI!</string>
+    <string name="experimental_validate">Schváliť</string>
+    <string name="experimental_try_string">Skúsiť</string>
+    <string name="experimental_validate_username">Meno</string>
+    <string name="experimental_validate_password">Heslo</string>
+    <string name="experimental_validate_progress">Prihlasovanie...</string>
+    <string name="experimental_validate_fail">Prihlásenie zlyhalo</string>
+    <string name="lockscreen_glogin_forgot_pattern">Odblokovanie účtu</string>
+    <string name="lockscreen_glogin_too_many_attempts">Príliš mnoho pokusov</string>
+    <string name="lockscreen_glogin_invalid_input">Nesprávne meno alebo heslo.</string>
+    <string name="find_device_turn_off_flight_mode_instructions">"Vaše zariadenie bolo zablokované.
+Deaktivujte režim Lietadlo."</string>
+    <string name="find_device_check_sim">Kontrola SIM...</string>
+    <string name="find_device_turn_off_flight_mode">Deaktivovať režim Lietadlo</string>
+    <string name="phone_locked_string">Zariadenie je zablokované</string>
+    <string name="phone_locked_timeout_seconds_string">Choďte späť po %s sekundách</string>
+    <string name="phone_locked_timeout_minutes_string">Choďte späť po %s minútach</string>
+    <string name="input_password_hint_text">Zadajte heslo</string>
+    <string name="unlock_sim_string">Odblokovať SIM</string>
+    <string name="starting_camera_string">Spúšťanie fotoaparátu</string>
+    <string name="lockscreen_glogin_submit_button">Prihlásiť</string>
+    <string name="lockscreen_access_pattern_cell_added">Bunka bola pridaná</string>
+    <string name="lockscreen_access_pattern_cleared">Bezpečnostný vzor bol vymazaný</string>
+    <string name="lockscreen_access_pattern_detected">Bezpečnostný vzor bol dokončený</string>
+    <string name="lockscreen_access_pattern_start">Bezpečnostný vzor bol začatý</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d-krát ste nesprávne nakreslili svoj bezpečnostný vzor. Po ďalších neúspešných pokusoch (%d) budete vyzvaní odomknúť zariadenie pomocou prihlasovacích údajov služby Google.
+
+ Skúste to znova o %d s."</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Zariadenie ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. Po %d ďalších neúspešných pokusoch sa v zariadení obnovia predvolené továrenské nastavenia a všetky používateľské údaje budú stratené.</string>
+    <string name="lockscreen_failed_attempts_now_wiping">Zariadenie ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. V zariadení sa teraz obnovia predvolené továrenské nastavenia.</string>
+ </resources>
