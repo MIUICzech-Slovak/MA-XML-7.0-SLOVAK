@@ -16,4 +16,9 @@
         <item quantity="zero">%1$d</item>
         <item quantity="one">%1$d</item>
     </plurals>
+    <plurals name="number_of_items">
+        <item quantity="other">Položiek: %1$d</item>
+        <item quantity="zero">Položiek: %1$d</item>
+        <item quantity="one">Položiek: %1$d</item>
+    </plurals>
 </resources>

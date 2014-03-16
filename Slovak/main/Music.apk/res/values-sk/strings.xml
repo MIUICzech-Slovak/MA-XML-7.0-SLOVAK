@@ -81,4 +81,14 @@
   <string name="trigger_to_scan_media_library_start">Obnovovanie...</string>
   <string name="unknown_album_name">Neznámy album</string>
   <string name="unknown_artist_name">Neznámy umelec</string>
+  <string name="impunity_declaration">"Používaním Baidu online hudby súhlasíte s "<a href="http://music.baidu.com/doc/agreement">Podmienkami používania</a>.</string>
+  <string name="impunity_declaration_title">Podmienky používania</string>
+  <string name="dialog_button_agree">Súhlasím</string>
+  <string name="go_to_add_music">Pridať skladbu~</string>
+  <string name="button_add">Pridať</string>
+  <string name="find_music_left" />
+  <string name="find_music">Prehliadať skladby~</string>
+  <string name="find_music_right" />
+  <string name="favourite_music_left_half">Pre pridanie skladieb do tohto playlistu stlačte</string>
+  <string name="favourite_music_right_half">Hviezdičku vpravo od názvu skladby</string>
 </resources>
