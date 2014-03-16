@@ -41,8 +41,6 @@
   <string name="find_ktv">Prehľadávať KTV</string>
   <string name="fragment_more">Viac</string>
   <string name="function_error">Táto funkcia je momentálne nedostupná</string>
-  <string name="impunity_declaration">Online hudba ktorú chcete prehrávať je od Baidu Online Music Service. Potvrdením súhlasíte s&lt;a href="http://music.baidu.com/doc/agreement"&gt;Podmienkami používania&lt;/a&gt;</string>
-  <string name="impunity_declaration_title">Prehlásenie</string>
   <string name="ktv_playlist">Moje KTV</string>
   <string name="like">Páči sa</string>
   <string name="lrc_search_failed">"Nie je možné nájsť texty"</string>
