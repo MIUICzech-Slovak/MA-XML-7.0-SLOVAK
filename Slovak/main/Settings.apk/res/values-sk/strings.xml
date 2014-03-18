@@ -1503,6 +1503,9 @@ skúste:
   <string name="privacy_relative">Súkromie</string>
   <string name="privacy_settings">Zálohovať a obnoviť</string>
   <string name="privacy_settings_title">Zálohovať a obnoviť</string>
+  <string name="private_gallery_need_to_unlock">Vyžaduje sa heslo:</string>
+  <string name="private_gallery_reset_by_account">Pre obnovenie vášho hesla sa prihlástena váš Xiaomi účet</string>
+  <string name="private_gallery_recording_intro_header">Nakreslite vzor odomknutia:</string>
   <string name="private_sms_need_to_unlock">Vložte heslo pre súkromné SMS</string>
   <string name="private_sms_recording_intro_header">Nakreslite vzor pre uzamknutie heslom</string>
   <string name="private_sms_reset_by_account">Prihláste sa na Xiaomi účet pre zrušenie hesla súkromných SMS</string>	
