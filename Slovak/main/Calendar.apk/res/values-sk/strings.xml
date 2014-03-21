@@ -239,4 +239,6 @@
     <string name="year_picker_description">Roky</string>
     <string name="yearly">Ročne (%s)</string>
     <string name="yearly_plain">Ročne</string>
+    <string name="work_day_indication"/>
+    <string name="rest_day_indication"/>
 </resources>

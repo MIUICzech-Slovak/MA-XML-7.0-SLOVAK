@@ -585,4 +585,7 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
     <string name="miui_content_paste">Vložiť</string>
     <string name="miui_content_web_search">Vyhľadať</string>
     <string name="miui_content_share">Zdieľať</string>
+    <string name="delete_quicklink_warning">Vymazať \"%s\" z odkazov?</string>
+    <string name="quicklink_have_deleted">Stránka bola vymazaná</string>
+    <string name="miui_function_menu_delete_to_quicklinks">Vymazať odkaz</string>
 </resources>
