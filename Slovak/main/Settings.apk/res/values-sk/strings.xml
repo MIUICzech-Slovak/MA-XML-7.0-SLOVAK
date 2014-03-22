@@ -906,7 +906,7 @@ Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich v�
   <string name="filter_apps_cached">Načítané</string>
   <string name="filter_apps_disabled">Zakázané</string>
   <string name="filter_apps_onsdcard">Ukladací priestor USB</string>
-  <string name="filter_apps_running">Spustené</string>
+  <string name="filter_apps_running">Spust.</string>
   <string name="filter_apps_third_party">Prevzaté</string>
   <string name="filter_dlg_title">Zvoľte možnosti filtra</string>
   <string name="finish_application">Ukončiť</string>
