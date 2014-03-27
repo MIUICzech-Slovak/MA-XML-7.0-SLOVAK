@@ -209,4 +209,5 @@
     <string name="widget_favorite_contacts_style">Rozmer</string>
     <string name="widget_gadget_player">Hudba</string>
     <string name="widget_global_search">Vyhľadávanie</string>
+    <string name="current_wallpaper">Súčasná</string>
 </resources>
