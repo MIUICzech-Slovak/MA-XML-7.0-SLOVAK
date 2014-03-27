@@ -37,8 +37,8 @@
     <string name="clear_cache">Vymazať cache</string>
     <string name="clear_cache_summary">Vymazať cache náhľadov videa</string>
     <string name="comment">Komentáre</string>
-    <string name="comment_count_less_tip">Musíte zadať aspoň d% znaky</string>
-    <string name="comment_count_much_tip">Váš komentár nesmie mať viac ako d% znakov</string>
+    <string name="comment_count_less_tip">Musíte zadať aspoň %d znaky</string>
+    <string name="comment_count_much_tip">Váš komentár nesmie mať viac ako %d znakov</string>
     <string name="comment_edit_blog_hint">Zdieľať na sina</string>
     <string name="comment_edit_et_hint">Vložte komentár</string>
     <string name="comment_edit_start_hint">Zvoľte počet hviezdičiek:</string>
