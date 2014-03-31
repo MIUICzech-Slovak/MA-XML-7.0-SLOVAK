@@ -83,4 +83,6 @@
     <string name="toast_reach_text_limit_truncate">"Obsah poznámky je automaticky skrátený, pretože je príliš dlhý."</string>
     <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
     <string name="widget_under_visit_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
+    <string name="undo">Späť</string>
+    <string name="redo">Znovu</string>
 </resources>
