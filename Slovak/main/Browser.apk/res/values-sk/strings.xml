@@ -592,4 +592,12 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
     <string name="download_complete">Sťahovanie dokončené</string>
     <string name="app_update_install">Sťahovanie dokončené a pripravené na inštaláciu aktualizácie</string>
     <string name="app_new_version">Sťahovanie dokončené a posledná verzia je už nainštalovaná</string>
+    <string name="sync_item_browser_title">Synchronizácia prehliadača</string>
+    <string name="sync_item_browser_summary">Synchronizujte svoje dáta do cloudu a používajte Prehliadač jednoducho aj na ostatných zariadeniach</string>
+    <string name="sub_sync_item_browser_title_history">Synchr. históriu</string>
+    <string name="sub_sync_item_browser_title_history_summary">Synchronizovať históriu Prehliadača</string>
+    <string name="sub_sync_item_browser_title_bookmark">Synchr. záložky</string>
+    <string name="sub_sync_item_browser_title_bookmark_summary">Synchronizovať záložky Prehliadača</string>
+    <string name="sub_sync_item_browser_title_cloud_tab">Synchr. Karty</string>
+    <string name="sub_sync_item_browser_title_cloud_tab_summary">Synchronizovať otvorené karty Prehliadača</string>
 </resources>
