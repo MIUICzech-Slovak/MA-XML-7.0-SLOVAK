@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audio_effect_file_showing_names">
+        <item>Zamknutie</item>
+        <item>Odomknutie</item>
+        <item>Kliknutie</item>
+        <item>Vymazanie</item>
+        <item>Naspäť</item>
+        <item>Štandard</item>
+        <item>Medzerník</item>
+        <item>Spúšť fotoaparátu</item>
+        <item>Nahrávanie videa</item>
+        <item>Odpočítavanie</item>
+        <item>Úspešná akcia fotoaparátu</item>
+        <item>Neúspešná akcia fotoaparátu</item>
+        <item>Prebiehajúca akcia fotoaparátu</item>
+        <item>Prebiehajúca akcia fotoaparátu 1</item>
+        <item>Prebiehajúca akcia fotoaparátu 2</item>
+        <item>Zdieľanie hudby</item>
+        <item>Dokončená akcia</item>
+        <item>Prehrávanie</item>
+        <item>Pozastavenie</item>
+        <item>Pretáčanie</item>
+        <item>Slabá batéria</item>
+    </string-array>
+</resources>

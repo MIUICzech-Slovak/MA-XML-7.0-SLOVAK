@@ -1631,6 +1631,7 @@ skúste:
   <string name="radio_info_toggle_dns_check_label">Prepnúť kontrolu DNS</string>
   <string name="really_remove_account_message">Odstránením tohto účtu budú zo zariadenia odstránené aj všetky správy, kontakty a ďalšie údaje!</string>
   <string name="really_remove_account_title">Odstrániť účet?</string>
+  <string name="rebootiing_for_updates">Reštartuje sa...</string>
   <string name="recognizer_settings_summary">Nastavenia modulu gadget „%s“</string>
   <string name="recognizer_settings_title">Hlasové vyhľadávanie</string>
   <string name="recognizer_title">Rozpoznávanie hlasu</string>
