@@ -41,4 +41,12 @@
         <item quantity="other">Počet nájdených tlačiarní: %1$s</item>
         <item quantity="one">Našla sa %1$s tlačiareň</item>
     </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">You are now %1$d steps away from entering cit.</item>
+        <item quantity="one">You are now %1$d step away from entering cit.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">You are now %1$d steps away from bugreporting.</item>
+        <item quantity="one">You are now %1$d step away from bugreporting.</item>
+    </plurals>
 </resources>

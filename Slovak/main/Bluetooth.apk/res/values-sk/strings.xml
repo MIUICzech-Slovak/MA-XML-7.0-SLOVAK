@@ -121,4 +121,7 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
+  <string name="miui_transfer_history_title">Bluetooth prenos</string>
+  <string name="miui_transfer_inbound_title">Prichádzajúce</string>
+  <string name="miui_transfer_outbound_title">Odchádzajúce</string>
 </resources>

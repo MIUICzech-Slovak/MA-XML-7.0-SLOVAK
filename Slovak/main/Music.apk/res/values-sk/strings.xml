@@ -59,7 +59,7 @@
   <string name="ok">OK</string>
   <string name="online_music">Online Hudba</string>
   <string name="playback_failed_no_title_by_bad_file">"Skladby nie je možné prehrať. Formát nie je podporovaný alebo súbor neexistuje."</string>
-  <string name="recommend_fragment_title">Odporúčané</string>
+  <string name="recommend_fragment_title">Album</string>
   <string name="retry">Znova</string>
   <string name="search_hint">Umelec.Skladba.Album</string>
   <string name="search_title">Vyhľadať</string>
@@ -97,4 +97,6 @@
   <string name="playlist_renamed_message">Playlist premenovaný</string>
   <string name="action_item_delete">Vymazať</string>
   <string name="dialog_delete_descript">Vymazať %s?</string>
+  <string name="project_device">MiBox</string>
+  <string name="project_device_mobile">Mobilné zariadenie</string>
 </resources>

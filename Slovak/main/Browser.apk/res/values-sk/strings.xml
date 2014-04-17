@@ -600,4 +600,6 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
     <string name="sub_sync_item_browser_title_bookmark_summary">Synchronizovať záložky Prehliadača</string>
     <string name="sub_sync_item_browser_title_cloud_tab">Synchr. Karty</string>
     <string name="sub_sync_item_browser_title_cloud_tab_summary">Synchronizovať otvorené karty Prehliadača</string>
+    <string name="loading_tips">Potiahnite nadol pre obnovenie</string>
+    <string name="up_to_loading_tips">Pustite pre obnovenie</string>
 </resources>
