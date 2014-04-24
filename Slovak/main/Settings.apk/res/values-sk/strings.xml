@@ -2714,7 +2714,6 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="launching_rep">Bugreporting, please wait.</string>
     <string name="app_name_securitycenter">SecurityCenter</string>
     <string name="ok">Ok</string>
-    <string name="cancel">Cancel</string>
     <string name="score_pts">pts</string>
     <string name="btn_text_start_check">Check</string>
     <string name="btn_text_quick_cleanup">Clean up</string>
