@@ -621,4 +621,29 @@ Počítač automaticky otvorí zložku vo Vašom telefóne"</item>
         <item>Sieť je pomalá z dôvodu slabého signálu</item>
         <item>Presúvanie...</item>
     </string-array>
+    <string-array name="power_dialog_auto_clean_memory_items">
+        <item>Po 1 minúte</item>
+        <item>Po 5 minútach</item>
+        <item>Po 10 minútach</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="power_dialog_sleep_items">
+        <item>15 sekúnd</item>
+        <item>30 sekúnd</item>
+        <item>1 minúta</item>
+        <item>2 minúty</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>Nikdy</item>
+    </string-array>
+    <string-array name="power_dialog_cpu_state_items">
+        <item>Výkonný</item>
+        <item>Vyvážený</item>
+        <item>Úsporný</item>
+    </string-array>
+    <string-array name="power_dialog_vibration_items">
+        <item>Nevibrovať</item>
+        <item>Vibrovať ak je stíšené zvonenie</item>
+        <item>Vždy vibrovať</item>
+    </string-array>
 </resources>

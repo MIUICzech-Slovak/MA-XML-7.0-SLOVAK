@@ -99,4 +99,5 @@
   <string name="dialog_delete_descript">Vymazať %s?</string>
   <string name="project_device">MiBox</string>
   <string name="project_device_mobile">Mobilné zariadenie</string>
+  <string name="available_playlist_name_format">Nový playlist %d</string>
 </resources>
