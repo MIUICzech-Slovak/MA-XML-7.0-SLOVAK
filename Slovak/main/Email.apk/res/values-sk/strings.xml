@@ -540,4 +540,6 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "&lt;b&gt;Sy
   <string name="wait_for_sync_title">Čaká sa na synchronizáciu</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="yes">Áno</string>
+  <string name="accounts_heading">Účty</string>
+  <string name="from_label">Odosielateľ</string>
 </resources>

@@ -100,4 +100,6 @@
   <string name="trigger_to_scan_media_library_start">Obnovovanie...</string>
   <string name="unknown_album_name">Neznámy album</string>
   <string name="unknown_artist_name">Neznámy umelec</string>
+  <string name="loading_hint">Načítavanie...</string>
+  <string name="online_playlist_is_empty">Online playlist je prázdny!</string>
 </resources>

@@ -41,4 +41,5 @@
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Skús hovoriť:</string>
+  <string name="send_secret_code">Odoslať tajný kód</string>
 </resources>

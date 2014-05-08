@@ -504,4 +504,6 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
+  <string name="local_time">(Lokálny)</string>
+  <string name="sync_in_progress_message">Prebieha synchronizácia...</string>
 </resources>

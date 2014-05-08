@@ -73,7 +73,7 @@
   <string name="check_phone_io_error">Chyba siete</string>
   <string name="checking_account">Overovanie účtu...</string>
   <string name="checking_input">Kontrola...</string>
-  <string name="cloud_find_pad">Nájsť zariadenie</string>
+  <string name="cloud_find_device">Nájsť zariadenie</string>
   <string name="cloud_messaging">MiCloud správy</string>
   <string name="cloud_service">Cloud Služby</string>
   <string name="cmcc_data_sync_notice">Použite svoj Xiaomi účet pre synchronizáciu správ, Kontaktov a ostatných dát.</string>

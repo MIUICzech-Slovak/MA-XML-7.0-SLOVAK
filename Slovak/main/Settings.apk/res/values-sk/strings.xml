@@ -3171,4 +3171,20 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť v abecednom poradí</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+    <string name="activity_title_perm_manager">Správa Licencie</string>
+    <string name="activity_title_auto_start_manager">Správa Auto. spustenia</string>
+    <string name="activity_title_notification_bar_manager">Správa notifikačnej lišty</string>
+    <string name="activity_title_default_apps_manager">Správa predvolených apl.</string>
+    <string name="activity_title_permission_manager">Správa povolení</string>
+    <string name="activity_title_root_manager">Správa Root</string>
+    <string name="empty_title_auto_start_list">Žiadne aplikácie</string>
+    <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
+    <string name="dialog_msg_load_cleanup_engine_error">Nástroj pre čistenie je poškodený, je nutné preinštalovať ROM!</string>
+    <string name="hints_auto_start_warning_info">Zakáz auto. spustenia nepovolí príjmať upozornenia aplikácie</string>
+    <string name="hints_auto_start_enable_title">Povoliť %d apl. auto. spustenie</string>
+    <string name="hints_auto_start_disable_title">Zakázať %d apl. auto. spustenie</string>
+    <string name="msd_install_download_zhushou">Stiahnutý MiPhoneManager</string>
+    <string name="free_wifi_manage_summary">Zobraziť %1$s.</string>  
+    <string name="toast_need_login">Prihláste sa Xiaomi účtom</string>
+    <string name="button_text_reboot_now">Reštartovať</string>
 </resources>

@@ -151,4 +151,7 @@
   <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
   <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
   <string name="worst_update">Zlý update</string>
+    <string name="toast_need_login">Prihláste sa Xiaomi účtom</string>
+    <string name="notify_title_reboot_now">Aktualizácia dokončená</string>
+    <string name="button_text_reboot_now">Reštartovať</string>
 </resources>
