@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="action_item_add">Pridať</string>
   <string name="action_item_add_to_current_playlist">Súčasný playlist</string>
   <string name="action_item_add_to_new_playlist">Nový</string>
+  <string name="action_item_delete">Vymazať</string>
   <string name="action_item_remove">Odstrániť</string>
   <string name="action_item_send">Odoslať</string>
   <string name="album_search_title">Album</string>
@@ -13,15 +13,20 @@
   <string name="artist_search_title">Umelec</string>
   <string name="artist_view">Umelec</string>
   <string name="audio_picker_title">Zvoľte skladbu</string>
+  <string name="available_playlist_name_format">Nový playlist %d</string>
   <string name="bill_list_fragment_title">Populárne</string>
+  <string name="blank_reminder">Nesmie byť prázdne</string>
   <string name="buffering">Načítavanie...</string>
+  <string name="button_add">Pridať</string>
   <string name="cancel">Zrušiť</string>
   <string name="click_to_shuffle">Spustiť všetko náhodne</string>
   <string name="create_new_playlist">Nový</string>
+  <string name="dialog_button_agree">Súhlasím</string>
   <string name="dialog_button_create_playlist">Vytvoriť Playlist</string>
   <string name="dialog_button_find_music">Objavte novú hudbu</string>
   <string name="dialog_button_login">Prihláste sa a synchronizujte vašu hudbu</string>
   <string name="dialog_button_scan_tracks">Vyhľadať hudbu v tomto zariadení</string>
+  <string name="dialog_delete_descript">Vymazať %s?</string>
   <string name="dialog_hint_music_error">Žiadne skladby. Môžete...</string>
   <string name="dialog_hint_network_error">Sieť je nedostupná. Pripojte sa k sieti a skúste to znova.</string>
   <string name="dialog_title_add_playlist">Pridať Playlist</string>
@@ -36,11 +41,21 @@
   <string name="download_while_playing_summary">"Automaticky stiahnuť skladby ktoré ste počúvali online"</string>
   <string name="download_while_playing_title">Počúvať počas sťahovania</string>
   <string name="fail_to_play">Prehrávanie zlyhalo</string>
+  <string name="favorite_canceled">Odobrané z obľúbených</string>
   <string name="favorite_playlist">Moje obľúbené</string>
+  <string name="favorite_succeed">Už je medzi obľúbenými</string>
+  <string name="favourite_music_left_half">Pre pridanie skladieb do tohto playlistu stlačte</string>
+  <string name="favourite_music_right_half">Hviezdičku vpravo od názvu skladby</string>
   <string name="file_not_found">"Súbor neexistuje"</string>
   <string name="find_ktv">Prehľadávať KTV</string>
+  <string name="find_music">Prehliadať skladby~</string>
+  <string name="find_music_left"/>
+  <string name="find_music_right"/>
   <string name="fragment_more">Viac</string>
   <string name="function_error">Táto funkcia je momentálne nedostupná</string>
+  <string name="go_to_add_music">Pridať skladbu~</string>
+  <string name="impunity_declaration">"Používaním Baidu online hudby súhlasíte s "&lt;a href="http://music.baidu.com/doc/agreement"&gt;Podmienkami pou&amp;#382;&amp;#237;vania&lt;/a&gt;.</string>
+  <string name="impunity_declaration_title">Podmienky používania</string>
   <string name="ktv_playlist">Moje KTV</string>
   <string name="like">Páči sa</string>
   <string name="lrc_search_failed">"Nie je možné nájsť texty"</string>
@@ -59,8 +74,13 @@
   <string name="ok">OK</string>
   <string name="online_music">Online Hudba</string>
   <string name="playback_failed_no_title_by_bad_file">"Skladby nie je možné prehrať. Formát nie je podporovaný alebo súbor neexistuje."</string>
+  <string name="playlist_deleted_message">Playlist vymazaný</string>
+  <string name="playlist_renamed_message">Playlist premenovaný</string>
+  <string name="project_device">MiBox</string>
+  <string name="project_device_mobile">Mobilné zariadenie</string>
   <string name="recommend_fragment_title">Album</string>
   <string name="retry">Znova</string>
+  <string name="same_name_reminder">Nesmie sa opakovať</string>
   <string name="search_hint">Umelec.Skladba.Album</string>
   <string name="search_title">Vyhľadať</string>
   <string name="send_to">Odoslať</string>
@@ -79,25 +99,4 @@
   <string name="trigger_to_scan_media_library_start">Obnovovanie...</string>
   <string name="unknown_album_name">Neznámy album</string>
   <string name="unknown_artist_name">Neznámy umelec</string>
-  <string name="impunity_declaration">"Používaním Baidu online hudby súhlasíte s "<a href="http://music.baidu.com/doc/agreement">Podmienkami používania</a>.</string>
-  <string name="impunity_declaration_title">Podmienky používania</string>
-  <string name="dialog_button_agree">Súhlasím</string>
-  <string name="go_to_add_music">Pridať skladbu~</string>
-  <string name="button_add">Pridať</string>
-  <string name="find_music_left" />
-  <string name="find_music">Prehliadať skladby~</string>
-  <string name="find_music_right" />
-  <string name="favourite_music_left_half">Pre pridanie skladieb do tohto playlistu stlačte</string>
-  <string name="favourite_music_right_half">Hviezdičku vpravo od názvu skladby</string>
-  <string name="blank_reminder">Nesmie byť prázdne</string>
-  <string name="same_name_reminder">Nesmie sa opakovať</string>
-  <string name="favorite_succeed">Už je medzi obľúbenými</string>
-  <string name="favorite_canceled">Odobrané z obľúbených</string>
-  <string name="playlist_deleted_message">Playlist vymazaný</string>
-  <string name="playlist_renamed_message">Playlist premenovaný</string>
-  <string name="action_item_delete">Vymazať</string>
-  <string name="dialog_delete_descript">Vymazať %s?</string>
-  <string name="project_device">MiBox</string>
-  <string name="project_device_mobile">Mobilné zariadenie</string>
-  <string name="available_playlist_name_format">Nový playlist %d</string>
 </resources>

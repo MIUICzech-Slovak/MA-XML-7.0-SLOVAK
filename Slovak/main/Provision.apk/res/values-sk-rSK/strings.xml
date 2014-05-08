@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<?xml version='1.0' encoding='UTF-8'?>
 <resources>
-    <string name="input_method_category">Vybrať predvolenú metódu zadávania</string>
-    <string name="input_method_setting">Vyberte metódu zadávania</string>
-    <string name="other_settings">Ostatné nastavenia</string>
-    <string name="other_settings_location">Prístup k polohe</string>
-    <string name="other_settings_location_summary">Povoliť mapám a ostatným aplikáciam používať vašu polohu GPS</string>
-    <string name="other_settings_user_experience">Zdieľať užívateľské skúsenosti</string>
-    <string name="other_settings_user_experience_summary">Pomôžte Xiaomi zlepšovať produkty a služby odosielaním anonymných diagnostík a štatistík</string>
-    <string name="welcome">Vitajte</string>
+  <string name="input_method_category">Vybrať predvolenú metódu zadávania</string>
+  <string name="input_method_setting">Vyberte metódu zadávania</string>
+  <string name="other_settings">Ostatné nastavenia</string>
+  <string name="other_settings_location">Prístup k polohe</string>
+  <string name="other_settings_location_summary">Povoliť mapám a ostatným aplikáciam používať vašu polohu GPS</string>
+  <string name="other_settings_user_experience">Zdieľať užívateľské skúsenosti</string>
+  <string name="other_settings_user_experience_summary">Pomôžte Xiaomi zlepšovať produkty a služby odosielaním anonymných diagnostík a štatistík</string>
+  <string name="welcome">Vitajte</string>
 </resources>

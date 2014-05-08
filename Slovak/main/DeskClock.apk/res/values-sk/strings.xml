@@ -166,10 +166,10 @@
   <string name="timer_start">Spustiť</string>
   <string name="timer_stop">Zastaviť</string>
   <string name="timer_stopped">Časovač sa zastavil</string>
-  <string name="timezone_exist_error_message">Časová zóna už existuje.</string>
   <string name="timer_times_up">Čas vypršal</string>
   <string name="timers_in_use">Počet časovačov: %d</string>
   <string name="timers_stopped">Počet zastavených časovačov: %d</string>
+  <string name="timezone_exist_error_message">Časová zóna už existuje.</string>
   <string name="volume_button_dialog_title">Funkcie tlačidiel</string>
   <string name="volume_button_setting_title">Tlačidlá na ovládanie hlasitosti</string>
   <string name="weather_fetch_failure">Informácie o počasí nie sú momentálne k dispozícii.</string>

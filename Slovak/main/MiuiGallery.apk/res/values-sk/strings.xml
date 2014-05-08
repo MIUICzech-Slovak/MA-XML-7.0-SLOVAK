@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Import">Import</string>
   <string name="accept">Prijať</string>
@@ -43,7 +42,7 @@
   <string name="already_apply_album">Otvoriť %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
   <string name="androidesk_wallpapers">Tapety</string>
-  <string name="aperture">Clona</string> 
+  <string name="aperture">Clona</string>
   <string name="app_name">Galéria</string>
   <string name="appwidget_empty_text">Žiadne snímky.</string>
   <string name="appwidget_title">Fotogaléria</string>
@@ -59,6 +58,7 @@
   <string name="big_screen_alertdialog_title">Zariadenia</string>
   <string name="bigscreen_slide_exit">Ukončiť prezentáciu</string>
   <string name="bigscreen_slide_fail_cause_loading">Skúste to znova po načítaní obrázku.</string>
+  <string name="bigscreen_video_quit">Dotykom zrušíte prehrávanie</string>
   <string name="browse_category">Prezeranie fotografií</string>
   <string name="by_email">E-mail</string>
   <string name="by_others">Ostatní</string>
@@ -80,6 +80,7 @@
   <string name="clear_thumbnail_cache">Vymazať cache náhľadov</string>
   <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria prehľadá mediálne súbory a vytvorí nové náhľady.</string>
   <string name="clear_thumbnail_cache_summary">Prezeranie galérie vytvorí náhľady. Vymazanie medzipamäte uvoľní miesto na úložisku.</string>
+  <string name="click_to_add_picture">Dotykom pridáte fotografie</string>
   <string name="click_top_right">Stlač ikonu vpravo hore</string>
   <string name="close">Zatvoriť</string>
   <string name="cloud_album_more_settings">Cloud album(y) a auto upload</string>
@@ -111,7 +112,7 @@ spoločne!"</string>
   <string name="comfirm_delete_current_album">Vymazať tento album?</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Vymazať (%s)?</string>
-  <string formatted="false" name="confirm_delete_album">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
+  <string name="confirm_delete_album" formatted="false">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s obrázkov v %s albume, ste si istý, že ich chcete vymazať?</string>
   <string name="confirm_delete_pictures">%s</string>
   <string name="confirm_delete_system_album">%s je systémový album, skutočne vymazať?</string>
@@ -135,7 +136,6 @@ spoločne!"</string>
   <string name="crossprocess">Prekrytie</string>
   <string name="cut">Orezanie</string>
   <string name="damaged_file">Súbor je poškodený</string>
-  <string name="deselect_all">Odznačiť</string>
   <string name="dcim_100media">Taobao TMall</string>
   <string name="dcim_opaipic">Opaipic</string>
   <string name="dcim_viva_pics">VIVA</string>
@@ -149,6 +149,7 @@ spoločne!"</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
   <string name="deny">Odmietnuť</string>
   <string name="description">Popis</string>
+  <string name="deselect_all">Odznačiť</string>
   <string name="details">Detaily</string>
   <string name="details_sharer">Zdieľané od</string>
   <string name="details_title">%1$d z %2$d:</string>
@@ -172,10 +173,10 @@ spoločne!"</string>
   <string name="error_cloud_not_active">Cloud album sa nepoužíva</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požiadajte vlastníka o vytvorenie nového odkazu.</string>
   <string name="error_repeat_apply">Tento album je už zdieľaný</string>
+  <string name="error_share_with_creator">Už ste členom v tomto albume</string>
   <string name="error_should_not_select_image">Upozornenie: nevyberajte obrázok.</string>
   <string name="error_should_not_select_video">Upozornenie: nevyberajte video.</string>
   <string name="error_socket_timeout">Chyba siete. Skúste to neskôr.</string>
-  <string name="error_share_with_creator">Už ste členom v tomto albume</string>
   <string name="error_unknown_host">Nenašla sa žiadna sieť.</string>
   <string name="exit">Odísť</string>
   <string name="exit_share">Ukončiť album</string>
@@ -320,7 +321,7 @@ spoločne!"</string>
   <string name="operation_add_picture">Vybrať obrázky</string>
   <string name="operation_delete_confirm_message_folder">"Zložky a súbory v nich budú vymazané.
 "</string>
-  <string name="operation_failed">Operácia zlyhala.</string> 
+  <string name="operation_failed">Operácia zlyhala.</string>
   <string name="operation_in_process">Spracovávanie...</string>
   <string name="operation_refresh">Obnoviť</string>
   <string name="operation_rename">Premenovať</string>
@@ -502,6 +503,4 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
-  <string name="bigscreen_video_quit">Dotykom zrušíte prehrávanie</string>
-  <string name="click_to_add_picture">Dotykom pridáte fotografie</string>
 </resources>
