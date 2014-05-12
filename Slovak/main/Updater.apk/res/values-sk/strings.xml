@@ -79,7 +79,7 @@
   <string name="next">Ďalej</string>
   <string name="no_proper_updates">Žiadna aktualizácia sa nenašla pre vašu verziu ROM</string>
   <string name="no_updatecheck_executed">Kontrola aktualizácie nebola vykonaná</string>
-  <string name="no_updates_found">Už máte nainštalovanú najnovšiu verziu</string>
+  <string name="no_updates_found">"Už máte najnovšiu verziu "</string>
   <string name="no_updates_warning">Žiadne nové aktualizácie pre Váš telefón neboli nájdené.</string>
   <string name="no_updates_warning2">Táto aplikácia Vás upozorní na nové aktualizácie.</string>
   <string name="not_recommend">"Neodporúčam"</string>
