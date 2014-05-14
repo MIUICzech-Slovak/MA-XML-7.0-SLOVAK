@@ -210,4 +210,10 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
+    <string name="status_pending">čaká</string>
+    <string name="status_downloading">sťahuje sa</string>
+    <string name="status_paused">pozastavené</string>
+    <string name="status_downloaded">stiahnuté</string>
+    <string name="status_installing">inštaluje sa</string>
+    <string name="gadget_mtz_label">Mi Gadgets</string>
 </resources>

@@ -3187,4 +3187,9 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
     <string name="free_wifi_manage_summary">Zobraziť %1$s.</string>  
     <string name="toast_need_login">Prihláste sa Xiaomi účtom</string>
     <string name="button_text_reboot_now">Reštartovať</string>
+    <string name="cancel">Zrušiť</string>
+    <string name="wallpaper_desktop">Domáca obrazovka</string>
+    <string name="wallpaper_lockscreen">Zámok</string>
+    <string name="wallpaper_live">Živé pozadie</string>
+    <string name="power_settings_title">Výkon</string>
 </resources>

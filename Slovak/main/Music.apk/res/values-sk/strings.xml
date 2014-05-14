@@ -102,4 +102,5 @@
   <string name="unknown_artist_name">Neznámy umelec</string>
   <string name="loading_hint">Načítavanie...</string>
   <string name="online_playlist_is_empty">Online playlist je prázdny!</string>
+    <string name="network_failure">Chyba siete. Skúste to neskôr.</string>
 </resources>
