@@ -19,7 +19,7 @@
   <string name="app_name">Video</string>
   <string name="area_colon">"Krajina: "</string>
   <string name="authenticated_failed">Prihlásenie zlyhalo</string>
-  <string name="authenticating">&lt;CDATA&gt;Kontrola &lt;/CDATA&gt;</string>
+  <string name="authenticating">Kontrola</string>
   <string name="authenticating_manually">Autorizácia zlyhala</string>
   <string name="auto_play">Automaticky prehrať</string>
   <string name="auto_play_summary">Prehrať video po dokončení načítavania alebo sťahovania</string>
@@ -88,7 +88,7 @@
   <string name="live_channel_empty_hint">Žiadne kanály</string>
   <string name="live_player_forecast_empty_hint">Žiaden program</string>
   <string name="live_player_selecttv_empty_hint">Žiaden kanál</string>
-  <string name="loading">" "&lt;CDATA&gt;Na&amp;#269;&amp;#237;tavanie &lt;/CDATA&gt;" "</string>
+  <string name="loading">" "Načítavanie" "</string>
   <string name="loading_video_netplay_label">Načítavanie, čakajte prosím...</string>
   <string name="loading_video_netplay_label_v5">Načítava sa video, čakajte prosím...</string>
   <string name="local_detail_more">%d viac videí</string>

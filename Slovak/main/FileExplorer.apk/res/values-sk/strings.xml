@@ -109,7 +109,7 @@
   <string name="file_too_large">"Súbor je príliš veľký a nie je možné ho nahrať"</string>
   <string name="finished">Dokončené</string>
   <string name="folder_exist">Zložka už existuje</string>
-  <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Stlačte tu&lt;/a&gt;pre otvorenie koša v Cloude</string>
+  <string name="forward_to_web_recycle_prompt">\"%1$s\" Stlačte tu pre otvorenie koša v Cloude</string>
   <string name="ftp_account_req_notice">Užívateľské meno a heslo, 4~16 znakov, obsahovať čísla, písmena...</string>
   <string name="ftp_anonymous_login">Anonymné FTP</string>
   <string name="ftp_invalid_username_or_password">Chyba prihlásenia</string>
@@ -272,7 +272,7 @@ Získali ste ďalších %1$s"</string>
   <string name="trans_task_delete_confirm_message">Vymazať zvolené %1$d úlohy?</string>
   <string name="transing">Prenos dát...</string>
   <string name="trash_box_capacity">Kôš %1$s</string>
-  <string name="trash_box_link">Prejdite na &lt;b&gt;pan.xiaomi.com&lt;/b&gt; a vypr&amp;#225;zdnite k&amp;#244;&amp;#353;</string>
+  <string name="trash_box_link">Prejdite na pan.xiaomi.com a vyprázdnite kôš</string>
   <string name="trash_box_message1">Môžete odstrániť zbytočné súbory 
 a uvoľniť tak miesto</string>
   <string name="trash_box_message2">Môžete odstrániť súbory a vyprázdnite kôš, 

@@ -64,7 +64,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="update_time">%1$s v %2$s %3$s verzia %4$s</string>
   <string name="update_title">%1$s má novú verziu</string>
   <string name="virus_scan_clear">Vyčistiť</string>
-  <string name="virus_scan_install">" "&lt;u&gt;Pokra&amp;#269;ova&amp;#357;&lt;/u&gt;" "</string>
+  <string name="virus_scan_install">" "Pokračovať" "</string>
   <string name="virus_scan_is_risk">Táto aplikácia je podozrivá!</string>
   <string name="virus_scan_is_virus">Táto aplikácia je VÍRUS!</string>
   <string name="warn_message">Aplikácia môže vážne ohroziť bezpečnosť vašich dát a súkromných informácií</string>

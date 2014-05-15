@@ -67,7 +67,7 @@
   <string name="btn_activate">Aktivovať</string>
   <string name="btn_return">Späť</string>
   <string name="button_cancel">Zrušiť</string>
-  <string name="button_unbind">&lt;u&gt;Odpojiť&lt;/u&gt;</string>
+  <string name="button_unbind">Odpojiť</string>
   <string name="captcha">Captcha</string>
   <string name="check_phone_error_title">Aktivácia synchronizácie zlyhala</string>
   <string name="check_phone_io_error">Chyba siete</string>
@@ -89,7 +89,7 @@
   <string name="dirty_mms_count">správ: %d</string>
   <string name="dirty_note_count">poznámok: %d</string>
   <string name="disable_find_device_error">Chyba: %1$s</string>
-  <string name="disable_micloud">&lt;u&gt;Zak&amp;#225;za&amp;#357; MiCloud&lt;/u&gt;</string>
+  <string name="disable_micloud">Zakázať MiCloud</string>
   <string name="email_already_be_used">Emailová adresa už je použitá s iným účtom.</string>
   <string name="enableAll">Povoliť všetko</string>
   <string name="enable_find_device_error">Chyba: %1$s</string>
@@ -126,8 +126,8 @@
   <string name="find_device_stop_noise">Zatvoriť</string>
   <string name="find_device_success_title">Zisťovanie polohy je zapnuté</string>
   <string name="find_password_on_web_msg">Navštívte account.xiaomi.com pre obnovu hesla</string>
-  <string name="foreign_login">&lt;u&gt;Krajina/k&amp;#243;d krajiny&lt;/u&gt;</string>
-  <string name="forget_password">&lt;u&gt;Zabudnut&amp;#233; heslo&lt;/u&gt;</string>
+  <string name="foreign_login">Krajina/kód krajiny</string>
+  <string name="forget_password">Zabudnuté heslo</string>
   <string name="get_back_pwd">Obnoviť heslo</string>
   <string name="get_verify_code">Získať kód</string>
   <string name="getting_verify_code">Získavanie...</string>
@@ -239,7 +239,7 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
   <string name="micloud_warn_low_title">Dochádza voľné miesto v úložisku!</string>
   <string name="micloud_web_discription_01">Prihláste sa na http://i.xiaomi.com</string>
   <string name="micloud_web_discription_02">pre ukladanie a prístup k Vaším súborom</string>
-  <string name="micloud_welcome_skip_login">&lt;u&gt;Presko&amp;#269;i&amp;#357;&lt;/u&gt;</string>
+  <string name="micloud_welcome_skip_login">Preskočiť</string>
   <string name="micloud_welcome_skip_login_provision">Preskočiť</string>
   <string name="mili_center">MiKredit</string>
   <string name="my_xiaomi_account">Môj Xiaomi účet</string>
@@ -288,7 +288,7 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
   <string name="sim_unavailable">SIM karta nedostupná</string>
   <string name="sina_weibo">Sina Weibo</string>
   <string name="skip_login">Preskočiť prihlásenie</string>
-  <string name="skip_login_u">&lt;u&gt;Presko&amp;#269;i&amp;#357;&lt;/u&gt;</string>
+  <string name="skip_login_u">Preskočiť</string>
   <string name="skip_register">Preskočiť</string>
   <string name="skip_setup_account_msg">Svoj účet môžete nastaviť aj neskôr v Nastaveniach telefónu.</string>
   <string name="skip_setup_account_title">Preskočiť nastavenie účtu</string>

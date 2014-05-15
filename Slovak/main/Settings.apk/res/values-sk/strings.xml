@@ -46,12 +46,12 @@ Ak má zariadenie viacero používateľov, pomocou tejto skratky je možné na u
   <string name="accessibility_screen_magnification_summary">"Keď je táto funkcia zapnutá, môžete približovať alebo odďalovať trojitým klepnutím na obrazovku.
 
 Počas priblíženia môžete:
-"&lt;li&gt;&lt;ul&gt;"Pos&amp;#250;va&amp;#357;: &amp;#356;ahajte dvoma alebo viacer&amp;#253;mi prstami po obrazovke.
-"&lt;li&gt;Prisp&amp;#244;sobi&amp;#357; &amp;#250;rove&amp;#328; pribl&amp;#237;&amp;#382;enia: Pribl&amp;#237;&amp;#382;te dva alebo viacero prstov k sebe alebo ich od seba odtiahnite.&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;"
+"Posúvať: Ťahajte dvoma alebo viacerými prstami po obrazovke.
+"Prispôsobiť úroveň priblíženia: Priblížte dva alebo viacero prstov k sebe alebo ich od seba odtiahnite."
 
-Obsah pod prstom m&amp;#244;&amp;#382;ete tie&amp;#382; do&amp;#269;asne pribl&amp;#237;&amp;#382;i&amp;#357; trojit&amp;#253;m klepnut&amp;#237;m a podr&amp;#382;an&amp;#237;m. V stave pribl&amp;#237;&amp;#382;enia m&amp;#244;&amp;#382;ete pos&amp;#250;van&amp;#237;m prsta presk&amp;#250;mava&amp;#357; r&amp;#244;zne &amp;#269;asti obrazovky. Odtiahnut&amp;#237;m prsta sa vr&amp;#225;tite do predch&amp;#225;dzaj&amp;#250;ceho stavu.
+Obsah pod prstom môžete tiež dočasne priblížiť trojitým klepnutím a podržaním. V stave priblíženia môžete posúvaním prsta preskúmavať rôzne časti obrazovky. Odtiahnutím prsta sa vrátite do predchádzajúceho stavu.
 
-Pozn&amp;#225;mka: Pribl&amp;#237;&amp;#382;enie trojit&amp;#253;m klepnut&amp;#237;m funguje v&amp;#353;ade okrem kl&amp;#225;vesnice a naviga&amp;#269;n&amp;#233;ho panela."</string>
+Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a navigačného panela."</string>	
   <string name="accessibility_screen_magnification_title">Gestá priblíženia</string>
   <string name="accessibility_service_default_description">K dispozícii nie je žiadny popis.</string>
   <string name="accessibility_service_no_apps_message">Aplikácia Talkback poskytuje hovorenú odozvu na pomoc nevidomým a slabozrakým používateľom. Chcete si túto aplikáciu bezplatne nainštalovať zo služby Android Market?</string>
@@ -352,7 +352,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikácia chce zapnúť rozhranie Bluetooth a prepnúť vaše zariadenie do režimu, v ktorom bude viditeľný pre ostatné zariadenia. Toto nastavenie môžete neskôr zmeniť v nastaveniach rozhrania Bluetooth.</string>
   <string name="bluetooth_ask_lasting_discovery">Aplikácia chce vaše zariadenie prepnúť do režimu, v ktorom bude viditeľný pre ostatné zariadenia Bluetooth. Toto nastavenie môžete neskôr zmeniť v nastaveniach rozhrania Bluetooth.</string>
   <string name="bluetooth_auto_connect">Automaticky pripojiť</string>
-  <string name="bluetooth_confirm_passkey_msg">Párovanie so zariadením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Uistite sa, že zobrazuje tento prístupový kľúč:&lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt;</string>
+  <string name="bluetooth_confirm_passkey_msg">Párovanie so zariadením: %1$s Skontrolujte, či zariadenie zobrazuje tento prístupový \nkľúč: %2$s</string>
   <string name="bluetooth_connect_specific_profiles_title">Pripojiť k…</string>
   <string name="bluetooth_connected">Pripojené</string>
   <string name="bluetooth_connected_no_a2dp">Pripojené (bez média)</string>
@@ -384,7 +384,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="bluetooth_disable_profile_message">Táto akcia zakáže profil %1$s a zariadenie %2$s</string>
   <string name="bluetooth_disable_profile_title">Zakázať profil?</string>
   <string name="bluetooth_disconnect_a2dp_profile">Zariadenie %1$s bude odpojené od zvukovej jednotky média.</string>
-  <string name="bluetooth_disconnect_all_profiles">Táto akcia ukončí vaše pripojenie so zariadením:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;</string>
+  <string name="bluetooth_disconnect_all_profiles">Týmto spôsobom ukončíte pripojenie k zariadeniu: %1$s</string>
   <string name="bluetooth_disconnect_headset_profile">Zariadenie %1$s bude odpojené od zvukovej jednotky handsfree.</string>
   <string name="bluetooth_disconnect_hid_profile">Profil %1$s bude odpojený od vstupného zariadenia.</string>
   <string name="bluetooth_disconnect_pan_nap_profile">Zariadenie %1$s prestane zdieľať internetové pripojenie tohto zariadenia.</string>
@@ -392,25 +392,26 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="bluetooth_disconnect_title">Odpojiť?</string>
   <string name="bluetooth_disconnected">Odpojený</string>
   <string name="bluetooth_disconnecting">Prebieha odpájanie...</string>
-  <string name="bluetooth_display_passkey_pin_msg">Ak chcete svoje zariadenie spárovať so zariadením &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;, zadajte na ňom kód &lt;br&gt;&lt;b&gt;%2$s&lt;/b&gt; a stlačte kláves Enter.</string>
+  <string name="bluetooth_display_passkey_pin_msg">Párovanie so zariadením: %1$s Zadajte:%2$s a potom stlačte klávesu Return alebo Enter.</string>
   <string name="bluetooth_dock_settings">Nastavenia doku</string>
   <string name="bluetooth_dock_settings_a2dp">Pre hudbu a médiá</string>
   <string name="bluetooth_dock_settings_headset">Ako reproduktor telefónu</string>
   <string name="bluetooth_dock_settings_remember">Zapamätať nastavenia</string>
   <string name="bluetooth_dock_settings_title">Použiť zvuk doku</string>
   <string name="bluetooth_empty_list_bluetooth_off">Ak chcete zobraziť zariadenia, zapnite Bluetooth.</string>
-  <string name="bluetooth_enable">Bluetooth</string>
-  <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmená alebo symboly</string>
-  <string name="bluetooth_enter_passkey_msg">Ak chcete svoje zariadenie spárovať so zariadením &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;, zadajte tento prístupový kľúč vyžadovaný zariadením:</string>
-  <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč možno bude potrebné zadať aj v druhom zariadení.</string>
-  <string name="bluetooth_enter_pin_msg">Ak chcete svoje zariadenie spárovať so zariadením &lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;, zadajte kód PIN požadovaný zariadením:</string>
-  <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno treba zadať aj na druhom zariadení.</string>
+  <string name="bluetooth_enable">Povoliť bluetooth</string>
+  <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena nebo symboly</string>
+  <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením: %1$s Zadajte prístupový kľúč požadovaný zariadením:</string>
+  <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>
+  <string name="bluetooth_enter_pin_msg">Párovanie si zariadením: %1$s Zadajte kód PIN požadovaný zariadením:</string>
+  <string name="bluetooth_enter_pin_msg_hs">Pre spárovanie sa s: %1$s zadajte PIN kód, ktorý požaduje zariadenie (16 číslic alebo viac):</string>
+  <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno nutné zadať i v ďalšom zariadení.</string>
   <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Pripojené ku zvuku telefónu</string>
   <string name="bluetooth_headset_profile_summary_use_for">Použiť pre zvuk telefónu</string>
   <string name="bluetooth_hid_profile_summary_connected">Pripojené na vstupné zariadenie</string>
   <string name="bluetooth_hid_profile_summary_use_for">Použiť pre vstup</string>
-  <string name="bluetooth_incoming_pairing_msg">Zo zariadenia:&lt;br&gt;&lt;b&gt;%1$s&lt;/b&gt;&lt;br&gt;&lt;br&gt;Párovať s týmto zariadením?</string>
+  <string name="bluetooth_incoming_pairing_msg">Zo zariadenia: %1$s Spárovať s týmto zariadením?</string>
   <string name="bluetooth_is_discoverable">Viditeľné pre všetky okolité zariadenia Bluetooth (%1$s)</string>
   <string name="bluetooth_is_discoverable_always">Viditeľné pre všetky okolité zariadenia Bluetooth</string>
   <string name="bluetooth_lock_voice_dialing">Uzamknúť hlasové vytáčanie</string>
@@ -738,10 +739,8 @@ Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="data_usage_restrict_background_title">Obmedziť údaje na pozadí?</string>
   <string name="data_usage_restrict_denied_dialog">Obmedzenie údajov na pozadí je možné len v prípade, že ste nastavili dátový limit pre mobilnú sieť.</string>
   <string name="data_usage_summary_title">Využitie dát</string>
-  <string name="data_usage_sweep_limit">&lt;font size="12"&gt;limit:&lt;/font&gt;"
-"&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;</string>
-  <string name="data_usage_sweep_warning">&lt;font size="21"&gt;^1&lt;/font&gt; &lt;font size="9"&gt;^2&lt;/font&gt;"
-"&lt;font size="12"&gt;upozornenie&lt;/font&gt;</string>
+  <string name="data_usage_sweep_limit">"limit: ^1 ^2"</string>
+  <string name="data_usage_sweep_warning">"^1 ^2 upozornenie"</string>
   <string name="data_usage_tab_3g">2G-3G</string>
   <string name="data_usage_tab_4g">4G</string>
   <string name="data_usage_tab_ethernet">Ethernet</string>
@@ -1241,7 +1240,7 @@ Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich v�
   <string name="internal_format">Formátovať interné úložisko</string>
   <string name="internal_format_summary">Vymazanie interného úložiska vymaže všetky súbory ako napr. fotky a hudbu.</string>
   <string name="internal_media_format_button_text">Formátovať interné úložisko</string>
-  <string name="internal_media_format_desc">Vymazať interné úložisko? &lt;b&gt;V&amp;#353;etky&lt;/b&gt; Va&amp;#353;e d&amp;#225;tat bud&amp;#250; vymazan&amp;#233;. Zariadenie sa re&amp;#353;tartuje po dokon&amp;#353;en&amp;#237;.</string>
+  <string name="internal_media_format_desc">Vymazať interné úložisko? Stratíte všetky vaše dáta ako napr. fotky a hudbu.</string>
   <string name="internal_media_format_final_desc">"Vymazať interné úložisko? Nie je možné to vrátiť späť! Zariadenie sa reštartuje po dokonšení."</string>
   <string name="internal_media_format_title">Vymazať Interné úložisko</string>
   <string name="internal_memory">Interný ukl. priestor</string>
@@ -1429,17 +1428,9 @@ Aktuálne ste prihlásení do nasledujúcich účtov:
   <string name="master_clear_all">"Táto akcia vymaže všetky dáta z interného úložiska, mimo iných aj nasledujúce: účet Google, nastavenie a dáta systému a aplikácií, stiahnuté aplikácie!"</string>
   <string name="master_clear_button_text">Obnoviť</string>
   <string name="master_clear_confirm_title">Obnoviť?</string>
-  <string name="master_clear_desc">Táto operácia vymaže všetky údaje v &lt;b&gt;internom &amp;#250;lo&amp;#382;isku&lt;/b&gt;" zariadenia, vr&amp;#225;tane:
-
-"&lt;li&gt;&amp;#250;&amp;#269;tu Google&lt;/li&gt;"
-"&lt;li&gt;&amp;#250;dajov a nastaven&amp;#237; syst&amp;#233;mu a aplik&amp;#225;ci&amp;#237;&lt;/li&gt;"
-"&lt;li&gt;prevzat&amp;#253;ch aplik&amp;#225;ci&amp;#237;&lt;/li&gt;</string>
-  <string name="master_clear_desc_also_erases_external">&lt;li&gt;Hudba&lt;/li&gt;"
-"&lt;li&gt;Fotografie&lt;/li&gt;"
-"&lt;li&gt;In&amp;#233; pou&amp;#382;&amp;#237;vate&amp;#318;sk&amp;#233; &amp;#250;daje&lt;/li&gt;</string>
-  <string name="master_clear_desc_erase_external_storage">"
-
-Ak chcete vymazať hudbu, obrázky a ďalšie používateľské údaje, musíte vymazať "&lt;b&gt;&amp;#250;lo&amp;#382;isko USB&lt;/b&gt;.</string>
+  <string name="master_clear_desc">"Táto akcia zmaže všetky dáta z interného úložiska telefónu, mimo iných aj nasledujúce: účet Google, nastavenie a dáta systému a aplikácií, stiahnuté aplikácie."</string>
+  <string name="master_clear_desc_also_erases_external">"Hudba, Fotky a ďalšie užívateľské údaje"</string>
+  <string name="master_clear_desc_erase_external_storage">"Ak chcete zmazať tiež hudbu, obrázky a ďalšie užívateľské dáta, je potrebné vymazať SD kartu."</string>
   <string name="master_clear_erase_application_progress">Odstraňujú sa aplikácie...</string>
   <string name="master_clear_failed">Pokus o obnovenie sa neuskutočnil, pretože služba System Clear nie je k dispozícii.</string>
   <string name="master_clear_final_button_text">Vymazať všetko</string>
@@ -1454,7 +1445,7 @@ Ak chcete vymazať hudbu, obrázky a ďalšie používateľské údaje, musíte 
   <string name="media_button">Tlačidlo Média</string>
   <string name="media_feedback_enable_title">Vibrovať v rytme hudby</string>
   <string name="media_format_button_text">Vymazať ukladací priestor USB</string>
-  <string name="media_format_desc">Vymazať úložisko USB? Stratíte &lt;b&gt;v&amp;#353;etky&lt;/b&gt; ulo&amp;#382;en&amp;#233; &amp;#250;daje!</string>
+  <string name="internal_media_format_desc">Vymazať interné úložisko? Stratíte všetky vaše dáta ako napr. fotky a hudbu.</string>
   <string name="media_format_final_button_text">Odstrániť všetko</string>
   <string name="media_format_final_desc">Chcete úložisko USB vymazať a odstrániť tak všetky súbory, ktoré sú na ňom uložené? Túto akciu nebude možné vrátiť späť.</string>
   <string name="media_format_gesture_explanation">Vymazanie úložiska USB musíte potvrdiť nakreslením bezpečnostného vzoru.</string>
@@ -1559,26 +1550,25 @@ Ak chcete vymazať hudbu, obrázky a ďalšie používateľské údaje, musíte 
   <string name="msd_install">Inštalovať ovládač</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Ďalej</string>
-  <string name="msd_install_retry_linux">"Ak počítač nevie rozpoznať zariadenie
+  <string name="msd_install_retry_linux">"Ak počítač nevie rozpoznať Xiaomi
 na systéme Ubuntu 12.xx pokračujte podľa tohto návodu:
-&lt;a href="http://tinyurl.com/Ubuntu-MTP"&gt;Ubuntu-MTP&lt;/a&gt;.
-
-Pozor: Ubuntu 13.04 a nov&amp;#353;ie
-u&amp;#380; obsahuje MTP ovl&amp;#225;da&amp;#269;. 
-"</string>
-  <string name="msd_install_retry_mac">"If the computer did not detect device properly,
+Ubuntu-MTP.
+Pozor: Ubuntu 13.04 a novšie
+uż obsahuje MTP ovládač. 
+"</string>	
+    <string name="msd_install_retry_mac">"If the computer did not detect Xiaomi properly,
 Try the following:
-"&lt;li&gt;"Do a computer search for
+"Do a computer search for
 Android File Transfer
-for MAC"&lt;/li&gt;"
-"&lt;li&gt;Disconnect the MI 2 to computer USB cable and reconnect.&lt;/li&gt;"
-"&lt;li&gt;Re-install the driver.&lt;/li&gt;</string>
-  <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať zariadenie,
+for MAC"
+"Disconnect the MI 2 to computer USB cable and reconnect."
+"Re-install the driver.</string>	
+    <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať Xiaomi,
 skúste:
-"&lt;li&gt;Odpoji&amp;#357; telef&amp;#243;n z USB a pripoji&amp;#357; op&amp;#228;&amp;#357;.&lt;/li&gt;</string>
-  <string name="msd_install_retry_windows_xp">"Ak počítač nevie rozpoznať zariadenie,
+"Odpojiť telefón z USB a pripojiť opäť.</string>
+  <string name="msd_install_retry_windows_xp">"Ak počítač nevie rozpoznať Xiaomi,
 skúste:
-"&lt;li&gt;Odpoji&amp;#357; telef&amp;#243;n z USB a pripoji&amp;#357; op&amp;#228;&amp;#357;.&lt;/li&gt;</string>
+"Odpojiť telefón z USB a pripojiť opäť.</string>
   <string name="msd_install_status_done">Ovládač už je nainštalovaný</string>
   <string name="msd_install_status_undo">Inštalovať ovládač</string>
   <string name="msd_install_succeed">Ovládač je nainštalovaný</string>
@@ -2058,15 +2048,14 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="remove_from_frequently_fragment">Odstrániť \"%s\" z častého nastavenia?</string>
   <string name="reset_app_preferences">Obnoviť predvoľby aplik.</string>
   <string name="reset_app_preferences_button">Obnoviť aplikácie</string>
-  <string name="reset_app_preferences_desc">"Táto akcia obnoví predvoľby pre:
+  <string name="reset_app_preferences_desc">"Toto obnoví všetky nastavenia pre: 
+ "vypnuté aplikácie,"
+ "vypnuté upozornenia aplikácií,"
+ "predvolená aplikácie pre dané akcie,"
+ "obmedzenia týkajúce sa použitia dát na pozadí v aplikáciách."
+ "Akékoľvek obmedzenie povolenia"
 
- "&lt;li&gt;zak&amp;#225;zan&amp;#233; aplik&amp;#225;cie,&lt;/li&gt;"
- "&lt;li&gt;upozornenia zak&amp;#225;zan&amp;#253;ch aplik&amp;#225;ci&amp;#237;,&lt;/li&gt;"
- "&lt;li&gt;predvolen&amp;#233; aplik&amp;#225;cie pre akcie,&lt;/li&gt;"
- "&lt;li&gt;obmedzenia &amp;#250;dajov v pozad&amp;#237; pre aplik&amp;#225;cie,&lt;/li&gt;"
- "&lt;li&gt;ak&amp;#233;ko&amp;#318;vek obmedzenia povolen&amp;#237;.&lt;/li&gt;"
-
- Nestrat&amp;#237;te &amp;#382;iadne &amp;#250;daje aplik&amp;#225;ci&amp;#237;."</string>
+ Žiadne aplikácie sa nevymažú."</string>
   <string name="reset_app_preferences_title">Obnoviť predvoľby aplik.?</string>
   <string name="restore_default_apn">Prebieha obnovovanie predvolených nastavení názvu prístupového bodu (APN).</string>
   <string name="restore_default_apn_completed">Obnovenie predvolených nastavení názvu prístupového bodu (APN) bolo dokončené.</string>
@@ -2439,8 +2428,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="sync_menu_sync_now">Synchronizovať</string>
   <string name="sync_one_time_sync">"Dotykom vykonáte synchronizáciu
 %1$s"</string>
-  <string name="sync_plug">&lt;font fgcolor="#ffffffff"&gt;V&amp;#237;ta v&amp;#225;s slu&amp;#382;ba Google Sync&lt;/font&gt;" 
-Spolo&amp;#269;nos&amp;#357; Google pomocou nej synchronizuje &amp;#250;daje a umo&amp;#382;&amp;#328;uje v&amp;#225;m tak pristupova&amp;#357; ku kontaktom, stretnutiam a &amp;#271;al&amp;#353;&amp;#237;m inform&amp;#225;ci&amp;#225;m, nech ste kdeko&amp;#318;vek."</string>
+  <string name="sync_plug">"Víta vás aplikácia Google Sync. Nový pohľad na synchronizáciu dát v réžii Googlu. Poskytuje vám prístup ku kontaktom, schôdzkam a ďalším informáciám, nech ste kdekoľvek."</string>
   <string name="sync_settings">Synchr.</string>
   <string name="sync_wifi_label">Wi-Fi</string>
   <string name="sync_wifi_only">Iba na Wi-Fi</string>
@@ -3025,9 +3013,7 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
   <string name="wifi_setup_back">Späť</string>
   <string name="wifi_setup_cancel">Zrušiť</string>
   <string name="wifi_setup_connect">Pripojiť</string>
-  <string name="wifi_setup_description_connected">Ak chcete pokračovať v nastavovaní, dotknite sa možnosti &lt;b&gt;&amp;#270;alej&lt;/b&gt;".
-
-Ak sa chcete pripoji&amp;#357; k inej sieti Wi-Fi, dotknite sa mo&amp;#382;nosti "&lt;b&gt;Sp&amp;#228;&amp;#357;&lt;/b&gt;.</string>
+  <string name="wifi_setup_description_connected">"Ak chcete pokračovať v nastavení, dotknite sa možnosti "Ďalej". Dotknite sa možnosti "Späť", ak sa chcete pripojiť k inej sieti Wi-Fi."</string>
   <string name="wifi_setup_description_connecting">Pripájanie môže trvať niekoľko minút...</string>
   <string name="wifi_setup_detail">Podrobnosti siete</string>
   <string name="wifi_setup_eap_not_supported">Počas inštalácie nie je možné konfigurovať pripojenie k sieti Wi-Fi cez protokol EAP. Po inštalácii to môžete vykonať v sekcii Nastavenia &gt; Bezdrôtové pripojenie a siete.</string>
