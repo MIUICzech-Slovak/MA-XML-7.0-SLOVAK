@@ -269,4 +269,5 @@ Skontrolujeme to do dvoch pracovných dní"</string>
   <string name="voucher_edit_limit">čísla</string>
   <string name="voucher_error_password">Nesprávny kód.</string>
   <string name="voucher_input_password_prompt">Vložte kód</string>
+  <string name="payment_actionbar_title">Potvrďte</string>
 </resources>
