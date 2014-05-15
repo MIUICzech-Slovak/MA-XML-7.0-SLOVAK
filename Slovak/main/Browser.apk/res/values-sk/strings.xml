@@ -263,6 +263,7 @@
   <string name="import_bookmarks_wizard_done">Dokončiť</string>
   <string name="import_bookmarks_wizard_next">Ďalej</string>
   <string name="import_bookmarks_wizard_previous">Späť</string>
+  <string name="input_valid_url">Zadajte správnu URL</string>
   <string name="instant_search_label">Google s Instant (Labs)</string>
   <string name="js_engine_flags">Nastaviť JS flags</string>
   <string name="loadSuspended">"Prehliadač nemôže načítať stránku, žiadne pripojenie na Internet."</string>
@@ -308,7 +309,9 @@
   <string name="miui_function_menu_add_to_quicklinks">Skratka</string>
   <string name="miui_function_menu_delete_to_bookmark">Vymazať záložku</string>
   <string name="miui_function_menu_delete_to_quicklinks">Vymazať odkaz</string>
+  <string name="miui_function_menu_desktop_ua">PC</string>
   <string name="miui_function_menu_find_in_page">Nájsť na stránke</string>
+  <string name="miui_function_menu_mobile_ua">Mobil</string>
   <string name="miui_function_menu_share_system">Zdieľať</string>
   <string name="miui_startpage">Úvodná stránka</string>
   <string name="miuichromium_default_text_encoding">Latin-1</string>
@@ -607,7 +610,4 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="input_valid_url">Zadajte správnu URL</string>
-  <string name="miui_function_menu_desktop_ua">PC</string>
-  <string name="miui_function_menu_mobile_ua">Mobil</string>
 </resources>

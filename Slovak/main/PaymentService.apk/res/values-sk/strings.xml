@@ -173,6 +173,7 @@ ako prvé a nemôžu byť použité po vypršaní platnosti"</string>
   <string name="password_hint">Heslo Xiaomi účtu</string>
   <string name="pay_record_empty">Žiadne platby</string>
   <string name="pay_record_typeall">Všetko</string>
+  <string name="payment_actionbar_title">Potvrďte</string>
   <string name="paytool_alipay">Alipay</string>
   <string name="paytool_error_install">%1$s inštalácia bezpečnostného doplnku zlyhala</string>
   <string name="paytool_error_msp">%1$s zlyhalo!</string>
@@ -269,5 +270,4 @@ Skontrolujeme to do dvoch pracovných dní"</string>
   <string name="voucher_edit_limit">čísla</string>
   <string name="voucher_error_password">Nesprávny kód.</string>
   <string name="voucher_input_password_prompt">Vložte kód</string>
-  <string name="payment_actionbar_title">Potvrďte</string>
 </resources>

@@ -151,6 +151,7 @@
   <string name="account_setup_username_uneditable_error">Používateľské meno účtu nemôžete zmeniť. Ak chcete pridať účet s iným používateľským menom, dotknite sa možnosti Pridať účet.</string>
   <string name="account_sync_off">Synchronizácia účtu je vypnutá.</string>
   <string name="account_waiting_for_folders_msg">Prebieha načítavanie zoznamu priečinkov...</string>
+  <string name="accounts_heading">Účty</string>
   <string name="accounts_welcome">Účet si môžete nastaviť pomocou niekoľkých krokov.</string>
   <string name="actionbar_large_unread_count">%1$d+ neprečítaných správ</string>
   <string name="activity_folder_selection">Vybrať priečinok</string>
@@ -284,6 +285,7 @@
   <string name="forward_download_failed_ticker">Nepodarilo sa poslať ďalej jednu alebo viac príloh.</string>
   <string name="forward_download_failed_title">Príloha nebola poslaná ďalej</string>
   <string name="from_heading">"Od: "</string>
+  <string name="from_label">Odosielateľ</string>
   <string name="general_preference_confirm_delete_label">Pred odstránením potvrdiť</string>
   <string name="general_preference_confirm_delete_summary">Správy</string>
   <string name="general_preference_confirm_send_label">Pred odoslaním potvrdiť</string>
@@ -540,6 +542,4 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="wait_for_sync_title">Čaká sa na synchronizáciu</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="yes">Áno</string>
-  <string name="accounts_heading">Účty</string>
-  <string name="from_label">Odosielateľ</string>
 </resources>

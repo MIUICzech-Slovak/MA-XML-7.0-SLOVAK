@@ -622,8 +622,8 @@ Pre pridanie kontaktov, stlačte "Menu", vyberte:
 "Pridať účty alebo nastaviť účet s kontaktmi ktoré môžete synchronizovať s telefónom" 
 "Nový kontakt - pre vytvorenie kontaktu" 
 "Import/Export pre importovanie kontaktov zo SIM alebo SD karty"</string>
-    <string name="noContactsHelpTextForCreateShortcut">"Žiaden kontakt na zobrazenie."</string>
-    <string name="noContactsHelpTextWithSync">"Nemáte žiadne kontakty na zobrazenie. (Ak ste práve pridali svoj účet, môže to chvíľu trvať kým sa načítajú Vaše kontakty.)
+  <string name="noContactsHelpTextForCreateShortcut">"Žiaden kontakt na zobrazenie."</string>
+  <string name="noContactsHelpTextWithSync">"Nemáte žiadne kontakty na zobrazenie. (Ak ste práve pridali svoj účet, môže to chvíľu trvať kým sa načítajú Vaše kontakty.)
 
 Pre pridanie kontaktov, stlačte "Menu", vyberte:
  
@@ -632,8 +632,8 @@ Pre pridanie kontaktov, stlačte "Menu", vyberte:
 "Nový kontakt - pre vytvorenie kontaktu" 
 "Import/Export pre importovanie kontaktov zo SIM alebo SD karty"
 "</string>
-    <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žiaden kontakt na zobrazenie. (Ak ste práve pridali Váš účet, môže to chvíľu trvať kým sa všetko zosynchronizuje.)"</string>
-    <string name="noContactsNoSimHelpText">"Nemáte žiadne kontakty na zobrazenie.
+  <string name="noContactsHelpTextWithSyncForCreateShortcut">"Žiaden kontakt na zobrazenie. (Ak ste práve pridali Váš účet, môže to chvíľu trvať kým sa všetko zosynchronizuje.)"</string>
+  <string name="noContactsNoSimHelpText">"Nemáte žiadne kontakty na zobrazenie.
 
 Pre pridanie kontaktov, stlačte "Menu", vyberte:
  
@@ -641,7 +641,7 @@ Pre pridanie kontaktov, stlačte "Menu", vyberte:
 "Nový kontakt - pre vytvorenie kontaktu"
 "Import/Export pre importovanie kontaktov zo SIM alebo SD karty"
 "</string>
-    <string name="noContactsNoSimHelpTextWithSync">"Nemáte žiadne kontakty na zobrazenie. (Ak ste práve pridali svoj účet, môže to chvíľu trvať kým sa načítajú Vaše kontakty.)
+  <string name="noContactsNoSimHelpTextWithSync">"Nemáte žiadne kontakty na zobrazenie. (Ak ste práve pridali svoj účet, môže to chvíľu trvať kým sa načítajú Vaše kontakty.)
 
 Pre pridanie kontaktov, stlačte "Menu", vyberte:
  
@@ -650,8 +650,8 @@ Pre pridanie kontaktov, stlačte "Menu", vyberte:
 "Nový kontakt - pre vytvorenie kontaktu"
 ""Import/Export pre importovanie kontaktov zo SIM alebo SD karty"
 "</string>
-    <string name="noContactsWithPhoneNumbers">Žiadne kontakty s telefónnym číslom.</string>
-    <string name="noFavoritesHelpText">"Nemáte žiadne obľúbené kontakty. 
+  <string name="noContactsWithPhoneNumbers">Žiadne kontakty s telefónnym číslom.</string>
+  <string name="noFavoritesHelpText">"Nemáte žiadne obľúbené kontakty. 
 
 Pre pridanie kontaktu do obľúbených: 
 

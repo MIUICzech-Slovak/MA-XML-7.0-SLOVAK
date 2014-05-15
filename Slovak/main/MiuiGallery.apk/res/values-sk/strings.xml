@@ -263,6 +263,7 @@ spoločne!"</string>
   <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
   <string name="loading_video">Sťahovanie videa...</string>
   <string name="local_albums">Lokálne Albumy</string>
+  <string name="local_time">(Lokálny)</string>
   <string name="location">Poloha</string>
   <string name="locations">Miesta</string>
   <string name="lomoish">Lomo</string>
@@ -459,6 +460,7 @@ spoločne!"</string>
   <string name="sync_album_set_error">Nepodarilo sa stiahnuť zoznam albumov. Prosím skúste opäť neskôr.</string>
   <string name="sync_album_summary">Nahrajte Vaše fotky do MiCloud</string>
   <string name="sync_history_power_on">Synchronizovať fotografie len počas nabíjania.</string>
+  <string name="sync_in_progress_message">Prebieha synchronizácia...</string>
   <string name="sync_only_in_wifi">Iba cez Wi-Fi</string>
   <string name="sync_only_in_wifi_alert">Deaktivovanie synchronizácie len cez Wi-Fi môže zvýšiť Vaše poplatky za mobilne dáta. Chcete deaktivovať?</string>
   <string name="sync_only_in_wifi_summary">Odporúča sa povoliť, inak sa spotrebuje viac dát od operátora.</string>
@@ -504,6 +506,4 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
-  <string name="local_time">(Lokálny)</string>
-  <string name="sync_in_progress_message">Prebieha synchronizácia...</string>
 </resources>

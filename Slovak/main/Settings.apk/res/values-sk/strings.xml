@@ -51,7 +51,7 @@ Počas priblíženia môžete:
 
 Obsah pod prstom môžete tiež dočasne priblížiť trojitým klepnutím a podržaním. V stave priblíženia môžete posúvaním prsta preskúmavať rôzne časti obrazovky. Odtiahnutím prsta sa vrátite do predchádzajúceho stavu.
 
-Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a navigačného panela."</string>	
+Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a navigačného panela."</string>
   <string name="accessibility_screen_magnification_title">Gestá priblíženia</string>
   <string name="accessibility_service_default_description">K dispozícii nie je žiadny popis.</string>
   <string name="accessibility_service_no_apps_message">Aplikácia Talkback poskytuje hovorenú odozvu na pomoc nevidomým a slabozrakým používateľom. Chcete si túto aplikáciu bezplatne nainštalovať zo služby Android Market?</string>
@@ -83,17 +83,23 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="activity_title_antispam">AntiSpam</string>
   <string name="activity_title_antivirus">AntiVírus</string>
   <string name="activity_title_apk">Balíčky</string>
+  <string name="activity_title_auto_start_manager">Správa Auto. spustenia</string>
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_create_shortcut">Odkaz</string>
   <string name="activity_title_deep_clean">Hĺbkové čistenie</string>
+  <string name="activity_title_default_apps_manager">Správa predvolených apl.</string>
   <string name="activity_title_garbage_cleanup">Čistič</string>
   <string name="activity_title_large_file">Veľké súbory</string>
   <string name="activity_title_license_manager">Povolenia</string>
   <string name="activity_title_memory">Pamäť</string>
   <string name="activity_title_networkassistants">Využitie dát</string>
+  <string name="activity_title_notification_bar_manager">Správa notifikačnej lišty</string>
+  <string name="activity_title_perm_manager">Správa Licencie</string>
+  <string name="activity_title_permission_manager">Správa povolení</string>
   <string name="activity_title_power_manager">Batéria</string>
   <string name="activity_title_residual">Zostatky</string>
   <string name="activity_title_risk">Risk</string>
+  <string name="activity_title_root_manager">Správa Root</string>
   <string name="activity_title_settings">Nastavenia</string>
   <string name="activity_title_system">Systém</string>
   <string name="activity_title_trash">Cache</string>
@@ -525,6 +531,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="button_text_delete_from_white_list">Odobrať</string>
   <string name="button_text_fix">Opraviť</string>
   <string name="button_text_quick_clean">Optimalizovať</string>
+  <string name="button_text_reboot_now">Reštartovať</string>
   <string name="button_text_security">OK</string>
   <string name="button_text_start_optimize">Kontrola</string>
   <string name="button_text_uninstall">Odinštalovať</string>
@@ -834,6 +841,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="device_status_summary">Stav batérie, siete a ďalšie informácie</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrďte pre zálohovanie a odinštalovanie aplikácií</string>
   <string name="dialog_msg_check_all">%1$s obsahuje položiek: %2$d</string>
+  <string name="dialog_msg_load_cleanup_engine_error">Nástroj pre čistenie je poškodený, je nutné preinštalovať ROM!</string>
   <string name="dialog_msg_stop_virus_scan">Chcete zastaviť kontrolu?</string>
   <string name="dialog_msg_uninstall_apps">Odinštalovať tieto aplikácie?</string>
   <string name="dialog_no">Nie</string>
@@ -842,6 +850,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="dialog_title_color_calibration">Možnosti nastavenia farieb</string>
   <string name="dialog_title_font_size">Veľkosť písma</string>
   <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
+  <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
   <string name="dialog_title_stop_virus_scan">Zastaviť</string>
   <string name="dialog_title_uninstall_apps">Odinšt.</string>
   <string name="dialog_yes">Áno</string>
@@ -955,6 +964,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="empty_list_msg">Nie sú nainštalované žiadne aplikácie tretích strán.</string>
   <string name="empty_title_ad">Žiadne reklamné súbory</string>
   <string name="empty_title_apk">Žiadne inštalačné .apk súbory</string>
+  <string name="empty_title_auto_start_list">Žiadne aplikácie</string>
   <string name="empty_title_garbage_cache">Žiadne súbory v cache</string>
   <string name="empty_title_garbage_white_list">Prázdne</string>
   <string name="empty_title_installed_apps">Žiadne aplikácie</string>
@@ -1051,6 +1061,7 @@ Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich v�
   <string name="free_wifi_connected_time">Doba pripojenia: %1$s</string>
   <string name="free_wifi_connecting">Pripájanie...</string>
   <string name="free_wifi_login_again">Prihlásiť znova</string>
+  <string name="free_wifi_manage_summary">Zobraziť %1$s.</string>
   <string name="free_wifi_speed_title">Pomalé pripojenie?</string>
   <string name="free_wifi_summary">Free Wi-Fi，poskytovaná %1$s</string>
   <string name="free_wifi_wiwide_provider">WiWide</string>
@@ -1145,6 +1156,9 @@ Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich v�
   <string name="hints_apk_header_left">Inštalačné apk: %d</string>
   <string name="hints_apk_version">Verzia: %s</string>
   <string name="hints_app_uninstall_residual">Vyčistiť zostatkové súbory?</string>
+  <string name="hints_auto_start_disable_title">Zakázať %d apl. auto. spustenie</string>
+  <string name="hints_auto_start_enable_title">Povoliť %d apl. auto. spustenie</string>
+  <string name="hints_auto_start_warning_info">Zakáz auto. spustenia nepovolí príjmať upozornenia aplikácie</string>
   <string name="hints_cache_header_left">Cache: %d</string>
   <string name="hints_cleanning_text">Čistenie...</string>
   <string name="hints_finish_quick_cleanup">Dokončené</string>
@@ -1445,7 +1459,6 @@ Aktuálne ste prihlásení do nasledujúcich účtov:
   <string name="media_button">Tlačidlo Média</string>
   <string name="media_feedback_enable_title">Vibrovať v rytme hudby</string>
   <string name="media_format_button_text">Vymazať ukladací priestor USB</string>
-  <string name="internal_media_format_desc">Vymazať interné úložisko? Stratíte všetky vaše dáta ako napr. fotky a hudbu.</string>
   <string name="media_format_final_button_text">Odstrániť všetko</string>
   <string name="media_format_final_desc">Chcete úložisko USB vymazať a odstrániť tak všetky súbory, ktoré sú na ňom uložené? Túto akciu nebude možné vrátiť späť.</string>
   <string name="media_format_gesture_explanation">Vymazanie úložiska USB musíte potvrdiť nakreslením bezpečnostného vzoru.</string>
@@ -1548,6 +1561,7 @@ Aktuálne ste prihlásení do nasledujúcich účtov:
   <string name="msd_help_summary">"Máte problém s prístupom na úložisko telefónu cez počítač? Zvoľte Váš operačný systém:"</string>
   <string name="msd_help_title">Pomoc</string>
   <string name="msd_install">Inštalovať ovládač</string>
+  <string name="msd_install_download_zhushou">Stiahnutý MiPhoneManager</string>
   <string name="msd_install_finish">OK</string>
   <string name="msd_install_next">Ďalej</string>
   <string name="msd_install_retry_linux">"Ak počítač nevie rozpoznať Xiaomi
@@ -1555,15 +1569,15 @@ na systéme Ubuntu 12.xx pokračujte podľa tohto návodu:
 Ubuntu-MTP.
 Pozor: Ubuntu 13.04 a novšie
 uż obsahuje MTP ovládač. 
-"</string>	
-    <string name="msd_install_retry_mac">"If the computer did not detect Xiaomi properly,
+"</string>
+  <string name="msd_install_retry_mac">"If the computer did not detect Xiaomi properly,
 Try the following:
 "Do a computer search for
 Android File Transfer
 for MAC"
 "Disconnect the MI 2 to computer USB cable and reconnect."
-"Re-install the driver.</string>	
-    <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať Xiaomi,
+"Re-install the driver.</string>
+  <string name="msd_install_retry_windows_vista">"Ak počítač nevie rozpoznať Xiaomi,
 skúste:
 "Odpojiť telefón z USB a pripojiť opäť.</string>
   <string name="msd_install_retry_windows_xp">"Ak počítač nevie rozpoznať Xiaomi,
@@ -2484,6 +2498,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="toast_app_no_residual_on_sdcard">"Aplikácia nemá žiadne súbory na úložisku"</string>
   <string name="toast_garbage_cleanup_success">Čistenie dokončené</string>
   <string name="toast_garbage_list_empty">Všetko je vporiadku!</string>
+  <string name="toast_need_login">Prihláste sa Xiaomi účtom</string>
   <string name="toast_removed_from_white_list">Odobrané z ignorovaných</string>
   <string name="toast_shortcut_install">Odkaz je vytvorený</string>
   <string name="toast_shortcut_uninstall">Odkaz je odstránený</string>
@@ -2816,6 +2831,9 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="vpn_username">Používateľské meno</string>
   <string name="wait_for_debugger">Čakať na ladiaci nástroj</string>
   <string name="wait_for_debugger_summary">Apl. na ladenie čaká na pripojenie lad. nástroja</string>
+  <string name="wallpaper_desktop">Domáca obrazovka</string>
+  <string name="wallpaper_live">Živé pozadie</string>
+  <string name="wallpaper_lockscreen">Zámok</string>
   <string name="wallpaper_settings_fragment_title">Vybrať tapetu z</string>
   <string name="wallpaper_settings_title">Tapeta</string>
   <string name="welcome">Vitajte</string>
@@ -3157,23 +3175,4 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť v abecednom poradí</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-    <string name="activity_title_perm_manager">Správa Licencie</string>
-    <string name="activity_title_auto_start_manager">Správa Auto. spustenia</string>
-    <string name="activity_title_notification_bar_manager">Správa notifikačnej lišty</string>
-    <string name="activity_title_default_apps_manager">Správa predvolených apl.</string>
-    <string name="activity_title_permission_manager">Správa povolení</string>
-    <string name="activity_title_root_manager">Správa Root</string>
-    <string name="empty_title_auto_start_list">Žiadne aplikácie</string>
-    <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
-    <string name="dialog_msg_load_cleanup_engine_error">Nástroj pre čistenie je poškodený, je nutné preinštalovať ROM!</string>
-    <string name="hints_auto_start_warning_info">Zakáz auto. spustenia nepovolí príjmať upozornenia aplikácie</string>
-    <string name="hints_auto_start_enable_title">Povoliť %d apl. auto. spustenie</string>
-    <string name="hints_auto_start_disable_title">Zakázať %d apl. auto. spustenie</string>
-    <string name="msd_install_download_zhushou">Stiahnutý MiPhoneManager</string>
-    <string name="free_wifi_manage_summary">Zobraziť %1$s.</string>  
-    <string name="toast_need_login">Prihláste sa Xiaomi účtom</string>
-    <string name="button_text_reboot_now">Reštartovať</string>
-    <string name="wallpaper_desktop">Domáca obrazovka</string>
-    <string name="wallpaper_lockscreen">Zámok</string>
-    <string name="wallpaper_live">Živé pozadie</string>
 </resources>

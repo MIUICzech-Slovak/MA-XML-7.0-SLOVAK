@@ -62,6 +62,7 @@
   <string name="gadget_error_text">Problém s načítaním widgetu</string>
   <string name="gadget_google_search_label">Google</string>
   <string name="gadget_load_error">Chyba načítania widgetu...</string>
+  <string name="gadget_mtz_label">Mi Gadgets</string>
   <string name="gadget_photo_22_label">Fotorámček 2x2</string>
   <string name="gadget_photo_24_label">Fotorámček 2x4</string>
   <string name="gadget_photo_44_label">Fotorámček 4x4</string>
@@ -187,6 +188,11 @@
   <string name="status_bar_toggle_vibrate">Vibrácie</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
+  <string name="status_downloaded">stiahnuté</string>
+  <string name="status_downloading">sťahuje sa</string>
+  <string name="status_installing">inštaluje sa</string>
+  <string name="status_paused">pozastavené</string>
+  <string name="status_pending">čaká</string>
   <string name="title_select_live_folder">Vybrať zložku</string>
   <string name="title_select_shortcut">Vybrať zástupcu</string>
   <string name="toggle_select_title">Zvoliť prepínač</string>
@@ -210,10 +216,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-    <string name="status_pending">čaká</string>
-    <string name="status_downloading">sťahuje sa</string>
-    <string name="status_paused">pozastavené</string>
-    <string name="status_downloaded">stiahnuté</string>
-    <string name="status_installing">inštaluje sa</string>
-    <string name="gadget_mtz_label">Mi Gadgets</string>
 </resources>

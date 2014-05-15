@@ -21,6 +21,7 @@
   <string name="applying_update">Prebieha aktualizácia... %s</string>
   <string name="best_update">Najlepšia aktualizácia</string>
   <string name="boot_recovery">Reštart do Recovery</string>
+  <string name="button_text_reboot_now">Reštartovať</string>
   <string name="cancel_download_buton_text">Zrušiť</string>
   <string name="check_update">Skontrolovať</string>
   <string name="check_update_policy">Nastavenie aktualizácie</string>
@@ -83,6 +84,7 @@
   <string name="no_updates_warning">Žiadne nové aktualizácie pre Váš telefón neboli nájdené.</string>
   <string name="no_updates_warning2">Táto aplikácia Vás upozorní na nové aktualizácie.</string>
   <string name="not_recommend">"Neodporúčam"</string>
+  <string name="notify_title_reboot_now">Aktualizácia dokončená</string>
   <string name="now">Teraz</string>
   <string name="paused_queued_for_network">Čakanie na internetové pripojenie</string>
   <string name="paused_queued_for_wifi">Čakanie na Wi-Fi pripojenie</string>
@@ -126,6 +128,8 @@
   <string name="system_backup_helper">Aktualizácia nevymaže vaše užívateľské dáta. Avšak odporúča sa v rámci bezpečnosti tieto dáta zálohovať.</string>
   <string name="system_backup_ok_text">Zálohovať</string>
   <string name="toast_msg_reboot">Aktualizácia je dokončená, reštarujte zariadenie</string>
+  <string name="toast_need_login">Prihláste sa Xiaomi účtom</string>
+  <string name="toast_not_enough_free_space">Nie je dostatok voľného miesta pre OTA</string>
   <string name="toast_update_failed_hints">Aktualizácia zlyhala, stiahnite celú ROM!</string>
   <string name="top_secret_build">Tajná verzia</string>
   <string name="update_comment_hint">(voliteľné)</string>
@@ -151,8 +155,4 @@
   <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
   <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
   <string name="worst_update">Zlý update</string>
-    <string name="toast_need_login">Prihláste sa Xiaomi účtom</string>
-    <string name="notify_title_reboot_now">Aktualizácia dokončená</string>
-    <string name="button_text_reboot_now">Reštartovať</string>
-    <string name="toast_not_enough_free_space">Nie je dostatok voľného miesta pre OTA</string>
 </resources>
