@@ -46,7 +46,7 @@
   <string name="favorite_playlist">Moje obľúbené</string>
   <string name="favorite_succeed">Už je medzi obľúbenými</string>
   <string name="favourite_music_left_half">Pre pridanie skladieb do tohto playlistu stlačte</string>
-  <string name="favourite_music_right_half">Hviezdičku vpravo od názvu skladby</string>
+  <string name="favourite_music_right_half">vpravo od názvu skladby</string>
   <string name="file_not_found">"Súbor neexistuje"</string>
   <string name="find_ktv">Prehľadávať KTV</string>
   <string name="find_music">Prehliadať skladby~</string>
