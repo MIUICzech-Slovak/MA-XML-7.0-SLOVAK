@@ -506,4 +506,7 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
+  <string name="long_press_to_refocus">Držte pre preostrenie</string>
+  <string name="picker_tab_photo">Fotografie</string>
+  <string name="ubifocus_data_missing">Nie je možné preostriť kvôli chýbajúcim dátam</string>
 </resources>

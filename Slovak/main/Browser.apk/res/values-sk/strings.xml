@@ -610,4 +610,5 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="title_bar_loading">Načítavanie...</string>
 </resources>

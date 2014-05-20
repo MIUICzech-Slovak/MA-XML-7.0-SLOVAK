@@ -104,4 +104,5 @@
   <string name="trigger_to_scan_media_library_start">Obnovovanie...</string>
   <string name="unknown_album_name">Neznámy album</string>
   <string name="unknown_artist_name">Neznámy umelec</string>
+  <string name="select_device">Vyberte zariadenie</string>
 </resources>
