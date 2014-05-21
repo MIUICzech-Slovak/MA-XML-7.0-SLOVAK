@@ -3178,4 +3178,5 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="button_text_login">Prihlásiť sa</string>
   <string name="dialog_content_login">Aktualizácia vyžaduje Xiaomi účet, chcete sa prihlásiť?</string>
   <string name="dialog_title_login">Prihlásiť na Xiaomi účet</string>
+  <string name="app_switch_key">Nedávne</string>
 </resources>
