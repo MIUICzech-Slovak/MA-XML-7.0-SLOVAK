@@ -234,4 +234,6 @@ d. MMMM yyyy"</string>
   <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Upraviť prepínače</string>
+  <string name="call_status_ringing">Vyzváňa</string>
+  <string name="reject_call">Odmietnutie hovoru</string>
 </resources>
