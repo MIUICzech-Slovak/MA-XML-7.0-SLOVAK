@@ -164,6 +164,7 @@ Možnosti:"</string>
   <string name="version_preference_title">Verzia</string>
   <string name="welcome_page_alert"/>
   <string name="welcome_page_details">"- Ochrana pred nepovoleným prihlásením
-- Zabráňte strate alebo odcudzeniu vášho zariadenia"</string>
+- Zabráňte strate alebo odcudzeniu vášho zariadenia
+- Slúži na generovanie overovacieho kódu pre dvojfázové prihlasovanie do Xiaomi účtu"</string>
   <string name="welcome_page_title">Ochrana prihlásenia Xiaomi účtu</string>
 </resources>
