@@ -21,7 +21,7 @@
   <string name="button_next">Ďalej</string>
   <string name="button_uninstall_old_app">Odinštalovať</string>
   <string name="cancel">Zrušiť</string>
-  <string name="change_security_lock">More screen locks</string>
+  <string name="change_security_lock">Viac možností zamykania</string>
   <string name="check_code">Ak chcete skontrolovať, či je vaša hodnota kľúča pre účet %1$s správna, overte, či táto hodnota súhlasí s kontrolnou hodnotou, ktorú poskytol server:</string>
   <string name="check_code_menu_item">Skontrolovať hodnotu kľúča</string>
   <string name="check_code_title">Hodnota kontroly integrity</string>
@@ -98,7 +98,7 @@ Prihláste sa na account.xiaomi.com, a potvrďte aktiváciu"</string>
   <string name="open_camera_exception_dialog_content">Problém s kamerou, reštartujte vaše zariadenie</string>
   <string name="open_camera_exception_dialog_title">camera malfunction</string>
   <string name="opensource_page_url">http://code.Xiaomi.com/p/Xiaomi-authenticator/</string>
-  <string name="opensource_preference_title">Open-source project</string>
+  <string name="opensource_preference_title">Projekt s otvoreným zdrojom</string>
   <string name="original_pattern_tip">Zadajte odomykací vzor</string>
   <string name="password_error">Heslo nie je správne</string>
   <string name="password_forget">Zabudli ste?</string>
@@ -106,10 +106,10 @@ Prihláste sa na account.xiaomi.com, a potvrďte aktiváciu"</string>
   <string name="privacy_page_url">http://www.Xiaomi.com/policies/privacy/</string>
   <string name="privacy_preference_title">Zásady súkromia</string>
   <string name="progress_loading">Spracovávanie...</string>
-  <string name="remove_Xiaomi_account_dialog_message">Removing this account will &lt;b&gt;remove your ability&lt;/b&gt; to generate codes, however, it will &lt;b&gt;not&lt;/b&gt; turn off 2-step verification. This may prevent you from signing into your account. &lt;p&gt; Before removing: &lt;ul&gt; &lt;li&gt;Turn off 2-step verification for this account, or&lt;/li&gt; &lt;li&gt;Ensure you have an alternate mechanism for generating codes.&lt;/li&gt; &lt;/ul&gt;</string>
+  <string name="remove_Xiaomi_account_dialog_message">"Odstránením tohto účtu prídete o možnosť vytvárať kódy, avšak k vypnutiu verifikácie v dvoch krokoch nedôjde. Táto skutočnosť vám môže brániť v prihlasovaní do účtu. Pred odstránením vypnite verifikáciu v dvoch krokoch alebo sa presvedčte, či máte alternatívny mechanizmus na vytváranie kódov."</string>
   <string name="remove_account_dialog_button_remove">Odobrať účet</string>
-  <string name="remove_account_dialog_message">Odstránením tohto účtu &lt;b&gt;prídete o možnosť&lt;/b&gt; vytvárať kódy, avšak k vypnutiu dvojfaktorového overenia totožnosti &lt;b&gt;nedôjde&lt;/b&gt;. Táto skutočnosť vám môže brániť v prihlasovaní do účtu. &lt;p&gt; Pred odstránením: &lt;ul&gt; &lt;li&gt;vypnite dvojfaktorové overenie totožnosti alebo&lt;/li&gt; &lt;li&gt;presvedčte sa, či máte alternatívny mechanizmus na vytváranie kódov.&lt;/li&gt; &lt;/ul&gt;</string>
-  <string name="remove_account_dialog_title">Odstrániť účet %1$s?</string>
+  <string name="remove_account_dialog_message">Odstránením tohto účtu prídete o možnosť vytvárať kódy, avšak k vypnutiu dvojfaktorového overenia totožnosti nedôjde. Táto skutočnosť vám môže brániť v prihlasovaní do účtu. Pred odstránením vypnite dvojfaktorové overenie totožnosti alebo sa presvedčte, či máte alternatívny mechanizmus na vytváranie kódov.</string>
+  <string name="remove_account_dialog_title">Odstrániť tento účet?</string>
   <string name="rename">Premenovať</string>
   <string name="rename_message">Premenovať %1$s</string>
   <string name="resetbtn_patternforgotten">Obnoviť</string>
@@ -122,14 +122,14 @@ Prihláste sa na account.xiaomi.com, a potvrďte aktiváciu"</string>
   <string name="submit">Uložiť</string>
   <string name="success_reset_password">Heslo obnovené</string>
   <string name="success_set_password">Heslo nastavené</string>
-  <string name="summary_lockpattern">Require a unique pattern lock for MiCredit</string>
+  <string name="summary_lockpattern">Vyžadovať odomykací vzor pre MiKredity</string>
   <string name="terms_page_url">http://m.Xiaomi.com/tospage</string>
   <string name="terms_preference_title">Zmluvné podmienky</string>
   <string name="timesync_about_feature_preference_title">O tejto funkcii</string>
-  <string name="timesync_about_feature_screen_details">"If you press &amp;quot;Sync now&amp;quot;, Authenticator will attempt to sync its internal clock with Google servers once. The device's Date &amp; Time settings will not be changed. &lt;p&gt; Authenticator does not transmit any personal data or account information while synchronizing its internal clock with Google servers. &lt;p&gt; &lt;b&gt;Why this is useful&lt;/b&gt; &lt;p&gt; Authenticator generates 2-step verification codes based on 1) the current time, and 2) a secret number known to the app and the server. &lt;p&gt; If Authenticator and the server disagree on what time it is, the codes that the app generates may not be accepted when you try to log in. &lt;p&gt; By default Authenticator uses the device's Date &amp; Time settings, and in most cases you will be able to generate valid codes by making sure your time, date, and time zone settings are configured correctly. However, when time mismatches do occur, they can be hard to troubleshoot (especially if you use network-provided time or time zones)."</string>
-  <string name="timesync_about_feature_screen_title">About this feature</string>
-  <string name="timesync_preference_screen_summary">"Sync Authenticator's internal clock with servers"</string>
-  <string name="timesync_preference_screen_title">Time correction for codes</string>
+  <string name="timesync_about_feature_screen_details">Ak stlačíte tlačidlo „Synchronizovať“, aplikácia Authenticator sa raz pokúsi zosynchronizovať svoje interné hodiny so servermi Google. Čas a dátum zariadenia sa týmto nezmenia. &lt;p> Počas synchronizácie interných hodín so servermi Google neprenáša aplikácia Authenticator žiadne osobné údaje ani informácie o účte. &lt;p> &lt;b>Prečo je to užitočné?&lt;/b> Aplikácia Authenticator generuje kódy pre verifikáciu v dvoch krokoch na základe 1) aktuálneho času a 2) utajeného čísla, ktoré pozná aplikácia a server. &lt;p> Ak sa aplikácia Authenticator a server nezhodnú na aktuálnom čase, kód vygenerovaný aplikáciou nemusí byť pri pokuse o prihlásenie prijatý. &lt;p> Aplikácia Authenticator predvolene používa nastavenia dátumu a času zariadenia a vo väčšine prípadov budete môcť generovať platné kódy tým, že skontrolujete, či sú nastavenia času, dátumu a časového pásma nakonfigurované správne. Ak však vznikne nesúlad medzi jednotlivými časmi, môžete sa pri riešení týchto problémov stretnúť s ťažkosťami (hlavne v prípade, ak používate čas a časové pásmo poskytované sieťou).</string>
+  <string name="timesync_about_feature_screen_title">O tejto funkcii</string>
+  <string name="timesync_preference_screen_summary">Synchronizovať interné hodiny aplikácie Authenticator so servermi spoločnosti Google</string>
+  <string name="timesync_preference_screen_title">Úprava času pre generovanie kódov</string>
   <string name="timesync_sync_now_connectivity_error_dialog_details">Pri komunikácii so servermi Google sa vyskytol problém. Skontrolujte nastavenia siete a skúste to znova.</string>
   <string name="timesync_sync_now_connectivity_error_dialog_title">Synchronizovať</string>
   <string name="timesync_sync_now_preference_title">Synchronizovať</string>
@@ -149,12 +149,12 @@ Nastavenia dátumu a času v tomto zariadení sa nezmenili."</string>
   <string name="title_createpattern">Nastavenie hesla</string>
   <string name="title_forgetpattern">Zabudnuté heslo?</string>
   <string name="title_gesture">Odomykací vzor</string>
-  <string name="title_lockpattern">Require pattern lock</string>
+  <string name="title_lockpattern">Vyžadovať odomykací vzor</string>
   <string name="title_myaccount">Môj účet: %s</string>
-  <string name="title_nopassword">"Don't require for small payments"</string>
-  <string name="title_nopassword_dialog">Daily limit</string>
+  <string name="title_nopassword">"Nevyžadovať pre malé platby"</string>
+  <string name="title_nopassword_dialog">Denný limit</string>
   <string name="title_password">Heslo</string>
-  <string name="title_password_threshold">Daily limit = ￥%1$s</string>
+  <string name="title_password_threshold">Denný limit = ￥%1$s</string>
   <string name="title_patternforgotten">"Zabudli ste heslo?
 Možnosti:"</string>
   <string name="title_updatepattern">Upraviť</string>
