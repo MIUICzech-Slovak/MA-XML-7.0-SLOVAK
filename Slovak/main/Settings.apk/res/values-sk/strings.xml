@@ -3179,4 +3179,9 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="dialog_content_login">Aktualizácia vyžaduje Xiaomi účet, chcete sa prihlásiť?</string>
   <string name="dialog_title_login">Prihlásiť na Xiaomi účet</string>
   <string name="app_switch_key">Nedávne</string>
+  <string name="audio_list_loading">Načítavanie...</string>
+  <string name="menu_item_show_more">Viac</string>
+  <string name="resource_ringtone_volume_mute">Zvonenie je stíšené</string>
+  <string name="ringtone_mute">Žiadne</string>
+  <string name="title_system_resource">Systémové zdroje</string>
 </resources>
