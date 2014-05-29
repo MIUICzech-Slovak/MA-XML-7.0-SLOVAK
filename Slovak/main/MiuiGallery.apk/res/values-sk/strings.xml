@@ -509,4 +509,6 @@ spoločne!"</string>
   <string name="long_press_to_refocus">Držte pre preostrenie</string>
   <string name="picker_tab_photo">Fotografie</string>
   <string name="ubifocus_data_missing">Nie je možné preostriť kvôli chýbajúcim dátam</string>
+  <string name="alert_init_merged_message">Fotografie ktoré máte vo svojom zariadení a v MiCloud, sa zobrazia na jednom mieste.</string>
+  <string name="alert_init_merged_title">Všetky fotografie na jednom mieste.</string>
 </resources>

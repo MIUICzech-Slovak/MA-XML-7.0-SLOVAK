@@ -3184,4 +3184,6 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="resource_ringtone_volume_mute">Zvonenie je stíšené</string>
   <string name="ringtone_mute">Žiadne</string>
   <string name="title_system_resource">Systémové zdroje</string>
+  <string name="online_resource_entry">Online zdroje</string>
+  <string name="title_local_resource">Lokálne zdroje</string>
 </resources>
