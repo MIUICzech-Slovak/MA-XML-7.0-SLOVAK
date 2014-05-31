@@ -1047,7 +1047,7 @@ Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich v�
   <string name="force_stop_dlg_text">Ak vynútite zastavenie aplikácie, môže sa správať zvláštne.</string>
   <string name="force_stop_dlg_title">Vynútiť zastavenie?</string>
   <string name="forget_wifi_message">Vaše zariadenie sa nebude automaticky pripájať k tejto sieti.</string>
-  <string name="found_new_version">Nájdená nová verzia</string>
+  <string name="found_new_version">"Nájdená nová verzia "</string>
   <string name="free_wifi_confirm">Potvrdiť</string>
   <string name="free_wifi_connect">Pripojiť</string>
   <string name="free_wifi_connect_dialog_summary">Táto Free Wi-Fi %1$s je poskytovaná %2$s.</string>
