@@ -3188,4 +3188,6 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="title_local_resource">Lokálne zdroje</string>
   <string name="add_auto_startup_application">Pridať aplikáciu</string>
   <string name="power_autorun_apps_empty">Žiadne aplikácie</string>
+  <string name="lockpassword_pin_fixed_length">PIN musí obsahovať %d čísel</string>
+  <string name="status_serialno">Žiadne</string>
 </resources>

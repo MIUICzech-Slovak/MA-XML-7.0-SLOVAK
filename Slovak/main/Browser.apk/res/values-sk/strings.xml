@@ -314,12 +314,17 @@
   <string name="miui_function_menu_mobile_ua">Mobil</string>
   <string name="miui_function_menu_share_system">Zdieľať</string>
   <string name="miui_startpage">Úvodná stránka</string>
-  <string name="miuichromium_default_text_encoding">Latin-1</string>
+  <string name="miuichromium_error_page_mobile">Mobilná sieť</string>
+  <string name="miuichromium_error_page_reason_network">Zobraziť URL</string>
+  <string name="miuichromium_error_page_reason_server">Nie je možné načítať túto stránku</string>
+  <string name="miuichromium_error_page_reload">Obnoviť</string>
+  <string name="miuichromium_error_page_title">Nie je možné načítať túto stránku</string>
+  <string name="miuichromium_error_page_url">Zobraziť URL</string>
+  <string name="miuichromium_error_page_wlan">Nastavenia Wi-Fi</string>
   <string name="miuichromium_save_password_message">Chcete aby si prehliadač zapamätal toto heslo?</string>
   <string name="miuichromium_save_password_never">Nikdy</string>
-  <string name="miuichromium_save_password_notnow">Nie teraz</string>
+  <string name="miuichromium_save_password_notnow">Teraz nie</string>
   <string name="miuichromium_save_password_remember">Zapamätať</string>
-  <string name="month_picker_dialog_title">Nastaviť mesiac</string>
   <string name="move_to_up_folder">O úroveň vyššie</string>
   <string name="multi_select_title">Vybraných %1$s</string>
   <string name="name">Názov</string>
@@ -612,4 +617,5 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="copy_to_clipboard_failure_message">Kopírovanie do schránky zlyhalo</string>
   <string name="date_picker_dialog_other_button_label">Iné</string>
+  <string name="contextmenu_selecttext">Vybrať text</string>
 </resources>

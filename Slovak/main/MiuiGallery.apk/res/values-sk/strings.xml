@@ -508,7 +508,22 @@ spoločne!"</string>
   <string name="yes">Áno</string>
   <string name="long_press_to_refocus">Držte pre preostrenie</string>
   <string name="picker_tab_photo">Fotografie</string>
-  <string name="ubifocus_data_missing">Nie je možné preostriť kvôli chýbajúcim dátam</string>
+  <string name="ubifocus_data_missing">Chýbajú dáta</string>
   <string name="alert_init_merged_message">Fotografie ktoré máte vo svojom zariadení a v MiCloud, sa zobrazia na jednom mieste.</string>
   <string name="alert_init_merged_title">Všetky fotografie na jednom mieste.</string>
+  <string name="ubifocus_map_error">Nesprávne dáta</string>
+  <string name="ubifocus_refocus_fail_tip">Nie je možné preostriť kvôli chýbajúcim dátam</string>
+  <string name="bigscreen_slide_playing">Prezentácia sa prehráva na: %s</string>
+  <string name="confirm_delete_has_cloud_image">Vymazať obrázky (%s) v cloude?</string>
+  <string name="confirm_delete_has_cloud_image_video">Vymazať položky (%s) v cloude?</string>
+  <string name="confirm_delete_has_cloud_local_image">Vymazať obrázky (%s) v zariadení a cloude?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Vymazať položky (%s) v zariadení a cloude?</string>
+  <string name="confirm_delete_has_cloud_local_video">Vymazať videá (%s) v zariadení a cloude?</string>
+  <string name="confirm_delete_has_cloud_video">Vymazať videá (%s) v cloude?</string>
+  <string name="confirm_delete_has_local_image">Vymazať obrázky (%s)?</string>
+  <string name="confirm_delete_has_local_image_video">Vymazať položky (%s)?</string>
+  <string name="confirm_delete_has_local_video">Vymazať videá (%s)?</string>
+  <string name="confirm_delete_init_message">Obrázky budú vymazané z tohto zariadenia z vášho MiCloud účtu.</string>
+  <string name="confirm_delete_init_title">Nápoveda</string>
+  <string name="skip_hide_special_album">Systémová albumy (Fotoaparát, Screenshoty) nie je možné skryť.</string>
 </resources>

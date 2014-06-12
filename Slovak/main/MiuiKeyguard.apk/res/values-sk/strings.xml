@@ -72,4 +72,5 @@ Deaktivujte režim Lietadlo."</string>
   <string name="unlockscreen_low_battery">Pripojte nabíjačku</string>
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
+ <string name="default_lockscreen_unlock_hint_text">Posuňte nahor</string>
 </resources>
