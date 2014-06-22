@@ -35,6 +35,10 @@
   <string name="channel_all_empty_hint">Žiadne videá</string>
   <string name="channel_choice_empty_hint">Žiadne videá</string>
   <string name="choice">Najpozeranejšie</string>
+  <string name="clarity_high">Vysoká kvalita</string>
+  <string name="clarity_standard">Štandardná kvalita</string>
+  <string name="clarity_supper">Najlepšia kvalita</string>
+  <string name="clarity_unknown">Neznáma kvalita</string>
   <string name="clear_cache">Vymazať cache</string>
   <string name="clear_cache_summary">Vymazať cache náhľadov videa</string>
   <string name="comment">Komentáre</string>
@@ -186,6 +190,7 @@
   <string name="tv_channel_empty_hint">Žiadne kanály</string>
   <string name="type_colon">Žáner:</string>
   <string name="unfavorite">Odznačiť</string>
+  <string name="unknown_source">Neznámy zdroj</string>
   <string name="update">Aktualizovaná</string>
   <string name="update_to_count_ji">Aktualizované na Ep. %d</string>
   <string name="updatedalready">Aktualizované</string>
@@ -209,6 +214,7 @@
   <string name="vp_auto_select">Vybrať automaticky</string>
   <string name="vp_content_description">Popis</string>
   <string name="vp_device_list">Zoznam zariadení</string>
+  <string name="vp_error_get_play_url_back_to_continue">Získavanie URL zlyhalo.</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Na celú obrazovku</string>
   <string name="vp_function">Nastavenie</string>
@@ -224,6 +230,7 @@
   <string name="vp_select_ci">Vybrať</string>
   <string name="vp_select_ep">Vybrať ep</string>
   <string name="vp_select_function">Vybrať funkciu</string>
+  <string name="vp_select_source">Vybrať zdroj</string>
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Super</string>
   <string name="vp_using_16_9">16:9</string>
@@ -233,11 +240,4 @@
   <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
   <string name="xiaomi_user">Xiaomi užívateľ</string>
   <string name="yesterday">"Včera "</string>
-  <string name="clarity_high">Vysoká kvalita</string>
-  <string name="clarity_standard">Štandardná kvalita</string>
-  <string name="clarity_supper">Najlepšia kvalita</string>
-  <string name="clarity_unknown">Neznáma kvalita</string>
-  <string name="unknown_source">Neznámy zdroj</string>
-  <string name="vp_error_get_play_url_back_to_continue">Získavanie URL zlyhalo.</string>
-  <string name="vp_select_source">Vybrať zdroj</string>
 </resources>

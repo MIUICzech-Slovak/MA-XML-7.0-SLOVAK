@@ -2,6 +2,7 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="contact_carrier_message">Ak máte ďalšie otázky, opýtajte sa vášho operátora.</string>
+  <string name="default_lockscreen_unlock_hint_text">Posuňte nahor</string>
   <string name="emergency_call_string">SOS</string>
   <string name="experimental_try_string">Skúsiť</string>
   <string name="experimental_validate">Schváliť</string>
@@ -72,5 +73,4 @@ Deaktivujte režim Lietadlo."</string>
   <string name="unlockscreen_low_battery">Pripojte nabíjačku</string>
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
- <string name="default_lockscreen_unlock_hint_text">Posuňte nahor</string>
 </resources>

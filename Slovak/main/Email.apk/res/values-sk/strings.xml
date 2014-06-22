@@ -108,8 +108,8 @@
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_title">Nastavenie účtu</string>
   <string name="account_setup_incoming_username_label">Používateľské meno</string>
-  <string name="account_setup_index_other_mails">Iné</string>
   <string name="account_setup_index_label">Pridať účet</string>
+  <string name="account_setup_index_other_mails">Iné</string>
   <string name="account_setup_names_account_name_label">Pomenovať tento účet (nepovinné)</string>
   <string name="account_setup_names_headline">Váš účet je nastavený a e-mail je na ceste!</string>
   <string name="account_setup_names_title">Nastavenie účtu</string>

@@ -55,6 +55,7 @@
   <string name="battery_low_why">Využitie batérie</string>
   <string name="bluetooth_tethered">Bluetooth tethering</string>
   <string name="call_status_dialing">Vytáčam</string>
+  <string name="call_status_ringing">Vyzváňa</string>
   <string name="camera_key_action_app_title">Otvoriť aplikáciu</string>
   <string name="camera_key_action_category_title">Použite, pokiaľ nie je zapnutý fotoaparát</string>
   <string name="camera_key_action_none_title">Bez akcie</string>
@@ -130,6 +131,7 @@
   <string name="notification_otg_trackball_out">Trackball je odpojený</string>
   <string name="notification_otg_unknow_in">OTG zariadenie je pripojené</string>
   <string name="notification_otg_unknow_out">OTG zariadenie je odpojené</string>
+  <string name="reject_call">Odmietnutie hovoru</string>
   <string name="return_to_incall_screen">Stlačte pre návrat k hovoru</string>
   <string name="screen_button_disabled_message">Tlačidlá pod displejom sú vypnuté. Môžete ich zapnúť stlačením tlačidiel \"Domov\" a \"Zapínanie\"</string>
   <string name="screen_button_enabled_message">Tlačidlá pod displejom sú zapnuté</string>
@@ -234,6 +236,4 @@ d. MMMM yyyy"</string>
   <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Upraviť prepínače</string>
-  <string name="call_status_ringing">Vyzváňa</string>
-  <string name="reject_call">Odmietnutie hovoru</string>
 </resources>

@@ -156,15 +156,18 @@
   <string name="contextmenu_openlink_newwindow">Otvoriť na novej karte</string>
   <string name="contextmenu_openlink_newwindow_background">Otvoriť na novej karte na pozadí</string>
   <string name="contextmenu_savelink">Uložiť odkaz</string>
+  <string name="contextmenu_selecttext">Vybrať text</string>
   <string name="contextmenu_send_mail">Poslať e-mail</string>
   <string name="contextmenu_set_wallpaper">Nastaviť ako tapetu</string>
   <string name="contextmenu_sharelink">Zdieľať odkaz</string>
   <string name="contextmenu_view_image">Zobraziť obrázok</string>
   <string name="copy_link">Kopírovať</string>
   <string name="copy_page_url">Skopírovať URL stránky</string>
+  <string name="copy_to_clipboard_failure_message">Kopírovanie do schránky zlyhalo</string>
   <string name="create_shortcut_bookmark">Pridať odkaz na domácu obrazovku</string>
   <string name="current_page">"od "</string>
   <string name="date_picker_dialog_clear">Vyčistiť</string>
+  <string name="date_picker_dialog_other_button_label">Iné</string>
   <string name="date_picker_dialog_set">Nastaviť</string>
   <string name="date_picker_dialog_title">Nastaviť dátum</string>
   <string name="date_time_picker_dialog_title">Nastaviť dátum a čas</string>
@@ -615,7 +618,4 @@ Ste si istý, že chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="copy_to_clipboard_failure_message">Kopírovanie do schránky zlyhalo</string>
-  <string name="date_picker_dialog_other_button_label">Iné</string>
-  <string name="contextmenu_selecttext">Vybrať text</string>
 </resources>

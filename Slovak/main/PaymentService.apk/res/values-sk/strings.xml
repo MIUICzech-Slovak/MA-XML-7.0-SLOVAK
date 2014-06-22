@@ -38,6 +38,7 @@
   <string name="btn_call">Hovor</string>
   <string name="btn_count_down_auto">%1$s sekúnd</string>
   <string name="btn_delete_record">Vymazať</string>
+  <string name="btn_finish">Dokončiť</string>
   <string name="btn_mili_center_recharge">Navýšiť MiKredit</string>
   <string name="btn_net_connection_retry">Znova</string>
   <string name="btn_next">Ďalej</string>
@@ -269,6 +270,5 @@ Skontrolujeme to do dvoch pracovných dní"</string>
   <string name="voucher_card_text">Zotrite ochranu kódu</string>
   <string name="voucher_edit_limit">čísla</string>
   <string name="voucher_error_password">Nesprávny kód.</string>
-  <string name="btn_finish">Dokončiť</string>
   <string name="voucher_input_password_prompt">Vložte kód</string>
 </resources>

@@ -112,6 +112,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="adb_warning_message">Ladenie USB je určené iba na účely vývoja. Použite ho na kopírovanie údajov medzi počítačom a zariadením, inštaláciu aplikácií do zariadenia bez upozornenia a čítanie údajov denníka.</string>
   <string name="adb_warning_title">Povoliť ladenie USB?</string>
   <string name="add_account_label">Pridať účet</string>
+  <string name="add_auto_startup_application">Pridať aplikáciu</string>
   <string name="add_device_admin">Aktivovať</string>
   <string name="add_device_admin_msg">Aktivovať správcu zariadenia?</string>
   <string name="additional_system_update"/>
@@ -202,6 +203,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="app_sees_restricted_accounts">Táto aplikácia môže pristupovať k vašim účtom</string>
   <string name="app_special_disable_dlg_text">Ak zakážete vstavanú aplikáciu, ostatné aplikácie nemusia fungovať správne. Vaše údaje sa taktiež odstránia.</string>
   <string name="app_special_disable_dlg_title">Odstrániť údaje a zakázať aplikáciu?</string>
+  <string name="app_switch_key">Nedávne</string>
   <string name="application_forbid_auto_startup">Zakázať %s sa spustiť na pozadí</string>
   <string name="application_info_label">Informácie o aplikácii</string>
   <string name="application_item_already_permission">Povolené</string>
@@ -222,6 +224,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="assisted_gps">Použiť systém A-GPS</string>
   <string name="assisted_gps_disabled">Vylepšiť funkčnosť GPS pomocou servera (zrušením tejto funkcie zvýšite výkon GPS)</string>
   <string name="assisted_gps_enabled">Vylepšiť funkčnosť GPS pomocou servera (vypnutím tejto funkcie znížite využitie siete)</string>
+  <string name="audio_list_loading">Načítavanie...</string>
   <string name="audio_profile_settings_title">Zvukové profily</string>
   <string name="audio_record_proc_title">Potlačenie šumu</string>
   <string name="auto_caps">Veľké písmená automaticky</string>
@@ -530,6 +533,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="button_text_clear">Vyčistiť</string>
   <string name="button_text_delete_from_white_list">Odobrať</string>
   <string name="button_text_fix">Opraviť</string>
+  <string name="button_text_login">Prihlásiť sa</string>
   <string name="button_text_quick_clean">Optimalizovať</string>
   <string name="button_text_reboot_now">Reštartovať</string>
   <string name="button_text_security">OK</string>
@@ -839,6 +843,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="device_status">Stav</string>
   <string name="device_status_activity_title">Stav</string>
   <string name="device_status_summary">Stav batérie, siete a ďalšie informácie</string>
+  <string name="dialog_content_login">Aktualizácia vyžaduje Xiaomi účet, chcete sa prihlásiť?</string>
   <string name="dialog_msg_backup_and_uninstall_apps">Potvrďte pre zálohovanie a odinštalovanie aplikácií</string>
   <string name="dialog_msg_check_all">%1$s obsahuje položiek: %2$d</string>
   <string name="dialog_msg_load_cleanup_engine_error">Nástroj pre čistenie je poškodený, je nutné preinštalovať ROM!</string>
@@ -851,6 +856,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto zariadenia."</string>
   <string name="dialog_title_font_size">Veľkosť písma</string>
   <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
   <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
+  <string name="dialog_title_login">Prihlásiť na Xiaomi účet</string>
   <string name="dialog_title_stop_virus_scan">Zastaviť</string>
   <string name="dialog_title_uninstall_apps">Odinšt.</string>
   <string name="dialog_yes">Áno</string>
@@ -1386,6 +1392,7 @@ Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich v�
   <string name="lockpassword_password_too_short">Heslo musí obsahovať najmenej %d znakov</string>
   <string name="lockpassword_pattern_set_toast">Vzor bol nastavený</string>
   <string name="lockpassword_pin_contains_non_digits">Kód PIN musí obsahovať len číslice 0 až 9.</string>
+  <string name="lockpassword_pin_fixed_length">PIN musí obsahovať %d čísel</string>
   <string name="lockpassword_pin_recently_used">Správca zariadení neumožňuje používanie nedávneho kódu PIN.</string>
   <string name="lockpassword_pin_set_toast">Bol nastavený kód PIN</string>
   <string name="lockpassword_pin_too_long">Kód PIN musí mať menej ako %d číslic.</string>
@@ -1506,6 +1513,7 @@ Aktuálne ste prihlásení do nasledujúcich účtov:
   <string name="menu_item_shortcut_summary">Pridajte často používané funkcie na plochu</string>
   <string name="menu_item_shortcut_title">Pridať odkaz</string>
   <string name="menu_item_shortcut_uninstall">Odstrániť odkazy</string>
+  <string name="menu_item_show_more">Viac</string>
   <string name="menu_item_uninstall">Uninstall</string>
   <string name="menu_item_virus_cloud_scan_summary">Použiť online databázu</string>
   <string name="menu_item_virus_cloud_scan_title">Cloudová vírusová databáza</string>
@@ -1663,6 +1671,7 @@ skúste:
   <string name="oldman_mode_entry_title">Lite mode</string>
   <string name="oldman_mode_settings_caption">Lite mode settings</string>
   <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
+  <string name="online_resource_entry">Online zdroje</string>
   <string name="only_one_home_message">Nastavenia domovskej stránky zostanú skryté do nainštalovania ďalšej aplikácie pre domovskú stránku.</string>
   <string name="only_when_charging">Len počas nabíjania</string>
   <string name="onscreen_keyboard_settings_summary">Nastavenia klávesnice na obrazovke</string>
@@ -1703,6 +1712,7 @@ skúste:
   <string name="pointer_speed">Rýchlosť ukazovateľa</string>
   <string name="power_20s_enter_mode">Režim %2$s o %1$d sekúnd</string>
   <string name="power_apply_toast">Prepnúť na %s režim a uložiť súčasný profil</string>
+  <string name="power_autorun_apps_empty">Žiadne aplikácie</string>
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_button_delete">Vymazať</string>
   <string name="power_cell">Telefón v pohotovostnom režime</string>
@@ -2071,6 +2081,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
 
  Žiadne aplikácie sa nevymažú."</string>
   <string name="reset_app_preferences_title">Obnoviť predvoľby aplik.?</string>
+  <string name="resource_ringtone_volume_mute">Zvonenie je stíšené</string>
   <string name="restore_default_apn">Prebieha obnovovanie predvolených nastavení názvu prístupového bodu (APN).</string>
   <string name="restore_default_apn_completed">Obnovenie predvolených nastavení názvu prístupového bodu (APN) bolo dokončené.</string>
   <string name="restrict_background_data_dialog_summary">"Aplikácie ktoré sú spustené na pozadí nebudú môcť načítať nové správy. Skutočne chcete zakázať dáta na pozadí?"</string>
@@ -2089,6 +2100,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="restriction_wifi_config_title">Siete Wi-Fi a mobilné siete</string>
   <string name="retry">Znova</string>
   <string name="ring_volume_title">Hlasitosť vyzváňania</string>
+  <string name="ringtone_mute">Žiadne</string>
   <string name="ringtone_summary"/>
   <string name="ringtone_title">Tón zvonenia telefónu</string>
   <string name="risk_list_header_title">Podozrivá aplikácia: %d</string>
@@ -2394,6 +2406,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_prl_version">Verzia PRL</string>
   <string name="status_roaming">Roaming</string>
   <string name="status_serial_number">Sériové číslo</string>
+  <string name="status_serialno">Žiadne</string>
   <string name="status_service_state">Stav služby</string>
   <string name="status_signal_strength">Sila signálu</string>
   <string name="status_unavailable">Nie sú k dispozícii</string>
@@ -2480,6 +2493,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="title_hdmi_color_calibration">Nastavenie farieb</string>
   <string name="title_install_virus_no">Kontrola inštalácií zakázaná</string>
   <string name="title_install_virus_yes">Kontrola inštalácií povolená</string>
+  <string name="title_local_resource">Lokálne zdroje</string>
   <string name="title_miui_update_no">Aktualizácia MIUI: %s</string>
   <string name="title_miui_update_yes">MIUI je aktuálna</string>
   <string name="title_mms_no">Filter správ vypnutý</string>
@@ -2488,6 +2502,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="title_permission_yes">Sledovanie povolení zapnuté</string>
   <string name="title_show_notification_no">Zobrazenie v roletke vypnuté</string>
   <string name="title_show_notification_yes">Zobrazenie v roletke zapnuté</string>
+  <string name="title_system_resource">Systémové zdroje</string>
   <string name="title_usb_no">USB ladenie zapnuté</string>
   <string name="title_usb_yes">USB ladenie vypnuté</string>
   <string name="title_virus_no">Našiel sa vírus</string>
@@ -3175,19 +3190,4 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť v abecednom poradí</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-  <string name="button_text_login">Prihlásiť sa</string>
-  <string name="dialog_content_login">Aktualizácia vyžaduje Xiaomi účet, chcete sa prihlásiť?</string>
-  <string name="dialog_title_login">Prihlásiť na Xiaomi účet</string>
-  <string name="app_switch_key">Nedávne</string>
-  <string name="audio_list_loading">Načítavanie...</string>
-  <string name="menu_item_show_more">Viac</string>
-  <string name="resource_ringtone_volume_mute">Zvonenie je stíšené</string>
-  <string name="ringtone_mute">Žiadne</string>
-  <string name="title_system_resource">Systémové zdroje</string>
-  <string name="online_resource_entry">Online zdroje</string>
-  <string name="title_local_resource">Lokálne zdroje</string>
-  <string name="add_auto_startup_application">Pridať aplikáciu</string>
-  <string name="power_autorun_apps_empty">Žiadne aplikácie</string>
-  <string name="lockpassword_pin_fixed_length">PIN musí obsahovať %d čísel</string>
-  <string name="status_serialno">Žiadne</string>
 </resources>

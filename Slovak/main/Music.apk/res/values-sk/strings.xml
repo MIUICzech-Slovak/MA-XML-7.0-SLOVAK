@@ -16,21 +16,20 @@
   <string name="audio_picker_title">Zvoľte skladbu</string>
   <string name="available_playlist_name_format">Nový playlist %d</string>
   <string name="bill_list_fragment_title">Populárne</string>
-  <string name="blank_reminder">Nesmie byť prázdne</string>
   <string name="buffering">Načítavanie...</string>
   <string name="button_add">Pridať</string>
   <string name="cancel">Zrušiť</string>
   <string name="click_to_shuffle">Spustiť všetko náhodne</string>
-  <string name="create_new_playlist">Nový</string>
   <string name="dialog_button_agree">Súhlasím</string>
   <string name="dialog_button_create_playlist">Vytvoriť Playlist</string>
   <string name="dialog_button_find_music">Objavte novú hudbu</string>
   <string name="dialog_button_login">Prihláste sa a synchronizujte vašu hudbu</string>
   <string name="dialog_button_scan_tracks">Vyhľadať hudbu v tomto zariadení</string>
   <string name="dialog_delete_descript">Vymazať %s?</string>
-  <string name="dialog_hint_music_error">Žiadne skladby. Môžete...</string>
+  <string name="dialog_hint_music_error">Žiadne skladby</string>
   <string name="dialog_hint_network_error">Sieť je nedostupná. Pripojte sa k sieti a skúste to znova.</string>
   <string name="dialog_title_add_playlist">Pridať Playlist</string>
+  <string name="dialog_title_delete_tracks">Vymazať</string>
   <string name="dialog_title_name_playlist">Názov</string>
   <string name="dialog_title_remove_tracks">Odobrať skladby</string>
   <string name="dialog_title_track_picker">Vybrať skladby</string>
@@ -50,8 +49,6 @@
   <string name="file_not_found">"Súbor neexistuje"</string>
   <string name="find_ktv">Prehľadávať KTV</string>
   <string name="find_music">Prehliadať skladby~</string>
-  <string name="find_music_left"/>
-  <string name="find_music_right"/>
   <string name="fragment_more">Viac</string>
   <string name="function_error">Táto funkcia je momentálne nedostupná</string>
   <string name="go_to_add_music">Pridať skladbu~</string>
@@ -81,15 +78,15 @@
   <string name="playback_failed_no_title_by_bad_file">"Skladby nie je možné prehrať. Formát nie je podporovaný alebo súbor neexistuje."</string>
   <string name="playlist_deleted_message">Playlist vymazaný</string>
   <string name="playlist_renamed_message">Playlist premenovaný</string>
-  <string name="project_device">MiBox</string>
   <string name="project_device_mobile">Mobilné zariadenie</string>
   <string name="recommend_fragment_title">Album</string>
   <string name="retry">Znova</string>
-  <string name="same_name_reminder">Nesmie sa opakovať</string>
   <string name="search_hint">Umelec.Skladba.Album</string>
   <string name="search_title">Vyhľadať</string>
+  <string name="select_device">Vyberte zariadenie</string>
   <string name="send_to">Odoslať</string>
   <string name="send_to_title">Odoslať (%1$s)</string>
+  <string name="source_from">Zdroj: %1$s</string>
   <string name="streamloadingtext">Pripájanie k %s</string>
   <string name="track_list_control_download">Stiahnuť</string>
   <string name="track_list_control_edit_add_tracks">Pridať skladby</string>
@@ -104,6 +101,4 @@
   <string name="trigger_to_scan_media_library_start">Obnovovanie...</string>
   <string name="unknown_album_name">Neznámy album</string>
   <string name="unknown_artist_name">Neznámy umelec</string>
-  <string name="select_device">Vyberte zariadenie</string>
-  <string name="source_from">Zdroj: %1$s</string>
 </resources>

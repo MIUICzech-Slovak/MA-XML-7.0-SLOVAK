@@ -39,6 +39,8 @@
   <string name="albums">Albumov</string>
   <string name="albumset_page_title_separator"> | </string>
   <string name="alert">Oznam</string>
+  <string name="alert_init_merged_message">Fotografie ktoré máte vo svojom zariadení a v MiCloud, sa zobrazia na jednom mieste.</string>
+  <string name="alert_init_merged_title">Všetky fotografie na jednom mieste.</string>
   <string name="alert_message_open_sync">Vyžaduje sa synchronizácia, prajete si synchronizovať teraz?</string>
   <string name="already_apply_album">Otvoriť %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -59,6 +61,7 @@
   <string name="big_screen_alertdialog_title">Zariadenia</string>
   <string name="bigscreen_slide_exit">Ukončiť prezentáciu</string>
   <string name="bigscreen_slide_fail_cause_loading">Skúste to znova po načítaní obrázku.</string>
+  <string name="bigscreen_slide_playing">Prezentácia sa prehráva na: %s</string>
   <string name="bigscreen_video_quit">Dotykom zrušíte prehrávanie</string>
   <string name="browse_category">Prezeranie fotografií</string>
   <string name="by_email">E-mail</string>
@@ -115,6 +118,17 @@ spoločne!"</string>
   <string name="confirm_delete">Vymazať (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
   <string name="confirm_delete_cloud_all_item_page" formatted="false">%s obrázkov v %s albume, ste si istý, že ich chcete vymazať?</string>
+  <string name="confirm_delete_has_cloud_image">Vymazať obrázky (%s) v cloude?</string>
+  <string name="confirm_delete_has_cloud_image_video">Vymazať položky (%s) v cloude?</string>
+  <string name="confirm_delete_has_cloud_local_image">Vymazať obrázky (%s) v zariadení a cloude?</string>
+  <string name="confirm_delete_has_cloud_local_image_video">Vymazať položky (%s) v zariadení a cloude?</string>
+  <string name="confirm_delete_has_cloud_local_video">Vymazať videá (%s) v zariadení a cloude?</string>
+  <string name="confirm_delete_has_cloud_video">Vymazať videá (%s) v cloude?</string>
+  <string name="confirm_delete_has_local_image">Vymazať obrázky (%s)?</string>
+  <string name="confirm_delete_has_local_image_video">Vymazať položky (%s)?</string>
+  <string name="confirm_delete_has_local_video">Vymazať videá (%s)?</string>
+  <string name="confirm_delete_init_message">Obrázky budú vymazané z tohto zariadenia z vášho MiCloud účtu.</string>
+  <string name="confirm_delete_init_title">Nápoveda</string>
   <string name="confirm_delete_pictures">%s</string>
   <string name="confirm_delete_system_album">%s je systémový album, skutočne vymazať?</string>
   <string name="confirm_delete_this_picture">Vymazať tento obrázok?</string>
@@ -267,6 +281,7 @@ spoločne!"</string>
   <string name="location">Poloha</string>
   <string name="locations">Miesta</string>
   <string name="lomoish">Lomo</string>
+  <string name="long_press_to_refocus">Držte pre preostrenie</string>
   <string name="make_download_dir_fail">Vytvorenie zložky pre súbory zlyhalo</string>
   <string name="maker">Tvorca</string>
   <string name="manual">Manuál</string>
@@ -352,6 +367,7 @@ spoločne!"</string>
   <string name="picker_no_items_selected">Žiadne položky</string>
   <string name="picker_select_album_title_empty">Vyberte album</string>
   <string name="picker_tab_camera">Fotoaparát</string>
+  <string name="picker_tab_photo">Fotografie</string>
   <string name="posterize">Posterizovať</string>
   <string name="ppmm_gallery">PPMM</string>
   <string name="preparing_data_to_delete">Príprava obrázkov na vymazanie.</string>
@@ -440,6 +456,7 @@ spoločne!"</string>
   <string name="size_above">%1$s alebo väčšie</string>
   <string name="size_below">%1$s alebo menšie</string>
   <string name="size_between">%1$s do %2$s</string>
+  <string name="skip_hide_special_album">Systémová albumy (Fotoaparát, Screenshoty) nie je možné skryť.</string>
   <string name="slideshow">Prehliadka</string>
   <string name="slideshow_category">Prehliadka</string>
   <string name="slideshow_dream_name">Prehliadka</string>
@@ -483,6 +500,9 @@ spoločne!"</string>
   <string name="to_count">%d celkovo</string>
   <string name="too_many_recipients">Správa má príliš mnoho príjemcov (%1$s), povolených je %2$s.</string>
   <string name="try_to_send">Pokúsiť sa odoslať</string>
+  <string name="ubifocus_data_missing">Chýbajú dáta</string>
+  <string name="ubifocus_map_error">Nesprávne dáta</string>
+  <string name="ubifocus_refocus_fail_tip">Nie je možné preostriť kvôli chýbajúcim dátam</string>
   <string name="ucdownloads_screenshot">UC Prehliadač</string>
   <string name="unit_mm">mm</string>
   <string name="unpublish_failed">Odstránenie z verejných albumov zlyhalo.</string>
@@ -506,24 +526,4 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
-  <string name="long_press_to_refocus">Držte pre preostrenie</string>
-  <string name="picker_tab_photo">Fotografie</string>
-  <string name="ubifocus_data_missing">Chýbajú dáta</string>
-  <string name="alert_init_merged_message">Fotografie ktoré máte vo svojom zariadení a v MiCloud, sa zobrazia na jednom mieste.</string>
-  <string name="alert_init_merged_title">Všetky fotografie na jednom mieste.</string>
-  <string name="ubifocus_map_error">Nesprávne dáta</string>
-  <string name="ubifocus_refocus_fail_tip">Nie je možné preostriť kvôli chýbajúcim dátam</string>
-  <string name="bigscreen_slide_playing">Prezentácia sa prehráva na: %s</string>
-  <string name="confirm_delete_has_cloud_image">Vymazať obrázky (%s) v cloude?</string>
-  <string name="confirm_delete_has_cloud_image_video">Vymazať položky (%s) v cloude?</string>
-  <string name="confirm_delete_has_cloud_local_image">Vymazať obrázky (%s) v zariadení a cloude?</string>
-  <string name="confirm_delete_has_cloud_local_image_video">Vymazať položky (%s) v zariadení a cloude?</string>
-  <string name="confirm_delete_has_cloud_local_video">Vymazať videá (%s) v zariadení a cloude?</string>
-  <string name="confirm_delete_has_cloud_video">Vymazať videá (%s) v cloude?</string>
-  <string name="confirm_delete_has_local_image">Vymazať obrázky (%s)?</string>
-  <string name="confirm_delete_has_local_image_video">Vymazať položky (%s)?</string>
-  <string name="confirm_delete_has_local_video">Vymazať videá (%s)?</string>
-  <string name="confirm_delete_init_message">Obrázky budú vymazané z tohto zariadenia z vášho MiCloud účtu.</string>
-  <string name="confirm_delete_init_title">Nápoveda</string>
-  <string name="skip_hide_special_album">Systémová albumy (Fotoaparát, Screenshoty) nie je možné skryť.</string>
 </resources>

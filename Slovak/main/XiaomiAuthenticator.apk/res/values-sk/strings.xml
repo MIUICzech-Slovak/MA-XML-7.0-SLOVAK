@@ -121,6 +121,7 @@ Prihláste sa na account.xiaomi.com, a potvrďte aktiváciu"</string>
   <string name="security_setting">Bezpečnostné nastavenia</string>
   <string name="settings_menu_item">Nastavenia</string>
   <string name="submit">Uložiť</string>
+  <string name="success_copy_to_clipboard">Skopírované do schránky</string>
   <string name="success_reset_password">Heslo obnovené</string>
   <string name="success_set_password">Heslo nastavené</string>
   <string name="summary_lockpattern">Vyžadovať odomykací vzor pre MiKredity</string>
@@ -168,5 +169,4 @@ Možnosti:"</string>
 - Zabráňte strate alebo odcudzeniu vášho zariadenia
 - Slúži na generovanie overovacieho kódu pre dvojfázové prihlasovanie do Xiaomi účtu"</string>
   <string name="welcome_page_title">Ochrana prihlásenia Xiaomi účtu</string>
-  <string name="success_copy_to_clipboard">Skopírované do schránky</string>
 </resources>
