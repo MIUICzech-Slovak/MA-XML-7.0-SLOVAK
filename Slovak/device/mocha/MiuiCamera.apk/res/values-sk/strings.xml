@@ -187,6 +187,8 @@ opustite na chvíľu náhľad"</string>
   <string name="people">Ľudia</string>
   <string name="pref_advanced_functions">Rozšírené funkcie</string>
   <string name="pref_advanced_settings">Rozšírené</string>
+  <string name="pref_audio_indicator_entry_off">Zvuk vyp.</string>
+  <string name="pref_audio_indicator_entry_on">Zvuk zap.</string>
   <string name="pref_camcorder_settings_category">Nastavenie kamery</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
   <string name="pref_camera_antibanding_entry_0">Vypnuté</string>
