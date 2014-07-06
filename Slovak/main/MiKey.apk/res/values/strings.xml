@@ -1,13 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-  <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
-  <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
-  <string name="setting_key_mode_dust_cap">key_dust_cap</string>
-  <string name="setting_key_mode_silent_open">key_silent_default</string>
-  <string name="setting_key_silent">key_silent</string>
-  <string name="setting_speed_max_time">1000</string>
-  <string name="setting_speed_middle_time">500ms</string>
-  <string name="setting_speed_min_time">0</string>
   <string name="action_capture_video">Video</string>
   <string name="action_clear_call_list">Delete call logs</string>
   <string name="action_clear_memory">Clear memory</string>
@@ -72,6 +65,8 @@
   <string name="copy">Copy</string>
   <string name="copy_succeed">Copied successfully</string>
   <string name="default_action_title">Default action</string>
+  <string name="default_toolbar_items">.CapturePhotoAction,.FlashlightAction,.AudioRecorderAction,0,0,0</string>
+  <string name="default_toolbox_items">.FlashlightAction,.AudioRecorderAction,.CapturePhotoInstantAction,0</string>
   <string name="delete">Delete</string>
   <string name="delete_confirm">Are you sure you would like to delete this action?</string>
   <string name="delete_gesture">Delete button guestures for MiKey?</string>
@@ -135,11 +130,17 @@
   <string name="setting_instant_photo_text">Focus before taking picture</string>
   <string name="setting_keeplive_desc">This option allows the application to run on the background and respond quickly to your commands. However, this can increase the battery consumption</string>
   <string name="setting_keeplive_text">Run in background</string>
+  <string name="setting_key_mode_dust_cap">key_dust_cap</string>
+  <string name="setting_key_mode_silent_open">key_silent_default</string>
+  <string name="setting_key_silent">key_silent</string>
   <string name="setting_silent_mode">Silent mode</string>
   <string name="setting_silent_mode_default">Headphone mode (select MiKey)</string>
   <string name="setting_silent_mode_desc">"If you want to connect the headset, select the headset mode and disconnect the MiKey. Otherwise the audio output will not work properly."</string>
   <string name="setting_silent_mode_dust_cap">Plug mode</string>
   <string name="setting_speed_desc">Button click speed</string>
+  <string name="setting_speed_max_time">1000</string>
+  <string name="setting_speed_middle_time">500ms</string>
+  <string name="setting_speed_min_time">0</string>
   <string name="setting_speed_quick">Faster</string>
   <string name="setting_speed_slow">Slower</string>
   <string name="setting_speed_text">Speed</string>

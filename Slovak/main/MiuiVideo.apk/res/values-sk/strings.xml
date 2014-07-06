@@ -212,12 +212,15 @@
   <string name="vp_adapt_height">Prispôsobiť na výšku</string>
   <string name="vp_adapt_width">Prispôsobiť na šírku</string>
   <string name="vp_auto_select">Vybrať automaticky</string>
+  <string name="vp_back">Späť</string>
   <string name="vp_content_description">Popis</string>
   <string name="vp_device_list">Zoznam zariadení</string>
   <string name="vp_error_get_play_url_back_to_continue">Získavanie URL zlyhalo.</string>
+  <string name="vp_exit">Ukončiť</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Na celú obrazovku</string>
   <string name="vp_function">Nastavenie</string>
+  <string name="vp_get_url_error">Načítavanie URL zlyhalo.</string>
   <string name="vp_hide_media_info">Skryť info o videu</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_loading">Načítavanie...</string>
@@ -240,7 +243,4 @@
   <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
   <string name="xiaomi_user">Xiaomi užívateľ</string>
   <string name="yesterday">"Včera "</string>
-  <string name="vp_back">Späť</string>
-  <string name="vp_exit">Ukončiť</string>
-  <string name="vp_get_url_error">Načítavanie URL zlyhalo.</string>
 </resources>
