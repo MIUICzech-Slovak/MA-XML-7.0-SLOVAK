@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="cit_OTG_plugin_check_summary">Tento test zistí zariadenie OTG.</string>
   <string name="cit_OTG_plugin_check_title">Spustiť test OTG</string>
@@ -19,13 +18,13 @@ Turn the device so that the headphone input is facing downward. Speak into the m
   <string name="cit_audio_loopback_check_summary_second">"Secondary microphone right speaker feedback test.
 
 Turn the device so that the headphone input is facing downward. Speak into the microphone. You should hear your voice played through the right speaker."</string>
-  <string name="cit_audio_loopback_summary_dualmic">"Ambient noise reduction test
-
-Turn the device so that the headphone input is facing downward. Speak in to the microphone. You should hear your voice with reduced noise in the background played through the speaker."</string>
   <string name="cit_audio_loopback_check_two_title">Secondary microphone right speaker feedback test</string>
   <string name="cit_audio_loopback_dualmic_title">Ambient noise reduction test</string>
   <string name="cit_audio_loopback_next">Next</string>
   <string name="cit_audio_loopback_previous">Previous</string>
+  <string name="cit_audio_loopback_summary_dualmic">"Ambient noise reduction test
+
+Turn the device so that the headphone input is facing downward. Speak in to the microphone. You should hear your voice with reduced noise in the background played through the speaker."</string>
   <string name="cit_battery_temp_fail">Test batérie zlyhal s (hodnota=%d)</string>
   <string name="cit_battery_temp_pass">Test batérie úspešný</string>
   <string name="cit_batterylight_blue">Modrá</string>
@@ -162,11 +161,11 @@ a zvyšuje sa pri odkrytí senzoru</string>
   <string name="cit_sd_mount_sucess">SD karta bola úspešne pripojená</string>
   <string name="cit_sd_mp3_not_existed">Súbor music.mp3 nie je možné nájsť  na Vašej SD karte. 
 Skopírujte súbor na SD kartu a spustite test znova.</string>
+  <string name="cit_sd_plug_check_summary">The test will detect SD card status, please plug in and pull out SD card one time</string>
+  <string name="cit_sd_plug_check_title">SD card (detection)</string>
   <string name="cit_sd_plugged_in">SD karta pripojená, odpojte SD kartu</string>
   <string name="cit_sd_plugged_out">SD karta odpojená, pripojte SD kartu</string>
-  <string name="cit_sd_plug_check_summary">The test will detect SD card status, please plug in and pull out SD card one time</string>
   <string name="cit_sd_plugout_check_summary">Tento test zistí odpojenie SD karty</string>
-  <string name="cit_sd_plug_check_title">SD card (detection)</string>
   <string name="cit_sd_plugout_check_title">Test Odpojenia SD karty</string>
   <string name="cit_sd_unmount">Odpojiť SD kartu</string>
   <string name="cit_sd_unmount_sucess">SD karta bola úspešne odpojená</string>
@@ -213,7 +212,10 @@ Skopírujte súbor na SD kartu a spustite test znova.</string>
   <string name="cit_tool_log_toast_generate_bugreport">Vytvorenie záznamu o chybe môže trvať aj viac ako 1 minútu.</string>
   <string name="cit_tool_modem">MODEM Test</string>
   <string name="cit_tool_modem_bugreport">MODEM Coredump</string>
+  <string name="cit_tool_modem_cta_test">Open/Close protocol conformance test</string>
   <string name="cit_tool_modem_offline_log">Otvoriť/Zatvoriť Offline Log</string>
+  <string name="cit_tool_modem_pcap_switch">Open/Close DATA output</string>
+  <string name="cit_tool_modem_pcm_switch">Open/Close PCM output</string>
   <string name="cit_tool_wifi">Testovať Wi-Fi</string>
   <string name="cit_tool_wifi_5g_100a">Tx:100/6M/13dBm</string>
   <string name="cit_tool_wifi_5g_100b">Tx:100/54M/13dBm</string>
@@ -266,14 +268,14 @@ Skopírujte súbor na SD kartu a spustite test znova.</string>
   <string name="cit_tool_wifi_rxbg_test_channel">chan:</string>
   <string name="cit_tool_wifi_rxbg_test_datarate">rate:</string>
   <string name="cit_tool_wifi_rxn_test">Rx: n</string>
+  <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
   <string name="cit_tool_wifi_rxn_test_channel">chan:</string>
+  <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
   <string name="cit_tool_wifi_tx_bg">Tx: a/b/g</string>
   <string name="cit_tool_wifi_tx_bg_chan">Kanál:</string>
   <string name="cit_tool_wifi_tx_bg_txpr">TX power:</string>
   <string name="cit_tool_wifi_tx_bg_txrt">Prenosová rýchlosť:</string>
   <string name="cit_tool_wifi_tx_n">Tx: n</string>
-  <string name="cit_tool_wifi_tx_ac">Tx: ac</string>
-  <string name="cit_tool_wifi_rxn_test_bw">bandwidth:</string>
   <string name="cit_tool_wifi_tx_n_bandwidth">bandwidth:</string>
   <string name="cit_tool_wifi_tx_n_chan">Kanál:</string>
   <string name="cit_tool_wifi_tx_n_txpr">TX Power:</string>
@@ -288,9 +290,6 @@ Skopírujte súbor na SD kartu a spustite test znova.</string>
   <string name="cit_touch_calib_pass">Kalibrácia je úspešne dokončená</string>
   <string name="cit_touch_calib_summary">Nasledujúce kroky dokončia kalibráciu dotykov, stlačte OK, nedotýkajte sa displeja kým sa kalibrácia nedokončí</string>
   <string name="cit_touch_calib_title">Kalibrácia dotykov</string>
-  <string name="cit_tool_modem_cta_test">Open/Close protocol conformance test</string>
-  <string name="cit_tool_modem_pcap_switch">Open/Close DATA output</string>
-  <string name="cit_tool_modem_pcm_switch">Open/Close PCM output</string>
   <string name="cit_usb_OTG_in">OTG zariadenie je pripojené</string>
   <string name="cit_usb_OTG_out">USB_OTG zariadenie nie je pripojené.</string>
   <string name="cit_usb_charger_in">USB nabíjačka je pripojená</string>

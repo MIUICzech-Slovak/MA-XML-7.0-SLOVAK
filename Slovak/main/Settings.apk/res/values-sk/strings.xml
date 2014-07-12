@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Settings_title_anti_spam">Nastavenie Antispamu</string>
   <string name="Settings_title_anti_virus">Nastavenie AntiVírusu</string>
@@ -2591,12 +2590,12 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="title_virus_update_no">Automatická aktualizácia vírusovej databázy zakázaná</string>
   <string name="title_virus_update_yes">Automatická aktualizácia vírusovej databázy povolená</string>
   <string name="title_virus_yes">Žiadne vírusy</string>
+  <string name="tnhwrevision_settings_list_item_summary">MiPAD popis HW</string>
+  <string name="tnhwrevision_settings_list_item_title">MiPAD HW revízia</string>
   <string name="toast_add_white_list_success">Pridané do ignorovaných, skontrolujte nastavenia</string>
   <string name="toast_app_no_residual_on_sdcard">"Aplikácia nemá žiadne súbory na úložisku"</string>
   <string name="toast_garbage_cleanup_success">Čistenie dokončené</string>
   <string name="toast_garbage_list_empty">Všetko je vporiadku!</string>
-  <string name="tnhwrevision_settings_list_item_summary">MiPAD popis HW</string>
-  <string name="tnhwrevision_settings_list_item_title">MiPAD HW revízia</string>
   <string name="toast_need_login">Prihláste sa Xiaomi účtom</string>
   <string name="toast_removed_from_white_list">Odobrané z ignorovaných</string>
   <string name="toast_shortcut_install">Odkaz je vytvorený</string>
@@ -3275,4 +3274,4 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť v abecednom poradí</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-</resources>
+</resources>

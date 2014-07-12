@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="about_preference_screen_title">Informácie</string>
   <string name="about_preference_title">Informácie</string>
@@ -12,6 +11,8 @@
   <string name="app_name">Xiaomi Generátor</string>
   <string name="app_name_lockpattern">Odomykací vzor</string>
   <string name="app_name_short">Generátor</string>
+  <string name="authenticator_invalid_tip">Môžete zatvoriť aplikáciu alebo vygenerovať ďalší overovací kód</string>
+  <string name="authenticator_invalid_title">Účet: %1$s nesprávny kód</string>
   <string name="authenticator_page_reactivation">Znovu aktivovať</string>
   <string name="button_add_account">Pridať účet</string>
   <string name="button_add_account_manual_entry">Ručne pridať účet</string>
@@ -27,6 +28,7 @@
   <string name="check_code_menu_item">Skontrolovať hodnotu kľúča</string>
   <string name="check_code_title">Hodnota kontroly integrity</string>
   <string name="context_menu_remove_account">Odstrániť</string>
+  <string name="continue_btn">Pokračovať</string>
   <string name="copy_to_clipboard">Kopírovať do schránky</string>
   <string name="correct_enter_password">Správne heslo</string>
   <string name="correct_enter_update_password">Heslo je správne</string>
@@ -169,7 +171,4 @@ Možnosti:"</string>
 - Zabráňte strate alebo odcudzeniu vášho zariadenia
 - Slúži na generovanie overovacieho kódu pre dvojfázové prihlasovanie do Xiaomi účtu"</string>
   <string name="welcome_page_title">Ochrana prihlásenia Xiaomi účtu</string>
-  <string name="continue_btn">Pokračovať</string>
-  <string name="authenticator_invalid_tip">Môžete zatvoriť aplikáciu alebo vygenerovať ďalší overovací kód</string>
-  <string name="authenticator_invalid_title">Účet: %1$s nesprávny kód</string>
 </resources>

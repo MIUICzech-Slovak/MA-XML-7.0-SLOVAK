@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="ErrorTooManyRequests">Spracúva sa príliš veľa žiadostí. Opakujte akciu neskôr.</string>
   <string name="ack_record">Záznam ACK</string>
@@ -9,6 +8,7 @@
   <string name="auth_notif_message">Zadajte kľúč relácie pre zariadenie %1$s</string>
   <string name="auth_notif_ticker">Žiadosť overenia Obex</string>
   <string name="auth_notif_title">Kľúč relácie</string>
+  <string name="bt_advanced_settings">Bluetooth Advanced Settings</string>
   <string name="bt_enable_cancel">Zrušiť</string>
   <string name="bt_enable_line1">Ak chcete používať služby Bluetooth, musíte najskôr rozhranie Bluetooth zapnúť.</string>
   <string name="bt_enable_line2">Zapnúť Bluetooth?</string>
@@ -62,6 +62,10 @@
   <string name="incoming_file_toast_msg">Potvrďte príjem súboru prichádzajúceho z iného zariadenia.</string>
   <string name="insert_record">Vložiť záznam</string>
   <string name="localPhoneName">Moje meno</string>
+  <string name="map_datasource_mms_name">MMS</string>
+  <string name="map_datasource_sms_name">SMS</string>
+  <string name="map_datasource_smsmms_name">SMS a MMS</string>
+  <string name="map_provider_smsmms_name">Správy</string>
   <string name="miui_transfer_history_title">Bluetooth prenos</string>
   <string name="miui_transfer_inbound_title">Prichádzajúce</string>
   <string name="miui_transfer_outbound_title">Odchádzajúce</string>
@@ -85,12 +89,33 @@
   <string name="pbap_authentication_timeout_message">Časový limit na zadanie kľúča relácie pre %1$s vypršal</string>
   <string name="pbap_session_key_dialog_header">Požaduje sa kľúč relácie Bluetooth</string>
   <string name="pbap_session_key_dialog_title">Zadajte kľúč relácie pre zariadenie %1$s</string>
+  <string name="permdesc_bluetoothMap">Allows the app to access the Bluetooth Message Access Profile content provider and use it send messages to MAP messages to clients.</string>
   <string name="permdesc_bluetoothShareManager">Umožňuje aplikácii pristupovať k Správcovi BluetoothShare a použiť ho na prenos súborov.</string>
   <string name="permdesc_bluetoothWhitelist">Umožňuje aplikácii dočasne povoliť zariadenie Bluetooth, čím sa povolí zariadeniu odosielať súbory do tohto zariadenia bez potvrdenia používateľa.</string>
+  <string name="permdesc_fm_receiver">Allows an application to access the FM receiver functions.</string>
   <string name="permdesc_handoverStatus">Umožňuje prijímať informácie o odovzdanom stave prenosu z rozhrania Bluetooth.</string>
+  <string name="permlab_bluetoothMap">Access Bluetooth Message Access Profile content provider.</string>
   <string name="permlab_bluetoothShareManager">Získať prístup k správcovi preberania.</string>
   <string name="permlab_bluetoothWhitelist">Prístup povoleného zariadenia Bluetooth.</string>
+  <string name="permlab_fm_receiver">access FM receiver</string>
   <string name="permlab_handoverStatus">Prijímať odovzdané vysielania prenosu z rozhrania BT.</string>
+  <string name="profile_description_a2dp">A2DP Profil</string>
+  <string name="profile_description_ftp">Prenos súborov</string>
+  <string name="profile_description_gatt">GATT/BLE Profil</string>
+  <string name="profile_description_hdp">Zariadenia pre zdravie</string>
+  <string name="profile_description_hid">Human Interface Device (Host) Profile</string>
+  <string name="profile_description_hs_hfp">Headset/Handsfree</string>
+  <string name="profile_description_mse">Prístup k správam</string>
+  <string name="profile_description_pan">Personal Area Network Profile</string>
+  <string name="profile_description_sap">Prístup k SIM</string>
+  <string name="profile_ftp">FTP</string>
+  <string name="profile_gatt">GATT</string>
+  <string name="profile_hdp">HDP</string>
+  <string name="profile_hid">HID Host</string>
+  <string name="profile_hs_hfp">HS/HFP</string>
+  <string name="profile_mse">MAP</string>
+  <string name="profile_pan">PAN</string>
+  <string name="profile_sap">SAP</string>
   <string name="start_server">Spustiť server TCP</string>
   <string name="status_canceled">Prenos bol zrušený používateľom.</string>
   <string name="status_connection_error">Neúspešný pokus o pripojenie.</string>
@@ -103,6 +128,7 @@
   <string name="status_running">Prebieha prenos súborov.</string>
   <string name="status_success">Prenos súborov bol úspešne dokončený.</string>
   <string name="status_unknown_error">Neznáma chyba.</string>
+  <string name="title_bt_mse_settings">Bluetooth MAP nastavenia</string>
   <string name="transfer_clear_dlg_msg">Zo zoznamu budú vymazané všetky položky.</string>
   <string name="transfer_clear_dlg_title">Vymazať</string>
   <string name="transfer_menu_clear">Vymazať zo zoznamu</string>
@@ -125,31 +151,4 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
-  <string name="bt_advanced_settings">Bluetooth Advanced Settings</string>
-  <string name="map_datasource_mms_name">MMS</string>
-  <string name="map_datasource_sms_name">SMS</string>
-  <string name="map_datasource_smsmms_name">SMS a MMS</string>
-  <string name="map_provider_smsmms_name">Správy</string>
-  <string name="permdesc_bluetoothMap">Allows the app to access the Bluetooth Message Access Profile content provider and use it send messages to MAP messages to clients.</string>
-  <string name="permdesc_fm_receiver">Allows an application to access the FM receiver functions.</string>
-  <string name="permlab_bluetoothMap">Access Bluetooth Message Access Profile content provider.</string>
-  <string name="permlab_fm_receiver">access FM receiver</string>
-  <string name="profile_description_a2dp">A2DP Profil</string>
-  <string name="profile_description_ftp">Prenos súborov</string>
-  <string name="profile_description_gatt">GATT/BLE Profil</string>
-  <string name="profile_description_hdp">Zariadenia pre zdravie</string>
-  <string name="profile_description_hid">Human Interface Device (Host) Profile</string>
-  <string name="profile_description_hs_hfp">Headset/Handsfree</string>
-  <string name="profile_description_mse">Prístup k správam</string>
-  <string name="profile_description_pan">Personal Area Network Profile</string>
-  <string name="profile_description_sap">Prístup k SIM</string>
-  <string name="profile_ftp">FTP</string>
-  <string name="profile_gatt">GATT</string>
-  <string name="profile_hdp">HDP</string>
-  <string name="profile_hid">HID Host</string>
-  <string name="profile_hs_hfp">HS/HFP</string>
-  <string name="profile_mse">MAP</string>
-  <string name="profile_pan">PAN</string>
-  <string name="profile_sap">SAP</string>
-  <string name="title_bt_mse_settings">Bluetooth MAP nastavenia</string>
 </resources>

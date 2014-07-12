@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="access_sd_fail">Nepodarilo sa získať prístup ku karte SD.</string>
   <string name="accessibility_check_box">Začiarkavacie políčko %1$s</string>

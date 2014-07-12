@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="BaMmi">Blokovanie hovorov</string>
   <string name="CLIRDefaultOffNextCallOff">V predvolenom nastavení nie je identifikácia volajúceho obmedzená. Ďalší hovor: Bez obmedzenia</string>
@@ -204,6 +203,9 @@ pre %s."</string>
   <string name="dlg_ok">OK</string>
   <string name="double_tap_toast">Tip: Dvojitým klepnutím môžete zobrazenie priblížiť alebo oddialiť.</string>
   <string name="editTextMenuTitle">Operácie s textom</string>
+  <string name="edp_brightness_limited">Obmedzený jas</string>
+  <string name="edp_camera_flash_limited">Obmedzený Blesk</string>
+  <string name="edp_volume_limited">Obmedzená hlasitosť</string>
   <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
   <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
   <string name="ellipsis">…</string>
@@ -266,11 +268,25 @@ pre %s."</string>
   <string name="global_action_power_off">Vypnúť</string>
   <string name="global_action_silent_mode_off_status">Zvuk je zapnutý</string>
   <string name="global_action_silent_mode_on_status">Zvuk je VYPNUTÝ.</string>
+  <string name="global_action_sleep">Spánok</string>
   <string name="global_action_toggle_silent_mode">Tichý režim</string>
   <string name="global_actions">Možnosti telefónu</string>
   <string name="global_actions_airplane_mode_off_status">Režim V lietadle je VYPNUTÝ</string>
   <string name="global_actions_airplane_mode_on_status">Režim V lietadle je ZAPNUTÝ</string>
+  <string name="global_actions_miracast_connection_failed_status">Pripojenie zlyhalo.</string>
+  <string name="global_actions_miracast_connection_progress_status">Pripájanie k zariadeniu...</string>
+  <string name="global_actions_miracast_mode_airplane_on_status">Nie je dostupné, pretože je aktívny režim Lietadlo</string>
+  <string name="global_actions_miracast_mode_cancel_connection_status">Zrušiť pripojenie</string>
+  <string name="global_actions_miracast_mode_off_status_many_paired">Pripojiť k naposledy pripojenému zariadeniu</string>
+  <string name="global_actions_miracast_mode_off_status_no_paired">Pripojiť k zariadeniu</string>
+  <string name="global_actions_miracast_mode_off_status_single_paired">"Pripojiť k "</string>
+  <string name="global_actions_miracast_mode_on_status">Ukončiť</string>
+  <string name="global_actions_miracast_mode_pc2thor_on_status">Unavailable due to PC streaming to SHIELD</string>
+  <string name="global_actions_miracast_mode_wifi_off_status">Nie je dostupné, pretože nie je aktívna Wi-Fi</string>
+  <string name="global_actions_miracast_sink_not_found_status">Nie je možné nájsť zariadenie.</string>
+  <string name="global_actions_miracast_sink_search_status">Vyhľadávanie...</string>
   <string name="global_actions_toggle_airplane_mode">Režim V lietadle</string>
+  <string name="global_actions_toggle_miracast_mode">Miracast bezdrôtový displej</string>
   <string name="gpsNotifMessage">Žiadosť od používateľa %1$s (%2$s)</string>
   <string name="gpsNotifTicker">Žiadosť o informácie o polohe od používateľa %s</string>
   <string name="gpsNotifTitle">Žiadosť o informácie o polohe</string>
@@ -650,6 +666,7 @@ Skúste to znova o %d s."</string>
   <string name="org_name">Organizácia:</string>
   <string name="org_unit">Organizačná jednotka:</string>
   <string name="owner_name">Vlastník</string>
+  <string name="p2p_wifi_frequency_conflict_message">Wi-Fi Direct pripojenie bude ukončené. Chcete pokračovať?</string>
   <string name="passwordIncorrect">Nesprávne heslo.</string>
   <string name="password_keyboard_label_alpha_key">ABC</string>
   <string name="password_keyboard_label_alt_key">ALT</string>
@@ -782,6 +799,7 @@ Skúste to znova o %d s."</string>
   <string name="permdesc_mount_unmount_filesystems">Umožňuje aplikácii pripojiť a odpojiť súborové systémy vo vymeniteľných ukladacích priestoroch.</string>
   <string name="permdesc_movePackage">Umožňuje aplikácii presúvať prostriedky aplikácií medzi internými a externými médiami.</string>
   <string name="permdesc_nfc">Umožňuje aplikácii komunikovať so značkami, kartami a čítačkami s podporou technológie Near Field Communication (NFC).</string>
+  <string name="permdesc_nvidiaCPUPower">Povolí aplikácií zmeniť parametre NVIDA Tegra CPU. Môže sa zvýšiť spotreba batérie.</string>
   <string name="permdesc_packageVerificationAgent">Umožňuje aplikácii overiť, či je možné balík nainštalovať.</string>
   <string name="permdesc_performCdmaProvisioning">Umožňuje aplikácii spustiť poskytovanie CDMA. Škodlivé aplikácie môžu spustiť poskytovanie CDMA samovoľne.</string>
   <string name="permdesc_persistentActivity">Umožňuje aplikácii uložiť niektoré svoje časti natrvalo do pamäte. Môže to obmedziť pamäť dostupnú pre ostatné aplikácie a spomaliť tak telefón.</string>
@@ -1489,23 +1507,4 @@ Chcete ju zavrieť?"</string>
   <string name="year">rok</string>
   <string name="years">roky</string>
   <string name="yes">OK</string>
-  <string name="edp_brightness_limited">Obmedzený jas</string>
-  <string name="edp_camera_flash_limited">Obmedzený Blesk</string>
-  <string name="edp_volume_limited">Obmedzená hlasitosť</string>
-  <string name="global_action_sleep">Spánok</string>
-  <string name="global_actions_miracast_connection_failed_status">Pripojenie zlyhalo.</string>
-  <string name="global_actions_miracast_connection_progress_status">Pripájanie k zariadeniu...</string>
-  <string name="global_actions_miracast_mode_airplane_on_status">Nie je dostupné, pretože je aktívny režim Lietadlo</string>
-  <string name="global_actions_miracast_mode_cancel_connection_status">Zrušiť pripojenie</string>
-  <string name="global_actions_miracast_mode_off_status_many_paired">Pripojiť k naposledy pripojenému zariadeniu</string>
-  <string name="global_actions_miracast_mode_off_status_no_paired">Pripojiť k zariadeniu</string>
-  <string name="global_actions_miracast_mode_off_status_single_paired">"Pripojiť k "</string>
-  <string name="global_actions_miracast_mode_on_status">Ukončiť</string>
-  <string name="global_actions_miracast_mode_pc2thor_on_status">Unavailable due to PC streaming to SHIELD</string>
-  <string name="global_actions_miracast_mode_wifi_off_status">Nie je dostupné, pretože nie je aktívna Wi-Fi</string>
-  <string name="global_actions_miracast_sink_not_found_status">Nie je možné nájsť zariadenie.</string>
-  <string name="global_actions_miracast_sink_search_status">Vyhľadávanie...</string>
-  <string name="global_actions_toggle_miracast_mode">Miracast bezdrôtový displej</string>
-  <string name="p2p_wifi_frequency_conflict_message">Wi-Fi Direct pripojenie bude ukončené. Chcete pokračovať?</string>
-  <string name="permdesc_nvidiaCPUPower">Povolí aplikácií zmeniť parametre NVIDA Tegra CPU. Môže sa zvýšiť spotreba batérie.</string>
 </resources>
