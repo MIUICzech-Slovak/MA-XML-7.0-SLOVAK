@@ -186,12 +186,16 @@ spoločne!"</string>
   <string name="enter_email_hint">"Zadajte E-mail "</string>
   <string name="error_album_not_exist">"Album neexistuje."</string>
   <string name="error_cloud_not_active">Cloud album sa nepoužíva</string>
+  <string name="error_forbidden">Nastali problémy s vašim účtom: Synchr. deaktivovaná.</string>
   <string name="error_invalid_link">Tento odkaz je neplatný. Požiadajte vlastníka o vytvorenie nového odkazu.</string>
+  <string name="error_not_acceptable">Chyba servera: Synchr. deaktivovaná.</string>
   <string name="error_repeat_apply">Tento album je už zdieľaný</string>
   <string name="error_share_with_creator">Už ste členom v tomto albume</string>
   <string name="error_should_not_select_image">Upozornenie: nevyberajte obrázok.</string>
   <string name="error_should_not_select_video">Upozornenie: nevyberajte video.</string>
   <string name="error_socket_timeout">Chyba siete. Skúste to neskôr.</string>
+  <string name="error_title">Chyba synchr.</string>
+  <string name="error_unauthorized">Príliš mnoho pokusov o prihlásenie: Synchr. deaktivovaná.</string>
   <string name="error_unknown_host">Nenašla sa žiadna sieť.</string>
   <string name="exit">Odísť</string>
   <string name="exit_share">Ukončiť album</string>
