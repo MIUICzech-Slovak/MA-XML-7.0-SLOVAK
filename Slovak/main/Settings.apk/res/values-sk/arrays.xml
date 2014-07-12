@@ -488,6 +488,15 @@
         <item>Tirkisová</item>
         <item>Fialová</item>
     </string-array>
+	<string-array name="led_color_entries">
+        <item>Modrá</item>
+        <item>Červená</item>
+        <item>Žltá</item>
+        <item>Zelená</item>
+        <item>Tirkisová</item>
+        <item>Biela</item>
+        <item>Fialová</item>
+    </string-array>
     <string-array name="screen_key_long_press_action">
         <item>Žiadna akcia</item>
         <item>Spustiť manažér RAM</item>
