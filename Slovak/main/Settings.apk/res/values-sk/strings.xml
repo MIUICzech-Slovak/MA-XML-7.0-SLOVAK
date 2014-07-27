@@ -184,8 +184,8 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="app_factory_reset">Odinštalácia aktualizácií</string>
   <string name="app_factory_reset_dlg_text">Všetky aktualizácie tejto systémovej aplikácie systému Android budú odinštalované.</string>
   <string name="app_factory_reset_dlg_title">Odinštalovať aktualizácie?</string>
-  <string name="app_floating_window_dlg_disable">"Zákaz vyskakovacích okien aplikácie %1$s ju násilne ukončí. Ste si istý, že ich chcete zakázať?"</string>
-  <string name="app_floating_window_dlg_enable">"Povolenie vyskakovacích okien pre aplikáciu %1$s vyžaduje jej reštart. Ste si istý, že ich chcete povoliť?"</string>
+  <string name="app_floating_window_dlg_disable">"Zákaz vyskakovacích okien aplikácie %1$s ju násilne ukončí. Chcete ich zakázať?"</string>
+  <string name="app_floating_window_dlg_enable">"Povolenie vyskakovacích okien pre aplikáciu %1$s vyžaduje jej reštart. Chcete ich povoliť?"</string>
   <string name="app_install_location_summary">Zmena preferovaného umiestnenia pre inštaláciu nových aplikácií</string>
   <string name="app_install_location_title">Preferované umiestnenie pre inštaláciu</string>
   <string name="app_memory_use">Využitie pamäte</string>

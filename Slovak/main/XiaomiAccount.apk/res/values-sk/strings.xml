@@ -262,7 +262,7 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
   <string name="remove_unactivated_account_notice">Xiaomi účet nie je aktivovaný, chcete sa odhlásiť?</string>
   <string name="removing_account">Odhlasovanie z účtu...</string>
   <string name="restoreSync">Obnoviť</string>
-  <string name="send_int_sms_for_sync_notice">Na aktiváciu Vášho telefónneho čísla sa odošle SMS správa. Ste si istý, že chcete pokračovať?</string>
+  <string name="send_int_sms_for_sync_notice">Na aktiváciu Vášho telefónneho čísla sa odošle SMS správa. Chcete pokračovať?</string>
   <string name="send_sms_for_sync_notice">Je potrebné zaslať aktivačnú sms, pokračovať?</string>
   <string name="send_sms_for_sync_title">Synchronizácia nie je aktivovaný</string>
   <string name="seperator_forget_and_foreign">|</string>

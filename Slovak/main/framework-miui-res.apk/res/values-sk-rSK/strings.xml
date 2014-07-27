@@ -85,7 +85,7 @@
   <string name="peace_day"/>
   <string name="perm_send_push_dspt">Povoliť okamžité správy Xiaomi</string>
   <string name="perm_send_push_lab">Odoslať okamžitú správu</string>
-  <string name="reboot_confirm_title">Ste si istý, že chcete reštartovať vaše zariadenie?</string>
+  <string name="reboot_confirm_title">Chcete reštartovať vaše zariadenie?</string>
   <string name="reboot_progress">Reštartujem...</string>
   <string name="replace">Nahradiť</string>
   <string name="retrocession_day"/>
@@ -96,7 +96,7 @@
   <string name="screen_on_proximity_sensor_title">Odkryte senzor priblíženia!</string>
   <string name="select">Vybrať</string>
   <string name="select_all">Všetko</string>
-  <string name="shutdown_confirm_title">Ste si istý, že chcete vypnúť vaše zariadenie?</string>
+  <string name="shutdown_confirm_title">Chcete vypnúť vaše zariadenie?</string>
   <string name="shutdown_progress">Vypínanie...</string>
   <string name="slight_cold"/>
   <string name="slight_heat"/>

@@ -57,7 +57,7 @@ Turn the device so that the headphone input is facing downward. Speak in to the 
   <string name="cit_display_check_summary">Test zobrazí obrázok, prosím vložte .bmp súbor na SD kartu</string>
   <string name="cit_display_check_title">Test Displeja</string>
   <string name="cit_display_continue">Pre začatie testovania kliknite na displej</string>
-  <string name="cit_exit_test_summary">Ukončenie aktívnych testov stratí všetky namerané dáta. Ste si istý, že ich chcete ukončiť?</string>
+  <string name="cit_exit_test_summary">Ukončenie aktívnych testov stratí všetky namerané dáta. Chcete ich ukončiť?</string>
   <string name="cit_exit_test_title">Zastaviť test</string>
   <string name="cit_fail">Zlyhalo</string>
   <string name="cit_fm_audio_path">Nastaviť cestu k audiu</string>

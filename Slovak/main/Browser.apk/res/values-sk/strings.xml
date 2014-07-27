@@ -176,7 +176,7 @@
   <string name="delete_bookmark">Vymazať</string>
   <string name="delete_bookmark_warning">Vymazať záložku „%s”?</string>
   <string name="delete_folder">Vymazať priečinok</string>
-  <string name="delete_multi_bookmarks_alert_title">Ste si istý, že chcete vymazať %1$s položiek?</string>
+  <string name="delete_multi_bookmarks_alert_title">Chcete vymazať %1$s položiek?</string>
   <string name="delete_quicklink_warning">Vymazať \"%s\" z odkazov?</string>
   <string name="disable_autofill">Vypnúť automatické vypĺňanie</string>
   <string name="do_not_save">Zrušiť</string>
@@ -605,7 +605,7 @@
   <string name="webview_find_on_page">Nájsť na stránke</string>
   <string name="webview_js_dialog_before_unload">"%s
 
-Ste si istý, že chcete odísť z tejto stránky?"</string>
+Chcete odísť z tejto stránky?"</string>
   <string name="webview_js_dialog_before_unload_negative_button">Ostať na tejto stránke</string>
   <string name="webview_js_dialog_before_unload_positive_button">Odísť z tejto stránky</string>
   <string name="webview_js_dialog_before_unload_title">Potvrdiť</string>

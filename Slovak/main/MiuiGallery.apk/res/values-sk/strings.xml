@@ -25,7 +25,7 @@
   <string name="album_member">Osoby %s</string>
   <string name="album_name">Názov albumu</string>
   <string name="album_quota_fulfiled">"Nie je možné vytvoriť album. Počet albumov presiahol limit."</string>
-  <string name="album_share_exit_confirm">Ste si istý, že chcete opustiť tento album?</string>
+  <string name="album_share_exit_confirm">Chcete opustiť tento album?</string>
   <string name="album_share_kicked">%1$s je zamknutý.</string>
   <string name="album_share_stat_content">Pozvánky</string>
   <string name="album_share_subtitle_accepting">Prijímanie pozvania od %1$s...</string>
@@ -116,8 +116,8 @@ spoločne!"</string>
   <string name="comfirm_delete_current_album">Vymazať tento album?</string>
   <string name="confirm">OK</string>
   <string name="confirm_delete">Vymazať (%s)?</string>
-  <string name="confirm_delete_album" formatted="false">Ste si istý, že chcete vymazať %s albumov (%s súborov)?</string>
-  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s obrázkov v %s albume, ste si istý, že ich chcete vymazať?</string>
+  <string name="confirm_delete_album" formatted="false">Chcete vymazať %s albumov (%s súborov)?</string>
+  <string name="confirm_delete_cloud_all_item_page" formatted="false">%s obrázkov v %s albume, Chcete ich vymazať?</string>
   <string name="confirm_delete_has_cloud_image">Vymazať obrázky (%s) v cloude?</string>
   <string name="confirm_delete_has_cloud_image_video">Vymazať položky (%s) v cloude?</string>
   <string name="confirm_delete_has_cloud_local_image">Vymazať obrázky (%s) v zariadení a cloude?</string>
@@ -156,9 +156,9 @@ spoločne!"</string>
   <string name="dcim_viva_pics">VIVA</string>
   <string name="defalt_local_mobile">Mobile</string>
   <string name="delete"> Vymazať</string>
-  <string name="delete_file">Ste si istý, že chcete vymazať tieto súbory (%1$d)?</string>
-  <string name="delete_files_and_folders">Ste si istý, že chcete vymazať tieto súbory (%1$d) a zložky (%2$d)?</string>
-  <string name="delete_folder">Ste si istý, že chcete vymazať tieto zložky (%1$d)?</string>
+  <string name="delete_file">Chcete vymazať tieto súbory (%1$d)?</string>
+  <string name="delete_files_and_folders">Chcete vymazať tieto súbory (%1$d) a zložky (%2$d)?</string>
+  <string name="delete_folder">Chcete vymazať tieto zložky (%1$d)?</string>
   <string name="delete_smb_file_fail">Vymazanie smb súboru zlyhalo</string>
   <string name="deleting_files">Odstraňujem súbory...</string>
   <string name="demo_video_folder_display_name">Demo Video</string>
