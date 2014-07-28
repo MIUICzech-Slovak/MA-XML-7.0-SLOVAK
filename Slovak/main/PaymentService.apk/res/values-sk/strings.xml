@@ -271,4 +271,7 @@ Skontrolujeme to do dvoch pracovných dní"</string>
   <string name="voucher_edit_limit">čísla</string>
   <string name="voucher_error_password">Nesprávny kód.</string>
   <string name="voucher_input_password_prompt">Vložte kód</string>
+  <string name="giftcard_payment">%1$s MiKreditov</string>
+  <string name="label_giftcard">Poukážka:</string>
+  <string name="partner_giftcard_payment">%1$s MiKreditov（Len pre %2$s）</string>
 </resources>
