@@ -207,8 +207,8 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="application_forbid_auto_startup">Zakázať %s sa spustiť na pozadí</string>
   <string name="application_info_label">Informácie o aplikácii</string>
   <string name="application_item_already_permission">Povolené</string>
-  <string name="application_item_disable">Zakázať</string>
-  <string name="application_item_permission">Povoliť</string>
+  <string name="application_item_disable">-</string>
+  <string name="application_item_permission">+</string>
   <string name="application_restrictions">Povoliť aplikácie a obsah</string>
   <string name="application_size_label">Aplikácia</string>
   <string name="applications_settings">Aplikácie</string>
@@ -2481,7 +2481,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_prl_version">Verzia PRL</string>
   <string name="status_roaming">Roaming</string>
   <string name="status_serial_number">Sériové číslo</string>
-  <string name="status_serialno">Žiadne</string>
+  <string name="status_serialno">Identifikačné číslo</string>
   <string name="status_service_state">Stav služby</string>
   <string name="status_signal_strength">Sila signálu</string>
   <string name="status_unavailable">Nie sú k dispozícii</string>
