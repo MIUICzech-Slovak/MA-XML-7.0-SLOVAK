@@ -627,7 +627,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="computing_size">Prebieha výpočet…</string>
   <string name="config_list_label">Konfigurované siete</string>
   <string name="configure_input_method">Nastavenie metód vstupu</string>
-  <string name="confirm_download_cancelation_dialog_message">Cancel download?</string>
+  <string name="confirm_download_cancelation_dialog_message">Zrušiť sťahovanie aktualizácie?</string>
   <string name="confirm_erase">Vymazať</string>
   <string name="confirm_new_backup_pw_prompt">Tu zadajte znova nové heslo pre úplné zálohy</string>
   <string name="connect_to_internet">Pripojiť na Internet</string>
