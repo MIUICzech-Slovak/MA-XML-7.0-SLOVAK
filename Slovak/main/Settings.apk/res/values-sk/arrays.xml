@@ -647,4 +647,8 @@ Postupujte podľa pokynov"</item>
         <item>Vibrovať ak je stíšené zvonenie</item>
         <item>Vždy vibrovať</item>
     </string-array>
++    <string-array name="priority_storage_entries">
++        <item>Interné úložisko</item>
++        <item>Externé úložisko</item>
++    </string-array>
 </resources>
