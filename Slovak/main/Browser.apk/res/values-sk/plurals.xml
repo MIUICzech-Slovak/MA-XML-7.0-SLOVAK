@@ -8,4 +8,8 @@
     <plurals name="webview_last_num_days">
         <item quantity="other">Posledných %d dní</item>
     </plurals>
+    <plurals name="v5_edit_mode_title">
+        <item quantity="other">Vybrané: %1$d</item>
+        <item quantity="one">Vybrané: %1$d</item>
+    </plurals>
 </resources>
