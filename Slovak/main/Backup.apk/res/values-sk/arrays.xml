@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wi-Fi pripojenie</item>
+        <item>Všetky aplikácie</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Prehliadač</item>
+	<item>Galéria</item>
+	<item>Správca oprávnení</item>
+	<item>Fotoaparát</item>
+	<item>Monitor siete</item>
+	<item>Úložisko počasia</item>
+        <item>Počasie</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kontakty</item>
+        <item>Zoznam hovorov</item>
+        <item>Správy</item>
+        <item>MMS</item>
+        <item>Nastavenia systému</item>
+        <item>Nastavenia Wi-Fi</item>
+        <item>Rozloženie plochy</item>
+        <item>Nastavenie upozornení</item>
+        <item>Poznámky</item>
+        <item>Režim nerušiť</item>
+        <item>Účet</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Dáta</item>
+        <item>Aplikácia</item>
+        <item>Dáta + Aplikácia</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kontakty</item>
+        <item>Zoznam hovorov</item>
+        <item>Správy</item>
+        <item>Nastavenia Wi-Fi</item>
+        <item>Poznámky</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kontakty</item>
+        <item>Nastavenia Wi-Fi</item>
+        <item>Poznámky</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Zoznam hovorov</item>
+        <item>Správy (SMS)</item>
+    </string-array>
+</resources>

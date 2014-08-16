@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="date_of_traffic">
+        <item>Včera\u0020</item>
+        <item>Dnes\u0020</item>
+        <item>Mesiac\u0020</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Včera 2G/3G\u0020</item>
+        <item>Dnes 2G/3G\u0020</item>
+        <item>Tento mesiac 2G/3G\u0020</item>
+        <item>Včera Wi-Fi\u0020</item>
+        <item>Dnes Wi-Fi\u0020</item>
+        <item>Tento mesiac Wi-Fi\u0020</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Včera 2G/3G</item>
+        <item>Dnes 2G/3G</item>
+        <item>Tento mesiac 2G/3G</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 sekundy</item>
+        <item>4 sekundy</item>
+        <item>5 sekúnd</item>
+        <item>6 sekúnd</item>
+        <item>7 sekúnd</item>
+        <item>8 sekúnd</item>
+        <item>9 sekúnd</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>Využitie 2G/3G</item>
+        <item>Využitie Wi-Fi</item>
+        <item>Celková spotreba dát</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Nastaviť vzorovú správu automaticky</item>
+        <item>Nastaviť vzorovú správu manuálne</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>využité 2G/3G\u0020</item>
+        <item>využité Wi-Fi\u0020</item>
+        <item>celkovo\u0020</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>Včera\u0020</item>
+        <item>Dnes\u0020</item>
+        <item>Mesiac\u0020</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobilné dáta "</item>
+        <item>"Wi-Fi "</item>
+    </string-array>	
+</resources>

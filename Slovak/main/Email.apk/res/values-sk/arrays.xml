@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="compose_modes">
+        <item>Odpovedať</item>
+        <item>Odp. všetkým</item>
+        <item>Poslať ďalej</item>
+    </string-array>
+    <string-array name="sync_status">
+        <item>Úspech</item>
+        <item>Žiadne pripojenie.</item>
+        <item>Nepodarilo sa prihlásiť.</item>
+        <item>Chyba zabezpečenia.</item>
+        <item>Nepodarilo sa synchronizovať.</item>
+        <item>Interná chyba</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>Systém</item>
+        <item>Často používané</item>
+        <item>Všetky priečinky</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>Novšia</item>
+        <item>Staršia</item>
+        <item>Zoznam konverzácií</item>
+    </string-array>
+    <string-array name="prefSummaries_autoAdvance">
+        <item>Po odstránení zobraziť novšiu konverzáciu</item>
+        <item>Po odstránení zobraziť staršiu konverzáciu</item>
+        <item>Po odstránení zobraziť zoznam konverzácií</item>
+    </string-array>
+    <string-array name="prefEntries_removal_action">
+        <item>Zobraziť iba archiváciu</item>
+        <item>Zobraziť iba odstránenie</item>
+        <item>Zobraziť archiváciu aj odstránenie</item>
+    </string-array>
+    <string-array name="prefSummaries_removal_action_summary">
+        <item>Zobraziť iba archiváciu</item>
+        <item>Zobraziť iba odstránenie</item>
+        <item>Zobraziť archiváciu aj odstránenie</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>Posledné</item>
+        <item>Formát</item>
+        <item>Názov</item>
+        <item>Odosielateľ</item>
+        <item>Dátum</item>
+    </string-array>
+</resources>

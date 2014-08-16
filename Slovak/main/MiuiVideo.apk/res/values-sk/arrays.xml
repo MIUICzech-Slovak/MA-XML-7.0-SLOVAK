@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+    <string-array name="channel_tabs">
+        <item></item>
+        <item>Rebríček</item>
+        <item>Najnovšie</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Vybrané</item>
+        <item>Rebríček</item>
+        <item>Najnovšie</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Online</item>
+        <item>Lokálne</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Epizóda</item>
+        <item>Popis</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Všetky špeciály</item>
+        <item>Moje špeciály</item>
+    </string-array>
+</resources>
