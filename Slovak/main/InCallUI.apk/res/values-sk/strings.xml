@@ -169,7 +169,6 @@
   <string name="display_name">DisplayName</string>
   <string name="display_name_summary">Rovnaké ako meno</string>
   <string name="display_name_title">Zobrazované meno</string>
-  <string name="domain_address_title">server</string>
   <string name="domain_address_title">Server</string>
   <string name="doneButton">Hotovo</string>
   <string name="dtmf_tone_enable_title">Zvuk dotyku kláves</string>

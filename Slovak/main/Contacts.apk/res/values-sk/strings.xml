@@ -413,7 +413,7 @@ Chyba: \"%s\""</string>
   <string name="help_url_people_add"/>
   <string name="help_url_people_edit"/>
   <string name="help_url_people_main"/>
-  <string name="hint_distance/>
+  <string name="hint_distance"/>
   <string name="hint_findContacts">Nájsť kontakty</string>
   <string name="hint_more_contact">Ak existujú zdvojené kontakty, môžete ich zlúčiť</string>
   <string name="ic_menu_back">Späť</string>
