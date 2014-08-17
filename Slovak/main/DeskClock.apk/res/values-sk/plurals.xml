@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">Sekúnd: %1$d</item>
+        <item quantity="one">Sekúnd: %1$d</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">Minút: %1$d</item>
+        <item quantity="one">Minút: %1$d</item>
+    </plurals>
+</resources>

@@ -115,6 +115,9 @@
   <string name="account_setup_incoming_headline">Nastavenia servera prichádzajúcej pošty</string>
   <string name="account_setup_incoming_imap_path_prefix_hint">Voliteľné</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Predpona cesty IMAP</string>
+  <string name="account_setup_incoming_mail_adress_label">Adresa</string>
+  <string name="account_setup_incoming_mail_domain_hint">Povinné</string>
+  <string name="account_setup_incoming_mail_domain_label">Doména</string>
   <string name="account_setup_incoming_password_label">Heslo</string>
   <string name="account_setup_incoming_port_label">Port</string>
   <string name="account_setup_incoming_security_label">Typ zabezpečenia</string>
@@ -230,7 +233,10 @@
   <string name="bcc_heading">"Sk. kópia: "</string>
   <string name="blank_feedback_toast">Spätná väzba je prázdna, napíšte váš názor!</string>
   <string name="body_hint">Text správy</string>
-  <string name="bytes">%s B</string>
+  <string name="bottom_bar_more_delete">Vymazať</string>
+  <string name="bottom_bar_more_quickreply">Rýchla odpoveď</string>
+  <string name="bottom_bar_more_unread">Neprečítané</string>
+  <string name="bytes">%sB</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_action">Zrušiť</string>
   <string name="cancel_attachment">Zrušiť</string>
@@ -240,23 +246,28 @@
   <string name="cant_move_or_change_labels">Presun nie je možné uskutočniť, pretože vybraté správy pochádzajú z rôznych účtov.</string>
   <string name="cc">Kópia</string>
   <string name="cc_attribution">Kópia: %1$s&lt;br&gt;</string>
+  <string name="cc_bcc">Cc/Bcc</string>
   <string name="cc_heading">"Kópia: "</string>
   <string name="change_account_confirm">Účet \"%1$s\" bude odobraný</string>
   <string name="change_account_type">Zmeniť typ účtu</string>
   <string name="change_folders_selection_dialog_title">Zmeniť priečinky</string>
   <string name="change_sync_settings">Zmeniť nastav. synchronizácie</string>
+  <string name="chat_type_name">Konverzácie</string>
+  <string name="check_setup_data">Kontrola nastavenia servera...</string>
   <string name="checking_for_mail">Kontrola pošty</string>
-  <string name="checking_message">Kontrola...</string>
   <string name="choosertitle_sharevia">Zdieľať prostredníctvom</string>
   <string name="clear">Vymazať</string>
   <string name="clear_display_images_whitelist_dialog_message">Zastaví sa zobrazovanie vložených obrázkov od odosielateľov, pre ktorých ste to predtým povolili.</string>
   <string name="clear_display_images_whitelist_dialog_title">Chcete vymazať schválenia obrázkov?</string>
   <string name="clear_display_images_whitelist_title">Vymazať schválenia obrázkov</string>
   <string name="collapse_recipient_details">Zbaliť podrobnosti o príjemcovi</string>
+  <string name="colon">:</string>
   <string name="compose">Napísať správu</string>
+  <string name="compose_help_context">Text správy</string>
   <string name="compose_send">Odoslať</string>
   <string name="compose_sent">Odoslané</string>
   <string name="confirm">potvrdiť</string>
+  <string name="confirm_delete">Vymazať tento email?</string>
   <string name="confirm_discard_text">Zahodiť túto správu?</string>
   <string name="confirm_response">Odosiela sa odpoveď...</string>
   <string name="confirm_save_message_no">Nie</string>
@@ -286,10 +297,12 @@
   <string name="contextmenu_send_mail">Poslať e-mail</string>
   <string name="contextmenu_sharelink">Zdieľať odkaz</string>
   <string name="contextmenu_sms_dot">SMS…</string>
+  <string name="conversation_content_provider">Conversation Content Provider</string>
   <string name="conversation_folder_moved">Presunuté do priečinka %1$s</string>
   <string name="conversation_item_mark_read">Prečítané</string>
   <string name="conversation_item_mark_unread">Neprečítané</string>
   <string name="conversation_list_net_check">Nie je možné sa pripojiť na sieť. Skontrolujte svoje nastavenia pripojenia na internet a skúste to znova</string>
+  <string name="conversation_overload_toast">Tento email je príliš veľký a nie je možné ho načítať v telefóne</string>
   <string name="conversation_photo_welcome_text">Dotknutím sa obrázka odosielateľa vyberiete danú konverzáciu.</string>
   <string name="copy_email">Kopírovať e-mailovú adresu</string>
   <string name="copy_number">Kopírovať telefónne číslo</string>
@@ -299,9 +312,11 @@
   <string name="date_message_received">%1$s o %2$s</string>
   <string name="date_message_received_today">Dnes o %1$s</string>
   <string name="date_message_received_yesterday">Včera o %1$s</string>
+  <string name="default_">PREDVOLENÉ</string> 
   <string name="default_setup">PREDVOLENÉ NASTAVENIA</string>
   <string name="default_signature">Odoslané z MIUI</string>
   <string name="delete">Odstrániť</string>
+  <string name="delete_conversation_hint_message">%1$d %2$s vymazané</string>
   <string name="deleted">Odstránené</string>
   <string name="device_activity_btn_str">Návrat k aktivaci</string>
   <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
@@ -319,8 +334,6 @@
   <string name="dismiss_tip_hover_text">Zrušiť tip</string>
   <string name="done">Hotovo</string>
   <string name="done_action">Hotovo</string>
-  <string name="donot_download">Teraz nie</string>
-  <string name="donot_upgrade">Teraz nie</string>
   <string name="downlaod_cancel_confirm_download">Zrušiť sťahovanie</string>
   <string name="downlaod_cancel_continue_download">Zrušiť</string>
   <string name="downlaod_confirm_download">Stiahnuť</string>
@@ -328,14 +341,11 @@
   <string name="download_again">Prevziať znova</string>
   <string name="download_before_sharing">" nie je stiahnuté! Pred zdieľaním musíte stiahnuť!"</string>
   <string name="download_cancel_confirm_title">Zrušiť sťahovanie?</string>
-  <string name="download_complete_message">Sťahovanie dokončené!</string>
   <string name="download_complete_not_cancel">Sťahovanie dokončené, zrušenie zlyhalo!</string>
-  <string name="download_complete_title">Sťahovanie dokončené</string>
   <string name="download_confirm_message">Pre otvorenie tohto súboru musíte stiahnuť prílohu o veľkosti %1$s</string>
   <string name="download_confirm_title">Potvrdenie sťahovania</string>
   <string name="download_failed">Prevz. zlyhalo. Skúste znova.</string>
-  <string name="download_now">Stiahnuť</string>
-  <string name="downloading">Sťahovanie...</string>
+  <string name="downloading_message_body">Sťahovanie správy, čakajte prosím...</string>
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zavrieť priečinok s navigáciou</string>
   <string name="drawer_open">Otvoriť priečinok s navigáciou</string>
@@ -388,6 +398,8 @@
   <string name="general_preference_text_zoom_small">Malé</string>
   <string name="general_preference_text_zoom_tiny">Veľmi malé</string>
   <string name="generic_attachment_problem">Súbor sa nepodarilo pripojiť.</string>
+  <string name="header_category_account">Nastavenie účtu</string>
+  <string name="header_category_other">Ostatné</string>
   <string name="header_label_general_preferences">Všeobecné nastavenia</string>
   <string name="help_and_info">Pomocník</string>
   <string name="hide_elided">▼ Skryť citovaný text</string>
@@ -464,6 +476,9 @@
   <string name="menu_search">Hľadať</string>
   <string name="menu_settings">Nastavenia</string>
   <string name="menu_show_original">Zrušiť automatickú úpravu veľkosti</string>
+  <string name="message_body_auto_download_complete">Automaticky stiahnúť email pomocou Wi-Fi</string>
+  <string name="message_body_auto_download_tip">Ste pripojený na Wi-Fi. Email sa stiahne automaticky.</string>
+  <string name="message_body_download_failed">Čas pripojenia vypršal počas sťahovania emailu</string>
   <string name="message_compose_fwd_header_fmt">"
 
 -------- Pôvodná správa --------
@@ -494,25 +509,16 @@ Kópia: %4$s
   <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
   <string name="mute">Ignorovať</string>
   <string name="name_or_number_is_error">Chybné meno alebo heslo</string>
-  <string name="net_check_title">Chyba siete, skontrolujte nastavenia。</string>
   <string name="network_error">Bez pripojenia</string>
-  <string name="new_down_desc1">Tipy:</string>
-  <string name="new_down_desc2">Zmeny:</string>
-  <string name="new_down_desc3">Odporúča sa použiť Wi-Fi</string>
-  <string name="new_feature_desc">Popis zmien:</string>
+  <string name="network_not_available">Network connection is not available, please try again later</string>
   <string name="new_incoming_messages_one">Nová správa od %s. Zobraziť.</string>
   <string name="new_messages">Počet nových správ: %1$d</string>
-  <string name="new_version">Nová verzia:</string>
   <string name="next_action">Ďalej</string>
   <string name="no">Nie</string>
   <string name="no_application_found">Žiadna aplikácia nemôže otvoriť ani zobraziť túto prílohu.</string>
   <string name="no_conversations">Žiadne správy</string>
-  <string name="no_display_this_version">Nezobrazovať túto verziu</string>
-  <string name="no_enough_space">Nie je dostatok voľného miesta</string>
   <string name="no_mails">Žiadne správy</string>
   <string name="no_matched_attachment">Žiadne prílohy sa nenašli!</string>
-  <string name="no_sdcard">Žiadna SD karta</string>
-  <string name="no_update">Žiadna nová verzia</string>
   <string name="no_wifi_promot">Nie je použité Wi-Fi pripojenie, buďte opatrný s prenosom dát cez vášho operátora</string>
   <string name="non_synced_folder_description">Zobr. konverz., synchr. priečinok.</string>
   <string name="not_subject">(Bez Predmetu)</string>
@@ -527,7 +533,6 @@ Kópia: %4$s
   <string name="notification_action_undo_delete">Odstránené</string>
   <string name="notification_action_undo_remove_label">Menovka bola odstránená</string>
   <string name="notification_exchange_calendar_added">Pridaný Exchange kalendár</string>
-  <string name="now_version">Verzia:</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="other_mail">Iný email</string>
@@ -616,6 +621,7 @@ presahuje limit"</string>
   <string name="quick_2">To znie dobre!</string>
   <string name="quick_3">Prečítam si to neskôr a dám vám vedieť.</string>
   <string name="quick_4">Dohodnime si schôdzku a prediskutujme to.</string>
+  <string name="quick_reply_dialog_title">Vyberte prosím</string>
   <string name="quick_responses_empty_view">Žiadne rýchle odpovede.</string>
   <string name="quoted_text">Zahrnúť citovaný text</string>
   <string name="quoted_text_label">Citovať text</string>
@@ -625,6 +631,7 @@ presahuje limit"</string>
   <string name="recipient_needed">Pridajte aspoň jedného príjemcu.</string>
   <string name="refresh">Obnoviť</string>
   <string name="refreshing">Aktualizácia...</string>
+  <string name="refreshing_done">Synchronizácia dokončená</string>
   <string name="release_to_refresh">Pustite pre obnovenie</string>
   <string name="remote_folders_heading">Zložky servera</string>
   <string name="remove_account">Odobrať účet</string>
@@ -665,6 +672,7 @@ presahuje limit"</string>
   <string name="select_attachment_type">Vyberte prílohu</string>
   <string name="select_no_file">Nie je vybraná príloha pre zdieľanie</string>
   <string name="send">Poslať</string>
+  <string name="send_att_title">Upozornenie</string>
   <string name="send_failed">Správa nebola odoslaná.</string>
   <string name="sender_whitelist_cleared">Obrázky sa nebudú zobrazovať automaticky.</string>
   <string name="senders_split_token">, </string>
@@ -673,10 +681,8 @@ presahuje limit"</string>
   <string name="sent_folder_selection_title">Prieč. odosl. polož. servera pre %s</string>
   <string name="ser_resp_err_map_certificate_validator_err">"Overenie certifikátu zlyhalo
 \u0009 (Skontrolujte, či je nastavená "Automatická synchronizácia")"</string>
-  <string name="ser_resp_err_map_connect_err">Chyba internetového pripojenia.</string>
   <string name="ser_resp_err_map_nouser">Užívateľ neexistuje</string>
   <string name="ser_resp_err_map_or">Alebo</string>
-  <string name="ser_resp_err_map_pserr">Nesprávne Meno/Heslo</string>
   <string name="ser_resp_err_map_serclosed">Služba ukončená</string>
   <string name="ser_resp_err_map_ssl">"Skúste vybrať 'SSL/TLS (Akceptovať všetky certifikáty)' v 'Zabezpečení'"</string>
   <string name="set_network">Nastaviť sieť</string>
@@ -695,7 +701,6 @@ presahuje limit"</string>
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
   <string name="sort_attachment">Zoradiť podľa</string>
-  <string name="start_download">Stiahnuť</string>
   <string name="status_network_error">Problém s pripojením.</string>
   <string name="storage">Ukladací priestor</string>
   <string name="str_select_all">Všetko</string>
@@ -724,6 +729,10 @@ presahuje limit"</string>
   <string name="too_large_to_attach_multiple">Jeden alebo viacero súborov nie je priložených. Limit: %1$s</string>
   <string name="too_large_to_attach_single">Súbor väčší ako %1$s nie je možné priložiť.</string>
   <string name="trash_folder_selection_title">Priečinok Kôš servera pre %s</string>
+  <string name="trigger_compose_char">c</string>
+  <string name="trigger_refresh_char">u</string>
+  <string name="trigger_save_char">s</string>
+  <string name="trigger_y_char">y</string>
   <string name="turn_auto_sync_on_dialog_body">Zmeny, ktoré vykonáte vo všetkých aplikáciách a účtoch, budú synchronizované medzi webom, ďalšími zariadeniami a zariadením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnúť</string>
   <string name="turn_auto_sync_on_dialog_title">Zapnúť automatickú synchronizáciu?</string>
@@ -732,10 +741,6 @@ presahuje limit"</string>
   <string name="unsent_messages_in_outbox">Počet neodoslaných správ v priečinku %2$s: %1$s</string>
   <string name="updated_at">Naposledy: %1$s</string>
   <string name="updated_just_now">Nedávno aktualizované</string>
-  <string name="upgrade_check">Skontrolovať</string>
-  <string name="upgrade_network_error">Chyba siete</string>
-  <string name="upgrade_now">Aktualizovať</string>
-  <string name="upgrade_title">Aktualizácia</string>
   <string name="validation_failed_prompt">Overenie zlyhalo, nastavte %s server</string>
   <string name="veiled_address"/>
   <string name="veiled_alternate_text"/>
@@ -754,6 +759,7 @@ Ak chcete synchronizovať e-maily jednorazovo, dotknite sa položky "Synchronizo
   <string name="wait_for_sync_body_txt_array_5">.</string>
   <string name="wait_for_sync_note">Potiahnite nadol pre upozornenia. Stlačte pre dokončenie bezpečnostných nastavení.</string>
   <string name="wait_for_sync_title">Čaká sa na synchronizáciu</string>
+  <string name="wait_help_context">čakajte</string>
   <string name="widget_all_mail">Všetky správy</string>
   <string name="widget_large_unread_count">%d+</string>
   <string name="widget_other_views">Ostatné</string>

@@ -8,12 +8,16 @@
   <string name="button_start_now">Spustiť</string>
   <string name="dialog_insufficient_space_on_cache">Nie je dostatok miesta na internom úložisku</string>
   <string name="dialog_insufficient_space_on_external">Nie je dostatok miesta na externom úložisku</string>
+  <string name="download_error">Neúspešné</string>
+  <string name="download_no_application_title">Nie je možné otvoriť súbor</string>
   <string name="download_percent">%d %%</string>
-  <string name="download_unknown_title">&lt;Bez názvu&gt;</string>
+  <string name="download_queued">V poradí</string>
+  <string name="download_remaining">Ostáva: %s</string>
+  <string name="download_running">Prebieha</string>
+  <string name="download_running_percent">Prebieha, %d%%</string>
+  <string name="download_unknown_title">Bez názvu</string>
   <string name="notification_download_complete">Preberanie dokončené.</string>
   <string name="notification_download_failed">Preberanie bolo neúspešné.</string>
-  <string name="notification_filename_extras">" a ďalšie (%d)"</string>
-  <string name="notification_filename_separator">", "</string>
   <string name="notification_need_wifi_for_size">Vzhľadom na veľkosť preberaného súboru sa vyžaduje pripojenie Wi-Fi</string>
   <string name="notification_paused_in_background">Pozastavené na pozadí.</string>
   <string name="permdesc_accessAllDownloads">Umožňuje aplikácii zobraziť a upravovať všetky preberania spustené ľubovoľnou aplikáciou v systéme.</string>
@@ -30,7 +34,8 @@
   <string name="permlab_downloadManagerAdvanced">Rozšírené funkcie správcu preberania.</string>
   <string name="permlab_downloadWithoutNotification">preberať súbory bez upozornenia</string>
   <string name="permlab_seeAllExternal">Zobr. preber. do ukl. priestoru USB</string>
-  <string name="wifi_recommended_body" formatted="false">"Sťahovanie cez mobilné dáta：
+  <string name="root_downloads">Stiahnuté</string>
+  <string name="wifi_recommended_body" formatted="false">"Sťahovanie cez mobilné dáta:
 
  %s（%s）
 

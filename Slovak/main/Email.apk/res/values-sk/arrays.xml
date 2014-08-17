@@ -46,4 +46,11 @@
         <item>Odosielateľ</item>
         <item>Dátum</item>
     </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>Maličký text</item>
+        <item>Malý text</item>
+        <item>Normálny text</item>
+        <item>Veľký text</item>
+        <item>Obrovský text</item>
+    </string-array>
 </resources>
