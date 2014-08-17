@@ -4,7 +4,6 @@
   <string name="accessibility_add_attendee">Pridať účastníka</string>
   <string name="accessibility_add_reminder">Pridať upozornenie</string>
   <string name="accessibility_all_day">Celodenná udalosť</string>
-  <string name="accessibility_email_notification">Email hostí</string>
   <string name="accessibility_pick_end_date">Dátum konca</string>
   <string name="accessibility_pick_end_time">Čas konca</string>
   <string name="accessibility_pick_start_date">Dátum začiatku</string>
@@ -25,9 +24,9 @@
   <string name="acessibility_cal_notification">Oznámenie kalendára</string>
   <string name="acessibility_selected_marker_description">Vybrané udalosti</string>
   <string name="acessibility_snooze_notification">Stlmiť upozornenia</string>
-  <string name="action_bar_today">D</string>
-  <string name="activity_summary"/>
-  <string name="activity_title"/>
+  <string name="action_text_new_event">Nová udalosť</string>
+  <string name="action_text_online">Online</string>
+  <string name="action_text_today">Dnes</string>
   <string name="add_account">Pridať účet</string>
   <string name="add_calendar">Pridať</string>
   <string name="add_topic_success">Odoberanie "%s" úspešné</string>
@@ -95,12 +94,13 @@
   <string name="edit_event_to_label">Do</string>
   <string name="edit_label">Upraviť</string>
   <string name="email_guests_label">Odpoveď účastníkom</string>
-  <string name="email_organizer_label">Organizér Emailov</string>
   <string name="email_picker_label">Email z</string>
   <string name="email_subject_prefix">"Re: "</string>
   <string name="empty_event">Prázdna udalosť sa nevytvorila</string>
   <string name="enter_calendar">Kalendár</string>
   <string name="event_account">Účet</string>
+  <string name="event_action_delete">Vymazať</string>
+  <string name="event_action_edit">Upraviť</string>
   <string name="event_all_day_label">Celý deň</string>
   <string name="event_create">Nová udalosť</string>
   <string name="event_date_format">dd.MM EEEE</string>
@@ -125,12 +125,6 @@
   <string name="gadget_no_events">Žiadne nadchádzajúce udalosti</string>
   <string name="gadget_title">Kalendár</string>
   <string name="goto_today">Dnes</string>
-  <string name="gou_piao_event_title">Train reminders %s</string>
-  <string name="gou_piao_item1">Remind me of times for trains</string>
-  <string name="gou_piao_item2">For telephone bookings call 12306</string>
-  <string name="gou_piao_item3">Purchase tickets by calling 12306</string>
-  <string name="gou_piao_website_start_time">Purchase at %s online or by phone</string>
-  <string name="gou_piao_window_start_time">Tickets can be purchased at the station from %s</string>
   <string name="hide_controls">Skryť ovládacie prvky</string>
   <string name="hint_attendees">Hostia</string>
   <string name="hint_description">Popis</string>
@@ -245,7 +239,6 @@
   <string name="show_almanac">Almanach (Čína)</string>
   <string name="show_controls">Zobraziť ovládacie prvky</string>
   <string name="show_day_view">Zobraziť deň</string>
-  <string name="show_gou_piao">Zobraziť rozvrh vlakov (Čína)</string>
   <string name="show_newer_events">Dotykom zobrazíte udalosti po období %1$s</string>
   <string name="show_older_events">Dotykom zobrazíte udalosti pred obdobím %1$s</string>
   <string name="snooze_all_label">Odložiť všetko</string>
@@ -263,7 +256,6 @@
   <string name="today">Dnes</string>
   <string name="today_at_time_fmt">Dnes o %s</string>
   <string name="today_no_events">Žiadne udalosti</string>
-  <string name="today_weather_unavailable">Nie je možné získať údaje o počasí</string>
   <string name="tomorrow">Zajtra</string>
   <string name="tomorrow_at_time_fmt">Zajtra o %s</string>
   <string name="view_all_matches">Zobraziť všetko</string>
