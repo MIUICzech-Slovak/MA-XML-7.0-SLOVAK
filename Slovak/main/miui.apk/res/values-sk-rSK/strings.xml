@@ -9,8 +9,10 @@
   <string name="activate">Aktivovať</string>
   <string name="activate_fail_notification_title">Znovu aktivovať synchr.</string>
   <string name="activating">Aktivácia...</string>
+  <string name="address">Adresa</string>
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
+  <string name="birthday">Narodeniny</string>
   <string name="check_phone_error_title">Synchr. nie je povolená</string>
   <string name="check_phone_io_error">Chyba siete.</string>
   <string name="close">Zatvoriť</string>
@@ -20,6 +22,7 @@
   <string name="date_picker_label_month"/>
   <string name="date_picker_label_year"/>
   <string name="date_time_done">Hotovo</string>
+  <string name="date_time_picker_dialog_title">Nastavte dátum a čas</string>
   <string name="deselect_all">Odznačiť všetko</string>
   <string name="early_morning">AM</string>
   <string name="empty"/>
@@ -130,11 +133,16 @@
   <string name="month_september_shortest">S</string>
   <string name="more">Viac</string>
   <string name="morning">AM</string>
+  <string name="name">Meno</string>
+  <string name="nickname">Prezývka</string>
   <string name="night">PM</string>
   <string name="no_sim">Žiadna SIM karta</string>
   <string name="noon">PM</string>
+  <string name="note">Poznámka</string>
+  <string name="organization">Organizácia</string>
   <string name="perm_payment_dspt">Povoliť aplikácií platiť cez Xiaomi platby</string>
   <string name="perm_payment_lab">Xiaomi platby</string>
+  <string name="phone">Telefón</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Súkromie</string>
   <string name="saturday">Sobota</string>
@@ -151,6 +159,7 @@
   <string name="sim_locked">SIM karta zablokovaná.</string>
   <string name="sim_not_ready">SIM karta sa používa. Skúste neskôr.</string>
   <string name="sim_unavailable">SIM karta nedostupná.</string>
+  <string name="sip_phone">SIP</string>
   <string name="size_byte">B</string>
   <string name="size_giga_byte">GB</string>
   <string name="size_kilo_byte">KB</string>
@@ -239,6 +248,7 @@
   <string name="tuesday_shortest">U</string>
   <string name="user_agreement">Súhlas</string>
   <string name="user_manual">Návod</string>
+  <string name="website">Web</string>
   <string name="wednesday">Streda</string>
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>

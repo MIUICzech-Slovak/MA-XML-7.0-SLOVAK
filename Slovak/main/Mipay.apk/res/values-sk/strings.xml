@@ -1,11 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-  <string name="mipay_add_bank_card">Add bank card</string>
+  <string name="mipay_add_bank_card">Use new bank card</string>
   <string name="mipay_agreement">Agree to %1$s</string>
   <string name="mipay_alipay">Alipay</string>
   <string name="mipay_alipay_error">Alipay failed</string>
-  <string name="mipay_app_name">Bank cards</string>
   <string name="mipay_bank_card_cvv2">CVV2</string>
   <string name="mipay_bank_card_cvv2_hint">CVV2</string>
   <string name="mipay_bank_card_hint">Please enter account number</string>
@@ -34,6 +33,7 @@
   <string name="mipay_bank_cards_title">My bank cards</string>
   <string name="mipay_button_cancel">Cancel</string>
   <string name="mipay_button_count_down">Inquire after %1$s seconds</string>
+  <string name="mipay_button_done">Done</string>
   <string name="mipay_button_finish">Finish</string>
   <string name="mipay_button_next">Next</string>
   <string name="mipay_button_ok">Confirm</string>
@@ -46,7 +46,8 @@
   <string name="mipay_cancel_pay">Give up purchasing?</string>
   <string name="mipay_cancel_unbind_bank_card">Give up unbinding bank card?</string>
   <string name="mipay_check_login_password_summary">Please enter your Xiaomi account password</string>
-  <string name="mipay_check_password_summary">Please enter your payment password</string>
+  <string name="mipay_check_order_title">Counter</string>
+  <string name="mipay_check_password_summary">Enter your PIN first</string>
   <string name="mipay_check_personal_info_error">Please check your personal information</string>
   <string name="mipay_check_personal_info_id_card">ID card no.</string>
   <string name="mipay_check_personal_info_id_card_hint">Your ID card no.</string>
@@ -59,6 +60,7 @@
   <string name="mipay_check_sms_captcha_summary">Verification code has been sent to your phone %1$s</string>
   <string name="mipay_check_sms_captcha_wait">%1$ssec</string>
   <string name="mipay_common_license">User Agreement</string>
+  <string name="mipay_counter_app_name">Bank cards</string>
   <string name="mipay_create_order_progress">Creating order…</string>
   <string name="mipay_date_picker_label_month"/>
   <string name="mipay_date_picker_label_year"/>
@@ -99,6 +101,7 @@ Please check your local date and try again."</string>
   <string name="mipay_query_timeout">Payment timeout</string>
   <string name="mipay_query_timeout_contact">Please contact our customer service</string>
   <string name="mipay_query_wait">Paying</string>
+  <string name="mipay_result_title">Payment</string>
   <string name="mipay_set_password_first_summary">Set up payment password to protect you account</string>
   <string name="mipay_set_password_hint">Please enter six digits</string>
   <string name="mipay_set_password_modify_summary">Please enter a new payment password</string>
@@ -108,4 +111,5 @@ Please check your local date and try again."</string>
   <string name="mipay_setting_title_password">Payment password</string>
   <string name="mipay_sms_captcha_error">Please check your verification code</string>
   <string name="mipay_update_title">Mipay has update!</string>
+  <string name="mipay_wallet_app_name">Bank cards</string>
 </resources>

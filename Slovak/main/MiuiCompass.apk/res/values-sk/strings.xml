@@ -3,6 +3,7 @@
 <resources>
   <string name="altitude_title">Nadm. výška</string>
   <string name="app_label">Kompas</string>
+  <string name="calibrate_altitude">Kalibácia</string>
   <string name="calibrate_failed_no_location">Kalibrácia zlyhala. Nie je možné získať aktuálnu polohu</string>
   <string name="calibrate_failed_timeout">Kalibrácia zlyhala: Čas pripojenia na server vypršal</string>
   <string name="calibrate_success">Kalibrácia dokončená</string>
@@ -17,6 +18,7 @@
   <string name="direction_south_east">JV</string>
   <string name="direction_south_west">JZ</string>
   <string name="direction_west">Z</string>
+  <string name="do_not_show_next_time">Viac nezobrazovať</string>
   <string name="getting_location">Kalibrácia...</string>
   <string name="guide_toast">"Prosím skalibrujte kompas pohybom v tvare osmičky."</string>
   <string name="latitude">LAT</string>
@@ -26,7 +28,8 @@
   <string name="location_west">W</string>
   <string name="longitude">LON</string>
   <string name="menu_calibrate">Kalibrovať kompas</string>
-  <string name="menu_calibrate_altitude">Kalibrovať nadmorskú výšku</string>
+  <string name="mobiledata_alert_dialog_message">Pripojiť sa k internetu pre kalibráciu nadmorskej výšky?</string>
+  <string name="mobiledata_alert_dialog_title">Upozornenie</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
 </resources>
