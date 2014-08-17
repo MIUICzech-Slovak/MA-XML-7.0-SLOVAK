@@ -1207,6 +1207,8 @@ pre účet %s"</string>
   <string name="progress_unmounting">Prebieha odpájanie úložiska USB...</string>
   <string name="reason_service_unavailable">Tlačová služba nie je povolená</string>
   <string name="reason_unknown">neznáme</string>
+  <string name="reboot_confirm">Telefón sa reštartuje.</string>
+  <string name="reboot_progress">Reštart...</string>
   <string name="reboot_safemode_confirm">Chcete zariadenie reštartovať do núdzového režimu? Zakážu sa tým všetky aplikácie tretích strán, ktoré ste nainštalovali. Tieto aplikácie budú obnovené po ďalšom reštartovaní.</string>
   <string name="reboot_safemode_title">Reštartovať do núdzového režimu</string>
   <string name="recent_tasks_title">Najnovšie</string>
@@ -1436,6 +1438,11 @@ Chcete ju zavrieť?"</string>
   <string name="webviewchromium_accessibility_date_picker_year">Rok</string>
   <string name="webviewchromium_accessibility_datetime_picker_date">Dátum</string>
   <string name="webviewchromium_accessibility_datetime_picker_time">Čas</string>
+  <string name="webviewchromium_accessibility_time_picker_ampm">AM/PM</string>
+  <string name="webviewchromium_accessibility_time_picker_hour">Hodina</string>
+  <string name="webviewchromium_accessibility_time_picker_milli">Milisekunda</string>
+  <string name="webviewchromium_accessibility_time_picker_minute">Minúta</string>
+  <string name="webviewchromium_accessibility_time_picker_second">Sekunda</string>
   <string name="webviewchromium_actionbar_share">Zdieľať</string>
   <string name="webviewchromium_actionbar_web_search">Vyhľadávanie na webe</string>
   <string name="webviewchromium_color_picker_button_cancel">Zrušiť</string>

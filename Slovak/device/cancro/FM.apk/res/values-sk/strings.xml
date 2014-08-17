@@ -44,6 +44,7 @@
   <string name="fm_cmd_failed_msg_hdmi">Operácia zlyhala. Súčasný beh rádia a HDMI nie je podporovaný.</string>
   <string name="fm_command_failed_title">Operácia zlyhala</string>
   <string name="fm_command_timeout_title">Čas vypršal</string>
+  <string name="fm_has_turned_off">FM je vypnuté</string>
   <string name="fm_tune_timeout_msg">Problém s ladením stanice. Pokiaľ problém pretrvá, skúste reštartovať rádio.</string>
   <string name="fmradio_clear_confirm_msg">Uložené stanice budú odstránené, pokračovať v hľadaní?</string>
   <string name="fmtx_autoselect_name">Automatický výber odstráni všetky súčasné stanice, pokračovať?</string>
@@ -62,6 +63,7 @@
   <string name="menu_delete">Odstrániť</string>
   <string name="menu_edit">Upraviť</string>
   <string name="menu_exit">Ukončiť</string>
+  <string name="menu_headset">Prepnúť na slúchadlá</string>
   <string name="menu_new_station">Pridať novú stanicu</string>
   <string name="menu_play">Prehrať</string>
   <string name="menu_record_list">Zoznam nahrávok</string>
@@ -69,16 +71,15 @@
   <string name="menu_record_stop">Ukončiť nahrávanie</string>
   <string name="menu_rename_list">Premenovať zoznam</string>
   <string name="menu_reorder_list">Zmeniť poradie zoznamu</string>
-  <string name="menu_save_station">Uložiť stanicu</string>
   <string name="menu_save_station_list">Pridať do zoznamu</string>
   <string name="menu_save_station_presets">Pridať do predvolieb</string>
   <string name="menu_scan_for_preset">Hľadať stanicu</string>
   <string name="menu_scan_start">Vyhľadať</string>
   <string name="menu_scan_stop">Ukončiť vyhľadávanie</string>
-  <string name="menu_select_station">Vybrať stanicu</string>
   <string name="menu_settings">Nastavenia</string>
   <string name="menu_sleep">Automatické vypnutie rádia</string>
   <string name="menu_sleep_cancel">Zrušiť automatické vypnutie rádia</string>
+  <string name="menu_speaker">Prepnúť na reproduktor</string>
   <string name="menu_stats">FM RF štatistika</string>
   <string name="msg_callactive">FM Tx nie je dostupné pri aktívnom hovore</string>
   <string name="msg_do_not_support_fm">FM nie je podporované na Vašom zariadení.</string>
@@ -108,7 +109,6 @@
   <string name="record_fail">Nahrávanie zlyhalo</string>
   <string name="record_file_format">%1$s_%2$s</string>
   <string name="record_file_location_format">Stlač pre zobrazenie súboru %s</string>
-  <string name="record_sucess">Nahrávanie dokončené</string>
   <string name="reduce_af">Znížiť citlivosť</string>
   <string name="regional_band">Rozsah frekvencie (vymaže staníce)</string>
   <string name="search_dialog_title">Vyhľadať stanice</string>
@@ -137,7 +137,6 @@
   <string name="title_select_station">Vybrať stanicu - %s</string>
   <string name="toast_added_to_list">Pridané do zoznamu</string>
   <string name="toast_added_to_presets">Pridané</string>
-  <string name="toast_channel_searched">Nájdených %1$d staníc.</string>
   <string name="toast_delete_station">%s MHz zmazané</string>
   <string name="toast_edit_station">Úspešne uložené</string>
   <string name="toast_fm_error_startfailed">Chyba nahrávania. Niektorá aplikácia práve využíva funkciu nahrávania. Skúste to neskôr.</string>
@@ -145,7 +144,6 @@
   <string name="toast_fm_recorder_access_error">"Nie je možné nahrávať v režime Návštevník"</string>
   <string name="toast_fm_recorder_internal_error">Chyba nahrávania FM.</string>
   <string name="toast_fm_recorder_storage_full">Úložisko je plné, nie je možné nahrávať</string>
-  <string name="toast_fm_scaning">Vyhľadávanie...</string>
   <string name="toast_fm_seeking">Vyhľadávanie staníc...</string>
   <string name="toast_fm_starting">Spúšťa sa FM，čakajte prosím...</string>
   <string name="toast_fm_stoping">Ukončuje sa FM, čakajte prosím...</string>
@@ -158,6 +156,8 @@
   <string name="turn_off_speaker_phone">Vypnúť reproduktor</string>
   <string name="turn_on_fm">Zapnúť FM</string>
   <string name="turn_on_speaker_phone">Zapnúť reproduktor</string>
+  <string name="txt_divider">" | "</string>
+  <string name="txt_sleep_mode">Spánok</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobraziť zoznam staníc</string>
 </resources>

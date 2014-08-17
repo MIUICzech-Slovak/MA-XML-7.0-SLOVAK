@@ -44,4 +44,56 @@
         <item>Iné</item>
         <item>Vlastné</item>
     </string-array>
+    <string-array name="app_ops_labels">
+        <item>Pokus o prístup k polohe</item>
+        <item>Pokus o prístup k polohe</item>
+        <item>Pokus o prístup k polohe</item>
+        <item>Pokus o použitie vibrácií</item>
+        <item>Pokus o čítanie kontaktov</item>
+        <item>Pokus o úpravu kontaktov</item>
+        <item>Pokus o čítanie záznamov o volaní</item>
+        <item>Pokus o úpravu záznamov o volaní</item>
+        <item>Pokus o čítanie kalendára</item>
+        <item>Pokus o úpravu kalendára</item>
+        <item>Pokus o prístup k polohe</item>
+        <item>Pokus o notifikácie</item>
+        <item>Pokus o prístup k polohe</item>
+        <item>Pokus o hovor</item>
+        <item>Pokus o čítanie SMS</item>
+        <item>Pokus o písanie/úpravu SMS</item>
+        <item>Pokus o prijatie SMS</item>
+        <item>Pokus o prijatie SMS</item>
+        <item>Pokus o prijatie MMS</item>
+        <item>Pokus o prijatie SMS</item>
+        <item>Pokus o odoslanie SMS</item>
+        <item>Pokus o čítanie SMS</item>
+        <item>Pokus o písanie/úpravu SMS</item>
+        <item>Pokus o zmenu nastavení</item>
+        <item>Pokus o draw on top</item>
+        <item>Pokus o prístup k notifikáciam</item>
+        <item>Pokus o prístup k fotoaparátu</item>
+        <item>Pokus o nahrávanie zvuku</item>
+        <item>Pokus o prehranie zvuku</item>
+        <item>Pokus o čítanie schránky</item>
+        <item>Pokus o úpravu schránky</item>
+        <item>Trying to use media buttons</item>
+        <item>Trying to use audio focus</item>
+        <item>Trying to use master volume</item>
+        <item>Trying to use voice volume</item>
+        <item>Trying to use ring volume</item>
+        <item>Trying to use media volume</item>
+        <item>Trying to use alarm volume</item>
+        <item>Trying to use notification volume</item>
+        <item>Trying to use bluetooth volume</item>
+        <item>Trying to Keep device awake</item>
+        <item>Pokus o prístup k polohe</item>
+        <item>Pokus o prístup k polohe</item>
+        <item>Pokus o zap./vyp. Wi-Fi</item>
+        <item>Pokus o zap./vyp. bluetooth</item>
+        <item>Pokus o zap./vyp. mobilnych dát</item>
+        <item>Pokus o odoslanie MMS</item>
+        <item>Pokus o čítanie MMS</item>
+        <item>Pokus o písanie MMS</item>
+        <item>Spustiť sa pri štarte</item>
+    </string-array>
 </resources>
