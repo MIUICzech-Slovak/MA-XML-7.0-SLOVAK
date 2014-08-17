@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+  <string name="action_firewall_setting">Čierna listina</string>
   <string name="activity_not_found">Program pre zobrazenie prílohy sa nenašiel</string>
   <string name="activity_not_found_uri">Pre túto akciu sa nenašiel program</string>
   <string name="addBlackList">Pridať na čiernu listinu</string>
@@ -131,6 +132,7 @@
   <string name="edit_slideshow_activity">Upraviť prezentáciu</string>
   <string name="enable_password_protect">Povoliť ochranu heslom</string>
   <string name="enable_visible_pattern_title">Zobraziť vzor</string>
+  <string name="english_subject_limit">max 40 znakov</string>
   <string name="enter_edit_mode">Upraviť</string>
   <string name="error_code_label">"Chyba kódu: "</string>
   <string name="error_state">Nekonzistentný stav</string>
@@ -186,7 +188,9 @@
   <string name="loading_mms">Načítavanie MMS...</string>
   <string name="manage_permission_app_label">Device Management Permission</string>
   <string name="me">Ja</string>
+  <string name="menu_call">Hovor</string>
   <string name="menu_compose_new">Vytvoriť</string>
+  <string name="menu_contact">Kontakt</string>
   <string name="menu_delete_messages">Odstrániť</string>
   <string name="menu_edit">Upraviť</string>
   <string name="menu_forward">Poslať ďalej</string>
@@ -220,6 +224,10 @@
   <string name="msg_type_hint_mms">Multimediálna správa</string>
   <string name="msg_type_hint_mx">Cloud správa</string>
   <string name="msg_type_hint_sms">Textová správa</string>
+  <string name="msglist_continue_to_pull_for_more">Potiahnite nadol pre ďalšie</string>
+  <string name="msglist_more_refreshing">Obnovenie…</string>
+  <string name="msglist_no_more_to_refresh">Aktualizované</string>
+  <string name="msglist_release_to_more">Pustite pre zobrazenie ďalších</string>
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Zvuk oznámenia</string>
   <string name="mx_activate_error_malformed_info">Aktivácia Cloud správ zlyhala, vyžaduje sa opätovný pokus o aktiváciu</string>
@@ -299,8 +307,6 @@
   <string name="pref_summary_mms_retrieval_during_roaming">Automaticky načítať správy pri roamingu</string>
   <string name="pref_summary_mx_feedback">"Pomôžte zlepšiť MIUI! 
 Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
-  <string name="pref_summary_new_message_popup">Povoliť vyskakovacie okno pri doručenej správe</string>
-  <string name="pref_summary_new_message_popup_when_secure">Zadať heslo pre zobrazenie vyskakovacieho okna</string>
   <string name="pref_summary_notification_body_enabled">Zobraziť správu na zamykacej obrazovke a v notif. lište</string>
   <string name="pref_summary_notification_body_enabled_when_secure">Náhľad správy je v chránenom režime vypnutý</string>
   <string name="pref_summary_off_system_mms_priority">Ostatné Mms aplikácie dostanú správu skôr</string>
@@ -321,7 +327,6 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="pref_title_mms_delete">Limit MMS správ</string>
   <string name="pref_title_mms_read_reports">Potvrdenie o prečítaní</string>
   <string name="pref_title_mms_retrieval_during_roaming">Načítať pri roamingu</string>
-  <string name="pref_title_new_message_popup">Vyskakovacie okno</string>
   <string name="pref_title_notification_body_enabled">Zobraziť náhľady</string>
   <string name="pref_title_ringtone_repeat">Opakovať upozornenie</string>
   <string name="pref_title_show_recent_contacts">Posledné kontakty</string>
@@ -492,6 +497,11 @@ Pokus: %s."</string>
   <string name="unstick_conversation">Zrušiť pripnutie</string>
   <string name="unsticked_conversation">Pripnutie je zrušené</string>
   <string name="unsupported_media_format">%1$s je v nepodporovanom formáte</string>
+  <string name="user_agreement1">Pozorne si prečítajte všetky podmienky predtým ako začnete používať alebo inštalovať ďalšie aplikácie.</string>
+  <string name="user_agreement2">" Podmienky používania"</string>
+  <string name="user_agreement3">" a "</string>
+  <string name="user_agreement4">Ochrana súkromia</string>
+  <string name="user_agreement5">Tlačidlom OK, súhlasíte s týmito podmienkami.</string>
   <string name="view">Zobraziť</string>
   <string name="view_bookmark">Zobraziť pôvodnú správu</string>
   <string name="view_hms_details">Podrobnosti</string>

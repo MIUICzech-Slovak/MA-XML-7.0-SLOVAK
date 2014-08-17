@@ -19,8 +19,4 @@
         <item>Epizóda</item>
         <item>Popis</item>
     </string-array>
-    <string-array name="addon_list_tabs">
-        <item>Všetky špeciály</item>
-        <item>Moje špeciály</item>
-    </string-array>
 </resources>
