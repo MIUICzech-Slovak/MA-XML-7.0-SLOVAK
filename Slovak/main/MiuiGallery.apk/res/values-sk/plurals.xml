@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
+    <plurals name="confirm_delete_has_cloud_image">
+        <item quantity="other">Vymazať obrázky (%s) v cloude?</item>
+        <item quantity="one">Vymazať obrázok (%s) v cloude?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_image">
+        <item quantity="other">Vymazať obrázky (%s)?</item>
+        <item quantity="one">Vymazať obrázok (%s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_video">
+        <item quantity="other">Vymazať videá (%s) v cloude?</item>
+        <item quantity="one">Vymazať video (%s) v cloude?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_local_video">
+        <item quantity="other">Vymazať videá (%s)?</item>
+        <item quantity="one">Vymazať video (%s)?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image">
+        <item quantity="other">Vymazať obrázky (%s) v zariadení a cloude?</item>
+        <item quantity="one">Vymazať obrázok (%s) v zariadení a cloude?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_video">
+        <item quantity="other">Vymazať videá (%s) v zariadení a cloude?</item>
+        <item quantity="one">Vymazať video (%s) v zariadení a cloude?</item>
+    </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Vybraných: %1$d </item>
         <item quantity="zero">Vybraných: %1$d</item>
@@ -16,15 +39,6 @@
         <item quantity="other">%1$d</item>
         <item quantity="zero">%1$d</item>
         <item quantity="one">%1$d</item>
-    </plurals>
-    <plurals name="make_albums_available_offline">
-        <item quantity="other">Sprístupniť albumy offline.</item>
-        <item quantity="one">Sprístupniť album offline.</item>
-    </plurals>
-    <plurals name="number_of_cloudimages">
-        <item quantity="other">Obrázkov: %1$d</item>
-        <item quantity="zero">Obrázkov: %1$d</item>
-        <item quantity="one">Obrázkov: %1$d</item>
     </plurals>
     <plurals name="number_of_items">
         <item quantity="other">Položiek: %1$d</item>

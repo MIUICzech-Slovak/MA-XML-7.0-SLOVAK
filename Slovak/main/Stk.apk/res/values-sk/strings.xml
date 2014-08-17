@@ -4,6 +4,7 @@
   <string name="alphabet">Abeceda</string>
   <string name="app_name">SIM Toolkit</string>
   <string name="app_name2">SIM Toolkit2</string>
+  <string name="app_name3">SIM Toolkit3</string>
   <string name="button_cancel">Zrušiť</string>
   <string name="button_no">Nie</string>
   <string name="button_ok">OK</string>
@@ -14,6 +15,7 @@
   <string name="default_receive_data_msg">Prijímanie dát</string>
   <string name="default_send_data_msg">Odosielanie dát</string>
   <string name="default_setup_call_msg">Call being setup</string>
+  <string name="default_tone_dialog_msg">Playing Tone</string>
   <string name="digits">Znaky (0-9, *, #, +)</string>
   <string name="disable_app">Vypnuté</string>
   <string name="enable_app">Zapnuté</string>

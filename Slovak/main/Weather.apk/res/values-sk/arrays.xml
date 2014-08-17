@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <string-array name="send_item">
-        <item>Správa</item>
-        <item>Email</item>
-    </string-array>
-    <string-array name="act_weather_main_listview_key">
-        <item>Rýchlosť vetra:</item>
-        <item>UV index:　</item>
-        <item>Oblečenie:</item>
-        <item>Pocit:</item>
-        <item>Index umývania auta:</item>
-        <item>Index sušenia:</item>
-        <item>Ranné cvičenie:</item>
-        <item>Voľný čas:</item>
-    </string-array>
-	<string-array name="weather_image">
+	<string-array name="weather_type">
         <item>jasno</item>
         <item>oblačno</item>
         <item>hmlisto</item>
@@ -42,248 +27,24 @@
         <item>búrka</item>
         <item>prašno</item>
         <item>hmlisto</item>
+        <item>mrznúci dážď</item>
+        <item>Žiadne dáta</item>
     </string-array>
-    <string-array name="weather_details_key">
-        <item>Nedostupné</item>
-        <item>Vhodné</item>
-        <item>Dobré</item>
-        <item>Vyhýbajte sa ak je to možné</item>
-        <item>Nedoporučuje sa</item>
-        <item>Ideálne</item>
-        <item>Primerané</item>
+    <string-array name="weather_indexes_uv_level">
         <item>Slabé</item>
+        <item>Mierné</item>
         <item>Stredné</item>
         <item>Silné</item>
         <item>Veľmi silné</item>
-        <item>Chladno</item>
-        <item>Prijemne</item>
-        <item>Veľmi horúco</item>
-        <item>Horúco</item>
-        <item>Teplo</item>
-        <item>Chladno</item>
-        <item>Chladnejšie</item>
-        <item>Zima</item>
-        <item>Mráz</item>
-        <item>Vysoko</item>
-        <item>Stredne</item>
-        <item>Nízko</item>
-        <item>Jasno</item>
-        <item>Oblačno</item>
-        <item>Dážď</item>
-        <item>Snežná búrka</item>
-        <item>Sneh</item>
-        <item>Relatívne vhodné podmienky</item>
-        <item>Vyhovujúce podmienky</item>
-        <item>Oblačno</item>
-        <item>Menej ako vhodné</item>
-        <item>Vhodné podmienky</item>
-        <item>Slabé podmienky</item>
-        <item>Priemerné podmienky</item>
     </string-array>
-    <string-array name="weather_image_tips">
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>"Prší, nezabudnite si dáždnik."</item>
-        <item>"Prší, nezabudnite si dáždnik."</item>
-        <item>"Prší, nezabudnite si dáždnik."</item>
-        <item>Ak pôjdete vonku, vezmite si dáždnik!</item>
-        <item>Ak pôjdete vonku, vezmite si dáždnik!</item>
-        <item>Ak pôjdete vonku, vezmite si dáždnik!</item>
-        <item>"Bude pršať, vezmite si dáždnik!"</item>
-        <item>"Mrholenie, odporúča sa vziať si dáždnik!"</item>
-        <item>"Vonku je dážď so snehom, odporúča sa vziať si dáždnik!"</item>
-        <item>"Sneží, vezmite si čiapku a šál!"</item>
-        <item>"Dnes bude snežiť, vezmite si čiapku a šál!"</item>
-        <item>"Veľmi sneží, vezmite si čiapku a šál!"</item>
-        <item>"Sneží, vezmite si čiapku a šál!"</item>
-        <item>There is a light snowfall, vezmite si čiapku a šál.</item>
-        <item>There is a very strong sand storm, remember to wear a face mask.</item>
-        <item>Vonku prší, vezmite si dáždnik.</item>
-        <item>There is a very strong sand storm, remember to wear a face mask.</item>
-        <item>There is a very strong sand storm, remember to wear a face mask.</item>
-        <item>Vonku je krupobitie! Buďte opatrní!</item>
-    </string-array>
-    <string-array name="weather_sms_content">
-        <item>Nezabudnite si slnečné okuliare.</item>
-        <item>Dnes bude oblačno.</item>
-        <item>Počasie sa zhorší, mali by ste ostať ešte chvíľu doma.</item>
-        <item>Ak pôjdete vonku. dajte si pozor na premávku. Ak šoférujete, buďte opatrní :)</item>
-        <item>"Prší, nezabudnite si dáždnik."</item>
-        <item>"Prší, nezabudnite si dáždnik."</item>
-        <item>"Prší, nezabudnite si dáždnik."</item>
-        <item>Nezabudnite si dáždnik!</item>
-        <item>Nezabudnite si dáždnik!</item>
-        <item>Nezabudnite si dáždnik! :)</item>
-        <item>Nezabudnite si dáždnik!</item>
-        <item>"Vonku mrholí, nezabudnite si dáždnik!"</item>
-        <item>"Vonku je dážď so snehom, nezabudnite si dáždnik!"</item>
-        <item>"Silno sneží!"</item>
-        <item>Dnes bude snežiť, vezmite si čiapku a šál.</item>
-        <item>"Sneží, vezmite si čiapku a šál!"</item>
-        <item>"Veľmi sneží, vezmite si čiapku a šál!"</item>
-        <item>"Sneží, vezmite si čiapku a šál!"</item>
-        <item>There is a very strong sand storm, remember to wear a face mask.</item>
-        <item>There is a very strong sand storm, remember to wear a face mask.</item>
-        <item>here is a very strong sand storm, remember to wear a face mask.</item>
-        <item>here is a very strong sand storm, remember to wear a face mask.</item>
-        <item>"Vonku je krupobitie! Buďte opatrní!"</item>
-        <item>Air quality is poor, remember to wear a mask.</item>
-        <item>Air quality is poor, try to stay indoors.</item>
-    </string-array>
-    <string-array name="weather_sms_addons">
-        <item>"Dnešná predpoveď pre @: $."</item>
-        <item>Min~Max: %.</item>
-        <item>Nezabudnite si dáždnik!</item>
-        <item>Skúste nezmoknúť! :)</item>
-        <item>"Ak sušíte vonku bielizeň, nezabudne ju priniesť do vnútra! :)"</item>
-        <item>"Ak je to možné, nešoférujte. Bezpečnosť je prvoradá."</item>
-        <item>Jazdite opatrne!</item>
-        <item>"Buďte opatrní, šmýka sa."</item>
-        <item>Pozor! Buďte vonku opatrní.</item>
-        <item>Buďte vonku opatrní.</item>
-        <item>"Ak to nie je nevyhnutné, nechoďte vonku."</item>
-        <item>Noste slnečné okuliare.</item>
-        <item>Noste slnečné okuliare.</item>
-        <item>"Je veterno, vezmite si bundu."</item>
-        <item>Air quality is poor, remember to wear a mask.</item>
-        <item>Vezmite si bundu.</item>
-        <item>Remember to wear a mask :)</item>
-        <item>Vezmite si rukavice a čiapku.</item>
-        <item>"Je horúco!"</item>
-        <item>"Je horúco!"</item>
-        <item>Oblečte sa!</item>
-        <item>Studená vlna sa blíži...</item>
-        <item>Oblečte sa!</item>
-        <item>Vezmite si chrániče na uši ak ich máte! :)</item>
-        <item>Zabehajte si!</item>
-        <item>Zabehajte si a užite si slnko! :)</item>
-        <item>"Je skvelý deň na sušenie bielizne!"</item>
-        <item>"Ochladilo sa, nezabudnite si bundu!"</item>
-    </string-array>
-    <string-array name="weather_info_uv">
-        <item>0</item>
-        <item>Nedostupné</item>
-        <item>6</item>
-        <item>Použite opaľovací krém, slnečné okuliare a čiapku ak ste vonku.</item>
-        <item>7</item>
-        <item>Použite opaľovací krém, slnečné okuliare a čiapku ak ste vonku.</item>
-        <item>8</item>
-        <item>Použite opaľovací krém, slnečné okuliare a čiapku ak ste vonku.</item>
-        <item>9</item>
-        <item>Vyhýbajte sa slnku ak je to možné. Natrite sa opaľovacím krémom!</item>
-        <item>10</item>
-        <item>Vyhýbajte sa slnku ak je to možné. Natrite sa opaľovacím krémom!</item>
-    </string-array>
-    <string-array name="weather_info_dress">
-        <item>0</item>
-        <item>Nedostupné</item>
-        <item>11</item>
-        <item>Ľahká bunda</item>
-        <item>12</item>
-        <item>Ľahká bunda</item>
-        <item>13</item>
-        <item>Letné oblečenie</item>
-        <item>14</item>
-        <item>Letné oblečenie</item>
-        <item>15</item>
-        <item>Ľahká bunda</item>
-        <item>16</item>
-        <item>Nezabudnite si ďalšie oblečenie!</item>
-        <item>17</item>
-        <item>Vezmite si bundu!</item>
-        <item>18</item>
-        <item>Oblečte sa!</item>
-        <item>19</item>
-        <item>Oblečte sa!</item>
-    </string-array>
-    <string-array name="weather_info_msport">
-        <item>0</item>
-        <item>Nedostupné</item>
-        <item>1</item>
-        <item>"Je skvelý deň na rannú rozcvičku!"</item>
-        <item>2</item>
-        <item>Nezabudnite si ďalšie oblečenie!</item>
-        <item>3</item>
-        <item>Počasie nie je ideálne; nezabudnite si ďalšie oblečenie!</item>
-        <item>4</item>
-        <item>Zacvičte si doma!</item>
-    </string-array>
-    <string-array name="weather_info_comfort">
-        <item>0</item>
-        <item>Nedostupné</item>
-        <item>20</item>
-        <item>Teplota bude ustálená</item>
-        <item>21</item>
-        <item>Chladno a prijemne</item>
-        <item>22</item>
-        <item>Teplota bude premenlivá</item>
-        <item>23</item>
-        <item>Jasno ale neprijemne</item>
-        <item>24</item>
-        <item>Horúco a vlhko! :(</item>
-    </string-array>
-    <string-array name="weather_info_wcar">
-        <item>0</item>
-        <item>Nedostupné</item>
-        <item>1</item>
-        <item>"Skvelý deň na umytie auta!"</item>
-        <item>2</item>
-        <item>"Skvelý deň na umytie auta!"</item>
-        <item>3</item>
-        <item>"Bude pršať, počkajte s umytím auta."</item>
-        <item>25</item>
-        <item>"Bude pršať, počkajte s umytím auta."</item>
-        <item>26</item>
-        <item>There is a sand storm in the forecast, so hold off on washing your car.</item>
-        <item>27</item>
-        <item>"Bude snežiť, počkajte s umytím auta."</item>
-        <item>4</item>
-        <item>Počkajte s umytím auta.</item>
-    </string-array>
-    <string-array name="weather_info_hung">
-        <item>0</item>
-        <item>Nedostupné</item>
-        <item>28</item>
-        <item>Rozvešajte bielizeň aby vyschla poobede.</item>
-        <item>29</item>
-        <item>Rozvešajte bielizeň kedykoľvek.</item>
-        <item>30</item>
-        <item>Zamračené ale horúco, bielizeň aj tak vyschne.</item>
-        <item>1</item>
-        <item>Počasie je vhodné pre sušenie bielizne.</item>
-        <item>3</item>
-        <item>Bude pršať prerušovane po celý deň.</item>
-        <item>5</item>
-        <item>Dobré podmienky na sušenie bielizne.</item>
-        <item>4</item>
-        <item>Sušte svoju bielizeň vo vnútri.</item>
-        <item>31</item>
-        <item>Sušte svoju bielizeň vo vnútri.</item>
-    </string-array>
-    <string-array name="weather_info_travel">
-        <item>0</item>
-        <item>Nedostupné</item>
-        <item>32</item>
-        <item>Jasno a slnečno s príjemnými teplotami.</item>
-        <item>2</item>
-        <item>Mierne oblačno so stálymi teplotami.</item>
-        <item>1</item>
-        <item>Mierne oblačno so stálymi teplotami.</item>
-        <item>3</item>
-        <item>Dnešné počasie bude premenlivé.</item>
-        <item>33</item>
-        <item>Dnešné počasie bude premenlivé</item>
-        <item>34</item>
-        <item>Jasno s premenlivým vetrom.</item>
-    </string-array>
-    <string-array name="weather_info_fl">
-        <item></item>
-        <item>Oblečte sa!</item>
-        <item>微风</item>
-        <item>Príjemné</item>
-        <item>暂缺</item>
-        <item>Nedostupné</item>
+    <string-array name="wind_direction">
+        <item>Vietor S</item>
+        <item>Vietor SV</item>
+        <item>Vietor V</item>
+        <item>Vietor JV</item>
+        <item>Vietor J</item>
+        <item>Vietor JZ</item>
+        <item>Vietor Z</item>
+        <item>Vietor SZ</item>
     </string-array>
 </resources>

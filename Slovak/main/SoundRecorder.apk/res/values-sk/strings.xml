@@ -4,26 +4,21 @@
   <string name="access_error">"Nie je možné nahrávať v režime Návštevník"</string>
   <string name="alert_message_delete_record">Vymazať vybranú nahrávku?</string>
   <string name="app_name">Záznamník</string>
-  <string name="audio_db_album_name">Zvukové nahrávky</string>
-  <string name="audio_db_artist_name">Záznamník</string>
-  <string name="audio_db_playlist_name">Moje záznamy</string>
-  <string name="audio_db_title_format">dd-MM.yyyy HH:mm:ss</string>
   <string name="back">Späť</string>
   <string name="button_ok">OK</string>
   <string name="button_queue_for_wifi">Cez Wi-Fi</string>
   <string name="button_start_now">Stiahnuť</string>
   <string name="call_record">Nahrávka hovoru (%d)</string>
-  <string name="call_record_or">alebo</string>
   <string name="cloud_record">Nahrávka v Cloude (%d)</string>
-  <string name="default_record_name">Nahrávka</string>
+  <string name="data_connection_body">"Tip:
+Pri použití mobilných dát sa budú účtovať poplatky od operátora."</string>
+  <string name="data_connection_button_text">OK</string>
+  <string name="data_connection_title">Tip</string>
   <string name="delete">Vymazať</string>
   <string name="delete_dialog_message">Vymazať nahrávku?</string>
   <string name="deleting_message">Mazanie...</string>
   <string name="dialog_content_storage_full">Nie je dostatok miesta na úložisku. Záznam bol zastavený. Vymažte nepotrebné súbory.</string>
-  <string name="dialog_play">Prehrať</string>
-  <string name="dialog_send">Odoslať</string>
   <string name="dialog_title_storage_full">Nie je dostatok miesta.</string>
-  <string name="dialog_warning">Upozornenie</string>
   <string name="duration_format_hour">%sh</string>
   <string name="duration_format_minute">%sm</string>
   <string name="duration_format_second">%ss</string>
@@ -31,30 +26,25 @@
   <string name="error_app_internal_title">Chyba záznamníka</string>
   <string name="error_filename_illegal_char">Názov súboru obsahuje nepovolené znaky.</string>
   <string name="error_filename_too_long">Názov súboru je príliš dlhý</string>
-  <string name="error_mediadb_new_record">Nie je možné uložiť nahraný záznam</string>
   <string name="error_sdcard_access">SD karta nie je dostupná</string>
+  <string name="error_sdcard_unmounted">SD karta je odpojená, vložte SD kartu</string>
   <string name="fm_record">Nahrávka FM rádia (%d)</string>
   <string name="hour">%d hodín</string>
-  <string name="insert_sd_card">Vložte SD kartu</string>
   <string name="loading_recording">Načítavanie nahrávok</string>
   <string name="low_battery_error">Batéria má menej ako 5%. Nahrávanie bolo zastavené a uložené aby nedošlo k strate nahrávky. Pre pokračovanie nahrávania pripojte nabíjačku.</string>
   <string name="low_battery_message_title">Batéria je skoro vybitá</string>
   <string name="low_battery_warning">Neočakávané vypnutie môže spôsobiť stratu nahrávky, pripojte nabíjačku.</string>
-  <string name="mark_now">(Súčasný)</string>
-  <string name="max_length_reached">Dosiahnutá maximálna dĺžka</string>
   <string name="menu_settings">Nastavenie</string>
-  <string name="menu_view_record_list">Moje nahrávky</string>
   <string name="message_file_size_error">Nahrávka dosiahla maximálnu dľžku nahrávania podporovanú pre %s</string>
   <string name="minute">%d minút</string>
   <string name="no_file">Žiadne nahrávky</string>
   <string name="notification_message_all_paused">Môže zvýšiť spotrebu mobilných dát.</string>
   <string name="notification_playback">Prehrávanie...</string>
   <string name="notification_recording">Nahrávanie...</string>
+  <string name="notification_recording_ticker">Telefón stíšený. Nahráva sa...</string>
   <string name="notification_stopped">Nahrávanie bolo zastavené</string>
   <string name="notification_title_all_paused">Sťahovanie pozastavené</string>
   <string name="notification_warning">Málo miesta, ostáva menej ako %d minút</string>
-  <string name="open_file_explorer">Otvoriť v správcovi súborov</string>
-  <string name="overwrite_dialog_message" formatted="false">Nahrávka s týmto názvom už existuje. Chcete ju prepísať?</string>
   <string name="pause">Pauza</string>
   <string name="play_record">Prehrať</string>
   <string name="preference_enable_earpiece_summary">Použiť sluchátkový výstup pre prehrávanie na externom zariadení</string>
@@ -74,6 +64,7 @@
   <string name="record_download_msg">Prehrávky je možné prehrať až po ich stiahnutí.</string>
   <string name="record_download_msg_reload">"Táto nahrávka už neexistuje"</string>
   <string name="record_download_paused">Pozastavené</string>
+  <string name="record_download_pending">Čaká</string>
   <string name="record_download_progress">%d%%</string>
   <string name="record_downloading_notification">Sťahovanie...</string>
   <string name="record_downloading_notification_complete">Sťahovanie dokončené</string>
@@ -93,32 +84,28 @@
   <string name="rename">Premenovať</string>
   <string name="rename_dialog_title">Premenovať nahrávku</string>
   <string name="rename_duplicate">Názov už existuje, zadajte iný.</string>
-  <string name="rename_illegal">Neplatný názov, zadajte iný.</string>
   <string name="retry">Znova</string>
-  <string name="sd_card_not_available">SD karta nie je dostupná</string>
   <string name="search_for_recordings_in_folders">Vyhľadať nahrávku</string>
   <string name="second">%d sekúnd</string>
   <string name="send_to">Odoslať do</string>
   <string name="sound_recorder_settings">Nastavenie nahrávania</string>
   <string name="start">Pokračovať</string>
   <string name="start_recording">Nahrávať</string>
-  <string name="status_bar_anti_disturb">Telefón má stíšené zvuky.</string>
-  <string name="status_bar_back">Stlačte pre návrat späť</string>
+  <string name="status_bar_back">Pre návrat stlačte tu</string>
   <string name="status_bar_recording">Nahrávanie...</string>
   <string name="status_bar_recording_pause">Nahrávanie bolo pozastavené.</string>
   <string name="stop_recording">Zastaviť</string>
-  <string name="storage_is_full">Nie je dostatok voľného miesta</string>
   <string name="sync_only_in_wifi">Synchr. len cez Wi-Fi</string>
-  <string name="sync_only_in_wifi_alert">Zmena tohto nastavenia môže zvýšiť vašu spotrebu mobilných dát.</string>
   <string name="sync_only_in_wifi_summary">Záznamník bude používať vaše mobilné dáta pre synchronizáciu nahrávok ak je táto možnosť deaktivovaná</string>
   <string name="sync_records">Synchr. s MiCloud</string>
   <string name="timer_format" formatted="false">%02d:%02d</string>
   <string name="toast_file_is_downloading">Tento súbor sa sťahuje, čakajte prosím.</string>
   <string name="toast_max_record_time">%1$s môže nahrať okolo %2$s</string>
   <string name="toast_uninstall_fileexplorer">Správca súborov nie je nainštalovaný</string>
-  <string name="unknown_caller">Neznáme číslo</string>
   <string name="view_list_of_recordings">Zoznam nahrávok</string>
-  <string name="wifi_recommended_body">"Bude sa sťahovať cez mobilné dáta:
-Sťahovanie súboru cez mobilné dáta môže navýšiť vaše poplatky."</string>
+  <string name="wifi_recommended_body" formatted="false">"Spustením tohto %s sťahovania môže dôjsť k zvýšenej spotrebe batérie a spotrebe mobilných dát.
+
+ Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
 </resources>

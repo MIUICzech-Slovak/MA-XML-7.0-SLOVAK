@@ -3,12 +3,9 @@
 <resources>
   <string name="Parse_error_dlg_text">Pri analýze balíka sa vyskytol problém.</string>
   <string name="Parse_error_dlg_title">Chyba analýzy</string>
-  <string name="ad_block_button_title">Blokovať adware</string>
-  <string name="ad_relative">Adware</string>
-  <string name="adware_count">Obsahuje doplnky: %d</string>
-  <string name="adware_hint">Tieto doplnky sa používajú v aplikáciach pre zobrazenie reklamy na vašom zariadení</string>
-  <string name="adware_title">AdWare</string>
-  <string name="allow_source_dlg_text">"Aplikácia %1$s chce inštalovať iné aplikácie. \nPovoliť teraz aj v budúcnosti?"</string>
+  <string name="allow_source_dlg_text">"Aplikácia %1$s chce inštalovať iné aplikácie. 
+
+Povoliť teraz aj v budúcnosti?"</string>
   <string name="allow_source_dlg_title">Nový zdroj pre aplikácie</string>
   <string name="app_name">Nástroj na inštaláciu balíčkov</string>
   <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť v zozname nainštalovaných aplikácií.</string>
@@ -16,11 +13,15 @@
   <string name="auto_startup_dialog_msg">"Miui dovolí aplikácií spustiť sa automaticky. To môže zvýšiť nielen spotrebu energie ale aj dát. \nPovoliť automatické spustenie？"</string>
   <string name="caller_app">Vyvolané aplikáciou: %1$s</string>
   <string name="cancel">Zrušiť</string>
-  <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, nahradí inú aplikáciu. Všetky predchádzajúce používateľské údaje budú uložené."</string>
+  <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, nahradí inú aplikáciu. 
+
+Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) nahradí súčasnú verziu (%3$s). Vaše dáta budú zachované. Chcete pokračovať?"</string>
   <string name="dlg_app_replacement_title">Nahradiť aplikáciu?</string>
   <string name="dlg_ok">OK</string>
-  <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikácia. \nVšetky predchádzajúce používateľské údaje budú uložené."</string>
+  <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikácia. 
+
+Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="done">Hotovo</string>
   <string name="high_risk_perms">Rizikové práva</string>
   <string name="install">Inštalovať</string>
@@ -57,6 +58,15 @@
   <string name="perm_privacy_app_trust_summary">MIUI nebude kontrolovať túto aplikáciu</string>
   <string name="perm_sysopt_boost_auto_start">Automatické spustenie</string>
   <string name="perm_sysopt_boost_auto_start_summary">Aplikácia sa spustí automaticky!</string>
+  <string name="permission_action_accept">Povoliť</string>
+  <string name="permission_action_prompt">Opýtať sa</string>
+  <string name="permission_action_reject">Zakázať</string>
+  <string name="permission_group_title_charges_related">Telefón</string>
+  <string name="permission_group_title_media_related">Multimédia</string>
+  <string name="permission_group_title_others">Ostatné</string>
+  <string name="permission_group_title_privacy_related">Súkromie</string>
+  <string name="permission_group_title_settings_related">Nastavenia</string>
+  <string name="permission_send_sms_descx">Aplikácia môže odoslať SMS a MMS</string>
   <string name="privacy_relative">Práva k súkromným údajom</string>
   <string name="safe_guard_support">Technická podpora %1$s</string>
   <string name="safe_relative">Možné riziko</string>

@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-    <string-array name="format_for_exported_note">
-        <item>-%s</item>
-        <item>--%s</item>
-        <item>--%s</item>
-        <item>--%s</item>
-    </string-array>
-    <string-array name="menu_share_ways">
-        <item>Správa</item>
-        <item>Email</item>
+    <string-array name="welcome_notes_content">
+        <item>"Teraz môžete ľahko zapisovať vaše poznámky, myšlienky a nápady
+"</item>
+        <item>"Pripájať obrázky alebo kontakty
+"</item>
+        <item>"Robiť nákupné zoznamy
+"</item>
+        <item>"A oveľa viac!
+  - Synchr. s MiCloud
+  - Nastaviť upozornenia
+
+Pre viac informácií, navštívte
+http://www.miui.cz/
+"</item>
     </string-array>
 	<string-array name="contact_entries">
         <item>Meno</item>

@@ -37,6 +37,7 @@
   <string name="search_sources">Vyhľadateľné položky</string>
   <string name="search_sources_summary">Vyberte si, čo hľadať v telefóne</string>
   <string name="search_widget">Hľadať</string>
+  <string name="send_secret_code">Odoslať tajný kód</string>
   <string name="system_search_category_title">Telefón</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
