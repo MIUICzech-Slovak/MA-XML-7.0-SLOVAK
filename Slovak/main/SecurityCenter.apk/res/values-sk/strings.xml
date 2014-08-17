@@ -584,4 +584,5 @@ Your device is set to switch to this configuration when battery recovers. You ne
   <string name="white_list_large_file_header">Large files: %d</string>
   <string name="white_list_residual_header">Residuals: %d</string>
   <string name="white_list_title">White List</string>
+  <string name="hints_garbage_handle_item_empty_content">Položiek: 0</string>
 </resources>
