@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference android:title="Firmware" android:key="bracelet_info_fw" android:summary="@string/bracelet_info_fw_version" />
+    <Preference android:title="Bluetooth" android:key="bracelet_info_bt" android:summary="@string/bracelet_info_mac_address" />
+    <Preference android:title="Batéria" android:key="bracelet_info_battery" android:summary="@string/bracelet_info_battery" />
+    <Preference android:title="ID zariadenia" android:key="bracelet_info_deviceid" android:summary="@string/bracelet_info_deviceid" />
+    <Preference android:title="Reset" android:key="bracelet_info_reset" android:summary="Vymazať osobné nastavenie" />
+    <Preference android:title="Verzia" android:key="app_info_version" android:summary="@string/app_info_version" />
+    <Preference android:title="Vymazať dáta" android:key="app_info_clear" android:summary="Vymazať všetky nastavenia" />
+    <Preference android:title="Frekvencia spojenia s MiBand" android:key="bracelet_info_set_desired_latency" android:summary="Nastavenie ako často sa má spojiť s MiBand" />
+    <Preference android:title="Aktualizácia Firmware" android:key="bracelet_info_fw_upgrade" />
+</PreferenceScreen>
