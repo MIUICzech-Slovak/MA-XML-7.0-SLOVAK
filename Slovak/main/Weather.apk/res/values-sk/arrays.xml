@@ -2,40 +2,40 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
 	<string-array name="weather_type">
-        <item>jasno</item>
-        <item>oblačno</item>
-        <item>hmlisto</item>
-        <item>hmla</item>
-        <item>daždivo</item>
-        <item>daždivo</item>
-        <item>daždivo</item>
-        <item>búrka</item>
-        <item>daždivo</item>
-        <item>daždivo</item>
-        <item>daždivo</item>
-        <item>mrholenie</item>
-        <item>dážď so snehom</item>
-        <item>sneženie</item>
-        <item>sneženie</item>
-        <item>sneženie</item>
-        <item>sneženie</item>
-        <item>sneženie</item>
-        <item>búrka</item>
-        <item>búrka</item>
-        <item>búrka</item>
-        <item>búrka</item>
-        <item>búrka</item>
-        <item>prašno</item>
-        <item>hmlisto</item>
-        <item>mrznúci dážď</item>
+        <item>Jasno</item>
+        <item>Oblačno</item>
+        <item>Hmlisto</item>
+        <item>Hmla</item>
+        <item>Daždivo</item>
+        <item>Daždivo</item>
+        <item>Daždivo</item>
+        <item>Búrka</item>
+        <item>Daždivo</item>
+        <item>Daždivo</item>
+        <item>Daždivo</item>
+        <item>Mrholenie</item>
+        <item>Dážď so snehom</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Búrka</item>
+        <item>Búrka</item>
+        <item>Búrka</item>
+        <item>Búrka</item>
+        <item>Búrka</item>
+        <item>Prašno</item>
+        <item>Hmlisto</item>
+        <item>Mrznúci dážď</item>
         <item>Žiadne dáta</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Slabé</item>
-        <item>Mierné</item>
-        <item>Stredné</item>
-        <item>Silné</item>
-        <item>Veľmi silné</item>
+        <item>Slabý</item>
+        <item>Mierný</item>
+        <item>Stredný</item>
+        <item>Silný</item>
+        <item>Veľmi silný</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Vietor S</item>
