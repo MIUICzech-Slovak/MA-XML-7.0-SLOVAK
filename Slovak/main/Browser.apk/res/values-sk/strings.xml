@@ -29,7 +29,7 @@
   <string name="actionbar_web_search">Hľadať</string>
   <string name="adblock_notification">Blokované reklamy: %d</string>
   <string name="add_bookmark">Nová záložka</string>
-  <string name="add_bookmark_group">Pridať skupinu</string>
+  <string name="add_bookmark_group">Nová skupina</string>
   <string name="add_folder">Nová zložka</string>
   <string name="add_new_bookmark">Nová záložka</string>
   <string name="add_new_quicklink">Pridať odkaz</string>
@@ -678,7 +678,7 @@
   <string name="webapp_menu_share">Zdieľať</string>
   <string name="webapp_settings_title">Nastavenia</string>
   <string name="webapp_webapp_favortes_title">Obľúbené</string>
-  <string name="webpage_bookmark_title">Záložka</string>
+  <string name="webpage_bookmark_title">Záložky</string>
   <string name="webpage_history_title">História</string>
   <string name="webpage_title">Záložky a História</string>
   <string name="website_settings_clear_all">Vymazať všetko</string>
