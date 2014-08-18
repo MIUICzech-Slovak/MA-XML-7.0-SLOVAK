@@ -123,11 +123,11 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="main_toolbar_purchase">Navýšiť</string>
   <string name="main_toolbar_saving">Kompresia</string>
   <string name="main_toolbar_statistic">Štatistiky</string>
-  <string name="main_traffic_overlimit_text">" Nad limit"</string>
-  <string name="main_traffic_remian_text">" Ostáva"</string>
+  <string name="main_traffic_overlimit_text">Nad limit</string>
+  <string name="main_traffic_remian_text">Ostáva</string>
   <string name="main_traffic_used">Využité: %s</string>
   <string name="main_traffic_used_only">Využité: %s</string>
-  <string name="main_traffic_used_text">" Využité"</string>
+  <string name="main_traffic_used_text">Využité</string>
   <string name="manual_input_free_traffic">Zadajte limit mobilných dát</string>
   <string name="manual_input_traffic">Zadajte využité dáta</string>
   <string name="mi_service_app_detail">Podrobnosti o spotrebe dát</string>

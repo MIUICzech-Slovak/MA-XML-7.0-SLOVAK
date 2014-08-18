@@ -9,7 +9,7 @@
   <string name="activity_title_antispam">AntiSpam</string>
   <string name="activity_title_antivirus">AntiVírus</string>
   <string name="activity_title_apk">Balíčky</string>
-  <string name="activity_title_apps_manager">Apl.</string>
+  <string name="activity_title_apps_manager">Aplikácie</string>
   <string name="activity_title_auto_start_manager">Správa Auto. spustenia</string>
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_create_shortcut">Odkaz</string>
@@ -291,8 +291,8 @@
   <string name="menu_text_garbage_cleanup">Čistič</string>
   <string name="menu_text_license_manager">Povolenia</string>
   <string name="menu_text_networkassistants">Spotreba dát</string>
-  <string name="menu_text_networkassistants_danger">Využitie dát</string>
-  <string name="menu_text_networkassistants_remain">Využitie dát</string>
+  <string name="menu_text_networkassistants_danger">%s nad limit</string>
+  <string name="menu_text_networkassistants_remain">%s ostáva</string>
   <string name="menu_text_power_manager">Správa výkonu</string>
   <string name="menu_text_power_percent">%s batérie</string>
   <string name="msg_cleanup_db_update_checking">Kontrola...</string>
