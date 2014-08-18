@@ -16,6 +16,8 @@
   <string name="background_traffic">Na pozadí %s</string>
   <string name="begin_date">Deň obnovenia predplatených dát</string>
   <string name="cancel_button">Zrušiť</string>
+  <string name="chat_number">10 hodíns</string>
+  <string name="chat_uint">" hodín"</string>
   <string name="checkout_traffic_saving_history">Zobraziť históriu</string>
   <string name="daily_pkg_traffic">Nastavte limit predplatených dát</string>
   <string name="data_usage_correction_timeout_body">Nastaviť manuálne.</string>
@@ -37,9 +39,35 @@ Používanie mobilnáho pripojenia nad rámec predplatených dát môže výrazn
   <string name="data_usage_restricted_title">Dáta na pozadí zakázané</string>
   <string name="data_usage_warning_body">Zobraziť podrobnosti o spotrebe dát.</string>
   <string name="data_usage_warning_title">Upozornenie o spotrebe dát</string>
+  <string name="datausage_purchase_backto_ns">Späť</string>
+  <string name="datausage_purchase_banner_title">%s top-up offer (exclusive)</string>
+  <string name="datausage_purchase_buy">Buy</string>
+  <string name="datausage_purchase_confirm_tip">Your order:</string>
+  <string name="datausage_purchase_get_captcha">Get verification code(%d)</string>
+  <string name="datausage_purchase_get_captcha_again">Send a new code</string>
+  <string name="datausage_purchase_get_captcha_failed">"Couldn't get verification code. Check your data connection and try again."</string>
+  <string name="datausage_purchase_goto_monthsetting">Edit package info</string>
+  <string name="datausage_purchase_ordering">Purchasing…</string>
+  <string name="datausage_purchase_pay_captcha_hint">Enter the code you receive here</string>
+  <string name="datausage_purchase_pay_captcha_tips">After you receive your verification code, enter it in the box above and tap \"Buy\" to complete your purchase. Note that the code will is only valid for 10 minutes.</string>
+  <string name="datausage_purchase_pay_confirm">Buy</string>
+  <string name="datausage_purchase_pay_hint">To cancel, dial %s</string>
+  <string name="datausage_purchase_pkglist_networkerror">"Couldn't connect to the network. Check your data connection and try again."</string>
+  <string name="datausage_purchase_pkglist_nodata">"There's conflict between your current data package and the data package you're attempting to purchase.
+ Check with your service provider for more info."</string>
+  <string name="datausage_purchase_pkglist_servererror">Yikes! Something went wrong with our server.</string>
+  <string name="datausage_purchase_result_failed">"Couldn't buy data. Check with your carrier for more info about the issue. "</string>
+  <string name="datausage_purchase_result_ok">"You bought %s
+For more info check the message you received from your service provider"</string>
+  <string name="datausage_purchase_title_confirm">Purchase details</string>
+  <string name="datausage_purchase_title_order">Purchase additional data</string>
+  <string name="datausage_purchase_title_pkglist">Purchase data</string>
+  <string name="datausage_purchase_view_detail">View details</string>
   <string name="declaration_dialog_msg">Táto funkcia vám pomôže sledovať vašu spotrebu mobilných dát.</string>
   <string name="deleted_apps">Vymazané Apl.</string>
   <string name="detail_app_button">Podrobnosti</string>
+  <string name="dual_setting_simcard1">SIM 1</string>
+  <string name="dual_setting_simcard2">SIM 2</string>
   <string name="firewall_activity_lable">Zakázať dáta pre aplikácie</string>
   <string name="firewall_applist">Aplikácie</string>
   <string name="firewall_fragment_nonesys_listempty">Prázdne</string>
@@ -60,6 +88,7 @@ Používanie mobilnáho pripojenia nad rámec predplatených dát môže výrazn
   <string name="input_aviable_traffic">Nastaviť limit spotreby dát</string>
   <string name="input_traffic_pkg">Zadajte využité dáta</string>
   <string name="input_used_hint">Zadajte využité dáta</string>
+  <string name="left_precent">60%</string>
   <string name="list_empty_text">Prázdne</string>
   <string name="lock_screen_traffic_warn_title">Upozornenie spotreby dát</string>
   <string name="main_alert_message_no_imsi">Nenašla sa žiadna SIM karta</string>
@@ -72,17 +101,33 @@ mobilné internetové pripojenie"</string>
   <string name="main_button_usage_adjust_manual">Zadajte využité dáta</string>
   <string name="main_button_usage_adjusting">Mení sa...</string>
   <string name="main_button_usage_package_setting">Zadajte využité dáta</string>
+  <string name="main_primary_message_traffic_cur_leisure">Využitie dát mimo špičku</string>
+  <string name="main_primary_message_traffic_cur_normal">Pod limitom dát</string>
+  <string name="main_primary_message_traffic_cur_normal_overlimit">Prekročený limit dát</string>
+  <string name="main_primary_message_traffic_cur_normal_warning">Upozornenie na využitie dát</string>
+  <string name="main_primary_message_traffic_enough">Pod limitom dát</string>
+  <string name="main_primary_message_traffic_overlimit">Prekročený limit dát</string>
+  <string name="main_primary_message_traffic_overlimit_purchase">Potrebujete si navýšiť dáta</string>
+  <string name="main_primary_message_traffic_purchase">Potrebujete si navýšiť dáta</string>
+  <string name="main_primary_message_traffic_warning">Dosahujete limit mobilných dát</string>
+  <string name="main_secondary_message_traffic_detail_leisure">"
+Mimo špičku: %1$s ostáva | %2$s využité"</string>
+  <string name="main_secondary_message_traffic_detail_normal">"
+Špička: %1$s%2$s ostáva | %3$s využité"</string>
+  <string name="main_secondary_message_traffic_over">nad limit</string>
+  <string name="main_secondary_message_traffic_remain">ostáva</string>
+  <string name="main_secondary_message_traffic_used_leisure">%s využitých dát mimo špičku</string>
+  <string name="main_secondary_message_traffic_used_noleisure">%s peak data used | no off-peak data remaining</string>
+  <string name="main_secondary_message_traffic_used_normal">%s peak data used</string>
   <string name="main_toolbar_firewall">Pravidlá</string>
   <string name="main_toolbar_purchase">Navýšiť</string>
   <string name="main_toolbar_saving">Kompresia</string>
   <string name="main_toolbar_statistic">Štatistiky</string>
-  <string name="main_traffic_overlimit_text">"%s 
-Nad limit"</string>
-  <string name="main_traffic_remian_text">"%s
-Ostáva"</string>
+  <string name="main_traffic_overlimit_text">" Nad limit"</string>
+  <string name="main_traffic_remian_text">" Ostáva"</string>
+  <string name="main_traffic_used">Využité: %s</string>
   <string name="main_traffic_used_only">Využité: %s</string>
-  <string name="main_traffic_used_text">"%s
-Využité"</string>
+  <string name="main_traffic_used_text">" Využité"</string>
   <string name="manual_input_free_traffic">Zadajte limit mobilných dát</string>
   <string name="manual_input_traffic">Zadajte využité dáta</string>
   <string name="mi_service_app_detail">Podrobnosti o spotrebe dát</string>
@@ -95,6 +140,10 @@ Využité"</string>
   <string name="none_mi_service_app_detail">Prázdne</string>
   <string name="notification_content_title">Využité %1$s počas uzamknutia</string>
   <string name="notification_title">%1$s-%2$s: %3$s využité</string>
+  <string name="ok_button">OK</string>
+  <string name="online_chat">Chat</string>
+  <string name="online_read">Text</string>
+  <string name="online_songs">Hudba</string>
   <string name="per_month_pkg_traffic_settings">Nastaviť limit mobilných dát</string>
   <string name="permit_running_network">Povoliť dáta na pozadí</string>
   <string name="person_hotpot">Mobilné hot-spoty</string>
@@ -167,7 +216,13 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="pref_traffic_saving_whitelist_hint">Tieto aplikácie nebudú mať aktívnu kompresiu dát</string>
   <string name="pref_version">Verzia %s</string>
   <string name="pref_warning_values">Upozornenie po dosiahnutí</string>
+  <string name="read_number">86 článkov</string>
+  <string name="read_unit">" článkov"</string>
+  <string name="right_precent">100%</string>
+  <string name="setting_traffic_pkg">Nastaviť dátový balík</string>
   <string name="settings">Nastavenie spotreby dát</string>
+  <string name="songs_number">18 skladieb</string>
+  <string name="songs_unit">" skladieb"</string>
   <string name="sorted_button">Zoradiť</string>
   <string name="sorted_dialog_title">Zoradiť podľa</string>
   <string name="spinner_title">%1$s - Mobilné dáta: %2$s</string>
@@ -176,6 +231,18 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="text_day">". deň"</string>
   <string name="tips_dialog_title">"Nepoznáte svoj limit?"</string>
   <string name="tips_message">"Ak si nie ste istý o množstve svojich predplatených dát, môžete ich zistiť vytočením %2$s (%1$s) (Iba Čína)."</string>
+  <string name="traffic_config_alert_body">"Your carrier's accounting show you have used %s
+Update your data usage info?"</string>
+  <string name="traffic_config_alert_body_leisure">"Your carrier's accounting shows you've used %1$s of your off-peak data this month, this is different from the %2$s you've set manually."</string>
+  <string name="traffic_config_alert_body_leisure_notset">"
+Your carrer's accounting shows you have %s of off-peak data remaining. You haven't set a limit for off-peak data."</string>
+  <string name="traffic_config_alert_body_normal">"
+Your carrier's accounting shows you've used %1$s of your peak-time data this month, this is different from the %2$s you've set manually."</string>
+  <string name="traffic_config_alert_cancel">Zrušiť</string>
+  <string name="traffic_config_alert_nomore">Viac nezobrazovať</string>
+  <string name="traffic_config_alert_ok">OK</string>
+  <string name="traffic_config_alert_setted">Nastavené</string>
+  <string name="traffic_config_alert_title">%s korekcia</string>
   <string name="traffic_correction_failed">"Nie je možné získať info o spotrebe dát"</string>
   <string name="traffic_correction_start_correction">"Kontrola so servermi operátora..."</string>
   <string name="traffic_correction_start_correction_failed">Požiadavka zlyhala, skontrolujte nastavenie operátora</string>
@@ -222,6 +289,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="traffic_saving_whitelist_no_app">Žiadne aplikácie</string>
   <string name="traffic_setting_fragment_area">Lokálne</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
+  <string name="traffic_setting_fragment_button1_text">Zrušiť</string>
   <string name="traffic_setting_fragment_button2_text">Uložiť</string>
   <string name="traffic_setting_fragment_get_template_falure">Aktualizácia zlyhala. Skontrolujte nastavenie siete a skúste to znova.</string>
   <string name="traffic_setting_fragment_loading_text">Získavanie informácií o sieti...</string>
