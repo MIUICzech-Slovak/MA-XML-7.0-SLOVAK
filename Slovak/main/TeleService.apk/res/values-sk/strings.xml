@@ -60,7 +60,7 @@
   <string name="auto_redial_pref_summary">Automaticky volať späť pokiaľ je linka obsadená</string>
   <string name="auto_redial_pref_title">Automaticky volať späť</string>
   <string name="auto_retry_mode_summary">Aktivovať režim automaticky skúsiť znova</string>
-  <string name="auto_retry_mode_title">Auto-retry</string>
+  <string name="auto_retry_mode_title">Auto opakovanie</string>
   <string name="autoip">Auto IP dialing</string>
   <string name="autoip_add_zero_prefix">Add 0 prefix for mobile</string>
   <string name="autoip_areacode_required">Area code is required</string>
