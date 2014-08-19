@@ -15,7 +15,6 @@
   <string name="all_tracks_short">Všetko</string>
   <string name="artist_search_title">Umelec</string>
   <string name="artist_view">Umelec</string>
-  <string name="audio_effect_settings">Nastavenie efektov</string>
   <string name="audio_picker_title">Zvoľte skladbu</string>
   <string name="auto_download_in_wifi">Žiadne internetové pripojenie</string>
   <string name="available_playlist_name_format">Nový playlist %d</string>
@@ -46,14 +45,6 @@
   <string name="dialog_title_name_playlist">Názov</string>
   <string name="dialog_title_remove_tracks">Odobrať skladby</string>
   <string name="dialog_title_track_picker">Vybrať skladby</string>
-  <string name="dirac_mode_earbuds">X. slúchadlá</string>
-  <string name="dirac_mode_general">Obyčajné</string>
-  <string name="dirac_mode_general_earbuds">Bežné slúchadlá</string>
-  <string name="dirac_mode_general_inear">Bežné špunty</string>
-  <string name="dirac_mode_in_ear">X. špunty</string>
-  <string name="dirac_mode_piston_100">X. Piston</string>
-  <string name="dirac_mode_piston_2">Xiaomi Piston-2</string>
-  <string name="dirac_mode_piston_youth">Xiaomi Piston-1</string>
   <string name="dislike">Nemať rád</string>
   <string name="done">Hotovo</string>
   <string name="download">Sťiahnúť</string>
@@ -119,7 +110,6 @@
   <string name="fragment_title_recommend">Odporúčané</string>
   <string name="function_error">Táto funkcia je momentálne nedostupná</string>
   <string name="go_to_add_music">Pridať skladbu</string>
-  <string name="headphone_settings">Typ slúchadiel</string>
   <string name="high_quality">Vyššia</string>
   <string name="higher_quality_music">Vysoká kvalita hudby</string>
   <string name="higher_quality_music_summary">Streamovať a sťahovať hudbu vo vyššej kvalite</string>
@@ -150,8 +140,6 @@
   <string name="metered_disallow">Zrušiť</string>
   <string name="metered_play_toast">Streamovať cez mobilné dáta</string>
   <string name="mi_effect">MiSound</string>
-  <string name="mi_effect_summary">Always use MiSound enhancer when using speakers</string>
-  <string name="mi_effect_title">Use MiSound enhancer</string>
   <string name="music_browser_label">Hudba</string>
   <string name="music_picker_title">Vyberte skladby</string>
   <string name="music_quality">Kvalita hudby</string>
