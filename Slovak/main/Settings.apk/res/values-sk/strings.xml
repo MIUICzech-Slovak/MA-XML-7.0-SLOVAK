@@ -86,7 +86,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="adjust_3d_depth_title">"Nastaviť 3D hĺbku pre hry"</string>
   <string name="advanced_settings">Upresniť nastavenie</string>
   <string name="advanced_settings_summary">Povoliť ďalšie možnosti nastavení</string>
-  <string name="airplane_mode">Režim V lietadle</string>
+  <string name="airplane_mode">Režim Lietadlo</string>
   <string name="alarm_volume_title">Budík</string>
   <string name="alert_show_screensaver_when_not_charging_msg">Spotreba energie batérie sa zvýši ak je sporič displeja aktivovaný aj mimo nabíjania telefónu. Chcete deaktivovať?</string>
   <string name="alert_show_screensaver_when_not_charging_title">Upozornenie</string>

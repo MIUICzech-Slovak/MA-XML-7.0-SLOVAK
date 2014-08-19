@@ -411,7 +411,7 @@
   <string name="pref_development_trace">Povoliť sledovanie</string>
   <string name="pref_development_viewport">Použiť široký viewport</string>
   <string name="pref_development_visual_indicator">Povoliť Vizuálny Indikátor</string>
-  <string name="pref_enable_adblock_notification">Blokovanie reklám</string>
+  <string name="pref_enable_adblock_notification">Upozornenie o blokovaní reklám</string>
   <string name="pref_exit_on_closing_last_tab_enabled_title">Ukončiť s poslednou kartou</string>
   <string name="pref_extras_reset_default">Resetovať na predvolené</string>
   <string name="pref_extras_reset_default_dlg">Vrátiť nastavenia na predvolené hodnoty?</string>

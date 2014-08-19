@@ -439,8 +439,8 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="power_mode_sleep_in_minutes">po %1$d minút nečinnosti</string>
   <string name="power_mode_sleep_in_seconds">po %1$d sekundách nečinnosti</string>
   <string name="power_mode_sleep_never">Nikdy</string>
-  <string name="power_mode_switch_off">Vypnutý</string>
-  <string name="power_mode_switch_on">Zapnutý</string>
+  <string name="power_mode_switch_off">Vypnuté</string>
+  <string name="power_mode_switch_on">Zapnuté</string>
   <string name="power_mode_synchronization">Synchronizácia</string>
   <string name="power_mode_touch_with_ring">Zvuky pri dotyku</string>
   <string name="power_mode_touch_with_vibration">Vibrovať pri dotyku</string>
