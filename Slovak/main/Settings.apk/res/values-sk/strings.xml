@@ -2728,13 +2728,13 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
   <string name="music_audio_effect_settings">Nastavenie efektov</string>
-  <string name="music_dirac_mode_earbuds">X. slúchadlá</string>
+  <string name="music_dirac_mode_earbuds">Xiaomi slúchadlá</string>
   <string name="music_dirac_mode_general">Obyčajné</string>
   <string name="music_dirac_mode_general_earbuds">Bežné slúchadlá</string>
   <string name="music_dirac_mode_general_inear">Bežné špunty</string>
-  <string name="music_dirac_mode_in_ear">X. špunty</string>
-  <string name="music_dirac_mode_piston_100">X. Piston</string>
-  <string name="music_dirac_mode_piston_2">Xiaomi Piston-2</string>
+  <string name="music_dirac_mode_in_ear">Xiaomi špunty</string>
+  <string name="music_dirac_mode_piston_100">Xiaomi Pistons</string>
+  <string name="music_dirac_mode_piston_2">Xiaomi Pistons 2</string>
   <string name="music_dirac_mode_piston_youth">Xiaomi Piston-1</string>
   <string name="music_headphone_settings">Typ slúchadiel</string>
   <string name="music_mi_effect_summary">Vždy použiť MiSound pri použití reproduktorov</string>
