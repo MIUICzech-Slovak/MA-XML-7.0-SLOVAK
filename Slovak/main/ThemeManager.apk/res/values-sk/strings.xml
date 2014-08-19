@@ -256,7 +256,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="theme_user_agreement_content3">" a "</string>
   <string name="theme_user_agreement_content4">Ochranu súkromia</string>
   <string name="theme_user_agreement_content5">. Súhlasíte s použitím internetového pripojenia?</string>
-  <string name="theme_user_agreement_remind_again">Upozorniť na používanie internetového pripojenia</string>
+  <string name="theme_user_agreement_remind_again">Upozorniť na internetové pripojenie</string>
   <string name="theme_user_agreement_remind_never">Nepýtať sa</string>
   <string name="theme_user_agreement_remind_summary">Použiť po nasledujúcom spustení</string>
   <string name="theme_user_agreement_title">Vyhlásenie</string>

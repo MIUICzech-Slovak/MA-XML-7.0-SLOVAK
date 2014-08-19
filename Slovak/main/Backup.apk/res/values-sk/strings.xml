@@ -23,7 +23,7 @@
   <string name="auto_backup_user_data">Aplikácie</string>
   <string name="backup">Záloha</string>
   <string name="backup_data">Zálohovať dáta</string>
-  <string name="backup_delete">Zmazať:</string>
+  <string name="backup_delete">Vymazať:</string>
   <string name="backup_empty">Žiadna záloha nebola nájdená</string>
   <string name="backup_empty_info">" Zálohujte svoje dáta, nastavenia a aplikácie"</string>
   <string name="backup_error">Chyba zálohy</string>
@@ -63,14 +63,14 @@
   <string name="cloud_restore_window_title">Online obnova dát</string>
   <string name="cloud_search">Hľadanie..</string>
   <string name="compute_backup_info">Info o zálohovaní</string>
-  <string name="compute_delete_contact_info">Zmazať informácie o kontaktoch</string>
+  <string name="compute_delete_contact_info">Vymazať informácie o kontaktoch</string>
   <string name="contact_title">Kontakty</string>
   <string name="current_account">Súčasný účet: %s</string>
   <string name="current_sim">Súčasná SIM</string>
   <string name="data_no_enough_space">K dispozícii nie je dostatok miesta, uvoľníte miesto a skúste to znova</string>
   <string name="data_no_enough_space_message">Obnovenie môže zlyhať, uvoľnite miesto vo vnútornej pamäti a akciu opakujte</string>
   <string name="date_format">yyyy MM dd HH:mm:ss</string>
-  <string name="delete">Zmazať</string>
+  <string name="delete">Vymazať</string>
   <string name="delete_backup_process">Vymazávam zálohu, čakajte prosím...</string>
   <string name="delete_failed_backup_confirm">Táto záloha je poškodená a nedá sa z nej obnoviť</string>
   <string name="deselect_all">Odznačiť všetko</string>

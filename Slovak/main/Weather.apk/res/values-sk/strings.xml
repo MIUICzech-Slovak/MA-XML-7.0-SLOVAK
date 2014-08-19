@@ -35,7 +35,7 @@
   <string name="aqi_quality_index_pure">AQI %1$s</string>
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="button_abandon">Zrušiť zmeny</string>
-  <string name="button_allow">Povoliť</string>
+  <string name="button_allow">Potvrdiť</string>
   <string name="button_not_allow">Zrušiť</string>
   <string name="edit_city">Upraviť</string>
   <string name="gps_hint">Súčasná poloha</string>
@@ -60,7 +60,7 @@
   <string name="view_indexes_item_tommorrow">Zajtra</string>
   <string name="view_indexes_title_feel">Pocitovo (°C)</string>
   <string name="view_indexes_title_humidity">Vlhkosť (%)</string>
-  <string name="view_indexes_title_pressure">Tlak (mb)</string>
+  <string name="view_indexes_title_pressure">Tlak (hPa)</string>
   <string name="view_indexes_title_uv">UV Index</string>
   <string name="view_indexes_title_visibility">Viditeľnosť (km)</string>
   <string name="view_indexes_title_wind">Vietor</string>
