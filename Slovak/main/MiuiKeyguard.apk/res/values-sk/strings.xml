@@ -33,6 +33,7 @@ Deaktivujte režim Lietadlo."</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostný vzor bol vymazaný</string>
   <string name="lockscreen_access_pattern_detected">Bezpečnostný vzor bol dokončený</string>
   <string name="lockscreen_access_pattern_start">Bezpečnostný vzor bol začatý</string>
+  <string name="lockscreen_charging_msg">Nabíjanie</string>
   <string name="lockscreen_emergency_call">Núdzový hovor</string>
   <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">Zariadenie ste sa pokúsili odomknúť nesprávnym spôsobom %d-krát. Po %d ďalších neúspešných pokusoch sa v zariadení obnovia predvolené továrenské nastavenia a všetky používateľské údaje budú stratené.</string>
   <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"%d-krát ste nesprávne nakreslili svoj bezpečnostný vzor. Po ďalších neúspešných pokusoch (%d) budete vyzvaní odomknúť zariadenie pomocou prihlasovacích údajov služby Google.

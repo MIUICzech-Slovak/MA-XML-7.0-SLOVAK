@@ -11,7 +11,7 @@
   <string name="accessibility_datetime_picker_time">Čas</string>
   <string name="accessibility_time_picker_ampm">AM/PM</string>
   <string name="accessibility_time_picker_hour">Hodina</string>
-  <string name="accessibility_time_picker_milli">Millisekunda</string>
+  <string name="accessibility_time_picker_milli">Milisekunda</string>
   <string name="accessibility_time_picker_minute">Minúta</string>
   <string name="accessibility_time_picker_second">Sekunda</string>
   <string name="account">Účet</string>
@@ -276,7 +276,7 @@
   <string name="media_player_error_text_invalid_progressive_playback">Toto video nie je možné streamovať do tohto zariadenia.</string>
   <string name="media_player_error_text_unknown">Toto video nie je možné prehrať.</string>
   <string name="media_player_error_title">Nie je možné prehrať</string>
-  <string name="media_player_loading_video">Načitavanie...</string>
+  <string name="media_player_loading_video">Načítavanie...</string>
   <string name="menu_addtodesk">Odoslať na plochu</string>
   <string name="menu_disable_night_mode">Vypnúť nočný režim</string>
   <string name="menu_disable_save_bandwidth_mode">Ukončiť šetrenie mobilných dát</string>
@@ -301,7 +301,7 @@
   <string name="miui_bookmark_menu_change_group_txt">Zmeniť skupinu</string>
   <string name="miui_bookmark_menu_delete_window_cancel_txt">Zrušiť</string>
   <string name="miui_bookmark_menu_delete_window_delete_txt">Vymazať</string>
-  <string name="miui_bookmark_menu_edit_txt">Edit</string>
+  <string name="miui_bookmark_menu_edit_txt">Upraviť</string>
   <string name="miui_bookmark_menu_moveout_group_txt">Move out</string>
   <string name="miui_content_copy">Kopírovať</string>
   <string name="miui_content_cut">Vystrihnúť</string>
