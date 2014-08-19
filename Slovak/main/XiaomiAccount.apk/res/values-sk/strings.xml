@@ -94,8 +94,8 @@
   <string name="activate_status_title_activating_msim">Aktivácia vašej SIM karty %s</string>
   <string name="activating">Aktivácia...</string>
   <string name="add_weibo_account">Pridať účet</string>
- <string name="alert_title_remove_account">Vymazať synchronizované dáta?"</string>
-  <string name="app_name">Xiaomi Service Framework</string>
+  <string name="alert_title_remove_account">Vymazať synchronizované dáta?"</string>
+  <string name="app_name">Xiaomi účet</string>
   <string name="bad_authentication">Nesprávne meno alebo heslo</string>
   <string name="barcode_add_account_prompt">Pre pridanie účtu, znova načítajte QR kód po príhlásení sa.</string>
   <string name="bind_settings">Prepojiť</string>
