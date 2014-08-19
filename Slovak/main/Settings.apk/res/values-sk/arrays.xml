@@ -347,15 +347,6 @@
         <item>Animácie 5x</item>
         <item>Animácie 10x</item>
     </string-array>
-    <string-array name="animator_duration_scale_entries">
-        <item>Animácia je vypnutá</item>
-        <item>Mierka animácie 0,5x</item>
-        <item>Mierka animácie 1x</item>
-        <item>Mierka animácie 1,5x</item>
-        <item>Mierka animácie 2x</item>
-        <item>Mierka animácie 5x</item>
-        <item>Mierka animácie 10x</item>
-    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Žiadne</item>
         <item>720 x 480 mdpi</item>
