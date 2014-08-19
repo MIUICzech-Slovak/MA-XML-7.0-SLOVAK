@@ -31,11 +31,11 @@
         <item>Žiadne dáta</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Slabý</item>
+        <item>Nízky</item>
         <item>Mierný</item>
         <item>Stredný</item>
-        <item>Silný</item>
-        <item>Veľmi silný</item>
+        <item>Vysoký</item>
+        <item>Veľmi vysoký</item>
     </string-array>
     <string-array name="wind_direction">
         <item>Vietor S</item>

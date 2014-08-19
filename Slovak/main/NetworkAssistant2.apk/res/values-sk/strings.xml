@@ -16,7 +16,7 @@
   <string name="background_traffic">Na pozadí %s</string>
   <string name="begin_date">Deň obnovenia predplatených dát</string>
   <string name="cancel_button">Zrušiť</string>
-  <string name="chat_number">10 hodíns</string>
+  <string name="chat_number">10 hodín</string>
   <string name="chat_uint">" hodín"</string>
   <string name="checkout_traffic_saving_history">Zobraziť históriu</string>
   <string name="daily_pkg_traffic">Nastavte limit predplatených dát</string>

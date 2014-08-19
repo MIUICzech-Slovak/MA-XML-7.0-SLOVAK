@@ -29,8 +29,8 @@
   <string name="backup_error">Chyba zálohy</string>
   <string name="backup_failed">Zálohovanie zlyhalo! Skúsiť znova</string>
   <string name="backup_file_error">Nastal problém so zálohou, operácia nie je dokončená.</string>
-  <string name="backup_finished">Záloha hotová</string>
-  <string name="backup_hint">Nevypínajte alebo nereštartujte telefón!</string>
+  <string name="backup_finished">Záloha dokončená</string>
+  <string name="backup_hint">Nevypínajte a nereštartujte telefón!</string>
   <string name="backup_items_app_tailer">x dáta aplikácií</string>
   <string name="backup_items_sysdata_tailer">x systémové dáta\u0020</string>
   <string name="backup_new">Nový:</string>
@@ -156,7 +156,7 @@
   <string name="system_backup">Záloha</string>
   <string name="system_backup_info">Nastavenie systému a plochy</string>
   <string name="task_backup_cancel_progress">Rušenie zálohovania...</string>
-  <string name="task_backup_finished_local">Záloha dokončená</string>
+  <string name="task_backup_finished_local">"Záloha dokončená "</string>
   <string name="task_canceled">Zrušené</string>
   <string name="task_canceled_all_local">Zrušiť všetky úlohy</string>
   <string name="task_canceled_local">%s úloh(a) zrušená(ých)</string>
@@ -182,8 +182,8 @@
   <string name="task_running_restore_hint">Obnova prebieha na pozadí, skúste to neskôr!</string>
   <string name="task_service_not_launched">Zálohovanie nie je spustené, čakajte prosím!</string>
   <string name="task_stopped_exception">Operácia bola zastavená</string>
-  <string name="total_num">Celkom záznamov: %d</string>
-  <string name="unit_byte">\u0020Bytov</string>
+  <string name="total_num">Celkovo: %d</string>
+  <string name="unit_byte">B</string>
   <string name="unit_piece">\u0020Položiek</string>
   <string name="unknown_hint">Neznámy</string>
   <string name="wifi_title">Wi-Fi nastavenia</string>

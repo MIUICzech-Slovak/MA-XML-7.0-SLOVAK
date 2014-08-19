@@ -172,9 +172,9 @@
   <string name="hints_apk_version">Verzia: %s</string>
   <string name="hints_app_uninstall_residual">Vyčistiť zostatkové súbory?</string>
   <string name="hints_apps_perm_count">%d Oprávnení</string>
-  <string name="hints_auto_start_disable_title">Zakázať %d apl. auto. spustenie</string>
-  <string name="hints_auto_start_enable_title">Povoliť %d apl. auto. spustenie</string>
-  <string name="hints_auto_start_warning_info">Zakáz auto. spustenia nepovolí príjmať upozornenia aplikácie</string>
+  <string name="hints_auto_start_disable_title">Zakázané auto. spustenie %d apl.</string>
+  <string name="hints_auto_start_enable_title">Povolené auto. spustenie %d apl.</string>
+  <string name="hints_auto_start_warning_info">Zákaz auto. spustenia nepovolí príjímať upozornenia aplikácie</string>
   <string name="hints_cache_header_left">Cache: %d</string>
   <string name="hints_cleanning_text">Čistenie...</string>
   <string name="hints_finish_quick_cleanup">Dokončené</string>
@@ -214,7 +214,7 @@
   <string name="hints_need_quick_scan">Vyžaduje sa kontrola</string>
   <string name="hints_no_info">Žiadne informácie</string>
   <string name="hints_permission_apps_count">%d apl.</string>
-  <string name="hints_power_percent_title">Výkon</string>
+  <string name="hints_power_percent_title">Batérie</string>
   <string name="hints_quick_cleanning">Čistenie...</string>
   <string name="hints_quick_cleanuping">Optimalizácia...</string>
   <string name="hints_quick_scanning">Kontrola...</string>
@@ -231,7 +231,7 @@
   <string name="hints_scanning_virus_by_cloud">Kontrola cloudu...</string>
   <string name="hints_storage_free">Voľné</string>
   <string name="hints_unknown_virus_name">Neznámy</string>
-  <string name="hints_virus_apk_list_item_summary">Vírus(Apk)</string>
+  <string name="hints_virus_apk_list_item_summary">Vírus (Apk)</string>
   <string name="hints_virus_apk_summary">%s (Apk)</string>
   <string name="hints_virus_app_list_item_summary">Vírus (Apl)</string>
   <string name="hints_virus_app_summary">%s (Apl)</string>
@@ -310,7 +310,7 @@
   <string name="notification_title_of_garbage_cleanup">Upozornenie na odpad</string>
   <string name="notification_title_of_low_memory">Systémové úložisko využité na %s</string>
   <string name="ok">OK</string>
-  <string name="optimizecenter_data_support">Poskytuje Clean Master</string>
+  <string name="optimizecenter_data_support"/>
   <string name="packages_subtitle">Zahrnuté balíčky</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Povoliť</string>
@@ -330,7 +330,7 @@
   <string name="power_center_auto_shutdown">Prepínač</string>
   <string name="power_center_auto_shutdown_summary">Čas vypnutia alebo zapnutia</string>
   <string name="power_center_battery_full">Batéria je nabitá</string>
-  <string name="power_center_charge_time">Nabíjanie bude dokončené o %1$s</string>
+  <string name="power_center_charge_time">Nabité bude o %1$s</string>
   <string name="power_center_consume_rank">Spotreba</string>
   <string name="power_center_consume_time">Ostáva %1$s</string>
   <string name="power_center_custom_summary_default">Optimalizovať nastavenia, šetriť batériu</string>
@@ -586,4 +586,5 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_title">Ignorované</string>
   <string name="hints_garbage_handle_item_empty_content">Položiek: 0</string>
   <string name="hints_title_garbage">Odpad</string>
+<string name="activity_title_cache_data">Cache dát</string>
 </resources>
