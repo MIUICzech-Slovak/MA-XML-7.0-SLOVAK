@@ -206,7 +206,7 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
   <string name="micloud_reg_new">Vytvoriť nový</string>
   <string name="micloud_resend_active_email">Znovu poslať aktivačný email (.com)</string>
   <string name="micloud_space_info">Ostáva: %s</string>
-  <string name="micloud_sync_info">Ostáva synchronizovať: %d</string>
+  <string name="micloud_sync_info">Nesynchr.: %d</string>
   <string name="micloud_sync_info_synced">Všetko je synchr.</string>
   <string name="micloud_user_base_info">Info o užívateľovi</string>
   <string name="micloud_user_email">E-mail</string>
