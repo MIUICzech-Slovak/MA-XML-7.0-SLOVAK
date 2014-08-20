@@ -526,7 +526,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="summary_usb">Zabrániť vírusom cez USB pripojenie</string>
   <string name="summary_virus">Nájdené vírusy: %2$d</string>
   <string name="summary_virus_update">Aktualizovať vírusovú databázu automaticky po pripojení na Wi-Fi</string>
-  <string name="system_check_content">Nebezpečné: %1$d, Odporúčané: %2$d</string>
+  <string name="system_check_content">Nebezpečné: %1$d</string>
   <string name="system_header_title">Vyčistenie %1$d uvoľní %2$s pamäte</string>
   <string name="title_app_update_no">%d aplikácií má aktualizáciu</string>
   <string name="title_app_update_yes">Všetko je aktuálne</string>
