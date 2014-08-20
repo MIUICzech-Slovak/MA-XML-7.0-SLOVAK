@@ -24,7 +24,7 @@
   <string name="cloud_app_backup_date">"Zálohované "</string>
   <string name="cloud_app_backup_pending">Čakanie...</string>
   <string name="cloud_app_backup_progress">Zálohovanie...</string>
-  <string name="cloud_app_backup_size">Veľkosť:</string>
+  <string name="cloud_app_backup_size">"Veľkosť: "</string>
   <string name="cloud_app_backup_success">Záloha aplikácií dokončená</string>
   <string name="cloud_app_backup_summary">Automaticky zálohovať aplikácie a užívateľské dáta počas nabíjania telefónu a pripojení k Wi-Fi sieti.</string>
   <string name="cloud_app_backup_title">Zálohovať do Cloudu</string>
@@ -77,7 +77,7 @@ Ok pre zrušenie obnovy"</string>
   <string name="cloud_app_restore_summary">Obnoviť aplikácie zo zálohy a dáta aplikácií</string>
   <string name="cloud_app_restore_wifi_prompt">Pre obnovenie aplikácií a užívateľských dát je nutné sa pripojiť k Wi-Fi sieti.</string>
   <string name="cloud_app_total_size">Celková záloha: %1$s</string>
-  <string name="cloud_app_version_size">Verzia: %1$s, Veľkosť:%2$s</string>
+  <string name="cloud_app_version_size">Verzia: %1$s, Veľkosť: %2$s</string>
   <string name="cloud_app_wait_wifi">Čakanie na Wi-Fi pripojenie</string>
   <string name="confirm_disable_backup">Deaktivovať a odstrániť \"%s\"?</string>
   <string name="customization">Upraviť</string>

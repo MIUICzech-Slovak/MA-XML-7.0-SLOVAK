@@ -78,8 +78,8 @@
   <string name="HIPS_Perm_AutoStart">Automaticky spustiť</string>
   <string name="HIPS_Perm_AutoStart_Desc">Automaticky spustiť pri štarte zariadenia</string>
   <string name="HIPS_Perm_AutoStart_Hint">%1$s má právo sa automaticky spustiť pri štarte</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity">zapnúť Bluetooth</string>
-  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">zapnúť Bluetooth</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity">Zapnúť Bluetooth</string>
+  <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Zapnúť Bluetooth</string>
   <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s môže použiť Bluetooth</string>
   <string name="HIPS_Perm_Calendar">Prístup ku kalendáru</string>
   <string name="HIPS_Perm_Calendar_Desc">Prístup k udalostiam v kalendári</string>

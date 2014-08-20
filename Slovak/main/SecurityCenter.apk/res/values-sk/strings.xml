@@ -55,7 +55,7 @@
   <string name="battery_desc_standby">Využitie batérie v stave nečinnosti zariadenia</string>
   <string name="battery_desc_voice">Využitie batérie hlasovými hovormi</string>
   <string name="battery_desc_wifi">Využitie batérie sieťou Wi-Fi</string>
-  <string name="battery_history_days">%1$d dní %2$d h %3$d min %4$d s</string>
+  <string name="battery_history_days">%1$d dni %2$d h %3$d min %4$d s</string>
   <string name="battery_history_days_no_seconds">%1$d d. %2$d hod. %3$d min.</string>
   <string name="battery_history_hours">%1$d h %2$d min %3$d s</string>
   <string name="battery_history_hours_no_seconds">%1$d hod. %2$d min.</string>
@@ -171,7 +171,7 @@
   <string name="hints_apk_header_left">Inštalačné apk: %d</string>
   <string name="hints_apk_version">Verzia: %s</string>
   <string name="hints_app_uninstall_residual">Vyčistiť zostatkové súbory?</string>
-  <string name="hints_apps_perm_count">%d Oprávnení</string>
+  <string name="hints_apps_perm_count">Oprávnení: %d</string>
   <string name="hints_auto_start_disable_title">Zakázané auto. spustenie %d apl.</string>
   <string name="hints_auto_start_enable_title">Povolené auto. spustenie %d apl.</string>
   <string name="hints_auto_start_warning_info">Zákaz auto. spustenia nepovolí príjímať upozornenia aplikácie</string>

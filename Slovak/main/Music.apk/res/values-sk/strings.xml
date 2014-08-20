@@ -100,7 +100,7 @@
   <string name="favourite_music_right_half">vpravo od názvu skladby</string>
   <string name="file_not_found">"Súbor neexistuje"</string>
   <string name="find_ktv">Prehľadávať KTV</string>
-  <string name="find_music">Prehliadať skladby~</string>
+  <string name="find_music">Prehliadať skladby</string>
   <string name="format_unsupported">Nepodporovaný formát.</string>
   <string name="fragment_more">Viac</string>
   <string name="fragment_title_artist">Umelec</string>
@@ -169,7 +169,7 @@
   <string name="playback_failed_no_title_by_bad_file">"Skladby nie je možné prehrať. Formát nie je podporovaný alebo súbor neexistuje."</string>
   <string name="playlist_deleted_message">Playlist vymazaný</string>
   <string name="playlist_renamed_message">Playlist premenovaný</string>
-  <string name="presonal_center">Account settings</string>
+  <string name="presonal_center">Nastavenie účtu</string>
   <string name="project_device">Telefón</string>
   <string name="quit_warining">Prehrávanie sa zastaví o %d minút</string>
   <string name="retry">Znova</string>

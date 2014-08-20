@@ -2445,7 +2445,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_bar_settings_advanced">Ďalšie nastavenia</string>
   <string name="status_bar_settings_all_app_display_loading">Načítavanie...</string>
   <string name="status_bar_settings_basic_settings">Základné nastavenia</string>
-  <string name="status_bar_settings_custom_carrier">Uúpraviť názov operátora</string>
+  <string name="status_bar_settings_custom_carrier">Upraviť názov operátora</string>
   <string name="status_bar_settings_custom_notification">Spravovať upozornenia</string>
   <string name="status_bar_settings_custom_wifi_name">Upraviť názov Wi-Fi</string>
   <string name="status_bar_settings_expandable_under_keyguard">Povoliť na uzamknutej obrazovke</string>

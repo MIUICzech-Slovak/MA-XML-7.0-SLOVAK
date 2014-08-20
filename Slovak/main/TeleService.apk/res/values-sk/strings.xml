@@ -904,7 +904,7 @@ Môže to trvať aj 5 minút."</string>
   <string name="telocation_number_type">Typ čísla</string>
   <string name="telocation_number_type_jituan">Číslo skupiny</string>
   <string name="telocation_number_type_mob">Mobilný telefón</string>
-  <string name="telocation_number_type_tel">Landline</string>
+  <string name="telocation_number_type_tel">Pevná linka</string>
   <string name="telocation_setting">Nastavenie polohy</string>
   <string name="telocation_show_settings">Nastavenie displeja</string>
   <string name="third_party_account_summary">Tento účet je práve používaný aplikáciou %s</string>

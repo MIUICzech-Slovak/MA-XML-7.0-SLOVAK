@@ -1220,7 +1220,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="man_add_application">Manuálne pridať aplikácie pre auto. štart</string>
   <string name="manage_device_admin">Správcovia zariadenia</string>
   <string name="manage_device_admin_summary">Zobraziť alebo deaktivovať správcu zariadenia</string>
-  <string name="manage_mobile_plan_title">Objem mobilnych dát</string>
+  <string name="manage_mobile_plan_title">Objem mobilných dát</string>
   <string name="manage_notification_access">Prístup k upozorneniam</string>
   <string name="manage_notification_access_summary_zero">Aplikácie nemôžu čítať upozornenia</string>
   <string name="manage_space_text">Správa pamäti</string>
@@ -1962,7 +1962,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_bar_settings_advanced">Ďalšie nastavenia</string>
   <string name="status_bar_settings_all_app_display_loading">Načítavanie...</string>
   <string name="status_bar_settings_basic_settings">Základné nastavenia</string>
-  <string name="status_bar_settings_custom_carrier">Uúpraviť názov operátora</string>
+  <string name="status_bar_settings_custom_carrier">Upraviť názov operátora</string>
   <string name="status_bar_settings_custom_notification">Spravovať upozornenia</string>
   <string name="status_bar_settings_custom_wifi_name">Upraviť názov Wi-Fi</string>
   <string name="status_bar_settings_expandable_under_keyguard">Povoliť na uzamknutej obrazovke</string>
@@ -2734,7 +2734,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="music_dirac_mode_general_inear">Bežné špunty</string>
   <string name="music_dirac_mode_in_ear">Xiaomi špunty</string>
   <string name="music_dirac_mode_piston_100">Xiaomi Pistons</string>
-  <string name="music_dirac_mode_piston_2">Xiaomi Pistons 2</string>
+  <string name="music_dirac_mode_piston_2">Xiaomi Piston-2</string>
   <string name="music_dirac_mode_piston_youth">Xiaomi Piston-1</string>
   <string name="music_headphone_settings">Typ slúchadiel</string>
   <string name="music_mi_effect_summary">Vždy použiť MiSound pri použití reproduktorov</string>
