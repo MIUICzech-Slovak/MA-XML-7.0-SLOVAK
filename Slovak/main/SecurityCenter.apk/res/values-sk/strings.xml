@@ -183,7 +183,7 @@
   <string name="hints_garbage_cleanup_result_danger">Nebezpečné</string>
   <string name="hints_garbage_cleanup_result_risk">Riziko</string>
   <string name="hints_garbage_cleanup_result_safe">OK</string>
-  <string name="hints_garbage_handle_item_content">%1$ položky, %2$s</string>
+  <string name="hints_garbage_handle_item_content">%1$d položky, %2$s</string>
   <string name="hints_get_root_disable_title">Zakázané ROOT práva: %d</string>
   <string name="hints_get_root_enable_title">Povolené ROOT práva: %d</string>
   <string name="hints_handle_item_text_risk">Riziká: %d</string>
