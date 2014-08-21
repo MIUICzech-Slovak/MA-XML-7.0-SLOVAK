@@ -114,4 +114,6 @@ Využité %s | Ostáva %s"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="error_data_in_transfer">Vaše dáta sa presúvajú. Čakajte %s hodín.</string>
+  <string name="error_data_in_transfer_title">Služby Cloudu sú momentálne nedostupné.</string>
 </resources>

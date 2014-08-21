@@ -709,4 +709,10 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="select_download_device">Vyberte zariadenie</string>
+  <string name="router_download_exist">Tento súbor už existuje</string>
+  <string name="router_download_failed">Sťahovanie zlyhalo, skúste to znova.</string>
+  <string name="router_download_success">Sťahovanie, skontrolujte priebeh v aplikácií pre Xiaomi Router.</string>
++  <string name="download_phone_tip">Telefón</string>
++  <string name="download_router_tip">Xiaomi router (Stiahnuť do Xiaomi router)</string>
 </resources>

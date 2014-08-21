@@ -588,4 +588,6 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="hints_title_garbage">Odpad</string>
   <string name="activity_title_cache_data">Cache dát</string>
   <string name="cache_sort_type_item_size">Podľa veľkosti</string>
+  <string name="toast_virus_in_cloud_scanning">Nie je možné zastaviť kontrolu Cloudu</string>
+  <string name="activity_title_cache_data">Cache</string>
 </resources>
