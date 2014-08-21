@@ -87,7 +87,7 @@ https://account.xiaomi.com/pass/serviceLogin"</string>
   <string name="my_worst_update">Najhorší update</string>
   <string name="network_error">Problém sieťového pripojenia, prosím skúste to znova</string>
   <string name="new_update_content_notification_shade"/>
-  <string name="new_update_content_title">"Verzia: "</string>
+  <string name="new_update_content_title">Dostupná nová verzia MIUI</string>
   <string name="new_update_download_complete_body">Nová verzia pripravená na aktualizovanie: %s</string>
   <string name="new_update_downloading_body">Sťahujem novú verziu: %s</string>
   <string name="new_updates_found_notification_title">Nájdená nová aktualizácia!</string>
