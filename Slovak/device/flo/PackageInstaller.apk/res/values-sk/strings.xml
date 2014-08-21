@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="Parse_error_dlg_text">Pri analýze balíka sa vyskytol problém.</string>
+  <string name="all">Všetky oprávnenia</string>
+  <string name="app_name">Nástroj na inštaláciu balíčkov</string>
+  <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť v zozname nainštalovaných aplikácií.</string>
+  <string name="button_cancel">Zrušiť</string>
+  <string name="button_continue">Ďalej</string>
+  <string name="button_continue_install">Inštalovať</string>
+  <string name="button_install_lastest">Stiahnuť a nainštalovať poslednú verziu</string>
+  <string name="button_install_official">Stiahnuť a nainštalovať oficiálnu verziu</string>
+  <string name="button_next">Ďalej</string>
+  <string name="button_remove">Vymazať</string>
+  <string name="cancel">Zrušiť</string>
+  <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, nahradí inú aplikáciu.
+Všetky predchádzajúce používateľské údaje budú uložené."</string>
+  <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) nahradí nainštalovanú verziu (%3$s). Všetky predchádzajúce používateľské údaje budú uložené.
+Inštalovať novú verziu?"</string>
+  <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikácia.
+Všetky predchádzajúce používateľské údaje budú uložené."</string>
+  <string name="done">Hotovo</string>
+  <string name="install">Inštalovať</string>
+  <string name="install_confirm_question">"Chcete nainštalovať túto aplikáciu? \nZíska prístup k týmto povoleniam"</string>
+  <string name="install_done">Aplikácia bola nainštalovaná.</string>
+  <string name="install_failed">Aplikácia nie je nainštalovaná.</string>
+  <string name="install_failed_cpu_abi_incompatible">Táto aplikácia nie je kompatibilná s vaším telefónom.</string>
+  <string name="install_failed_inconsistent_certificates">Už je nainštalovaný existujúci balík s rovnakým názvom a kolidujúcim podpisom.</string>
+  <string name="install_failed_invalid_apk">Zdá sa, že je balík poškodený.</string>
+  <string name="install_failed_msg">Aplikáciu %1$s sa do vášho telefónu nepodarilo nainštalovať.</string>
+  <string name="install_failed_older_sdk">Balík funguje iba v novších verziách systému Android.</string>
+  <string name="installer_name">Zdroj: %1$s</string>
+  <string name="installing">Prebieha inštalácia...</string>
+  <string name="launch">Otvoriť</string>
+  <string name="main_title">Inštalácia aplikácie</string>
+  <string name="manage_applications">Spravovať aplikácie</string>
+  <string name="manage_device_administrators">Spravovať správcov zariadenia</string>
+  <string name="ok">OK</string>
+  <string name="other_relative">Ostatné práva</string>
+  <string name="out_of_space_dlg_text">Aplikáciu %1$s sa nepodarilo nainštalovať. Uvoľnite miesto v pamäti a skúste to znova.</string>
+  <string name="perm_action_accept">Prijať</string>
+  <string name="perm_action_prompt">Opýtať sa</string>
+  <string name="perm_action_reject">Odmietnuť</string>
+  <string name="permission_warn_hint">Aplikácia získa tieto oprávnenia:</string>
+  <string name="permission_warn_title">Inštalácia aplikácií z neznámeho zdroja je nebezpečná.</string>
+  <string name="privacy_relative">Práva k súkromným údajom</string>
+  <string name="progress_verifying">Kontrola bezpečnosti...</string>
+  <string name="safe_relative">Možné riziko</string>
+  <string name="settings">Nastavenia</string>
+  <string name="uninstall_activity_text">Aktivita %1$s je súčasťou nasledujúcej aplikácie:</string>
+  <string name="uninstall_application_text">Chcete túto aplikáciu odinštalovať?</string>
+  <string name="uninstall_application_title">Odinštalovať aplikáciu</string>
+  <string name="uninstall_confirm_question">Chcete odinštalovať túto aplikáciu?</string>
+  <string name="uninstall_done">Odinštalovanie bolo dokončené.</string>
+  <string name="uninstall_failed">Odinštalovanie bolo neúspešné.</string>
+  <string name="uninstall_failed_device_policy_manager">Nie je možné odinštalovať, pretože tento balík je aktívnym správcom zariadenia.</string>
+  <string name="uninstall_failed_retained_app_msg">Systémovú aplikáciu nie je možné odinštalovať</string>
+  <string name="uninstall_update_text">Chcete túto aplikáciu nahradiť továrenskou verziou?</string>
+  <string name="uninstall_update_title">Odinštalovať aktualizáciu</string>
+  <string name="uninstalling">Prebieha odinštalovanie...</string>
+  <string name="unknown">Neznáme</string>
+  <string name="unknown_apps_dlg_text">Zariadenie je z dôvodu zabezpečenia nastavené tak, aby blokovalo inštalácie aplikácií z neznámych zdrojov.</string>
+  <string name="update_log_default">Žiadne aktualizácie</string>
+  <string name="update_time">%1$s v %2$s %3$s verzia %4$s</string>
+  <string name="update_title">%1$s má novú verziu</string>
+  <string name="virus_scan_clear">Vyčistiť</string>
+  <string name="virus_scan_install">" "Pokračovať" "</string>
+  <string name="virus_scan_is_risk">Táto aplikácia je podozrivá!</string>
+  <string name="virus_scan_is_virus">Táto aplikácia je VÍRUS!</string>
+  <string name="warn_message">Aplikácia môže vážne ohroziť bezpečnosť vašich dát a súkromných informácií</string>
+  <string name="warn_title">Aplikácia nie je overená</string>
+</resources>
