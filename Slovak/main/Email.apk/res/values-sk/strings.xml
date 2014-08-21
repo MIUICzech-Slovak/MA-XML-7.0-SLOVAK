@@ -686,7 +686,7 @@ presahuje limit"</string>
   <string name="ser_resp_err_map_serclosed">Služba ukončená</string>
   <string name="ser_resp_err_map_ssl">"Skúste vybrať 'SSL/TLS (Akceptovať všetky certifikáty)' v 'Zabezpečení'"</string>
   <string name="set_network">Nastaviť sieť</string>
-  <string name="settings_activity_title">Nastavenia</string>
+  <string name="settings_activity_title">Email</string>
   <string name="sharing">Zdieľať</string>
   <string name="shortcut_name_title">Pomenovať skratku priečinka</string>
   <string name="show_elided">▶ Zobraziť citovaný text</string>
