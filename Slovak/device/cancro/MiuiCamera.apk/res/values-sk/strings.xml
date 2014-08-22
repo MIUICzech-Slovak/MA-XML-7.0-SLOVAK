@@ -411,7 +411,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_setting_title">Nastavenia</string>
   <string name="pref_settings_mode">Režim kamery</string>
   <string name="pref_video_captrue_ability_title">Snímka počas videa</string>
-   <string name="pref_video_focusmode_entry_auto">Dotykom</string>
+  <string name="pref_video_focusmode_entry_auto">Dotykom</string>
   <string name="pref_video_focusmode_entry_continuous">Kontinuálne ostrenie</string>
   <string name="pref_video_focusmode_title">Režim ostrenia</string>
   <string name="pref_video_quality_entry_1080p">1080p</string>

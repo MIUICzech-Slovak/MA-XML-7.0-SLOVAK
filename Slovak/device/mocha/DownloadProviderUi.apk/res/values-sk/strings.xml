@@ -58,6 +58,7 @@
   <string name="package_filter">ARCHÍVY</string>
   <string name="pause_download">Pauza</string>
   <string name="paused_by_app">Pozastavené</string>
+  <string name="paused_insufficient_space">Čakanie na voľné miesto</string>
   <string name="paused_queued_for_wifi">Pozastavené, čakám na Wi-Fi pripojenie</string>
   <string name="paused_unknown">Pozastavené</string>
   <string name="paused_waiting_for_network">Pozastavené, čakám na pripojenie k sieti</string>
@@ -77,5 +78,4 @@
   <string name="select_all">Vybrať všetko</string>
   <string name="select_operation_items">Prosím, vyberte položku operácie</string>
   <string name="selected_count">Vybraté: %1$d z %2$d</string>
-  <string name="paused_insufficient_space">Čakanie na voľné miesto</string>
 </resources>

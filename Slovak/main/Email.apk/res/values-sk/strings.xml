@@ -312,7 +312,7 @@
   <string name="date_message_received">%1$s o %2$s</string>
   <string name="date_message_received_today">Dnes o %1$s</string>
   <string name="date_message_received_yesterday">Včera o %1$s</string>
-  <string name="default_">PREDVOLENÉ</string> 
+  <string name="default_">PREDVOLENÉ</string>
   <string name="default_setup">PREDVOLENÉ NASTAVENIA</string>
   <string name="default_signature">Odoslané z MIUI</string>
   <string name="delete">Odstrániť</string>

@@ -197,6 +197,8 @@
   <string name="download_no_sdcard_dlg_msg">Na stiahnutie %s sa vyžaduje USB úložisko.</string>
   <string name="download_no_sdcard_dlg_title">USB úložisko nedostupné</string>
   <string name="download_pending">Začína sťahovanie...</string>
+  <string name="download_phone_tip">Telefón</string>
+  <string name="download_router_tip">Xiaomi router (Stiahnuť do Xiaomi router)</string>
   <string name="download_sdcard_busy_dlg_msg">USB úložisko je zaneprázdnené. Pre povolenie sťahovania vyberte v notifikačnej lište Vypnúť USB Úložisko.</string>
   <string name="download_sdcard_busy_dlg_title">USB úložisko nedostupné</string>
   <string name="downloaded">Stiahnuté</string>
@@ -551,6 +553,9 @@
   <string name="return_to_homepage">Vrátiť sa na Domovskú stránku</string>
   <string name="rlz_access_point">Y1</string>
   <string name="root_folder_lable">Žiadna</string>
+  <string name="router_download_exist">Tento súbor už existuje</string>
+  <string name="router_download_failed">Sťahovanie zlyhalo, skúste to znova.</string>
+  <string name="router_download_success">Sťahovanie, skontrolujte priebeh v aplikácií pre Xiaomi Router.</string>
   <string name="same_bookmarks_warning">Táto záložka už existuje</string>
   <string name="same_folder_name_warning">Táto zložka už existuje</string>
   <string name="save">Uložiť</string>
@@ -586,6 +591,7 @@
   <string name="search_yicha">Yicha</string>
   <string name="security_warning">Bezpečnostná výstraha</string>
   <string name="select_dot">Vyber text</string>
+  <string name="select_download_device">Vyberte zariadenie</string>
   <string name="send_bookmark_to_home_screen">Odoslať na plochu</string>
   <string name="send_to_popular">Populárne</string>
   <string name="set_as_homepage">Nastaviť ako domovskú stránku</string>
@@ -709,10 +715,4 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="select_download_device">Vyberte zariadenie</string>
-  <string name="router_download_exist">Tento súbor už existuje</string>
-  <string name="router_download_failed">Sťahovanie zlyhalo, skúste to znova.</string>
-  <string name="router_download_success">Sťahovanie, skontrolujte priebeh v aplikácií pre Xiaomi Router.</string>
-  <string name="download_phone_tip">Telefón</string>
-  <string name="download_router_tip">Xiaomi router (Stiahnuť do Xiaomi router)</string>
 </resources>

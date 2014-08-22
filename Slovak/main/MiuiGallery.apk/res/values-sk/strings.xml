@@ -399,6 +399,8 @@ spoločne!"</string>
   <string name="redeye">Červené oči</string>
   <string name="redeye_tooltip">Klikni pre odstránenie červených očí</string>
   <string name="refocus_data_downloading">Sťahovanie dát na preostrenie...</string>
+  <string name="remove_from_secret_failed_message_with_count">"%2$s položiek nemôže byť odobraných z: %1$s."</string>
+  <string name="remove_from_secret_successfully_message">Odobrané z tajného albumu</string>
   <string name="remove_hidden_album">Zrušiť skryté</string>
   <string name="remove_recent_album">Odstrániť z nedávnych albumov</string>
   <string name="rename_failed">Premenovať sa nepodarilo</string>
@@ -549,6 +551,4 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
-  <string name="remove_from_secret_failed_message_with_count">"%2$s položiek nemôže byť odobraných z: %1$s."</string>
-  <string name="remove_from_secret_successfully_message">Odobrané z tajného albumu</string>
 </resources>

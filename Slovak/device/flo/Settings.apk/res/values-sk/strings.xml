@@ -2013,6 +2013,10 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="print_service_security_warning_title">Použiť službu %1$s?</string>
   <string name="print_settings">Tlač</string>
   <string name="print_settings_title">Tlačové služby</string>
+  <string name="priority_storage_app_settings">Užívateľské dáta budú uložené na %1$s</string>
+  <string name="priority_storage_settings_summary">Ak nie je vložená SD karta, užívateľské dáta budú uložené automaticky na interné úložisko</string>
+  <string name="priority_storage_summary">Vyberte predvolené úložisko pre ukladanie dát</string>
+  <string name="priority_storage_title">Nastavenie úložiska</string>
   <string name="privacy_mode_enable_sum">Skryť zoznam hovorov, správy a ostatné dáta pri aktivovanom súkromnom režime</string>
   <string name="privacy_mode_enable_title">Režim súkromia</string>
   <string name="privacy_protect_title">Ochrana súkromia</string>
@@ -3268,8 +3272,4 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť v abecednom poradí</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-  <string name="priority_storage_app_settings">Užívateľské dáta budú uložené na %1$s</string>
-  <string name="priority_storage_settings_summary">Ak nie je vložená SD karta, užívateľské dáta budú uložené automaticky na interné úložisko</string>
-  <string name="priority_storage_summary">Vyberte predvolené úložisko pre ukladanie dát</string>
-  <string name="priority_storage_title">Nastavenie úložiska</string>
 </resources>

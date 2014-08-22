@@ -30,7 +30,7 @@
   <string name="enter">↓</string>
   <string name="equal">=</string>
   <string name="equalDesc">rovná sa</string>
-   <string name="error">Chyba!</string>
+  <string name="error">Chyba!</string>
   <string name="factorial">!</string>
   <string name="factorialDesc">faktoriál</string>
   <string name="leftParen">(</string>

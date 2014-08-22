@@ -136,6 +136,7 @@
   <string name="error_phone_error">Nesprávne číslo telefónu</string>
   <string name="error_server">Chyba servera</string>
   <string name="error_sim_not_ready">SIM nie je pripravená</string>
+  <string name="error_ssl_hand_shake">Chyba pripojenia. Skúste nastaviť správny čas na vašom zariadení.</string>
   <string name="error_unknown">Neznáma chyba</string>
   <string name="error_user_name">Nesprávne užívateľské meno.</string>
   <string name="error_verify_code">Zadaný kód nie je správny</string>
@@ -303,5 +304,4 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
- <string name="error_ssl_hand_shake">Chyba pripojenia. Skúste nastaviť správny čas na vašom zariadení.</string>
 </resources>

@@ -101,6 +101,7 @@
   <string name="permlab_bluetoothWhitelist">Prístup povoleného zariadenia Bluetooth.</string>
   <string name="permlab_fm_receiver">access FM receiver</string>
   <string name="permlab_handoverStatus">Prijímať odovzdané vysielania prenosu z rozhrania BT.</string>
+  <string name="process"/>
   <string name="profile_description_a2dp">A2DP Profil</string>
   <string name="profile_description_ftp">Prenos súborov</string>
   <string name="profile_description_gatt">GATT/BLE Profil</string>
@@ -118,7 +119,6 @@
   <string name="profile_mse">MAP</string>
   <string name="profile_pan">PAN</string>
   <string name="profile_sap">SAP</string>
-  <string name="process"/>
   <string name="sharedUserId"/>
   <string name="start_server">Spustiť server TCP</string>
   <string name="status_canceled">Prenos bol zrušený používateľom.</string>

@@ -416,12 +416,12 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_grp_picture_settings">Nastavenia Fotografie</string>
   <string name="pref_grp_restore_settings">Obnoviť Nastavenia</string>
   <string name="pref_manual_exposure_title">Manuálna expozícia</string>
+  <string name="pref_priority_storage_title">Prioritne ukladať na externú SD kartu</string>
   <string name="pref_scan_qrcode_entry_off">Vypnuté</string>
   <string name="pref_scan_qrcode_entry_on">Zapnuté</string>
   <string name="pref_scan_qrcode_title">Skenovať QR kód</string>
   <string name="pref_setting_title">Nastavenia</string>
   <string name="pref_settings_mode">Režim kamery</string>
-  <string name="pref_priority_storage_title">Prioritne ukladať na externú SD kartu</string>
   <string name="pref_touch_down_capture_title">Touch Down Capture</string>
   <string name="pref_video_captrue_ability_title">Snímka počas videa</string>
   <string name="pref_video_fast_speed_title_simple_mode">Spomalené video</string>
@@ -507,8 +507,8 @@ opustite na chvíľu náhľad"</string>
   <string name="spaceIsLow_content">Dochádza voľné miesto na SD karte. Znížte kvalitu alebo vymažte niektoré snímky alebo iné súbory.</string>
   <string name="success_message_import_from_account">Úspešne importované</string>
   <string name="tags">Značky</string>
-  <string name="tap_to_focus">Dotykom zaostríte</string>
   <string name="tap_to_exposure">Dotykom odmeráte</string>
+  <string name="tap_to_focus">Dotykom zaostríte</string>
   <string name="time">Čas</string>
   <string name="time_lapse_error">Neplatná veľkosť pre časozberné nahrávanie.</string>
   <string name="times">Časy</string>

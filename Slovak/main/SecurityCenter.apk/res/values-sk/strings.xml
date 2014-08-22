@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
   <string name="Settings_title_anti_spam">Nastavenie Antispamu</string>
   <string name="Settings_title_anti_virus">Nastavenie AntiVírusu</string>
@@ -12,6 +13,7 @@
   <string name="activity_title_apps_manager">Aplikácie</string>
   <string name="activity_title_auto_start_manager">Správa Auto. spustenia</string>
   <string name="activity_title_cache">Cache</string>
+  <string name="activity_title_cache_data">Cache dát</string>
   <string name="activity_title_create_shortcut">Odkaz</string>
   <string name="activity_title_deep_clean">Hĺbkové čistenie</string>
   <string name="activity_title_default_apps_manager">Správa predvolených apl.</string>
@@ -102,6 +104,7 @@
   <string name="button_text_view_power">Zobraziť výkon</string>
   <string name="cache_check_content">Apl.: %1$d, Cache: %2$s</string>
   <string name="cache_header_title">Vyčistenie %1$d súborov v cache uvoľní %2$s</string>
+  <string name="cache_sort_type_item_size">Podľa veľkosti</string>
   <string name="cache_title_empty_folder">Prázdna zložka (%d)</string>
   <string name="cache_title_empty_folder2">Prázdna zložka</string>
   <string name="cache_title_system_cache">Cache systému</string>
@@ -158,6 +161,7 @@
   <string name="empty_title_system_cache_list">Žiadna cache</string>
   <string name="empty_title_system_process_list">Žiadne procesy</string>
   <string name="empty_title_virus_list">Žiadne aplikácie</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Povoliť aj mobilné dáta?</string>
   <string name="every_day">Kaťdý deň</string>
   <string name="examination_score_100">Všetko vyzerá byť v poriadku!</string>
   <string name="examination_score_60_0">Mali by ste optimalizovať Vaše zariadenie</string>
@@ -184,6 +188,7 @@
   <string name="hints_garbage_cleanup_result_risk">Riziko</string>
   <string name="hints_garbage_cleanup_result_safe">OK</string>
   <string name="hints_garbage_handle_item_content">%1$d položky, %2$s</string>
+  <string name="hints_garbage_handle_item_empty_content">Položiek: 0</string>
   <string name="hints_get_root_disable_title">Zakázané ROOT práva: %d</string>
   <string name="hints_get_root_enable_title">Povolené ROOT práva: %d</string>
   <string name="hints_handle_item_text_risk">Riziká: %d</string>
@@ -230,6 +235,7 @@
   <string name="hints_scan_result_virus">Má vírus</string>
   <string name="hints_scanning_virus_by_cloud">Kontrola cloudu...</string>
   <string name="hints_storage_free">Voľné</string>
+  <string name="hints_title_garbage">Odpad</string>
   <string name="hints_unknown_virus_name">Neznámy</string>
   <string name="hints_virus_apk_list_item_summary">Vírus (Apk)</string>
   <string name="hints_virus_apk_summary">%s (Apk)</string>
@@ -240,6 +246,7 @@
   <string name="hints_virus_name_title">Vírus:</string>
   <string name="hints_virus_scan_result_descx">táto aplikácia je riziková pre vašu bezpečnosť</string>
   <string name="item_app_permission">Povolenia aplikácií</string>
+  <string name="item_dev_mode">Možnosti pre vývojárov</string>
   <string name="item_garbage_size_1000m">1GB</string>
   <string name="item_garbage_size_100m">100MB</string>
   <string name="item_garbage_size_300m">300MB</string>
@@ -520,6 +527,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="st_title_mode_choose_group">Zvoľte režim</string>
   <string name="suffix_virus_count_bottom">Celkom</string>
   <string name="suffix_virus_count_top">Riziká</string>
+  <string name="summary_dev">Zabráňte aplikáciám zneužívať vaše súkromné dáta</string>
   <string name="summary_install_virus">Kontrolovať prítomnosť vírusov v aplikáciách pred inštaláciou</string>
   <string name="summary_mms">Filtrovať otravné správy (predajcovia, reklama, atď.)</string>
   <string name="summary_permission">Chrániť moje súkromie pred aplikáciami</string>
@@ -532,6 +540,8 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="title_app_update_yes">Všetko je aktuálne</string>
   <string name="title_data_flow_no">Kontrola spotreby dát zakázaná</string>
   <string name="title_data_flow_yes">Kontrola spotreby dát povolená</string>
+  <string name="title_dev_no">Možnosti pre vývojárov zapnuté</string>
+  <string name="title_dev_yes">Možnosti pre vývojárov vypnuté</string>
   <string name="title_install_virus_no">Kontrola inštalácií zakázaná</string>
   <string name="title_install_virus_yes">Kontrola inštalácií povolená</string>
   <string name="title_miui_update_no">Aktualizácia MIUI: %s</string>
@@ -562,6 +572,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="toast_shortcut_install">Odkaz pridaný</string>
   <string name="toast_shortcut_uninstall">Odkaz odstránený</string>
   <string name="toast_uninstall_success">Odinštalované</string>
+  <string name="toast_virus_in_cloud_scanning">Nie je možné zastaviť kontrolu Cloudu</string>
   <string name="uninstall_confirm_title">Odinštalovať tieto aplikácie</string>
   <string name="usage_type_audio">Zvuk</string>
   <string name="usage_type_cpu">Doba prevádzky procesora</string>
@@ -584,14 +595,4 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
-  <string name="hints_garbage_handle_item_empty_content">Položiek: 0</string>
-  <string name="hints_title_garbage">Odpad</string>
-  <string name="activity_title_cache_data">Cache dát</string>
-  <string name="cache_sort_type_item_size">Podľa veľkosti</string>
-  <string name="toast_virus_in_cloud_scanning">Nie je možné zastaviť kontrolu Cloudu</string>
-  <string name="item_dev_mode">Možnosti pre vývojárov</string>
-  <string name="summary_dev">Zabráňte aplikáciám zneužívať vaše súkromné dáta</string>
-  <string name="title_dev_no">Možnosti pre vývojárov zapnuté</string>
-  <string name="title_dev_yes">Možnosti pre vývojárov vypnuté</string>
-  <string name="enable_mobile_data_when_opening_hotspot">Povoliť aj mobilné dáta?</string>
 </resources>

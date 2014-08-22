@@ -18,6 +18,8 @@
   <string name="enable_micloud">Registrovať alebo prihlásiť</string>
   <string name="enable_sync">Povoliť synchr.</string>
   <string name="enable_sync_dspt">Synchr. je deaktivovaná</string>
+  <string name="error_data_in_transfer">Vaše dáta sa presúvajú. Čakajte %s hodín.</string>
+  <string name="error_data_in_transfer_title">Služby Cloudu sú momentálne nedostupné.</string>
   <string name="error_forbidden">Synchr. bola deaktivovaná kvôli problémom s vašim Xiaomi účtom.</string>
   <string name="error_network">Chyba siete</string>
   <string name="error_not_acceptable">Synchr. bola deaktivovaná.</string>
@@ -114,6 +116,4 @@ Využité %s | Ostáva %s"</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="error_data_in_transfer">Vaše dáta sa presúvajú. Čakajte %s hodín.</string>
-  <string name="error_data_in_transfer_title">Služby Cloudu sú momentálne nedostupné.</string>
 </resources>
