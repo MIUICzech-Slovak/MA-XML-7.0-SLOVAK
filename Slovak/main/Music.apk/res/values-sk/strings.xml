@@ -211,4 +211,8 @@
   <string name="unknown_artist_name">Neznámy umelec</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
+  <string name="empty_page_no_album">Žiadne albumy.</string>
+  <string name="empty_page_no_artist">Žiadni umelci.</string>
+  <string name="empty_page_no_document">Žiadne dokumenty.</string>
+  <string name="empty_page_no_track">Žiadne skladby.</string>
 </resources>

@@ -589,4 +589,9 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="activity_title_cache_data">Cache dát</string>
   <string name="cache_sort_type_item_size">Podľa veľkosti</string>
   <string name="toast_virus_in_cloud_scanning">Nie je možné zastaviť kontrolu Cloudu</string>
+  <string name="item_dev_mode">Možnosti pre vývojárov</string>
+  <string name="summary_dev">Zabráňte aplikáciám zneužívať vaše súkromné dáta</string>
+  <string name="title_dev_no">Možnosti pre vývojárov zapnuté</string>
+  <string name="title_dev_yes">Možnosti pre vývojárov vypnuté</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Povoliť aj mobilné dáta?</string>
 </resources>

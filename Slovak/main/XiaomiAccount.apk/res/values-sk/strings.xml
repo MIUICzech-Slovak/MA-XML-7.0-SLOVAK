@@ -303,4 +303,5 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
+ <string name="error_ssl_hand_shake">Chyba pripojenia. Skúste nastaviť správny čas na vašom zariadení.</string>
 </resources>

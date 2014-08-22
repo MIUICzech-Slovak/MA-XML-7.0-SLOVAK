@@ -203,4 +203,5 @@ Veľkosť: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verzia %1$s
 Veľkosť rozdielového balíčka: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizácia!</string>
+  <string name="err_parse_external_data">Tento súbor nie je podporovaný</string>
 </resources>

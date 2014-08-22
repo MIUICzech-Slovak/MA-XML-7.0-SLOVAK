@@ -146,4 +146,5 @@
   <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
   <string name="softap_notifif_summary">Pripojených: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" aktívny</string>
+  <string name="force_exit_skip_message">%1$s je systémová aplikácia a nemôže byť ukončená.</string>
 </resources>
