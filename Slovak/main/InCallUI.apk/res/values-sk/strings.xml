@@ -80,15 +80,15 @@
   <string name="call_title_redialing_with_times_miui">Volané %d krát</string>
   <string name="caller_manage_header">Konferenčný hovor %s</string>
   <string name="calling_via_template">Volanie prostredníctvom %s</string>
-  <string name="card_title_call_ended">Hovor ukončený</string>
-  <string name="card_title_conf_call">Konferenčný hovor</string>
+  <string name="card_title_call_ended">"Hovor ukončený "</string>
+  <string name="card_title_conf_call">"Konferenčný hovor "</string>
   <string name="card_title_dialing">Vytáčanie</string>
   <string name="card_title_hanging_up">Ukončenie hovoru</string>
   <string name="card_title_in_call">Počas hovoru</string>
   <string name="card_title_in_call_short">Hovor</string>
   <string name="card_title_incoming_call">Prichádzajúci hovor</string>
   <string name="card_title_my_phone_number">Moje číslo je %s</string>
-  <string name="card_title_on_hold">Pridržaný hovor</string>
+  <string name="card_title_on_hold">"Pridržaný hovor "</string>
   <string name="card_title_redialing">Nový pokus o vytáčanie</string>
   <string name="card_title_threeway_call">Trojcestný hovor</string>
   <string name="cb_sms_settings">Nastavenie SMS Cell Broadcast</string>
@@ -116,7 +116,7 @@
   <string name="confirmPinLabel">Potvrdiť nový PIN</string>
   <string name="connect_later">K tejto sieti sa nedá momentálne pripojiť. Skúste to neskôr.</string>
   <string name="contactPhoto">Obrázok kontaktu</string>
-  <string name="contacts_icon_label_miui">Kontakty</string>
+  <string name="contacts_icon_label">Kontakty</string>
   <string name="custom_message_cancel">Zrušiť</string>
   <string name="custom_message_send">Odoslať</string>
   <string name="data_enable_summary">Aktivuje dátové prenosy prostredníctvom mobilnej siete</string>
