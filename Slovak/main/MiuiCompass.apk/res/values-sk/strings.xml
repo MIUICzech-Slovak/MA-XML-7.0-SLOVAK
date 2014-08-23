@@ -32,4 +32,5 @@
   <string name="mobiledata_alert_dialog_title">Upozornenie</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
+  <string name="altitude_unit">m</string>
 </resources>
