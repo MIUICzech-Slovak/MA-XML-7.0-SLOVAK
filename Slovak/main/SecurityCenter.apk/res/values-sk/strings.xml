@@ -114,7 +114,7 @@
   <string name="cta_checkbox_title">Viac sa nepýtať</string>
   <string name="cta_dialog_msg">Optimalizácia vyžaduje prístup na internet pre aktualizáciu databázy.</string>
   <string name="cta_dialog_title">Podmienky používania</string>
-  <string name="cta_settings">Povoliť</string>
+  <string name="cta_settings">Povoliť prístup k sieti</string>
   <string name="deepclean_cache_header_left">Cache: %d</string>
   <string name="delete">Odstrániť</string>
   <string name="descx_cleanuping_item">Optimalizácia %s</string>

@@ -1,0 +1,281 @@
+Folder PATH listing for volume SSD-Win7 64x
+Volume serial number is DC3A-2DD5
+C:\USERS\INGBRZY\DOCUMENTS\GITHUB\MA-XML-6.0-SLOVAK\SLOVAK\MAIN
+ÃÄÄÄAntiFake.apk
+³   ÃÄÄÄassets
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄAntiSpam.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄApplicationsProvider.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄAuthManager.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄBackup.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄBackupRestoreConfirmation.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄBarcodeScanner.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄBluetooth.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄBrowser.apk
+³   ÃÄÄÄassets
+³   ³   ÃÄÄÄquicklinksv6-sk-rSK
+³   ³   ÃÄÄÄsuggest-sk-rSK
+³   ³   ÀÄÄÄyellowpage3-sk-rSK
+³   ³       ÀÄÄÄhdpi
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-hdpi
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÃÄÄÄraw-sk
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄBugReport.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄCalculator.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄCalendar.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-nodpi
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄCalendarProvider.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄCertInstaller.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄCloudAppBackup.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄCloudService.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄContacts.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-hdpi
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄContactsProvider.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄDeskClock.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-hdpi
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄDocumentsUI.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄDownloadProvider.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄDownloadProviderUi.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄEmail.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄExternalStorageProvider.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄFileExplorer.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄframework-miui-res.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk-rSK
+ÃÄÄÄframework-res.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄraw-sk
+³       ÃÄÄÄvalues-sk
+³       ÀÄÄÄvalues-sk-rSK
+ÃÄÄÄGuardProvider.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄInCallUI.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄIRremote.apk
+³   ÃÄÄÄassets
+³   ³   ÀÄÄÄfonts
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMediaProvider.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMiAssistant.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMiBand.apk
+³   ÃÄÄÄassets
+³   ³   ÀÄÄÄfonts
+³   ³       ÀÄÄÄMIUI
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÃÄÄÄraw-sk
+³       ÃÄÄÄvalues-sk
+³       ÀÄÄÄxml-sk
+ÃÄÄÄMiKey.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-nodpi
+³       ÃÄÄÄdrawable-sk-nodpi
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÃÄÄÄdrawable-xhdpi
+³       ÃÄÄÄraw
+³       ÃÄÄÄraw-sk
+³       ÃÄÄÄvalues
+³       ÃÄÄÄvalues-ca-rES
+³       ÃÄÄÄvalues-de
+³       ÃÄÄÄvalues-in
+³       ÃÄÄÄvalues-pt-rPT
+³       ÃÄÄÄvalues-sk
+³       ÀÄÄÄvalues-sv
+ÃÄÄÄMipay.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMiTagApp.apk
+³   ÃÄÄÄassets
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄmiui.apk
+³   ÃÄÄÄassets
+³   ³   ÀÄÄÄlicense
+³   ³       ÀÄÄÄsk_SK
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk-rSK
+ÃÄÄÄMiuiCompass.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMiuiFramework.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk-rSK
+ÃÄÄÄMiuiGallery.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMiuiHome.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMiuiKeyguard.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMiuiSystemUI.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMiuiVideo.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMiWallpaper.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMms.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄraw-sk
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMusic.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄMusicFX.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄNetworkAssistant2.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄNfc.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄNotes.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄPackageInstaller.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄPaymentService.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄPhotoTable.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄProvision.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk-rSK
+ÃÄÄÄQuickSearchBox.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄSecurityCenter.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄSettings.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÃÄÄÄraw-sk
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄSoundRecorder.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄStk.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄTag.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄTelephonyProvider.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄTeleService.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄThemeManager.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-hdpi
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄUpdater.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-xxhdpi
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄWallpaperCropper.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄWeather.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄWeatherProvider.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄXiaomiAccount.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄXiaomiAuthenticator.apk
+³   ÀÄÄÄres
+³       ÀÄÄÄvalues-sk
+ÃÄÄÄXiaomiServiceFramework.apk
+³   ÀÄÄÄres
+³       ÃÄÄÄdrawable-sk-xhdpi
+³       ÀÄÄÄvalues-sk
+ÀÄÄÄYellowPage.apk
+    ÀÄÄÄres
+        ÃÄÄÄdrawable-sk-xhdpi
+        ÃÄÄÄraw-sk
+        ÀÄÄÄvalues-sk
