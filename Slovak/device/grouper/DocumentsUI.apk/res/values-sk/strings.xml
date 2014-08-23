@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="app_label">Documenty</string>
+  <string name="create_error">Priečinok sa nepodarilo vytvoriť</string>
+  <string name="drawer_close">Skryť korene</string>
+  <string name="drawer_open">Zobraziť korene</string>
+  <string name="empty">Žiadne položky</string>
+  <string name="menu_create_dir">Vytvoriť zložku</string>
+  <string name="menu_delete">Vymazať</string>
+  <string name="menu_grid">Mriežka</string>
+  <string name="menu_list">Zoznam</string>
+  <string name="menu_open">Otvoriť</string>
+  <string name="menu_save">Uložiť</string>
+  <string name="menu_search">Vyhľadať</string>
+  <string name="menu_settings">Nastavenia</string>
+  <string name="menu_share">Zdieľať</string>
+  <string name="menu_sort">Zoradiť podľa</string>
+  <string name="mode_selected_count">Vybrané: %1$d</string>
+  <string name="pref_advanced_devices">Zobraziť rozšírené zariadenia</string>
+  <string name="pref_device_size">Zobraziť veľkosť zariadenia</string>
+  <string name="pref_file_size">Zobraziť veľkosť súboru</string>
+  <string name="query_error">Zoznam dokumentov sa nepodarilo načítať</string>
+  <string name="root_available_bytes">Voľné: %1$s</string>
+  <string name="root_recent">Nedávne</string>
+  <string name="root_type_apps">Ďalšie aplikácie</string>
+  <string name="root_type_device">Zariadenia</string>
+  <string name="root_type_service">Služby úložiska</string>
+  <string name="root_type_shortcut">Skratky</string>
+  <string name="save_error">Dokument sa nepodarilo uložiť</string>
+  <string name="share_via">Zdieľať pomocou</string>
+  <string name="sort_date">Podľa dátumu</string>
+  <string name="sort_name">Podľa mena</string>
+  <string name="sort_size">Podľa veľkosti</string>
+  <string name="title_open">Otvoriť z</string>
+  <string name="title_save">Uložiť do</string>
+  <string name="toast_failed_delete">Niektoré dokumenty sa nepodarilo odstrániť</string>
+  <string name="toast_no_application">Súbor sa nepodarilo otvoriť</string>
+</resources>

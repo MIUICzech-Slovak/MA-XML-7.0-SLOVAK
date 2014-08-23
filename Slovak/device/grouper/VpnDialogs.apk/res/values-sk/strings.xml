@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="accept">Dôverujem tejto aplikácii.</string>
+  <string name="configure">Nastaviť</string>
+  <string name="data_received">Prijaté:</string>
+  <string name="data_transmitted">Odoslané:</string>
+  <string name="data_value_format">%1$s bytov / %2$s packetov</string>
+  <string name="disconnect">Odpojiť</string>
+  <string name="duration">Doba trvania:</string>
+  <string name="legacy_title">VPN sieť je pripojená.</string>
+  <string name="prompt">Aplikácia %s sa pokúša vytvoriť VPN pripojenie.</string>
+  <string name="session">Relácia:</string>
+  <string name="warning">Pokračovaním súhlasíte s tým, aby aplikácia mohla sledovať všetku vašu sieťovú prevádzku. Pokiaľ aplikácii nedôverujete, nepokračujte. V opačnom prípade riskujete vystavenie vašich dát škodlivému softvéru.</string>
+</resources>

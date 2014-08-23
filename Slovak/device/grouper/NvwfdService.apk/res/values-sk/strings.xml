@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<resources>
+  <string name="app_name">Služby NVIDIA Wi-Fi Displej</string>
+  <string name="miracast_access_settings_title">Prístup k nastaveniam Miracast</string>
+  <string name="miracast_connection_status_connected">"Vysielanie do "</string>
+  <string name="miracast_connection_status_discovery">"Vyhľadávanie pre "</string>
+  <string name="miracast_connection_status_progress">"Pripájanie k "</string>
+  <string name="miracast_connection_status_warning_auth_failed">"Chyba prihlásenia s "</string>
+  <string name="miracast_connection_status_warning_conn_failed">"Nie je možné nájsť "</string>
+  <string name="miracast_connection_status_warning_conn_lost">"Pripojenie ukončené s "</string>
+  <string name="miracast_display_notification_disconnect">Odpojené</string>
+  <string name="miracast_hdcp_failure_text">Prémiový obsah nie je možné zobraziť.</string>
+  <string name="miracast_hdcp_title">Zlyhalo prihlásenie HDCP s %1$s</string>
+  <string name="miracast_hdmi_title">HDMI</string>
+  <string name="miracast_hdmi_unavailable">Nedostupné lebo je aktívny Miracast.</string>
+</resources>
