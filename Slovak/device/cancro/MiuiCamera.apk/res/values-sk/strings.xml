@@ -110,10 +110,10 @@ opustite na chvíľu náhľad"</string>
   <string name="face_beauty_age_alias_male_45_60">Muž 45-60</string>
   <string name="face_beauty_age_alias_male_60_m">Muž 60+</string>
   <string name="face_beauty_age_alias_male_8_17">Muž 8-17</string>
-  <string name="face_beauty_intelligent_level_0">Vyp.</string>
-  <string name="face_beauty_intelligent_level_1">Nízke</string>
-  <string name="face_beauty_intelligent_level_2">Mierne</string>
-  <string name="face_beauty_intelligent_level_3">Vys.</string>
+  <string name="face_beauty_intelligent_level_0">0</string>
+  <string name="face_beauty_intelligent_level_1">+1</string>
+  <string name="face_beauty_intelligent_level_2">+2</string>
+  <string name="face_beauty_intelligent_level_3">+3</string>
   <string name="face_beauty_intelligent_title">Automaticky</string>
   <string name="face_beauty_manual_title">Manuálne</string>
   <string name="face_beauty_simple_mode_title">Vylepšenie pleti</string>
