@@ -1,6 +1,0 @@
-Folder PATH listing for volume SSD-Win7 64x
-Volume serial number is DC3A-2DD5
-C:\USERS\INGBRZY\DOCUMENTS\GITHUB\MA-XML-6.0-SLOVAK\DISK:\FOLDER
-Invalid path - \USERS\INGBRZY\DOCUMENTS\GITHUB\MA-XML-6.0-SLOVAK\DISK:\FOLDER
-No subfolders exist 
-
