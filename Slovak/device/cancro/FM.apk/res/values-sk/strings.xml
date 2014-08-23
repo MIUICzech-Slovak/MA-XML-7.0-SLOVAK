@@ -44,7 +44,7 @@
   <string name="fm_cmd_failed_msg_hdmi">Operácia zlyhala. Súčasný beh rádia a HDMI nie je podporovaný.</string>
   <string name="fm_command_failed_title">Operácia zlyhala</string>
   <string name="fm_command_timeout_title">Čas vypršal</string>
-  <string name="fm_has_turned_off">FM je vypnuté</string>
+  <string name="fm_has_turned_off">Rádio je vypnuté</string>
   <string name="fm_tune_timeout_msg">Problém s ladením stanice. Pokiaľ problém pretrvá, skúste reštartovať rádio.</string>
   <string name="fmradio_clear_confirm_msg">Uložené stanice budú odstránené, pokračovať v hľadaní?</string>
   <string name="fmtx_autoselect_name">Automatický výber odstráni všetky súčasné stanice, pokračovať?</string>
