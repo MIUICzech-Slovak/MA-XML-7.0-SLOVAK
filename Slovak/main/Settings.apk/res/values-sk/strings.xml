@@ -1389,7 +1389,7 @@ Vyberte váš operačný systém:"</string>
   <string name="musicfx_title">Hudobné efekty</string>
   <string name="mvno_match_data">Hodnota MVNO</string>
   <string name="mvno_type">Typ MVNO</string>
-  <string name="nearby_wifi">Vyberte wi-fi sieť</string>
+  <string name="nearby_wifi">Vyberte Wi-Fi sieť</string>
   <string name="network_assistant">Spotreba dát</string>
   <string name="network_detail">Detail siete %s</string>
   <string name="network_error">Nastala chyba siete</string>
@@ -2576,6 +2576,7 @@ Chcete túto možnosť povoliť všetkým aplikáciám, ktoré chcú vyhľadáva
   <string name="wifi_secured_second_item">, zabezpečenie %1$s</string>
   <string name="wifi_security">Zabezpečenie</string>
   <string name="wifi_security_none">Žiadne</string>
+  <string name="wifi_setting_category">Dostupné Wi-Fi siete</string>
   <string name="wifi_setting_frequency_band_error">Pri nastavení frekvenčného pásma došlo k problému.</string>
   <string name="wifi_setting_frequency_band_summary">Uveďte prevádzkový frekvenčný rozsah</string>
   <string name="wifi_setting_frequency_band_title">Frekvenčné pásmo Wi-Fi</string>

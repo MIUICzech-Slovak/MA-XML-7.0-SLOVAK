@@ -243,7 +243,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_config_alert_ok">OK</string>
   <string name="traffic_config_alert_setted">Nastavené</string>
   <string name="traffic_config_alert_title">%s korekcia</string>
-  <string name="traffic_correction_failed">"Nie je možné získať info o spotrebe dát"</string>
+  <string name="traffic_correction_failed">Nie je možné získať info o spotrebe dát</string>
   <string name="traffic_correction_start_correction">"Kontrola so servermi operátora..."</string>
   <string name="traffic_correction_start_correction_failed">Požiadavka zlyhala, skontrolujte nastavenie operátora</string>
   <string name="traffic_correction_success">Spotreba dát aktualizovaná</string>
@@ -252,7 +252,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_protection_label">Upozornenie spotreby dát</string>
   <string name="traffic_protection_next">Ďalej</string>
   <string name="traffic_protection_summary">Nastavte upozornenia ak spotreba dosiahne limit</string>
-  <string name="traffic_protection_text_hint">Nastaviť limit mobilných dát pre %s</string>
+  <string name="traffic_protection_text_hint">Limit mobilných dát pre %s</string>
   <string name="traffic_protection_unknown">Nastaviť neskôr</string>
   <string name="traffic_protection_use_data">Dáta povolené</string>
   <string name="traffic_saving_button_sorted">Rebríček</string>
