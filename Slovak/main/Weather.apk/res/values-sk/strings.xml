@@ -68,4 +68,5 @@
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
+  <string name="activity_weathermain_locationg_error">Zistenie polohy zlyhalo</string>
 </resources>
