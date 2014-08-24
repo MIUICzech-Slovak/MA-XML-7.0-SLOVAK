@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
-  <string name="app_label">Documenty</string>
+  <string name="app_label">Dokumenty</string>
   <string name="create_error">Priečinok sa nepodarilo vytvoriť</string>
   <string name="drawer_close">Skryť korene</string>
   <string name="drawer_open">Zobraziť korene</string>
