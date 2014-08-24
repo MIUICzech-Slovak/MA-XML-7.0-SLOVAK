@@ -286,13 +286,12 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
   <string name="updated_nothing">Žiadna aktualizácia</string>
   <string name="user_agreement_p1">"Prihlásením sa, súhlasíte 
 s "</string>
-  <string name="user_agreement_p2">Podmienkami služieb Xiaomi</string>
+  <string name="user_agreement_p2">Podmienkami služieb</string>
   <string name="user_agreement_p3">" a "</string>
-  <string name="user_agreement_p4">Podmienkami súkromia</string>
+  <string name="user_agreement_p4">súkromia</string>
   <string name="user_agreement_p5">"Prihlásením sa, súhlasíte 
 s "</string>
-  <string name="user_agreement_p6">"Súhlasíte
-s "</string>
+  <string name="user_agreement_p6">"Súhlas s "</string>
   <string name="vcode">Overovací kód</string>
   <string name="vcode_notification_title">Overenie prihlásenia nie je úplné</string>
   <string name="vcode_prompt_long">Zadajte overovací kód vygenerovaný Xiaomi</string>
