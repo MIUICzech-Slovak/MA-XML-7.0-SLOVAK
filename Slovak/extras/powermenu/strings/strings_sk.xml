@@ -1,6 +1,6 @@
 <resources>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-    <string name="label_airplane_mode">Režim Lietadlo</string>
+    <string name="label_airplane_mode">Lietadlo</string>
     <string name="label_silent_mode">Tichý režim</string>
     <string name="label_reboot">Reštart</string>
     <string name="label_shutdown">Vypnúť</string>
