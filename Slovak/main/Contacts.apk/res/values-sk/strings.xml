@@ -715,7 +715,7 @@ Synchronizujte ich teraz."</string>
   <string name="preference_contacts">Kontakt</string>
   <string name="preference_contacts_display">Zobrazenie kontaktov</string>
   <string name="preference_contacts_filter">Kontakty na zobrazenie</string>
-  <string name="preference_contacts_more">Viac nastavení kontaktu</string>
+  <string name="preference_contacts_more">Viac nastavení kontakov</string>
   <string name="preference_dial_pad_touch_tone_default">Predvolené</string>
   <string name="preference_dial_pad_touch_tone_human">Ľudský hlas</string>
   <string name="preference_dial_pad_touch_tone_piano">Klavír</string>
