@@ -509,4 +509,7 @@ Pokus: %s."</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
+  <string name="festival_continue">OK</string>
+  <string name="festival_networking_desc">Táto funkcia vyžaduje pripojenie na internet.</string>
+  <string name="festival_never_remind">Viac sa nepýtať</string>
 </resources>

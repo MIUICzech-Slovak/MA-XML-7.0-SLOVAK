@@ -595,4 +595,6 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="cache_sort_type_item_name">Zoradiť podľa názvu</string>
+  <string name="cache_sort_type_item_size">Zoradiť podľa veľkosti</string>
 </resources>
