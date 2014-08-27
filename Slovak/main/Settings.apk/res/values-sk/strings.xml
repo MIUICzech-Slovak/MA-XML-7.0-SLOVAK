@@ -1384,8 +1384,8 @@ Vyberte váš operačný systém:"</string>
   <string name="music_headset_mode_volume">Hlasitosť - hore/dole</string>
   <string name="music_headset_no_contected">Nie sú pripojené slúchadlá</string>
   <string name="music_headset_settings">Slúchadlá</string>
-  <string name="music_mi_effect_summary">Vždy použiť MiSound pri použití reproduktorov</string>
-  <string name="music_mi_effect_title">Použiť MiSound</string>
+  <string name="music_mi_effect_summary">Vždy použiť Dirac HD Sound pri použití reproduktorov</string>
+  <string name="music_mi_effect_title">Dirac HD Sound</string>
   <string name="musicfx_title">Hudobné efekty</string>
   <string name="mvno_match_data">Hodnota MVNO</string>
   <string name="mvno_type">Typ MVNO</string>
@@ -2741,4 +2741,10 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="bugreport_tool_log">Vytvoriť Hlásenie o chybe</string>
+  <string name="modem_tool_log">Capture Modem Logs</string>
+  <string name="modem_tool_log_start">Spustiť</string>
+  <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
+  <string name="modem_tool_log_stop">Zastaviť</string>
+  <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
 </resources>

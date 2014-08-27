@@ -20,4 +20,10 @@
   <string name="sim_dectection_next">Pokračovať</string>
   <string name="sim_redetection">Znova skontrolovať SIM kartu</string>
   <string name="welcome">Vitajte v</string>
+  <string name="multisim_settings_category">Nastavenie preferovanej SIM</string>
+  <string name="multisim_settings_title">Našli sa 2 SIM karty</string>
+  <string name="pref_title_data_slot">Preferovaná dátová SIM karta</string>
+  <string name="pref_title_voice_slot">Preferovaná hlasová SIM karta</string>
+  <string name="summary_not_set">Nenastavené</string>
+  <string name="summary_sim_card">Karta %1$d%2$s</string>
 </resources>

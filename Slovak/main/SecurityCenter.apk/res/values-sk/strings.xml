@@ -149,12 +149,12 @@
   <string name="empty_title_ad">Žiadne reklamné súbory</string>
   <string name="empty_title_apk">Žiadne inštalačné .apk súbory</string>
   <string name="empty_title_auto_start_list">Žiadne aplikácie</string>
-  <string name="empty_title_garbage_cache">Žiadne súbory v cache</string>
+  <string name="empty_title_garbage_cache">Prázdne</string>
   <string name="empty_title_garbage_white_list">Prázdne</string>
-  <string name="empty_title_installed_apps">Žiadne aplikácie</string>
-  <string name="empty_title_large_files">Žiadne veľké súbory</string>
-  <string name="empty_title_perm_apps">Žiadne aplikácie</string>
-  <string name="empty_title_permission_apps_list">Žiadne aplikácie</string>
+  <string name="empty_title_installed_apps">Prázdne</string>
+  <string name="empty_title_large_files">Prázdne</string>
+  <string name="empty_title_perm_apps">Prázdne</string>
+  <string name="empty_title_permission_apps_list">Prázdne</string>
   <string name="empty_title_residual">Žiadne súbory</string>
   <string name="empty_title_risk_list">Žiadne aplikácie</string>
   <string name="empty_title_root_apps">Žiadne aplikácie</string>
@@ -188,7 +188,7 @@
   <string name="hints_garbage_cleanup_result_risk">Riziko</string>
   <string name="hints_garbage_cleanup_result_safe">OK</string>
   <string name="hints_garbage_handle_item_content">%1$d položky, %2$s</string>
-  <string name="hints_garbage_handle_item_empty_content">Položiek: 0</string>
+  <string name="hints_garbage_handle_item_empty_content">Prázdne</string>
   <string name="hints_get_root_disable_title">Zakázané ROOT práva: %d</string>
   <string name="hints_get_root_enable_title">Povolené ROOT práva: %d</string>
   <string name="hints_handle_item_text_risk">Riziká: %d</string>
@@ -566,7 +566,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="toast_garbage_cleanup_success">Vyčistenie dokončené</string>
   <string name="toast_garbage_list_empty">Všetko vyzerá OK, nie je potrebné čistenie!</string>
   <string name="toast_network_eror">Chyba siete!</string>
-  <string name="toast_removed_from_white_list">Odstránené z výnimiek</string>
+  <string name="toast_removed_from_white_list">" odstránené z výnimiek"</string>
   <string name="toast_root_apply_accept">ROOT práva pre %s povolené</string>
   <string name="toast_root_apply_reject">ROOT práva pre %s zakázané</string>
   <string name="toast_shortcut_install">Odkaz pridaný</string>

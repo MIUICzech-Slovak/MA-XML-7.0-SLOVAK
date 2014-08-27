@@ -305,4 +305,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usage_sorted_activity_lable">Spotreba dát</string>
   <string name="usage_sorted_empty_text">Prázdne</string>
   <string name="usage_sorted_loading_text">Načítavanie...</string>
+  <string name="datausage_ignore_app_list_count">Ignorovanie spotreby dát %d apl.</string>
+  <string name="pref_data_usage_ignore_settings">Ignorovať spotrebu dát</string>
+  <string name="pref_data_usage_ignore_settings_summary">Nesledovať spotrebu dát pre tieto aplikácie</string>
 </resources>

@@ -1143,4 +1143,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="resource_failed_to_load_list">Načítavanie zlyhalo</string>
+  <string name="resource_search_list_empty">Nič sa nenašlo</string>
 </resources>
