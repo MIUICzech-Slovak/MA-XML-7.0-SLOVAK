@@ -2747,4 +2747,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="modem_tool_log_start_toast">"Start to dump modem's log to %s"</string>
   <string name="modem_tool_log_stop">Zastaviť</string>
   <string name="modem_tool_log_stop_toast">"Stop to dump modem's log from %s"</string>
+  <string name="add_auto_startup_application">Pridať aplikáciu</string>
+  <string name="button_text_login">Prihlásiť sa</string>
+  <string name="dialog_content_login">Aktualizácia vyžaduje Xiaomi účet, chcete sa prihlásiť?</string>
+  <string name="dialog_title_login">Prihlásiť na Xiaomi účet</string>
+  <string name="make_sure_cancel_update">Zrušiť aktualizáciu?</string>
+  <string name="power_autorun_apps_empty">Žiadne aplikácie</string>
+  <string name="power_autorun_empty">Žiadne aplikácie</string>
+  <string name="headset_calibrate">Kalibrovať tlačidlá</string>
 </resources>

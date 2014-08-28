@@ -303,4 +303,8 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
+  <string name="license_host_unreachable">"Nie je možné sa pripojiť k sieti. Pre zobrazenie týchto informácií choďte na %s."</string>
+  <string name="loading">Načítavanie...</string>
+  <string name="privacy_policy">Podmienky súkromia</string>
+  <string name="user_agreement">Podmienky používania</string>
 </resources>

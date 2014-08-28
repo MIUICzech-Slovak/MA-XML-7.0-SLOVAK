@@ -231,4 +231,6 @@
   <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
+  <string name="accessibility_data_four_bars">Dáta štyri čiarky.</string>
+  <string name="accessibility_phone_four_bars">Signál štyri čiarky.</string>
 </resources>

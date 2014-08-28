@@ -512,4 +512,5 @@ Pokus: %s."</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Táto funkcia vyžaduje pripojenie na internet.</string>
   <string name="festival_never_remind">Viac sa nepýtať</string>
+  <string name="pref_title_festival_networking">Upozorniť na pripojenie</string>
 </resources>
