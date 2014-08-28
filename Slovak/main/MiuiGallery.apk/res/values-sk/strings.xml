@@ -560,7 +560,5 @@ spoločne!"</string>
   <string name="paint_cancel_title">Zrušiť zmeny</string>
   <string name="photo_paint_crop">Orezať</string>
   <string name="photo_paint_rotate">Otočiť</string>
-  <string name="remove_from_secret_failed_message_with_count">"%2$s položiek nebolo odobraných z tajných: %1$s."</string>
-  <string name="remove_from_secret_successfully_message">Odobrané z tajného albumu</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s položiek nebolo odobraných z tajných</string>
 </resources>
