@@ -2754,5 +2754,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="make_sure_cancel_update">Zrušiť aktualizáciu?</string>
   <string name="power_autorun_apps_empty">Žiadne aplikácie</string>
   <string name="power_autorun_empty">Žiadne aplikácie</string>
-  <string name="headset_calibrate">Kalibrovať tlačidlá</string>
+  <string name="headset_calibrate">Nastavenie tlačidiel</string>
 </resources>
