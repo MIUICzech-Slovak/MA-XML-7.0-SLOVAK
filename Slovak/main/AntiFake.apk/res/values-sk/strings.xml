@@ -59,7 +59,7 @@
   <string name="performance_compare">Výkon</string>
   <string name="person_check">Zdieľať</string>
   <string name="please_set_network">Nastavte sieťové pripojenie</string>
-  <string name="public_beta">Beta</string>
+  <string name="public_beta">Official</string>
   <string name="restart_app">Reštart</string>
   <string name="retry">Znova</string>
   <string name="search_road">Nájsť trasu</string>
@@ -110,4 +110,7 @@
   <string name="xiaomi_checker">Mi kontrola</string>
   <string name="xiaomi_desc">Používate Xiaomi Mi3</string>
   <string name="xiaomi_name">Beijing Xiaomi Mobile Software Co., Ltd.</string>
+  <string name="tip_uninstall">Odinštalácia</string>
+  <string name="tip_uninstall_msg">Je nutné najskôr odinštalovať starú verziu pred inštaláciou novej verzie.</string>
+  <string name="uninstall">Odinštalovať</string>
 </resources>
