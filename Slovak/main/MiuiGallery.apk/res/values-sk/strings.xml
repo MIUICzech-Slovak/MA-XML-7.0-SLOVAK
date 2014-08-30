@@ -87,7 +87,7 @@
   <string name="click_to_enter_camera">Otvoriť fotoaparát</string>
   <string name="click_top_right">Stlač ikonu vpravo hore</string>
   <string name="close">Zatvoriť</string>
-  <string name="cloud_album_more_settings">Cloud album(y) a auto upload</string>
+  <string name="cloud_album_more_settings">Cloud album a auto upload</string>
   <string name="cloud_album_set_create">Nový</string>
   <string name="cloud_album_set_scan_qr_code">QR kód</string>
   <string name="cloud_albums">Cloudové Albumy</string>
@@ -305,7 +305,7 @@ spoločne!"</string>
   <string name="menu_item_sort_size_desc">Zostupne podľa veľkosti</string>
   <string name="menu_view_contact">Zobraziť kontakt</string>
   <string name="message_no_delete_access">Prístup zamietnutý. Nemožno odstrániť súbor alebo adresár: %s</string>
-  <string name="message_no_delete_access_with_count">Nie je možné vymazať %d súbor(y) alebo zložku(y). Možno už neexistujú alebo nemáte k ním práva.</string>
+  <string name="message_no_delete_access_with_count">Nie je možné vymazať súbory(%d) alebo zložky. Možno už neexistujú alebo nemáte k ním práva.</string>
   <string name="messagelist_sender_self">Ja</string>
   <string name="miliao_folder_display_name">MiTalk</string>
   <string name="miliao_painting_folder_display_name">MiTalk skicár</string>

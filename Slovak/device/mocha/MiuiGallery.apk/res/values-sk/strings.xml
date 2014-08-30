@@ -97,7 +97,7 @@
   <string name="cloud_gallery_no_pictures">Žiadne fotografie v MiCloud</string>
   <string name="cloud_gallery_recyclebin_full">Kôš v Cloude je plný, vyprázdnite ho na stránke i.xiaomi.com</string>
   <string name="cloud_gallery_space_full">Nahrávanie zlyhalo!, Cloud úložisko galérie je plné</string>
-  <string name="cloud_media_set_set">Cloudové albumy</string>
+  <string name="cloud_media_set_set">Cloud</string>
   <string name="cloud_owner_album_share_guide">Môžete zdieľať tento album s priateľmi</string>
   <string name="cloud_screenshots_display_name">Screenshoty</string>
   <string name="cloud_share_guide_message">"Môžete zdieľať Vaše cloudové album s 
@@ -247,7 +247,7 @@ spoločne!"</string>
   <string name="home_my_captured_items">" snímkov"</string>
   <string name="home_page_tab_cloud">Cloud</string>
   <string name="home_page_tab_local">Lokálne</string>
-  <string name="home_page_tab_photo">Fotografie</string>
+  <string name="home_page_tab_photo">Foto</string>
   <string name="how_many_pics">%d\u0020Snímkov</string>
   <string name="how_many_sub_folders">%d\u0020Priečinkov</string>
   <string name="how_many_videos">%d\u0020Videí</string>

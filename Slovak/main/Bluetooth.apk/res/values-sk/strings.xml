@@ -75,7 +75,7 @@
   <string name="not_exist_file">Žiadny súbor</string>
   <string name="not_exist_file_desc">"Súbor neexistuje. 
 "</string>
-  <string name="noti_caption">Počet úspešných operácií: %1$s, počet neúspešných operácií: %2$s.</string>
+  <string name="noti_caption">%1$s úspešné, %2$s zlyhalo.</string>
   <string name="notification_received">Zdieľanie Bluetooth: Súbor %1$s bol prijatý</string>
   <string name="notification_received_fail">Zdieľanie Bluetooth: Súbor %1$s nebol prijatý</string>
   <string name="notification_receiving">Zdieľanie Bluetooth: Prijímanie súboru %1$s</string>
