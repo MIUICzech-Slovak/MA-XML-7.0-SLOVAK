@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="weather_type">
-        <item>Sunny</item>
-        <item>Cloudy</item>
-        <item>Overcast</item>
-        <item>Foggy</item>
-        <item>Heavy rainstorm</item>
-        <item>Downpour</item>
-        <item>Rainstorm</item>
-        <item>Thunderstorm</item>
-        <item>Shower</item>
-        <item>Heavy rainfall</item>
-        <item>Moderate rain</item>
-        <item>Light rain</item>
-        <item>Rain and snow mixed</item>
-        <item>Blizzard</item>
-        <item>Snow</item>
-        <item>Heavy snow</item>
-        <item>Moderate snow</item>
-        <item>Light snow</item>
-        <item>Strong sandstorm</item>
-        <item>Sand storm</item>
-        <item>Sand</item>
-        <item>Windy</item>
-        <item>Hail</item>
-        <item>Dust</item>
-        <item>Haze</item>
-        <item>Freezing rain</item>
-        <item>No data</item>
+        <item>Slnečno</item>
+        <item>Oblačno</item>
+        <item>Zamračené</item>
+        <item>Hmlisto</item>
+        <item>Búrka</item>
+        <item>Lejak</item>
+        <item>Búrka</item>
+        <item>Búrka</item>
+        <item>Dážď</item>
+        <item>Lejak</item>
+        <item>Dážď</item>
+        <item>Jemný Dážď</item>
+        <item>Dážď so snehom</item>
+        <item>Snehová búrka</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Sneženie</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Veterno</item>
+        <item>Krupobitie</item>
+        <item>Prach</item>
+        <item>Hmla</item>
+        <item>Mrznúci dážď</item>
+        <item>N/A</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
-        <item>Weakest</item>
-        <item>Weak</item>
-        <item>Mid-range</item>
-        <item>Strong</item>
-        <item>Strongest</item>
+        <item>Nízky</item>
+        <item>Slabý</item>
+        <item>Priemerný</item>
+        <item>Veľký</item>
+        <item>Silný</item>
     </string-array>
 </resources>
