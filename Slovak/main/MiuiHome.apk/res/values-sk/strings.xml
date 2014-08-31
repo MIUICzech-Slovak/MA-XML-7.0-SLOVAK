@@ -218,6 +218,6 @@
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="disable">Deaktivovať</string>
-  <string name="disable_auto_start_format">Deakttivovať %s auto spustenie</string>
+  <string name="disable_auto_start_format">Deaktivovať %s auto spustenie</string>
   <string name="disable_auto_start_message">Deaktivovať auto spustenie.</string>
 </resources>
