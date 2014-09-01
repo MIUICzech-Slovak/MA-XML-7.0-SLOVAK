@@ -617,7 +617,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="cryptkeeper_return_to_call">Späť k hovoru</string>
   <string name="current_backup_pw_prompt">Sem zadajte aktuálne heslo pre úplné zálohy.</string>
   <string name="current_input_method">Predvolené</string>
-  <string name="current_use_ese">Using embedded secure element</string>
+  <string name="current_use_ese">Používanie rozšírených bezpečnostných prvkov</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
   <string name="data_size_label">Dáta</string>
   <string name="data_usage_app_restrict_background">Obmedziť dátové prenosy na pozadí</string>
@@ -877,7 +877,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="enable_terminal_summary">Povoliť terminálovú apl. na miestny prístup k prostrediu shell</string>
   <string name="enable_terminal_title">Miestny terminál</string>
   <string name="enable_text">Povoliť</string>
-  <string name="enable_wifi_display">Povoliť Wireless display</string>
+  <string name="enable_wifi_display">Povoliť Wi-Fi displej</string>
   <string name="enforce_read_external_confirm_message">"Ak je USB úložisko chránené, aplikácie musia požadovať práva na prístup z externého úložiska. Niektoré aplikácie nemusia pracovať správne pokiaľ ich vývojár neupravil."</string>
   <string name="enforce_read_external_confirm_title">Chrániť USB úložisko?</string>
   <string name="enforce_read_external_summary">Aplikácie musia požadovať povolenie pre čítanie z USB úložiska</string>
@@ -2092,7 +2092,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="touch_sensitive_turn_off_cancel">Zrušiť</string>
   <string name="touch_sensitive_turn_off_confirm">Potvrdiť</string>
   <string name="touch_sensitive_turn_off_summary">Chcete deaktivovať Režim rukavíc?</string>
-  <string name="touch_sensitive_turn_off_title">Deaktivovaný Režim rukavíc</string>
+  <string name="touch_sensitive_turn_off_title">Deaktivovať Režim rukavíc</string>
   <string name="touch_title">Dotyky</string>
   <string name="track_frame_time">Profilové vykresľ. GPU</string>
   <string name="trackball_settings">Trackball</string>
@@ -2755,4 +2755,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="dialog_content_login">Aktualizácia vyžaduje Xiaomi účet. Chcete sa prihlásiť?</string>
   <string name="dialog_title_login">Pihlásiť sa na Xiaomi účet</string>
   <string name="make_sure_cancel_update">Zrušiť aktualizáciu?</string>
+  <string name="music_headset_button_settings">Nastavenie tlačidiel</string>
 </resources>

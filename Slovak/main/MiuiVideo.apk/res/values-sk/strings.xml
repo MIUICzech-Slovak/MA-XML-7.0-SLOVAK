@@ -181,8 +181,8 @@
   <string name="play_setting">Prehrávanie</string>
   <string name="positive_comment">Dobre komentáre</string>
   <string name="rank">Hodnotenie</string>
-  <string name="receive_mipush">Receive xiaomi push</string>
-  <string name="receive_mipush_summary">Receive notifications about new and updated online content</string>
+  <string name="receive_mipush">Príjem Xiaomi push</string>
+  <string name="receive_mipush_summary">Prijímať upozornenia o novom online obsahu</string>
   <string name="recent_play">Nedávno prehrané: Ep.%d</string>
   <string name="recentplay">Naposledy prehrávané</string>
   <string name="recommend">Odporúčané</string>
@@ -288,8 +288,8 @@
   <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
   <string name="xiaomi_user">Xiaomi užívateľ</string>
   <string name="yesterday">"Včera "</string>
-  <string name="defaults">Default</string>
-  <string name="done">Done</string>
-  <string name="fullscreen">Fullscreen</string>
-  <string name="no_longer_tips">"Don't show again"</string>
+  <string name="defaults">Predvolené</string>
+  <string name="done">Hotovo</string>
+  <string name="fullscreen">Celá obrazovka</string>
+  <string name="no_longer_tips">Viac sa nepýtať</string>
 </resources>

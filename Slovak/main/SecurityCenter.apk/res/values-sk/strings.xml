@@ -64,8 +64,8 @@
   <string name="battery_history_minutes">%1$d min %2$d s</string>
   <string name="battery_history_minutes_no_seconds">%1$d min.</string>
   <string name="battery_history_seconds">%1$d s</string>
-  <string name="brightness_auto_adjust_off">Manuálny jas môžete nastaviť posúvaním. Jas sa nebude meniť v zavislosti na okolnom osvetlení.</string>
-  <string name="brightness_auto_adjust_on">Automatický jas môžete nastaviť posúvaním. Jas sa bude meniť v zavislosti na okolnom osvetlení a Vašom nastavení.</string>
+  <string name="brightness_auto_adjust_off">Manuálny jas môžete nastaviť posúvaním. Jas sa nebude meniť v závislosti na okolnom osvetlení.</string>
+  <string name="brightness_auto_adjust_on">Automatický jas môžete nastaviť posúvaním. Jas sa bude meniť v závislosti na okolnom osvetlení a vašom nastavení.</string>
   <string name="btn_text_cleanup_all">Vyčistiť</string>
   <string name="btn_text_done">Hotovo</string>
   <string name="btn_text_quick_cleanup">Vyčistiť</string>
@@ -143,9 +143,9 @@
   <string name="dialog_title_auto_start_declare">O auto-štarte</string>
   <string name="dialog_title_backup_and_uninstall_apps">Zálohovať a odinštalovať</string>
   <string name="dialog_title_check_all">Všetko</string>
-  <string name="dialog_title_load_cleanup_engine_error">Error</string>
-  <string name="dialog_title_stop_virus_scan">Stop virus scan</string>
-  <string name="dialog_title_uninstall_apps">Uninstall</string>
+  <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
+  <string name="dialog_title_stop_virus_scan">Zastaviť skenovanie</string>
+  <string name="dialog_title_uninstall_apps">Odinštalovať</string>
   <string name="empty_title_ad">Žiadne reklamné súbory</string>
   <string name="empty_title_apk">Žiadne inštalačné .apk súbory</string>
   <string name="empty_title_auto_start_list">Žiadne aplikácie</string>
@@ -162,7 +162,7 @@
   <string name="empty_title_system_process_list">Žiadne procesy</string>
   <string name="empty_title_virus_list">Žiadne aplikácie</string>
   <string name="enable_mobile_data_when_opening_hotspot">Povoliť aj mobilné dáta?</string>
-  <string name="every_day">Kaťdý deň</string>
+  <string name="every_day">Každý deň</string>
   <string name="examination_score_100">Všetko vyzerá byť v poriadku!</string>
   <string name="examination_score_60_0">Mali by ste optimalizovať Vaše zariadenie</string>
   <string name="examination_score_80_100">Niektoré položky môžu byť optimalizované</string>
@@ -182,7 +182,7 @@
   <string name="hints_cache_header_left">Cache: %d</string>
   <string name="hints_cleanning_text">Čistenie...</string>
   <string name="hints_finish_quick_cleanup">Dokončené</string>
-  <string name="hints_finish_quick_cleanup_title">Dokočiť čistenie %s odpadu</string>
+  <string name="hints_finish_quick_cleanup_title">Dokončené čistenie %s odpadu</string>
   <string name="hints_finish_quick_scan">Dokončené</string>
   <string name="hints_garbage_cleanup_result_danger">Nebezpečné</string>
   <string name="hints_garbage_cleanup_result_risk">Riziko</string>
@@ -398,8 +398,7 @@
   <string name="power_dialog_cpu_state_save_desc">Priorita je čo najdlhšia životnosť batérie na úkor výkonu</string>
   <string name="power_dialog_cpu_state_title">Využitie CPU</string>
   <string name="power_dialog_delete_dialog_cannot_delete_default">"Nie je možné vymazať. Profil sa práve používa."</string>
-  <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">"Can't delete: Your device is set to switch to this configuration, 
- You need to change your battery settings before you can delete this configuration."</string>
+  <string name="power_dialog_delete_dialog_cannot_delete_is_my_mode">Nie je možné vymazať: Vaše zariadenie je nastavené sa prepnúť do tohto profilu. Musíte najskôr zmeniť toto nastavenie</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_battery">"Nie je možné vymazať: Vaše zariadenie je nastavené sa prepnúť do tohto profilu ak je nízka energia batérie. 
  Musíte zmeniť toto nastavenie predtým ako chcete vymazať tento profil."</string>
   <string name="power_dialog_delete_dialog_cannot_delete_low_out_battery">"Nie je možné vymazať.
@@ -456,7 +455,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="power_mode_vibration_silence">Vibrovať ak sú stíšené zvuky</string>
   <string name="power_mode_vibration_yes">Vždy</string>
   <string name="power_mode_wifi">Wi-Fi</string>
-  <string name="power_new_choose_mode">Zvoľťe možnosti</string>
+  <string name="power_new_choose_mode">Zvoľte možnosti</string>
   <string name="power_notify_lowbattery">Batéria je menej ako %1$d%%</string>
   <string name="power_phone">Hlasové hovory</string>
   <string name="power_recovery_mode">Obnovené na profil: %1$s</string>
@@ -504,7 +503,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="pref_summary_cleanup_white_list">Súbory v zozname budú ignorované pri čistení</string>
   <string name="pref_summary_expand_cache_group">Skupiny v zozname cache budú rozbalené</string>
   <string name="pref_summary_garbage_cleanup_check_size">Upozorniť ma ak nepotrebné súbory a aplikácie dosiahnu maximálnu veľkosť</string>
-  <string name="pref_summary_garbage_cleanup_check_time">Upozorniť ma keď čas dosiahne učitý interval</string>
+  <string name="pref_summary_garbage_cleanup_check_time">Upozorniť ma keď čas dosiahne určitý interval</string>
   <string name="pref_title_auto_update_cleanup_db">Auto. aktualizácia</string>
   <string name="pref_title_cleanup_white_list">Zoznam ignorovaných</string>
   <string name="pref_title_expand_cache_group">Rozbaliť skupinu</string>
