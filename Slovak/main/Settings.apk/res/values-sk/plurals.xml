@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="show_dev_countdown">
         <item quantity="other">Počet krokov do získania stavu vývojára: %1$d.</item>
@@ -53,5 +52,17 @@
     <plurals name="print_search_result_count_utterance">
         <item quantity="other">Počet nájdených tlačiarní: %1$s</item>
         <item quantity="one">Našla sa %1$s tlačiareň</item>
+    </plurals>
+    <plurals name="show_pho_countdown">
+        <item quantity="other">Počet krokov do získania stavu zariadenia: %1$d.</item>
+        <item quantity="one">Počet krokov do získania stavu zariadenia: %1$d.</item>
+    </plurals>
+    <plurals name="show_cit_countdown">
+        <item quantity="other">Počet krokov od vstupu do servisného menu: %1$d.</item>
+        <item quantity="one">Počet krokov od vstupu do servisného menu: %1$d.</item>
+    </plurals>
+    <plurals name="show_rep_countdown">
+        <item quantity="other">Počet krokov od nahlásenia chyby: %1$d.</item>
+        <item quantity="one">Počet krokov od nahlásenia chyby: %1$d.</item>
     </plurals>
 </resources>
