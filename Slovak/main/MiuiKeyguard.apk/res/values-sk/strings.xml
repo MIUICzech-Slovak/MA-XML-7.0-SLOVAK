@@ -28,7 +28,7 @@ Deaktivujte režim Lietadlo."</string>
   <string name="input_pin_code_to_unlock">Zadajte PIN pre odomknutie</string>
   <string name="input_puk_code">Zadajte PUK</string>
   <string name="input_puk_code_to_unlock">Zadajte PUK kód pre odblokovanie zariadenia</string>
-  <string name="lock_screen_date">EEEE, dd. MMMM</string>
+  <string name="lock_screen_date">EE, dd.MM</string>
   <string name="lockscreen_access_pattern_cell_added">Bunka bola pridaná</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostný vzor bol vymazaný</string>
   <string name="lockscreen_access_pattern_detected">Bezpečnostný vzor bol dokončený</string>
