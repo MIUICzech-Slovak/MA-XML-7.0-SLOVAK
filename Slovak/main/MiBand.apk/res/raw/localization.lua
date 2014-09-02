@@ -12,6 +12,7 @@ zh_TW = 'zh_TW'
 en_US = 'en_US'
 en_GB = 'en_GB'
 sk_SK = 'sk_SK'
+cs_CZ = 'cs_CZ'
 en = 'en'
 g_CurLocale = ""
 -------------Globals----------------
@@ -43,6 +44,7 @@ localization_table = {
     zh_CN = localization_Chinese_table,
     zh_TW = localization_zh_rTW_table,
     sk_SK = localization_Slovak_table,
+    cs_CZ = localization_Czech_table,
 }
 
 function getString(string_locale)
@@ -56,6 +58,8 @@ function getString(string_locale)
         curTable = localization_table[zh_TW];
     elseif (getCurLocale() == sk_SK) then
         curTable = localization_table[sk_SK];
+    elseif (getCurLocale() == cs_CZ) then
+        curTable = localization_table[cs_CZ];
     end
 
     return curTable[string_locale];

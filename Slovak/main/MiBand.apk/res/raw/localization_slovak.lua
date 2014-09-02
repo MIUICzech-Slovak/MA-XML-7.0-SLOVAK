@@ -22,9 +22,9 @@ localization_Slovak_table = {
 
     welcome_use="Vitajte, ja som váš MiBand.",
     last_week_walked_format='Minulý týždeň ste prešli %d krokov.',
-    last_week_walked_info_format='Prešli ste %d km a spálili %d kcal.',
+    last_week_walked_info_format='Prešli ste %d km a spálili %d cal.',
     last_month_walked_format='Minulý mesiac ste prešli %d krokov.',
-    last_month_walked_info_format='Prešli ste %d km a spálili %d kcal.',
+    last_month_walked_info_format='Prešli ste %d km a spálili %d cal.',
 
     get_over_format=", okolo %d gramov tuku.",
     click_to_get_help="Pozrite sa čo dokáže MiBand.",
@@ -49,11 +49,11 @@ localization_Slovak_table = {
     activie_run_format_0="Zabehli ste %s. Skvelé!",
     activie_run_format_1="Zabehli ste %s. Len tak ďalej!",
     activie_run_format_2="Zabehli ste %s, Neskutočné!",
-    activie_run_consumed="Spálili ste %d kcal. %s",
+    activie_run_consumed="Spálili ste %d cal. %s",
 
     get_distance_format=", celkovo z %dm.",
     activity_walk_format="%s Chôdza %d krokov %s",
-    activity_walk_consumed_format="Spálené %d kcal %s",
+    activity_walk_consumed_format="Spálené %d cal %s",
 
     activity_activity_format="%s Urobil %s %s",
     last_night_sleeped_good_format="Minulú noc, ste spali %dh %dmin. Skvelý spánok!",
@@ -65,4 +65,7 @@ localization_Slovak_table = {
 
     cannot_find_bracelet="Nebolo možné nájsť váš MiBand?",
     cannot_find_bracelet_info="Uistite sa, že váš MiBand je nabitý a nachádza sa v blízkosti vášho telefónu.",
+    challenge_to_get="%s dní od nového rekordu!",
+    record_reach_max="Dosiahli ste svoj rekord!",
+    new_record_born="Nový rekord!",
  }

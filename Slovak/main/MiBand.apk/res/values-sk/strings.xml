@@ -8,12 +8,12 @@
   <string name="action_local_ota">SD card update</string>
   <string name="action_pop_about">Informácie</string>
   <string name="action_pop_my_bracelet">Môj MiBand</string>
-  <string name="action_pop_person_info">Osobné informácie</string>
+  <string name="action_pop_person_info">Môj profil</string>
   <string name="action_pop_smart_alarms">Inteligentný Budík</string>
   <string name="action_pop_unlock_screen">Odomknúť zariadenie</string>
   <string name="action_pop_weixin_enter">Weixing</string>
   <string name="age">Vek</string>
-  <string name="ages">Rok</string>
+  <string name="ages">Rokov</string>
   <string name="alarm">Budík</string>
   <string name="alarm_cycle">Cyklus</string>
   <string name="alarm_device_not_connect">Pripojte MiBand a upravte nastavenie budíka</string>
@@ -33,8 +33,8 @@ Súhlas: %2$s"</string>
   <string name="battery_charge_full">Nabité</string>
   <string name="battery_charging">Nabíjanie...</string>
   <string name="battery_low_info">Slabá batéria</string>
-  <string name="before_min">pred %s minútami</string>
-  <string name="bin_weixin_device_not_connect">Link with your Wechat to share and compete with your friends.</string>
+  <string name="before_min">pred %s min.</string>
+  <string name="bin_weixin_device_not_connect">MiBand nie je prepojený.</string>
   <string name="bind_bracelet">Nájdený MiBand</string>
   <string name="bind_bracelet_ok">MiBand je pripojený</string>
   <string name="bind_new_mili">Pripojiť nový MiBand</string>
@@ -90,8 +90,8 @@ Adresa: %2$s"</string>
   <string name="date_this_month">Tento mesiac</string>
   <string name="date_this_week">Tento týždeň</string>
   <string name="date_today">Dnes</string>
-  <string name="date_year_month">yyyyMMM</string>
-  <string name="date_year_month_day">yyyy-MMM-d</string>
+  <string name="date_year_month">MMM, yyyy</string>
+  <string name="date_year_month_day">d.MMM yyyy</string>
   <string name="date_yesterday">Včera</string>
   <string name="day">Deň</string>
   <string name="day_active_detail">Denné štatistiky</string>
@@ -106,15 +106,15 @@ Adresa: %2$s"</string>
   <string name="downloading_apk">MiBand</string>
   <string name="dynamic_detail_modify_sleep_end_time">Upraviť čas vstávania</string>
   <string name="dynamic_detail_modify_sleep_start_time">Upraviť čas spánku</string>
-  <string name="dynamic_detail_sleep_title">Spánok %s</string>
+  <string name="dynamic_detail_sleep_title">%s</string>
   <string name="dynamic_detail_sleep_title_yesterday">Včerajší spánok</string>
   <string name="dynamic_detail_step_share_title">Aktivity %s</string>
-  <string name="dynamic_detail_step_title">Výsledky %s</string>
+  <string name="dynamic_detail_step_title">%s</string>
   <string name="dynamic_detail_step_title_today">Dnes</string>
   <string name="dynamic_pull_connect_failed">Spojenie zlyhalo, skúste to znova</string>
   <string name="dynamic_pull_connect_failed_hint">Je MiBand nabitý?</string>
   <string name="dynamic_pull_connecting_bracelet">Pripájanie k MiBand...</string>
-  <string name="dynamic_pull_last_sync_time">Posledná synchr.</string>
+  <string name="dynamic_pull_last_sync_time">Posledná synchr. %s</string>
   <string name="dynamic_pull_not_sync_today">Dnes nesynchronizované</string>
   <string name="dynamic_pull_pull_to_sync">Potiahnite nadol pre synchr.</string>
   <string name="dynamic_pull_release_to_sync">Pustite pre synchr.</string>
@@ -196,7 +196,7 @@ Adresa: %2$s"</string>
   <string name="help_title_2">Je váš MiBand nabitý?</string>
   <string name="help_title_3">Je MiBand spárovaný s iným telefónom?</string>
   <string name="hot_des">Energia</string>
-  <string name="hour_1">h</string>
+  <string name="hour_1"/>
   <string name="incoming_call_notify">Prichádzajúci hovor</string>
   <string name="incoming_call_notify_tips">Upozorniť ma na zmeškaný hovor o %s s.</string>
   <string name="input_precise_person_info">Zadajte vaše presné údaje pre vypočet cvičenia a optimálneho spánku</string>
@@ -236,15 +236,15 @@ Adresa: %2$s"</string>
   <string name="mili_unbind_question">Po odpojení od telefónu už nebude možné prijímať informácie z MiBand</string>
   <string name="mili_unbind_question_content">Po odpojení od vášho telefónu môžete MiBand spojiť s iným telefónom alebo pripojiť iný MiBand.</string>
   <string name="mili_unbind_question_content_1">Ak ste už nastavili odomykanie telefónu pomocou MiBand, táto funkcia bude automaticky deaktivovaná.</string>
-  <string name="minute">min</string>
+  <string name="minute"/>
   <string name="modify_gender">Pohlavie</string>
   <string name="modify_height">Výška</string>
   <string name="modify_nickname">Upraviť meno</string>
   <string name="modify_signiture">Upraviť stav</string>
   <string name="modify_signiture_hint">Stav</string>
   <string name="modify_weight">Váha</string>
-  <string name="mon_fri">Pondelok až Piatok</string>
-  <string name="mon_sat">Pondelok až Sobota</string>
+  <string name="mon_fri">Pon. až Pia.</string>
+  <string name="mon_sat">Pon. až Sob.</string>
   <string name="month">Mesiac</string>
   <string name="move_and_capture">Hýbať a Zachytiť</string>
   <string name="multi_devices_info">Našlo sa viac MiBand v okolí. Prejdite ďalej a skúste vyhľadať znova</string>
@@ -286,13 +286,14 @@ Adresa: %2$s"</string>
   <string name="red">Červená</string>
   <string name="register">Registrovať</string>
   <string name="remain_days_format">Dní od nabíjania: %s dní</string>
+  <string name="remain_days_today_format">Menej ako jeden deň od nabitia</string>
   <string name="rename_mili">Názov</string>
   <string name="reset_mili">Reset MiBand</string>
   <string name="retry">Znova</string>
   <string name="right_hand">Pravá ruka</string>
   <string name="runed">Zabehnuté</string>
   <string name="s_mili">MiBand</string>
-  <string name="search_bracelet">Vyhľadať MiBand</string>
+  <string name="search_bracelet">Vyhľadávanie</string>
   <string name="search_bracelet_again">Znova vyhľadať</string>
   <string name="search_bracelet_ok">MiBand nájdený!</string>
   <string name="search_devices_info">Vyhľadať MiBand v blízkosti telefónu</string>
@@ -339,13 +340,13 @@ Average sleep time is %5$s, Average awake time is %6$s."</string>
   <string name="share_sleep_title_average">Priemerný spánok</string>
   <string name="share_sleep_title_daily">Spánok</string>
   <string name="share_step_description">"Prejdené %1$s, spálené kalórie %2$s cal "</string>
-    <string name="share_step_description_monthly">"Walked %1$s%2$s
- burned %3$s cal, and you saved %4$s gallons gas.
-(thanks for protecting our earth)
-The highest record is %5$s, walked %6$s steps."</string>
-  <string name="share_step_description_weekly">"Did %1$s%2$s
-Burned %3$s cal.
-Highest daily record is %4$s, walked %5$s steps."</string>
+    <string name="share_step_description_monthly">"%1$s%2$s
+ spálené %3$s cal, a ušetrené %4$s litrov paliva.
+(Ďakujeme, že chránite našu Zem)
+Najvyšší rekord je %5$s, prejdených %6$s krokov."</string>
+  <string name="share_step_description_weekly">"%1$s%2$s
+Spálené %3$s cal.
+Najvyšší denný rekord je %4$s, prejdených %5$s krokov."</string>
   <string name="share_step_goal_failed_title">Celkovo</string>
   <string name="share_step_goal_failed_title_today">Celkom</string>
   <string name="share_step_goal_succ_title">Cieľ splnený</string>
@@ -460,7 +461,7 @@ Highest daily record is %4$s, walked %5$s steps."</string>
   <string name="wait">Čakajte prosím...</string>
   <string name="walked">prejdené</string>
   <string name="wear_hand">Zápästie</string>
-  <string name="weared_days">Nosené v dňoch</string>
+  <string name="weared_days">Dní celkovo</string>
   <string name="week">Týždeň</string>
   <string name="welcom_back">Vitajte späť</string>
   <string name="welcome">Vitajte</string>
@@ -468,4 +469,8 @@ Highest daily record is %4$s, walked %5$s steps."</string>
   <string name="your_gender">Vaše pohlavie</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
+  <string name="first_use_days_today_format">Menej ako jeden deň od prvého použitia.</string>
+  <string name="first_use_remain_days_format">%s dní od prvého použitia</string>
+  <string name="until">"Do "</string>
+  <string name="continue_reach_goal_new_record">Vytvorený nový rekord</string>
 </resources>
