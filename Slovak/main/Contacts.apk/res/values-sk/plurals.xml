@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
 <resources>
     <plurals name="listTotalPhoneContacts">
-        <item quantity="other">Zobrazujem %d kontaktov s telefónnym číslom</item>
-        <item quantity="one">Zobrazujem 1 kontakt s telefónnym číslom</item>
+        <item quantity="other">Zobrazených %d kontaktov s telefónnym číslom</item>
+        <item quantity="one">Zobrazený 1 kontakt s telefónnym číslom</item>
     </plurals>
     <plurals name="listTotalAllContacts">
-        <item quantity="other">Zobrazujem %d kontaktov</item>
-        <item quantity="one">Zobrazujem 1 kontakt</item>
+        <item quantity="other">Zobrazených %d kontaktov</item>
+        <item quantity="one">Zobrazený 1 kontakt</item>
     </plurals>
     <plurals name="listFoundAllContacts">
         <item quantity="other">Nájdené %d kontaktov</item>
@@ -39,8 +38,8 @@
         <item quantity="one">%1$d číslo</item>
     </plurals>
     <plurals name="notification_voicemail_title">
-        <item quantity="other">%1$d Hlasových mailov</item>
-        <item quantity="one">Hlasový mail</item>
+        <item quantity="other">%1$d Hlasových správ</item>
+        <item quantity="one">Hlasová správa</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Vybraných: %1$d</item>
