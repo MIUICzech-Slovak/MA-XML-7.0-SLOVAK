@@ -807,4 +807,20 @@ Môže to trvať aj 5 minút."</string>
   <string name="select_voice_call_sim">vyberte</string>
   <string name="uplmn_list_setting_add_plmn">Nový PLMN</string>
   <string name="uplmn_list_setting_title">Preferované siete</string>
+  <string name="call_record_off_summary">Nahrávanie deaktivované</string>
+  <string name="call_record_on_summary">Nahrávanie aktivované</string>
+  <string name="call_record_setting">Nahrávanie hovorov</string>
+  <string name="call_waiting_tone_stop_summary"/>
+  <string name="cloud_antispam_title">Anti-Spam</string>
+  <string name="general_setting">Všeobecné nastavenia</string>
+  <string name="preference_dial_pad_touch_tone_default">Predvolené</string>
+  <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
+  <string name="preference_dial_pad_touch_tone_piano">Klavír</string>
+  <string name="preference_dial_pad_touch_tone_title">Tóny číselníka</string>
+  <string name="preference_telocation_summary_countrycode_off">Nepridávať automaticky kód krajiny</string>
+  <string name="preference_telocation_summary_countrycode_on">Automaticky pridať kód krajiny</string>
+  <string name="preference_telocation_summary_teloc_off">Skryť miesto</string>
+  <string name="preference_telocation_summary_teloc_on">Zobraziť miesto</string>
+  <string name="preference_telocation_title">Poloha volajúceho</string>
+  <string name="telephony_setting">Telefonovanie</string>
 </resources>
