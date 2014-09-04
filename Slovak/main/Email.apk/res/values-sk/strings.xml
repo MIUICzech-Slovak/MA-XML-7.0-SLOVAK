@@ -510,7 +510,7 @@ Kópia: %4$s
   <string name="mute">Ignorovať</string>
   <string name="name_or_number_is_error">Chybné meno alebo heslo</string>
   <string name="network_error">Bez pripojenia</string>
-  <string name="network_not_available">Network connection is not available, please try again later</string>
+  <string name="network_not_available">Sieť je nedostupná, skúste to znova neskôr</string>
   <string name="new_incoming_messages_one">Nová správa od %s. Zobraziť.</string>
   <string name="new_messages">Počet nových správ: %1$d</string>
   <string name="next_action">Ďalej</string>
@@ -775,4 +775,6 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="message_type_name">správa</string>
+  <string name="tryrefreshing">Skúste obnoviť...</string>
 </resources>

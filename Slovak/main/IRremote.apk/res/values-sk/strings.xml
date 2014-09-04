@@ -156,4 +156,21 @@
   <string name="video_name_recommend">Odporučiť</string>
   <string name="video_name_score">Hodnotenie</string>
   <string name="video_play_count_label">Prehrané:</string>
+  <string name="management_video_recent_watch">Nedávne</string>
+  <string name="management_video_favor">História</string>
+  <string name="management_app_management">Správa aplikácií</string>
+  <string name="management_settings">Nastaviť</string>
+  <string name="connected">Pripojené</string>
+  <string name="privacy_title">Podmienky používania</string>
+  <string name="privacy_content">Chystáte sa využívať naše služby. Potvrdením súhlasíte s Podmienkami používania a súkromia.</string>
+  <string name="privacy_nohit">Viac nezobrazovať</string>
+  <string name="privacy_agree">OK</string>
+  <string name="privacy_disagree">Nesúhlasím</string>
+  <string name="mitv_assistant_setting_version">Verzia V%1$s</string>
+  <string name="input_complete">Hotovo</string>
+  <string name="input_speech_button">Stlačte a podržte</string>
+  <string name="app_user_used">Vužívajú %1$s ľudia</string>
+  <string name="app_open_intv">Otvoriť v TV</string>
+  <string name="app_open_inbox">Otvoriť v BOXE</string>
+  <string name="speech_init_failed">Nebola nájdená aplikácia iFlytek, chcete ju nainštalovať?</string>
 </resources>
