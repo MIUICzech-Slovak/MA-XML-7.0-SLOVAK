@@ -542,4 +542,7 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
+  <string name="pref_camera_front_fb_title">Vylepšiť farbu pleti</string>
+  <string name="pref_priority_storage_title">Uložiť na SD kartu</string>
 </resources>
