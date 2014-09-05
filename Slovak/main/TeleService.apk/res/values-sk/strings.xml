@@ -108,7 +108,6 @@
   <string name="call_waiting_summary">Informovať ma o prichádzajúcich hovoroch aj počas hovoru</string>
   <string name="call_waiting_title">Čakajúci hovor</string>
   <string name="call_waiting_tone_continuously">Prehrávať tón nepretržite</string>
-  <string name="call_waiting_tone_stop_summary">(Stlačením tlačidla hlasitosti môžete tón vypnúť manuálne)</string>
   <string name="call_waiting_tone_title">Tón čakajúceho hovoru</string>
   <string name="call_waiting_tone_twice_and_vibrate">Prehrať tón výzvy a 2x vibrovať</string>
   <string name="call_waiting_tone_twice_only">Prehrať 2x iba tón</string>
