@@ -209,4 +209,7 @@ From the top of the screen slide downwards to use it."</string>
   <string name="enable_mikey_sprite">Enable MiKey wizard</string>
   <string name="dialog_title_disable_mikey_sprite">Disable MiKey wizard?</string>
   <string name="disable_mikey_sprite">Disable MiKey wizard</string>
+  <string name="action_baidusearch">Baidu search</string>
+  <string name="select_baidusearch">Baidu search</string>
+  <string name="select_baiduvoicesearch">Baidu voice search</string>
 </resources>
