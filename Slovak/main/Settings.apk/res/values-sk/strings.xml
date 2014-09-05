@@ -2756,4 +2756,11 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="dialog_title_login">Pihlásiť sa na Xiaomi účet</string>
   <string name="make_sure_cancel_update">Zrušiť aktualizáciu?</string>
   <string name="music_headset_button_settings">Nastavenie tlačidiel</string>
+  <string name="apply_update_fail">Aktualizácia systému zlyhala</string>
+  <string name="download_current_rom">Stiahnuť najnovšiu verziu ROM</string>
+  <string name="install_whole_rom">Nie je stiahnutá správna ROM alebo zip súbor je poškodený</string>
+  <string name="later">Neskôr</string>
+  <string name="mione_update_success_title">Aktualizované</string>
+  <string name="now">Teraz</string>
+  <string name="view_install_log">Zobraziť záznam</string>
 </resources>
