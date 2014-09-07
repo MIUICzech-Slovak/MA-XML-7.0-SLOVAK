@@ -2763,4 +2763,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="mione_update_success_title">Aktualizované</string>
   <string name="now">Teraz</string>
   <string name="view_install_log">Zobraziť záznam</string>
+  <string name="enable_mobile_data_when_opening_hotspot">Povoliť aj mobilné dáta?</string>
 </resources>
