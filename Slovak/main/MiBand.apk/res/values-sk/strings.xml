@@ -481,12 +481,12 @@ Spálené %3$scal.
 Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
   <string name="share_step_description_monthly_run">"%1$s, zabehnuté %2$s
  %3$s, a ušetrili ste %4$s litrov paliva.
-(Ďakujeme, že chránite našú Zem)
+(Ďakujeme, že chránite našu Zem)
 Najvyšší rekord bol %5$s, prejdené %6$s krokov."</string>
   <string name="share_continue_goal_format_run">"Prejdené %1$s, zabehnuté %2$s krokov
 %3$s
 %4$s"</string>
-  <string name="until_hit_goals">Pokračujte za splením cieľa do %s</string>
+  <string name="until_hit_goals">Pokračujte za splnením cieľa do %s</string>
     <string name="bind_weixin_new_tips">"点击“微信接入”启动微信进入小米手环帐号页面，
 然后点击“关注”按钮即可完成接入"</string>
     <string name="bind_weixin_new_now">正在进行微信接入，请稍候......</string>

@@ -91,4 +91,5 @@
     </string-array>
     <string-array name="weather_haze">
         <item>Hmla</item>
+	</string-array>
 </resources>
