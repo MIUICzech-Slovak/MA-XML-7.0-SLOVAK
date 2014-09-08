@@ -265,7 +265,7 @@ Adresa: %2$s"</string>
   <string name="noti_bracelet_low_battery_title_none">Slabá batéria v MiBand</string>
   <string name="odo">Celkovo</string>
   <string name="one_min">Pred minútou</string>
-  <string name="one_week">Jeden týždeň</string>
+  <string name="one_week">Tento týždeň</string>
   <string name="orange">Oranžová</string>
   <string name="person_info_finished_info">Nastavenie MiBand dokončené!</string>
   <string name="person_info_goal_info">Podľa Svetovej Zdravotníckej Organizácie by ste mali behať aspoň 40min denne s minimom 8000 krokov</string>
@@ -324,18 +324,18 @@ Adresa: %2$s"</string>
   <string name="share_blog_title">Zdieľať</string>
   <string name="share_blog_weibo">Weibo</string>
   <string name="share_blog_weixin">Weixin</string>
-  <string name="share_continue_goal_format">"Walked total of %1$s steps, %2$s steps per day
+  <string name="share_continue_goal_format">"Prejdené celkovo %1$s krokov, %2$s krokov denne
 %3$s%4$s"</string>
-  <string name="share_goal_tips_fail">Not far from your goal, just need a bit more hard work.</string>
-  <string name="share_goal_tips_succ">"Have a great plan?
-Take your first step."</string>
-  <string name="share_miliao_too_old">MiTalk version is too old.</string>
-  <string name="share_play_ground_format">"It's about %1$s laps of track."</string>
-    <string name="share_sleep_description">"In deep sleep stage for %1$s hr and %2$s min, 
-in light sleep stage for %3$s hr and %4$s min.
-In sleep: %5$s. Awake: %6$s"</string>
-  <string name="share_sleep_description_average">"Average slept %1$s hr %2$s min in deep sleep stage, %3$s hr and %4$s min in light sleep stage.
-Average sleep time is %5$s, Average awake time is %6$s."</string>
+  <string name="share_goal_tips_fail">Nie ste ďaleko od vášho cieľa.</string>
+  <string name="share_goal_tips_succ">"Máte skvelý plán?
+Vykročte dopredu."</string>
+  <string name="share_miliao_too_old">Verzia MiTalk je príliš stará.</string>
+  <string name="share_play_ground_format">Je to okolo %1$s kôl z dráhy.</string>
+    <string name="share_sleep_description">V hlbokom spánku %1$sh a %2$smin, 
+v ľahkom spánku %3$sh a %4$smin.
+Spánok: %5$s. Aktivita: %6$s"</string>
+  <string name="share_sleep_description_average">Priemerne %1$sh %2$smin v hlbokom spánku, %3$sh a %4$smin ľahkého spánku.
+Priemerný čas spánku je %5$s, priemerný čas aktivity %6$s."</string>
   <string name="share_sleep_title">Minulá noc</string>
   <string name="share_sleep_title_average">Priemerný spánok</string>
   <string name="share_sleep_title_daily">Spánok</string>
@@ -473,4 +473,38 @@ Najvyšší denný rekord je %4$s, prejdených %5$s krokov."</string>
   <string name="first_use_remain_days_format">%s dní od prvého použitia</string>
   <string name="until">"Do "</string>
   <string name="continue_reach_goal_new_record">Vytvorený nový rekord</string>
+  <string name="share_step_description_run">"Prejdené %1$s, Zabehnuté %2$s
+Spálené %3$scal.
+"</string>
+  <string name="share_step_description_weekly_run">"Celkovo %1$s, zabehnuté %2$s
+%3$s
+Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
+  <string name="share_step_description_monthly_run">"%1$s, zabehnuté %2$s
+ %3$s, a ušetrili ste %4$s litrov paliva.
+(Ďakujeme, že chránite našú Zem)
+Najvyšší rekord bol %5$s, prejdené %6$s krokov."</string>
+  <string name="share_continue_goal_format_run">"Prejdené %1$s, zabehnuté %2$s krokov
+%3$s
+%4$s"</string>
+  <string name="until_hit_goals">Pokračujte za splením cieľa do %s</string>
+    <string name="bind_weixin_new_tips">"点击“微信接入”启动微信进入小米手环帐号页面，
+然后点击“关注”按钮即可完成接入"</string>
+    <string name="bind_weixin_new_now">正在进行微信接入，请稍候......</string>
+    <string name="bind_weixin_new_disable_tips">"接入微信关注小米手环服务号后即可通过微信查看当
+前步数，并且与朋友圈中的好友们一起PK运动排行"</string>
+    <string name="weather_aqi">Kvalita ovzdušia %s</string>
+    <string name="weather_description_rain">Zrážky</string>
+    <string name="weather_description_rain_snow">Dážď so snehom</string>
+    <string name="weather_description_snow">Sneťenie</string>
+    <string name="weather_description_sand">Piesok</string>
+    <string name="weather_description_fine">Jasno</string>
+    <string name="weather_description_cloudy">Oblačno</string>
+    <string name="weather_description_overcast">Zamračené</string>
+    <string name="weather_description_fog">Hmla</string>
+    <string name="weather_description_haze">Hmla</string>
+    <string name="fw_low_battery_title">Pre aktualizovanie FW je nutné nabiť MiBand</string>
+    <string name="fw_low_battery_tips" formatted="false">"MiBand je nabitý len na 5%. Pripojte ho k nabíjačke 
+a aktualizácia sa spustí automaticky po nabití MiBand"</string>
+    <string name="fw_low_battery_view_help">Pomoc</string>
+    <string name="in">V </string>
 </resources>
