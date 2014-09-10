@@ -49,7 +49,7 @@
   <string name="download_list_intoAuth">Prístup k autorizácií MIUI</string>
   <string name="download_list_intoAuthAlert">Čakajte prosím</string>
   <string name="download_list_open_xl_cancel">Zrušiť</string>
-  <string name="download_list_open_xl_message">Prístup k Xunlei sťahovaniu，neobmedzenému sťahovanie vyskou rýchlosťou.</string>
+  <string name="download_list_open_xl_message">Prístup k Xunlei sťahovaniu, neobmedzenému sťahovanie vyskou rýchlosťou.</string>
   <string name="download_list_open_xl_ok">Odmietnuť</string>
   <string name="download_list_open_xl_title">Xunlei sťahovanie</string>
   <string name="download_no_application_title">Súbor nie je možné otvoriť</string>
@@ -63,7 +63,7 @@
   <string name="download_title">Sťahovanie</string>
   <string name="download_title_sorted_by_date">Prevzatia – zoradené podľa dátumu</string>
   <string name="download_title_sorted_by_size">Prevzatia – zoradené podľa veľkosti</string>
-  <string name="download_wait_connect">Sťahovanie čaká na pripojenie</string>
+  <string name="download_wait_connect">Čaká na pripojenie</string>
   <string name="download_when_network_connected">Wi-Fi + Mobilné dáta</string>
   <string name="downloads_operating">Pracujem...</string>
   <string name="dredge_xunlei_account">Registrovať Xunlei účet</string>
@@ -97,10 +97,10 @@
   <string name="pause_download">Pauza</string>
   <string name="paused_by_app">Pozastavené</string>
   <string name="paused_insufficient_space">Čakanie na voľné miesto</string>
-  <string name="paused_queued_for_wifi">Pozastavené, čakám na Wi-Fi pripojenie</string>
+  <string name="paused_queued_for_wifi">Čaká na Wi-Fi</string>
   <string name="paused_unknown">Pozastavené</string>
-  <string name="paused_waiting_for_network">Pozastavené, čakám na pripojenie k sieti</string>
-  <string name="paused_waiting_to_retry">Pozastavené, čakám na obnovenie</string>
+  <string name="paused_waiting_for_network">Čaká na pripojenie</string>
+  <string name="paused_waiting_to_retry">Čaká na obnovenie</string>
   <string name="period_of_validity">Platnosť:</string>
   <string name="pref_download_settings_title">Využitie dát</string>
   <string name="pref_summary_any_bytes_popup">Sťahovať len cez Wi-Fi</string>
