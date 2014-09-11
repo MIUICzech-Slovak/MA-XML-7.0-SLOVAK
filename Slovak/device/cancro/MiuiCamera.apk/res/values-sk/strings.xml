@@ -546,11 +546,6 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_priority_storage_title">Uložiť na SD kartu</string>
   <string name="cannot_move_warning_message">Vytvára sa fotografia. Nehýbte s telefónom.</string>
   <string name="object_track_enable_toast">Potiahnite prstom po displeji pre sledovanie objektu.</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Auto-capture when stable</string>
-  <string name="pref_camera_auto_capture_when_stable_title">Auto. zachytiť keď sa zastaví</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
-  <string name="pref_video_quality_entry_4kuhd">4K</string>
   <string name="simple_mode_button_text_ubifocus">Ukončiť</string>
-  <string name="ubi_focus_capture_fail">Chyba, skúste to znova</string>
-  <string name="ubifocus_capture_warning_message">Je lepšie ak náhľad obsahuje blízke (menej ako 1m od objektívu) a ďaleké objekty</string>
 </resources>
