@@ -1431,7 +1431,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="webpage_unresponsive">"Stránka nereaguje.
 
 Chcete ju zavrieť?"</string>
-  <string name="websearch">Hľadať na webe</string>
+  <string name="websearch">Vyhľadať</string>
   <string name="webviewchromium_accessibility_content_view">Webové zobrazenie</string>
   <string name="webviewchromium_accessibility_date_picker_month">Mesiac</string>
   <string name="webviewchromium_accessibility_date_picker_week">Týždeň</string>
