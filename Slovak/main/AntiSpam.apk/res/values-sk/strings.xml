@@ -256,4 +256,8 @@
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
+  <string name="fw_blocked_join">" a "</string>
+  <string name="sim_not_ready">SIM karta nie je pripravená</string>
+  <string name="st_title_not_sim">Prázdne</string>
+  <string name="st_title_sim_card">%1$s-SIM %2$s</string>
 </resources>

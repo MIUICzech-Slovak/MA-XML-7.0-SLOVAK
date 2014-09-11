@@ -392,7 +392,7 @@
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
   <string name="onscreen_audio_mode_handset">Hands-free</string>
   <string name="onscreen_audio_mode_headset">Headphones</string>
-  <string name="onscreen_audio_mode_speaker">Slúchadlo</string>
+  <string name="onscreen_audio_mode_speaker">Reproduktor</string>
   <string name="onscreen_audio_switch_mode">Prepnúť zvuk</string>
   <string name="onscreen_call_record">Nahrať</string>
   <string name="onscreen_dialer">Klávesnica</string>

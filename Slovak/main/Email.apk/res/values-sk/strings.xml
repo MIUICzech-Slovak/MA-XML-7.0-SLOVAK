@@ -109,7 +109,7 @@
   <string name="account_setup_failed_security">Pripojenie k serveru sa nepodarilo otvoriť kvôli chybe zabezpečenia.</string>
   <string name="account_setup_failed_security_policies_unsupported">Tento server vyžaduje bezpečnostné funkcie, ktoré vaše zariadenie so systémom Android nepodporuje (vrátane: %s).</string>
   <string name="account_setup_failed_tls_required">Vyžaduje sa služba TLS, ale server ju nepodporuje.</string>
-  <string name="account_setup_incoming_delete_policy_delete_label">Pri odstránení z Doručenej pošty</string>
+  <string name="account_setup_incoming_delete_policy_delete_label">Pri odstránení z Koša</string>
   <string name="account_setup_incoming_delete_policy_label">Odstraňovať e-maily zo servera</string>
   <string name="account_setup_incoming_delete_policy_never_label">Nikdy</string>
   <string name="account_setup_incoming_headline">Nastavenia servera prichádzajúcej pošty</string>
@@ -777,4 +777,5 @@ Delta update size: %2$s"</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
   <string name="message_type_name">správa</string>
   <string name="tryrefreshing">Skúste obnoviť...</string>
+  <string name="feedback_sent">Ďakujeme za váš názor.</string>
 </resources>

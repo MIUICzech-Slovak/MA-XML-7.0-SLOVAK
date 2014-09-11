@@ -4,7 +4,7 @@
   <string name="Only_the_wifi">Efektívne len cez Wi-Fi</string>
   <string name="all_downloads">Všetky sťahovania</string>
   <string name="all_fileter">Všetko</string>
-  <string name="all_the_internet">Všetky pripojenia</string>
+  <string name="all_the_internet">"Použiť "</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">Sťahovanie z aplikácie %s</string>
   <string name="app_label">Sťahovanie</string>

@@ -36,4 +36,14 @@
         <item>Veľký</item>
         <item>Silný</item>
     </string-array>
+    <string-array name="wind_direction">
+        <item>Vietor S</item>
+        <item>Vietor SV</item>
+        <item>Vietor V</item>
+        <item>Vietor JV</item>
+        <item>Vietor J</item>
+        <item>Vietor JZ</item>
+        <item>Vietor Z</item>
+        <item>Vietor SZ</item>
+    </string-array>
 </resources>

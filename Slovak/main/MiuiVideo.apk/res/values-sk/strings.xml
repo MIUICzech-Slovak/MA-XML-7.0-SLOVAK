@@ -292,4 +292,7 @@
   <string name="done">Hotovo</string>
   <string name="fullscreen">Celá obrazovka</string>
   <string name="no_longer_tips">Viac sa nepýtať</string>
+  <string name="prefix_countdown">Reklama:</string>
+  <string name="suffix_countdown">s</string>
+  <string name="vp_newest_ep">Najnovšia</string>
 </resources>
