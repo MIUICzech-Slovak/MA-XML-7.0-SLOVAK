@@ -119,7 +119,7 @@ Využité %s | Ostáva %s"</string>
   <string name="app_sync_off">Synchr. apl vypnutá</string>
   <string name="cloud_sync_setting_summary_standard">Štandard: Synchronizovať cez Wi-Fi fotografie, video, MMS, dáta aplikácií a ostatné cez mobilné dáta</string>
   <string name="cloud_sync_setting_summary_wlan">Len cez Wi-Fi: Synchr. všetko len cez Wi-Fi</string>
-  <string name="contact">Kontakty</string>
+  <string name="contact">Kontaktov</string>
   <string name="current">Súčasné</string>
   <string name="data_syncing">Synchr. dát</string>
   <string name="detail">Podrobnosti</string>
@@ -133,7 +133,7 @@ Využité %s | Ostáva %s"</string>
   <string name="micloud_storage_usage" formatted="false">Využité %s / Celkovo %s</string>
   <string name="normal">Normálne</string>
   <string name="only_in_wlan">Len cez Wi-Fi</string>
-  <string name="photo">Fotografie</string>
+  <string name="photo">Fotografií</string>
   <string name="setting">Nastavenia</string>
   <string name="sms">SMS</string>
   <string name="space">Kapacita</string>
@@ -149,7 +149,7 @@ Využité %s | Ostáva %s"</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_main_data_unsynced">%d nesynchr.</string>
-  <string name="micloud_main_last_sync_time">Naposledy: </string>
+  <string name="micloud_main_last_sync_time">Naposledy</string>
   <string name="micloud_main_network_error">Sieť je nedostupná. Skontrolujte vaše nastavenia a skúste to znova.</string>
   <string name="micloud_main_stop_sync">Ukončiť synchr.</string>
   <string name="micloud_main_suggest_sync">Vaše dáta nie sú synchronizované.</string>
@@ -159,6 +159,6 @@ Využité %s | Ostáva %s"</string>
   <string name="micloud_unlogin_for_time_summary" />
   <string name="micloud_unlogin_for_time_title">Povoliť MiCloud</string>
   <string name="remind_later">Neskôr</string>
-  <string name="sync_item_calllog_summary">Synchr. zoznam hovorov z tohto zaridenia</string>
+  <string name="sync_item_calllog_summary">Synchr. zoznam hovorov z tohto zariadenia</string>
   <string name="sync_item_calllog_title">Zoznam hovorov</string>
 </resources>
