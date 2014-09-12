@@ -130,7 +130,7 @@ Adresa: %2$s"</string>
   <string name="dynamic_sleep_deep_title">Hlboký spánok %s</string>
   <string name="dynamic_sleep_shallow">Ľahký spánok</string>
   <string name="dynamic_sleep_tip">Celkovo</string>
-  <string name="dynamic_step_tip">Počet krokov</string>
+  <string name="dynamic_step_tip">Aktuálne krokov</string>
   <string name="dynamic_tip_sleep_unsynced">Neaktualizované</string>
   <string name="dynamic_tip_step_sync_time_hour">Pred %d h</string>
   <string name="dynamic_tip_step_sync_time_min">Pred %d min</string>
@@ -198,7 +198,7 @@ Adresa: %2$s"</string>
   <string name="hot_des">Energia</string>
   <string name="hour_1"/>
   <string name="incoming_call_notify">Prichádzajúci hovor</string>
-  <string name="incoming_call_notify_tips">Upozorniť ma na zmeškaný hovor o %s s.</string>
+  <string name="incoming_call_notify_tips">Upozorniť ma naprichádzajúci hovor po %ss.</string>
   <string name="input_precise_person_info">Zadajte vaše presné údaje pre vypočet cvičenia a optimálneho spánku</string>
   <string name="instruction_tip_1">Pozrite sa na priebeh vášho cvičenia</string>
   <string name="instruction_tip_2_1">Menej ako 1/3 z vášho cieľa</string>
@@ -376,11 +376,11 @@ Najvyšší denný rekord je %4$s, prejdených %5$s krokov."</string>
   <string name="stat_sleep_average">Spánok</string>
   <string name="stat_sleep_deep">Hlboký spánok</string>
   <string name="stat_sleep_deep_average">Denný hlboký spánok</string>
-  <string name="stat_sleep_rise_time">Prebudenie</string>
+  <string name="stat_sleep_rise_time">Spánok do</string>
   <string name="stat_sleep_rise_time_average">Čas prebudenia</string>
   <string name="stat_sleep_shallow">Ľahký spánok</string>
   <string name="stat_sleep_shallow_average">Denný ľahky spánok</string>
-  <string name="stat_sleep_time">Spánok</string>
+  <string name="stat_sleep_time">Spánok od</string>
   <string name="stat_sleep_time_average">Čas spánku</string>
   <string name="stat_sleep_wake">Aktivita</string>
   <string name="stat_sleep_wake_average">Čas aktivity</string>
