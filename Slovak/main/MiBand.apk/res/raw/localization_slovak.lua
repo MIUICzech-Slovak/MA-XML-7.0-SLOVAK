@@ -51,7 +51,7 @@ localization_Slovak_table = {
     activie_run_format_2="Zabehli ste %s, Neskutočné!",
     activie_run_consumed="Spálili ste %d cal. %s",
 
-    get_distance_format=", celkovo z %dm.",
+    get_distance_format=", celkovo %dm.",
     activity_walk_format="%s Chôdza %d krokov %s",
     activity_walk_consumed_format="Spálené %d cal %s",
 
