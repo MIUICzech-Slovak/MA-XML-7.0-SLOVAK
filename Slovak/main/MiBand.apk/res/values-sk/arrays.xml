@@ -39,16 +39,16 @@
   <item>Vlastné</item> 
   </string-array>
  <string-array name="fortune">
-        <item>"It's easy to hit goal for one day but hard for every day."</item>
-        <item>"It's not an easy thing to achieve a goal every single day."</item>
-        <item>You are making new record everyday!</item>
-        <item>Enjoy building a better you!</item>
-        <item>You are never a loser until you quit trying.</item>
-        <item>We are what we repeatedly do. Excellence, then, is not an act, but a habit.</item>
-        <item>Achieve one goal a day.</item>
-        <item>Keep challenge yourself to be better today.</item>
-        <item>Just do it.</item>
-        <item>Keep practicing, winning will take care of itself.</item>
+        <item>Je ľahké dosiahnuť svoj cieľ raz. Oveľa ťažšie je dosiahnuť ho každý deň.</item>
+        <item>Je ťažké dosiahnuť svoj cieľ každý deň.</item>
+        <item>Robíte nový rekord každý deň!</item>
+        <item>Užite si byť lepší!</item>
+        <item>Nikdy neprehráte kým sa neprestanete snažiť.</item>
+        <item>Sme tým, čo robíme každý deň.</item>
+        <item>Dosiahnite svoj cieľ každý deň.</item>
+        <item>Dnes môžete byť ešte lepší.</item>
+        <item>Urobte to.</item>
+        <item>Pokračujte v dosahovaní vašich cieľov.</item>
   </string-array>
     <string-array name="weather_rains">
         <item>Lejak</item>
