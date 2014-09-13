@@ -333,9 +333,9 @@ Vykročte dopredu."</string>
   <string name="share_play_ground_format">Je to okolo %1$s kôl z dráhy.</string>
     <string name="share_sleep_description">V hlbokom spánku %1$sh a %2$smin, 
 v ľahkom spánku %3$sh a %4$smin.
-Spánok: %5$s. Aktivita: %6$s"</string>
+Zaspanie: %5$s. Zobudenie: %6$s"</string>
   <string name="share_sleep_description_average">Priemerne %1$sh %2$smin v hlbokom spánku, %3$sh a %4$smin ľahkého spánku.
-Priemerný čas spánku je %5$s, priemerný čas aktivity %6$s."</string>
+Priemerný čas zaspávania %5$s, priemerný čas zobudenia %6$s."</string>
   <string name="share_sleep_title">Minulá noc</string>
   <string name="share_sleep_title_average">Priemerný spánok</string>
   <string name="share_sleep_title_daily">Spánok</string>
@@ -366,7 +366,7 @@ Najvyšší denný rekord je %4$s, prejdených %5$s krokov."</string>
   <string name="smart_alarm_notify">Inteligentné budenie</string>
   <string name="smart_wake_up">Inteligentné budenie</string>
   <string name="smart_wake_up_info">"Povoliť budenie v stave ľahkého spánku v rozpätí 
-  30min pred nastaveným časom budenia"</string>
+30min pred nastaveným časom budenia"</string>
   <string name="start">Začiatok</string>
   <string name="start_download">Sťahovanie...</string>
   <string name="start_use">Začať</string>
