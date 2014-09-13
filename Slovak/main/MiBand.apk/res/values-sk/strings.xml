@@ -77,7 +77,7 @@ Adresa: %2$s"</string>
   <string name="content_too_short">Nie je možné nechať prázdne</string>
   <string name="continue_reach_goal">Dosiahnúť cieľe</string>
   <string name="continue_tips_format">Pokračujte %1$s dní pre dosiahnutie cieľa</string>
-  <string name="daily_sporty">Kroky denne</string>
+  <string name="daily_sporty">Krokov denne</string>
   <string name="date_from_to">%1$s do %2$s</string>
   <string name="date_from_to_short">%1$s-%2$s</string>
   <string name="date_last_month">Posledný mesiac</string>
@@ -124,11 +124,11 @@ Adresa: %2$s"</string>
   <string name="dynamic_pull_syncing_progress">Synchr. %s%%</string>
   <string name="dynamic_pull_update_report">Aktualizovaných záznamov: %s</string>
   <string name="dynamic_sleep_active">Aktívny</string>
-  <string name="dynamic_sleep_active_end">Pripravte sa na vstávanie</string>
-  <string name="dynamic_sleep_active_start">Je čas ísť spať</string>
-  <string name="dynamic_sleep_deep">Hlboký spánok</string>
+  <string name="dynamic_sleep_active_end">Vstávanie</string>
+  <string name="dynamic_sleep_active_start">Zaspávanie</string>
+  <string name="dynamic_sleep_deep">Hlboký</string>
   <string name="dynamic_sleep_deep_title">Hlboký spánok %s</string>
-  <string name="dynamic_sleep_shallow">Ľahký spánok</string>
+  <string name="dynamic_sleep_shallow">Ľahký</string>
   <string name="dynamic_sleep_tip">Celkovo</string>
   <string name="dynamic_step_tip">Aktuálne krokov</string>
   <string name="dynamic_tip_sleep_unsynced">Neaktualizované</string>
@@ -198,7 +198,7 @@ Adresa: %2$s"</string>
   <string name="hot_des">Energia</string>
   <string name="hour_1"/>
   <string name="incoming_call_notify">Prichádzajúci hovor</string>
-  <string name="incoming_call_notify_tips">Upozorniť ma naprichádzajúci hovor po %ss.</string>
+  <string name="incoming_call_notify_tips">Upozorniť ma na prichádzajúci hovor po %ss.</string>
   <string name="input_precise_person_info">Zadajte vaše presné údaje pre vypočet cvičenia a optimálneho spánku</string>
   <string name="instruction_tip_1">Pozrite sa na priebeh vášho cvičenia</string>
   <string name="instruction_tip_2_1">Menej ako 1/3 z vášho cieľa</string>
@@ -246,7 +246,7 @@ Adresa: %2$s"</string>
   <string name="mon_fri">Pon. až Pia.</string>
   <string name="mon_sat">Pon. až Sob.</string>
   <string name="month">Mesiac</string>
-  <string name="move_and_capture">Hýbať a Zachytiť</string>
+  <string name="move_and_capture">Vyberte svoj obrázok</string>
   <string name="multi_devices_info">Našlo sa viac MiBand v okolí. Prejdite ďalej a skúste vyhľadať znova</string>
   <string name="multi_devices_title">Nie je možné spojenie s MiBand</string>
   <string name="network_error">Žiadne internetové spojenie, skúste to znova</string>
@@ -263,7 +263,7 @@ Adresa: %2$s"</string>
   <string name="noti_bracelet_low_battery_content_none">MiBand je nutné pripojiť k nabíjačke</string>
   <string name="noti_bracelet_low_battery_title">Slabá batéria v MiBand</string>
   <string name="noti_bracelet_low_battery_title_none">Slabá batéria v MiBand</string>
-  <string name="odo">Celkovo</string>
+  <string name="odo">Vzdialenosť (km)</string>
   <string name="one_min">Pred minútou</string>
   <string name="one_week">Tento týždeň</string>
   <string name="orange">Oranžová</string>
@@ -365,8 +365,9 @@ Najvyšší denný rekord je %4$s, prejdených %5$s krokov."</string>
   <string name="smart_alarm_clock">Inteligentný budík</string>
   <string name="smart_alarm_notify">Inteligentné budenie</string>
   <string name="smart_wake_up">Inteligentné budenie</string>
-  <string name="smart_wake_up_info">Povoliť budenie v stave ľahkého spánku v rozpätí 30min pred nastaveným časom budenia</string>
-  <string name="start">Štart</string>
+  <string name="smart_wake_up_info">"Povoliť budenie v stave ľahkého spánku v rozpätí 
+  30min pred nastaveným časom budenia"</string>
+  <string name="start">Začiatok</string>
   <string name="start_download">Sťahovanie...</string>
   <string name="start_use">Začať</string>
   <string name="start_weixin">Open Wechat</string>
@@ -375,11 +376,11 @@ Najvyšší denný rekord je %4$s, prejdených %5$s krokov."</string>
   <string name="stat_sleep_achievement">Priebeh</string>
   <string name="stat_sleep_average">Spánok</string>
   <string name="stat_sleep_deep">Hlboký spánok</string>
-  <string name="stat_sleep_deep_average">Denný hlboký spánok</string>
+  <string name="stat_sleep_deep_average">Hlboký spánok denne</string>
   <string name="stat_sleep_rise_time">Spánok do</string>
   <string name="stat_sleep_rise_time_average">Čas prebudenia</string>
   <string name="stat_sleep_shallow">Ľahký spánok</string>
-  <string name="stat_sleep_shallow_average">Denný ľahky spánok</string>
+  <string name="stat_sleep_shallow_average">Ľahky spánok denne</string>
   <string name="stat_sleep_time">Spánok od</string>
   <string name="stat_sleep_time_average">Čas spánku</string>
   <string name="stat_sleep_wake">Aktivita</string>
