@@ -151,7 +151,7 @@ Adresa: %2$s"</string>
   <string name="failed_enable_bt">Povoľte Bluetooth</string>
   <string name="feedback">Spätná väzba</string>
   <string name="female">Žena</string>
-  <string name="find_bracelet">Vyhľadať MiBand</string>
+  <string name="find_bracelet">Nájsť stratený MiBand</string>
   <string name="find_bracelet_warning">Počas vyhľadávania MiBand sa zvýši spotreba batérie.</string>
   <string name="finding_bracelet">Vyhľadávanie MiBand...</string>
   <string name="firmware_upgrade">Aktualizovať firmware</string>
