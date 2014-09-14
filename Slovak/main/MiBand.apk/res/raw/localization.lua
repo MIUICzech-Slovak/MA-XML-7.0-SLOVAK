@@ -13,9 +13,21 @@ en_US = 'en_US'
 en_GB = 'en_GB'
 sk_SK = 'sk_SK'
 cs_CZ = 'cs_CZ'
+pl_PL = 'pl_PL'
+hr_HR = 'hr_HR'
+hu_HU = 'hu_HU'
+bg_BG = 'bg_BG'
+it_IT = 'it_IT'
+fr_FR = 'fr_FR'
 en = 'en'
 sk = 'sk'
 cs = 'cs'
+pl = 'pl'
+hu = 'hu'
+hr = 'hr'
+bg = 'bg'
+it = 'it'
+fr = 'fr'
 g_CurLocale = ""
 -------------Globals----------------
 
@@ -45,6 +57,12 @@ localization_table = {
     en = localization_English_table,
 	cs = localization_Czech_table,
 	sk = localization_Slovak_table,
+    pl = localization_Polish_table,
+	bg = localization_Bulgarian_table,
+	it = localization_Italian_table,
+    hr = localization_Croatian_table,
+	hu = localization_Hungarian_table,
+	fr = localization_French_table,
     zh_CN = localization_Chinese_table,
     zh_TW = localization_zh_rTW_table,
 }
@@ -62,7 +80,19 @@ function getString(string_locale)
         curTable = localization_table[cs];
     elseif (getCurLocale() == sk_SK) then
         curTable = localization_table[sk];		
-    end
+    elseif (getCurLocale() == pl_PL) then
+        curTable = localization_table[pl];	
+    elseif (getCurLocale() == hu_HU) then
+        curTable = localization_table[hu];	
+    elseif (getCurLocale() == it_IT) then
+        curTable = localization_table[it];	
+    elseif (getCurLocale() == bg_BG) then
+        curTable = localization_table[bg];	
+    elseif (getCurLocale() == hr_HR) then
+        curTable = localization_table[hr];	
+    elseif (getCurLocale() == fr_FR) then
+        curTable = localization_table[fr];			
+	end
 
     return curTable[string_locale];
 end
