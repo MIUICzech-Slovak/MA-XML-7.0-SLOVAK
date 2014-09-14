@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Dashboard_App">Aplikácie</string>
   <string name="Dashboard_HIPS_Disable_Content">Vypnutie zastaví sledovanie požiadaviek od aplikácií. Tým pádom MIUI prestane chrániť Vašu bezpečnosť a súkromie. Určite chcete sledovanie vypnúť?</string>
@@ -25,7 +25,7 @@
   <string name="Dashboard_Perm_SU_Disabled_In_Stable">ROOT nie je dostupný v Stabilnej verzii MIUI</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"Povolenie práv ROOT aplikáciám tretích strán môže spôsobiť nestabilitu systému, stratu Vašich osobných dát alebo poškodenie telefónu. Pre povolenie ROOT prejdite na vývojársku verziu MIUI."</string>
   <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">Stiahnuť MIUI</string>
-  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miui.cz/</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_URL">http://www.miuios.cz/</string>
   <string name="Dashboard_Perm_SU_Switch">Práva ROOT</string>
   <string name="Dashboard_Su_Enable_Content">Povoliť práva ROOT? Aplikácie s týmito právami môžu spôsobiť nestabilitu systému, alebo stratu dát, prípadne i poškodenie systému a hardwaru. Buďte prosím opatrný. Skutočne ich chcete povoliť?</string>
   <string name="Dashboard_Su_Enable_Title">Práva ROOT</string>

@@ -26,7 +26,7 @@
         },
         {
             "title":"Zoznam zmien MIUI",
-            "url":"http://www.miui.cz/miui-changelog",
+            "url":"http://www.miuios.cz/miui-changelog",
             "thumbnail":"change-cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
@@ -50,7 +50,7 @@
         },
         {
             "title":"MIUI CZECH&SLOVAK",
-            "url":"http://miui.cz/",
+            "url":"http://miuios.cz/",
             "thumbnail":"miui_cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
@@ -172,7 +172,7 @@
         },
         {
             "title":"Zoznam zmien MIUI",
-            "url":"http://www.miui.cz/miui-changelog",
+            "url":"http://www.miuios.cz/miui-changelog",
             "thumbnail":"change-cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",
@@ -196,7 +196,7 @@
         },
         {
             "title":"MIUI CZECH&SLOVAK",
-            "url":"http://miui.cz/",
+            "url":"http://miuios.cz/",
             "thumbnail":"miui_cz-sk.png",
             "logobg":"bg01.9.png",
             "nightModeMask": "night.9.png",

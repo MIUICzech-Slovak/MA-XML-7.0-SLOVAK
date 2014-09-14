@@ -1,6 +1,6 @@
 -------------------------
 -- Slovak Localization String resources
--- miui.cz (2014)
+-- miuios.cz (2014)
 -- ingbzry
 -------------------------
 localization_Slovak_table = {

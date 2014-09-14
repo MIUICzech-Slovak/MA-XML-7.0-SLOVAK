@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miui.cz-->
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="action_settings">Nastavenia</string>
   <string name="alread_check_num">Skontrolované</string>
@@ -51,7 +51,7 @@
   <string name="msg_skip_set_cpu_model">Vaše zariadenie stále nie je nastavené na Výkonný režim. Výsledky môžu byť výrazne skreslené.</string>
   <string name="msg_unsupport_device">Ak ste zakúpili toto zariadenie, jedná sa pravdepodobne o napodobeninu (FAKE). Používanie tohto zariadenia môže ohroziť vaše zdravie alebo majetok!</string>
   <string name="msg_unsupport_device_mode">Xiaomi Mi4, Xiaomi MiPAD a Xiaomi MiTV nie sú momentálne podporované touto aplikáciou.</string>
-  <string name="msg_update_failed">Pre manuálne stiahnutie najnovšej verzie aplikácie navštívte miui.cz/antifake</string>
+  <string name="msg_update_failed">Pre manuálne stiahnutie najnovšej verzie aplikácie navštívte miuios.cz/antifake</string>
   <string name="msg_update_right_now">Súčasná verzia je zastaraná</string>
   <string name="near_last_center">Najbližšie predajné miesto:</string>
   <string name="not_xiaomi">Toto nie je Xiaomi telefón</string>
@@ -66,8 +66,8 @@
   <string name="sensors">Senzory</string>
   <string name="set_cpu_mode">Tento krok je veľmi dôležitý</string>
   <string name="set_network">Nastaviť sieťové pripojenie</string>
-  <string name="share_content_first">Môj produkt Xiaomi je originál, skontrolujte si svoje zariadenie stiahnutím app na miui.cz/antifake</string>
-  <string name="share_content_second">Kontrola Xiaomi overí pravosť vášho Xiaomi zariadenia. Aplikáciu na overenie pravosti nájdete na miui.cz/antifake</string>
+  <string name="share_content_first">Môj produkt Xiaomi je originál, skontrolujte si svoje zariadenie stiahnutím app na miuios.cz/antifake</string>
+  <string name="share_content_second">Kontrola Xiaomi overí pravosť vášho Xiaomi zariadenia. Aplikáciu na overenie pravosti nájdete na miuios.cz/antifake</string>
   <string name="share_result">Zdieľať</string>
   <string name="skip_right_now">Preskočiť</string>
   <string name="start_check">Skontrolovať</string>

@@ -60,15 +60,15 @@
             "siteId": 05,
             "imageId": 293,
             "title": "MIUI CZECH&SLOVAK",
-            "url": "http://miui.cz/",
+            "url": "http://miuios.cz/",
             "favicon": "",
             "displayName": "MIUI CZECH&SLOVAK",
             "position": 4,
             "movable": true,
             "isDelete": true,
             "recommend": false,
-            "alias": "http://miui.cz/",
-            "matchUrl": "http://miui.cz/"
+            "alias": "http://miuios.cz/",
+            "matchUrl": "http://miuios.cz/"
         },
                 {
             "siteId": 06,
@@ -214,11 +214,11 @@
             "siteId": 05,
             "imageId": 293,
             "title": "MIUI CZECH&SLOVAK",
-            "url": "http://miui.cz/",
+            "url": "http://miuios.cz/",
             "favicon": "",
             "displayName": "MIUI CZECH&SLOVAK",
-            "alias": "http://miui.cz/",
-            "matchUrl": "http://miui.cz/"
+            "alias": "http://miuios.cz/",
+            "matchUrl": "http://miuios.cz/"
         },
                 {
             "siteId": 06,
