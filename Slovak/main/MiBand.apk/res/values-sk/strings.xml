@@ -460,7 +460,7 @@ Najvyšší denný rekord je %4$s, prejdených %5$s krokov."</string>
   <string name="user_agreement">Podmienky používania a Ochrany súkromia</string>
   <string name="visit_micom">Oficálny web Xiaomi</string>
   <string name="wait">Čakajte prosím...</string>
-  <string name="walked">prejdené</string>
+  <string name="walked">"Prejdené "</string>
   <string name="wear_hand">Zápästie</string>
   <string name="weared_days">Dní celkovo</string>
   <string name="week">Týždeň</string>
@@ -484,19 +484,19 @@ Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
  %3$s, a ušetrili ste %4$s litrov paliva.
 (Ďakujeme, že chránite našu Zem)
 Najvyšší rekord bol %5$s, prejdené %6$s krokov."</string>
-  <string name="share_continue_goal_format_run">"Prejdené %1$s, zabehnuté %2$s krokov
+  <string name="share_continue_goal_format_run">"Prejdené %1$s, zabehnuté %2$s
 %3$s
 %4$s"</string>
   <string name="until_hit_goals">Pokračujte za splnením cieľa do %s</string>
-    <string name="bind_weixin_new_tips">"点击“微信接入”启动微信进入小米手环帐号页面，
-然后点击“关注”按钮即可完成接入"</string>
-    <string name="bind_weixin_new_now">正在进行微信接入，请稍候......</string>
-    <string name="bind_weixin_new_disable_tips">"接入微信关注小米手环服务号后即可通过微信查看当
-前步数，并且与朋友圈中的好友们一起PK运动排行"</string>
+    <string name="bind_weixin_new_tips">"Tap Link with Wechat to start, 
+then tap Follow to complete sync."</string>
+    <string name="bind_weixin_new_now">Syncing with Wechat, one moment...</string>
+    <string name="bind_weixin_new_disable_tips">"After link with your Wechat account and follow Mi Band's Wechat service account, 
+you can check information like the number of steps taken through Wechat. You can also see your result status among your friends."</string>
     <string name="weather_aqi">Kvalita ovzdušia %s</string>
     <string name="weather_description_rain">Zrážky</string>
     <string name="weather_description_rain_snow">Dážď so snehom</string>
-    <string name="weather_description_snow">Sneťenie</string>
+    <string name="weather_description_snow">Sneženie</string>
     <string name="weather_description_sand">Piesok</string>
     <string name="weather_description_fine">Jasno</string>
     <string name="weather_description_cloudy">Oblačno</string>
@@ -508,4 +508,13 @@ Najvyšší rekord bol %5$s, prejdené %6$s krokov."</string>
 a aktualizácia sa spustí automaticky po nabití MiBand"</string>
     <string name="fw_low_battery_view_help">Pomoc</string>
     <string name="in">V </string>
+	<string name="main_ui_share_tips">"Cvičil som %1$s%2$s dnes.
+%3$s"</string>
+    <string name="ran">"zabehnuté "</string>
+    <string name="main_ui_sleep_share_tips">"Ľahký spánok %1$s%2$s
+Zaspal som o %3$s, prebudil sa o %4$s."</string>
+    <string name="awake_format">, prebudený %1$s krát.</string>
+    <string name="awake_format_1">, prebudený raz.</string>
+    <string name="discard">Zrušiť</string>
+    <string name="discard_alarm_change">Zrušiť zmeny?</string>
 </resources>
