@@ -508,7 +508,7 @@ you can check information like the number of steps taken through Wechat. You can
 a aktualizácia sa spustí automaticky po nabití MiBand"</string>
     <string name="fw_low_battery_view_help">Pomoc</string>
     <string name="in">V </string>
-	<string name="main_ui_share_tips">"Cvičil som %1$s%2$s dnes.
+	<string name="main_ui_share_tips">"Cvičil som dnes %1$s%2$s.
 %3$s"</string>
     <string name="ran">"zabehnuté "</string>
     <string name="main_ui_sleep_share_tips">"Ľahký spánok %1$s%2$s
