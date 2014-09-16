@@ -73,7 +73,6 @@
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prázdna zložka</string>
   <string name="dlg_error_unmount_text">"Nie je možné odobrať USB úložisko. Skúste to znova."</string>
-  <string name="download_current_progress">%1$d/100</string>
   <string name="download_failed">Sťahovanie zlyhalo!</string>
   <string name="download_link_completed">Zdieľam %1$s cez MiDrive. Kliknite na linku nižšie: </string>
   <string name="downloading">Sťahovanie...</string>
@@ -261,7 +260,7 @@ Získali ste ďalších %1$s"</string>
   <string name="storage_sd_card">SD karta</string>
   <string name="storage_usb">USB úložisko</string>
   <string name="storage_warning">SD karta nie je prístupné alebo sa nedá čítať.</string>
-  <string name="sys_size_enable">Povoliť</string>
+  <string name="sys_size_enable">" Voľné"</string>
   <string name="tab_category">Kategórie</string>
   <string name="tab_expand">Rozbaliť</string>
   <string name="tab_local">Lokálne</string>
@@ -308,4 +307,18 @@ Získali ste ďalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
+  <string name="connect_network_setting_des">Upozorniť na prístup k sieti</string>
+  <string name="copy_file_to_kuaipan">Kopírovať na MiDrive</string>
+  <string name="downloading_in_3g">Sťahovanie cez 3G...</string>
+  <string name="file_already_downlaoded">Súbor uložený do \"%1$s\"</string>
+  <string name="image_download">Stiahnuť</string>
+  <string name="image_share">Zdieľať</string>
+  <string name="network_connect_confirm_des">Používanie MiDrive vyžaduje prístup k sieti, chcete ho povoliť?</string>
+  <string name="never_notify_network_connect">Viac sa nepýtať</string>
+  <string name="operate_confirm_in_3g">Použiť vaše mobilné pripojenie pre stiahnutie tohto veľkého súboru?</string>
+  <string name="operation_agree">Povoliť</string>
+  <string name="operation_save">Uložiť</string>
+  <string name="system_alert">Upozornenie</string>
+  <string name="tab_path">Cesta</string>
+  <string name="user_guide_summary">Stručný prehľad</string>
 </resources>

@@ -4,7 +4,7 @@
   <string name="Only_the_wifi">Efektívne len cez Wi-Fi</string>
   <string name="all_downloads">Všetky sťahovania</string>
   <string name="all_fileter">Všetko</string>
-  <string name="all_the_internet">"Použiť "</string>
+  <string name="all_the_internet">Všetky siete</string>
   <string name="apk_filter">APK</string>
   <string name="app_downloads">Sťahovanie z aplikácie %s</string>
   <string name="app_label">Sťahovanie</string>
@@ -130,4 +130,12 @@
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
   <string name="display_expire_netiv1">Mesačne</string>
+  <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
+  <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
+  <string name="add_flow_success_msg">Get %s High Speed Flow Succeess</string>
+  <string name="display_expire_netiv1">Month Owner</string>
+  <string name="menu_title_pause_all">Zastaviť všetko</string>
+  <string name="menu_title_resume_all">Spustiť všetko</string>
+  <string name="menu_title_settings">Nastavenia</string>
+
 </resources>
