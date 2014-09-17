@@ -133,9 +133,7 @@
   <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
   <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
   <string name="add_flow_success_msg">Get %s High Speed Flow Succeess</string>
-  <string name="display_expire_netiv1">Month Owner</string>
   <string name="menu_title_pause_all">Zastaviť všetko</string>
   <string name="menu_title_resume_all">Spustiť všetko</string>
   <string name="menu_title_settings">Nastavenia</string>
-
 </resources>
