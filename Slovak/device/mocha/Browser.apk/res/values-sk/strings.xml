@@ -618,4 +618,13 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="close_cloud_tab_tip">Zatvoriť cloudové karty na %s ?</string>
+  <string name="cloud_sync_closed_toast">Synchr. Cloudu je deaktivovaná</string>
+  <string name="cloud_sync_failed_toast">Aktualizácia zlyhala</string>
+  <string name="dont_remind_again">Zapamätať</string>
+  <string name="pref_check_security_url">Bezpečnosť URL</string>
+  <string name="pref_check_security_url_summary">Odoslať URL web stránky na Xiaomi server pre overenie bezpečnosti</string>
+  <string name="pref_check_security_url_title">Kontrola bezpečnosti stránky</string>
+  <string name="show_check_security_url_check_tip_dialog_description">URL adresa tejto web stránky bude odoslaná na servre Xiaomi pre kontrolu jej bezpečnosti. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach Prehliadača.</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Bezpečnosť URL</string>
 </resources>
