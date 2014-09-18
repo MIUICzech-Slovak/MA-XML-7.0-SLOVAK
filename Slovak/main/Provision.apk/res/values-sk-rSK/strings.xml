@@ -28,12 +28,12 @@
   <string name="summary_sim_card">Karta %1$d%2$s</string>
   <string name="agree">Súhlasím</string>
   <string name="disagree">Odmietnuť</string>
-  <string name="ime_privacy_policy">输入法隐私政策</string>
-  <string name="ime_privacy_policy_no_network">你的手机未连接网络，要查看此信息请使用网络浏览器访问: %s</string>
+  <string name="ime_privacy_policy">Podmienky súkromia vybranej klávesnice</string>
+  <string name="ime_privacy_policy_no_network">Nie je možné sa pripojiť k sieti. Prečítajte si podmienky súkromia pre túto klávesnicu na %s.</string>
   <string name="privacy_policy">Podmienky súkromia</string>
-  <string name="provision_inputmethod_policy_description">查看您选择输入法的</string>
-  <string name="provision_inputmethod_policy_description1">隐私政策</string>
-  <string name="terms_of_use">使用条款</string>
-  <string name="terms_of_use_label">你需要同意小米用户协议与隐私政策才可继续使用MIUI</string>
+  <string name="provision_inputmethod_policy_description">"Zobraziť pre túto klávesnicu "</string>
+  <string name="provision_inputmethod_policy_description1">Podmienky súkromia</string>
+  <string name="terms_of_use">Podmienky používania</string>
+  <string name="terms_of_use_label">Musíte súhlasiť s Podmienkami používania a Podmienkami súkromia ak chcete používať MIUI.</string>
   <string name="user_agreement">Podmienky používania</string>
 </resources>

@@ -329,4 +329,6 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="tc_sms_report_title">Report data usage bug</string>
   <string name="tc_sms_report_upload_success">"Data usage report SMS submitted. We'll get right on it!"</string>
   <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
+  <string name="tc_sms_report_notify_correction_body">Go to the Data usage app in Security Center and try again manually.</string>
+  <string name="tc_sms_report_notify_correction_failure_title">"Can't update data usage info"</string>
 </resources>

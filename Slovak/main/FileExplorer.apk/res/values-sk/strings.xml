@@ -319,6 +319,6 @@ Získali ste ďalších %1$s"</string>
   <string name="operation_agree">Povoliť</string>
   <string name="operation_save">Uložiť</string>
   <string name="system_alert">Upozornenie</string>
-  <string name="tab_path">Cesta</string>
+  <string name="tab_path">Úložisko</string>
   <string name="user_guide_summary">Stručný prehľad</string>
 </resources>

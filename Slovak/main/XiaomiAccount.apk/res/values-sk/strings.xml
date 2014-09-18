@@ -307,4 +307,5 @@ s "</string>
   <string name="activate_status_desc_wait_for_sms_success">Aktivačná SMS zo servera prijatá</string>
   <string name="activate_status_title_activating">Aktivácia vašej SIM karty</string>
   <string name="activate_status_title_activating_msim">Aktivácia vašej SIM karty %s</string>
+  <string name="loading_mili_center">Načítavanie MiKreditu</string>
 </resources>

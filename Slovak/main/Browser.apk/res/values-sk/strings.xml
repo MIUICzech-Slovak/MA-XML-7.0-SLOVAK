@@ -719,4 +719,6 @@ Chcete odísť z tejto stránky?"</string>
   <string name="pref_check_security_url_title">Kontrola bezpečnosti stránky</string>
   <string name="show_check_security_url_check_tip_dialog_description">URL adresa tejto web stránky bude odoslaná na servre Xiaomi pre kontrolu jej bezpečnosti. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach Prehliadača.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Bezpečnosť URL</string>
+  <string name="add_to_desk">Pridať na plochu</string>
+  <string name="add_to_desk_success">Pridané na plochu</string>
 </resources>
