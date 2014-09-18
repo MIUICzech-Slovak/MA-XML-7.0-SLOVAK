@@ -561,4 +561,8 @@ spoločne!"</string>
   <string name="photo_paint_crop">Orezať</string>
   <string name="photo_paint_rotate">Otočiť</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s položiek nebolo odobraných z tajných</string>
+  <string name="free">Voľné</string>
+  <string name="original">Originál</string>
+  <string name="rectangular">Obdĺžnik</string>
+  <string name="square">Štvorec</string>
 </resources>
