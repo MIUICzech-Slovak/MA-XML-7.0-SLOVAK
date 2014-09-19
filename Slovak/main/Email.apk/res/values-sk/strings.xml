@@ -778,4 +778,5 @@ Delta update size: %2$s"</string>
   <string name="message_type_name">správa</string>
   <string name="tryrefreshing">Skúste obnoviť...</string>
   <string name="feedback_sent">Ďakujeme za váš názor.</string>
+  <string name="no_contacts">Prázdne</string>
 </resources>
