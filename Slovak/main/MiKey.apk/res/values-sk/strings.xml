@@ -216,7 +216,7 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="action_key_power">Zapínanie</string>
   <string name="action_key_power_long">Zapínanie (Dlhé stlačenie)</string>
   <string name="category_0">Aplikácie</string>
-  <string name="category_1">Nastavenie systému</string>
+  <string name="category_1">Systém</string>
   <string name="category_2">Tlačidlá</string>
   <string name="click_count_union">krát</string>
   <string name="click_type_0">0</string>
@@ -235,7 +235,7 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="key_direction_right">Vpravo</string>
   <string name="key_direction_up">Nahor</string>
   <string name="select_direction">Smery</string>
-  <string name="super_difficult_click">Obtiažnosť</string>
+  <string name="super_difficult_click">"Obtiažnosť "</string>
   <string name="unsupport_content">Aktualizujte na najnovšiu verziu MIUI pre používanie tejto funkcie!</string>
   <string name="unsupport_title">Táto funkcia nie je podporovaná</string>
 </resources>
