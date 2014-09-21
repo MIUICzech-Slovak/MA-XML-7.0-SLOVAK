@@ -83,8 +83,8 @@ Adresa: %2$s"</string>
   <string name="date_last_month">Posledný mesiac</string>
   <string name="date_last_week">Posledný týždeň</string>
   <string name="date_month">MMMM</string>
-  <string name="date_month_day">MMM d</string>
-  <string name="date_month_day_short">%1$d/%2$d</string>
+  <string name="date_month_day">dd.MMM</string>
+  <string name="date_month_day_short">%2$d.%1$d.</string>
   <string name="date_month_day_week">%1$s %2$s</string>
   <string name="date_month_day_week_short">%1$d.%2$d %3$s</string>
   <string name="date_this_month">Tento mesiac</string>
@@ -183,8 +183,8 @@ Adresa: %2$s"</string>
   <string name="goals_push_ten">Splnených 100%</string>
   <string name="gram">g</string>
   <string name="green">Zelená</string>
-  <string name="half_marathon_format_0">Ako %1$s pol-maratónu</string>
-  <string name="half_marathon_format_1">Viac ako %1$s pol-maratónu</string>
+  <string name="half_marathon_format_0">Ako %1$s polmaratón</string>
+  <string name="half_marathon_format_1">Viac ako %1$s polmaratón</string>
   <string name="help">Pomoc</string>
   <string name="help_info_0">Vyžaduje sa Bluetooth 4.0 pre spojenie s MiBand. Skontrolujte špecifikácie vášho telefónu či obsahuje technológiu Bluetooth 4.0.</string>
   <string name="help_info_1">MiBand vyžaduje verziu Android 4.4 alebo vyššiu</string>
@@ -343,15 +343,15 @@ Priemerný čas zaspávania %5$s, priemerný čas prebudenia %6$s."</string>
     <string name="share_step_description_monthly">"%1$s%2$s
  spálené %3$s cal, a ušetrené %4$s litrov paliva.
 (Ďakujeme, že chránite našu Zem)
-Najvyšší rekord je %5$s, prejdených %6$s krokov."</string>
+Najvyšší rekord bol v %5$s, prejdených %6$s krokov."</string>
   <string name="share_step_description_weekly">"%1$s%2$s
 Spálené %3$s cal.
-Najvyšší denný rekord je %4$s, prejdených %5$s krokov."</string>
+Najvyšší denný rekord bol v %4$s, prejdených %5$s krokov."</string>
   <string name="share_step_goal_failed_title">Celkovo</string>
   <string name="share_step_goal_failed_title_today">Celkom</string>
   <string name="share_step_goal_succ_title">Cieľ splnený</string>
   <string name="share_step_goal_succ_title_today">Dnešné dosiahnuté výsledky</string>
-  <string name="share_step_walk">Prešiel som celkovo</string>
+  <string name="share_step_walk">" som celkovo prešiel"</string>
   <string name="share_to_content">MiBand campaign sharing</string>
   <string name="share_to_content_sleep">My sleep info</string>
   <string name="share_to_content_step">My sport info</string>
