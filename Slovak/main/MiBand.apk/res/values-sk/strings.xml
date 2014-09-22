@@ -298,7 +298,7 @@ Adresa: %2$s"</string>
   <string name="search_bracelet_ok">MiBand nájdený!</string>
   <string name="search_devices_info">Vyhľadať MiBand v blízkosti telefónu</string>
   <string name="search_devices_title">Vyhľadať MiBand</string>
-  <string name="second">Sekunda</string>
+  <string name="second">Sekúnd</string>
   <string name="select_from_camera">Fotoaparát</string>
   <string name="select_from_local">Galéria</string>
   <string name="select_image">Vybrať obrázok</string>
@@ -515,6 +515,6 @@ a aktualizácia sa spustí automaticky po nabití MiBand"</string>
 Zaspal som o %3$s, prebudil sa o %4$s."</string>
     <string name="awake_format">, prebudený %1$s krát.</string>
     <string name="awake_format_1">, prebudený raz.</string>
-    <string name="discard">Zrušiť</string>
+    <string name="discard">Zrušiť zmeny</string>
     <string name="discard_alarm_change">Zrušiť zmeny?</string>
 </resources>

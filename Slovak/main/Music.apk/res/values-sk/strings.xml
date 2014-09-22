@@ -12,6 +12,17 @@
   <string name="action_item_send">Odoslať</string>
   <string name="album_search_title">Album</string>
   <string name="all_tracks">Všetko</string>
+  <string name="allow_to_use_traffic_summary">Môže navýšiť vaše poplatky</string>
+  <string name="allow_to_use_traffic_title">Allows the use of pay-WLAN listen songs online</string>
+  <string name="artist_search_title">Umelec</string>
+  <string name="artist_view">Umelec</string>
+  <string name="audio_picker_title">Vyberte skladbu</string>
+  <string name="dialog_button_agree">Súhlasím</string>
+  <string name="download_auto_after_preference_summary">Automatically download music to the local once saved</string>
+  <string name="download_auto_after_preference_title">Once saved then download</string>
+  <string name="project_device_mobile">Mobilné zariadenie</string>
+  <string name="recommend_fragment_title">Topic</string>
+  <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="all_tracks_short">Všetko</string>
   <string name="artist_search_title">Umelec</string>
   <string name="artist_view">Umelec</string>

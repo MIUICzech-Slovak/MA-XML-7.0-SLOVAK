@@ -566,7 +566,7 @@
   <string name="save_image_failed">Ukladanie obrázku zlyhalo</string>
   <string name="save_image_success">Obrázok uložený</string>
   <string name="save_to_bookmarks">Uložiť do záložiek</string>
-  <string name="save_to_camera">uložiť do fotografií</string>
+  <string name="save_to_camera">Uložiť do galérie</string>
   <string name="save_to_camera_failed">ukladanie zlyhalo</string>
   <string name="save_to_camera_success">uložené</string>
   <string name="saving_snapshot">Ukladanie...</string>
