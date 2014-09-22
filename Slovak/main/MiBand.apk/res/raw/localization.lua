@@ -43,8 +43,8 @@ end
 
 localization_table = {
     en = localization_English_table,
-	cs = localization_Czech_table,
-	sk = localization_Slovak_table,
+    cs = localization_Czech_table,
+    sk = localization_Slovak_table,
     zh_CN = localization_Chinese_table,
     zh_TW = localization_zh_rTW_table,
 }
