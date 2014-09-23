@@ -1145,4 +1145,9 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
   <string name="resource_failed_to_load_list">Načítavanie zlyhalo</string>
   <string name="resource_search_list_empty">Nič sa nenašlo</string>
+  <string name="create_qrcode_fail_message">Vytváranie QR kódu zlyhalo</string>
+  <string name="qr_card_card">Môj QR kód</string>
+  <string name="qrcode_card_title">QR kód vizitka</string>
+  <string name="scan_qrcode_card_hint1">Načítať QR kód</string>
+  <string name="scan_qrcode_card_hint2">Pridajte si ma do svojich kontaktov</string>
 </resources>

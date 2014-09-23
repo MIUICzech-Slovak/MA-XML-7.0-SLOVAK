@@ -136,4 +136,6 @@
   <string name="menu_title_pause_all">Zastaviť všetko</string>
   <string name="menu_title_resume_all">Spustiť všetko</string>
   <string name="menu_title_settings">Nastavenia</string>
+  <string name="unbind_xunlei_2_success">Xunlei účet zmenený</string>
+  <string name="unbind_xunlei_success">Xunlei účet odpojený</string>
 </resources>

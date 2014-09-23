@@ -229,4 +229,6 @@
   <string name="set_ringtones_failed">Nastavenie zvonenia zlyhalo.</string>
   <string name="set_ringtones_successful">%s nastavené ako zvonenie.</string>
   <string name="sleep_mode_canceled">Režim spánku zrušený</string>
+  <string name="priority_storage">Ukladať na externú SD kartu</string>
+  <string name="priority_storage_summary">Automaticky sťahovať na externú SD kartu</string>
 </resources>

@@ -2768,4 +2768,9 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="ringtone_uniform_setting_title">Nastavenia dual SIM</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Upozornenia sa na chvíľu zobrazia vo vrchnej časti displeja</string>
   <string name="sim_radio_off">Nie je aktivované</string>
+  <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
+  <string name="free_wifi_user_agreement">When you use WiWide to connect to a network, your phone number will be used to verify your identity.</string>
+  <string name="free_wifi_user_agreement_allow">Agree</string>
+  <string name="free_wifi_user_agreement_title">Terms of Use</string>
+  <string name="translation_contributors_summary"/>
 </resources>
