@@ -161,4 +161,5 @@ Využité %s | Ostáva %s"</string>
   <string name="remind_later">Neskôr</string>
   <string name="sync_item_calllog_summary">Synchr. zoznam hovorov z tohto zariadenia</string>
   <string name="sync_item_calllog_title">Zoznam hovorov</string>
+  <string name="header_other_settings">Ostatné</string>
 </resources>

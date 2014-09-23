@@ -1148,6 +1148,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="create_qrcode_fail_message">Vytváranie QR kódu zlyhalo</string>
   <string name="qr_card_card">Môj QR kód</string>
   <string name="qrcode_card_title">QR kód vizitka</string>
-  <string name="scan_qrcode_card_hint1">Načítať QR kód</string>
+  <string name="scan_qrcode_card_hint1">Načítajte QR kód</string>
   <string name="scan_qrcode_card_hint2">Pridajte si ma do svojich kontaktov</string>
 </resources>
