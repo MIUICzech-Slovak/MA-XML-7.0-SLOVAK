@@ -24,9 +24,6 @@
   <string name="recommend_fragment_title">Topic</string>
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="all_tracks_short">Všetko</string>
-  <string name="artist_search_title">Umelec</string>
-  <string name="artist_view">Umelec</string>
-  <string name="audio_picker_title">Zvoľte skladbu</string>
   <string name="auto_download_in_wifi">Žiadne internetové pripojenie</string>
   <string name="available_playlist_name_format">Nový playlist %d</string>
   <string name="avoid_to_use_traffic_summary">Upozorniť na spotrebu dát</string>
