@@ -47,4 +47,15 @@
         <item>Vietor Z</item>
         <item>Vietor SZ</item>
     </string-array>
+    <string-array name="moon_desc">
+        <item>Nov</item>
+        <item>Dorastajúci kosáčik</item>
+        <item>Prvá štvrť</item>
+        <item>Dorastajúci Mesiac</item>
+        <item>Spln</item>
+        <item>Cúvajúci mesiac</item>
+        <item>Posledná štvrť</item>
+        <item>Ubúdajúci kosáčik</item>
+        <item>Zatmenie</item>
+    </string-array>
 </resources>
