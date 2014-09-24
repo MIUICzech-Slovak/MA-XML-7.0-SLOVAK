@@ -295,4 +295,20 @@
   <string name="prefix_countdown">Reklama:</string>
   <string name="suffix_countdown">s</string>
   <string name="vp_newest_ep">Najnovšia</string>
+  <string name="vp_cancel">Zrušiť</string>
+  <string name="vp_client_message">Chcete nainštalovať klienta %1$s?</string>
+  <string name="vp_closedialog">OK</string>
+  <string name="vp_confirm">OK</string>
+  <string name="vp_download_connect_fail">Nebolo možné nájsť URL. Skontrolujte vaše pripojenie k sieti.</string>
+  <string name="vp_download_file_fail">Sťahovanie zlyhalo. Uistite sa, že máte dostatok voľného miesta na úložisku.</string>
+  <string name="vp_hint">Informácia</string>
+  <string name="vp_install">Inštalovať</string>
+  <string name="vp_install_title">Inštalácia</string>
+  <string name="vp_loading_download">Sťahovanie</string>
+  <string name="vp_loading_video">Načítavanie…</string>
+  <string name="vp_maintitlearea">Užite si filmy v HD kvalite! Stlačte tlačidlo OK pre pokračovanie.</string>
+  <string name="vp_plugin_message">Užite si filmy v HD kvalite. Je potrebné nainštalovať doplnok pre prehrávanie. Súhlasíte?</string>
+  <string name="vp_retry">Znova</string>
+  <string name="vp_support_by">Podporované %1$s</string>
+  <string name="vp_unknown_source">Neznámy zdroj</string>
 </resources>

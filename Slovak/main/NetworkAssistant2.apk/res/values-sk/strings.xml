@@ -330,4 +330,9 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="tc_sms_report_upload_when_net">Thank you for the feedback!</string>
   <string name="tc_sms_report_notify_correction_body">Go to the Data usage app in Security Center and try again manually.</string>
   <string name="tc_sms_report_notify_correction_failure_title">"Can't update data usage info"</string>
+  <string name="tc_sms_report_tips_dialog_message">"Data usage uses a specially formatted SMS to get your latest data usage from your carrier. If this feature isn't working normally, try updating the data usage SMS format. The new updated format will then be uploaded to our servers."</string>
+  <string name="tc_sms_report_tips_dialog_title">Data usage report SMS</string>
+  <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
+  <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
+  <string name="tc_sms_report_get_sms_timeout">"Couldn't get data SMS format: timed out"</string>
 </resources>

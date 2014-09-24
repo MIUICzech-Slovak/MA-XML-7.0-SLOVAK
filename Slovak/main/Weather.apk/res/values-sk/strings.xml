@@ -69,4 +69,6 @@
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
   <string name="activity_weathermain_locationg_error">Zistenie polohy zlyhalo</string>
+  <string name="view_sun_titile">Východ a Západ slnka</string>
+
 </resources>

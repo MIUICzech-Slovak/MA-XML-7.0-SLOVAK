@@ -845,4 +845,5 @@ Môže to trvať aj 5 minút."</string>
   <string name="preference_telocation_summary_teloc_on">Zobraziť polohu kontaktu</string>
   <string name="preference_telocation_title">Poloha</string>
   <string name="preference_auto_ip_summary_disable">Deaktivované</string>
+  <string name="msim_set_icc_card_error">Chyba ICC karty</string>
 </resources>

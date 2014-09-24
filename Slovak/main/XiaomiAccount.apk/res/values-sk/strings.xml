@@ -6,13 +6,13 @@
   <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
   <string name="account">Účet</string>
   <string name="account_bind_devices">Aktívne zariadenia</string>
-  <string name="account_bind_settings">Email (.com) alebo telefónne číslo</string>
+  <string name="account_bind_settings">Účty</string>
   <string name="account_dspt">Účet Xiaomi môže synchronizovať a zálohovať Vaše správy, kontakty, fotky, atď</string>
   <string name="account_dspt_provision"/>
   <string name="account_hint_text">Email (.com) alebo telefónne číslo</string>
   <string name="account_name">Účet: %1$s</string>
   <string name="account_not_activated">Účet nebol aktivovaný</string>
-  <string name="account_sec_dspt">Využite svoj Xiaomi účet na prihlásenie sa do MiCloud a ostatných služieb Xiaomi.</string>
+  <string name="account_sec_dspt"/>
   <string name="account_sec_dspt2"/>
   <string name="account_settings">Nastavenie účtu</string>
   <string name="account_xiaomi_service">Služby</string>
@@ -47,7 +47,7 @@
   <string name="app_name">Xiaomi účet</string>
   <string name="bad_authentication">Nesprávne meno alebo heslo</string>
   <string name="barcode_add_account_prompt">Pre pridanie účtu, znova načítajte QR kód po príhlásení sa.</string>
-  <string name="bind_settings">Email (.com) alebo telefónne číslo</string>
+  <string name="bind_settings">Účty</string>
   <string name="bind_sina_weibo">Autorizovať Sina Weibo</string>
   <string name="bind_weibo_description">Nájsť kontakty, priateľov a ostatné informácie priamo z Vášho účtu</string>
   <string name="binded">Účet pridaný</string>
