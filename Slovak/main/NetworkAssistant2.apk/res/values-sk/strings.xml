@@ -23,8 +23,7 @@
   <string name="data_usage_correction_timeout_body">Nastaviť manuálne.</string>
   <string name="data_usage_correction_timeout_title">Synchr. spotreby dát zlyhala</string>
   <string name="data_usage_disabled_dialog">"Dosiahli ste limit vašich predplatených dát. 
-
-Používanie mobilnáho pripojenia nad rámec predplatených dát môže výrazne navýšiť vaše poplatky."</string>
+Používanie mobilného pripojenia nad rámec predplatených dát môže výrazne navýšiť vaše poplatky."</string>
   <string name="data_usage_disabled_dialog_enable">Povoliť dáta</string>
   <string name="data_usage_leisure_warning_body">Zobraziť podrobnosti spotreby.</string>
   <string name="data_usage_leisure_warning_title">Prekročili ste dátový limit</string>
