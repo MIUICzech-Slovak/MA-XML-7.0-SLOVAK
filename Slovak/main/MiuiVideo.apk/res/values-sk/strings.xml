@@ -311,4 +311,5 @@
   <string name="vp_retry">Znova</string>
   <string name="vp_support_by">Podporované %1$s</string>
   <string name="vp_unknown_source">Neznámy zdroj</string>
+<string name="ad_countdown">Reklama: %ss</string>
 </resources>
