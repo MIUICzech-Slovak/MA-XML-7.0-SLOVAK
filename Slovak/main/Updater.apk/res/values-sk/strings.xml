@@ -117,7 +117,6 @@
   <string name="system_backup_ok_text">Zálohovať</string>
   <string name="top_secret_build">Tajná verzia</string>
   <string name="unstable_build">Stabilná verzia</string>
-  <string name="update_comment_hint">(voliteľné)</string>
   <string name="update_monthly_build_only">Aktualizácia iba mesačných verzií</string>
   <string name="update_success">Aktualizácia prebehla úspešne!</string>
   <string name="update_success_body">na verziu %s</string>
