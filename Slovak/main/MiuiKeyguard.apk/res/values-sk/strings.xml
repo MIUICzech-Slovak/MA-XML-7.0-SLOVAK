@@ -79,4 +79,5 @@ Deaktivujte režim Lietadlo."</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="missed_call_text">Zmeškané hovory: %d</string>
   <string name="wrong_password">Nesprávne heslo</string>
+  <string name="keyguard_torch_cover_text">Pre dlhšie svietenie stlačte tlačidlo zapínania.</string>
 </resources>
