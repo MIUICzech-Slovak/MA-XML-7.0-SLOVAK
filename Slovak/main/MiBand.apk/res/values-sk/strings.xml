@@ -123,7 +123,7 @@ Adresa: %2$s"</string>
   <string name="dynamic_pull_syncing">Synchronizácia...</string>
   <string name="dynamic_pull_syncing_progress">Synchr. %s%%</string>
   <string name="dynamic_pull_update_report">Aktualizovaných záznamov: %s</string>
-  <string name="dynamic_sleep_active">Aktívny</string>
+  <string name="dynamic_sleep_active">Bdelý</string>
   <string name="dynamic_sleep_active_end">Vstávanie</string>
   <string name="dynamic_sleep_active_start">Zaspávanie</string>
   <string name="dynamic_sleep_deep">Hlboký</string>
