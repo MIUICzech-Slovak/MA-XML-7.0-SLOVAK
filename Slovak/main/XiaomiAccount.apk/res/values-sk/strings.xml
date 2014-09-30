@@ -36,7 +36,7 @@
   <string name="activate_popup_desc_2_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
   <string name="activate_popup_desc_failed_phone_error">Zadané číslo je nesprávne.</string>
   <string name="activate_popup_desc_failed_query_info">Nie je možné načítať vaše telefónne číslo. Uistite sa prosím, že je vložená SIM karta.</string>
-  <string name="activate_popup_desc_failed_receive_sms">Skontrolujte zadané telefónne čislo a SIM kartu.</string>
+  <string name="activate_popup_desc_failed_receive_sms">Skontrolujte zadané telefónne číslo a SIM kartu.</string>
   <string name="activate_popup_desc_failed_send_sms">Nie je možné odoslať aktivačnú SMS. Skontrolujte či je vložená SIM karta a máte mobilný signál.</string>
   <string name="activate_popup_desc_failed_server">Chyba servera. Skontrolujte sieťové pripojenie.</string>
   <string name="activate_popup_desc_intl_sim_card">Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
@@ -46,7 +46,7 @@
   <string name="alert_title_remove_account">Odstrániť účet?</string>
   <string name="app_name">Xiaomi účet</string>
   <string name="bad_authentication">Nesprávne meno alebo heslo</string>
-  <string name="barcode_add_account_prompt">Pre pridanie účtu, znova načítajte QR kód po príhlásení sa.</string>
+  <string name="barcode_add_account_prompt">Pre pridanie účtu, znova načítajte QR kód po prihlásení sa.</string>
   <string name="bind_settings">Účty</string>
   <string name="bind_sina_weibo">Autorizovať Sina Weibo</string>
   <string name="bind_weibo_description">Nájsť kontakty, priateľov a ostatné informácie priamo z Vášho účtu</string>
@@ -193,8 +193,8 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
   <string name="reg_success">Registrácia úspešná</string>
   <string name="reg_success_summary">Vaše telefónne číslo %1$s už je prepojené s MiLock. Pomocou neho sa môžete prihlásiť a obnoviť Vaše heslo.</string>
   <string name="reg_type_email">Registrovať cez email (.com)</string>
-  <string name="reg_type_other_ways">Vytvoriť účet iným spúsobom</string>
-  <string name="reg_type_other_ways_title">Vytvoriť účet iným spúsobom</string>
+  <string name="reg_type_other_ways">Vytvoriť účet iným spôsobom</string>
+  <string name="reg_type_other_ways_title">Vytvoriť účet iným spôsobom</string>
   <string name="reg_type_phone">Registrovať cez číslo telefónu (odporúčané)</string>
   <string name="reg_using_other_phone">Registrovať sa iným telefónnym číslom</string>
   <string name="reg_using_other_phone_number_prompt">Registrovať sa iným telefónnym číslom</string>
@@ -319,4 +319,7 @@ s "</string>
   <string name="qq">QQ</string>
   <string name="unbind_sns_description">Po odpojení, sa už neprihlásite do Xiaomi účtu cez %s</string>
   <string name="unbind_weibo_description">After unbinding, you will not sync your contacts, and also not log in your Mi Account using Sina Weibo</string>
+  <string name="mibi_balance">MiKreditov: %s</string>
+  <string name="hide_mibi_info">Suma MiKreditov je ukrytá</string>
+  <string name="failed_get_mibi_info">Zistenie stavu MiKreditov zlyhalo</string>
 </resources>

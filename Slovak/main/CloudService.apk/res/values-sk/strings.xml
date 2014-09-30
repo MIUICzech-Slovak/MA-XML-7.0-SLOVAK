@@ -162,4 +162,28 @@ Využité %s | Ostáva %s"</string>
   <string name="sync_item_calllog_summary">Synchr. zoznam hovorov z tohto zariadenia</string>
   <string name="sync_item_calllog_title">Zoznam hovorov</string>
   <string name="header_other_settings">Ostatné</string>
+  <string name="user_agreement">Podmienky používania</string>
+  <string name="user_agreement_p6">"Súhlas s "</string>
+  <string name="user_agreement_p7">"Podmienkami používania MiCloud"</string>
+  <string name="user_agreement_p8">.</string>
+  <string name="sync_dspt_provision">"MiCloud synchronizuje vaše fotografie, SMS, poznámky, a oveľa viac. Vaše zálohované dáta môžte zobraziť aj na "</string>
+  <string name="sync_dspt_provision2">i.mi.com</string>
+  <string name="sync_dspt_provision3">".
+
+Túto službu môžte aktivovať alebo zakázať v Nastaveniach.
+"</string>
+  <string name="privacy_policy">Podmienky súkromia</string>
+  <string name="mx_dspt">Cloud správy</string>
+  <string name="mx_dspt_provision">"Cloudové správy môžte posielať zdarma medzi užívateľmi MIUI.
+
+Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
+  <string name="mx_sub_dspt_provision">Cloud správy</string>
+  <string name="license_host_unreachable">Nie je možné sa pripojiť k sieti. Pre zobrazenie správ choďte na %s.</string>
+  <string name="loading">Načítavanie...</string>
+  <string name="find_device_send_sms_alert">Ak zmeníte SIM kartu, odošle sa SMS pre aktiváciu tejto služby.</string>
+  <string name="find_device_dspt_provision">"Ak stratíte vaše zariadenie, choďte na "</string>
+  <string name="find_device_dspt_provision_2">i.mi.com</string>
+  <string name="find_device_dspt_provision_3">" pre vyhľadanie, uzamknutie, alebo jeho vymazanie.
+
+Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
 </resources>

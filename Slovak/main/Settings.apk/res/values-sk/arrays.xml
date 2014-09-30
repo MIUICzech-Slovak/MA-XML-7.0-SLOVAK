@@ -632,4 +632,8 @@ Postupujte podľa pokynov"</item>
         <item>Štandard</item>
         <item>Lepšia kvalita</item>
     </string-array>
+    <string-array name="screen_key_press_action">
+        <item>Zobraziť naposledy spustené apl.</item>
+        <item>Zobraziť Menu</item>
+    </string-array>
 </resources>

@@ -250,4 +250,14 @@ From the top of the screen slide downwards to use it."</string>
   <string name="super_difficult_click">Click difficulty</string>
   <string name="unsupport_content">Please upgrade to the latest official release of the "development version of MIUI" Get support this feature!!!</string>
   <string name="unsupport_title">This feature is not supported</string>
+    <string name="action_baidusearch">Baidu</string>
+    <string name="select_baidusearch">Baidu</string>
+    <string name="select_baiduvoicesearch">Baidu Voice</string>
+    <string name="action_search">Search</string>
+    <string name="search_cancel_text">Cancel</string>
+    <string name="search_go_text">Text</string>
+    <string name="search_baidu_text">Baidu</string>
+    <string name="search_taobao_text">TaoBao</string>
+    <string name="search_iciba_text">Iciba</string>
+    <string name="search_select_title">Search text</string>
 </resources>

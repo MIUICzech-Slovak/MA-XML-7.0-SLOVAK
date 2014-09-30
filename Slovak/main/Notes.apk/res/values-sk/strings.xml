@@ -86,7 +86,7 @@
   <string name="sns_hint_content">Na čo myslíte?</string>
   <string name="sns_hint_title">Predmet (Voliteľné)</string>
   <string name="sns_message_building">Vytváranie...</string>
-  <string name="sns_message_sending">Posting…</string>
+  <string name="sns_message_sending">Odosielanie...</string>
   <string name="sns_title_edit">Upraviť názov</string>
   <string name="sns_title_send">Odoslať správu</string>
   <string name="sns_toast_empty">Nie je možné odoslať prázdnu správu</string>
@@ -100,4 +100,5 @@
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_visit_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
   <string name="widget_content_loading">Načítavanie...</string>
+  <string name="toast_note_privacy_mode">V režime Návštevník nie je možné vytvoriť poznámku</string>
 </resources>

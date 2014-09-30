@@ -85,8 +85,8 @@
   <string name="dlg_import_blacklist">Pridávanie na čiernu listinu</string>
   <string name="dlg_import_whitelist">Pridávanie na VIP zoznam</string>
   <string name="dlg_keyword_ok">Uložiť</string>
-  <string name="dlg_no_block">Odblokovat toto číslo?</string>
-  <string name="dlg_no_block_ok">Odblokovat</string>
+  <string name="dlg_no_block">Odblokovať toto číslo?</string>
+  <string name="dlg_no_block_ok">Odblokovať</string>
   <string name="dlg_remove_address_blacklist">Odobrať tento región z Čiernej listiny a obnoviť všetky SMS?</string>
   <string name="dlg_remove_address_whitelist">Odobrať z výnimiek?</string>
   <string name="dlg_remove_blacklist">Odstrániť toto číslo z čiernej listiny?</string>
@@ -260,4 +260,8 @@
   <string name="sim_not_ready">SIM karta nie je pripravená</string>
   <string name="st_title_not_sim">Prázdne</string>
   <string name="st_title_sim_card">%1$s-SIM %2$s</string>
+  <string name="dlg_antispam_mode_delete_message">Nie je možné obnoviť vlastný profil po jeho vymazaní.</string>
+  <string name="dlg_antispam_mode_delete_title">Vymazanie vlastného profilu</string>
+  <string name="dlg_antispam_using_mode_delete_message">Vymazať vlastný profil a prepnúť na predvolený? Túto akciu nie je možné vrátiť späť!</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">Vymazať vlastný profil a prepnúť na predvolený? Túto akciu nie je možné vrátiť späť!</string>
 </resources>

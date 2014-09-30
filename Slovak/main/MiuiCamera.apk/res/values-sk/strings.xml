@@ -69,7 +69,7 @@ opustite na chvíľu náhľad"</string>
   <string name="details_title">%1$d z %2$d:</string>
   <string name="dialog_ok">OK</string>
   <string name="disable_video_snapshot_hint">Záznam videa nie je podporovaný v režime špeciálnych efektov.</string>
-  <string name="download_by_browser">Sťiahnuť pomocou prehliadača</string>
+  <string name="download_by_browser">Stiahnuť pomocou prehliadača</string>
   <string name="download_qq">Stiahnuť QQ</string>
   <string name="download_wechat">Stiahnuť WeChat</string>
   <string name="duration">Dĺžka</string>
@@ -220,7 +220,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_coloreffect_entry_sepia"/>
   <string name="pref_camera_coloreffect_entry_seventy">1970</string>
   <string name="pref_camera_coloreffect_entry_sketch">Skica</string>
-  <string name="pref_camera_coloreffect_entry_vivid">Svieží</string>
+  <string name="pref_camera_coloreffect_entry_vivid">Svieži</string>
   <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
   <string name="pref_camera_coloreffect_entry_yesteryear">Minulý rok</string>
   <string name="pref_camera_coloreffect_title">Filtre</string>
@@ -549,4 +549,8 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="simple_mode_button_text_ubifocus">Ukončiť</string>
   <string name="accessibility_panorama_review_cancel">Zrušiť</string>
+  <string name="pref_camera_manual_mode_title">Manuálny režim</string>
+  <string name="pref_qc_focus_position_title">Ostrenie</string>
+  <string name="simple_mode_button_text_manual">Ukončiť</string>
+  <string name="simple_mode_button_text_manual_mode">Ukončiť</string>
 </resources>

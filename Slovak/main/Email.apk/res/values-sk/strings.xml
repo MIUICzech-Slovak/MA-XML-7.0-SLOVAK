@@ -7,7 +7,7 @@
   <string name="abc_action_menu_overflow_description">Viac možností</string>
   <string name="abc_action_mode_done">Hotovo</string>
   <string name="abc_activity_chooser_view_see_all">Zobraziť všetko</string>
-  <string name="abc_activitychooserview_choose_application">Zvolte aplikáciu</string>
+  <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
   <string name="abc_searchview_description_clear">Vyčistiť</string>
   <string name="abc_searchview_description_query">Vyhľadať</string>
   <string name="abc_searchview_description_search">Hľadať</string>
@@ -206,7 +206,7 @@
   <string name="att_mgr_title_order_mime">Formátu</string>
   <string name="att_mgr_title_order_name">Názvu</string>
   <string name="att_mgr_title_order_rev_date">Dátumu</string>
-  <string name="att_mgr_title_order_sender">Odosilateľa</string>
+  <string name="att_mgr_title_order_sender">Odosielateľa</string>
   <string name="att_mgr_title_order_size">Veľkosti</string>
   <string name="attached_message">Priložená správa</string>
   <string name="attachment_application_msword">Dokument</string>
@@ -303,7 +303,7 @@
   <string name="conversation_item_mark_unread">Neprečítané</string>
   <string name="conversation_list_net_check">Nie je možné sa pripojiť na sieť. Skontrolujte svoje nastavenia pripojenia na internet a skúste to znova</string>
   <string name="conversation_overload_toast">Tento email je príliš veľký a nie je možné ho načítať v telefóne</string>
-  <string name="conversation_photo_welcome_text">Dotknutím sa obrázka odosielateľa vyberiete danú konverzáciu.</string>
+  <string name="conversation_photo_welcome_text">Dotykom na obrázok odosielateľa vyberiete danú konverzáciu.</string>
   <string name="copy_email">Kopírovať e-mailovú adresu</string>
   <string name="copy_number">Kopírovať telefónne číslo</string>
   <string name="create_action">Vytvoriť novú</string>
@@ -416,7 +416,7 @@
   <string name="load_more">Načítať ďalšie</string>
   <string name="loading_conversation">Prebieha načítavanie...</string>
   <string name="loading_conversations">Načítavanie…</string>
-  <string name="local_search">Miestné vyhľadávanie</string>
+  <string name="local_search">Miestne vyhľadávanie</string>
   <string name="login">Prihlásiť</string>
   <string name="login_failed_ticker">Prihlásenie do účtu %s zlyhalo.</string>
   <string name="login_failed_title">Prihlásenie sa nepodarilo</string>
@@ -476,7 +476,7 @@
   <string name="menu_search">Hľadať</string>
   <string name="menu_settings">Nastavenia</string>
   <string name="menu_show_original">Zrušiť automatickú úpravu veľkosti</string>
-  <string name="message_body_auto_download_complete">Automaticky stiahnúť email pomocou Wi-Fi</string>
+  <string name="message_body_auto_download_complete">Automaticky stiahnuť email pomocou Wi-Fi</string>
   <string name="message_body_auto_download_tip">Ste pripojený na Wi-Fi. Email sa stiahne automaticky.</string>
   <string name="message_body_download_failed">Čas pripojenia vypršal počas sťahovania emailu</string>
   <string name="message_compose_fwd_header_fmt">"

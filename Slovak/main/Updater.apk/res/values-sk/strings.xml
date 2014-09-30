@@ -7,7 +7,7 @@
   <string name="apply_existing_update_md5error_title">MD5 súčet sa nezhoduje</string>
   <string name="apply_later_button_text">Použiť neskôr</string>
   <string name="apply_now_button_text">Aktualizovať</string>
-  <string name="apply_unable_to_reboot_toast">Nemožno reštartovať do recovery</string>
+  <string name="apply_unable_to_reboot_toast">Nie je možné reštartovať do recovery</string>
   <string name="apply_update_dialog_cancel_button">Zrušiť</string>
   <string name="apply_update_dialog_update_button">Aktualizovať</string>
   <string name="apply_update_fail">Aktualizácia systému zlyhala</string>
@@ -246,4 +246,7 @@ Svoj názor môžte odoslať každý utorok"</string>
   <string name="update_happy">Skvelý!</string>
   <string name="update_sad">Nič moc</string>
   <string name="worst_update">Najhoršia aktualizácia</string>
+  <string name="button_text_reboot_hm">Po reštarte</string>
+  <string name="update_downfull_no_info_sum">Nie je možné stiahnuť, navštívte miuios.cz/rom</string>
+  <string name="update_downfull_no_info_title">Nie je možné stiahnuť</string>
 </resources>

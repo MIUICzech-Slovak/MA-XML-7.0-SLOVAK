@@ -335,4 +335,5 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="tc_sms_report_get_sms_failure">"Couldn't get data usage SMS format"</string>
   <string name="tc_sms_report_get_sms_successs">Data usage SMS format updated</string>
   <string name="tc_sms_report_get_sms_timeout">"Couldn't get data SMS format: timed out"</string>
+  <string name="input_used_max_hint">Zadajte spotrebované dáta (menej ako %s)</string>
 </resources>
