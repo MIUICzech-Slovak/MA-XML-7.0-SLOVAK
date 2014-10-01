@@ -403,7 +403,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_grp_capture_settings">Nastavenia Záznamu</string>
   <string name="pref_grp_picture_settings">Nastavenia Fotografie</string>
   <string name="pref_grp_restore_settings">Obnoviť Nastavenia</string>
-  <string name="pref_manual_exposure_title">Manuálna expozícia</string>
+  <string name="pref_manual_exposure_title">Expozícia</string>
   <string name="pref_scan_qrcode_entry_off">Vypnuté</string>
   <string name="pref_scan_qrcode_entry_on">Zapnuté</string>
   <string name="pref_scan_qrcode_title">Skenovať QR kód</string>
