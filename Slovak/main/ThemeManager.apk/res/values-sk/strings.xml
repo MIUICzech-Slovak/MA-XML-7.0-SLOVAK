@@ -246,7 +246,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="theme_description_title_default">Predvolené</string>
   <string name="theme_fresh_man_notifaction">Skúste nejaké nové témy.</string>
   <string name="theme_immediately_apply_tip">Téma bola aktualizovaná, chcete ju aplikovať teraz?</string>
-  <string name="theme_import_from_sdcard">Nahrať z SD karty</string>
+  <string name="theme_import_from_sdcard">Nahrať z úložiska</string>
   <string name="theme_name">%1$s</string>
   <string name="theme_no">Nie</string>
   <string name="theme_select_others">Ostatné</string>
