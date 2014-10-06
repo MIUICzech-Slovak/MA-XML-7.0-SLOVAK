@@ -203,7 +203,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="app_sees_restricted_accounts">Táto aplikácia môže pristupovať k vašim účtom</string>
   <string name="app_special_disable_dlg_text">Ak zakážete vstavanú aplikáciu, ostatné aplikácie nemusia fungovať správne. Vaše údaje sa taktiež odstránia.</string>
   <string name="app_special_disable_dlg_title">Odstrániť údaje a zakázať aplikáciu?</string>
-  <string name="app_switch_key">Nedávne</string>
+  <string name="app_switch_key">Ľavé tlačidlo</string>
   <string name="application_forbid_auto_startup">Zakázať %s sa spustiť na pozadí</string>
   <string name="application_info_label">Informácie o aplikácii</string>
   <string name="application_item_already_permission">Povolené</string>
