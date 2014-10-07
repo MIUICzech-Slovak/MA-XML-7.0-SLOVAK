@@ -88,7 +88,7 @@
   <string name="bookmark_this_page_to_readmodelist">Pridať túto stránku do Zoznamu zaujímavých</string>
   <string name="bookmark_title">Názov záložky</string>
   <string name="bookmark_title_lable">Názov</string>
-  <string name="bookmark_to_readmodelist_not_saved">"Nepodarilo sa uložiť do Zoznamu zaujímavych."</string>
+  <string name="bookmark_to_readmodelist_not_saved">"Nepodarilo sa uložiť do Zoznamu zaujímavých."</string>
   <string name="bookmark_to_readmodelist_saved">Uložené do Zoznamu zaujímavých.</string>
   <string name="bookmark_url">Url</string>
   <string name="bookmark_url_not_valid">"Táto URL nie je platná."</string>
