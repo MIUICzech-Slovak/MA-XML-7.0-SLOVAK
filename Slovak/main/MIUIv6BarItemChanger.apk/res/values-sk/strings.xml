@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_license">Používate na vlastnú zodpovednosť!</string>
+    <string name="about_name">MIUI6 Toggles arrange 1.0</string>
+    <string name="about_text1">Autor:</string>
+    <string name="about_text2">don11995 / preklad miuios.cz</string>
+    <string name="app_name">Prepínače</string>
+    <string name="data_access">Kontrola prístupu</string>
+    <string name="data_airplane">Lietadlo</string>
+    <string name="data_autolight">Auto. jas</string>
+    <string name="data_block">Zámok</string>
+    <string name="data_bluetooth">Bluetooth</string>
+    <string name="data_buttons">Tlačidlá</string>
+    <string name="data_gps">GPS</string>
+    <string name="data_guest">Návštevník</string>
+    <string name="data_light">Svietidlo</string>
+    <string name="data_mobile">Dáta</string>
+    <string name="data_rotate">Otáčanie</string>
+    <string name="data_screenshot">Screenshot</string>
+    <string name="data_silent">Ticho</string>
+    <string name="data_sound">Nerušiť</string>
+    <string name="data_speed">Výkon</string>
+    <string name="data_sync">Synchro.</string>
+    <string name="data_vibration">Vibrácie</string>
+    <string name="data_wifi">Wi-Fi</string>
+    <string name="data_wifispot">Hot-spot</string>
+    <string name="err_get_data">Načítanie databázy zlyhalo</string>
+    <string name="err_init_db">Inicializácia databázy zlyhala</string>
+    <string name="err_init_settings">Chyba pri načítaní súčasného rozloženia</string>
+    <string name="err_no_root">Nemáte práva ROOT.</string>
+    <string name="err_no_root_access">Nie je povolený ROOT pre túto aplikáciu.</string>
+    <string name="err_reset">Chyba pri obnovení nastavení.</string>
+    <string name="err_root_denied">ROOT prístup zamietnutý.</string>
+    <string name="err_root_io">Chyba pri spustení príkazu.</string>
+    <string name="err_root_timeout">Čas na spustenie príkazu vypršal.</string>
+    <string name="err_saving">Chyba pri ukladaní nastavení.</string>
+    <string name="err_sqlite_copy">Chyba pri inštalácií SQLite3: nie je možné vytvoriť súbor!"</string>
+    <string name="err_sqlite_io">Chyba pri inštalácií SQLite3</string>
+    <string name="howtouse_text">"1. Podržte prst na prepínači a presuňte ho na zvolené miesto.
+2. Stlačte tlačidlo \"Uložiť\".
+3. Počkajte kým sa prepínače znovu načítajú.
+4. Hotovo!"</string>
+    <string name="howtouse_text1">Tlačidlo \"Obnoviť\" obnoví rozloženie prepínačov na pôvodné.</string>
+    <string name="main_header">"Podržte prst na prepínači a presuňte ho na zvolené miesto"</string>
+    <string name="main_menu_about">O aplikácií</string>
+    <string name="main_menu_howtouse">Rýchly návod</string>
+    <string name="main_reset_button">Obnoviť</string>
+    <string name="main_save_button">Uložiť</string>
+    <string name="main_settings_question">Chcete obnoviť rozloženie prepínačov?</string>
+    <string name="main_settings_question_no">Nie</string>
+    <string name="main_settings_question_yes">Áno</string>
+    <string name="main_settings_saved">Nové rozloženie bolo uložené</string>
+</resources>
