@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about_license">Používate na vlastnú zodpovednosť!</string>
-    <string name="about_name">MIUI6 Toggles arrange 1.0</string>
+    <string name="about_name">MIUI6 Toggles arrange 1.1</string>
     <string name="about_text1">Autor:</string>
     <string name="about_text2">don11995 / preklad miuios.cz</string>
+    <string name="about_text3">Koncept:</string>
+    <string name="about_text4">stas2z</string>
+    <string name="about_text5">Preklad:</string>
+    <string name="about_text6">miuios.cz (ingbrzy)</string>
     <string name="app_name">Prepínače</string>
     <string name="data_access">Kontrola prístupu</string>
     <string name="data_airplane">Lietadlo</string>
@@ -38,7 +42,6 @@
     <string name="err_sqlite_io">Chyba pri inštalácií SQLite3</string>
     <string name="howtouse_text">"1. Podržte prst na prepínači a presuňte ho na zvolené miesto.
 2. Stlačte tlačidlo \"Uložiť\".
-3. Počkajte kým sa prepínače znovu načítajú.
 4. Hotovo!"</string>
     <string name="howtouse_text1">Tlačidlo \"Obnoviť\" obnoví rozloženie prepínačov na pôvodné.</string>
     <string name="main_header">"Podržte prst na prepínači a presuňte ho na zvolené miesto"</string>
