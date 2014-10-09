@@ -69,4 +69,5 @@
   <string name="activate_popup_confirm_failed_server">Znova</string>
   <string name="error_device_id_message">Niektorí služby budú nedostupné</string>
   <string name="error_device_id_title">Nie je možné získať číslo IMEI</string>
+  <string name="accept">OK</string>
 </resources>

@@ -556,7 +556,7 @@ Chyba: \"%s\""</string>
   <string name="menu_viewContact">Zobraziť kontakt</string>
   <string name="merge_contact_message" formatted="false">%1$d kontaktov s čiastočne duplicitnými dátami, %2$d zlúčených</string>
   <string name="messageShortcutActivityTitle">Výber čísla pre správu</string>
-  <string name="missing_name">(bez mena)</string>
+  <string name="missing_name">Skupiny</string>
   <string name="move_and_resize">Posuň merítko</string>
   <string name="multipleContactDeleteConfirmation">Vymazaním tohto kontaktu vymažete informácie z viacerých účtov.</string>
   <string name="multipleContactDeleteConfirmationDetail">Vymazanie \"%s\" vymaže údaje z viacerých účtov.</string>
@@ -1150,4 +1150,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="qrcode_card_title">QR kód vizitka</string>
   <string name="scan_qrcode_card_hint1">Načítajte QR kód</string>
   <string name="scan_qrcode_card_hint2">Pridajte si ma do svojich kontaktov</string>
+  <string name="starred_yellowpage">Obľúbené zložky</string>
 </resources>

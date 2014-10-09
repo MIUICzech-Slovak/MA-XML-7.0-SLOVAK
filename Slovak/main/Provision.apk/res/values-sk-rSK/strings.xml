@@ -11,7 +11,7 @@
   <string name="other_settings_location">Prístup k polohe</string>
   <string name="other_settings_location_summary">Povoliť aplikáciam prístup k vašej polohe</string>
   <string name="other_settings_user_experience">Spätná väzba</string>
-  <string name="other_settings_user_experience_summary">Pomôžte zlepšiť MIUI odosielaním anonymných štatistík v rámci našej "</string>
+  <string name="other_settings_user_experience_summary">Pomôžte zlepšiť MIUI odosielaním anonymných štatistík v rámci našej %s"</string>
   <string name="other_settings_user_experience_summary1">Ochrany súkromia</string>
   <string name="shut_down">Vypnúť</string>
   <string name="sim_card_detecting">Vyhľadávanie SIM karty...</string>
