@@ -20,7 +20,11 @@
   <string name="add_to_cloud_space_full_message">Cloud album je plný.</string>
   <string name="add_to_cloud_successfully_message">Pridané do cloudu.</string>
   <string name="add_to_cloud_type_not_support_message">Typ súboru nie je podporovaný.</string>
+  <string name="add_to_cloud_unfinished_message_with_count">Nie je v cloude: %1$s</string>
   <string name="add_to_cloud_unknow_reasons">Neznáma chyba</string>
+  <string name="add_to_secret_failed_message_with_count">"%2$s položiek nebolo pridaných do tajných: %1$s."</string>
+  <string name="add_to_secret_successfully_message">Pridané do tajného albumu</string>
+  <string name="add_to_secret_unfinished_message_with_count">%1$s položiek nebolo pridaných do tajných</string>
   <string name="adding_recipients">Pridávanie príjemcov...</string>
   <string name="album_member">Osoby %s</string>
   <string name="album_name">Názov albumu</string>
@@ -230,6 +234,7 @@ spoločne!"</string>
   <string name="frame_movie">Film</string>
   <string name="frame_semicircle">Polkruh</string>
   <string name="frame_white">Biely</string>
+  <string name="free">Voľné</string>
   <string name="gallery_cloud_provider_name">Galéria</string>
   <string name="gallery_setting">Galéria</string>
   <string name="get_album_info_in_process">"Získavanie informácií o zdielanom albume. Čakajte prosím..."</string>
@@ -257,6 +262,11 @@ spoločne!"</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import kompletný</string>
   <string name="import_fail">Import neúspešný</string>
+  <string name="impunity_declaration">Galéria vyžaduje pripojenie k internetu pre prístup k cloudovým službám. Chcete pokračovať?</string>
+  <string name="impunity_declaration_ignore">Viac sa nepýtať</string>
+  <string name="impunity_declaration_settings">Upozorniť na pripojenie</string>
+  <string name="impunity_declaration_summary">Upozorniť na pripojenie k internetu pri spustení aplikácie</string>
+  <string name="impunity_declaration_title">Pripojenie k sieti</string>
   <string name="initial_cloud_button_text">Prihlásiť sa</string>
   <string name="initial_cloud_text">Kedykoľvek a kdekoľvek môžete mať Vaše fotografie vždy pri sebe</string>
   <string name="initializing_cloud">Vytváranie Cloud Albumu...</string>
@@ -312,6 +322,7 @@ spoločne!"</string>
   <string name="miliao_saved">Miliao</string>
   <string name="miliao_saved_folder_display_name">MiTalk</string>
   <string name="mimetype">MIME písmo</string>
+  <string name="mipc_1">Vrecková Kamera</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Screenshoty</string>
   <string name="modified_time">Upravené</string>
@@ -360,8 +371,11 @@ spoločne!"</string>
   <string name="operation_too_often">Vaša operácia prekročila časový limit, skúste to opäť o minútu.</string>
   <string name="operation_unset_as_screensaver">Zrušiť šetrič displeja</string>
   <string name="orientation">Orientácia</string>
+  <string name="original">Originál</string>
   <string name="other_category">Ďalšie nastavenia</string>
   <string name="owner_album_subtitle">Zdieľané s %1$s členmi</string>
+  <string name="paint_cancel_context">Zrušiť zmeny?</string>
+  <string name="paint_cancel_title">Zrušiť zmeny</string>
   <string name="path">Cesta</string>
   <string name="people">Ľudia</string>
   <string name="photo_page_always_rotate">Automaticky otočiť</string>
@@ -370,7 +384,9 @@ spoločne!"</string>
   <string name="photo_page_save_uri_image_fail">Ukladanie snímky zlyhalo.</string>
   <string name="photo_page_save_uri_image_ok">Snímka bola uložená do zložky fotoaparátu.</string>
   <string name="photo_paint_adjust">zvoliť</string>
+  <string name="photo_paint_crop">Orezať</string>
   <string name="photo_paint_effect">efekt</string>
+  <string name="photo_paint_rotate">Otočiť</string>
   <string name="photo_saved">Snímka uložená v %s albume</string>
   <string name="photo_size">Veľkosť</string>
   <string name="photoeditor_name">Foto štúdio</string>
@@ -396,11 +412,13 @@ spoločne!"</string>
   <string name="qsbk_save">QSBK</string>
   <string name="recipient_editor_count_format">%d</string>
   <string name="recognizing_image">Rozpoznávanie...</string>
+  <string name="rectangular">Obdĺžnik</string>
   <string name="redeye">Červené oči</string>
   <string name="redeye_tooltip">Klikni pre odstránenie červených očí</string>
   <string name="refocus_data_downloading">Sťahovanie dát na preostrenie...</string>
   <string name="remove_from_secret_failed_message_with_count">"%2$s položiek nemôže byť odobraných z: %1$s."</string>
   <string name="remove_from_secret_successfully_message">Odobrané z tajného albumu</string>
+  <string name="remove_from_secret_unfinished_message_with_count">%1$s položiek nebolo odobraných z tajných</string>
   <string name="remove_hidden_album">Zrušiť skryté</string>
   <string name="remove_recent_album">Odstrániť z nedávnych albumov</string>
   <string name="rename_failed">Premenovať sa nepodarilo</string>
@@ -487,6 +505,7 @@ spoločne!"</string>
   <string name="slideshow_repeat_mode">Opakovať</string>
   <string name="slideshow_time_select_title">Zvoľte čas prezentácie</string>
   <string name="slideshow_time_title">Čas prezentácie</string>
+  <string name="square">Štvorec</string>
   <string name="start_slide_show">Spustiť prezentáciu</string>
   <string name="storage_all_volumes">Všetky úložné zariadenia</string>
   <string name="storage_no_space">"Nieje voľné miesto na úložisku."</string>
@@ -551,23 +570,4 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
-  <string name="add_to_cloud_unfinished_message_with_count">Nie je v cloude: %1$s</string>
-  <string name="add_to_secret_failed_message_with_count">"%2$s položiek nebolo pridaných do tajných: %1$s."</string>
-  <string name="add_to_secret_successfully_message">Pridané do tajného albumu</string>
-  <string name="add_to_secret_unfinished_message_with_count">%1$s položiek nebolo pridaných do tajných</string>
-  <string name="mipc_1">Vrecková Kamera</string>
-  <string name="paint_cancel_context">Zrušiť zmeny?</string>
-  <string name="paint_cancel_title">Zrušiť zmeny</string>
-  <string name="photo_paint_crop">Orezať</string>
-  <string name="photo_paint_rotate">Otočiť</string>
-  <string name="remove_from_secret_unfinished_message_with_count">%1$s položiek nebolo odobraných z tajných</string>
-  <string name="free">Voľné</string>
-  <string name="original">Originál</string>
-  <string name="rectangular">Obdĺžnik</string>
-  <string name="square">Štvorec</string>
-  <string name="impunity_declaration">Galéria vyžaduje pripojenie k internetu pre prístup k cloudovým službám. Chcete pokračovať?</string>
-  <string name="impunity_declaration_ignore">Viac sa nepýtať</string>
-  <string name="impunity_declaration_settings">Upozorniť na pripojenie</string>
-  <string name="impunity_declaration_summary">Upozorniť na pripojenie k internetu pri spustení aplikácie</string>
-  <string name="impunity_declaration_title">Pripojenie k sieti</string>
 </resources>

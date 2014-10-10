@@ -14,6 +14,7 @@
   <string name="accessibility_more_ptions_closed">Viac nastavení deaktivované</string>
   <string name="accessibility_more_ptions_opened">Viac nastavení povolené</string>
   <string name="accessibility_open_more_ptions">Povoliť viac nastavení</string>
+  <string name="accessibility_panorama_review_cancel">Zrušiť</string>
   <string name="accessibility_review_thumbnail">Najnovšie fotografie</string>
   <string name="accessibility_scroll_button_slider">Foto/Video</string>
   <string name="accessibility_show_setting_panel_button">Nastavenia</string>
@@ -36,6 +37,7 @@ opustite na chvíľu náhľad"</string>
   <string name="cancel">Zrušiť</string>
   <string name="cannot_connect_camera_once">"Nie je možné pripojiť kameru, ukončite aplikáciu"</string>
   <string name="cannot_connect_camera_twice">"Nie je možné pripojiť kameru, reštartujte telefón"</string>
+  <string name="cannot_move_warning_message">Vytvára sa fotografia. Nehýbte s telefónom.</string>
   <string name="clear_effects">Vymazať efekty</string>
   <string name="close">Zatvoriť</string>
   <string name="cloud_album_details">Cloud album:</string>
@@ -166,6 +168,7 @@ opustite na chvíľu náhľad"</string>
   <string name="no_thumbnail">Žiadny náhľad</string>
   <string name="not_enough_space">Vaša SD karta je plná.</string>
   <string name="not_selectable_in_scene_mode">V režime scén nie je možné vybrať.</string>
+  <string name="object_track_enable_toast">Potiahnite prstom po displeji pre sledovanie objektu.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientácia</string>
   <string name="pano_dialog_panorama_failed">"Nie je možné uložiť panorámu."</string>
@@ -195,6 +198,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_antibanding_title">Redukcia pruhov na displeji</string>
   <string name="pref_camera_audio_capture_title">Spúšť zvukom</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto. zachytiť keď sa zastaví</string>
+  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
   <string name="pref_camera_auto_focus_title_entry_off">Vypnuté</string>
   <string name="pref_camera_auto_focus_title_entry_on">Zapnuté</string>
   <string name="pref_camera_auto_opti_zoom_title">Auto. optický zoom ak je pomer väčší ako 2</string>
@@ -258,6 +262,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_focusmode_entry_manual">Manuálne</string>
   <string name="pref_camera_focusmode_entry_normal">Normálne</string>
   <string name="pref_camera_focusmode_title">Režim ostrenia</string>
+  <string name="pref_camera_front_fb_title">Vylepšiť farbu pleti</string>
   <string name="pref_camera_hand_night_title">Nočný režim</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Živé</string>
@@ -287,6 +292,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Zaostriť</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Dávkové fotenie</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Podržanie spúšte</string>
+  <string name="pref_camera_manual_mode_title">Manuálny režim</string>
   <string name="pref_camera_movie_solid_title">Stabilizácia filmu</string>
   <string name="pref_camera_multilevel_entry_high">Vysoké</string>
   <string name="pref_camera_multilevel_entry_higher">Vyššie</string>
@@ -372,6 +378,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_touchafaec_entry_off">Vypnuté</string>
   <string name="pref_camera_touchafaec_entry_on">Zapnuté</string>
   <string name="pref_camera_touchafaec_title">Ostrenie dotykom</string>
+  <string name="pref_camera_ubifocus_title">Refocus</string>
   <string name="pref_camera_video_duration_entry_10">10 minút</string>
   <string name="pref_camera_video_duration_entry_120">2 hodiny</string>
   <string name="pref_camera_video_duration_entry_30">30 minút</string>
@@ -404,6 +411,8 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_grp_picture_settings">Nastavenia Fotografie</string>
   <string name="pref_grp_restore_settings">Obnoviť Nastavenia</string>
   <string name="pref_manual_exposure_title">Expozícia</string>
+  <string name="pref_priority_storage_title">Uložiť na SD kartu</string>
+  <string name="pref_qc_focus_position_title">Ostrenie</string>
   <string name="pref_scan_qrcode_entry_off">Vypnuté</string>
   <string name="pref_scan_qrcode_entry_on">Zapnuté</string>
   <string name="pref_scan_qrcode_title">Skenovať QR kód</string>
@@ -485,10 +494,13 @@ opustite na chvíľu náhľad"</string>
   <string name="simple_mode_button_text_fast_video">Ukončiť</string>
   <string name="simple_mode_button_text_hand_night">Ukončiť nočný režim</string>
   <string name="simple_mode_button_text_hdr">Ukončiť HDR</string>
+  <string name="simple_mode_button_text_manual">Ukončiť</string>
+  <string name="simple_mode_button_text_manual_mode">Ukončiť</string>
   <string name="simple_mode_button_text_opti_zoom">Ukončiť</string>
   <string name="simple_mode_button_text_panorama">Ukončiť</string>
   <string name="simple_mode_button_text_slow_video">Ukončiť</string>
   <string name="simple_mode_button_text_ubi_focus">Ukončiť</string>
+  <string name="simple_mode_button_text_ubifocus">Ukončiť</string>
   <string name="simple_mode_title">Základný režim</string>
   <string name="slideshow">Prezentácia</string>
   <string name="snapshot_lower_than_video">Video snapshot size is lower than video size. Capping the video size. Please select a resolution higher or equal to the current video size.</string>
@@ -541,16 +553,4 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
-  <string name="pref_camera_front_fb_title">Vylepšiť farbu pleti</string>
-  <string name="pref_priority_storage_title">Uložiť na SD kartu</string>
-  <string name="cannot_move_warning_message">Vytvára sa fotografia. Nehýbte s telefónom.</string>
-  <string name="object_track_enable_toast">Potiahnite prstom po displeji pre sledovanie objektu.</string>
-  <string name="pref_camera_ubifocus_title">Refocus</string>
-  <string name="simple_mode_button_text_ubifocus">Ukončiť</string>
-  <string name="accessibility_panorama_review_cancel">Zrušiť</string>
-  <string name="pref_camera_manual_mode_title">Manuálny režim</string>
-  <string name="pref_qc_focus_position_title">Ostrenie</string>
-  <string name="simple_mode_button_text_manual">Ukončiť</string>
-  <string name="simple_mode_button_text_manual_mode">Ukončiť</string>
 </resources>

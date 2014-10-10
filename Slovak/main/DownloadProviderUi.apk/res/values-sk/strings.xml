@@ -2,6 +2,9 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Only_the_wifi">Efektívne len cez Wi-Fi</string>
+  <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
+  <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
+  <string name="add_flow_success_msg">Get %s High Speed Flow Succeess</string>
   <string name="all_downloads">Všetky sťahovania</string>
   <string name="all_fileter">Všetko</string>
   <string name="all_the_internet">Všetky siete</string>
@@ -34,6 +37,7 @@
   <string name="dialog_title_not_available">Nepodarilo sa prevziať</string>
   <string name="dialog_title_queued_body">Súbor v poradí</string>
   <string name="disable">Deaktivovať</string>
+  <string name="display_expire_netiv1">Mesačne</string>
   <string name="doc_filter">DOKUMENT</string>
   <string name="download_complete">Stiahnuté</string>
   <string name="download_error">Neúspešné</string>
@@ -84,6 +88,9 @@
   <string name="menu_all_task_start">Spustiť všetko</string>
   <string name="menu_enter_edit_mode">Editor</string>
   <string name="menu_preferences">Nastavenie</string>
+  <string name="menu_title_pause_all">Zastaviť všetko</string>
+  <string name="menu_title_resume_all">Spustiť všetko</string>
+  <string name="menu_title_settings">Nastavenia</string>
   <string name="mi_money">MiKredity</string>
   <string name="mi_money_">mi_money)</string>
   <string name="missing_title">Neznáme</string>
@@ -120,6 +127,8 @@
   <string name="turn_off_xunlei_message">Môže spôsobiť pomalšie sťahovanie dát.</string>
   <string name="turn_off_xunlei_tips">Xunlei sťahovanie je deaktivované</string>
   <string name="turn_off_xunlei_title">Deaktivovať Xunlei sťahovanie</string>
+  <string name="unbind_xunlei_2_success">Xunlei účet zmenený</string>
+  <string name="unbind_xunlei_success">Xunlei účet odpojený</string>
   <string name="valid_in_this_month">platné len pre tento mesiac</string>
   <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
   <string name="xunlei_brand">Poskytuje Xunlei</string>
@@ -129,13 +138,4 @@
   <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
-  <string name="display_expire_netiv1">Mesačne</string>
-  <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
-  <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
-  <string name="add_flow_success_msg">Get %s High Speed Flow Succeess</string>
-  <string name="menu_title_pause_all">Zastaviť všetko</string>
-  <string name="menu_title_resume_all">Spustiť všetko</string>
-  <string name="menu_title_settings">Nastavenia</string>
-  <string name="unbind_xunlei_2_success">Xunlei účet zmenený</string>
-  <string name="unbind_xunlei_success">Xunlei účet odpojený</string>
 </resources>

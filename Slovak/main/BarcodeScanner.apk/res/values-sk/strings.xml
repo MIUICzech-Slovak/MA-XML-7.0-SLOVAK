@@ -51,6 +51,7 @@
   <string name="scan_result">Výsledok</string>
   <string name="secure_access_web_url">Bezpečný prístup</string>
   <string name="see_app_details">zobraziť podrobnosti</string>
+  <string name="settings">Nastavenia</string>
   <string name="success_message_import_from_account">Importované</string>
   <string name="tips_message">Vyžaduje sa pripojenie na internet pre kontrolu, či je táto web stránka bezpečná.</string>
   <string name="tips_title">Internetové pripojenie</string>
@@ -77,5 +78,4 @@
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto sieť je bezpečná.</string>
-  <string name="settings">Nastavenia</string>
 </resources>

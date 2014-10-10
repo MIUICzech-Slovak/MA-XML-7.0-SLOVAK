@@ -68,6 +68,10 @@
   <string name="dlg_add_keyword">Kľúčové slová</string>
   <string name="dlg_add_manual_hint">Zadajte telefónne číslo</string>
   <string name="dlg_add_manual_ok">Pridať</string>
+  <string name="dlg_antispam_mode_delete_message">Nie je možné obnoviť vlastný profil po jeho vymazaní.</string>
+  <string name="dlg_antispam_mode_delete_title">Vymazanie vlastného profilu</string>
+  <string name="dlg_antispam_using_mode_delete_message">Vymazať vlastný profil a prepnúť na predvolený? Túto akciu nie je možné vrátiť späť!</string>
+  <string name="dlg_antispam_using_mode_international_delete_message">Vymazať vlastný profil a prepnúť na predvolený? Túto akciu nie je možné vrátiť späť!</string>
   <string name="dlg_bl_add_manual">Zadať telefónne číslo manuálne</string>
   <string name="dlg_black_address_antispam_message">Pridať túto predvoľbu do Čiernej listiny a blokovať ju?</string>
   <string name="dlg_black_antispam_hint">AntiSpam</string>
@@ -103,6 +107,7 @@
   <string name="fw_blocked_count" formatted="false">"Blokované: "</string>
   <string name="fw_blocked_count_call">Hovory (%d)</string>
   <string name="fw_blocked_count_sms">SMS (%d)</string>
+  <string name="fw_blocked_join">" a "</string>
   <string name="hint_antispam_mode_edit">Vlastný režim</string>
   <string name="info_antispam_phone">Blokovať Hovory</string>
   <string name="info_antispam_phone_sms">Blokovať SMS a Hovory</string>
@@ -143,6 +148,7 @@
   <string name="note_sms_none">Prázdne</string>
   <string name="one_address_choose_hint">%s 1 región</string>
   <string name="open_callwait">Povoliť</string>
+  <string name="sim_not_ready">SIM karta nie je pripravená</string>
   <string name="sms_delete_hint">Vymazať všetky blokované SMS z vybraného čísla?</string>
   <string name="st_advanced_setting_group">Rozšírené</string>
   <string name="st_antispam_black_adress_add">Blokovaný región (Iba Čína)</string>
@@ -238,9 +244,11 @@
   <string name="st_title_man_head_addblacklist">Pridať predvoľbu na Čiernu listinu</string>
   <string name="st_title_man_head_addwhitelist">Pridať predvoľbu do výnimiek</string>
   <string name="st_title_mode_choose_group">Výber režimu blokovania</string>
+  <string name="st_title_not_sim">Prázdne</string>
   <string name="st_title_open_antispam">AntiSpam</string>
   <string name="st_title_settings_other_group">Ostatné nastavenia</string>
   <string name="st_title_show_antispamnotification">Zobraziť upozornenie</string>
+  <string name="st_title_sim_card">%1$s-SIM %2$s</string>
   <string name="st_title_whitelist_numbers">Povolené čísla</string>
   <string name="sure">OK</string>
   <string name="tab_blacklist">Čierna listina</string>
@@ -256,12 +264,4 @@
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
-  <string name="fw_blocked_join">" a "</string>
-  <string name="sim_not_ready">SIM karta nie je pripravená</string>
-  <string name="st_title_not_sim">Prázdne</string>
-  <string name="st_title_sim_card">%1$s-SIM %2$s</string>
-  <string name="dlg_antispam_mode_delete_message">Nie je možné obnoviť vlastný profil po jeho vymazaní.</string>
-  <string name="dlg_antispam_mode_delete_title">Vymazanie vlastného profilu</string>
-  <string name="dlg_antispam_using_mode_delete_message">Vymazať vlastný profil a prepnúť na predvolený? Túto akciu nie je možné vrátiť späť!</string>
-  <string name="dlg_antispam_using_mode_international_delete_message">Vymazať vlastný profil a prepnúť na predvolený? Túto akciu nie je možné vrátiť späť!</string>
 </resources>

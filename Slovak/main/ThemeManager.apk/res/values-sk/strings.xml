@@ -140,6 +140,7 @@
   <string name="resource_exchange_wrong_format_by_local">Zadaný kód nie je platný.</string>
   <string name="resource_exchange_wrong_format_by_server">"Kód nebol overený. Uistite sa, že ste ho zadali správne."</string>
   <string name="resource_expand_full_text">Rozbaliť</string>
+  <string name="resource_failed_to_load_list">Načítavanie zoznamu zlyhalo</string>
   <string name="resource_get_auth_checking">Kontrola autorizácie...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhľad nemôže byť aplikovaný na tomto telefóne s Vašim Xiaomi účtom. Na jeden účet je možné prihlásiť len maximálne 10 zariadení za rok. Vložte iný Xiaomi účet.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Autorizácia zariadení pre tento účet presiahla limit</string>
@@ -176,6 +177,7 @@
   <string name="resource_ringtone_playing_error">chyba prehrávania</string>
   <string name="resource_ringtone_volume_mute">Zvonenia sú stíšené.</string>
   <string name="resource_save_to_note">Uložiť do Poznámok</string>
+  <string name="resource_search_list_empty">Nič sa nenašlo</string>
   <string name="resource_see_more">Viac</string>
   <string name="resource_select">Zvoliť</string>
   <string name="resource_selected">Najlepšie</string>
@@ -272,6 +274,4 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
-  <string name="resource_failed_to_load_list">Načítavanie zoznamu zlyhalo</string>
-  <string name="resource_search_list_empty">Nič sa nenašlo</string>
 </resources>

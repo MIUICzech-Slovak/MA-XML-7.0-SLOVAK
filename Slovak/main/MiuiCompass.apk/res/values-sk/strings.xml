@@ -2,6 +2,7 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="altitude_title">Nadm. výška</string>
+  <string name="altitude_unit">m</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_altitude">Kalibácia</string>
   <string name="calibrate_failed_no_location">Kalibrácia zlyhala. Nie je možné získať aktuálnu polohu</string>
@@ -32,5 +33,4 @@
   <string name="mobiledata_alert_dialog_title">Upozornenie</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
-  <string name="altitude_unit">m</string>
 </resources>

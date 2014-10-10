@@ -1,11 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
+  <string name="agree">Súhlasím</string>
   <string name="congratulation_label">Užite si svoj nový telefón s miuios.cz :)</string>
   <string name="congratulation_next">Spustiť MIUI</string>
+  <string name="disagree">Odmietnuť</string>
+  <string name="ime_privacy_policy">Podmienky súkromia vybranej klávesnice</string>
+  <string name="ime_privacy_policy_no_network">Nie je možné sa pripojiť k sieti. Prečítajte si podmienky súkromia pre túto klávesnicu na %s.</string>
   <string name="input_method_category">Vyberte predvolenú metódu vstupu</string>
   <string name="input_method_setting">Zvoľte metódu zadávania</string>
   <string name="logo_congratulation">Hotovo!</string>
+  <string name="multisim_settings_category">Nastavenie preferovanej SIM</string>
+  <string name="multisim_settings_title">Našli sa 2 SIM karty</string>
   <string name="next">Ďalej</string>
   <string name="other_settings">Ďalšie nastavenia</string>
   <string name="other_settings_location">Prístup k polohe</string>
@@ -13,27 +19,21 @@
   <string name="other_settings_user_experience">Spätná väzba</string>
   <string name="other_settings_user_experience_summary">Pomôžte zlepšiť MIUI odosielaním anonymných štatistík v rámci našej %s"</string>
   <string name="other_settings_user_experience_summary1">Ochrany súkromia</string>
+  <string name="pref_title_data_slot">Preferovaná dátová SIM karta</string>
+  <string name="pref_title_voice_slot">Preferovaná hlasová SIM karta</string>
+  <string name="privacy_policy">Podmienky súkromia</string>
+  <string name="provision_inputmethod_policy_description">"Zobraziť pre túto klávesnicu "</string>
+  <string name="provision_inputmethod_policy_description1">Podmienky súkromia</string>
   <string name="shut_down">Vypnúť</string>
   <string name="sim_card_detecting">Vyhľadávanie SIM karty...</string>
   <string name="sim_card_detection">SIM karta sa nenašla</string>
   <string name="sim_card_detection_info">Pre vytvorenie Xiaomi účtu sa vyžaduje SIM karta.</string>
   <string name="sim_dectection_next">Pokračovať</string>
   <string name="sim_redetection">Znova skontrolovať SIM kartu</string>
-  <string name="welcome">Vitajte v</string>
-  <string name="multisim_settings_category">Nastavenie preferovanej SIM</string>
-  <string name="multisim_settings_title">Našli sa 2 SIM karty</string>
-  <string name="pref_title_data_slot">Preferovaná dátová SIM karta</string>
-  <string name="pref_title_voice_slot">Preferovaná hlasová SIM karta</string>
   <string name="summary_not_set">Nenastavené</string>
   <string name="summary_sim_card">Karta %1$d%2$s</string>
-  <string name="agree">Súhlasím</string>
-  <string name="disagree">Odmietnuť</string>
-  <string name="ime_privacy_policy">Podmienky súkromia vybranej klávesnice</string>
-  <string name="ime_privacy_policy_no_network">Nie je možné sa pripojiť k sieti. Prečítajte si podmienky súkromia pre túto klávesnicu na %s.</string>
-  <string name="privacy_policy">Podmienky súkromia</string>
-  <string name="provision_inputmethod_policy_description">"Zobraziť pre túto klávesnicu "</string>
-  <string name="provision_inputmethod_policy_description1">Podmienky súkromia</string>
   <string name="terms_of_use">Podmienky používania</string>
   <string name="terms_of_use_label">Musíte súhlasiť s Podmienkami používania a Podmienkami súkromia ak chcete používať MIUI.</string>
   <string name="user_agreement">Podmienky používania</string>
+  <string name="welcome">Vitajte v</string>
 </resources>

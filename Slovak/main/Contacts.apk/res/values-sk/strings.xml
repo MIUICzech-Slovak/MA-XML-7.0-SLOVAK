@@ -204,6 +204,7 @@
   <string name="createContactShortcutSuccessful">Widget kontaktu bol pridaný na plochu.</string>
   <string name="create_group_dialog_title">Vytvoriť novú skupinu</string>
   <string name="create_group_item_label">[Vytvoriť novú skupinu]</string>
+  <string name="create_qrcode_fail_message">Vytváranie QR kódu zlyhalo</string>
   <string name="customLabelPickerTitle">Vlastné označenie</string>
   <string name="custom_list_filter">Definovať vlastné zobrazenie</string>
   <string name="custom_nickname_hint">Vložte oslovenie ako: Pán/Pani</string>
@@ -355,6 +356,7 @@
   <string name="export_sim_contacts_dialog_message">Vaša SIM karta môže uložiť %d kontaktov. Chcete pokračovať?</string>
   <string name="export_to_sdcard">Exportovať na úložisko</string>
   <string name="export_to_sim">Exportovať na SIM kartu</string>
+  <string name="export_to_sim1">Exportovať do SIM 1</string>
   <string name="export_to_sim2">Exportovať na SIM 2</string>
   <string name="export_to_sim_title">Exportovanie na SIM kartu...</string>
   <string name="export_vcard_description">Exportovať vCard na SD kartu</string>
@@ -428,6 +430,7 @@ Chyba: \"%s\""</string>
   <string name="import_from_other_phone">Importovať z iného telefónu</string>
   <string name="import_from_sdcard">Importovať z SD karty</string>
   <string name="import_from_sim">Importovať z karty SIM</string>
+  <string name="import_from_sim1">Importovať zo SIM 1</string>
   <string name="import_from_sim2">Importovať zo SIM 2</string>
   <string name="import_multiple_vcard_string">Importovať viac vizitiek</string>
   <string name="import_name">Meno</string>
@@ -705,6 +708,7 @@ Synchronizujte ich teraz."</string>
   <string name="pref_key_rebuild_t9_index_message">Opraviť index vyhľadávania kontaktov</string>
   <string name="pref_key_rebuild_t9_index_title">Obnoviť T9 index</string>
   <string name="pref_key_sim_manage">Správa SIM kariet</string>
+  <string name="pref_key_sim_manage1">Nastaviť SIM 1</string>
   <string name="pref_key_sim_manage2">Nastaviť SIM 2</string>
   <string name="pref_summary_import_from_account">Kopírovanie kontaktov z Google a Exchange na účet Xiaomi</string>
   <string name="pref_title_account_import">Kopírovanie z účtu</string>
@@ -753,6 +757,8 @@ Synchronizujte ich teraz."</string>
   <string name="profile_display_name">Nastaviť môj profil</string>
   <string name="profile_name">Môj profil</string>
   <string name="profile_name_photo">Ja</string>
+  <string name="qr_card_card">Môj QR kód</string>
+  <string name="qrcode_card_title">QR kód vizitka</string>
   <string name="quickcontact_missing_app">Aplikácia potrebná na túto akciu nebola nájdená</string>
   <string name="quit_dialog_confirm_title">Chcete ukončiť zlučovanie kontaktov?</string>
   <string name="readOnlyContactDeleteConfirmation">Tento kontakt obsahuje informácie z niekoľkých účtov. Informácie z účtu len na čítanie budú v zoznamoch kontaktov skryté, ale nebudú vymazané.</string>
@@ -871,6 +877,7 @@ Synchronizujte ich teraz."</string>
   <string name="resource_exchange_wrong_format_by_local">Zadaný kód nie je platný.</string>
   <string name="resource_exchange_wrong_format_by_server">"Kód nebol overený. Uistite sa, že ste ho zadali správne."</string>
   <string name="resource_expand_full_text">Rozbaliť</string>
+  <string name="resource_failed_to_load_list">Načítavanie zlyhalo</string>
   <string name="resource_get_auth_checking">Kontrola autorizácie...</string>
   <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhľad nemôže byť aplikovaný na tomto telefóne s Vašim Xiaomi účtom. Na jeden účet je možné prihlásiť len maximálne 10 zariadení za rok. Vložte iný Xiaomi účet.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Autorizácia zariadení pre tento účet presiahla limit</string>
@@ -907,6 +914,7 @@ Synchronizujte ich teraz."</string>
   <string name="resource_ringtone_playing_error">chyba prehrávania</string>
   <string name="resource_ringtone_volume_mute">Zvonenia sú stíšené.</string>
   <string name="resource_save_to_note">Uložiť do Poznámok</string>
+  <string name="resource_search_list_empty">Nič sa nenašlo</string>
   <string name="resource_see_more">Viac</string>
   <string name="resource_select">Zvoliť</string>
   <string name="resource_selected">Najlepšie</string>
@@ -946,6 +954,8 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="scan">Prehľadať zariadenie</string>
   <string name="scan_duplicate_message">Počet duplicitných kontaktov: %1$d</string>
   <string name="scan_merge">Hľadanie možných duplicitných kontaktov, prosím čakajte...</string>
+  <string name="scan_qrcode_card_hint1">Načítajte QR kód</string>
+  <string name="scan_qrcode_card_hint2">Pridajte si ma do svojich kontaktov</string>
   <string name="scanning">Kontrola...</string>
   <string name="scanning_sdcard_failed_message">"Vyhľadávanie na karte SD sa nepodarilo. (Dôvod: \"%s\")</string>
   <string name="scanning_sdcard_failed_title">Vyhľadávanie na karte SD sa nepodarilo</string>
@@ -1048,6 +1058,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="splitConfirmation_title">Oddeliť kontakt</string>
   <string name="starredList">Označené hviezdičkou</string>
   <string name="starred_contacts">Obľúbené</string>
+  <string name="starred_yellowpage">Obľúbené zložky</string>
   <string name="status_available">Dostupný</string>
   <string name="status_away">Preč</string>
   <string name="status_busy">Zaneprázdnený</string>
@@ -1143,15 +1154,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="resource_failed_to_load_list">Načítavanie zlyhalo</string>
-  <string name="resource_search_list_empty">Nič sa nenašlo</string>
-  <string name="create_qrcode_fail_message">Vytváranie QR kódu zlyhalo</string>
-  <string name="qr_card_card">Môj QR kód</string>
-  <string name="qrcode_card_title">QR kód vizitka</string>
-  <string name="scan_qrcode_card_hint1">Načítajte QR kód</string>
-  <string name="scan_qrcode_card_hint2">Pridajte si ma do svojich kontaktov</string>
-  <string name="starred_yellowpage">Obľúbené zložky</string>
-  <string name="export_to_sim1">Exportovať do SIM 1</string>
-  <string name="import_from_sim1">Importovať zo SIM 1</string>
-  <string name="pref_key_sim_manage1">Nastaviť SIM 1</string>
 </resources>

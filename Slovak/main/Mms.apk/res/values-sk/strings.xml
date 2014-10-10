@@ -149,6 +149,9 @@
   <string name="feedback_description_hint">Napíšte Váš názor (povinné v Angličtine)</string>
   <string name="feedback_submit">Odoslať</string>
   <string name="festival">Odporúčané</string>
+  <string name="festival_continue">OK</string>
+  <string name="festival_networking_desc">Táto funkcia vyžaduje pripojenie na internet.</string>
+  <string name="festival_never_remind">Viac sa nepýtať</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Načítavanie...</string>
   <string name="fetion_prefix">[Otvoriť]</string>
@@ -195,11 +198,13 @@
   <string name="menu_edit">Upraviť</string>
   <string name="menu_forward">Poslať ďalej</string>
   <string name="menu_lock">Zamknúť</string>
+  <string name="menu_more">Viac</string>
   <string name="menu_new_manual">Vložiť číslo manuálne</string>
   <string name="menu_pick_from_contact">Vybrať z kontaktov</string>
   <string name="menu_preferences">Nastavenia</string>
   <string name="menu_unlock">Odomknúť</string>
   <string name="menu_view_contact">Zobraziť kontakt</string>
+  <string name="menu_yellowpage">Zobraziť %s</string>
   <string name="message_class_label">"Trieda správy: "</string>
   <string name="message_details_title">Podrobnosti o správe</string>
   <string name="message_download_failed_title">Správa nebola stiahnutá</string>
@@ -258,6 +263,8 @@
   <string name="mx_int_warning_notice">Pre aktiváciu Cloud správ sa odošle medzinárodná správa ktorá bude spoplatnená Vaším operátorom</string>
   <string name="mx_msg">Cloud Správa</string>
   <string name="mx_offline">Offline</string>
+  <string name="mx_on_sim_1">Cloudové správy na SIM 1</string>
+  <string name="mx_on_sim_2">Cloudové správy na SIM 2</string>
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Znova aktivovať Cloud správy</string>
   <string name="mx_recommend_msg">Povoľte Cloud Správy pre zasielanie správ zdarma</string>
@@ -319,6 +326,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="pref_title_allow_si_sl_push">Povoliť WAP push</string>
   <string name="pref_title_card_format">Formát vizitky</string>
   <string name="pref_title_delivery_reports">Doručenka</string>
+  <string name="pref_title_festival_networking">Upozornenie na pripojenie</string>
   <string name="pref_title_fwd_sender_info">Kto preposlal</string>
   <string name="pref_title_hide_festival">Skryť kartu Odporúčaných</string>
   <string name="pref_title_manage_sim_messages">Spravovanie Správ na karte SIM</string>
@@ -509,12 +517,4 @@ Pokus: %s."</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="festival_continue">OK</string>
-  <string name="festival_networking_desc">Táto funkcia vyžaduje pripojenie na internet.</string>
-  <string name="festival_never_remind">Viac sa nepýtať</string>
-  <string name="pref_title_festival_networking">Upozornenie na pripojenie</string>
-  <string name="menu_more">Viac</string>
-  <string name="menu_yellowpage">Zobraziť %s</string>
-  <string name="mx_on_sim_1">Cloudové správy na SIM 1</string>
-  <string name="mx_on_sim_2">Cloudové správy na SIM 2</string>
 </resources>

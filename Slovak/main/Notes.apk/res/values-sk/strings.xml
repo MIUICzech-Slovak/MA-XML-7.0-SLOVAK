@@ -93,12 +93,12 @@
   <string name="sns_toast_over_limit">Odoslať ako obrázok</string>
   <string name="toast_folder_privacy_mode">V Chránenom režime nie je možné zložky upravovať</string>
   <string name="toast_message_add_image_fail">Vloženie obrázku zlyhalo!</string>
+  <string name="toast_note_privacy_mode">V režime Návštevník nie je možné vytvoriť poznámku</string>
   <string name="toast_reach_text_limit_attachment">Obsah poznámky je príliš dlhý pre pridanie novej prílohy.</string>
   <string name="toast_reach_text_limit_truncate">"Obsah poznámky je automaticky skrátený, pretože je príliš dlhý."</string>
   <string name="undo">Späť</string>
   <string name="unknown_source">Neznámy zdroj</string>
+  <string name="widget_content_loading">Načítavanie...</string>
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
-  <string name="widget_content_loading">Načítavanie...</string>
-  <string name="toast_note_privacy_mode">V režime Návštevník nie je možné vytvoriť poznámku</string>
 </resources>

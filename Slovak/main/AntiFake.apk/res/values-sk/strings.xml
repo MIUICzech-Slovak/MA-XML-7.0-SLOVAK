@@ -97,12 +97,15 @@
   <string name="tip_set_cpu_modle">Overte, že máte zvolený Výkonný režim, inak môžu byť ovplyvnené výsledky kontroly výkonu a pravosti zariadenia.</string>
   <string name="tip_skip_set_cpu_model">Skutočne preskočiť?</string>
   <string name="tip_skip_set_cpu_modle">Preskočiť</string>
+  <string name="tip_uninstall">Odinštalácia</string>
+  <string name="tip_uninstall_msg">Je nutné najskôr odinštalovať starú verziu pred inštaláciou novej verzie.</string>
   <string name="tip_unsupport_device">Toto zariadenie nie je momentálne podporované</string>
   <string name="tip_unsupport_device_mode">Zariadenie nie je podporované</string>
   <string name="tip_update">Našla sa nová verzia. Neaktualizujte, je bez CZ/SK!</string>
   <string name="tip_update_failed">Automatická aktualizácia zlyhala</string>
   <string name="tip_update_right_now">Aktualizovať</string>
   <string name="title_error_token">Overenie zlyhalo</string>
+  <string name="uninstall">Odinštalovať</string>
   <string name="unknown_error">Neznáma chyba</string>
   <string name="unknown_mobile">Neznáme zariadenie</string>
   <string name="update_right_now">Aktualizovať</string>
@@ -110,7 +113,4 @@
   <string name="xiaomi_checker">Mi kontrola</string>
   <string name="xiaomi_desc">Používate Xiaomi Mi3</string>
   <string name="xiaomi_name">Beijing Xiaomi Mobile Software Co., Ltd.</string>
-  <string name="tip_uninstall">Odinštalácia</string>
-  <string name="tip_uninstall_msg">Je nutné najskôr odinštalovať starú verziu pred inštaláciou novej verzie.</string>
-  <string name="uninstall">Odinštalovať</string>
 </resources>

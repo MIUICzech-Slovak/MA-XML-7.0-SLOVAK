@@ -1,8 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
+  <string name="accept">OK</string>
   <string name="activate">Aktivovať</string>
-  <string name="app_name">Aktivácia Xiaomi Účtu</string>
+  <string name="activate_feature_call_log_sync">Záznamy o volaní</string>
+  <string name="activate_feature_find_device">Vyhľadávanie zariadenia</string>
+  <string name="activate_feature_mms_sync">SMS</string>
+  <string name="activate_feature_mx">Cloud správy</string>
+  <string name="activate_phone_failed_notif_title">Nie je možné aktivovať SIM kartu</string>
+  <string name="activate_phone_failed_notif_title_msim">Nie je možné aktivovať SIM kartu %s</string>
+  <string name="activate_popup_confirm_failed_phone_error">Znova</string>
+  <string name="activate_popup_confirm_failed_query_info">Znova</string>
+  <string name="activate_popup_confirm_failed_receive_sms">Znova</string>
+  <string name="activate_popup_confirm_failed_send_sms">Znova</string>
+  <string name="activate_popup_confirm_failed_server">Znova</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">Vaše SIM karty sú zmenené. 2 medzinárodne SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
   <string name="activate_popup_desc_new_2_sim_cards">Vaše SIM karty sú zmenené. 2 SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
   <string name="activate_popup_desc_new_intl_sim_card">Vaša SIM karta je zmenená. Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
@@ -54,20 +65,9 @@
   <string name="activate_status_desc_wait_for_sms_success">Aktivačná SMS zo servera prijatá</string>
   <string name="activate_status_title_activating">Aktivácia vašej SIM karty</string>
   <string name="activate_status_title_activating_msim">Aktivácia vašej SIM karty %s</string>
-  <string name="xmsf_activate_info">XMSF info</string>
-  <string name="sim_unactivated_title">Vaša SIM karta nie je aktivovaná</string>
-  <string name="activate_feature_call_log_sync">Záznamy o volaní</string>
-  <string name="activate_feature_find_device">Vyhľadávanie zariadenia</string>
-  <string name="activate_feature_mms_sync">SMS</string>
-  <string name="activate_feature_mx">Cloud správy</string>
-  <string name="activate_phone_failed_notif_title">Nie je možné aktivovať SIM kartu</string>
-  <string name="activate_phone_failed_notif_title_msim">Nie je možné aktivovať SIM kartu %s</string>
-  <string name="activate_popup_confirm_failed_phone_error">Znova</string>
-  <string name="activate_popup_confirm_failed_query_info">Znova</string>
-  <string name="activate_popup_confirm_failed_receive_sms">Znova</string>
-  <string name="activate_popup_confirm_failed_send_sms">Znova</string>
-  <string name="activate_popup_confirm_failed_server">Znova</string>
+  <string name="app_name">Aktivácia Xiaomi Účtu</string>
   <string name="error_device_id_message">Niektorí služby budú nedostupné</string>
   <string name="error_device_id_title">Nie je možné získať číslo IMEI</string>
-  <string name="accept">OK</string>
+  <string name="sim_unactivated_title">Vaša SIM karta nie je aktivovaná</string>
+  <string name="xmsf_activate_info">XMSF info</string>
 </resources>

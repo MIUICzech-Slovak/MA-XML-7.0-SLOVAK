@@ -367,6 +367,7 @@
   <string name="failed">Obrázok sa nepodarilo načítať</string>
   <string name="feedback">Odoslať spätnú väzbu</string>
   <string name="feedback_body">Informácie o spätnej väzbe</string>
+  <string name="feedback_sent">Ďakujeme za váš názor.</string>
   <string name="fetching_attachment">Načítavanie prílohy</string>
   <string name="file_deleted_success">Súbor vymazaný!</string>
   <string name="file_not_found">Súbor sa na serveri nenašiel!</string>
@@ -500,6 +501,7 @@ Kópia: %4$s
   <string name="message_invite_tentative">Možno</string>
   <string name="message_invite_title">Pozvánka kalendára</string>
   <string name="message_saved">Správa bola uložená ako koncept.</string>
+  <string name="message_type_name">správa</string>
   <string name="message_view_attachment_background_load">Pred odoslaním sa prevezme jedna alebo viacero príloh zo správy posielanej ďalej.</string>
   <string name="more_atts_total">Príloh: %1$d</string>
   <string name="more_info_attachment">Informácie</string>
@@ -516,6 +518,7 @@ Kópia: %4$s
   <string name="next_action">Ďalej</string>
   <string name="no">Nie</string>
   <string name="no_application_found">Žiadna aplikácia nemôže otvoriť ani zobraziť túto prílohu.</string>
+  <string name="no_contacts">Prázdne</string>
   <string name="no_conversations">Žiadne správy</string>
   <string name="no_mails">Žiadne správy</string>
   <string name="no_matched_attachment">Žiadne prílohy sa nenašli!</string>
@@ -733,6 +736,7 @@ presahuje limit"</string>
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_save_char">s</string>
   <string name="trigger_y_char">y</string>
+  <string name="tryrefreshing">Skúste obnoviť...</string>
   <string name="turn_auto_sync_on_dialog_body">Zmeny, ktoré vykonáte vo všetkých aplikáciách a účtoch, budú synchronizované medzi webom, ďalšími zariadeniami a zariadením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnúť</string>
   <string name="turn_auto_sync_on_dialog_title">Zapnúť automatickú synchronizáciu?</string>
@@ -775,8 +779,4 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="message_type_name">správa</string>
-  <string name="tryrefreshing">Skúste obnoviť...</string>
-  <string name="feedback_sent">Ďakujeme za váš názor.</string>
-  <string name="no_contacts">Prázdne</string>
 </resources>

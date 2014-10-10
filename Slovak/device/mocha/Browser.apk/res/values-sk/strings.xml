@@ -122,9 +122,12 @@
   <string name="clear_history">Vymazať históriu</string>
   <string name="clear_history_group">Vymazať %s históriu prehliadania</string>
   <string name="clear_search_history">Vymazať históriu</string>
+  <string name="close_cloud_tab_tip">Zatvoriť cloudové karty na %s ?</string>
   <string name="close_other_tabs">Zatvoriť ostatné karty</string>
   <string name="cloud_loading_tips">Potiahnite nadol pre synchr.</string>
   <string name="cloud_no_new_data_toast">Žiadne nové dáta</string>
+  <string name="cloud_sync_closed_toast">Synchr. Cloudu je deaktivovaná</string>
+  <string name="cloud_sync_failed_toast">Aktualizácia zlyhala</string>
   <string name="cloud_tab">Karta Cloudu</string>
   <string name="cloud_time_tips">Naposledy</string>
   <string name="cloud_up_to_loading_tips">Pustite pre synchr.</string>
@@ -181,6 +184,7 @@
   <string name="disable_autofill">Vypnúť automatické vypĺňanie</string>
   <string name="do_not_save">Zrušiť</string>
   <string name="done">Hotovo</string>
+  <string name="dont_remind_again">Zapamätať</string>
   <string name="download_complete">Sťahovanie dokončené</string>
   <string name="download_failed">Sťahovanie zlyhalo</string>
   <string name="download_no_sdcard_dlg_msg">Na stiahnutie %s sa vyžaduje USB úložisko.</string>
@@ -362,6 +366,9 @@
   <string name="pref_autofill_profile_editor_summary">Nastaviť automatické vypĺňanie textu vo formulároch</string>
   <string name="pref_autologin_progress">Prihlasovanie na Google pomocou %s</string>
   <string name="pref_autologin_title">Automatické prihlásenie do Google</string>
+  <string name="pref_check_security_url">Bezpečnosť URL</string>
+  <string name="pref_check_security_url_summary">Odoslať URL web stránky na Xiaomi server pre overenie bezpečnosti</string>
+  <string name="pref_check_security_url_title">Kontrola bezpečnosti stránky</string>
   <string name="pref_content_auto_light_mode">Automatický jas</string>
   <string name="pref_content_autofit">Auto-fit stránky</string>
   <string name="pref_content_autofit_summary">Formátovať stránky aby sa zmestili na obrazovku</string>
@@ -542,6 +549,8 @@
   <string name="share_page">Zdieľať</string>
   <string name="shortcut_bookmark">Záložka</string>
   <string name="shortcut_bookmark_title">Vyber záložku</string>
+  <string name="show_check_security_url_check_tip_dialog_description">URL adresa tejto web stránky bude odoslaná na servre Xiaomi pre kontrolu jej bezpečnosti. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach Prehliadača.</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Bezpečnosť URL</string>
   <string name="sign_in_to" formatted="false">Prihlásenie do %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Nemožno uložiť pre čítanie offline."</string>
   <string name="snapshot_go_live">Aktualizovať</string>
@@ -618,13 +627,4 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="close_cloud_tab_tip">Zatvoriť cloudové karty na %s ?</string>
-  <string name="cloud_sync_closed_toast">Synchr. Cloudu je deaktivovaná</string>
-  <string name="cloud_sync_failed_toast">Aktualizácia zlyhala</string>
-  <string name="dont_remind_again">Zapamätať</string>
-  <string name="pref_check_security_url">Bezpečnosť URL</string>
-  <string name="pref_check_security_url_summary">Odoslať URL web stránky na Xiaomi server pre overenie bezpečnosti</string>
-  <string name="pref_check_security_url_title">Kontrola bezpečnosti stránky</string>
-  <string name="show_check_security_url_check_tip_dialog_description">URL adresa tejto web stránky bude odoslaná na servre Xiaomi pre kontrolu jej bezpečnosti. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach Prehliadača.</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Bezpečnosť URL</string>
 </resources>

@@ -64,6 +64,7 @@ sa dotknete štítkom telefónu"</string>
   <string name="email_to">Pre</string>
   <string name="empty_tag">Tento štítok je prázdny</string>
   <string name="enable_wifi">Wi-Fi</string>
+  <string name="erase_pon_pon_tile">Vymazať štítok</string>
   <string name="erase_success">Vymazané</string>
   <string name="erasing">Mazanie...</string>
   <string name="err_fail_to_erase">Vymazanie štítku zlyhalo</string>
@@ -204,5 +205,4 @@ Veľkosť: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff" formatted="false">"Nová verzia %1$s
 Veľkosť rozdielového balíčka: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s aktualizácia!</string>
-  <string name="erase_pon_pon_tile">Vymazať štítok</string>
 </resources>

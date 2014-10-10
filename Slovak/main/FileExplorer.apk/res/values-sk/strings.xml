@@ -46,7 +46,9 @@
   <string name="compress_title">Zbaliť</string>
   <string name="confirm">OK</string>
   <string name="confirm_know">OK</string>
+  <string name="connect_network_setting_des">Upozorniť na prístup k sieti</string>
   <string name="copy_failed">Kopírovanie zlyhalo</string>
+  <string name="copy_file_to_kuaipan">Kopírovať na MiDrive</string>
   <string name="create_kuaipan_shortcut_pref">Vytvoriť ikonu na ploche</string>
   <string name="create_new_folder_desctiption">Vytváranie novej zložky...</string>
   <string name="create_new_folder_failed">Nie je možné vytvoriť zložku %1$s</string>
@@ -76,6 +78,7 @@
   <string name="download_failed">Sťahovanie zlyhalo!</string>
   <string name="download_link_completed">Zdieľam %1$s cez MiDrive. Kliknite na linku nižšie: </string>
   <string name="downloading">Sťahovanie...</string>
+  <string name="downloading_in_3g">Sťahovanie cez 3G...</string>
   <string name="enable_sd_card">Povoliť SD kartu</string>
   <string name="error_filename_too_long">Názov súboru je príliš dlhý</string>
   <string name="error_info_cant_send_folder">Zložka nemôže byť presunutá</string>
@@ -86,6 +89,7 @@
   <string name="favorite_photo">Fotografia</string>
   <string name="favorite_ringtone">Vyzváňanie</string>
   <string name="favorite_screen_cap">MIUI Screenshot</string>
+  <string name="file_already_downlaoded">Súbor uložený do \"%1$s\"</string>
   <string name="file_info_canread">Čítanie:</string>
   <string name="file_info_canwrite">Zápis:</string>
   <string name="file_info_ishidden">Skrytý:</string>
@@ -110,6 +114,8 @@
   <string name="gbk_summary">Predvolené kódovanie pre Windows s tradičnou čínštinou</string>
   <string name="gbk_title">GBK</string>
   <string name="gigabyteShort">GB</string>
+  <string name="image_download">Stiahnuť</string>
+  <string name="image_share">Zdieľať</string>
   <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
   <string name="instruction_pre">Slúži k prenosu súborov medzi telefónom a PC pomocou FTP protokolu.</string>
   <string name="kilobyteShort">KB</string>
@@ -171,6 +177,8 @@ Server je momentálne nedostupný, skúste to opäť neskôr
   <string name="name_illegal">Názov súboru nesmie byť prázdny</string>
   <string name="net_lose_connected">Sieť nedostupná, nie je možné zistiť veľkosť</string>
   <string name="networkView_notConnected">Sieť nedostupná</string>
+  <string name="network_connect_confirm_des">Používanie MiDrive vyžaduje prístup k sieti, chcete ho povoliť?</string>
+  <string name="never_notify_network_connect">Viac sa nepýtať</string>
   <string name="new_folder_name">Nová zložka</string>
   <string name="no">Nie</string>
   <string name="no_enough_storage_indication">Nie je dostatok miesta na úložisku. Vymažte nepotrené súbory a skúste to znova alebo použite Čistenie nepotrebných súborov.</string>
@@ -187,7 +195,9 @@ Server je momentálne nedostupný, skúste to opäť neskôr
 2. Nahrať (aktualizovať súbor v Cloude)"</string>
   <string name="open_changed_file_title">Súbor je zmenený</string>
   <string name="open_file_failed">Otváranie zlyhalo</string>
+  <string name="operate_confirm_in_3g">Použiť vaše mobilné pripojenie pre stiahnutie tohto veľkého súboru?</string>
   <string name="operating">Pracujem...</string>
+  <string name="operation_agree">Povoliť</string>
   <string name="operation_cancel">Zrušiť</string>
   <string name="operation_compress">Zbaliť</string>
   <string name="operation_compressing">Komprimovanie...</string>
@@ -218,6 +228,7 @@ Server je momentálne nedostupný, skúste to opäť neskôr
   <string name="operation_rename_message">Vložte nové meno</string>
   <string name="operation_resume">Obnoviť</string>
   <string name="operation_resume_all">Obnoviť všetko</string>
+  <string name="operation_save">Uložiť</string>
   <string name="operation_send">Odoslať</string>
   <string name="operation_show_sys">Zobraziť systémové súbory</string>
   <string name="operation_unfavorite">Odobrať z obľúbených</string>
@@ -261,10 +272,12 @@ Získali ste ďalších %1$s"</string>
   <string name="storage_usb">USB úložisko</string>
   <string name="storage_warning">SD karta nie je prístupné alebo sa nedá čítať.</string>
   <string name="sys_size_enable">" Voľné"</string>
+  <string name="system_alert">Upozornenie</string>
   <string name="tab_category">Kategórie</string>
   <string name="tab_expand">Rozbaliť</string>
   <string name="tab_local">Lokálne</string>
   <string name="tab_networkdisk">MiDrive</string>
+  <string name="tab_path">Úložisko</string>
   <string name="tab_phone">Telefón</string>
   <string name="tab_sys_size">Celkovo</string>
   <string name="terabyteShort">TB</string>
@@ -296,6 +309,7 @@ Získali ste ďalších %1$s"</string>
   <string name="user_guide_kuaipan_lable">MiDrive pre vás</string>
   <string name="user_guide_other_version"/>
   <string name="user_guide_save_file">Ukladanie vašich súborov na MiDrive.</string>
+  <string name="user_guide_summary">Stručný prehľad</string>
   <string name="user_guide_upload_to_kuaipan"/>
   <string name="utf8_summary">Predvolené kódovanie FTP</string>
   <string name="version_text">Verzia %1$s</string>
@@ -307,18 +321,4 @@ Získali ste ďalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
-  <string name="connect_network_setting_des">Upozorniť na prístup k sieti</string>
-  <string name="copy_file_to_kuaipan">Kopírovať na MiDrive</string>
-  <string name="downloading_in_3g">Sťahovanie cez 3G...</string>
-  <string name="file_already_downlaoded">Súbor uložený do \"%1$s\"</string>
-  <string name="image_download">Stiahnuť</string>
-  <string name="image_share">Zdieľať</string>
-  <string name="network_connect_confirm_des">Používanie MiDrive vyžaduje prístup k sieti, chcete ho povoliť?</string>
-  <string name="never_notify_network_connect">Viac sa nepýtať</string>
-  <string name="operate_confirm_in_3g">Použiť vaše mobilné pripojenie pre stiahnutie tohto veľkého súboru?</string>
-  <string name="operation_agree">Povoliť</string>
-  <string name="operation_save">Uložiť</string>
-  <string name="system_alert">Upozornenie</string>
-  <string name="tab_path">Úložisko</string>
-  <string name="user_guide_summary">Stručný prehľad</string>
 </resources>

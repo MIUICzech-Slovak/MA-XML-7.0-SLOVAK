@@ -18,6 +18,11 @@
   <string name="camera_problem3">Aplikácia sa náhle ukončí</string>
   <string name="camera_problem4">Nie je možné prepnúť medzi prednou a zadnou kamerou</string>
   <string name="camera_problem5">Aplikácia sa nespustí</string>
+  <string name="cta_cancel">Zrušiť</string>
+  <string name="cta_confirm">OK</string>
+  <string name="cta_dialog_content">Hlásenie chýb vyžaduje prístup na internet. Chcete pokračovať?</string>
+  <string name="cta_dialog_title">Podmienky používania</string>
+  <string name="cta_not_show_again">Viac nezobrazovať</string>
   <string name="description">Našli ste novú chybu? Napíšte jej popis (v angličtine)</string>
   <string name="discard_draft_dialog_button_cancel">Zrušiť</string>
   <string name="discard_draft_dialog_button_discard">OK</string>
@@ -39,6 +44,7 @@
   <string name="err_type_systemapp">MIUI apl.</string>
   <string name="err_type_wifi">Wi-Fi</string>
   <string name="hot_problem">Zobraziť bežné chyby</string>
+  <string name="hot_problem_empty">Prázdne</string>
   <string name="loading_apps">Vytváranie zoznamu...</string>
   <string name="loading_hot_problem">Načítavanie...</string>
   <string name="menu_attach_screenshot">Pripojiť screenshot</string>
@@ -74,6 +80,7 @@
   <string name="systemui">Roletka</string>
   <string name="title_hot_problem">Bežné chyby</string>
   <string name="toast_description_required">Popis je povinný!</string>
+  <string name="toast_feedback_network_unavailable">Nie je možné sa pripojiť k sieti</string>
   <string name="toast_feedback_pending_wlan">Hlásená chyba bude odoslaná ked sa pripojíte na Wi-Fi</string>
   <string name="toast_feedback_submitted">Hlásenie chyby bolo úspešne odoslané</string>
   <string name="toast_feedbackservice_in_submit">Odosielanie staršieho hlásenia...</string>
@@ -91,11 +98,4 @@
   <string name="wlan_unavailable_dialog_button_sent">Odoslať okamžite</string>
   <string name="wlan_unavailable_dialog_content">Odošle sa %s cez 2G/3G dáta, stlačte OK na odoslanie cez sieť Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
-  <string name="hot_problem_empty">Prázdne</string>
-  <string name="cta_cancel">Zrušiť</string>
-  <string name="cta_confirm">OK</string>
-  <string name="cta_dialog_content">Hlásenie chýb vyžaduje prístup na internet. Chcete pokračovať?</string>
-  <string name="cta_dialog_title">Podmienky používania</string>
-  <string name="cta_not_show_again">Viac nezobrazovať</string>
-  <string name="toast_feedback_network_unavailable">Nie je možné sa pripojiť k sieti</string>
 </resources>

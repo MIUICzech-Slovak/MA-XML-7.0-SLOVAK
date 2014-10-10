@@ -2,6 +2,7 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="activity_not_found">Aplikácia nie je v telefóne nainštalovaná.</string>
+  <string name="app_being_backup_message">Zálohuje sa.</string>
   <string name="application_name">MIUI Launcher</string>
   <string name="apply_as_lock_wallpaper">Použiť</string>
   <string name="apply_as_lock_wallpaper_message">Nastaviť tapetu aj pre zámok?</string>
@@ -27,6 +28,9 @@
   <string name="default_folder_title_security">Bezpečnosť</string>
   <string name="default_folder_title_tools">Nástroje</string>
   <string name="default_name">Predvolené</string>
+  <string name="disable">Zakázať</string>
+  <string name="disable_auto_start_format">%s</string>
+  <string name="disable_auto_start_message">Zakázať auto. spustenie</string>
   <string name="edit_folder_title">Úprava názvu zložky</string>
   <string name="editing_add_widget_tips">Widgety</string>
   <string name="editing_mode_title_empty">Vyberte položky</string>
@@ -217,8 +221,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="disable">Zakázať</string>
-  <string name="disable_auto_start_format">%s</string>
-  <string name="disable_auto_start_message">Zakázať auto. spustenie</string>
-  <string name="app_being_backup_message">Zálohuje sa.</string>
 </resources>

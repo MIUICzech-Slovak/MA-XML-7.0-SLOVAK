@@ -37,6 +37,8 @@
   <string name="add_quicklink_to_popular">Pridať na Úvodnú stránku</string>
   <string name="add_quicklinks">Pridať</string>
   <string name="add_to_bookmark">Pridať do záložiek</string>
+  <string name="add_to_desk">Pridať na plochu</string>
+  <string name="add_to_desk_success">Pridané na plochu</string>
   <string name="add_to_quicklink">Pridať na úvodnú stránku</string>
   <string name="added_to_bookmarks">Pridané do záložiek.</string>
   <string name="adjust_text_zoom_toast">Zmena veľkosti textu môže spôsobiť nesprávne zobrazenie niektorých web stránok</string>
@@ -72,6 +74,10 @@
   <string name="autologin_bar_text">Prihlásiť ako</string>
   <string name="back">Späť</string>
   <string name="block"> Blokovať</string>
+  <string name="block_ads_choice_block">Blokovať</string>
+  <string name="block_ads_choice_continue">Pokračovať</string>
+  <string name="block_ads_message">Chcete zablokovať toto okno z tejto stránky?</string>
+  <string name="block_ads_title">Môže obsahovať reklamu</string>
   <string name="bookmark_URL_already_exisit">Záložka už existuje</string>
   <string name="bookmark_add_group_text_header">Pridať vybrané %1$d do skupiny</string>
   <string name="bookmark_add_to">Pridať do</string>
@@ -366,6 +372,8 @@
   <string name="pref_autologin_progress_in_background">Prihlasovanie na Google pomocou %s na pozadí</string>
   <string name="pref_autologin_title">Automatické prihlásenie do Google</string>
   <string name="pref_category_title_version">Verzia</string>
+  <string name="pref_check_security_url_summary">Odoslať URL web stránky na Xiaomi server pre overenie bezpečnosti</string>
+  <string name="pref_check_security_url_title">Kontrola bezpečnosti stránky</string>
   <string name="pref_clear_adblock_statistics">Vymazať štatistiky Adblock</string>
   <string name="pref_clear_adblock_statistics_dlg">Vymazať všetky štatistiky Adblock?</string>
   <string name="pref_clear_all_data_dlg">Vymazať všetky dáta?</string>
@@ -517,6 +525,7 @@
   <string name="profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
   <string name="progress_dialog_setting_wallpaper">Nastavovanie tapety...</string>
   <string name="qr_code_title">QR kód</string>
+  <string name="quicklink_bookmark_save">Uložiť ako:</string>
   <string name="quicklink_not_saved">Nie je možné pridať na úvodnú stránku</string>
   <string name="quicklink_saved">Pridané na úvodnú stránku</string>
   <string name="quicklink_saved_before">Stránka bola pridaná</string>
@@ -598,6 +607,8 @@
   <string name="share_link">Zdieľať odkaz</string>
   <string name="share_page">Zdieľať</string>
   <string name="share_page_text">Výborná stránka 【%1$s】| %2$s"</string>
+  <string name="show_check_security_url_check_tip_dialog_description">URL adresa tejto web stránky bude odoslaná na servre Xiaomi pre kontrolu jej bezpečnosti. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach Prehliadača.</string>
+  <string name="show_check_security_url_check_tip_dialog_title">Bezpečnosť URL</string>
   <string name="sign_in_to" formatted="false">Prihlásenie do %s1 \"%s2\"</string>
   <string name="snapshot_failed">"Nemožno uložiť pre čítanie offline."</string>
   <string name="snapshot_go_live">Aktualizovať</string>
@@ -715,15 +726,4 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="pref_check_security_url_summary">Odoslať URL web stránky na Xiaomi server pre overenie bezpečnosti</string>
-  <string name="pref_check_security_url_title">Kontrola bezpečnosti stránky</string>
-  <string name="show_check_security_url_check_tip_dialog_description">URL adresa tejto web stránky bude odoslaná na servre Xiaomi pre kontrolu jej bezpečnosti. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach Prehliadača.</string>
-  <string name="show_check_security_url_check_tip_dialog_title">Bezpečnosť URL</string>
-  <string name="add_to_desk">Pridať na plochu</string>
-  <string name="add_to_desk_success">Pridané na plochu</string>
-  <string name="quicklink_bookmark_save">Uložiť ako:</string>
-  <string name="block_ads_choice_block">Blokovať</string>
-  <string name="block_ads_choice_continue">Pokračovať</string>
-  <string name="block_ads_message">Chcete zablokovať toto okno z tejto stránky?</string>
-  <string name="block_ads_title">Môže obsahovať reklamu</string>
 </resources>
