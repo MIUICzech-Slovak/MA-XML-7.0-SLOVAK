@@ -71,7 +71,7 @@ Adresa: %2$s"</string>
   <string name="bracelet_not_found_info">Keď bliká LED, skúste ho vyhľadať znova.</string>
   <string name="bracelet_not_found_title">MiBand sa nenašiel</string>
   <string name="bt_operation_failed_tips">Chyba Bluetooth, skúste to znova</string>
-  <string name="cal">cal</string>
+  <string name="cal">kcal</string>
   <string name="cancel">Zrušiť</string>
   <string name="check_upgrade">Aktualizácia</string>
   <string name="checking_new_apk">Kontrola novej verzie...</string>
@@ -274,7 +274,7 @@ Zaspal som o %3$s, prebudil sa o %4$s."</string>
   <string name="new_friend_accept">Prijať</string>
   <string name="new_friend_cancel">Zrušiť</string>
   <string name="new_record_born">Skvelé! Nový rekord!</string>
-  <string name="new_record_format_str">Prejdené %1$s, spálené %2$s cal, nový rekord je len krok v mojej dlhej ceste</string>
+  <string name="new_record_format_str">Prejdené %1$s, spálené %2$s kcal, nový rekord je len krok v mojej dlhej ceste</string>
   <string name="new_version_available">Dostupná nová verzia</string>
   <string name="next_step">Ďalej</string>
   <string name="no_network_connection">Žiadne pripojenie</string>
@@ -375,9 +375,9 @@ Priemerný čas zaspávania %5$s, priemerný čas prebudenia %6$s."</string>
   <string name="share_sleep_title">Minulá noc</string>
   <string name="share_sleep_title_average">Priemerný spánok</string>
   <string name="share_sleep_title_daily">Spánok</string>
-  <string name="share_step_description">"Prejdené %1$s, spálené kalórie %2$s cal "</string>
+  <string name="share_step_description">"Prejdené %1$s, spálené kalórie %2$s kcal "</string>
   <string name="share_step_description_monthly">"%1$s%2$s
- spálené %3$s cal, a ušetrené %4$s litrov paliva.
+ spálené %3$s kcal, a ušetrené %4$s litrov paliva.
 (Ďakujeme, že chránite našu Zem)
 Najvyšší rekord bol v %5$s, prejdených %6$s krokov."</string>
   <string name="share_step_description_monthly_run">"%1$s, zabehnuté %2$s
@@ -385,10 +385,10 @@ Najvyšší rekord bol v %5$s, prejdených %6$s krokov."</string>
 (Ďakujeme, že chránite našu Zem)
 Najvyšší rekord bol %5$s, prejdené %6$s krokov."</string>
   <string name="share_step_description_run">"Prejdené %1$s, Zabehnuté %2$s
-Spálené %3$scal.
+Spálené %3$skcal.
 "</string>
   <string name="share_step_description_weekly">"%1$s%2$s
-Spálené %3$s cal.
+Spálené %3$s kcal.
 Najvyšší denný rekord bol v %4$s, prejdených %5$s krokov."</string>
   <string name="share_step_description_weekly_run">"Celkovo %1$s, zabehnuté %2$s
 %3$s
@@ -473,7 +473,7 @@ Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
   <string name="unbind_mili">Odpojiť MiBand</string>
   <string name="unbind_short">Odpojiť</string>
   <string name="unbinding">Odpájanie...</string>
-  <string name="unit_calorie">cal</string>
+  <string name="unit_calorie">kcal</string>
   <string name="unit_hour">h</string>
   <string name="unit_kilometer">km</string>
   <string name="unit_meter">m</string>
