@@ -2781,4 +2781,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="status_summary">Dotykom zobrazíte podrobnosti</string>
   <string name="wifi_subnet_mask">Subnet mask</string>
   <string name="status_bar_toggle_arrangement">Rozloženie prepínačov</string>
+  <string name="cmcc_dm_settings_disable_summary">Zakázať auto-štart</string>
+  <string name="cmcc_dm_settings_enable_summary">Povoliť auto-štart</string>
+  <string name="cmcc_dm_settings_title">Správa povolení zariadenia</string>
 </resources>

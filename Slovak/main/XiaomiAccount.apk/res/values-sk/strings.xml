@@ -8,7 +8,7 @@
   <string name="account_bind_devices">Aktívne zariadenia</string>
   <string name="account_bind_settings">Účty</string>
   <string name="account_dspt">Účet Xiaomi môže synchronizovať a zálohovať Vaše správy, kontakty, fotky, atď</string>
-  <string name="account_dspt_provision"/>
+  <string name="account_dspt_provision">Použite svoj Xiaomi účet na prihlásenie sa k MiCloud, Obchodu s témami a mnoho iných služieb Xiaomi.</string>
   <string name="account_hint_text">Email (.com) alebo telefónne číslo</string>
   <string name="account_name">Účet: %1$s</string>
   <string name="account_not_activated">Účet nebol aktivovaný</string>
@@ -324,4 +324,10 @@ s "</string>
   <string name="failed_get_mibi_info">Zistenie stavu MiKreditov zlyhalo</string>
   <string name="choose_which_one_sim">Vyberte telefónne číslo</string>
   <string name="sim_index_info">SIM karta %1$d - %2$s</string>
+  <string name="account_dspt_provision2">Zistiť viac</string>
+  <string name="account_learn_more_title">Vytvoriť Xiaomi účet</string>
+  <string name="cloud_service_dspt">Synchr. vaše fotografie, kontakty, poznámky, a mnoho ďalšieho.</string>
+  <string name="mi_account_dspt_provision">Prihláste sa do MiCloud, Obchodu s témami a mnoho iných služieb Xiaomi s jednym účtom.</string>
+  <string name="theme_store">MIUI Témy</string>
+  <string name="theme_store_dspt">Vyberte si vzhľad vášho zariadenia podľa svojich predstáv.</string>
 </resources>

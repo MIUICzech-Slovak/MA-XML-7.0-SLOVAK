@@ -1151,4 +1151,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="scan_qrcode_card_hint1">Načítajte QR kód</string>
   <string name="scan_qrcode_card_hint2">Pridajte si ma do svojich kontaktov</string>
   <string name="starred_yellowpage">Obľúbené zložky</string>
+  <string name="export_to_sim1">Exportovať do SIM 1</string>
+  <string name="import_from_sim1">Importovať zo SIM 1</string>
+  <string name="pref_key_sim_manage1">Nastaviť SIM 1</string>
 </resources>

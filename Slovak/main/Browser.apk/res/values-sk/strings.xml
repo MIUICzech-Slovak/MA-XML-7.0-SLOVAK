@@ -722,4 +722,8 @@ Chcete odísť z tejto stránky?"</string>
   <string name="add_to_desk">Pridať na plochu</string>
   <string name="add_to_desk_success">Pridané na plochu</string>
   <string name="quicklink_bookmark_save">Uložiť ako:</string>
+  <string name="block_ads_choice_block">Blokovať</string>
+  <string name="block_ads_choice_continue">Pokračovať</string>
+  <string name="block_ads_message">Chcete zablokovať toto okno z tejto stránky?</string>
+  <string name="block_ads_title">Môže obsahovať reklamu</string>
 </resources>

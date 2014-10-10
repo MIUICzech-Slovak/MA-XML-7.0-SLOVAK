@@ -98,7 +98,7 @@
   <string name="undo">Späť</string>
   <string name="unknown_source">Neznámy zdroj</string>
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
-  <string name="widget_under_visit_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
+  <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
   <string name="widget_content_loading">Načítavanie...</string>
   <string name="toast_note_privacy_mode">V režime Návštevník nie je možné vytvoriť poznámku</string>
 </resources>
