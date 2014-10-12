@@ -474,7 +474,8 @@ spoločne!"</string>
   <string name="set_screensaver_path_title">Prezentácia</string>
   <string name="set_wallpaper">Nastavuje sa tapeta plochy...</string>
   <string name="settings">Nastavenia</string>
-  <string name="settings_i_xiaomi_com">Prihláste sa na i.mi.com pre zobrazenie Vašich Cloud albumov</string>
+  <string name="settings_i_xiaomi_com">"Prihláste sa na i.mi.com pre 
+zobrazenie Vašich Cloud albumov"</string>
   <string name="shadow">Tiene</string>
   <string name="share_album">Zdieľať album</string>
   <string name="share_album_owner">Vlastník</string>
@@ -500,7 +501,7 @@ spoločne!"</string>
   <string name="slideshow_category">Prehliadka</string>
   <string name="slideshow_dream_name">Prehliadka</string>
   <string name="slideshow_interval">Časový interval prezentácie</string>
-  <string name="slideshow_interval_dialog_title">Časový interval prezentácie musí byť väčší ako 0 sekúnd</string>
+  <string name="slideshow_interval_dialog_title">Viac ako 0 sekúnd</string>
   <string name="slideshow_interval_invalid">Neplatné nastavenie časového intervalu, musí byť medzi 1 a 3600.</string>
   <string name="slideshow_repeat_mode">Opakovať</string>
   <string name="slideshow_time_select_title">Zvoľte čas prezentácie</string>

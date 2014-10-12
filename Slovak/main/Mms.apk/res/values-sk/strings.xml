@@ -86,7 +86,7 @@
   <string name="context_menu_browse_web">Webstránka</string>
   <string name="context_menu_call">Zavolať</string>
   <string name="context_menu_contact">Kontakt: %1$s</string>
-  <string name="context_menu_copy">Kópia</string>
+  <string name="context_menu_copy">Kopírovať</string>
   <string name="context_menu_copy_notice">Text bol skopírovaný do schránky</string>
   <string name="context_menu_new_contact">Nový kontakt</string>
   <string name="context_menu_send_mail">E-mail</string>
