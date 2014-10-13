@@ -145,7 +145,7 @@
   <string name="resource_get_auth_exceed_max_limit_tips">Zvolený vzhľad nemôže byť aplikovaný na tomto telefóne s Vašim Xiaomi účtom. Na jeden účet je možné prihlásiť len maximálne 10 zariadení za rok. Vložte iný Xiaomi účet.</string>
   <string name="resource_get_auth_exceed_max_limit_title">Autorizácia zariadení pre tento účet presiahla limit</string>
   <string name="resource_get_auth_missing">Táto téma nie je stiahnutá z oficiálneho obchodu.</string>
-  <string name="resource_get_auth_retrieving">Overenie pravosti...</string>
+  <string name="resource_get_auth_retrieving">Overenie originality...</string>
   <string name="resource_hint">Výstraha</string>
   <string name="resource_import_failed">Import zlyhal</string>
   <string name="resource_import_successful">Sťahovanie dokončené</string>
