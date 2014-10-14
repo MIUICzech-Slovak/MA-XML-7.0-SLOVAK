@@ -233,4 +233,5 @@
   <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
+  <string name="hint_for_long_press_app_switch_key">Dlhé podržanie zobrazí MENU</string>
 </resources>
