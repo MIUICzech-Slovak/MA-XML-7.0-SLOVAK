@@ -36,11 +36,11 @@
   <string name="terms_of_use_label">Musíte súhlasiť s Podmienkami používania a Podmienkami súkromia ak chcete používať MIUI.</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte v</string>
-  <string name="locale_picker_desc">Ak chcete zmeniť vaš jazyk neskôr, bude nutné urobiť Factory reset zariadenia</string>
-  <string name="locale_picker_title">Vyberte vaš jazyk</string>
+  <string name="locale_picker_desc">Ak chcete zmeniť vašu krajinu neskôr, bude nutné urobiť Factory reset zariadenia</string>
+  <string name="locale_picker_title">Vyberte krajinu</string>
   <string name="miui_privacy_policy_no_network">Žiadne internetové pripojenie. Ochranu súkromia nájdete na %s</string>
   <string name="miui_terms_no_network">Žiadne internetové pripojenie. Podmienky používania nájdete na %s</string>
   <string name="network_access_warning">Pre aktiváciu zariadenia sa vyžaduje internetové pripojenie</string>
-  <string name="setting_locale">Nastavovanie jazyka...</string>
+  <string name="setting_locale">Nastavovanie krajiny...</string>
   <string name="terms_of_service">Podmienky používania</string>
 </resources>
