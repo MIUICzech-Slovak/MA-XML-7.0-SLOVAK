@@ -264,4 +264,21 @@
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
+  <string name="STRANGER_BLOCK">Čierna listina</string>
+  <string name="button_to_setting">Nastavenia</string>
+  <string name="dlg_message_not_open_stranger_identify">Musíte povoliť \"Rozpoznávanie neznámych čisiel\" v nastaveniach telefónu.</string>
+  <string name="dlg_title_not_open_stranger_identify">Povoľte rozpoznanie neznámych čísiel</string>
+  <string name="mark_agent">Predajca</string>
+  <string name="mark_agent_block">Označené ako predajca</string>
+  <string name="mark_express">Kurier</string>
+  <string name="mark_express_block">Označené ako kurier</string>
+  <string name="mark_fraud">Podvodník</string>
+  <string name="mark_fraud_block">Označené ako podvodník</string>
+  <string name="mark_meal">Donáška</string>
+  <string name="mark_meal_block">Označené ako donáška</string>
+  <string name="mark_number_info">"
+Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých už viac nechcete prijať hovor."</string>
+  <string name="mark_sell">Predajca</string>
+  <string name="mark_sell_block">Označené ako predajca</string>
+  <string name="st_title_markednumber_group">Označené čisla</string>
 </resources>

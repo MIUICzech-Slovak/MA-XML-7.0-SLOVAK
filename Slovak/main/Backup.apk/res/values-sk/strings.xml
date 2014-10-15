@@ -188,4 +188,6 @@
   <string name="unknown_hint">Neznámy</string>
   <string name="wifi_title">Wi-Fi nastavenia</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="never">Nikdy</string>
+  <string name="every_day">Každý deň</string>
 </resources>

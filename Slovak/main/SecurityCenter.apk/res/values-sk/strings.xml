@@ -595,4 +595,11 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="settings_title_permission">Nastavenie oprávnení</string>
+  <string name="permission_permission_control_closed_desc_dialog_msg">Aplikácie sa vás nebudú pýtať na povolenie prístupu ku kontaktom, záznamom o volaní, zmenu nastavení systému alebo prístupu ku kamere. Toto nastavenie môžete opäť aktivovať v Nastavení oprávnení.</string>
++  <string name="permission_permission_control_closed_desc_dialog_title">Správca oprávnení je vypnutý</string>
++  <string name="permission_close_permission_control_dialog_msg">Ak deaktivujete Správcu oprávnení, aplikácie sa vás nebudú pýtať na povolenie prístupu ku kontaktom, záznamom o volaní, zmenu nastavení systému alebo prístupu ku kamere.</string>
++  <string name="permission_close_permission_control_dialog_title">Deaktivovať Správcu oprávnení?</string>
+<string name="menu_item_app_permissions_control">Správca oprávnení</string>
++  <string name="menu_item_control_app_permissions">Požadovať vaše povolenie pre prístup ku kontaktom, záznamom o volaní, zmenu nastavení systému alebo prístupu ku kamere.</string>
 </resources>
