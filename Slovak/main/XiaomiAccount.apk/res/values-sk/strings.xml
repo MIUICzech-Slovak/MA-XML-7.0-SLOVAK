@@ -5,7 +5,7 @@
   <string name="access_token_expired_warning">Weibo account has expired, please rebind</string>
   <string name="access_token_invalid_warning">Weibo account is invalid, please rebind</string>
   <string name="account">Účet</string>
-  <string name="account_bind_devices">Aktívne zariadenia</string>
+  <string name="account_bind_devices">Zariadenia</string>
   <string name="account_bind_settings">Účty</string>
   <string name="account_dspt">Účet Xiaomi môže synchronizovať a zálohovať Vaše správy, kontakty, fotky, atď</string>
   <string name="account_dspt_provision">Použite svoj Xiaomi účet na prihlásenie sa k MiCloud, Obchodu s témami a mnoho iných služieb Xiaomi.</string>

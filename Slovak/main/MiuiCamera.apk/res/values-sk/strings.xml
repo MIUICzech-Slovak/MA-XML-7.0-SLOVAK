@@ -168,7 +168,7 @@ opustite na chvíľu náhľad"</string>
   <string name="no_thumbnail">Žiadny náhľad</string>
   <string name="not_enough_space">Vaša SD karta je plná.</string>
   <string name="not_selectable_in_scene_mode">V režime scén nie je možné vybrať.</string>
-  <string name="object_track_enable_toast">Potiahnite prstom po displeji pre sledovanie objektu.</string>
+  <string name="object_track_enable_toast">Súčasným dotykom na oba kraje objektu aktivujete jeho sledovanie.</string>
   <string name="ok">OK</string>
   <string name="orientation">Orientácia</string>
   <string name="pano_dialog_panorama_failed">"Nie je možné uložiť panorámu."</string>
@@ -515,8 +515,8 @@ opustite na chvíľu náhľad"</string>
   <string name="time_lapse_error">Neplatná veľkosť pre časozberné nahrávanie.</string>
   <string name="times">Časy</string>
   <string name="title">Názov</string>
-  <string name="toast_burst_snap_finished_end">Vytvorené fotografie</string>
-  <string name="toast_burst_snap_finished_start">Dávkové snímanie dokončené</string>
+  <string name="toast_burst_snap_finished_end">fotografií</string>
+  <string name="toast_burst_snap_finished_start">Dokončené dávkové snímanie</string>
   <string name="toast_burst_snap_forbidden_when_audio_capture_open">Dávkové snímanie nie je podporované ak je zapnutý záznam zvuku.</string>
   <string name="toast_burst_snap_forbidden_when_face_beauty_open">Dávkové snímanie nie je dostupné ak je aktivované vylepšenie tváre.</string>
   <string name="toast_burst_snap_forbidden_when_hdr_open">Dávkové snímanie nie je podporované ak je zapnuté HDR.</string>
@@ -553,4 +553,10 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
+  <string name="confirm_location_title">Zaznamenávanie polohy</string>
+  <string name="burst_shoot_exit_button_text">Ukončiť</string>
+  <string name="pref_burst_shoot_title">Dávkové snímanie</string>
+  <string name="pref_front_mirror_entry_auto">Auto</string>
+  <string name="pref_front_mirror_entry_off">Vyp</string>
+  <string name="pref_front_mirror_entry_on">Zap</string>
 </resources>
