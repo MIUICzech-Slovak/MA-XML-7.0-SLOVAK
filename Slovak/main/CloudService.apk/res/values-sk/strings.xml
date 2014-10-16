@@ -196,7 +196,7 @@ Túto službu môžte aktivovať alebo zakázať v Nastaveniach.
   <string name="buy_space_sulotion_not_auto_renew">Nepredĺžiť automaticky</string>
   <string name="buy_space_sulotion_renew_message">Platné %s</string>
   <string name="buy_space_sulotion_renew_title">Vyberte spôsob predĺženia platnosti</string>
-  <string name="buy_space_sulotion_title">Cloudová úložisko</string>
+  <string name="buy_space_sulotion_title">Cloudové úložisko</string>
   <string name="cloud_space_upgrade_message">Stlačte pre získanie %s GB miesta tento mesiac</string>
   <string name="cloud_space_upgrade_no_quota_info">Nesprávne dáta, skúste to znova</string>
   <string name="cloud_space_upgrade_title">Získajte viac priestoru v Cloude!</string>
