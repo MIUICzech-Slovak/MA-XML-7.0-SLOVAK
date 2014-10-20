@@ -70,6 +70,23 @@ localization_English_table = {
     challenge_to_get="%s days from making a new record!",
     record_reach_max="You have hit your highest record!",
     new_record_born="New record!",
+
+    continue_with_skips_title="You didn't hit your goal yesterday, don't worry, we have used a cheat note to cover you up ;)",
+    personal_best_with_skips_format="Just made the highest record for %d days! Also, there are %d cheat notes left ;)",
+    continue_used_n_skips_format="You've hit your goal for %d days! You still have %d cheat notes ;)",
+    continue_used_0_skips_format="You've hit your goal for %d days! You have no cheat notes left.",
+    personal_best_on_skip_day_title="You've hit your goal for %d days! To reward you, we give you a cheat note as gift ;) You can cheat when you don't hit goal for a day with each note.",
+    personal_best_on_skip_day_info="You will earn a cheat note once you hit your goal for 7 days straight. We will use them automatically when you miss your goal. One cheat note exchanges for one day.",
+
+    activity_rope_skipping_format="%s Skipped rope %d time(s)",
+    activity_situp_format="%s Did %d sit-ups",
+    activity_consumed_format="Burned %d kcal %s",
+
+    ---====== Weather tips ===============
+    weather_tips_title_0 = "Heavy pollution, try to stay indoor.",
+    weather_tips_title_1 = "Heavy pollution, try to stay indoor.",
+    weather_tips_info = "Situps, rope skipping and plank are great indoor sports!",
+
  }
 
  localization_Slovak_table = {
