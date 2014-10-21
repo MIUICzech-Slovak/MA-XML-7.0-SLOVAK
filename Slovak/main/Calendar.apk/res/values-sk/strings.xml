@@ -43,7 +43,7 @@
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
   <string name="birthday_notification_age_term"/>
-  <string name="birthday_notification_text_three_days_later">Za 3 dni má narodeniny!</string>
+  <string name="birthday_notification_text_three_days_later">Za 3 dni má narodeniny (%3$s)!</string>
   <string name="birthday_notification_text_today">Nezabudnite zablahoželať!</string>
   <string name="birthday_notification_title_three_days_later">%1$s bude mať narodeniny</string>
   <string name="birthday_notification_title_today">%1$s má narodeniny</string>
