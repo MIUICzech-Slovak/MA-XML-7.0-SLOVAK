@@ -593,14 +593,14 @@ Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
   <string name="wrong_system_time">Váš systémový čas nie je správny a ovplyvní to fungovanie MiBand.</string>
   <string name="stat_step_walk_calorie">Spálené chôdzou</string>
   <string name="stat_step_walk_calories_average">Priem. spálené</string>
-  <string name="stat_step_walk_distance">Vzdialenosť</string>
+  <string name="stat_step_walk_distance">Prejdené</string>
   <string name="stat_step_walk_distance_average">Priem. prejdené</string>
   <string name="stat_step_walk_duration">Chôdza</string>
   <string name="stat_step_walk_duration_average">Priem. Chôdza</string>
   <string name="stat_step_piece">Krokov</string>
-  <string name="stat_step_run_calorie">Beh</string>
+  <string name="stat_step_run_calorie">Spálené behom</string>
   <string name="stat_step_run_calories_average">Priem. spálené</string>
-  <string name="stat_step_run_distance">Vzdialenosť</string>
+  <string name="stat_step_run_distance">Zabehnuté</string>
   <string name="stat_step_run_distance_average">Priem. prejdené</string>
   <string name="stat_step_run_duration">Beh</string>
   <string name="stat_step_run_duration_average">Priem. Beh</string>
