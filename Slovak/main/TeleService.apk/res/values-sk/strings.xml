@@ -290,7 +290,7 @@
   <string name="enterName">Vložte Meno:</string>
   <string name="enterNumber">Vložte číslo telefónu:</string>
   <string name="enter_callbarring_password">Zadajte heslo blokovania hovorov (4 čísla)</string>
-  <string name="enter_input">Vyžaduje sa niečo zadať, skúste to znova!</string>
+  <string name="enter_input" formatted="false">USSD správa musí byť medzi %d a %d miestami.</string>
   <string name="enter_pin2_text">PIN2</string>
   <string name="enter_pin_text">Kód PIN karty SIM:</string>
   <string name="entertainment_news_settings">Správy z kultúry</string>

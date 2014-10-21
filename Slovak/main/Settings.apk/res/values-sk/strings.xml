@@ -1538,7 +1538,7 @@ Vyberte váš operačný systém:"</string>
   <string name="preferred_application_warning_message">Nahradenie predvoleného %1$s môže zvýšiť spotrebu batérie, spomaliť chod systému, a ohroziť obsah zariadenia. Odporúča sa použiť %2$s.</string>
   <string name="preferred_application_warning_replace">Nahradiť</string>
   <string name="preferred_application_warning_title">Nahradiť predvolené %s</string>
-  <string name="preferred_application_warning_use_system">Použiť predvolené</string>
+  <string name="preferred_application_warning_use_system">Použiť %s</string>
   <string name="preferred_launcher_title">Preferovaný launcher</string>
   <string name="preferred_media_app_summary">Vybrať hudobný prehrávač</string>
   <string name="preferred_sms_settings">Táto aplikácia bude nastavená ako predvolená pre príjem a odosielanie SMS správ.</string>

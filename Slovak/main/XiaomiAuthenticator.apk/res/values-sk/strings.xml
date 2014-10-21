@@ -113,7 +113,7 @@ Prihláste sa na account.xiaomi.com, a potvrďte aktiváciu"</string>
   <string name="remove_Xiaomi_account_dialog_message">"Odstránením tohto účtu prídete o možnosť vytvárať kódy, avšak k vypnutiu verifikácie v dvoch krokoch nedôjde. Táto skutočnosť vám môže brániť v prihlasovaní do účtu. Pred odstránením vypnite verifikáciu v dvoch krokoch alebo sa presvedčte, či máte alternatívny mechanizmus na vytváranie kódov."</string>
   <string name="remove_account_dialog_button_remove">Odobrať účet</string>
   <string name="remove_account_dialog_message">Odstránením tohto účtu prídete o možnosť vytvárať kódy, avšak k vypnutiu dvojfaktorového overenia totožnosti nedôjde. Táto skutočnosť vám môže brániť v prihlasovaní do účtu. Pred odstránením vypnite dvojfaktorové overenie totožnosti alebo sa presvedčte, či máte alternatívny mechanizmus na vytváranie kódov.</string>
-  <string name="remove_account_dialog_title">Odstrániť tento účet?</string>
+  <string name="remove_account_dialog_title">Odstrániť %1$s?</string>
   <string name="rename">Premenovať</string>
   <string name="rename_message">Premenovať %1$s</string>
   <string name="resetbtn_patternforgotten">Obnoviť</string>
