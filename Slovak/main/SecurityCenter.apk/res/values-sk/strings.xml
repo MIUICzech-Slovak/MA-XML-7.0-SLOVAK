@@ -604,8 +604,8 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="menu_item_control_app_permissions">Požadovať vaše povolenie pre prístup ku kontaktom, záznamom o volaní, zmenu nastavení systému alebo prístupu ku kamere.</string>
   <string name="button_antivirus">OK</string>
   <string name="button_optimizer">OK</string>
-  <string name="header_antivirus">Používaním tejto funkcie súhlasíte s "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Podmienkami používania&lt;/a&gt; Tencent.</string>
-  <string name="header_optimizer">Používaním tejto funkcie súhlasíte s "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Podmienkami používania&lt;/a&gt; Clean Master.</string>
+  <string name="header_antivirus">Používaním tejto funkcie súhlasíte s Podmienkami používania Tencent.</string>
+  <string name="header_optimizer">Používaním tejto funkcie súhlasíte s Podmienkami používania Clean Master.</string>
   <string name="pref_title_open_optimizer_cloud_scan">Použiť online databázu</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Odoslať a skontrolovať neznáme názvy súborov s online databázou</string>
   <string name="summary_antivirus">Odoslať a skontrolovať neznáme názvy súborov s online vírusovou databázou</string>
