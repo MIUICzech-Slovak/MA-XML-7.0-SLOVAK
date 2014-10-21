@@ -37,7 +37,7 @@
   <string name="album_share_subtitle_invited">Zdieľané %1$s, Prijať alebo odmietnuť?</string>
   <string name="album_share_subtitle_normal">Zdieľané %1$s</string>
   <string name="album_share_subtitle_not_ready">Informácie o albume nie sú dostupné. Stlačte pre ich stiahnutie.</string>
-  <string name="album_share_subtitle_quitting">Zrušenie pozvania od %1$s...</string>
+  <string name="album_share_subtitle_quitting">Zrušenie pozvania...</string>
   <string name="album_share_subtitle_requesting">Sťahovanie informácií o albume...</string>
   <string name="album_share_title_new_album">Nový zdieľaný album</string>
   <string name="albums">Albumov</string>
