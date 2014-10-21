@@ -51,7 +51,7 @@
   <string name="copy_file_to_kuaipan">Kopírovať na MiDrive</string>
   <string name="create_kuaipan_shortcut_pref">Vytvoriť ikonu na ploche</string>
   <string name="create_new_folder_desctiption">Vytváranie novej zložky...</string>
-  <string name="create_new_folder_failed">Nie je možné vytvoriť zložku %1$s</string>
+  <string name="create_new_folder_failed">Nie je možné vytvoriť zložku.</string>
   <string name="create_share_link_description">Vytváranie odkazu pre zdieľanie...</string>
   <string name="cution">Tipy</string>
   <string name="data_capacity">Kapacita: %1$s</string>
