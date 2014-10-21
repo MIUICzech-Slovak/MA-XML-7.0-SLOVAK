@@ -76,7 +76,7 @@
   <string name="btn_text_virus_scan">Kontrola</string>
   <string name="button_text_accept">Prijať</string>
   <string name="button_text_accept_timer">Prijať (%d)</string>
-  <string name="button_text_add_to_white_list">Pridať do výnimiek</string>
+  <string name="button_text_add_to_white_list">Výnimka</string>
   <string name="button_text_backup_uninstall">Záloha a odinšt.</string>
   <string name="button_text_cancel">Zrušiť</string>
   <string name="button_text_cancel_clean">Zrušiť</string>
