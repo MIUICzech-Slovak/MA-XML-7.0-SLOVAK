@@ -336,4 +336,6 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usage_sorted_activity_lable">Spotreba dát</string>
   <string name="usage_sorted_empty_text">Prázdne</string>
   <string name="usage_sorted_loading_text">Načítavanie...</string>
+  <string name="privacy_declare_dialog_message">Používaním tejto služby súhlasíte s Opera &lt;a href=http://max.oupeng.com/eula.html&gt; Podmienkami používania&lt;/a&gt;.</string>
+  <string name="privacy_declare_dialog_title">Podmienky používania</string>
 </resources>

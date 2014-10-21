@@ -77,7 +77,7 @@ Ak však už prehrávate bezstratovú hudbu, odporúčame vám vypnúť túto fu
     <string name="pref_dynamicsystem_enable">Zapnúť</string>
     <string name="pref_dynamicsystem_output">Typ slúchadiel</string>
     <string name="pref_dynamicsystem_output_title">Vybrať zariadenie</string>
-    <string name="pref_dynamicsystem_bass">Vybrať dynamické basy/string>
+    <string name="pref_dynamicsystem_bass">Vybrať dynamické basy</string>
     <string name="pref_dynamicsystem_tube_title">Simulátor elektrónky (6N1J)</string>
     <string name="pref_dynamicsystem_tube_summary_on">Simulátor elektrónky je zapnutý</string>
     <string name="pref_dynamicsystem_tube_summary_off">Simulátor elektrónky je vypnutý</string>

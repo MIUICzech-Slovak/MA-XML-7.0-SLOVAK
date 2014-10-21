@@ -281,4 +281,6 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="mark_sell">Predajca</string>
   <string name="mark_sell_block">Označené ako predajca</string>
   <string name="st_title_markednumber_group">Označené čisla</string>
+  <string name="SMS_SERVICE">Blokovanie Služieb</string>
+  <string name="st_antispam_title_service_sms">Upozornenia Služieb</string>
 </resources>

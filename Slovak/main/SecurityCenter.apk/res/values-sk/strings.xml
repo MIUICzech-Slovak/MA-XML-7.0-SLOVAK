@@ -600,6 +600,18 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="permission_permission_control_closed_desc_dialog_title">Správca oprávnení je vypnutý</string>
   <string name="permission_close_permission_control_dialog_msg">Ak deaktivujete Správcu oprávnení, aplikácie sa vás nebudú pýtať na povolenie prístupu ku kontaktom, záznamom o volaní, zmenu nastavení systému alebo prístupu ku kamere.</string>
   <string name="permission_close_permission_control_dialog_title">Deaktivovať Správcu oprávnení?</string>
-<string name="menu_item_app_permissions_control">Správca oprávnení</string>
+  <string name="menu_item_app_permissions_control">Správca oprávnení</string>
   <string name="menu_item_control_app_permissions">Požadovať vaše povolenie pre prístup ku kontaktom, záznamom o volaní, zmenu nastavení systému alebo prístupu ku kamere.</string>
+  <string name="button_antivirus">OK</string>
+  <string name="button_optimizer">OK</string>
+  <string name="header_antivirus">Používaním tejto funkcie súhlasíte s "&lt;a href="http://misc.3g.qq.com/g/agreement/index.jsp?id=7"&gt;Podmienkami používania&lt;/a&gt; Tencent.</string>
+  <string name="header_optimizer">Používaním tejto funkcie súhlasíte s "&lt;a href="http://www.cmcm.com/about/privacy_zh.html?p=cm"&gt;Podmienkami používania&lt;/a&gt; Clean Master.</string>
+  <string name="pref_title_open_optimizer_cloud_scan">Použiť online databázu</string>
+  <string name="pref_summary_open_optimizer_cloud_scan">Odoslať a skontrolovať neznáme názvy súborov s online databázou</string>
+  <string name="summary_antivirus">Odoslať a skontrolovať neznáme názvy súborov s online vírusovou databázou</string>
+  <string name="summary_optimizer">Odoslať a skontrolovať neznáme názvy súborov s online databázou</string>
+  <string name="text_antivirus">Použiť online vírusovú databázu</string>
+  <string name="text_optimizer">Použiť online databázu</string>
+  <string name="title_antivirus">AntiVírus</string>
+  <string name="title_optimizer">Čistič</string>
 </resources>

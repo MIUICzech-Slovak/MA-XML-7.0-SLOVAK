@@ -726,4 +726,6 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="bookmark_url_already_exisit">Táto stránka už je v záložkách</string>
+  <string name="quicklink_bookmark_save">Uložiť ako</string>
 </resources>
