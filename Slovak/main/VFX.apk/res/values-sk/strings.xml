@@ -261,4 +261,6 @@ Verzia %1$s (FX), Kódové meno “Beautiful”.
     <string name="navigation_drawer_close">Zatvoriť navigačný zoznam</string>
     <string name="navigation_toggle_drawer">Prepnúť do zobrazenia zoznamu</string>
     <string name="navigation_toggle_tabbed">Prepnúť do zobrazenia kariet</string>
+    <string name="pref_xloud_enable">eXtra-Loud</string>
+    <string name="pref_spk_opt_enable">Optimalizácia</string>
 </resources>
