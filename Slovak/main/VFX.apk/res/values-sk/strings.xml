@@ -14,10 +14,10 @@
     <string name="dsp_settings_usb">Nastavenia efektov - USB zariadenie</string>
     <string name="pref_dsp_enable">Zapnúť</string>
     <string name="pref_effect_title">Intenzita efektu</string>
-    <string name="dialog_effect">Intenzita efektu</string>
+    <string name="dialog_effect">Hodnota</string>
     <string name="pref_force_enable_text">Vynútene zapnúť V4A</string>
     <string name="pref_force_enable_warn">"Povolenie vynúteného zapnutia by mohlo vyriešiť problém s efektmi. 
-Avšak v určitých ROMkách, môžu sa objaviť neočakávané následky ako napríklad žiaden zvuk a zvýšená spotreba batérie. 
+Avšak v určitých ROMkách sa môžu objaviť neočakávané následky ako napríklad žiaden zvuk a zvýšená spotreba batérie. 
 Použite na vlastné riziko. Ak takýto stav nastane, prosím vypnite túto funkciu."</string>
     <string name="pref_fx_master_title">Hlavný vypínač</string>
     <string name="pref_fx_master_summary_on">V4A-FX je zapnutý</string>
@@ -36,15 +36,15 @@ Použite na vlastné riziko. Ak takýto stav nastane, prosím vypnite túto funk
     <string name="pref_playback_summary_off">PlaybackAGC je vypnutý</string>
     <string name="pref_playback_output_threshold">Max výstup</string>
     <string name="pref_playback_maxgain">Max zisk</string>
-    <string name="pref_xloud_title">eXtra Loud</string>
-    <string name="pref_xloud_summary_on">eXtra-Loud je zapnutý</string>
-    <string name="pref_xloud_summary_off">eXtra-Loud je vypnutý</string>
+    <string name="pref_xloud_title">eXtra-Loud</string>
+    <string name="pref_xloud_summary_on">zapnutý</string>
+    <string name="pref_xloud_summary_off">vypnutý</string>
     <string name="pref_xloud_output_amplifer">Zisk na výstupe</string>
     <string name="pref_xloud_spk_lowfreq">Nízka odozva</string>
     <string name="pref_xloud_spk_highfreq">Vysoká odozva</string>
     <string name="pref_spk_opt_title">Optimalizácia reproduktora</string>
-    <string name="pref_spk_opt_summary_on">Optimalizácia reproduktora je zapnutá</string>
-    <string name="pref_spk_opt_summary_off">Optimalizácia reproduktora je vypnutá</string>
+    <string name="pref_spk_opt_summary_on">zapnutá</string>
+    <string name="pref_spk_opt_summary_off">vypnutá</string>
     <string name="pref_viperddc_title">ViPER-DDC</string>
     <string name="pref_viperddc_summary_on">ViPER-DDC je zapnutý</string>
     <string name="pref_viperddc_summary_off">ViPER-DDC je vypnutý</string>
@@ -186,7 +186,7 @@ Inštalácia prebehne automaticky.
 Inštalovať/aktualizovať teraz?"</string>
     <string name="text_drvuninst_confim">Naozaj chcete odinštalovať V4A ovládač?</string>
     <string name="text_uiprefer">Nastavenie užív. prostredia</string>
-    <string name="text_uiprefer_dialog">Prosím vyberte</string>
+    <string name="text_uiprefer_dialog">Vyberte prostredie</string>
     <string name="text_commode">FX kompatibilný mód</string>
     <string name="text_drv_blank" />
     <string name="text_uninstall">Odinštalovať ovládač</string>
@@ -207,7 +207,7 @@ LPA funkcia zapnutá, môže spôsobiť nefunkčnosť V4A.
 LPA znamená 'Low Power Audio' (nízko-energetické audio), túto funkciu môžeme zakázať modifikovaním build.prop, táto procedúra prebehne automaticky. 
 Dôrazne doporučujeme vytvoriť NANDROID zálohu alebo zálohu dát predtým než budete pokračovať! 
 Chcete LPA zakázať teraz?"</string>
-    <string name="text_changelog">Changelog</string>
+    <string name="text_changelog">Zoznam zmien</string>
     <string name="text_drv_status">Stav ovládača</string>
     <string name="text_drv_status_view">"
  
@@ -234,6 +234,8 @@ Veľká vďaka pre Zhuhang@XDA
 Veľká vďaka pre M4570D0N@github, xLaMbChOpSx@github, bboa@github 
  
 Verzia %1$s (FX), Kódové meno “Beautiful”. 
+
+Preklad Shatter
 "</string>
     <string name="text_help_content">"***Všeobecná nápoveda*** 
  
@@ -261,6 +263,6 @@ Verzia %1$s (FX), Kódové meno “Beautiful”.
     <string name="navigation_drawer_close">Zatvoriť navigačný zoznam</string>
     <string name="navigation_toggle_drawer">Prepnúť do zobrazenia zoznamu</string>
     <string name="navigation_toggle_tabbed">Prepnúť do zobrazenia kariet</string>
-    <string name="pref_xloud_enable">eXtra-Loud</string>
-    <string name="pref_spk_opt_enable">Optimalizácia</string>
+	<string name="pref_xloud_enable">eXtra-Loud</string>
+	<string name="pref_spk_opt_enable">Optimalizácia</string>
 </resources>
