@@ -84,7 +84,7 @@
   <string name="card_title_call_ended">"Čas "</string>
   <string name="card_title_conf_call">"Konferenčný hovor "</string>
   <string name="card_title_dialing">Vytáčanie</string>
-  <string name="card_title_hanging_up">Ukončenie hovoru</string>
+  <string name="card_title_hanging_up">"Ukončenie hovoru "</string>
   <string name="card_title_in_call">Počas hovoru</string>
   <string name="card_title_in_call_short">Hovor</string>
   <string name="card_title_incoming_call">Prichádzajúci hovor</string>
