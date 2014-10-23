@@ -2,25 +2,26 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="about_app_name">MIUIVideo</string>
-  <string name="about_developer_label">Vývojár</string>
-  <string name="about_developer_name">MIUI</string>
   <string name="about_title">O aplikácií</string>
   <string name="about_version">1.0.1</string>
   <string name="about_version_label">Verzia:</string>
   <string name="actor_colon">Hrajú:</string>
   <string name="ad_countdown">Reklama: %ss</string>
+  <string name="ad_moredetail">Podrobnosti</string>
   <string name="add_favorite_success">Obľúbené</string>
   <string name="add_more_addons">pridať viac špeciálov</string>
   <string name="addon">" plugins"</string>
+  <string name="addon_all">Všetko</string>
   <string name="addon_category">Špeciály</string>
   <string name="addon_install_complete_disc">%s addons installed. You can view them in /My videos/.</string>
+  <string name="addon_installed_empty_hint">Prázdne</string>
+  <string name="addon_list_empty_hint">Prázdne</string>
   <string name="addon_update_desc">New version found, update mow?</string>
   <string name="adjust_position_next_media_notice">Ďalšie</string>
   <string name="adjust_position_prev_media_notice">Predchádzajúce</string>
   <string name="airkan_control_device_des">Môžete ovládať prehrávanie pomocou tlačidiel v dolnej časti</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
   <string name="airkan_tips">Spustiť video na MiBox alebo TV</string>
-  <string name="airkan_video_playing">Prehrávanie</string>
   <string name="airkan_video_playing_in">Video sa prehráva...</string>
   <string name="all">Všetko</string>
   <string name="all_comment">Všetky komentáre</string>
@@ -34,6 +35,7 @@
   <string name="average_score">Hodnotenie</string>
   <string name="avg_score">%.1f</string>
   <string name="back">Späť</string>
+  <string name="bestv">Bestv</string>
   <string name="buffering">Ukladanie do vyrovnávacej pamäte...</string>
   <string name="buffering_video_netplay_label_v5">Ukladanie do vyrovnávacej pamäte...</string>
   <string name="cancel">Zrušiť</string>
@@ -80,6 +82,7 @@
   <string name="declaration">Podmienky používania</string>
   <string name="declaration_allow">Súhlasím</string>
   <string name="declaration_content">Súhlasíte s podmienkami používania stanovenými Sohu Video, iQiyi, a ostatnými poskytovateľmi videa?</string>
+  <string name="declaration_content_td_custom">Súhlasíte s použitím internetu na prehrávanie online videí?</string>
   <string name="defaults">Predvolené</string>
   <string name="delete">Vymazať</string>
   <string name="delete_addon">Vymazať</string>
@@ -121,6 +124,7 @@
   <string name="forecasts">Program</string>
   <string name="fullscreen">Celá obrazovka</string>
   <string name="gong_count_dlna">%d DLNA</string>
+  <string name="gong_count_ge">%d celkovo</string>
   <string name="gong_count_ji">%d Ep. celkovo</string>
   <string name="gong_count_xiang">"Položky: %d "</string>
   <string name="good">OK</string>
@@ -130,6 +134,8 @@
   <string name="imports">Import</string>
   <string name="init">Init</string>
   <string name="install_comfirm">inštalovať</string>
+  <string name="installed">Nainštalované</string>
+  <string name="installed_count_ge">Nainštalované: %d</string>
   <string name="introduce">Popis</string>
   <string name="key_back_down_toast">Pre ukončenie, stlačte "Späť" ešte raz</string>
   <string name="loading">" "Načítavanie" "</string>
@@ -145,15 +151,9 @@
   <string name="manage">Spravovať</string>
   <string name="manage_offline_media">Spravovať offline média cache</string>
   <string name="media_name_comment">%s komentár</string>
-  <string name="menu_item_about_label">O aplikácií</string>
-  <string name="menu_item_disable_3d_mode">Vypnúť 3D</string>
   <string name="menu_item_disable_audio_enhance">Vypnúť vylepšenie zvuku</string>
-  <string name="menu_item_enable_3d_mode">Povoliť 3D</string>
   <string name="menu_item_enable_audio_enhance">Povoliť vylepšenie zvuku</string>
-  <string name="menu_item_orientation_auto_sensor_action">Povoliť otáčanie</string>
-  <string name="menu_item_orientation_fixed_by_videosize_action">Zakázať otáčanie</string>
-  <string name="menu_item_sub_title">Titulky</string>
-  <string name="mipush_setting">Xiaomi push</string>
+  <string name="mipush_setting">Xiaomi push upozornenia</string>
   <string name="month">"."</string>
   <string name="more">Viac</string>
   <string name="my_favorite">Obľúbené</string>
@@ -189,8 +189,7 @@
   <string name="play_count_ci">%d prehrané</string>
   <string name="play_his_empty_hint">Žiadna história</string>
   <string name="play_history">Naposledy prehrávané</string>
-  <string name="play_setting">Prehrávanie</string>
-  <string name="positive_comment">Dobre komentáre</string>
+   <string name="positive_comment">Dobre komentáre</string>
   <string name="prefix_countdown">Reklama:</string>
   <string name="priority_storage">Ukladať na externú SD kartru</string>
   <string name="priority_storage_summary">Automaticky ukladať na externú SD kartu</string>
@@ -239,7 +238,6 @@
   <string name="toast_message_continue_play_hour">"h "</string>
   <string name="toast_message_continue_play_minute">"m "</string>
   <string name="toast_message_continue_play_second_and_play">s</string>
-  <string name="toast_message_set_misound">Nastavovanie zvuku...</string>
   <string name="today">"Dnes "</string>
   <string name="top_status_local_media">Lokálne média</string>
   <string name="top_status_online_media">Online média</string>
@@ -250,10 +248,11 @@
   <string name="update">Aktualizovaná</string>
   <string name="update_to_count_ji">Aktualizované na Ep. %d</string>
   <string name="updatedalready">Aktualizované</string>
+  <string name="upgrade">Aktualizovať</string>
   <string name="use_cellular_network">Použiť mobilnú sieť</string>
   <string name="use_cellular_network_summary">Použiť mobilnú sieť pre sťahovanie videa</string>
-  <string name="use_cellular_play_summary">In order to save the cost of open flow, suggestions</string>
-  <string name="use_cellular_play_title">2G/3G/4G network broadcast video tips</string>
+  <string name="use_cellular_play_summary">Zobraziť upozornenie na využívanie mobilných dát</string>
+  <string name="use_cellular_play_title">Upozorniť na mobilné pripojenie</string>
   <string name="userdata_alert_content">Používate mobilný internet a prehrávanie videí môže spotrebovať väčšie množstvo dát. Chcete pokračovať?</string>
   <string name="userdata_alert_ok">Pokračovať</string>
   <string name="userdata_alert_title">Využitie dát</string>
@@ -284,7 +283,6 @@
   <string name="vp_device_list">Zoznam zariadení</string>
   <string name="vp_download_connect_fail">Nebolo možné nájsť URL. Skontrolujte vaše pripojenie k sieti.</string>
   <string name="vp_download_file_fail">Sťahovanie zlyhalo. Uistite sa, že máte dostatok voľného miesta na úložisku.</string>
-  <string name="vp_error_get_play_url_back_to_continue">Získavanie URL zlyhalo.</string>
   <string name="vp_exit">Ukončiť</string>
   <string name="vp_full_high_definition">1080P</string>
   <string name="vp_full_screen">Na celú obrazovku</string>
@@ -316,6 +314,7 @@
   <string name="vp_standard_definition">SD</string>
   <string name="vp_super_definition">Super</string>
   <string name="vp_support_by">Podporované %1$s</string>
+  <string name="vp_toast_downloadapk">Stiahnuť apk na pozadí...</string>
   <string name="vp_unknown_source">Neznámy zdroj</string>
   <string name="vp_using_16_9">16:9</string>
   <string name="vp_using_4_3">4:3</string>
@@ -324,4 +323,7 @@
   <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
   <string name="xiaomi_user">Xiaomi užívateľ</string>
   <string name="yesterday">"Včera "</string>
+  <string name="use_cellular_offlinedownload_summary">Použiť mobilné pripojenie na prehrávanie online videí</string>
+  <string name="use_cellular_offlinedownload_title">Použiť mobilné pripojenie</string>
+
 </resources>
