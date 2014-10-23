@@ -312,4 +312,16 @@
   <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
   <string name="xiaomi_user">Xiaomi užívateľ</string>
   <string name="yesterday">"Včera "</string>
+  <string name="vp_datastream_alert_hint">Upozornenie môžete deaktivovať v Nastavenia - Systémové aplikácie - Video</string>
+  <string name="vp_datastream_alert_play">Sťahovanie videa na dátovom pripojení môže navýšiť vaše mesačné poplatky</string>
+  <string name="use_cellular_play_summary">In order to save the cost of open flow, suggestions</string>
+  <string name="use_cellular_play_title">2G/3G/4G network broadcast video tips</string>
+  <string name="priority_storage">Ukladať na externú SD kartru</string>
+  <string name="priority_storage_summary">Automaticky ukladať na externú SD kartu</string>
+  <string name="declaration_allow">Súhlasím</string>
+  <string name="datastream_alert_download">Sťahovanie videa na dátovom pripojení môže navýšiť vaše mesačné poplatky</string>
+  <string name="datastream_alert_hint">Upozornenie môžete deaktivovať v Nastavenia - Systémové aplikácie - Video</string>
+  <string name="datastream_alert_negative_button">Zrušiť</string>
+  <string name="datastream_alert_positive_button">Pokračovať</string>
+  <string name="datastream_alert_title">Spotreba dát</string>
 </resources>
