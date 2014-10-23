@@ -174,6 +174,7 @@
   <string name="internet_comm">Správy</string>
   <string name="license_host_unreachable">"Nie je možné sa pripojiť k sieti. Pre zobrazenie týchto informácií choďte na %s."</string>
   <string name="loading">Načítavanie...</string>
+  <string name="loading_micloud_sync_data">Načítavanie...</string>
   <string name="loading_mili_center">Načítavanie MiKreditu</string>
   <string name="login">Prihlásiť</string>
   <string name="login_failed">Prihlásenie zlyhalo</string>
@@ -330,5 +331,4 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
-  <string name="loading_micloud_sync_data">Načítavanie...</string>
 </resources>

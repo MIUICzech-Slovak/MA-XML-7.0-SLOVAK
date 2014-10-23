@@ -325,6 +325,7 @@ spoločne!"</string>
   <string name="mipc_1">Vrecková Kamera</string>
   <string name="mishop_saved_folder_display_name">MiShop</string>
   <string name="miui_capture_screen_folder_display_name">Screenshoty</string>
+  <string name="miui_wallpaper">Tapeta</string>
   <string name="modified_time">Upravené</string>
   <string name="more">Viac</string>
   <string name="move">Presunúť</string>
@@ -571,5 +572,4 @@ zobrazenie Vašich Cloud albumov"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
-  <string name="miui_wallpaper">Tapeta</string>
 </resources>

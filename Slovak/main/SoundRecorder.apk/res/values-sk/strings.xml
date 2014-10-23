@@ -56,6 +56,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="preference_record_type_title">Typ nahrávky</string>
   <string name="preference_scenes">Režim nahrávania</string>
   <string name="preference_silent_mode">Nahrávanie v tichom režime</string>
+  <string name="record_back_pressed_hint">Dotknite sa znova pre ukončenie nahrávania</string>
   <string name="record_download">Stiahnuť z MiCloud</string>
   <string name="record_download_activity">Sťahovanie nahrávok</string>
   <string name="record_download_complete">Dokončené</string>
@@ -108,5 +109,4 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="record_back_pressed_hint">Dotknite sa znova pre ukončenie nahrávania</string>
 </resources>

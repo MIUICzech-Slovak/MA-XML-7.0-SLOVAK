@@ -1150,6 +1150,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="lock_intro_message">"Svoj telefón môžete chrániť pred neoprávneným použitím pomocou osobného gesta pre odomknutie obrazovky. Body na nasledujúcej obrazovke spojte prstom v akomkoľvek poradí. Spojiť je nutné aspoň štyri body. Ako náhle budete pripravení začať, dotknite sa tlačidlá Ďalší."</string>
   <string name="lock_screen_unlock_show">Zobraziť heslo displeja okamžite</string>
   <string name="lock_screen_unlock_show_summary">"Nepoužívať iné uzamykanie displeja"</string>
+  <string name="lock_settings">Zámok displeja</string>
   <string name="lock_settings_common_title">Nastavenie zámku</string>
   <string name="lock_settings_picker_settings">Nastaviť zámok obrazovky</string>
   <string name="lock_settings_picker_title">Vybrať zámok obrazovky</string>
@@ -1471,6 +1472,8 @@ Vyberte váš operačný systém:"</string>
   <string name="onscreen_keyboard_settings_summary">Nastavenie klávesnice na obrazovke</string>
   <string name="open_wifi_connect_summary">Stlačte pre správu sietí</string>
   <string name="open_wifi_connect_title">Pripojiť k otvorenej sieti %1$s</string>
+  <string name="other_advanced_settings">Ďalšie nastavenia</string>
+  <string name="other_personal_settings">Ďalšie nastavenia</string>
   <string name="other_relative">Ostatné povolenia</string>
   <string name="overlay_display_devices_title">Simulovať sek. displeje</string>
   <string name="owner_info_settings_edit_text_hint">Zadajte text, ktorý sa zobrazí na zamknutej obrazovke</string>
@@ -2020,6 +2023,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_bar_settings_show_flow_info">Zobraziť info o spotrebe dát</string>
   <string name="status_bar_settings_show_network_speed">Zobr. rýchlosť prenosu dát</string>
   <string name="status_bar_settings_show_notificationBar_notification">Zobraziť v roletke</string>
+  <string name="status_bar_settings_show_notification_icon">Zobraziť ikony upozornení</string>
   <string name="status_bar_settings_show_screenshot_notification">Zobraziť upozornenie o screenshote</string>
   <string name="status_bar_settings_show_statusBar_notification">Zobraziť v lište</string>
   <string name="status_bar_settings_show_statusBar_notification_summary">Upozornenia sa na chvíľu zobrazia vo vrchnej časti displeja</string>
@@ -2764,6 +2768,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="wimax_settings">4G</string>
   <string name="window_animation_scale_title">Mierka animácie okna</string>
   <string name="wireless_networks_settings_title">Bezdrôtové pripojenie a siete</string>
+  <string name="wireless_off">Vyp</string>
+  <string name="wireless_on">Zap</string>
   <string name="wizard_back">Späť</string>
   <string name="wizard_finish">Dokončiť</string>
   <string name="wizard_next">Ďalej</string>
@@ -2784,10 +2790,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-  <string name="lock_settings">Zámok displeja</string>
-  <string name="other_advanced_settings">Ďalšie nastavenia</string>
-  <string name="other_personal_settings">Ďalšie nastavenia</string>
-  <string name="wireless_off">Vyp</string>
-  <string name="wireless_on">Zap</string>
-  <string name="status_bar_settings_show_notification_icon">Zobraziť ikony upozornení</string>
 </resources>

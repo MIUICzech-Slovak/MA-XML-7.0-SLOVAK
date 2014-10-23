@@ -119,6 +119,7 @@
   <string name="fragment_title_recommend">Odporúčané</string>
   <string name="function_error">Táto funkcia je momentálne nedostupná</string>
   <string name="go_to_add_music">Pridať skladbu</string>
+  <string name="headset_settings">Nastavenie slúchadiel</string>
   <string name="high_quality">Vyššia</string>
   <string name="higher_quality_music">Vysoká kvalita hudby</string>
   <string name="higher_quality_music_summary">Streamovať a sťahovať hudbu vo vyššej kvalite</string>
@@ -231,5 +232,4 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
-  <string name="headset_settings">Nastavenie slúchadiel</string>
 </resources>

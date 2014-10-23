@@ -24,7 +24,12 @@
   <string name="guide_toast">"Prosím skalibrujte kompas pohybom v tvare osmičky."</string>
   <string name="latitude">LAT</string>
   <string name="location_east">E</string>
+  <string name="location_enable">Povoliť</string>
+  <string name="location_enable_later">Neskôr</string>
+  <string name="location_enabled">Zisťovanie polohy je povolené. Môžete to kedykoľvek zmeniť v nastaveniach polohy.</string>
   <string name="location_north">N</string>
+  <string name="location_not_enabled_summary">Je potrebný prístup k aktuálnej polohe pre správne fungovanie.</string>
+  <string name="location_not_enabled_title">Povoliť zisťovanie polohy</string>
   <string name="location_south">S</string>
   <string name="location_west">W</string>
   <string name="longitude">LON</string>
@@ -33,9 +38,4 @@
   <string name="mobiledata_alert_dialog_title">Upozornenie</string>
   <string name="pressure_title">Tlak</string>
   <string name="pressure_unit">hPa</string>
-  <string name="location_enable">Povoliť</string>
-  <string name="location_enable_later">Neskôr</string>
-  <string name="location_enabled">Zisťovanie polohy je povolené. Môžete to kedykoľvek zmeniť v nastaveniach polohy.</string>
-  <string name="location_not_enabled_summary">Je potrebný prístup k aktuálnej polohe pre správne fungovanie.</string>
-  <string name="location_not_enabled_title">Povoliť zisťovanie polohy</string>
 </resources>

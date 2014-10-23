@@ -105,6 +105,7 @@
   <string name="headset_custom">Prispôsobiť</string>
   <string name="headset_info">Upraviť funkciu tlačidiel</string>
   <string name="headset_settings">Slúchadla pripojené</string>
+  <string name="hint_for_long_press_app_switch_key">Dlhé podržanie zobrazí MENU</string>
   <string name="invalid_charger">"Nabíjanie z USB nie je podporované. Použite sieťovú nabíjačku."</string>
   <string name="label_view">Zobraziť</string>
   <string name="lockscreen_carrier_default">Žiaden signál</string>
@@ -233,5 +234,4 @@
   <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
-  <string name="hint_for_long_press_app_switch_key">Dlhé podržanie zobrazí MENU</string>
 </resources>

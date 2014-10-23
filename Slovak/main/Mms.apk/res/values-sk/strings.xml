@@ -176,6 +176,7 @@
   <string name="has_invalid_recipient">%1$s Neplatných príjemcov</string>
   <string name="hidden_sender_address">Adresa skrytého odosielateľa</string>
   <string name="hint_search_sms">%d SMS</string>
+  <string name="hms_add_image_progress_message">Spracovávanie...</string>
   <string name="hms_first_use_tips">Pre príjímanie správ služieb musíte byť pripojený k Wi-Fi sieti</string>
   <string name="importing_progress_private_message">Importovanie správ do súkromnej schránky</string>
   <string name="in_sms">Správa</string>
@@ -191,6 +192,8 @@
   <string name="loading_mms">Načítavanie MMS...</string>
   <string name="manage_permission_app_label">Device Management Permission</string>
   <string name="me">Ja</string>
+  <string name="menu_add_black">Blokovať</string>
+  <string name="menu_add_contact">Kontakt</string>
   <string name="menu_call">Hovor</string>
   <string name="menu_compose_new">Vytvoriť</string>
   <string name="menu_contact">Kontakt</string>
@@ -198,7 +201,9 @@
   <string name="menu_edit">Upraviť</string>
   <string name="menu_forward">Poslať ďalej</string>
   <string name="menu_lock">Zamknúť</string>
+  <string name="menu_mark">Označiť</string>
   <string name="menu_more">Viac</string>
+  <string name="menu_new_contact">Nový kontakt</string>
   <string name="menu_new_manual">Vložiť číslo manuálne</string>
   <string name="menu_pick_from_contact">Vybrať z kontaktov</string>
   <string name="menu_preferences">Nastavenia</string>
@@ -512,15 +517,10 @@ Pokus: %s."</string>
   <string name="user_agreement5">Tlačidlom OK, súhlasíte s týmito podmienkami.</string>
   <string name="view">Zobraziť</string>
   <string name="view_bookmark">Zobraziť pôvodnú správu</string>
+  <string name="view_hms_attachment_fail">Sťahovanie obrázku zlyhalo.</string>
   <string name="view_hms_details">Podrobnosti</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="menu_add_black">Blokovať</string>
-  <string name="menu_add_contact">Kontakt</string>
-  <string name="menu_mark">Označiť</string>
-  <string name="menu_new_contact">Nový kontakt</string>
-  <string name="hms_add_image_progress_message">Spracovávanie...</string>
-  <string name="view_hms_attachment_fail">Sťahovanie obrázku zlyhalo.</string>
 </resources>

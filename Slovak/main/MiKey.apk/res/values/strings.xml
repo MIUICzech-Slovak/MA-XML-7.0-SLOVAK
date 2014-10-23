@@ -190,6 +190,8 @@
   <string name="setting_key_mode_dust_cap">key_dust_cap</string>
   <string name="setting_key_mode_silent_open">key_silent_default</string>
   <string name="setting_key_silent">key_silent</string>
+  <string name="setting_proximity_desc">Use proximity sensor for prevent misuse MiKey in your pocket.</string>
+  <string name="setting_proximity_text">Use proximity sensor</string>
   <string name="setting_silent_mode">Silent mode</string>
   <string name="setting_silent_mode_default">Headphone mode (select MiKey)</string>
   <string name="setting_silent_mode_desc">"If you want to connect the headset, select the headset mode and disconnect the MiKey. Otherwise the audio output will not work properly."</string>
@@ -257,6 +259,4 @@ From the top of the screen slide downwards to use it."</string>
   <string name="vcard_prompt">Contact can not be added because there is no name</string>
   <string name="web">Website:</string>
   <string name="write_pic_fail">Failed to save picture!</string>
-  <string name="setting_proximity_desc">Use proximity sensor for prevent misuse MiKey in your pocket.</string>
-  <string name="setting_proximity_text">Use proximity sensor</string>
 </resources>

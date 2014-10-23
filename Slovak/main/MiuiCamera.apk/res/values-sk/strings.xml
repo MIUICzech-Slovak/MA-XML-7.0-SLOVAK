@@ -29,6 +29,7 @@
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Nasmerujte svoj telefón nadol, 
 opustite na chvíľu náhľad"</string>
+  <string name="burst_shoot_exit_button_text">Ukončiť</string>
   <string name="camera_disabled">Fotoaparát bol z dôvodu bezpečnosti deaktivovaný.</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
@@ -45,6 +46,7 @@ opustite na chvíľu náhľad"</string>
   <string name="confirm_change_to_expert_mode_message">Prepnúť na rozšírený režim?</string>
   <string name="confirm_change_to_simple_mode_message">Prepnúť na základný režim?</string>
   <string name="confirm_location_message">Zariadenie môže zaznamenať vašu polohu vo fotografií. Chcete povoliť?</string>
+  <string name="confirm_location_title">Zaznamenávanie polohy</string>
   <string name="confirm_restore_message">Chcete obnoviť predvolené nastavenia?</string>
   <string name="confirm_restore_title">Obnoviť predvolené</string>
   <string name="connect_wifi">Pripojiť k tejto Wi-Fi</string>
@@ -188,6 +190,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_advanced_settings">Rozšírené</string>
   <string name="pref_audio_indicator_entry_off">Zvyk vyp.</string>
   <string name="pref_audio_indicator_entry_on">Zvuk zap.</string>
+  <string name="pref_burst_shoot_title">Dávkové snímanie</string>
   <string name="pref_camcorder_settings">Nastavenie Kamery</string>
   <string name="pref_camcorder_settings_category">Nastavenie kamery</string>
   <string name="pref_camera_ae_bracket_hdr_title">HDR</string>
@@ -405,6 +408,9 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_capture_settings">Nastavenie Fotoaparátu</string>
   <string name="pref_exposure_title">Expozícia</string>
   <string name="pref_face_beauty_title">Tón pleti</string>
+  <string name="pref_front_mirror_entry_auto">Auto</string>
+  <string name="pref_front_mirror_entry_off">Vyp</string>
+  <string name="pref_front_mirror_entry_on">Zap</string>
   <string name="pref_front_mirror_title">Zrkadliť prednú kameru</string>
   <string name="pref_grp_advanced_settings">Rozšírené Nastavenia</string>
   <string name="pref_grp_capture_settings">Nastavenia Záznamu</string>
@@ -553,10 +559,4 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="confirm_location_title">Zaznamenávanie polohy</string>
-  <string name="burst_shoot_exit_button_text">Ukončiť</string>
-  <string name="pref_burst_shoot_title">Dávkové snímanie</string>
-  <string name="pref_front_mirror_entry_auto">Auto</string>
-  <string name="pref_front_mirror_entry_off">Vyp</string>
-  <string name="pref_front_mirror_entry_on">Zap</string>
 </resources>

@@ -71,8 +71,14 @@
   <string name="count_ge_media">%d videí</string>
   <string name="count_get_result">%d výsledkov</string>
   <string name="count_ji_quan">Všetky Ep. %d</string>
+  <string name="datastream_alert_download">Sťahovanie videa na dátovom pripojení môže navýšiť vaše mesačné poplatky</string>
+  <string name="datastream_alert_hint">Upozornenie môžete deaktivovať v Nastavenia - Systémové aplikácie - Video</string>
+  <string name="datastream_alert_negative_button">Zrušiť</string>
+  <string name="datastream_alert_positive_button">Pokračovať</string>
+  <string name="datastream_alert_title">Spotreba dát</string>
   <string name="day">". "</string>
   <string name="declaration">Podmienky používania</string>
+  <string name="declaration_allow">Súhlasím</string>
   <string name="declaration_content">Súhlasíte s podmienkami používania stanovenými Sohu Video, iQiyi, a ostatnými poskytovateľmi videa?</string>
   <string name="defaults">Predvolené</string>
   <string name="delete">Vymazať</string>
@@ -186,6 +192,8 @@
   <string name="play_setting">Prehrávanie</string>
   <string name="positive_comment">Dobre komentáre</string>
   <string name="prefix_countdown">Reklama:</string>
+  <string name="priority_storage">Ukladať na externú SD kartru</string>
+  <string name="priority_storage_summary">Automaticky ukladať na externú SD kartu</string>
   <string name="rank">Hodnotenie</string>
   <string name="receive_mipush">Príjem Xiaomi push</string>
   <string name="receive_mipush_summary">Prijímať upozornenia o novom online obsahu</string>
@@ -244,6 +252,8 @@
   <string name="updatedalready">Aktualizované</string>
   <string name="use_cellular_network">Použiť mobilnú sieť</string>
   <string name="use_cellular_network_summary">Použiť mobilnú sieť pre sťahovanie videa</string>
+  <string name="use_cellular_play_summary">In order to save the cost of open flow, suggestions</string>
+  <string name="use_cellular_play_title">2G/3G/4G network broadcast video tips</string>
   <string name="userdata_alert_content">Používate mobilný internet a prehrávanie videí môže spotrebovať väčšie množstvo dát. Chcete pokračovať?</string>
   <string name="userdata_alert_ok">Pokračovať</string>
   <string name="userdata_alert_title">Využitie dát</string>
@@ -269,6 +279,8 @@
   <string name="vp_closedialog">OK</string>
   <string name="vp_confirm">OK</string>
   <string name="vp_content_description">Popis</string>
+  <string name="vp_datastream_alert_hint">Upozornenie môžete deaktivovať v Nastavenia - Systémové aplikácie - Video</string>
+  <string name="vp_datastream_alert_play">Sťahovanie videa na dátovom pripojení môže navýšiť vaše mesačné poplatky</string>
   <string name="vp_device_list">Zoznam zariadení</string>
   <string name="vp_download_connect_fail">Nebolo možné nájsť URL. Skontrolujte vaše pripojenie k sieti.</string>
   <string name="vp_download_file_fail">Sťahovanie zlyhalo. Uistite sa, že máte dostatok voľného miesta na úložisku.</string>
@@ -312,16 +324,4 @@
   <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
   <string name="xiaomi_user">Xiaomi užívateľ</string>
   <string name="yesterday">"Včera "</string>
-  <string name="vp_datastream_alert_hint">Upozornenie môžete deaktivovať v Nastavenia - Systémové aplikácie - Video</string>
-  <string name="vp_datastream_alert_play">Sťahovanie videa na dátovom pripojení môže navýšiť vaše mesačné poplatky</string>
-  <string name="use_cellular_play_summary">In order to save the cost of open flow, suggestions</string>
-  <string name="use_cellular_play_title">2G/3G/4G network broadcast video tips</string>
-  <string name="priority_storage">Ukladať na externú SD kartru</string>
-  <string name="priority_storage_summary">Automaticky ukladať na externú SD kartu</string>
-  <string name="declaration_allow">Súhlasím</string>
-  <string name="datastream_alert_download">Sťahovanie videa na dátovom pripojení môže navýšiť vaše mesačné poplatky</string>
-  <string name="datastream_alert_hint">Upozornenie môžete deaktivovať v Nastavenia - Systémové aplikácie - Video</string>
-  <string name="datastream_alert_negative_button">Zrušiť</string>
-  <string name="datastream_alert_positive_button">Pokračovať</string>
-  <string name="datastream_alert_title">Spotreba dát</string>
 </resources>

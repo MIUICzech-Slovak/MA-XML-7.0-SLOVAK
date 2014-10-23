@@ -34,7 +34,9 @@
   <string name="SMS_KEYWORDS">Blokovať kľúčové slová</string>
   <string name="SMS_MODENAME">Neinteligentné SMS</string>
   <string name="SMS_PREFIX">Číslo SMS</string>
+  <string name="SMS_SERVICE">Blokovanie Služieb</string>
   <string name="SMSpass">SMS</string>
+  <string name="STRANGER_BLOCK">Čierna listina</string>
   <string name="ad_block_hint">Blokované: %d</string>
   <string name="ad_install_monitor">Kontrola inštalácií</string>
   <string name="ad_install_monitor_hint">Inštalovaná aplikácia je kontrolovaná na prítomnosť Adware</string>
@@ -58,6 +60,7 @@
   <string name="blacklist_prefix_add_hint">Pridať všetky čísla s predvoľbou do Čiernej listiny</string>
   <string name="block_message_number">SMS: %d</string>
   <string name="block_phone_number">Hovory: %d</string>
+  <string name="button_to_setting">Nastavenia</string>
   <string name="call_delete_hint">Vymazať všetky blokované hovory z vybraného čísla?</string>
   <string name="cancle">Zrušiť</string>
   <string name="close_callwait">Zakázať</string>
@@ -89,6 +92,7 @@
   <string name="dlg_import_blacklist">Pridávanie na čiernu listinu</string>
   <string name="dlg_import_whitelist">Pridávanie na VIP zoznam</string>
   <string name="dlg_keyword_ok">Uložiť</string>
+  <string name="dlg_message_not_open_stranger_identify">Musíte povoliť \"Rozpoznávanie neznámych čisiel\" v nastaveniach telefónu.</string>
   <string name="dlg_no_block">Odblokovať toto číslo?</string>
   <string name="dlg_no_block_ok">Odblokovať</string>
   <string name="dlg_remove_address_blacklist">Odobrať tento región z Čiernej listiny a obnoviť všetky SMS?</string>
@@ -100,6 +104,7 @@
   <string name="dlg_remove_whitelist_ing">Odoberanie z výnimiek...</string>
   <string name="dlg_retore">Obnoviť tieto SMS správy?</string>
   <string name="dlg_retore_ok">Obnoviť</string>
+  <string name="dlg_title_not_open_stranger_identify">Povoľte rozpoznanie neznámych čísiel</string>
   <string name="dlg_white_address_antispam_message">Pridať túto predvoľbu do výnimiek a povoliť ju?</string>
   <string name="dlg_white_antispam_hint">Výnimky</string>
   <string name="dlg_white_antispam_message">Pridať toto číslo do výnimiek a povoliť ho?</string>
@@ -117,6 +122,18 @@
   <string name="info_unantispam_sms">Povoliť SMS</string>
   <string name="label_callwait">Čakajúci hovor</string>
   <string name="log_count">(%d)</string>
+  <string name="mark_agent">Predajca</string>
+  <string name="mark_agent_block">Označené ako predajca</string>
+  <string name="mark_express">Kuriér</string>
+  <string name="mark_express_block">Označené ako kuriér</string>
+  <string name="mark_fraud">Podvodník</string>
+  <string name="mark_fraud_block">Označené ako podvodník</string>
+  <string name="mark_meal">Donáška</string>
+  <string name="mark_meal_block">Označené ako donáška</string>
+  <string name="mark_number_info">"
+Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých už viac nechcete prijať hovor."</string>
+  <string name="mark_sell">Predajca</string>
+  <string name="mark_sell_block">Označené ako predajca</string>
   <string name="marked_by_others">"%d ľudí označilo ako "</string>
   <string name="marked_by_user">"ste označili ako "</string>
   <string name="menu_add">Pridať</string>
@@ -183,6 +200,7 @@
   <string name="st_antispam_title_contact_sms">SMS od kontaktov</string>
   <string name="st_antispam_title_contactandanoy_group">Neznáme čísla</string>
   <string name="st_antispam_title_null_incoming">Skryté čísla</string>
+  <string name="st_antispam_title_service_sms">Upozornenia Služieb</string>
   <string name="st_antispam_title_whitelist">Výnimky</string>
   <string name="st_block_all">Blokovať hovory a SMS</string>
   <string name="st_block_mute">Blokovať hovory a stlmiť SMS</string>
@@ -243,6 +261,7 @@
   <string name="st_title_man_editwhitelist">Vyberte mesto pre povolenie</string>
   <string name="st_title_man_head_addblacklist">Pridať predvoľbu na Čiernu listinu</string>
   <string name="st_title_man_head_addwhitelist">Pridať predvoľbu do výnimiek</string>
+  <string name="st_title_markednumber_group">Označené čisla</string>
   <string name="st_title_mode_choose_group">Výber režimu blokovania</string>
   <string name="st_title_not_sim">Prázdne</string>
   <string name="st_title_open_antispam">AntiSpam</string>
@@ -264,23 +283,4 @@
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
-  <string name="STRANGER_BLOCK">Čierna listina</string>
-  <string name="button_to_setting">Nastavenia</string>
-  <string name="dlg_message_not_open_stranger_identify">Musíte povoliť \"Rozpoznávanie neznámych čisiel\" v nastaveniach telefónu.</string>
-  <string name="dlg_title_not_open_stranger_identify">Povoľte rozpoznanie neznámych čísiel</string>
-  <string name="mark_agent">Predajca</string>
-  <string name="mark_agent_block">Označené ako predajca</string>
-  <string name="mark_express">Kuriér</string>
-  <string name="mark_express_block">Označené ako kuriér</string>
-  <string name="mark_fraud">Podvodník</string>
-  <string name="mark_fraud_block">Označené ako podvodník</string>
-  <string name="mark_meal">Donáška</string>
-  <string name="mark_meal_block">Označené ako donáška</string>
-  <string name="mark_number_info">"
-Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých už viac nechcete prijať hovor."</string>
-  <string name="mark_sell">Predajca</string>
-  <string name="mark_sell_block">Označené ako predajca</string>
-  <string name="st_title_markednumber_group">Označené čisla</string>
-  <string name="SMS_SERVICE">Blokovanie Služieb</string>
-  <string name="st_antispam_title_service_sms">Upozornenia Služieb</string>
 </resources>

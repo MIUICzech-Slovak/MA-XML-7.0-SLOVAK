@@ -104,6 +104,7 @@
   <string name="timer_message_with_hour">%1$dh a %2$dmin</string>
   <string name="timer_message_with_seconds">%1$ds</string>
   <string name="timer_new_item">Upraviť</string>
+  <string name="timer_notify_text">Odložiť alebo zrušiť časovač.</string>
   <string name="timer_start_alarm">Časovač vypršal</string>
   <string name="timer_title">Časovač</string>
   <string name="timezone_exist_error_message">Časovú zónu nie je možné pridať, lebo už existuje.</string>
@@ -114,5 +115,4 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="timer_notify_text">Odložiť alebo zrušiť časovač.</string>
 </resources>

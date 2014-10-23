@@ -178,6 +178,8 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="setting_instant_photo_text">Zaostriť pred fotografiou</string>
   <string name="setting_keeplive_desc">Táto možnosť povolí aplikácií bežať na pozadí a rýchlo reagovať na vaše príkazy. To však môže zvýšiť spotrebu batérie</string>
   <string name="setting_keeplive_text">Bežať na pozadí</string>
+  <string name="setting_proximity_desc">Zabrániť náhodnému použitiu MiKey vo vrecku.</string>
+  <string name="setting_proximity_text">Použiť senzor priblíženia</string>
   <string name="setting_silent_mode">Tichý režim</string>
   <string name="setting_silent_mode_default">Režim slúchadiel (vybrať MiKey)</string>
   <string name="setting_silent_mode_desc">"Ak chcete zapojiť slúchadlá, zvoľte režim slúchadiel a odpojte MiKey. Inak nebude správne fungovať zvukový výstup."</string>
@@ -238,6 +240,4 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="vcard_prompt">Nie je možné pridať kontakt, pretože chýba meno</string>
   <string name="web">Web:</string>
   <string name="write_pic_fail">Chyba uloženia fotografie!</string>
-  <string name="setting_proximity_desc">Zabrániť náhodnému použitiu MiKey vo vrecku.</string>
-  <string name="setting_proximity_text">Použiť senzor priblíženia</string>
 </resources>
