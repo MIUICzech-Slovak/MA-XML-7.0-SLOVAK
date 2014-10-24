@@ -779,7 +779,6 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="zip_viewer_no_file">Žiadne súbory!</string>
   <string name="load_from_remote">Pokračovať vo vyhľadávaní na serveri</string>
   <string name="loading_from_remote">Vyhľadávanie na servri...</string>
   <string name="local_search_result">Správ nájdených v zariadení: %s</string>
