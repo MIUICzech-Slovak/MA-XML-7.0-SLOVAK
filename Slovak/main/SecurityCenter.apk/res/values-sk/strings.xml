@@ -614,4 +614,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="legal_workday_invalidate">Platnosť dát vypršala (Zvoniť bude Pon.-Pia.)</string>
+  <string name="legal_workday_invalidate_message">(Platnosť dát vypršala, je nutné ich aktualizovať)</string>
+  <string name="legal_workday_message">(Preskočiť sviatky)</string>  
 </resources>

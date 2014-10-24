@@ -779,4 +779,14 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="load_from_remote">Pokračovať vo vyhľadávaní na serveri</string>
+  <string name="loading_from_remote">Vyhľadávanie na servri...</string>
+  <string name="local_search_result">Správ nájdených v zariadení: %s</string>
+  <string name="perference_change_pw">Aktualizovať heslo</string>
+  <string name="perference_change_pw_notnull_tips">Heslo nesmie byť prázdne</string>
+  <string name="perference_change_pw_ok_tips">Heslo aktualizované</string>
+  <string name="prefetched_got_it">OK</string>
+  <string name="remote_search">Všetky správy na serveri</string>
+  <string name="remote_search_result">Správ nájdených an serveri: %s</string>
 </resources>

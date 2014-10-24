@@ -331,4 +331,7 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
+  <string name="loading_micloud_sync_data">Načítavanie...</string>
+  <string name="email_or_id_hint_text">Email alebo Xiaomi ID</string>
+  <string name="login_with_email_or_id">Prihlásiť sa s iným účtom</string>
 </resources>
