@@ -240,4 +240,6 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="vcard_prompt">Nie je možné pridať kontakt, pretože chýba meno</string>
   <string name="web">Web:</string>
   <string name="write_pic_fail">Chyba uloženia fotografie!</string>
+  <string name="toast_audio_record_start">Spustiť nahrávanie</string>
+  <string name="toast_audio_record_stop">Zastaviť nahrávanie</string>
 </resources>

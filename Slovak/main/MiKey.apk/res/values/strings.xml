@@ -259,4 +259,6 @@ From the top of the screen slide downwards to use it."</string>
   <string name="vcard_prompt">Contact can not be added because there is no name</string>
   <string name="web">Website:</string>
   <string name="write_pic_fail">Failed to save picture!</string>
+  <string name="toast_audio_record_start">Start Recording</string>
+  <string name="toast_audio_record_stop">Stop Recording</string>
 </resources>
