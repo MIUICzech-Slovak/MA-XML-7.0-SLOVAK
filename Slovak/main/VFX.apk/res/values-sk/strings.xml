@@ -219,20 +219,20 @@ Inštalovať/aktualizovať teraz?"</string>
  
 'Inštalovať ovládač' - Inštalovať/aktualizovať ovládač ViPER4Android. 
 'Odinštalovať ovládač' - Odinštalovať ovládač ViPER4Android. 
-'FX kompatibilný režim' - Vybrať kompatibilný režim pre efekty. 
+'FX kompatibilný mód' - Vybrať kompatibilný mód pre efekty. 
  'Normálny' - Nastaviť ViPER4Android ako globálny efekt. 
- 'Kompatibilný' - Nastaviť ViPER4Android ako lokálny efekt. 
+ 'Kompatiblný' - Nastaviť ViPER4Android ako lokálny efekt. 
  
-"&lt;b&gt;Nefunguje &amp;#382;iaden v4a efekt na v&amp;#353;etk&amp;#253;ch/v&amp;#228;&amp;#269;&amp;#353;ine prehr&amp;#225;va&amp;#269;och?&lt;/b&gt;"
- M&amp;#244;&amp;#382;ete prepn&amp;#250;&amp;#357; fx re&amp;#382;im na "kompatibiln&amp;#253;", re&amp;#353;tartova&amp;#357; zariadenie a sk&amp;#250;si&amp;#357; znova. 
+"Nefunguje žiaden v4a efekt na všetkých/väčšine prehrávačoch?"
+ Môžete prepnúť fx mód na "kompatibilný", reštartovať zariadenie a skúsiť znova. 
  
-"&lt;b&gt;Ako zmeni&amp;#357; audio kvalitu?&lt;/b&gt;"
- Odin&amp;#353;talujte ovl&amp;#225;da&amp;#269;, re&amp;#353;tartuje zariadenie a vyberte po&amp;#382;adovan&amp;#250; kvalitu. 
+"Ako zmeniť audio kvalitu?"
+ Odinštalujte ovládač, reštartuje zariadenie a vyberte požadovanú kvalitu. 
  
-"&lt;b&gt;Ako zn&amp;#237;&amp;#382;i&amp;#357; spotrebu bat&amp;#233;rie?&lt;/b&gt;"
- Ke&amp;#271; V4A be&amp;#382;&amp;#237; v norm&amp;#225;lnom re&amp;#382;ime, vypnite syst&amp;#233;mov&amp;#233; zvuky, vr&amp;#225;tane zvuku dotykov a zamykania/odomykania a t&amp;#253;m u&amp;#353;etrite 1.2~4 kr&amp;#225;t &amp;#382;ivotnos&amp;#357; bat&amp;#233;rie. 
+"Ako znížiť spotrebu batérie?"
+ Keď V4A beží v normálnom móde, vypnite systémové zvuky, vrátane zvuku dotykov a zamykania/odomykania a tým ušetrite 1.2~4 krát životnosť batérie. 
  
-"&lt;b&gt;Forum: http://forum.xda-developers.com/showthread.php?t=2191223&lt;/b&gt;</string>
+"Forum: http://forum.xda-developers.com/showthread.php?t=2191223</string>
   <string name="text_hidetrayicon">Skryť notifikáciu</string>
   <string name="text_install">Inštalovať ovládač</string>
   <string name="text_ir_dir_isempty">ViPER4Android: IR vzorová zložka %1$s je prázdna.</string>
