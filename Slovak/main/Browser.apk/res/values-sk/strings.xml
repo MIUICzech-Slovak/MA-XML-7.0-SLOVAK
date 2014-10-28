@@ -726,4 +726,8 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="empty_history_hint">Prázdna</string>
+  <string name="enter_developer_mode">Vývojársky režim</string>
+  <string name="webapp_bottom_bar_addtodesk">Pridať na plochu</string>
+  <string name="webapp_splashview_loading">Načítavanie...</string>
 </resources>

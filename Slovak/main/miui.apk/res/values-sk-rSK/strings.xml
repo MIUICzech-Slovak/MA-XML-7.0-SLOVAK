@@ -253,4 +253,6 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
+  <string name="permdesc_sendSmsNoConfirmation">Povolí aplikácií odoslať SMS. Vaše mesačné poplatky sa môžu výrazne navýšiť ak podvodné aplikácie budú odosielať SMS bez vášho vedomia.</string>
+  <string name="permlab_sendSmsNoConfirmation">odoslať SMS bez potvrdenia</string>
 </resources>

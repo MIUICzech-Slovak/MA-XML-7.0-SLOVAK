@@ -338,4 +338,6 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usage_sorted_activity_lable">Spotreba dát</string>
   <string name="usage_sorted_empty_text">Prázdne</string>
   <string name="usage_sorted_loading_text">Načítavanie...</string>
+  <string name="sc_allow_network_dialog_message">Je nutné povoliť tejto aplikácií prístup k sieťovému pripojeniu.</string>
+  <string name="sc_allow_network_dialog_tiltle">Nie je možné využívať úsporu dát</string>
 </resources>
