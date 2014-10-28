@@ -241,7 +241,7 @@ Inštalovať/aktualizovať teraz?"</string>
   <string name="text_modifybuildprop">"UPOZORNENIE: 
 LPA funkcia zapnutá, môže spôsobiť nefunkčnosť V4A. 
 LPA znamená 'Low Power Audio' (nízko-energetické audio), túto funkciu môžete zakázať modifikovaním build.prop, pričom táto procedúra prebehne automaticky. 
-Dôrazne doporučujeme vytvoriť NANDROID zálohu alebo zálohu dát predtým než budete pokračovať! 
+Dôrazne odporúčame vytvoriť NANDROID zálohu alebo zálohu dát predtým než budete pokračovať! 
 Chcete LPA zakázať teraz?"</string>
   <string name="text_newfxprofile">Nový profil…</string>
   <string name="text_no">Nie</string>
