@@ -475,8 +475,7 @@ spoločne!"</string>
   <string name="set_screensaver_path_title">Prezentácia</string>
   <string name="set_wallpaper">Nastavuje sa tapeta plochy...</string>
   <string name="settings">Nastavenia</string>
-  <string name="settings_i_xiaomi_com">"Prihláste sa na i.mi.com pre 
-zobrazenie Vašich Cloud albumov"</string>
+  <string name="settings_i_xiaomi_com">Váš cloud je na adrese i.mi.com</string>
   <string name="shadow">Tiene</string>
   <string name="share_album">Zdieľať album</string>
   <string name="share_album_owner">Vlastník</string>
