@@ -1760,10 +1760,10 @@ Vyberte váš operačný systém:"</string>
 Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="running_process_item_removed_user_label">Odstránený používateľ</string>
   <string name="running_process_item_user_label">Používateľ: %1$s</string>
-  <string name="running_processes_item_description_p_p">Počet procesov: %1$d; počet služieb: %2$d</string>
-  <string name="running_processes_item_description_p_s">Počet procesov: %1$d; počet služieb: %2$d</string>
-  <string name="running_processes_item_description_s_p">Počet procesov: %1$d; počet služieb: %2$d</string>
-  <string name="running_processes_item_description_s_s">Počet procesov: %1$d; počet služieb: %2$d</string>
+  <string name="running_processes_item_description_p_p">Procesy: %1$d; Služby: %2$d</string>
+  <string name="running_processes_item_description_p_s">Procesy: %1$d; Služby: %2$d</string>
+  <string name="running_processes_item_description_s_p">Procesy: %1$d; Služby: %2$d</string>
+  <string name="running_processes_item_description_s_s">Procesy: %1$d; Služby: %2$d</string>
   <string name="runningservicedetails_processes_title">Procesy</string>
   <string name="runningservicedetails_services_title">Služby</string>
   <string name="runningservicedetails_settings_title">Spustená aplikácia</string>
