@@ -232,4 +232,6 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
+  <string name="my_music_empty_goto_online">Váš zoznam skladieb je prázdny.</string>
+  <string name="no_local_source_find">Lokálne súbory sa nenašli, odosielanie zlyhalo!</string>
 </resources>
