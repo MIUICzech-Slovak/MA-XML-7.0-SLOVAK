@@ -137,7 +137,7 @@ Využité %s | Ostáva %s"</string>
   <string name="micloud_warn_low_sum">Zaplnili ste už 90% úložiska.</string>
   <string name="micloud_warn_low_title">Dochádza voľné miesto v úložisku!</string>
   <string name="micloud_web_discription_01">Prihláste sa na http://i.mi.com</string>
-  <string name="micloud_web_discription_02">pre ukladanie a prístup k Vaším súborom</string>
+  <string name="micloud_web_discription_02">pre prístup k vašim súborom</string>
   <string name="microsoft_cloud">Microsoft Cloud</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Okolo RMB 80 / rok</string>
