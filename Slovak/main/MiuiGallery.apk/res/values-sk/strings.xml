@@ -304,13 +304,13 @@ spoločne!"</string>
   <string name="manual">Manuál</string>
   <string name="me">Ja</string>
   <string name="menu_item_sort">Triediť</string>
-  <string name="menu_item_sort_date">Dátumu</string>
+  <string name="menu_item_sort_date">Dátum</string>
   <string name="menu_item_sort_date_asc">Vzostupne podľa dátumu</string>
   <string name="menu_item_sort_date_desc">Zostupne podľa dátumu</string>
-  <string name="menu_item_sort_name">Názvu</string>
+  <string name="menu_item_sort_name">Názov</string>
   <string name="menu_item_sort_name_asc">Podľa mena (A-Z)</string>
   <string name="menu_item_sort_name_desc">Podľa mena (Z-A)</string>
-  <string name="menu_item_sort_size">Veľkosti</string>
+  <string name="menu_item_sort_size">Veľkosť</string>
   <string name="menu_item_sort_size_asc">Vzostupne podľa veľkosti</string>
   <string name="menu_item_sort_size_desc">Zostupne podľa veľkosti</string>
   <string name="menu_view_contact">Zobraziť kontakt</string>
