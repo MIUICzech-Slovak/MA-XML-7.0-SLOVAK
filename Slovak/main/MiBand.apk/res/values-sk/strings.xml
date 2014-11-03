@@ -2,7 +2,6 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="about">O aplikácií</string>
-  <string name="about_copyright"/>
   <string name="accept">Prijať</string>
   <string name="action_exit">Ukončiť</string>
   <string name="action_local_ota">SD card update</string>
@@ -15,6 +14,7 @@
   <string name="action_pop_weixin_enter">Weixing</string>
   <string name="age">Vek</string>
   <string name="ages">Rokov</string>
+  <string name="agree">Súhlasím</string>
   <string name="alarm">Budík</string>
   <string name="alarm_cycle">Cyklus</string>
   <string name="alarm_device_not_connect">Pripojte MiBand a upravte nastavenie budíka</string>
@@ -33,6 +33,7 @@ Súhlas: %2$s"</string>
   <string name="awake_format">, prebudený %1$s krát.</string>
   <string name="awake_format_1">, prebudený raz.</string>
   <string name="back">Späť</string>
+  <string name="battery">Batéria</string>
   <string name="battery_charge_full">Nabité</string>
   <string name="battery_charging">Nabíjanie...</string>
   <string name="battery_low_info">Slabá batéria</string>
@@ -41,6 +42,10 @@ Súhlas: %2$s"</string>
   <string name="bind_bracelet">Nájdený MiBand</string>
   <string name="bind_bracelet_ok">MiBand je pripojený</string>
   <string name="bind_new_mili">Pripojiť nový MiBand</string>
+  <string name="bind_qq">Synchr. s QQ</string>
+  <string name="bind_qq_health">Synchr. s QQ Health</string>
+  <string name="bind_qq_health_tip">"Synchr. počet krokov a kvalitu spánku s QQ health."</string>
+  <string name="bind_qq_health_title">Pridať QQ účet</string>
   <string name="bind_weixin_failed">Spojenie zlyhalo, skúste to znova</string>
   <string name="bind_weixin_new_disable_tips">"After link with your Wechat account and follow Mi Band's Wechat service account, 
 you can check information like the number of steps taken through Wechat. You can also see your result status among your friends."</string>
@@ -56,9 +61,6 @@ then tap Follow to complete sync."</string>
   <string name="bind_weixin_title">Link Wechat to share and compete with friends.</string>
   <string name="blue">Modrá</string>
   <string name="bluetooth">Bluetooth </string>
-  <string name="bmenu_device">Zariadenia</string>
-  <string name="bmenu_dynamic">Aktualizácie</string>
-  <string name="bmenu_my">Ja</string>
   <string name="body">Krk</string>
   <string name="bracelet_info_battery">%s%%</string>
   <string name="bracelet_info_deviceid">%s</string>
@@ -81,7 +83,7 @@ Adresa: %2$s"</string>
   <string name="cm">cm</string>
   <string name="come_from_xiaomi_bracelet">Z MiBand</string>
   <string name="confirm">OK</string>
-  <string name="congrats">Gratulujeme</string>
+  <string name="confirm_lazy_day">Chcete potvrdiť Oddychový deň?</string>
   <string name="connect_bracelet_now">Pripájanie...</string>
   <string name="content_too_short">Nie je možné nechať prázdne</string>
   <string name="continue_reach_goal">Dosiahnúť cieľe</string>
@@ -105,7 +107,6 @@ Adresa: %2$s"</string>
   <string name="date_yesterday">Včera</string>
   <string name="day">Deň</string>
   <string name="day_active_detail">Denné štatistiky</string>
-  <string name="description_list_icon">Ikona</string>
   <string name="device_list">MiBand v okolí</string>
   <string name="device_not_found_not_knocked">Dotknite sa znova MiBand ak bliká a vyhľadajte ho.</string>
   <string name="device_not_response">Prečo môj MiBand neblikal?</string>
@@ -171,9 +172,6 @@ Adresa: %2$s"</string>
   <string name="first_use_days_today_format">Menej ako jeden deň od prvého použitia.</string>
   <string name="first_use_remain_days_format">%s dní od prvého použitia</string>
   <string name="found_bracelet_info">Keď blikajú LED na MiBand dotknite sa ho pre prepojenie so zariadením</string>
-  <string name="friends_invite2">Pozvať</string>
-  <string name="friends_search">Vyhľadať</string>
-  <string name="friends_search_tips">Xiaomi ID, meno/e-mail/číslo</string>
   <string name="fw_failed_help_tips0">Firmware je zodpovedný za funkčnosť a možnosť využitia MiBand.</string>
   <string name="fw_failed_help_tips1">Aktualizovanie firmware môže optimalizovať výkon MiBand a priniesť mnoho vylepšení. Ak firmware nie je aktualizovaný, niektoré funkcie nemusia fungovať správne.</string>
   <string name="fw_failed_help_tips2">Najskôr sa uistite, že MiBand nemá menej ako 5% batérie. Počas aktualizácie neodpájajte MiBand od telefónu.</string>
@@ -208,7 +206,6 @@ a aktualizácia sa spustí automaticky po nabití MiBand"</string>
   <string name="help_info_1">MiBand vyžaduje verziu Android 4.4 alebo vyššiu</string>
   <string name="help_info_2">Uistite sa, že sa MiBand nabíja správne. Ak je úplne nabitý LED budú blikať zelenou farbou.</string>
   <string name="help_info_3">Ak váš MiBand už bol spárovaný s iným telefónom, musíte ho najskôr odpárovať a až potom ho môžete spárovať s vašim telefónom.</string>
-  <string name="help_info_4">Môžete kontaktovať technickú podporu (v Číne) na Tel: 400-100-5678 Pon-Pia 8:00-18:00</string>
   <string name="help_title_0">Podporuje váš telefón Bluetooth 4.0?</string>
   <string name="help_title_1">Splňujete minimálne požiadavky?</string>
   <string name="help_title_2">Je váš MiBand nabitý?</string>
@@ -219,75 +216,102 @@ a aktualizácia sa spustí automaticky po nabití MiBand"</string>
   <string name="incoming_call_notify">Prichádzajúci hovor</string>
   <string name="incoming_call_notify_tips">Upozorniť ma na prichádzajúci hovor po %ss.</string>
   <string name="input_precise_person_info">Zadajte vaše presné údaje pre vypočet cvičenia a optimálneho spánku</string>
-  <string name="instruction_tip_1">Pozrite sa na priebeh vášho cvičenia</string>
-  <string name="instruction_tip_2_1">Menej ako 1/3 z vášho cieľa</string>
-  <string name="instruction_tip_2_2">Viac ako 1/3 z vášho cieľa</string>
-  <string name="instruction_tip_2_3">Viac ako 2/3 z vášho cieľa</string>
-  <string name="instruction_tip_2_4">Gratulujeme! Dosiahli ste váš cieľ</string>
+  <string name="instruction_tip_1">"Pozrite sa na priebeh 
+vášho cvičenia"</string>
+  <string name="instruction_tip_2_1">"Menej ako 
+1/3 z vášho cieľa"</string>
+  <string name="instruction_tip_2_2">"Viac ako 
+1/3 z vášho cieľa"</string>
+  <string name="instruction_tip_2_3">"Viac ako 
+2/3 z vášho cieľa"</string>
+  <string name="instruction_tip_2_4">"Gratulujeme! 
+Dosiahli ste váš cieľ"</string>
   <string name="instruction_tip_2_5">Viac ako váš cieľ</string>
-  <string name="instruction_tip_3">Pripojte k nabíjačke skôr ako sa batéria úplne vybije</string>
+  <string name="instruction_tip_3">Pripojte k nabíjačke</string>
   <string name="instruction_title">Používanie MiBand</string>
   <string name="kg">kg</string>
   <string name="kilogram">kg</string>
   <string name="km">km</string>
-  <string name="lab_factory_exercise_state_paused">Pause</string>
+  <string name="lab_factory_cheat_toast">Nepodvádzajte~</string>
+  <string name="lab_factory_disconnected_reminder">Upozornenie na pripojenie</string>
+  <string name="lab_factory_disconnected_reminder_disconnect">Pred zmenou nastavení, pripojte MiBand</string>
+  <string name="lab_factory_disconnected_reminder_tips">Keď je prerušené spojenie, MiBand zavibruje.</string>
+  <string name="lab_factory_exercise_state_paused">Pauza</string>
   <string name="lab_factory_exercise_state_ready">GO</string>
-  <string name="lab_factory_exercise_state_stopped">Stop</string>
-  <string name="lab_factory_exit_press_again">Tap back key again to exit</string>
-  <string name="lab_factory_internal_test">运动模式分析测试</string>
-  <string name="lab_factory_share_photo">Photo</string>
-  <string name="lab_factory_share_photo_menu_camera">Camera</string>
-  <string name="lab_factory_share_photo_menu_gallery">Gallery</string>
-  <string name="lab_factory_share_photo_menu_title">Select photo from</string>
-  <string name="lab_factory_sport_analyser_activity_not_found">Failed to load UI</string>
-  <string name="lab_factory_sport_average_rate_perm_mimute">Average velocity %d t/m</string>
-  <string name="lab_factory_sport_best_record">Personal Best:</string>
-  <string name="lab_factory_sport_button_restart">Restart</string>
-  <string name="lab_factory_sport_button_stop">Stop</string>
-  <string name="lab_factory_sport_come_on">Come on to create personal best</string>
-  <string name="lab_factory_sport_device_preparing">Preparing</string>
-  <string name="lab_factory_sport_favorite_report_confirm">Vote</string>
-  <string name="lab_factory_sport_favorite_report_succeeded">Thanks for your kind voting!</string>
-  <string name="lab_factory_sport_finish_desc">Finish</string>
-  <string name="lab_factory_sport_group_record">Group Count:</string>
-  <string name="lab_factory_sport_min">%s分</string>
-  <string name="lab_factory_sport_min_second" formatted="false">%s分%s秒</string>
-  <string name="lab_factory_sport_monitor_bracelet_offline">Bracelet is not offline</string>
-  <string name="lab_factory_sport_monitor_bracelet_offline_notice">Can do %s after bracelet connected at once</string>
-  <string name="lab_factory_sport_monitor_cancelled_notice">It will start counting automatically when doing %s with Xiaomi Ring</string>
-  <string name="lab_factory_sport_monitor_timeout_notice">No event detected within 2 minutes</string>
-  <string name="lab_factory_sport_more_sport_favorite_notice">Please only choose one sport</string>
-  <string name="lab_factory_sport_more_sport_favorite_vote">Vote for more sports</string>
-  <string name="lab_factory_sport_pb_cnt">%d times</string>
-  <string name="lab_factory_sport_result_cost_cal">Cost %d Kcal</string>
+  <string name="lab_factory_exercise_state_stopped">Zastaviť</string>
+  <string name="lab_factory_exit_press_again">Stlačte znova pre ukončenie</string>
+  <string name="lab_factory_internal_test">Testovanie športových režimov</string>
+  <string name="lab_factory_item_group_others">Ostatné</string>
+  <string name="lab_factory_item_group_social">Sociálne</string>
+  <string name="lab_factory_item_group_sport">Športy</string>
+  <string name="lab_factory_share_photo">Foto</string>
+  <string name="lab_factory_share_photo_menu_camera">Video</string>
+  <string name="lab_factory_share_photo_menu_gallery">Galéria</string>
+  <string name="lab_factory_share_photo_menu_title">Vybrať fotografiu z</string>
+  <string name="lab_factory_sport_accumulate">Nazbieraných %d krát</string>
+  <string name="lab_factory_sport_analyser_activity_not_found">Načítavanie zlyhalo</string>
+  <string name="lab_factory_sport_average_rate_per_minute">Priemerná rýchlosť %d t/m</string>
+  <string name="lab_factory_sport_best_record">Osobný rekord:</string>
+  <string name="lab_factory_sport_button_restart">Reštart</string>
+  <string name="lab_factory_sport_button_stop">Zastaviť</string>
+  <string name="lab_factory_sport_come_on">Dosiahnite osobný rekord</string>
+  <string name="lab_factory_sport_continuous_ropeskipping">Plynulo</string>
+  <string name="lab_factory_sport_continuous_situp">Plynulo</string>
+  <string name="lab_factory_sport_device_preparing">Príprava</string>
+  <string name="lab_factory_sport_finish_desc">Dokončiť</string>
+  <string name="lab_factory_sport_gb_count">Plynulo PB %d krát</string>
+  <string name="lab_factory_sport_group_finish_desc">Súčasné kolo z %s dokončené</string>
+  <string name="lab_factory_sport_group_record">Skupinový rekord:</string>
+  <string name="lab_factory_sport_group_time_cost" formatted="false">Súčasné kolo z %s za %s</string>
+  <string name="lab_factory_sport_hour">%dh</string>
+  <string name="lab_factory_sport_hour_min" formatted="false">%dh %dmin</string>
+  <string name="lab_factory_sport_hour_min_sec" formatted="false">%dh %dmin %ds</string>
+  <string name="lab_factory_sport_hour_sec" formatted="false">%dh %ds</string>
+  <string name="lab_factory_sport_min">%dmin</string>
+  <string name="lab_factory_sport_min_sec" formatted="false">%dmin %ds</string>
+  <string name="lab_factory_sport_monitor_bracelet_offline">MiBand nie je odpojený</string>
+  <string name="lab_factory_sport_monitor_bracelet_offline_notice">Môžete %s po pripojení MiBand</string>
+  <string name="lab_factory_sport_monitor_cancelled_notice">Počítanie sa spustí automaticky keď robíte %s</string>
+  <string name="lab_factory_sport_monitor_timeout_notice">Žiadna činnosť počas 5min</string>
+  <string name="lab_factory_sport_more_sport_favorite_notice">Vyberte len jeden šport</string>
+  <string name="lab_factory_sport_more_sport_favorite_vote">Hlasujte pre viac športov</string>
+  <string name="lab_factory_sport_pb_count">Plynulo PB %d</string>
+  <string name="lab_factory_sport_pb_desc">Plynulý osobný rekord z %s</string>
+  <string name="lab_factory_sport_pb_ropeskipping">Švihadlo</string>
+  <string name="lab_factory_sport_pb_situp">Sed-ľah</string>
+  <string name="lab_factory_sport_result_cost_cal">Spálené %d kcal</string>
   <string name="lab_factory_sport_result_dot">,</string>
-  <string name="lab_factory_sport_second">%s秒</string>
-  <string name="lab_factory_sport_share_info_accumulated_time">Accumulate</string>
-  <string name="lab_factory_sport_share_info_accumulated_time_once">Accumulate</string>
-  <string name="lab_factory_sport_share_info_current_accumulation">Accumulate</string>
-  <string name="lab_factory_sport_share_info_group_record">Group record</string>
-  <string name="lab_factory_sport_share_info_history_best_record">Historical Record:</string>
+  <string name="lab_factory_sport_sec">%ds</string>
+  <string name="lab_factory_sport_share_info_accumulated_time">Nazbierané</string>
+  <string name="lab_factory_sport_share_info_accumulated_time_once">Nazbierané</string>
+  <string name="lab_factory_sport_share_info_current_accumulation">Nazbierané</string>
+  <string name="lab_factory_sport_share_info_group_record">Skupinový rekord</string>
+  <string name="lab_factory_sport_share_info_history_best_record">Historický rekord:</string>
   <string name="lab_factory_sport_share_info_new_record">Bravo</string>
-  <string name="lab_factory_sport_steps_converted">equals %d step(s)</string>
-  <string name="lab_factory_sport_timeout">No event detected within 2 minutes</string>
+  <string name="lab_factory_sport_steps_converted">zodpovedá %d krokom</string>
+  <string name="lab_factory_sport_timeout">Žiadna činnosť počas 5min</string>
   <string name="lab_factory_sport_type_badminton">Badminton</string>
-  <string name="lab_factory_sport_type_basketball">Basketball</string>
-  <string name="lab_factory_sport_type_bicycle">Bicycle</string>
-  <string name="lab_factory_sport_type_car">Driving</string>
-  <string name="lab_factory_sport_type_eating">Eating</string>
-  <string name="lab_factory_sport_type_golf">Golf</string>
-  <string name="lab_factory_sport_type_muscle_exercise">Muscle shaping</string>
-  <string name="lab_factory_sport_type_others">Others</string>
-  <string name="lab_factory_sport_type_ropeskipping">Rope Skipping</string>
-  <string name="lab_factory_sport_type_situp">Sit-up</string>
-  <string name="lab_factory_sport_type_skidding">Skidding</string>
+  <string name="lab_factory_sport_type_basketball">Basketbal</string>
+  <string name="lab_factory_sport_type_climbing">Lezenie</string>
+  <string name="lab_factory_sport_type_football">Futbal</string>
+  <string name="lab_factory_sport_type_others">Ostatné</string>
+  <string name="lab_factory_sport_type_pingpong">Ping Pong</string>
+  <string name="lab_factory_sport_type_riding">Bicyklovanie</string>
+  <string name="lab_factory_sport_type_ropeskipping">Skákanie cez švihadlo</string>
+  <string name="lab_factory_sport_type_running">Behanie</string>
+  <string name="lab_factory_sport_type_situp">Sed-ľah</string>
+  <string name="lab_factory_sport_type_skidding">Korčuľovanie</string>
   <string name="lab_factory_sport_type_sliding">Skateboard</string>
-  <string name="lab_factory_sport_type_surfing">Surfing</string>
-  <string name="lab_factory_sport_type_swimming">Swimming</string>
-  <string name="lab_factory_sport_type_table_tennis">Table Tennis</string>
-  <string name="lab_factory_sport_type_tennis">Tennis</string>
-  <string name="lab_factory_sport_unit">Time(s)</string>
-  <string name="lab_factory_title">Lab Features</string>
+  <string name="lab_factory_sport_type_swimming">Plávanie</string>
+  <string name="lab_factory_sport_type_tennis">Tenis</string>
+  <string name="lab_factory_sport_type_volleyball">Voleybal</string>
+  <string name="lab_factory_sport_unit">Krát</string>
+  <string name="lab_factory_sport_vote_desc">Hlasujte pre svoj obľúbený šport</string>
+  <string name="lab_factory_sport_vote_others_hint">Napíšte sem váš obľúbený šport</string>
+  <string name="lab_factory_sport_vote_result_desc">Ďakujeme za váš hlas</string>
+  <string name="lab_factory_sport_vote_result_sub_desc">Hlasovali ste za</string>
+  <string name="lab_factory_sport_vote_sub_desc">Bude pridané v nasledujúcich aktualizáciach</string>
+  <string name="lab_factory_title">Skušobné funkcie</string>
   <string name="left_hand">ľavá ruka</string>
   <string name="light_color">Farba LED</string>
   <string name="light_color_title">Farba LED</string>
@@ -340,10 +364,11 @@ Zaspal som o %3$s, prebudil sa o %4$s."</string>
   <string name="no_network_connection">Žiadne pripojenie</string>
   <string name="no_wear_bracelet">Nemali ste MiBand na sebe</string>
   <string name="no_wear_user_modified">Ručne zadať podrobnosti spánku</string>
-  <string name="noti_bracelet_low_battery_content">MiBand má menej ako 5% batérie, pripojte nabíjačku</string>
-  <string name="noti_bracelet_low_battery_content_none">MiBand je nutné pripojiť k nabíjačke</string>
+  <string name="noti_bracelet_low_battery_content_high">MiBand má menej ako 5% batérie.</string>
+  <string name="noti_bracelet_low_battery_content_low">Batéria je veľmi slabá. Pripojte MiBand k nabíjačke.</string>
+  <string name="noti_bracelet_low_battery_content_mid">Je nutné dobiť MiBand.</string>
   <string name="noti_bracelet_low_battery_title">Slabá batéria v MiBand</string>
-  <string name="noti_bracelet_low_battery_title_none">Slabá batéria v MiBand</string>
+  <string name="noti_bracelet_low_battery_title_low">MiBand je vypnutý</string>
   <string name="notify_status_motor">MiBand vibruje</string>
   <string name="notify_status_motor_alarm">Dôvod: Budík</string>
   <string name="notify_status_motor_auth">Dôvod: Párovanie</string>
@@ -368,9 +393,7 @@ Zaspal som o %3$s, prebudil sa o %4$s."</string>
   <string name="please_knock_bracelet">Poklepte po MiBand pre spárovanie</string>
   <string name="please_set_sport_goal">Nastavte váš cieľ</string>
   <string name="pm">PM</string>
-  <string name="point">bodov</string>
-  <string name="points_exchange">Uplatniť body</string>
-  <string name="prev_step">Predchádzajúce</string>
+  <string name="prev_step">Späť</string>
   <string name="pull_to_refresh_from_bottom_pull_label">Viac</string>
   <string name="pull_to_refresh_pull_label">Potiahnite pre obnovenie</string>
   <string name="pull_to_refresh_refreshing_label">Obnovenie...</string>
@@ -396,13 +419,15 @@ Zaspal som o %3$s, prebudil sa o %4$s."</string>
   <string name="select_from_camera">Fotoaparát</string>
   <string name="select_from_local">Galéria</string>
   <string name="select_image">Vybrať obrázok</string>
+  <string name="set_alarm_time">NASTAVTE ČAS BUDÍKU</string>
   <string name="set_goal_step">8000 krokov/deň</string>
   <string name="set_mili_name">Názov MiBand</string>
   <string name="set_mili_name_fail">Premenovanie MiBand zlyhalo!</string>
   <string name="set_mili_name_ok">MiBand premenovaný</string>
   <string name="set_person_goal">Nastavenie cieľa</string>
   <string name="set_sport_goal">Nastaviť ciele</string>
-  <string name="setting_about_app">Verzia apl.</string>
+  <string name="setting_about_app">"Verzia apl.:
+Preklad: miuios.cz/miband"</string>
   <string name="setting_about_fw">Verzia Firmware</string>
   <string name="setting_feedback_address">Podrobnosti kontaktu (E-mail, číslo QQ)</string>
   <string name="setting_feedback_hint">Ďakujeme za váš názor</string>
@@ -419,7 +444,8 @@ Zaspal som o %3$s, prebudil sa o %4$s."</string>
   <string name="share_blog_weibo">Weibo</string>
   <string name="share_blog_weixin">Weixin</string>
   <string name="share_continue_goal_format">"Prejdené celkovo %1$s krokov, %2$s krokov denne
-%3$s%4$s"</string>
+%3$s
+%4$s"</string>
   <string name="share_continue_goal_format_run">"Prejdené %1$s, zabehnuté %2$s
 %3$s
 %4$s"</string>
@@ -439,36 +465,34 @@ Priemerný čas zaspávania %5$s, priemerný čas prebudenia %6$s."</string>
   <string name="share_step_description">"Prejdené %1$s, spálené kalórie %2$s kcal "</string>
   <string name="share_step_description_monthly">"%1$s%2$s
  spálené %3$s kcal, a ušetrené %4$s litrov paliva.
-(Ďakujeme, že chránite našu Zem)
-Najvyšší rekord bol v %5$s, prejdených %6$s krokov."</string>
+Najvyšší rekord bol v %6$s krokov, dňa %5$s."</string>
   <string name="share_step_description_monthly_run">"%1$s, zabehnuté %2$s
  %3$s, a ušetrili ste %4$s litrov paliva.
-(Ďakujeme, že chránite našu Zem)
-Najvyšší rekord bol %5$s, prejdené %6$s krokov."</string>
+Najvyšší rekord bol %6$s krokov, dňa %5$s."</string>
   <string name="share_step_description_run">"Prejdené %1$s, Zabehnuté %2$s
 Spálené %3$skcal.
 "</string>
   <string name="share_step_description_weekly">"%1$s%2$s
 Spálené %3$s kcal.
-Najvyšší denný rekord bol v %4$s, prejdených %5$s krokov."</string>
-  <string name="share_step_description_weekly_run">"Celkovo %1$s, zabehnuté %2$s
-%3$s
-Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
+Najvyšší denný rekord bol v %5$s, dňa %4$s"</string>
+  <string name="share_step_description_weekly_run">"%1$s, zabehnuté %2$s.%3$s
+Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="share_step_goal_failed_title">Celkovo</string>
   <string name="share_step_goal_failed_title_today">Celkom</string>
   <string name="share_step_goal_succ_title">Cieľ splnený</string>
   <string name="share_step_goal_succ_title_today">Dnešné dosiahnuté výsledky</string>
-  <string name="share_step_walk">" som celkovo prešiel"</string>
-  <string name="share_to_content">MiBand campaign sharing</string>
-  <string name="share_to_content_sleep">My sleep info</string>
-  <string name="share_to_content_step">My sport info</string>
-  <string name="share_to_miliao_path">Share to</string>
+  <string name="share_step_walk"/>
+  <string name="share_to_content">Zdieľajte vaše úspechy</string>
+  <string name="share_to_content_sleep">Môj spánok</string>
+  <string name="share_to_content_step">Môj výkon</string>
+  <string name="share_to_miliao_path">Zdieľať</string>
   <string name="share_to_miliao_target_feeds">Circle</string>
-  <string name="share_to_miliao_target_friends">Friends</string>
-  <string name="share_to_miliao_target_union">Work out buddies</string>
+  <string name="share_to_miliao_target_friends">Priatelia</string>
+  <string name="share_to_miliao_target_union">Partneri pre šport</string>
   <string name="share_to_title">MiBand</string>
   <string name="share_to_topic">\#Mi Band#</string>
   <string name="share_uninstall_client">Aplikácia nie je nainštalovaná, nie je možne zdieľať</string>
+  <string name="signal_strength">"Sila signálu: "</string>
   <string name="smart_alarm_clock">Inteligentný budík</string>
   <string name="smart_alarm_notify">Inteligentné budenie</string>
   <string name="smart_wake_up">Inteligentné budenie</string>
@@ -476,11 +500,9 @@ Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
 30min pred nastaveným časom budenia"</string>
   <string name="start">Začiatok</string>
   <string name="start_download">Sťahovanie...</string>
-  <string name="start_use">Začať</string>
   <string name="start_weixin">Open Wechat</string>
   <string name="start_weixin_not_installed">Start Wechat (not installed)</string>
   <string name="stat_sleep">Čas spánku</string>
-  <string name="stat_sleep_achievement">Priebeh</string>
   <string name="stat_sleep_average">Spánok</string>
   <string name="stat_sleep_deep">Hlboký spánok</string>
   <string name="stat_sleep_deep_average">Hlboký spánok denne</string>
@@ -492,8 +514,6 @@ Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
   <string name="stat_sleep_time_average">Čas spánku</string>
   <string name="stat_sleep_wake">Aktivita</string>
   <string name="stat_sleep_wake_average">Čas aktivity</string>
-  <string name="stat_step_active_average">Denná aktivita</string>
-  <string name="stat_step_active_total">Celková aktivita</string>
   <string name="stat_step_average">Krokov denne</string>
   <string name="stat_step_calorie_average">Kalórií denne</string>
   <string name="stat_step_calorie_daily">Spálené</string>
@@ -505,29 +525,24 @@ Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
   <string name="stat_step_distance_piece">Vzdialenosť</string>
   <string name="stat_step_distance_total">Vzdialenosť</string>
   <string name="stat_step_piece">Krokov</string>
-  <string name="stat_step_run">Beh</string>
-  <string name="stat_step_run_average">Beh denne</string>
   <string name="stat_step_run_calorie">Spálené behom</string>
   <string name="stat_step_run_calories_average">Priem. spálené</string>
   <string name="stat_step_run_distance">Zabehnuté</string>
   <string name="stat_step_run_distance_average">Priem. prejdené</string>
   <string name="stat_step_run_duration">Beh</string>
   <string name="stat_step_run_duration_average">Priem. Beh</string>
-  <string name="stat_step_run_total">Beh</string>
   <string name="stat_step_total">Krokov</string>
-  <string name="stat_step_walk">Chôdza</string>
-  <string name="stat_step_walk_average">Chôdza denne</string>
   <string name="stat_step_walk_calorie">Spálené chôdzou</string>
   <string name="stat_step_walk_calories_average">Priem. spálené</string>
   <string name="stat_step_walk_distance">Prejdené</string>
   <string name="stat_step_walk_distance_average">Priem. prejdené</string>
   <string name="stat_step_walk_duration">Chôdza</string>
   <string name="stat_step_walk_duration_average">Priem. Chôdza</string>
-  <string name="stat_step_walk_total">Chôdza</string>
-  <string name="stat_steps">Krokov</string>
-  <string name="stat_steps_achievement">Postup</string>
-  <string name="stat_steps_active_time">Čas</string>
-  <string name="stat_steps_consecutive_active">Najdlhšia aktivita</string>
+  <string name="state_bind_failed">Nie je možné pridať účet</string>
+  <string name="state_binded">Prihlásený</string>
+  <string name="state_binded_nickname">Pridaný QQ účet %s</string>
+  <string name="state_unbind_success">QQ účet odstránený</string>
+  <string name="state_unbinded">Odhlásený</string>
   <string name="statistic">Štatistiky</string>
   <string name="statistic_day_average">Denne</string>
   <string name="statistic_detail">Podrobnosti</string>
@@ -556,8 +571,6 @@ Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
   <string name="unit_min">min</string>
   <string name="unit_min_short">min</string>
   <string name="unit_step">krokov</string>
-  <string name="unknown_location">Neznáma poloha</string>
-  <string name="unknown_mili">Môj</string>
   <string name="unlock_screen">Odomknúť obrazovku</string>
   <string name="unlock_screen_help_info0">Pre bezpečnosť, umiestnite MiBand v blízkosti telefónu.</string>
   <string name="unlock_screen_help_info1">Ak je váš telefón stále uzamknutý, skúste znova zapnúť Bluetooth.</string>
@@ -577,11 +590,12 @@ Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
   <string name="unlock_screen_set_success">Odomknutie pomocou MiBand bolo nastavené</string>
   <string name="unlock_screen_set_use_bracelet">2. krok, použitím MiBand nastaviť odomykanie</string>
   <string name="unlock_screen_set_use_bracelet_tips">Potvrďte heslo zadané v prvom kroku</string>
-  <string name="until">"Do "</string>
   <string name="until_hit_goals">Pokračujte za splnením cieľa do %s</string>
   <string name="upgrade">Aktualizácia</string>
   <string name="upgrade_tip">Informácie o aktualizácií</string>
   <string name="user_agreement">Podmienky používania a Ochrany súkromia</string>
+  <string name="user_agreement_prefix">"Pre používanie tohto produktu musíte súhlasiť s
+"</string>
   <string name="visit_micom">Oficálny web Xiaomi</string>
   <string name="wait">Čakajte prosím...</string>
   <string name="walked">"Prejdené "</string>
@@ -597,7 +611,7 @@ Najvyšší denný rekord o %4$s, prejdené %5$s krokov."</string>
   <string name="weather_description_rain_snow">Dážď so snehom</string>
   <string name="weather_description_sand">Piesok</string>
   <string name="weather_description_snow">Sneženie</string>
-  <string name="week">Týždeň</string>
+  <string name="week"/>
   <string name="welcom_back">Vitajte späť</string>
   <string name="welcome">Vitajte</string>
   <string name="wrong_system_time">Váš systémový čas nie je správny a ovplyvní to fungovanie MiBand.</string>

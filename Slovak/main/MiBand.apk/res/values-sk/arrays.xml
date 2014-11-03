@@ -47,49 +47,15 @@
         <item>Sme tým, čo robíme každý deň.</item>
         <item>Dosiahnite svoj cieľ každý deň.</item>
         <item>Dnes môžete byť ešte lepší.</item>
-        <item>Urobte to.</item>
-        <item>Pokračujte v dosahovaní vašich cieľov.</item>
+        <item>Behajte vždy keď môžete, prechádzajte sa ale nikdy sa nevzdávajte.</item>
+        <item>Pokračujte v dosiahnutí vašich cieľov.</item>
   </string-array>
-    <string-array name="weather_rains">
-        <item>Lejak</item>
-        <item>Búrka</item>
-        <item>Dážď</item>
-        <item>Dážď</item>
-        <item>Dážď</item>
-        <item>Lejak</item>
-        <item>Lejak</item>
-        <item>Mrznúci dážď</item>
-        <item>Dážď s krúpami</item>
+    <string-array name="weather_aqi_descriptions">
+        <item>Great</item>
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Caution</item>
+        <item>Unhealthy</item>
+        <item>Very Unhealthy</item>
     </string-array>
-    <string-array name="weather_rain_snows">
-        <item>Dážď so snehom</item>
-    </string-array>
-    <string-array name="weather_snows">
-        <item>Dážď so snehom</item>
-        <item>Sneženie</item>
-        <item>Sneženie</item>
-        <item>Sneženie</item>
-        <item>Výchrica</item>
-    </string-array>
-    <string-array name="weather_sands">
-        <item>浮尘</item>
-        <item>扬沙</item>
-        <item>沙尘暴</item>
-        <item>强沙尘暴</item>
-    </string-array>
-    <string-array name="weather_fine">
-        <item>Jasno</item>
-    </string-array>
-    <string-array name="weather_cloudy">
-        <item>Prehánky</item>
-    </string-array>
-    <string-array name="weather_overcast">
-        <item>Zamračené</item>
-    </string-array>
-    <string-array name="weather_fog">
-        <item>Hmla</item>
-    </string-array>
-    <string-array name="weather_haze">
-        <item>Hmla</item>
-	</string-array>
 </resources>
