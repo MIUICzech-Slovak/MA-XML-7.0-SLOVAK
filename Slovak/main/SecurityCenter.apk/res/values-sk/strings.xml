@@ -646,7 +646,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="summary_flow_verify">Vaša spotreba dát nebola synchronizovaná s operátorom %d dní. Objem prenesených dát nameraný vašim zariadením sa môže líšiť od meraní vaším operátorom.</string>
   <string name="summary_garbage_lib">Pre lepšiu ochranu proti spyware, adware, a ostatnými škodlivými aplikáciami povoľte automatickú aktualizáciu Čističa.</string>
   <string name="summary_miui_update">Dostupná aktualizácia pre %s.</string>
-  <string name="summary_permission_root">Vaše dáta sú viac v ohrození ak aplikácie majú povolené práva ROOT.</string>
+  <string name="summary_permission_root">Vaše dáta sú vo vačšom ohrození ak aplikácie majú povolené práva ROOT.</string>
   <string name="summary_power_optimizer">Pre zlepšenie výdrže batérie, Úspora batérie obmedzí výkon ak je slabá batéria.</string>
   <string name="summary_saving_switch">Úspora mobilných dát môže znížiť objem prenesených dát aplikáciami.</string>
   <string name="summary_show_notification">Zobraziť ovládanie pre Optimalizáciu v notif. roletke.</string>
@@ -659,7 +659,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="title_data_flow">Nastaviť upozornenie na spotrebu dát</string>
   <string name="title_flow_notification">Info o spotrebe dát je skryté</string>
   <string name="title_flow_purchase">Čas pre navýšenie!</string>
-  <string name="title_flow_verify">Získať info o spotrebe dát od operátora</string>
+  <string name="title_flow_verify">Info o spotrebe dát od operátora</string>
   <string name="title_garbage_lib">Automatická aktualizácia je vypnutá</string>
   <string name="title_miui_update">Dostupná aktualizácia</string>
   <string name="title_permission_root">Upozornenie na ROOT práva</string>
