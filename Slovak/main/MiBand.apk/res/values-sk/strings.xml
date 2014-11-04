@@ -6,7 +6,7 @@
   <string name="action_exit">Ukončiť</string>
   <string name="action_local_ota">SD card update</string>
   <string name="action_pop_about">Informácie</string>
-  <string name="action_pop_lab">Lab Features</string>
+  <string name="action_pop_lab">Skušobné funkcie</string>
   <string name="action_pop_my_bracelet">Môj MiBand</string>
   <string name="action_pop_person_info">Môj profil</string>
   <string name="action_pop_smart_alarms">Inteligentný Budík</string>
@@ -242,7 +242,7 @@ Dosiahli ste váš cieľ"</string>
   <string name="lab_factory_exit_press_again">Stlačte znova pre ukončenie</string>
   <string name="lab_factory_internal_test">Testovanie športových režimov</string>
   <string name="lab_factory_item_group_others">Ostatné</string>
-  <string name="lab_factory_item_group_social">Sociálne</string>
+  <string name="lab_factory_item_group_social">Sociálne siete</string>
   <string name="lab_factory_item_group_sport">Športy</string>
   <string name="lab_factory_share_photo">Foto</string>
   <string name="lab_factory_share_photo_menu_camera">Video</string>
@@ -276,7 +276,7 @@ Dosiahli ste váš cieľ"</string>
   <string name="lab_factory_sport_more_sport_favorite_notice">Vyberte len jeden šport</string>
   <string name="lab_factory_sport_more_sport_favorite_vote">Hlasujte pre viac športov</string>
   <string name="lab_factory_sport_pb_count">Plynulo PB %d</string>
-  <string name="lab_factory_sport_pb_desc">Plynulý osobný rekord z %s</string>
+  <string name="lab_factory_sport_pb_desc">Plynulý osobný rekord: %s</string>
   <string name="lab_factory_sport_pb_ropeskipping">Švihadlo</string>
   <string name="lab_factory_sport_pb_situp">Sed-ľah</string>
   <string name="lab_factory_sport_result_cost_cal">Spálené %d kcal</string>
@@ -307,10 +307,10 @@ Dosiahli ste váš cieľ"</string>
   <string name="lab_factory_sport_type_volleyball">Voleybal</string>
   <string name="lab_factory_sport_unit">Krát</string>
   <string name="lab_factory_sport_vote_desc">Hlasujte pre svoj obľúbený šport</string>
-  <string name="lab_factory_sport_vote_others_hint">Napíšte sem váš obľúbený šport</string>
+  <string name="lab_factory_sport_vote_others_hint">Váš obľúbený šport (v angličtine)</string>
   <string name="lab_factory_sport_vote_result_desc">Ďakujeme za váš hlas</string>
   <string name="lab_factory_sport_vote_result_sub_desc">Hlasovali ste za</string>
-  <string name="lab_factory_sport_vote_sub_desc">Bude pridané v nasledujúcich aktualizáciach</string>
+  <string name="lab_factory_sport_vote_sub_desc">Bude pridaný v nasledujúcich aktualizáciach</string>
   <string name="lab_factory_title">Skušobné funkcie</string>
   <string name="left_hand">ľavá ruka</string>
   <string name="light_color">Farba LED</string>
@@ -463,18 +463,18 @@ Priemerný čas zaspávania %5$s, priemerný čas prebudenia %6$s."</string>
   <string name="share_sleep_title_average">Priemerný spánok</string>
   <string name="share_sleep_title_daily">Spánok</string>
   <string name="share_step_description">"Prejdené %1$s, spálené kalórie %2$s kcal "</string>
-  <string name="share_step_description_monthly">"%1$s%2$s
+  <string name="share_step_description_monthly">"%1$s %2$s
  spálené %3$s kcal, a ušetrené %4$s litrov paliva.
-Najvyšší rekord bol v %6$s krokov, dňa %5$s."</string>
+Najvyšší rekord bol %6$s krokov, dňa %5$s."</string>
   <string name="share_step_description_monthly_run">"%1$s, zabehnuté %2$s
  %3$s, a ušetrili ste %4$s litrov paliva.
 Najvyšší rekord bol %6$s krokov, dňa %5$s."</string>
   <string name="share_step_description_run">"Prejdené %1$s, Zabehnuté %2$s
-Spálené %3$skcal.
-"</string>
-  <string name="share_step_description_weekly">"%1$s%2$s
 Spálené %3$s kcal.
-Najvyšší denný rekord bol v %5$s, dňa %4$s"</string>
+"</string>
+  <string name="share_step_description_weekly">"%1$s %2$s
+Spálené %3$s kcal.
+Najvyšší denný rekord bol %5$s, dňa %4$s"</string>
   <string name="share_step_description_weekly_run">"%1$s, zabehnuté %2$s.%3$s
 Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="share_step_goal_failed_title">Celkovo</string>
