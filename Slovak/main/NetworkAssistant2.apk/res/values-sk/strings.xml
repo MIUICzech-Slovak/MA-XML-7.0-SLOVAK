@@ -63,7 +63,7 @@ For more info check the message you received from your service provider"</string
   <string name="datausage_purchase_title_order">Purchase additional data</string>
   <string name="datausage_purchase_title_pkglist">Purchase data</string>
   <string name="datausage_purchase_view_detail">View details</string>
-  <string name="declaration_dialog_msg">Táto funkcia vám pomôže sledovať vašu spotrebu mobilných dát.</string>
+  <string name="declaration_dialog_msg">Táto funkcia vám pomôže sledovať vašu spotrebu mobilných dát. Namerané hodnoty sa môžu líšiť od nameraných dát u vášho operátora.</string>
   <string name="deleted_apps">Vymazané Apl.</string>
   <string name="detail_app_button">Podrobnosti</string>
   <string name="dual_setting_simcard1">SIM 1</string>

@@ -224,4 +224,8 @@ Túto službu môžte aktivovať alebo zakázať v Nastaveniach.
   <string name="buy_space_expire">Zakúpená kapacita je platná do %s</string>
   <string name="buy_space_expire_concat">%1$s do %2$s</string>
   <string name="loading_hint">Načítavanie...</string>
+  <string name="micloud_storage_expires_auto_renewal_sum">Je nutné obnoviť prihlásenie.</string>
+  <string name="micloud_storage_expires_manually_renewal_sum">Musíte obnoviť prihlásenie.</string>
+  <string name="micloud_storage_expires_soon_title">MiCloud úložisku čoskoro skončí platnosť.</string>
+  <string name="micloud_storage_expires_very_soon_title">MiCloud úložisku čoskoro skončí platnosť.</string>
 </resources>
