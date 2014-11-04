@@ -163,8 +163,8 @@
   <string name="HIPS_Perm_SMS_Access">Prístup k SMS správam</string>
   <string name="HIPS_Perm_SMS_Desc">Prístup k SMS správam</string>
   <string name="HIPS_Perm_SMS_Hint">%1$s aplikácií má povolenie pre prístup k SMS správam</string>
-  <string name="HIPS_Perm_SendMMS">odoslať MMS</string>
-  <string name="HIPS_Perm_SendMMS_Desc">odoslať MMS priamo</string>
+  <string name="HIPS_Perm_SendMMS">Odoslať MMS</string>
+  <string name="HIPS_Perm_SendMMS_Desc">Odoslať MMS priamo</string>
   <string name="HIPS_Perm_SendMMS_Hint">%1$s môže odoslať MMS</string>
   <string name="HIPS_Perm_SendSMS">Poslať SMS</string>
   <string name="HIPS_Perm_SendSMS_Content">Obsah:</string>
