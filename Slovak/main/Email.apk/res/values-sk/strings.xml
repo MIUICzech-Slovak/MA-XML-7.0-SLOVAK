@@ -799,4 +799,21 @@ Delta update size: %2$s"</string>
   <string name="outbox_alert_select_operation">Vyberte akciu</string>
   <string name="recipient_null_dialog_title">Upozornenie</string>
   <string name="unread_from_someone">Od [%s]</string>
+  <string name="attachment_download_all">Stiahnuť všetko</string>
+  <string name="click_download_all_content">[ Tap to download content ]</string>
+  <string name="flow_saved_dlg_do_not_show">Viac nezobrazovať</string>
+  <string name="flow_saved_dlg_i_know">OK</string>
+  <string name="flow_saved_dlg_message">Nové správy: %1$d. Ušetrené %2$s dát.</string>
+  <string name="flow_saved_dlg_title">Znížená spotreba dát</string>
+  <string name="flow_saved_preference_total">Uložené %1$s.</string>
+  <string name="hide_atts_remaining">Skryť prílohy: %1$d</string>
+  <string name="mail_header_downloading_message_body">Sťahovanie...</string>
+  <string name="mail_header_message_body_auto_download_complete">Stiahnuť obsah správy len na Wi-Fi.</string>
+  <string name="mail_header_message_body_auto_download_tip">Obsah správy bude stiahnutý len na Wi-Fi sieti.</string>
+  <string name="mail_header_message_body_download_failed">Spojenie vypršalo.</string>
+  <string name="mail_header_network_not_available">Nie ste pripojený k internetovej sieti.</string>
+  <string name="message_body_loading">[ Loading… ]</string>
+  <string name="more_atts_remaining">Ostáva: %1$d</string>
+  <string name="preference_head_load_description">Stiahnuť len hlavičky správ cez mobilné dáta.</string>
+  <string name="preference_head_load_title">Znížiť spotrebu dát</string>
 </resources>
