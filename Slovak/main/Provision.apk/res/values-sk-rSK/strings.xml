@@ -43,4 +43,6 @@
   <string name="terms_of_use_label">Musíte súhlasiť s Podmienkami používania a Podmienkami súkromia ak chcete používať MIUI.</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte v</string>
+  <string name="locale_picker_confirm_dialog_desc">Vybrať %s ako váš región?</string>
+  <string name="locale_picker_confirm_dialog_title">Nastavenie polohy</string>
 </resources>

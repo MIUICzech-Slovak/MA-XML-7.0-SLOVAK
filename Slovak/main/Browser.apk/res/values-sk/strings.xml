@@ -731,5 +731,6 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webapp_bottom_bar_addtodesk">Pridať na plochu</string>
   <string name="webapp_splashview_loading">Načítavanie...</string>
   <string name="action_menu_text_snapshot">Uložiť stránku</string>
-    <string name="empty_snapshot_hint">Prázdne</string>
+  <string name="empty_snapshot_hint">Prázdne</string>
+  <string name="tab_hotpage">Trendy</string>
 </resources>

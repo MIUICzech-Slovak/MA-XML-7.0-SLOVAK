@@ -626,10 +626,10 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="examination_score_100_with_recommend">Môže byť optimalizované: %d</string>
   <string name="examination_score_80_100_with_recommend">Môže byť optimalizované: %d</string>
   <string name="hints_scanning_text">Kontrola...</string>
-  <string name="hints_storage_free_size">Voľná pamäť</string>
+  <string name="hints_storage_free_size">%s dostupné</string>
   <string name="manual_handle_title">Optimalizovať manuálne</string>
   <string name="manual_item_white_list_summary">Spravovať výnimky manuálne</string>
-  <string name="manual_item_white_list_title">Niektoré apl. môžu byť optimalizované</string>
+  <string name="manual_item_white_list_title">Výnimky</string>
   <string name="manual_white_list_header">Výnimky: %d</string>
   <string name="scanning_bar_cache_title">Kontrola odpadu...</string>
   <string name="scanning_bar_memory_title">Kontrola cache...</string>
@@ -647,10 +647,10 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="summary_garbage_lib">Pre lepšiu ochranu proti spyware, adware, a ostatnými škodlivými aplikáciami povoľte automatickú aktualizáciu Čističa.</string>
   <string name="summary_miui_update">Dostupná aktualizácia pre %s.</string>
   <string name="summary_permission_root">Vaše dáta sú vo vačšom ohrození ak aplikácie majú povolené práva ROOT.</string>
-  <string name="summary_power_optimizer">Pre zlepšenie výdrže batérie, Úspora batérie obmedzí výkon ak je slabá batéria.</string>
+  <string name="summary_power_optimizer">Úspora batérie obmedzí výkon ak je slabá batéria.</string>
   <string name="summary_saving_switch">Úspora mobilných dát môže znížiť objem prenesených dát aplikáciami.</string>
   <string name="summary_show_notification">Zobraziť ovládanie pre Optimalizáciu v notif. roletke.</string>
-  <string name="summary_telecom_operator">Objem prenesených dát nameraný vašim zariadením sa môže líšiť od meraní vaším operátorom.</string>
+  <string name="summary_telecom_operator">Skontrolovať objem prenesených dát nameraný vašim operátorom.</string>
   <string name="summary_virus_cloudscan">Odoslať a porovnať neznáme názvy súborov s online databázou</string>
   <string name="title_app_update">Dostupné aktualizácie</string>
   <string name="title_cleaner_cloudscan">Použiť online databázu Čističa</string>
