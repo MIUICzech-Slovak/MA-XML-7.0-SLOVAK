@@ -636,4 +636,10 @@ Postupujte podľa pokynov"</item>
         <item>Zobraziť naposledy spustené apl.</item>
         <item>Zobraziť Menu</item>
     </string-array>
+        <string-array name="whetstone_level_entries">
+        <item>Vypnuté</item>
+        <item>Nízke</item>
+        <item>Stredné</item>
+        <item>Vysoké</item>
+    </string-array>
 </resources>
