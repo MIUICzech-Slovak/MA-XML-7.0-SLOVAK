@@ -321,4 +321,5 @@ Získali ste ďalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
+  <string name="folder_name_illegal">Chybný názov zložky</string>
 </resources>
