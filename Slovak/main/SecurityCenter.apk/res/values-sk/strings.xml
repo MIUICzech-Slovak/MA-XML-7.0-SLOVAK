@@ -666,7 +666,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="title_power_optimizer">Úspora batérie je vypnutá</string>
   <string name="title_saving_switch">Úspora dát je vypnutá</string>
   <string name="title_show_notification">Ovládanie v notif. roletke je vypnuté</string>
-  <string name="title_telecom_operator">Získať info o spotrebe dát od operátora</string>
+  <string name="title_telecom_operator">Info o spotrebe dát od operátora</string>
   <string name="title_virus_cloudscan">Použiť online vírusovú databázu</string>
   <string name="toast_cleaner_cloudscan">Čistiť využije online databázu</string>
   <string name="toast_flow_notification">Upozornenie na spotrebu dát je povolené</string>
