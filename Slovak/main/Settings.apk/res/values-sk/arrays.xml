@@ -637,9 +637,9 @@ Postupujte podľa pokynov"</item>
         <item>Zobraziť Menu</item>
     </string-array>
         <string-array name="whetstone_level_entries">
-        <item>Vypnuté</item>
-        <item>Nízke</item>
-        <item>Stredné</item>
-        <item>Vysoké</item>
+        <item>Vypnutá</item>
+        <item>Nízka</item>
+        <item>Stredná</item>
+        <item>Vysoká</item>
     </string-array>
 </resources>
