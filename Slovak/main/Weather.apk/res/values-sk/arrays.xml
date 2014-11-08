@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-	<string-array name="weather_type">
+    <string-array name="weather_type">
         <item>Jasno</item>
         <item>Oblačno</item>
+        <item>Zamračené</item>
         <item>Hmlisto</item>
-        <item>Hmla</item>
-        <item>Daždivo</item>
-        <item>Daždivo</item>
-        <item>Daždivo</item>
         <item>Búrka</item>
-        <item>Daždivo</item>
-        <item>Daždivo</item>
-        <item>Daždivo</item>
-        <item>Mrholenie</item>
+        <item>Lejak</item>
+        <item>Búrka</item>
+        <item>Búrka</item>
+        <item>Dážď</item>
+        <item>Lejak</item>
+        <item>Dážď</item>
+        <item>Jemný Dážď</item>
         <item>Dážď so snehom</item>
+        <item>Snehová búrka</item>
         <item>Sneženie</item>
         <item>Sneženie</item>
         <item>Sneženie</item>
         <item>Sneženie</item>
-        <item>Sneženie</item>
-        <item>Búrka</item>
-        <item>Búrka</item>
-        <item>Búrka</item>
-        <item>Búrka</item>
-        <item>Búrka</item>
-        <item>Prašno</item>
-        <item>Hmlisto</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Piesková búrka</item>
+        <item>Veterno</item>
+        <item>Krupobitie</item>
+        <item>Prach</item>
+        <item>Hmla</item>
         <item>Mrznúci dážď</item>
-        <item>Žiadne dáta</item>
+        <item>N/A</item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Nízky</item>
