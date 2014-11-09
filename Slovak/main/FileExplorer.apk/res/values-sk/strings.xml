@@ -64,8 +64,8 @@
   <string name="delete_failed">Mazanie zlyhalo</string>
   <string name="delete_file">Vymazať?</string>
   <string name="delete_files">Vymazať vybrané súbory (%1$d)?</string>
-  <string name="delete_folder">Vymazať vybranú zložku (%1$d)?</string>
-  <string name="delete_folders">Vymazať vybrané zložky?</string>
+  <string name="delete_folder">Vymazať vybranú zložku?</string>
+  <string name="delete_folders">Vymazať vybrané zložky (%1$d)?</string>
   <string name="des_running_trans">Ešte %1$d súborov je potrebných preniesť</string>
   <string name="dialog_select_type">Zvoľte typ súboru</string>
   <string name="dialog_type_audio">Zvuk</string>

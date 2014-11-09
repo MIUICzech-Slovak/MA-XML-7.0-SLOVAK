@@ -66,7 +66,7 @@
   <string name="activate_status_title_activating">Aktivácia vašej SIM karty</string>
   <string name="activate_status_title_activating_msim">Aktivácia vašej SIM karty %s</string>
   <string name="app_name">Aktivácia Xiaomi Účtu</string>
-  <string name="error_device_id_message">Niektorí služby budú nedostupné</string>
+  <string name="error_device_id_message">Niektoré služby budú nedostupné</string>
   <string name="error_device_id_title">Nie je možné získať číslo IMEI</string>
   <string name="sim_unactivated_title">Vaša SIM karta nie je aktivovaná</string>
   <string name="xmsf_activate_info">XMSF info</string>

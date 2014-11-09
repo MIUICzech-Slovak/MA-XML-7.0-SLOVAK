@@ -2387,7 +2387,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="virus_scanner_lib_already_latest">Vírusová databáza je aktuálna</string>
   <string name="virus_scanner_lib_update_failed">Aktualizácia zlyhala</string>
   <string name="virus_scanner_lib_updating">Aktualizácia databázy...</string>
-  <string name="virus_scanner_manual_update">Aktualizovať manuálne</string>
+  <string name="virus_scanner_manual_update">Aktualizované: %s</string>
   <string name="virus_scanner_provider">Zabezpečuje %s</string>
   <string name="virus_scanner_scan">Skenovať</string>
   <string name="virus_scanner_scanning">AntiVírus</string>
