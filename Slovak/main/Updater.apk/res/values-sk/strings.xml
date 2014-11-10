@@ -35,7 +35,7 @@
   <string name="check_new_version">Skontrolovať</string>
   <string name="check_update">Skontrolovať</string>
   <string name="check_update_policy">Nastavenie aktualizácie</string>
-  <string name="check_update_when_wifi_available">Skontrolovať dostupnosť aktualizácií len cez Wi-Fi pripojenie</string>
+  <string name="check_update_when_wifi_available">Skontrolovať len cez Wi-Fi</string>
   <string name="check_update_when_wifi_available_sum">Použiť iba Wi-Fi pre kontrolu aktualizácie</string>
   <string name="checking_for_updates">Kontrola aktualizácií...</string>
   <string name="choose_recommend">Prosím vyberte, či chcete odporučiť</string>
