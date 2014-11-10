@@ -189,7 +189,7 @@ a aktualizácia sa spustí automaticky po nabití MiBand"</string>
   <string name="fw_upgrade_now">Firmware sa aktualizuje</string>
   <string name="fw_upgrade_progress">Aktualizácia %s%%</string>
   <string name="fw_upgrade_succ">Firmware je aktualizovaný, počkajte na reštart MiBand</string>
-  <string name="fw_upgrade_tips">MiBand musí byť v blízkosti vášho telefónu počas aktualizácie Firmware.</string>
+  <string name="fw_upgrade_tips">MiBand držte v blízkosti vášho telefónu počas aktualizácie.</string>
   <string name="gen_qr_code">Generovať QR kód</string>
   <string name="get_help">Pomoc</string>
   <string name="get_image_file_fail">Prijatie obrázku zlyhalo</string>
