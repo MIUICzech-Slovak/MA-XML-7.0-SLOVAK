@@ -30,7 +30,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="install_failed">Aplikácia nie je nainštalovaná.</string>
   <string name="install_failed_cpu_abi_incompatible">Táto aplikácia nie je kompatibilná s vaším telefónom.</string>
   <string name="install_failed_file_not_found">Pred dokončením inštalácie bol vybratý balík odstránený.</string>
-  <string name="install_failed_inconsistent_certificates">Už je nainštalovaný existujúci balík s rovnakým názvom a kolidujúcim podpisom.</string>
+  <string name="install_failed_inconsistent_certificates">Pred inštaláciou odinštalujte staršiu verziu aplikácie.</string>
   <string name="install_failed_invalid_apk">Zdá sa, že je balík poškodený.</string>
   <string name="install_failed_msg">Aplikáciu %1$s sa do vášho telefónu nepodarilo nainštalovať.</string>
   <string name="install_failed_older_sdk">Balík funguje iba v novších verziách systému Android.</string>
