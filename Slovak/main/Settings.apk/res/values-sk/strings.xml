@@ -2470,7 +2470,8 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="wfd_disconnect_diag_msg">Ak prerušíte pripojenie Wi-Fi, Vaše spojenie s %1$s sa ukončí.</string>
   <string name="wfd_disconnect_diag_title">Prerušiť pripojenie Wi-Fi?</string>
   <string name="wfd_disconnect_multiple_diag_message">Ak prerušíte Wi-Fi Displej, Vaše spojenie s %1$s a %2$s ostatnými zariadeniami sa ukončí.</string>
-  <string name="wfd_enable_wifi_diag_title">Môžete používať Wi-Fi displej len ak je Wi-Fi zapnuté. Chcete zapnúť Wi-Fi?</string>
+  <string name="wfd_enable_wifi_diag_title">"Môžete používať Wi-Fi displej len ak je Wi-Fi zapnuté. 
+Chcete zapnúť Wi-Fi?"</string>
   <string name="wfd_enabler_title">Povoliť Wi-Fi Displej</string>
   <string name="wfd_menu_search">Vyhľadať zariadenia</string>
   <string name="wfd_menu_searching">Vyhľadávanie...</string>
