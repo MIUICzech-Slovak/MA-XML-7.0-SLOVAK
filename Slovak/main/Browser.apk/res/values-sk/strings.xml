@@ -492,7 +492,7 @@
   <string name="pref_reading_mode_enabled_title">Čítací režim</string>
   <string name="pref_reading_mode_enabled_title_summary">Je potrebné zapnúť JavaScript</string>
   <string name="pref_save_bandwidth_mode_summary">Ak je povolené, prehliadač nebude používať Váš mobilný internet pre načítavanie obrázkov a prednačítavanie stránok</string>
-  <string name="pref_save_bandwidth_mode_title">Využitie mobilných dát</string>
+  <string name="pref_save_bandwidth_mode_title">Úspora mobilných dát</string>
   <string name="pref_security_accept_cookies">Povoliť cookies</string>
   <string name="pref_security_accept_cookies_summary">Povoliť stránkam ukladať a čítať údaje cookies</string>
   <string name="pref_security_passwords_title">Heslá</string>
