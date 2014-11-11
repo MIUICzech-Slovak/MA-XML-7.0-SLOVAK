@@ -333,4 +333,6 @@ s "</string>
   <string name="wrong_vcode">Nesprávny kód</string>
   <string name="email_or_id_hint_text">Email alebo Xiaomi ID</string>
   <string name="login_with_email_or_id">Prihlásiť sa s iným účtom</string>
+  <string name="logout_failed">Odhlásenie zlyhalo</string>
+  <string name="timeout_retry">Platnosť požiadavky vypršala, skúste to znova.</string>
 </resources>

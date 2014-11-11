@@ -2796,4 +2796,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="whetstone_level_reboot">Toto nastavenie bude použité až po reštartovaní zariadenia</string>
   <string name="whetstone_level_reboot_OK">Reštart</string>
   <string name="whetstone_level_title">Optimalizácia RAM</string>
+  <string name="status_bar_settings_long_click_sort">Dlhým podržaním presuniete</string>
+  <string name="status_bar_settings_toggle_position">Pozícia prepínačov</string>
 </resources>

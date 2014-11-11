@@ -228,4 +228,25 @@ Túto službu môžte aktivovať alebo zakázať v Nastaveniach.
   <string name="micloud_storage_expires_manually_renewal_sum">Musíte obnoviť prihlásenie.</string>
   <string name="micloud_storage_expires_soon_title">MiCloud úložisku čoskoro skončí platnosť.</string>
   <string name="micloud_storage_expires_very_soon_title">MiCloud úložisku čoskoro skončí platnosť.</string>
+  <string name="micloud_main_synced_data_count">Synchr.: %d</string>
+  <string name="micloud_main_syncing">Synchronizuje sa...</string>
+  <string name="micloud_main_update_space">Aktualizovať kapacitu</string>
+  <string name="micloud_main_wlan_sync_data_count">Synchr. sa cez Wi-Fi: %d</string>
+  <string name="micloud_main_sync_pause">Zastaviť</string>
+  <string name="micloud_main_set_internet">Sieť</string>
+  <string name="micloud_main_space_full">Plná kapacita</string>
+  <string name="micloud_main_space_risk">Máte nesynchr. %d dát. Navýšte si kapacitu MiCloud úložiska.</string>
+  <string name="micloud_main_detail">Podrobnosti</string>
+  <string name="micloud_main_last_sync_time">Synchr.: %s</string>
+  <string name="micloud_main_network_abnormal">Nie je možné sa pripojiť k sieti</string>
+  <string name="micloud_detail_fail">Zlyhalo</string>
+  <string name="micloud_detail_lastest">Synchr.</string>
+  <string name="micloud_detail_pending">Čaká na synchr.</string>
+  <string name="micloud_detail_preference_syncing">Synchronizuje sa</string>
+  <string name="micloud_detail_preference_wlan">Synchr. na Wi-Fi</string>
+  <string name="micloud_detail_success">Synchronizované</string>
+  <string name="micloud_detail_syncing">Synchr...</string>
+  <string name="micloud_detail_wlan">Nesynchr.: %d</string>
+  <string name="micloud_detail_wlan_contact">Nesynchr.: %d obrázkov kontaktu</string>
+  <string name="micloud_detail_wlan_mms">Nesynchr.: %d MMS</string>
 </resources>
