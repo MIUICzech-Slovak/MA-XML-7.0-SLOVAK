@@ -110,7 +110,6 @@ Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
   <string name="micloud_intro_03_part_01">Vzdialene zabezpečiť svoje dáta v zariadení</string>
   <string name="micloud_intro_03_part_02">Taktiež môžete nájsť, zablokovať a vymazať svoje zariadenie na i.mi.com</string>
   <string name="micloud_main_data_unsynced">%d nesynchr.</string>
-  <string name="micloud_main_last_sync_time">Naposledy</string>
   <string name="micloud_main_network_error">Sieť je nedostupná. Skontrolujte vaše nastavenia a skúste to znova.</string>
   <string name="micloud_main_stop_sync">Ukončiť synchr.</string>
   <string name="micloud_main_suggest_sync">Vaše dáta nie sú synchronizované.</string>
