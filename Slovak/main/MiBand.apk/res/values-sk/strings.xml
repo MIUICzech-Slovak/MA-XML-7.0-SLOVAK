@@ -248,7 +248,7 @@ Dosiahli ste váš cieľ"</string>
   <string name="lab_factory_share_photo_menu_camera">Video</string>
   <string name="lab_factory_share_photo_menu_gallery">Galéria</string>
   <string name="lab_factory_share_photo_menu_title">Vybrať fotografiu z</string>
-  <string name="lab_factory_sport_accumulate">Nazbieraných %d krát</string>
+  <string name="lab_factory_sport_accumulate">Vykonané %d krát</string>
   <string name="lab_factory_sport_analyser_activity_not_found">Načítavanie zlyhalo</string>
   <string name="lab_factory_sport_average_rate_per_minute">Priemerná rýchlosť %d t/m</string>
   <string name="lab_factory_sport_best_record">Osobný rekord:</string>
@@ -282,9 +282,9 @@ Dosiahli ste váš cieľ"</string>
   <string name="lab_factory_sport_result_cost_cal">Spálené %d kcal</string>
   <string name="lab_factory_sport_result_dot">,</string>
   <string name="lab_factory_sport_sec">%ds</string>
-  <string name="lab_factory_sport_share_info_accumulated_time">Nazbierané</string>
-  <string name="lab_factory_sport_share_info_accumulated_time_once">Nazbierané</string>
-  <string name="lab_factory_sport_share_info_current_accumulation">Nazbierané</string>
+  <string name="lab_factory_sport_share_info_accumulated_time">"Čas "</string>
+  <string name="lab_factory_sport_share_info_accumulated_time_once">"Čas "</string>
+  <string name="lab_factory_sport_share_info_current_accumulation">Vykonané</string>
   <string name="lab_factory_sport_share_info_group_record">Skupinový rekord</string>
   <string name="lab_factory_sport_share_info_history_best_record">Historický rekord:</string>
   <string name="lab_factory_sport_share_info_new_record">Bravo</string>
