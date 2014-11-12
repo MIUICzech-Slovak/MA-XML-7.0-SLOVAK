@@ -621,7 +621,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="back">Späť</string>
   <string name="button_text_ignore">Ignorovať</string>
   <string name="button_text_ignore_alert_title">Ignorovať toto upozornenie?</string>
-  <string name="delete_from_manual_item_white_list">Odstrániť z výnimiek?</string>
+  <string name="delete_from_manual_item_white_list">Odstrániť z výnimiek</string>
   <string name="empty_title_manual_item_white_list">Prázdne</string>
   <string name="examination_score_100_with_recommend">Môže byť optimalizované: %d</string>
   <string name="examination_score_80_100_with_recommend">Môže byť optimalizované: %d</string>
