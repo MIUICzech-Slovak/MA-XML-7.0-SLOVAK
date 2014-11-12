@@ -269,8 +269,8 @@ Dosiahli ste váš cieľ"</string>
   <string name="lab_factory_sport_hour_sec" formatted="false">%dh %ds</string>
   <string name="lab_factory_sport_min">%dmin</string>
   <string name="lab_factory_sport_min_sec" formatted="false">%dmin %ds</string>
-  <string name="lab_factory_sport_monitor_bracelet_offline">MiBand nie je odpojený</string>
-  <string name="lab_factory_sport_monitor_bracelet_offline_notice">Môžete %s po pripojení MiBand</string>
+  <string name="lab_factory_sport_monitor_bracelet_offline">MiBand je odpojený</string>
+  <string name="lab_factory_sport_monitor_bracelet_offline_notice">Po pripojení môžete spustiť %s.</string>
   <string name="lab_factory_sport_monitor_cancelled_notice">Počítanie sa spustí automaticky keď robíte %s</string>
   <string name="lab_factory_sport_monitor_timeout_notice">Žiadna činnosť počas 5min</string>
   <string name="lab_factory_sport_more_sport_favorite_notice">Vyberte len jeden šport</string>
