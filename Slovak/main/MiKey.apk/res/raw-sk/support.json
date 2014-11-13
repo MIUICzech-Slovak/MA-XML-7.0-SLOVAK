@@ -211,7 +211,7 @@
           "sortId" : 25
   },
   { "groupId" : 3,
-      "groupName" : "Keys",
+      "groupName" : "Tlačidlá",
       "name" : "com.xiaomi.miclick.core.action.key.SoundAction",
       "sortId" : 26
   }
