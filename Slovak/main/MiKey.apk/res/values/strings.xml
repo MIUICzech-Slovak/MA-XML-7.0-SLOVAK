@@ -261,4 +261,17 @@ From the top of the screen slide downwards to use it."</string>
   <string name="write_pic_fail">Failed to save picture!</string>
   <string name="toast_audio_record_start">Start Recording</string>
   <string name="toast_audio_record_stop">Stop Recording</string>
+  <string name="wallpaper_action">Change Wallpaper</string>
+  <string name="wallpaper_change_both">Desktop + Lockscreen</string>
+  <string name="wallpaper_change_desktop">Desktop wallpaper</string>
+  <string name="wallpaper_change_failed">Change failed</string>
+  <string name="wallpaper_change_home">Lockscreen wallpaper</string>
+  <string name="wallpaper_change_home_failed">Change failed</string>
+  <string name="wallpaper_change_ok">Wallpaper changed</string>
+  <string name="wallpaper_changing">Changing wallpaper...</string>
+  <string name="wallpaper_no_more">Dont replace wallpaper</string>
+  <string name="select_vol">Please select the volume keys</string>
+  <string name="action_key_vol">Volume keys</string>
+  <string name="action_key_vol_down">Volume down</string>
+  <string name="action_key_vol_up">Volume up</string>
 </resources>

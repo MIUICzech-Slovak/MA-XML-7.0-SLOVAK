@@ -79,6 +79,13 @@
     "name" : "com.xiaomi.miclick.core.action.OpenAppAction",
     "sortId" : 13
   },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.WallpaperAction"],
+      "groupId" : 1,
+      "groupName" : "Application",
+      "name" : "com.xiaomi.miclick.core.action.WallpaperAction",
+      "sortId" : 14
+  },
+
   { "groupId" : 2,
     "groupName" : "System",
     "name" : "com.xiaomi.miclick.core.action.ScreenShotAction",
@@ -194,14 +201,19 @@
     "name" : "com.xiaomi.miclick.core.action.key.PlayPrevAction",
     "sortId" : 23
   },
-     { "groupId" : 3,
+  { "groupId" : 3,
        "groupName" : "Keys",
        "name" : "com.xiaomi.miclick.core.action.key.DirectionAction",
        "sortId" : 24
-     },
-        { "groupId" : 3,
+  },
+  { "groupId" : 3,
           "groupName" : "Keys",
           "name" : "com.xiaomi.miclick.core.action.key.EnterAction",
           "sortId" : 25
-        }
+  },
+  { "groupId" : 3,
+      "groupName" : "Keys",
+      "name" : "com.xiaomi.miclick.core.action.key.SoundAction",
+      "sortId" : 26
+  }
 ]

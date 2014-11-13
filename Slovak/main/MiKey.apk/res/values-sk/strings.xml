@@ -242,4 +242,17 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="write_pic_fail">Chyba uloženia fotografie!</string>
   <string name="toast_audio_record_start">Spustiť nahrávanie</string>
   <string name="toast_audio_record_stop">Zastaviť nahrávanie</string>
+  <string name="wallpaper_action">Zmeniť Tapetu</string>
+  <string name="wallpaper_change_both">Plocha + Zámok</string>
+  <string name="wallpaper_change_desktop">Tapeta plochy</string>
+  <string name="wallpaper_change_failed">Zmena zlyhala</string>
+  <string name="wallpaper_change_home">Tapeta zámku</string>
+  <string name="wallpaper_change_home_failed">Zmena zlyhala</string>
+  <string name="wallpaper_change_ok">Tapeta zmenená</string>
+  <string name="wallpaper_changing">Zmena tapety...</string>
+  <string name="wallpaper_no_more">Nemeniť tapetu</string>
+  <string name="select_vol">Zvoľte tlačidlo hlasitosti</string>
+  <string name="action_key_vol">Tlačidlo hlasitosti</string>
+  <string name="action_key_vol_down">Hlasitosť nadol</string>
+  <string name="action_key_vol_up">Hlasitosť nahor</string>
 </resources>
