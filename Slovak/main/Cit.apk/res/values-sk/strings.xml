@@ -346,4 +346,14 @@ Skopírujte súbor na SD kartu a spustite test znova.</string>
   <string name="cit_wifi_ap_scanning">Vyhľadávanie Wi-Fi siete...</string>
   <string name="cit_wifi_fail_to_scan">Nie je možné nájsť žiadnu sieť Wi-Fi</string>
   <string name="cit_wifi_state_refresh">Obnoviť</string>
+  <string name="cit_aud_spkcal">Kalibrovať</string>
+  <string name="cit_audio_cali_done">Kalibrácia dokončená!</string>
+  <string name="cit_audio_cali_failed">Kalibrácia zlyhala!</string>
+  <string name="cit_audio_cali_file_existed">Hudobný súbor sa nenašiel!</string>
+  <string name="cit_audio_cali_playing">Stlačte pre kalibráciu</string>
+  <string name="cit_audio_cali_summary">Kalibrovať Reproduktor</string>
+  <string name="cit_audio_cali_title">Kalibrácia reproduktora</string>
+  <string name="cit_audio_cali_valueF0">F0:</string>
+  <string name="cit_audio_cali_valueR">Impedancia:</string>
+  <string name="cit_audio_cali_valueT">tCoef:</string>
 </resources>

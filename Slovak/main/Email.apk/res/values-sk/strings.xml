@@ -816,4 +816,24 @@ Delta update size: %2$s"</string>
   <string name="more_atts_remaining">Ostáva: %1$d</string>
   <string name="preference_head_load_description">Stiahnuť len hlavičky správ cez mobilné dáta.</string>
   <string name="preference_head_load_title">Znížiť spotrebu dát</string>
+  <string name="account_settings_chat_mode_enable">Režim konverzácií</string>
+  <string name="account_settings_chat_mode_summary">Správy s rovnakým predmetom budú zobrazené ako konverzácia</string>
+  <string name="attachment_bar_title">Prílohy</string>
+  <string name="body_forward_email_text">[Preposlané]</string>
+  <string name="body_inline_pic_text">[Obrázok]</string>
+  <string name="chat_item_msg_people_unit">ľudí</string>
+  <string name="chat_item_msg_user_etc">…</string>
+  <string name="chat_item_msg_user_saying">hovoria:</string>
+  <string name="chat_view_description">Zobraziť konverzácie</string>
+  <string name="chat_view_quote_text">-----Citovaný Text-----</string>
+  <string name="chat_view_retract_quote_text">---Skryť citovaný text---</string>
+  <string name="chat_view_title">Konverzácie</string>
+  <string name="download_show_image">Stiahnuť a zobraziť obrázok</string>
+  <string name="more_context">Viac</string>
+  <string name="no_content_in_body">[Žiaden text]</string>
+  <string name="quick_reply_hint">Odpovedať všetkým (%1$d)</string>
+  <string name="quick_reply_hint_bcc">(V BCC)</string>
+  <string name="quick_reply_hint_cc">(V CC)</string>
+  <string name="switch_as_tranditional_view">Normálne zobrazenie</string>
+  <string name="tip_cannot_switchview_in_unread_folder">Nie je možné zobraziť v režime neprečítaných správ</string>
 </resources>

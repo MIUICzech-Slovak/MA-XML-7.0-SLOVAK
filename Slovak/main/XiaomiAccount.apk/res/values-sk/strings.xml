@@ -335,4 +335,5 @@ s "</string>
   <string name="login_with_email_or_id">Prihlásiť sa s iným účtom</string>
   <string name="logout_failed">Odhlásenie zlyhalo</string>
   <string name="timeout_retry">Platnosť požiadavky vypršala, skúste to znova.</string>
+  <string name="authorize_title">Autorizácia</string>
 </resources>

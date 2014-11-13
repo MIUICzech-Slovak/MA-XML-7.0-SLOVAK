@@ -570,4 +570,5 @@ spoločne!"</string>
   <string name="width">Šírka</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
+  <string name="error_share_not_support">Spájanie zdieľaných albumov nie je podporované</string>
 </resources>

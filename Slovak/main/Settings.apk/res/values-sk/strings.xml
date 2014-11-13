@@ -2798,4 +2798,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="whetstone_level_title">Optimalizácia RAM</string>
   <string name="status_bar_settings_long_click_sort">Dlhým podržaním presuniete</string>
   <string name="status_bar_settings_toggle_position">Pozícia prepínačov</string>
+  <string name="alpha_build">" | Alpha"</string>
+  <string name="developer_build">" | Týždenná"</string>
+  <string name="stable_build">" | Stabilná"</string>
 </resources>

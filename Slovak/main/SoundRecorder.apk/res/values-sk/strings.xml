@@ -110,4 +110,5 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="no_downloading_file">Žiaden sťahovaný súbor</string>
+  <string name="error_file_access">Súbor neexistuje alebo je poškodený</string>
 </resources>
