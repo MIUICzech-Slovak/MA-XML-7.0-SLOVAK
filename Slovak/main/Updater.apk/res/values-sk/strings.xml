@@ -109,7 +109,7 @@
   <string name="mione_update_success_title">Aktualizované</string>
   <string name="miui_summary_has_new_version">" Je dostupná nová verzia  "</string>
   <string name="miui_summary_no_new_version">"Nie je dostupná nová verzia. 
-Navštívte miuios.cz/rom"</string>
+  Navštívte miuios.cz/rom"</string>
   <string name="miui_summary_now_version">"Súčasná verzia "</string>
   <string name="monthly_build">Mesačná verzia</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Nie je dostatok miesta na SD karte na presun %dMB dát.</string>
