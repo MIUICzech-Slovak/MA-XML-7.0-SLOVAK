@@ -274,4 +274,8 @@ From the top of the screen slide downwards to use it."</string>
   <string name="action_key_vol">Volume keys</string>
   <string name="action_key_vol_down">Volume down</string>
   <string name="action_key_vol_up">Volume up</string>
+  <string name="know_it">OK</string>
+  <string name="screenshot_crop">Crop</string>
+  <string name="screenshot_full">Fullscreen</string>
+  <string name="scrennshot_select_title">Select capture size</string>
 </resources>

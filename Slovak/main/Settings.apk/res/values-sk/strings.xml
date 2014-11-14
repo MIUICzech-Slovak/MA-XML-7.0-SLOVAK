@@ -2801,4 +2801,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="alpha_build">" | Alpha"</string>
   <string name="developer_build">" | Týždenná"</string>
   <string name="stable_build">" | Stabilná"</string>
+  <string name="music_dirac_control">Vylepšiť kvalitu zvuku</string>
+  <string name="music_dirac_mode_off">Dirac vypnutý</string>
+  <string name="music_dirac_mode_piston_1">Xiaomi Piston-1</string>
+  <string name="music_dirac_mode_piston_basic">Základné</string>
 </resources>

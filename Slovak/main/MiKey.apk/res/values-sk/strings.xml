@@ -255,4 +255,8 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="action_key_vol">Tlačidlo hlasitosti</string>
   <string name="action_key_vol_down">Hlasitosť nadol</string>
   <string name="action_key_vol_up">Hlasitosť nahor</string>
+  <string name="know_it">OK</string>
+  <string name="screenshot_crop">Orezaný</string>
+  <string name="screenshot_full">Fullscreen</string>
+  <string name="scrennshot_select_title">Vyberte režim Screenshotu</string>
 </resources>
