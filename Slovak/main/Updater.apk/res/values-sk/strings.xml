@@ -110,7 +110,7 @@
   <string name="miui_summary_has_new_version">" Je dostupná nová verzia  "</string>
   <string name="miui_summary_no_new_version">"Nie je dostupná nová verzia. 
   Navštívte miuios.cz/rom"</string>
-  <string name="miui_summary_now_version">"Súčasná verzia "</string>
+  <string name="miui_summary_now_version">Pripojte sa k sieti</string>
   <string name="monthly_build">Mesačná verzia</string>
   <string name="move_data_to_sdcard_not_enough_space_message">Nie je dostatok miesta na SD karte na presun %dMB dát.</string>
   <string name="move_data_to_sdcard_title">Presunúť dáta na SD kartu</string>
@@ -257,4 +257,9 @@ Svoj názor môžte odoslať každý utorok"</string>
   <string name="update_feedback_need_update">Momentálne nepoužívate najnovšiu verziu MIUI. Pred odoslaním spätnej väzby musíte najkôr aktualizovať na najnovšiu verziu.</string>
   <string name="updater_nolog">Zoznam zmien nie je dostupný</string>
   <string name="updater_nonetwork">Pripojte sa k sieti pre načítanie zoznamu zmien</string>
+  <string name="not_open">Zakázať</string>
+  <string name="open_now">Povoliť</string>
+  <string name="set_auto_msg">Ak je dostupná nová aktualizácia MIUI, automaticky sa stiahne po pripojení na Wi-Fi sieť. Pre rýchlejšie stiahnutie nových verzií navštívte miuios.cz/rom</string>
+  <string name="set_auto_update_title">Povoliť automatické aktualizácie</string>
+  <string name="title_toast_auto">Automatické sťahovanie aktualizácií je povolené</string>
 </resources>
