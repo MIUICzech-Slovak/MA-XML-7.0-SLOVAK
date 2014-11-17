@@ -634,4 +634,15 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="sport_running_speed">Rýchlosť</string>
   <string name="sport_running_speed_detail">%dkm/h</string>
   <string name="sport_share">Zdieľať</string>
+  <string name="share_step_ranking">Porazili ste %s užívateľov.</string>
+  <string name="sport_running_gps_cancel">Zrušiť</string>
+  <string name="sport_running_gps_turnon">Zapnúť</string>
+  <string name="sport_running_helper_test">Test behania</string>
+  <string name="sport_running_history">História</string>
+  <string name="sport_running_settings">Nastavenia</string>
+  <string name="sport_running_slider_prompt">&gt;&gt;&gt;Odomknite posunutím</string>
+  <string name="sport_running_start">Štart</string>
+  <string name="sport_running_time_desc">Čas</string>
+  <string name="vibrate_notify">Upozorniť vibrovaním</string>
+  <string name="vibrate_notify_tips">Vibrovať keď dostanete upozornenia</string>
 </resources>
