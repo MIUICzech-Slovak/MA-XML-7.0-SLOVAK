@@ -369,17 +369,17 @@ Zaspal som o %3$s, prebudil sa o %4$s."</string>
   <string name="noti_bracelet_low_battery_content_mid">Je nutné dobiť MiBand.</string>
   <string name="noti_bracelet_low_battery_title">Slabá batéria v MiBand</string>
   <string name="noti_bracelet_low_battery_title_low">MiBand je vypnutý</string>
-  <string name="notify_status_motor">MiBand vibruje</string>
-  <string name="notify_status_motor_alarm">Dôvod: Budík</string>
-  <string name="notify_status_motor_auth">Dôvod: Párovanie</string>
-  <string name="notify_status_motor_auth_success">Dôvod: Úspešné prihlásenie</string>
-  <string name="notify_status_motor_call">Dôvod: Prichádzajúci hovor</string>
-  <string name="notify_status_motor_disconnect">Dôvod: Odpojenie</string>
-  <string name="notify_status_motor_goal">Dôvod: Splnený cieľ</string>
-  <string name="notify_status_motor_notify">Dôvod: Vyhľadávanie</string>
-  <string name="notify_status_motor_shut_down">Dôvod: Vybitá batéria</string>
-  <string name="notify_status_motor_smart_alarm">Dôvod: Inteligentný budík</string>
-  <string name="notify_status_motor_test">Dôvod: Test</string>
+  <string name="notify_status_motor">MiBand vibruje:</string>
+  <string name="notify_status_motor_alarm">" Budík"</string>
+  <string name="notify_status_motor_auth">" Párovanie"</string>
+  <string name="notify_status_motor_auth_success">" Úspešné prihlásenie"</string>
+  <string name="notify_status_motor_call">" Prich. hovor"</string>
+  <string name="notify_status_motor_disconnect">" Odpojenie"</string>
+  <string name="notify_status_motor_goal">" Splnený cieľ"</string>
+  <string name="notify_status_motor_notify">" Vyhľadávanie"</string>
+  <string name="notify_status_motor_shut_down">" Vybitá batéria"</string>
+  <string name="notify_status_motor_smart_alarm">" Intel. budík"</string>
+  <string name="notify_status_motor_test">" Test"</string>
   <string name="odo">Vzdialenosť (km)</string>
   <string name="one_min">Pred minútou</string>
   <string name="one_week">Tento týždeň</string>
@@ -643,6 +643,6 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="sport_running_slider_prompt">&gt;&gt;&gt;Odomknite posunutím</string>
   <string name="sport_running_start">Štart</string>
   <string name="sport_running_time_desc">Čas</string>
-  <string name="vibrate_notify">Upozorniť vibrovaním</string>
-  <string name="vibrate_notify_tips">Vibrovať keď dostanete upozornenia</string>
+  <string name="vibrate_notify">Upozorniť na vibrovanie</string>
+  <string name="vibrate_notify_tips">Zobraziť upozornenie na vibrácie</string>
 </resources>
