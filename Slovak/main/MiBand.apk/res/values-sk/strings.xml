@@ -644,5 +644,5 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="sport_running_start">Štart</string>
   <string name="sport_running_time_desc">Čas</string>
   <string name="vibrate_notify">Upozorniť na vibrovanie</string>
-  <string name="vibrate_notify_tips">Zobraziť upozornenie na vibrácie</string>
+  <string name="vibrate_notify_tips">Zobraziť upozornenie na vibrácie MiBand</string>
 </resources>
