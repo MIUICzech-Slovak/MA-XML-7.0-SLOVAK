@@ -284,4 +284,5 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
   <string name="button_text_delete">Vymazať</string>
+  <string name="read_all_sms">Označiť ako prečítané</string>
 </resources>

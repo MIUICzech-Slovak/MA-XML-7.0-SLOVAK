@@ -36,4 +36,9 @@
         <item>Najpoužívanejšie</item>
         <item>Veľkosti</item>
     </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Vypnúť</item>
+        <item>Zapnúť</item>
+        <item>Ponechať súčasný stav</item>
+    </string-array>
 </resources>
