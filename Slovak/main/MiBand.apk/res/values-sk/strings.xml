@@ -528,7 +528,7 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="stat_step_run_calorie">Spálené behom</string>
   <string name="stat_step_run_calories_average">Priem. spálené</string>
   <string name="stat_step_run_distance">Zabehnuté</string>
-  <string name="stat_step_run_distance_average">Priem. prejdené</string>
+  <string name="stat_step_run_distance_average">Priem. zabehnuté</string>
   <string name="stat_step_run_duration">Beh</string>
   <string name="stat_step_run_duration_average">Priem. Beh</string>
   <string name="stat_step_total">Krokov</string>
