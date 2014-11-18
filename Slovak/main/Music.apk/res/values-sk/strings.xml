@@ -14,7 +14,7 @@
   <string name="all_tracks">Všetko</string>
   <string name="all_tracks_short">Všetko</string>
   <string name="allow_to_use_traffic_summary">Môže navýšiť vaše poplatky</string>
-  <string name="allow_to_use_traffic_title">Allows the use of pay-WLAN listen songs online</string>
+  <string name="allow_to_use_traffic_title">Povoliť sťahovanie skladieb cez mobilné dáta</string>
   <string name="artist_search_title">Umelec</string>
   <string name="artist_view">Umelec</string>
   <string name="audio_picker_title">Vyberte skladbu</string>

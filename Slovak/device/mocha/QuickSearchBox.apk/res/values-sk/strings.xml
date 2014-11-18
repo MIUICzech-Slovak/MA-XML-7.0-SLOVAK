@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-  <string name="app_name">Vyhľadať</string>
+  <string name="app_name">Vyhľadávanie</string>
   <string name="apps_search_activity"/>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_shortcuts">Vymazať históriu v zariadení</string>

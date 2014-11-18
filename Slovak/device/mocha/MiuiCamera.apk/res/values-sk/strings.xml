@@ -31,7 +31,7 @@ opustite na chvíľu náhľad"</string>
   <string name="camera_disabled">Fotoaparát bol z dôvodu bezpečnosti deaktivovaný.</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
-  <string name="camera_settings_label">Nastavenie fotoaparátu</string>
+  <string name="camera_settings_label">Fotoaparát</string>
   <string name="can_not_play_video">Pre prehrávanie videa odblokujte obrazovku</string>
   <string name="cancel">Zrušiť</string>
   <string name="cannot_connect_camera_once">"Nie je možné pripojiť kameru, ukončite aplikáciu"</string>
@@ -360,7 +360,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_scenemode_entry_sports">Šport</string>
   <string name="pref_camera_scenemode_entry_sunset">Západ slnka</string>
   <string name="pref_camera_scenemode_title">Scény</string>
-  <string name="pref_camera_settings_category">Nastavenie fotoaparátu</string>
+  <string name="pref_camera_settings_category">Fotoaparát</string>
   <string name="pref_camera_settings_title">Nastavenia</string>
   <string name="pref_camera_sharpness_title">Ostrosť</string>
   <string name="pref_camera_show_gender_age_entry_alias">Zobraziť vekové rozpätie</string>
