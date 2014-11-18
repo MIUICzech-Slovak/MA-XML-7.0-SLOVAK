@@ -214,7 +214,7 @@
   <string name="test">Test</string>
   <string name="timer_title">Zariadenie sa reštartuje o %ds.</string>
   <string name="top_secret_build">Tajná verzia</string>
-  <string name="unkown_error_title">Niečo sa pokazilo, navštívte miuios.cz/rom…</string>
+  <string name="unkown_error_title">Chyba pri sťahovaní, navštívte miuios.cz/rom</string>
   <string name="unstable_build">Stabilná verzia</string>
   <string name="update_comment_hint"/>
   <string name="update_comment_title">Komentár</string>
