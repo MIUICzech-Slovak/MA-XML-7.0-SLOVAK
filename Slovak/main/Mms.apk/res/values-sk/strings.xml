@@ -289,7 +289,7 @@
   <string name="nosend_message">Neodoslané</string>
   <string name="notification_failed_multiple">Nie je možné odoslať %s správ.</string>
   <string name="notification_failed_multiple_title">Správy neodoslané</string>
-  <string name="notification_multiple">%s neprečítaných správ.</string>
+  <string name="notification_multiple">Neprečítaných správ: %s</string>
   <string name="notification_multiple_title">Nové správy</string>
   <string name="number_add_hint">Zadajte číslo pre zaradenie do súkromných kontaktov</string>
   <string name="overwrite_edited_content">Upravený obsah bude prepísaný. Pokračovať?</string>
