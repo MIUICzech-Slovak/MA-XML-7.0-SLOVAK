@@ -572,10 +572,6 @@ spoločne!"</string>
   <string name="yes">Áno</string>
   <string name="error_share_not_support">Spájanie zdieľaných albumov nie je podporované</string>
   <string name="abandon">Zahodiť</string>
-  <string name="add_to_cloud_unfinished_message_with_count">%1$s nie je pridaných do cloudu</string>
-  <string name="add_to_secret_failed_message_with_count">%2$s nemôže byť pridaných do tajného albumu: %1$s.</string>
-  <string name="add_to_secret_successfully_message">Pridané do tajného albumu</string>
-  <string name="add_to_secret_unfinished_message_with_count">%1$s nie je pridaných do tajného albumu</string>
   <string name="alert_secret_album_message">Môžete rolovať cloudový album do tajného albumu.</string>
   <string name="alert_secret_album_title">Tajný album</string>
   <string name="auto_upload_album_comfirm_to_share">Tento album bude automaticky nahrávaný, chcete ho naozaj zdieľať?</string>
@@ -584,24 +580,17 @@ spoločne!"</string>
   <string name="do_not_save">Neukladať</string>
   <string name="enable">Povoliť</string>
   <string name="external_sdcard_root">Hlavná zložka externej SD karty</string>
-  <string name="free">Voľné</string>
   <string name="internal_sdcard_root">Hlavná zložka internej SD karty</string>
-  <string name="original">Originál</string>
   <string name="original_scale">Pôvodná veľkosť</string>
   <string name="paint_crop_cancel_context">Uložiť orezaný obrázok?</string>
   <string name="paint_crop_cancel_title">Zahodiť zmeny</string>
   <string name="paint_crop_tips">Pre čo najlepší obrázok, umiestnite jeho zaujímavú časť do stredu pomocou jeho zmenšenia a posúvania.</string>
-  <string name="photo_paint_crop">Orezať</string>
   <string name="pick_with_limited_upper_bound_title">Môžete vybrať %d položiek</string>
   <string name="pocket_camera_picture">Fotografie</string>
   <string name="pocket_camera_video">Videá</string>
-  <string name="remove_from_secret_failed_message_with_count">%2$s položiek nie je odobraných z tajného albumu: %1$s.</string>
-  <string name="remove_from_secret_successfully_message">Odobrané z tajného albumu</string>
-  <string name="remove_from_secret_unfinished_message_with_count">%1$s položiek nie je odobraných z tajného albumu</string>
   <string name="same_name_album_exists_alert">Album s rovnakým menom už existuje a bol zdieľaný. Nahrať fotografie automaticky do tohto albumu?</string>
   <string name="sdcard_root">Hlavná zložka SD karty</string>
   <string name="select_auto_upload_albums">Vyberte albumy pre nahranie do cloudu</string>
-  <string name="square">Štvorec</string>
   <string name="weixin">WeChat</string>
   <string name="yunyi_pocket_camera">Fotoaparát</string>
 </resources>
