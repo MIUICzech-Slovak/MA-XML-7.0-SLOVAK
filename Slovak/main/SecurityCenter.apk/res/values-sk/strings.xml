@@ -674,5 +674,5 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="toast_show_notification">Zobrazené v notif. roletke</string>
   <string name="toast_virus_cloudscan">Kontrola vírusov využije online databázu</string>
   <string name="power_dialog_wifi_title">Wi-Fi</string>
-  <string name="power_mode_keep_state">Ponechať súčasný stav</string>
+  <string name="power_mode_keep_state">Nemeniť</string>
 </resources>

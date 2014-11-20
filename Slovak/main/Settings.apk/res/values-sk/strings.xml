@@ -1473,7 +1473,7 @@ Vyberte váš operačný systém:"</string>
   <string name="open_wifi_connect_summary">Stlačte pre správu sietí</string>
   <string name="open_wifi_connect_title">Pripojiť k otvorenej sieti %1$s</string>
   <string name="other_advanced_settings">Ďalšie nastavenia</string>
-  <string name="other_personal_settings">Ďalšie nastavenia</string>
+  <string name="other_personal_settings">Osobné nastavenia</string>
   <string name="other_relative">Ostatné povolenia</string>
   <string name="overlay_display_devices_title">Simulovať sek. displeje</string>
   <string name="owner_info_settings_edit_text_hint">Zadajte text, ktorý sa zobrazí na zamknutej obrazovke</string>
@@ -1666,7 +1666,7 @@ Vyberte váš operačný systém:"</string>
   <string name="radioInfo_service_out">Nepokrytá oblasť</string>
   <string name="radioInfo_unknown">neznámy</string>
   <string name="radio_controls_summary">Spravovať Wi-Fi, Bluetooth, režim V lietadle, mobilné siete a siete VPN</string>
-  <string name="radio_controls_title">Ďalšie nastavenia</string>
+  <string name="radio_controls_title">Viac</string>
   <string name="radio_info_band_mode_label">Zvoliť pásmo rádia</string>
   <string name="radio_info_call_redirect_label">Presmerované hovory:</string>
   <string name="radio_info_call_status_label">Stav hovoru:</string>
@@ -1865,7 +1865,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="security_keyguard_category_name">Zámok</string>
   <string name="security_password_category_name">Heslo</string>
   <string name="security_passwords_title">Heslá</string>
-  <string name="security_privacy_settings_title">Zabezpečenie súkromia</string>
+  <string name="security_privacy_settings_title">Súkromie</string>
   <string name="security_relative">Bezpečnosť</string>
   <string name="security_settings_billing_desc">Táto aplikácia vám môže účtovať poplatky:</string>
   <string name="security_settings_desc">Táto aplikácia má prístup k nasledujúcim funkciám telefónu:</string>

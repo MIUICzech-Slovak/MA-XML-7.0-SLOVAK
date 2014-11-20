@@ -80,4 +80,6 @@ Deaktivujte režim Lietadlo."</string>
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
+  <string name="confirm_pin_msg">Zadajte PIN znova</string>
+  <string name="invalid_confirm_pin_hint">PIN kód nesúhlasí</string>
 </resources>

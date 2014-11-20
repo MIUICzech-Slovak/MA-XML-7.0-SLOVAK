@@ -836,4 +836,19 @@ Delta update size: %2$s"</string>
   <string name="quick_reply_hint_cc">(V CC)</string>
   <string name="switch_as_tranditional_view">Normálne zobrazenie</string>
   <string name="tip_cannot_switchview_in_unread_folder">Nie je možné zobraziť v režime neprečítaných správ</string>
+  <string name="account_options_acc_title">Účet</string>
+  <string name="account_options_common_title">Bežné nastavenia</string>
+  <string name="account_options_only_title">Stiahnuť len hlavičky cez mobilné dáta</string>
+  <string name="account_options_sync_title">Synchronizácia</string>
+  <string name="account_setup_server_acc_manager_title">Správa účtov</string>
+  <string name="head_only_enable_dialog_message">Cez mobilné dáta sa stiahnu len hlavičky správ namiesto celej správy.</string>
+  <string name="head_only_enable_dialog_nagative">Odmietnuť</string>
+  <string name="head_only_enable_dialog_positive">Povoliť</string>
+  <string name="head_only_enable_dialog_title">Úspora mobilných dát</string>
+  <string name="perference_setup_pop_del">Odstrániť správu zo servera</string>
+  <string name="perference_setup_recv_tag">Server prichádzajúcej pošty</string>
+  <string name="perference_setup_send_tag">Server odchádzajúcej pošty</string>
+  <string name="preference_eas_tips">The coming activation page is requested by E-mail Server, please rest your heart to activate.</string>
+  <string name="preference_imap_tips"/>
+  <string name="preference_pop_tips">Prílohy budú stiahnuté spolu so správou, keďže si to vyžaduje POP3 protokol. Môže to navýšiť vašu spotrebu mobilných dát.</string>
 </resources>

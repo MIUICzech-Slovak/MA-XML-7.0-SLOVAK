@@ -39,6 +39,6 @@
     <string-array name="power_dialog_wifi_internet_state_items">
         <item>Vypnúť</item>
         <item>Zapnúť</item>
-        <item>Ponechať súčasný stav</item>
+        <item>Nemeniť</item>
     </string-array>
 </resources>
