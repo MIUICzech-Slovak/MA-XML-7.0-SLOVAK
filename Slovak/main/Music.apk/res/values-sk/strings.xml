@@ -211,7 +211,7 @@
   <string name="tab_artist_list">Umelec</string>
   <string name="tab_local_folder_list">Zložka</string>
   <string name="tab_local_track_list">Zoznam skladieb</string>
-  <string name="tab_track_list">Stopa</string>
+  <string name="tab_track_list">Skladba</string>
   <string name="take_effect_afater_restart">Musíte reštartovať aplikáciu pre použitie týchto zmien.</string>
   <string name="track_list_control_download">Stiahnuť</string>
   <string name="track_list_control_edit_add_tracks">Pridať skladby</string>
@@ -246,4 +246,36 @@
   <string name="filter_by_size_min">0KB</string>
   <string name="filter_by_size_prefix">"Minimálna veľkosť: "</string>
   <string name="filter_by_size_summary">Nezobrazovať malé audio súbory</string>
+  <string name="album_name">Album</string>
+  <string name="artist_name">Umelec</string>
+  <string name="click_modify">Dotykom upravíte text</string>
+  <string name="download_auto_when_free_network_summary">Ďalšie nastavenia pre obľúbené skladby</string>
+  <string name="download_quality">Kvalita sťahovania</string>
+  <string name="download_quality_summary">Ďalšie nastavenia pre stiahnuté skladby</string>
+  <string name="format_not_support">Formát nie je podporovaný</string>
+  <string name="in_searching_please_wait">Vyhľadávanie...</string>
+  <string name="listview_index_of_total">%1$d/%2$d</string>
+  <string name="lyric">Text</string>
+  <string name="lyric_is_empty">Text nie je dostupný!</string>
+  <string name="lyric_setting">Nastavenie Textu skladby</string>
+  <string name="modify_lyric">Upraviť Text</string>
+  <string name="modify_progress">Upraviť posun Textu</string>
+  <string name="modify_progress_helper">Posuňte nahor alebo nadol pre nastavenie posunu Textu</string>
+  <string name="modify_song_info">Upraviť informácie o skladbe</string>
+  <string name="no_file_picker_find">Správca súborov nie je nainštalovaný</string>
+  <string name="no_introduction">Žiadne informácie</string>
+  <string name="please_search_or_select">Vyhľadajte alebo vyberte</string>
+  <string name="search_album">Vyhľadať Album Online</string>
+  <string name="search_lyric">Vyhľadať Text Online</string>
+  <string name="select_album">Vyberte album</string>
+  <string name="select_local_album">Vyberte Lokálny Album</string>
+  <string name="select_local_lyric">Vyberte lokálny Text</string>
+  <string name="select_lyric">Vybrať Text</string>
+  <string name="set_album_successful">Album uložený</string>
+  <string name="set_id3_failed">Nastavenie skladby zlyhalo</string>
+  <string name="set_id3_successful">Informácie o skladbe uložené</string>
+  <string name="set_lyric_successful">Text skladby uložený</string>
+  <string name="song_name">Skladba</string>
+  <string name="start_to_play">Prehrať</string>
+
 </resources>

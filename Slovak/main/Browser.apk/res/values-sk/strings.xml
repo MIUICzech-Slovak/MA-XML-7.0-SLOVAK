@@ -733,4 +733,12 @@ Chcete odísť z tejto stránky?"</string>
   <string name="action_menu_text_snapshot">Uložiť stránku</string>
   <string name="empty_snapshot_hint">Prázdne</string>
   <string name="tab_hotpage">Trendy</string>
+  <string name="adblock_rules_number_text">Blokované: %d</string>
+  <string name="adblock_rules_restore">Obnoviť</string>
+  <string name="adblock_websites_settings_empyt_hint">Prázdne</string>
+  <string name="adblock_websites_settings_title">Vlastné pravidlá</string>
+  <string name="close_ads_choice_no">Nie</string>
+  <string name="close_ads_choice_yes">Áno</string>
+  <string name="close_ads_message">Zatvoriť toto okno a blokovať? Blokované okná sa zobrazia v Nastavenia &gt; Rozšírené &gt; Vlastné pravidlá</string>
+  <string name="close_ads_title">Upozornenie</string>
 </resources>

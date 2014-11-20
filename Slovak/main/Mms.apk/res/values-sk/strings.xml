@@ -524,4 +524,5 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
   <string name="my_bookmark">Záložky</string>
+  <string name="mx_type_guide">Cloudové správy umožnujú MIUI odosielať zdarma SMS cez Wi-Fi alebo mobilné dáta</string>
 </resources>

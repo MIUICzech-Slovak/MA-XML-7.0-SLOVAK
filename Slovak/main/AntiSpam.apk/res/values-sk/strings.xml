@@ -47,7 +47,7 @@
   <string name="ad_update_time">Aktualizované: %s</string>
   <string name="ad_update_time_unKnown">Aktualizované: Neznáme</string>
   <string name="ad_update_title">Automatická aktualizácia</string>
-  <string name="address_choose_hint">%1$s, %2$s a %3$d regióny</string>
+  <string name="address_choose_hint">%1$s, %2$s a %3$d ďalšie</string>
   <string name="addwhitelist">Pridať do výnimiek</string>
   <string name="all_address_choose_hint">Všetky regióny</string>
   <string name="app_name">AntiSpam</string>
@@ -72,7 +72,7 @@
   <string name="dlg_add_manual_hint">Zadajte telefónne číslo</string>
   <string name="dlg_add_manual_ok">Pridať</string>
   <string name="dlg_antispam_mode_delete_message">Nie je možné obnoviť vlastný profil po jeho vymazaní.</string>
-  <string name="dlg_antispam_mode_delete_title">Vymazanie vlastného profilu</string>
+  <string name="dlg_antispam_mode_delete_title">Vymazať profil?</string>
   <string name="dlg_antispam_using_mode_delete_message">Vymazať vlastný profil a prepnúť na predvolený? Túto akciu nie je možné vrátiť späť!</string>
   <string name="dlg_antispam_using_mode_international_delete_message">Vymazať vlastný profil a prepnúť na predvolený? Túto akciu nie je možné vrátiť späť!</string>
   <string name="dlg_bl_add_manual">Zadať telefónne číslo manuálne</string>
@@ -279,7 +279,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="toast_keyword_blank">"Zadajte text alebo čísla. "</string>
   <string name="toast_keyword_exist">Kľúčové slovo uložené</string>
   <string name="toast_keyword_invalid">Neplatné slovo</string>
-  <string name="two_address_choose_hint">%1$s, %2$s 2 regióny</string>
+  <string name="two_address_choose_hint">%1$s a %2$s</string>
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
