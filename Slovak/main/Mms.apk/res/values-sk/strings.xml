@@ -217,7 +217,7 @@
   <string name="message_failed_body">Skúste to znova</string>
   <string name="message_pending">Odosielanie...</string>
   <string name="message_queued">V súčasnej dobe nie je možné správu odoslať. Bude odoslaná, akonáhle bude služba k dispozícií.</string>
-  <string name="message_readed">Prečítajte si</string>
+  <string name="message_readed">Prečítané</string>
   <string name="message_received">Doručené</string>
   <string name="message_rejected">Odmietnuté</string>
   <string name="message_saved_as_draft">Správa bola uložená ako koncept.</string>
