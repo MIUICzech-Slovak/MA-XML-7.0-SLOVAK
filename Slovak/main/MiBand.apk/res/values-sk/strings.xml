@@ -131,7 +131,7 @@ Adresa: %2$s"</string>
   <string name="dynamic_pull_not_sync_today">Dnes nesynchronizované</string>
   <string name="dynamic_pull_pull_to_sync">Potiahnite nadol pre synchr.</string>
   <string name="dynamic_pull_release_to_sync">Pustite pre synchr.</string>
-  <string name="dynamic_pull_sync_after_connected">Po pripojení synchronizovať</string>
+  <string name="dynamic_pull_sync_after_connected">Po pripojení sa synchr.</string>
   <string name="dynamic_pull_sync_error">Synchr. zlyhala, skúste to znova</string>
   <string name="dynamic_pull_syncing">Synchronizácia...</string>
   <string name="dynamic_pull_syncing_progress">Synchr. %s%%</string>
@@ -213,8 +213,8 @@ a aktualizácia sa spustí automaticky po nabití MiBand"</string>
   <string name="hot_des">Energia</string>
   <string name="hour_1"/>
   <string name="in">V </string>
-  <string name="incoming_call_notify">Prichádzajúci hovor</string>
-  <string name="incoming_call_notify_tips">Upozorniť ma na prichádzajúci hovor po %ss.</string>
+  <string name="incoming_call_notify">Prich. hovor</string>
+  <string name="incoming_call_notify_tips">Upozorniť po %ss.</string>
   <string name="input_precise_person_info">Zadajte vaše presné údaje pre vypočet cvičenia a optimálneho spánku</string>
   <string name="instruction_tip_1">"Pozrite sa na priebeh 
 vášho cvičenia"</string>
@@ -426,8 +426,7 @@ Zaspal som o %3$s, prebudil sa o %4$s."</string>
   <string name="set_mili_name_ok">MiBand premenovaný</string>
   <string name="set_person_goal">Nastavenie cieľa</string>
   <string name="set_sport_goal">Nastaviť ciele</string>
-  <string name="setting_about_app">"Verzia apl.:
-Preklad: miuios.cz/miband"</string>
+  <string name="setting_about_app">Verzia apl.: Preklad: miuios.cz/miband</string>
   <string name="setting_about_fw">Verzia Firmware</string>
   <string name="setting_feedback_address">Podrobnosti kontaktu (E-mail, číslo QQ)</string>
   <string name="setting_feedback_hint">Ďakujeme za váš názor</string>
@@ -632,7 +631,7 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="sport_running_set_goal">Upozornenie na cieľ</string>
   <string name="sport_running_set_speed">Upozornenie na rýchlosť</string>
   <string name="sport_running_speed">Rýchlosť</string>
-  <string name="sport_running_speed_detail">%dkm/h</string>
+  <string name="sport_running_speed_detail">%.0fkm/h</string>
   <string name="sport_share">Zdieľať</string>
   <string name="share_step_ranking">Porazili ste %s užívateľov.</string>
   <string name="sport_running_gps_cancel">Zrušiť</string>
@@ -645,4 +644,21 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="sport_running_time_desc">Čas</string>
   <string name="vibrate_notify">Upozorniť na vibrovanie</string>
   <string name="vibrate_notify_tips">Zobraziť upozornenie na vibrácie MiBand</string>
+  <string name="birthday">Narodeniny</string>
+  <string name="bracelet_store_desc">Zakúpiť MiBand</string>
+  <string name="buy_bracelet_desc">Len v Číne.</string>
+  <string name="closed">Zatvorené</string>
+  <string name="please_input_birthday">Narodeniny</string>
+  <string name="sport_coming_soon">Novinky!</string>
+  <string name="sport_running_altitude">Nadmorská výška</string>
+  <string name="sport_running_average_speed">Priemer</string>
+  <string name="sport_running_burn">Spálené</string>
+  <string name="sport_running_cost_cal">%.1f Kcal</string>
+  <string name="sport_running_distance">Vzdialenosť</string>
+  <string name="sport_running_end_time">Koniec</string>
+  <string name="sport_running_history_no_data">N/A</string>
+  <string name="sport_running_history_title">História</string>
+  <string name="sport_running_prepare_map">Pripravuje sa...</string>
+  <string name="sport_running_start_time">Štart</string>
+  <string name="sport_running_step">Krokov</string>
 </resources>
