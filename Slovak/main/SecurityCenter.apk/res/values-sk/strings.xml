@@ -675,4 +675,9 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="toast_virus_cloudscan">Kontrola vírusov využije online databázu</string>
   <string name="power_dialog_wifi_title">Wi-Fi</string>
   <string name="power_mode_keep_state">Nemeniť</string>
+  <string name="SMS_and_MMS">SMS a MMS</string>
+  <string name="call_and_contact">Hovory a Kontakty</string>
+  <string name="info_and_call">Hovory a správy</string>
+  <string name="permission_with_SMS_and_MMS">Povolenia pre SMS a MMS</string>
+  <string name="permission_with_call_and_contact">Povolenia týkajúce sa hovorov, kontaktov a zoznamu hovorov.</string>
 </resources>

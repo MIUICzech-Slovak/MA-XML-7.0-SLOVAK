@@ -160,4 +160,6 @@
   <string name="txt_sleep_mode">Spánok</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobraziť zoznam staníc</string>
+  <string name="group_favor">Predvoľby</string>
+  <string name="group_other">Ostatné</string>
 </resources>

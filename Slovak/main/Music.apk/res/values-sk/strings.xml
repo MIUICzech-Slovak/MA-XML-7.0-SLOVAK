@@ -277,5 +277,5 @@
   <string name="set_lyric_successful">Text skladby uložený</string>
   <string name="song_name">Skladba</string>
   <string name="start_to_play">Prehrať</string>
-
+  <string name="can_not_find_resource">Nič sa nenašlo</string>
 </resources>

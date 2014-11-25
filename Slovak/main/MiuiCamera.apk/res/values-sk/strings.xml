@@ -560,4 +560,15 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
   <string name="pref_camera_flashmode_entry_torch">Svietidlo</string>
+  <string name="simple_mode_button_asd_flash">Ukončiť</string>
+  <string name="simple_mode_button_asd_hdr">Ukončiť</string>
+  <string name="pref_camera_long_pressing_shutter_title">Stlačte a podržte spúšť pre zamknutie AE/AF/AWB</string>
+  <string name="pref_camera_exposuretime_entry_8s">8s</string>
+  <string name="pref_camera_exposuretime_entry_4s">4s</string>
+  <string name="pref_camera_exposuretime_entry_32s">32s</string>
+  <string name="pref_camera_exposuretime_entry_16s">16s</string>
+  <string name="pref_audio_focus_entry_front">Predný</string>
+  <string name="pref_audio_focus_entry_general">Normálny</string>
+  <string name="pref_audio_focus_entry_rear">Zadný</string>
+  <string name="pref_audio_focus_title">Zaostrenie zvukom</string>
 </resources>

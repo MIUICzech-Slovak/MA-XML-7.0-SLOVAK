@@ -356,4 +356,6 @@ Skopírujte súbor na SD kartu a spustite test znova.</string>
   <string name="cit_audio_cali_valueF0">F0:</string>
   <string name="cit_audio_cali_valueR">Impedancia:</string>
   <string name="cit_audio_cali_valueT">tCoef:</string>
+  <string name="cit_gps_first_fix_time">Fix: %s</string>
+  <string name="cit_gps_location">Poloha: %s</string>
 </resources>
