@@ -297,5 +297,5 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="report_success">Správa nahlásená</string>
   <string name="special_number_group">Blokovať špeciálne čísla</string>
   <string name="st_title_other_group">Ostatné</string>
-  <string name="APKTOOL_DUMMY_0130">false</string>
+  <string name="log_count">(%d)</string>
 </resources>
