@@ -781,7 +781,7 @@ Synchronizujte ich teraz."</string>
   <string name="recent_contacts_label">Nedávne</string>
   <string name="recent_number">Nedávne</string>
   <string name="recent_updates">Nedávne</string>
-  <string name="redirect_calls_to_vm_confirm_message">If you have not applied to the operator of this business, please do not turn on. Otherwise, you may not be able to receive calls from this contact.</string>
+  <string name="redirect_calls_to_vm_confirm_message">Ak nemáte aktívnu hlasovú schránku, nepovoľujte túto možnosť. Nebudete môcť prijímať hovory od tohto kontaktu.</string>
   <string name="redirect_calls_to_vm_confirm_text">Zapnúť</string>
   <string name="refresh">Obnoviť</string>
   <string name="relationLabelsGroup">Príbuzný</string>
