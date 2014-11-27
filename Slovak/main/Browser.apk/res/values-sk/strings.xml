@@ -241,7 +241,7 @@
   <string name="folder_name">Názov zložky</string>
   <string name="forward">Dopredu</string>
   <string name="general_set_default_browser_dialog_close_txt">Zatvoriť</string>
-  <string name="general_set_default_browser_dialog_ok_txt">Potvrdiť</string>
+  <string name="general_set_default_browser_dialog_ok_txt">OK</string>
   <string name="general_set_default_browser_dialog_summary">Pre najlepší výkon používajte MIUI aplikácie</string>
   <string name="general_set_default_browser_title">Predvolený prehliadač</string>
   <string name="geolocation_permissions_prompt_dont_share">Odmietnuť</string>
@@ -737,10 +737,10 @@ Chcete odísť z tejto stránky?"</string>
   <string name="adblock_rules_restore">Obnoviť</string>
   <string name="adblock_websites_settings_empyt_hint">Prázdne</string>
   <string name="adblock_websites_settings_title">Vlastné pravidlá</string>
-  <string name="close_ads_choice_no">Nie</string>
-  <string name="close_ads_choice_yes">Áno</string>
-  <string name="close_ads_message">Zatvoriť toto okno a blokovať? Blokované okná sa zobrazia v Nastavenia &gt; Rozšírené &gt; Vlastné pravidlá</string>
-  <string name="close_ads_title">Upozornenie</string>
+  <string name="close_ads_choice_no">Povoliť</string>
+  <string name="close_ads_choice_yes">Blokovať</string>
+  <string name="close_ads_message">Blokovať obsah tejto stránky? Blokované stránky sa zobrazia v Nastavenia &gt; Rozšírené &gt; Vlastné pravidlá</string>
+  <string name="close_ads_title">Blokovať obsah?</string>
   <string name="find_on_page_cancel">Zrušiť</string>
   <string name="find_on_page_matches">Nájdených: %d</string>
   <string name="find_on_page_next">Ďalej</string>
@@ -748,4 +748,10 @@ Chcete odísť z tejto stránky?"</string>
   <string name="maximum_input_alert">Maximálne 2048 znakov</string>
   <string name="url_find_on_page_result">Zobraziť v prehliadači</string>
   <string name="url_find_on_page_result_item">Zobraziť celý text pre \"%s\"</string>
+  <string name="data_traffic_prompt_change">Prehrávanie videí na mobilnom pripojení môže výrazne navýšiť vaše poplatky.</string>
+  <string name="data_traffic_prompt_message">Prehliadanie web stránok na mobilnom pripojení môže výrazne navýšiť vaše poplatky.</string>
+  <string name="data_traffic_prompt_title">Spotreba dát</string>
+  <string name="video_project_button">Zastaviť</string>
+  <string name="video_project_msg">Zobrazené na %s</string>
+  <string name="video_project_title">Externý displej</string>
 </resources>

@@ -851,4 +851,11 @@ Delta update size: %2$s"</string>
   <string name="preference_eas_tips">The coming activation page is requested by E-mail Server, please rest your heart to activate.</string>
   <string name="preference_imap_tips"/>
   <string name="preference_pop_tips">Prílohy budú stiahnuté spolu so správou, keďže si to vyžaduje POP3 protokol. Môže to navýšiť vašu spotrebu mobilných dát.</string>
+  <string name="add_pre_message_attachments">Pridať prílohy?</string>
+  <string name="add_pre_message_attachments_no">Nie</string>
+  <string name="add_pre_message_attachments_yes">Pridať</string>
+  <string name="bottom_bar_no_quickreply_toast">Bez rýchlej odpovede</string>
+  <string name="inline_picture_deleted">Prebieha sťahovanie obrázka...</string>
+  <string name="inline_picture_download_complete">vložený obrázok stiahnutý</string>
+  <string name="next_not_prompt">Viac sa nepýtať</string>
 </resources>
