@@ -234,7 +234,4 @@
   <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
-  <string name="audio_effect_custom">Nastaviť</string>
-  <string name="audio_effect_info">Optimalizovať zvuk</string>
-  <string name="audio_effect_settings">Typ slúchadiel</string>
 </resources>
