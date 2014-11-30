@@ -278,4 +278,8 @@ From the top of the screen slide downwards to use it."</string>
   <string name="wallpaper_no_more">Dont replace wallpaper</string>
   <string name="web">Website:</string>
   <string name="write_pic_fail">Failed to save picture!</string>
+  <string name="webpage_input_title">Enter URL</string>
+  <string name="webpage_title">Open webpage</string>
+  <string name="screenkey_title">Shield button</string>
+  <string name="mikey_sprite_toggle_title">MiKey wizard open</string>
 </resources>
