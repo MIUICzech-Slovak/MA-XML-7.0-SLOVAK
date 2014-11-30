@@ -26,6 +26,9 @@
   <string name="deselect_all">Zrušiť výber všetkého</string>
   <string name="determine">Potvrdiť</string>
   <string name="dialog_cannot_resume">Sťahovanie bolo prerušené a nie je možné v ňom pokračovať.</string>
+  <string name="dialog_confirm_delete_checkbox_message">Vymazať aj uložený súbor</string>
+  <string name="dialog_confirm_delete_downloads_message">Vymazať úlohy (%d)?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Vymazať tieto úlohy</string>
   <string name="dialog_failed_body">Chcete tento súbor skúsiť znova prevziať neskôr, alebo ho chcete zo zoznamu odstrániť?</string>
   <string name="dialog_file_already_exists">Nepodarilo sa prevziať. Cieľový súbor už existuje.</string>
   <string name="dialog_file_missing_body">Prevzatý súbor sa nepodarilo nájsť.</string>
@@ -138,7 +141,4 @@
   <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
-  <string name="dialog_confirm_delete_checkbox_message">Vymazať aj uložený súbor</string>
-  <string name="dialog_confirm_delete_downloads_message">Vymazať úlohy (%d)?</string>
-  <string name="dialog_confirm_delete_the_download_item_message">Vymazať tieto úlohy</string>
 </resources>

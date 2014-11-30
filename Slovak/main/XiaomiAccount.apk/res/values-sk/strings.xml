@@ -99,6 +99,7 @@
   <string name="add_weibo_account">Pridať účet</string>
   <string name="alert_title_remove_account">Odstrániť účet?</string>
   <string name="app_name">Xiaomi účet</string>
+  <string name="authorize_title">Autorizácia</string>
   <string name="bad_authentication">Nesprávne meno alebo heslo</string>
   <string name="barcode_add_account_prompt">Pre pridanie účtu, znova načítajte QR kód po prihlásení sa.</string>
   <string name="bind_facebook">Pridať Facebook účet</string>
@@ -134,6 +135,7 @@
   <string name="dirty_mms_count">správ: %d</string>
   <string name="dirty_note_count">poznámok: %d</string>
   <string name="email_already_be_used">Emailová adresa už je použitá s iným účtom.</string>
+  <string name="email_or_id_hint_text">Email alebo Xiaomi ID</string>
   <string name="email_reg_success_summary">%1$s bolo prepojené s vašim účtom. Môžete to použiť na prihlásenie alebo zmenu hesla.</string>
   <string name="enable_sync">Povoliť synchr.</string>
   <string name="enable_sync_dspt">Synchr. je deaktivovaná</string>
@@ -183,6 +185,8 @@
   <string name="login_notice">Prihlasovanie...</string>
   <string name="login_step2_title">2-fázové overenie</string>
   <string name="login_title">Prihlásiť sa Xiaomi účet</string>
+  <string name="login_with_email_or_id">Prihlásiť sa s iným účtom</string>
+  <string name="logout_failed">Odhlásenie zlyhalo</string>
   <string name="mi_account_dspt_provision">Prihláste sa do MiCloud, Obchodu s témami a mnoho iných služieb Xiaomi s jednym účtom.</string>
   <string name="mibi_balance">MiKreditov: %s</string>
   <string name="micloud_account">Xiaomi</string>
@@ -301,6 +305,7 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
   <string name="sync_on">Zap</string>
   <string name="theme_store">MIUI Témy</string>
   <string name="theme_store_dspt">Vyberte si vzhľad vášho zariadenia podľa svojich predstáv.</string>
+  <string name="timeout_retry">Platnosť požiadavky vypršala, skúste to znova.</string>
   <string name="title_reg">Zaregistrujte Xiaomi účet</string>
   <string name="trust_device">Verím tomuto zariadeniu</string>
   <string name="unactivated_user">Neaktivovaný</string>
@@ -331,9 +336,4 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
-  <string name="email_or_id_hint_text">Email alebo Xiaomi ID</string>
-  <string name="login_with_email_or_id">Prihlásiť sa s iným účtom</string>
-  <string name="logout_failed">Odhlásenie zlyhalo</string>
-  <string name="timeout_retry">Platnosť požiadavky vypršala, skúste to znova.</string>
-  <string name="authorize_title">Autorizácia</string>
 </resources>

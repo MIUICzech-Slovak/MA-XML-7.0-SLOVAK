@@ -273,6 +273,16 @@
   <string name="ivr_menu_dialing_msg_no_mute">Go to the selected service…[Automatic error correction is enabled]</string>
   <string name="ivr_menu_list_sub_menu_count_format">Stlačte %s</string>
   <string name="ivr_menu_list_title">Hlasové menu</string>
+  <string name="jeejen_answer_call_text">Prijať hovor</string>
+  <string name="jeejen_card_title_call_cancel">Zrušiť hovor</string>
+  <string name="jeejen_card_title_call_ended">Hovor ukončený</string>
+  <string name="jeejen_card_title_dialing">Vytáčanie</string>
+  <string name="jeejen_card_title_in_call"/>
+  <string name="jeejen_card_title_incoming_call">Prichádzajúci hovor</string>
+  <string name="jeejen_card_title_on_hold"/>
+  <string name="jeejen_end_call_text">Ukončiť hovor</string>
+  <string name="jeejen_reject_call_text">Odmietnuť</string>
+  <string name="jeejen_toggle_dialpad_text">Číselník</string>
   <string name="labelCDMAMore">Nastavenie CDMA hovorov</string>
   <string name="labelCF">Presmerovanie hovorov</string>
   <string name="labelCFB">Presmerovať ak je obsadené</string>
@@ -291,6 +301,7 @@
   <string name="list_language_dtitle">Jazyky</string>
   <string name="list_language_summary">Vyberte jazyk správ</string>
   <string name="list_language_title">Jazyk</string>
+  <string name="livetalk_waiting">Čakanie...</string>
   <string name="load_networks_progress">Vyhľadávam...</string>
   <string name="local_disable">Miestne správy zakázané</string>
   <string name="local_enable">Miestne správy povolené</string>
@@ -641,15 +652,4 @@
   <string name="wait_prompt_str">"Odoslať nasledujúce tóny?
 "</string>
   <string name="wild_prompt_str">Nahradiť zástupný znak znakom</string>
-  <string name="livetalk_waiting">Čakanie...</string>
-  <string name="jeejen_answer_call_text">Prijať hovor</string>
-  <string name="jeejen_card_title_call_cancel">Zrušiť hovor</string>
-  <string name="jeejen_card_title_call_ended">Hovor ukončený</string>
-  <string name="jeejen_card_title_dialing">Vytáčanie</string>
-  <string name="jeejen_card_title_in_call"/>
-  <string name="jeejen_card_title_incoming_call">Prichádzajúci hovor</string>
-  <string name="jeejen_card_title_on_hold"/>
-  <string name="jeejen_end_call_text">Ukončiť hovor</string>
-  <string name="jeejen_reject_call_text">Odmietnuť</string>
-  <string name="jeejen_toggle_dialpad_text">Číselník</string>
 </resources>

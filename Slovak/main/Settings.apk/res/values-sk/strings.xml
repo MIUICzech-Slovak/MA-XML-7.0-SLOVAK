@@ -98,6 +98,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="allow_bind_app_widget_activity_always_allow_bind">Vždy povoliť %1$s vytvorenie widgetov</string>
   <string name="allow_mock_location">Povoliť simulovanie polohy</string>
   <string name="allow_mock_location_summary">Povoliť simulovanie polohy</string>
+  <string name="alpha_build">" | Alpha"</string>
   <string name="always_allow_bind_appwidgets_text">"Povolili ste aplikácií vytváranie widgetov."</string>
   <string name="android_beam_disabled_summary">Nie je k dispozícií, pretože je vypnutá funkcia NFC</string>
   <string name="android_beam_explained">"Pokiaľ je funkcia zapnutá, môžete prenášať obsah aplikácie do iného zariadenia s funkciou NFC tým, že podržíte zariadenia blízko seba. Môžete napríklad prenášať stránky prehliadača, videá YouTube, kontakty a ďalšie. Priložte zariadenia k sebe (spravidla zadnou stranou) a dotknite sa obrazovky. Aplikácia určí, aký obsah sa bude prenášať."</string>
@@ -729,6 +730,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="details_title">Podrobnosti používania</string>
   <string name="dev_settings_warning_message">Tieto nastavenia sú len pre vývojárske účely. Môžu spôsobiť nestabilitu systému.</string>
   <string name="dev_settings_warning_title">Povoliť vývojárske nastavenia?</string>
+  <string name="developer_build">" | Týždenná"</string>
   <string name="development_enable">Povoliť vývoj</string>
   <string name="development_settings_not_available">Pre tohto používateľa sú možnosti vývojára nedostupné</string>
   <string name="development_settings_summary">Umožňuje nastaviť možnosti pre vývoj aplikácií</string>
@@ -1385,14 +1387,19 @@ Vyberte váš operačný systém:"</string>
   <string name="mtp_ptp_mode_summary">MTP alebo PTP je aktívne</string>
   <string name="multi_touch_points_category_title">Multidotykové body</string>
   <string name="multi_touch_points_preference">Reštartovať pre zapnutie</string>
+  <string name="music_HiFi_title">Hi-Fi audio</string>
   <string name="music_audio_effect_settings">Nastavenie efektov</string>
+  <string name="music_dirac_control">Vylepšiť kvalitu zvuku</string>
   <string name="music_dirac_mode_earbuds">Xiaomi slúchadlá</string>
   <string name="music_dirac_mode_general">Obyčajné</string>
   <string name="music_dirac_mode_general_earbuds">Bežné slúchadlá</string>
   <string name="music_dirac_mode_general_inear">Bežné špunty</string>
   <string name="music_dirac_mode_in_ear">Xiaomi špunty</string>
+  <string name="music_dirac_mode_off">Dirac vypnutý</string>
+  <string name="music_dirac_mode_piston_1">Xiaomi Piston-1</string>
   <string name="music_dirac_mode_piston_100">Xiaomi Pistons</string>
   <string name="music_dirac_mode_piston_2">Xiaomi Piston-2</string>
+  <string name="music_dirac_mode_piston_basic">Základné</string>
   <string name="music_dirac_mode_piston_youth">Xiaomi Piston-1</string>
   <string name="music_headphone_settings">Typ slúchadiel</string>
   <string name="music_headset_button_settings">Nastavenie tlačidiel</string>
@@ -1417,6 +1424,7 @@ Vyberte váš operačný systém:"</string>
   <string name="mvno_match_data">Hodnota MVNO</string>
   <string name="mvno_type">Typ MVNO</string>
   <string name="nearby_wifi">Vyberte Wi-Fi sieť</string>
+  <string name="need_reboot_now">Pre dokončenie je nutné reštartovať zariadenie!</string>
   <string name="network_assistant">Spotreba dát</string>
   <string name="network_detail">Detail siete %s</string>
   <string name="network_error">Nastala chyba siete</string>
@@ -1998,6 +2006,7 @@ Ak chcete získať viac informácií, kontaktujte svojho správcu."</string>
   <string name="ssl_ca_cert_warning_message">"Vaša aktivita v sieti, vrátane e-mailov, aplikácií a zabezpečených webových stránok môže byť monitorovaná treťou stranou.
 
 Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom zariadení."</string>
+  <string name="stable_build">" | Stabilná"</string>
   <string name="status_awake_time">Doba mimo spánku</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
   <string name="status_bar_filter_item_description">Pre nastavenie upozornení choďte do Nastavenia &gt; Upozornenia &gt; Spravovať upozornenia</string>
@@ -2016,6 +2025,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_bar_settings_custom_notification">Spravovať upozornenia</string>
   <string name="status_bar_settings_custom_wifi_name">Upraviť názov Wi-Fi</string>
   <string name="status_bar_settings_expandable_under_keyguard">Povoliť na uzamknutej obrazovke</string>
+  <string name="status_bar_settings_long_click_sort">Dlhým podržaním presuniete</string>
   <string name="status_bar_settings_no_carrier">Žiadny</string>
   <string name="status_bar_settings_notification_bar">Roletka</string>
   <string name="status_bar_settings_show_carrier">Zobraziť názov operátora</string>
@@ -2034,6 +2044,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_bar_settings_toggle_layout_style_applying">Zmena štýlu...</string>
   <string name="status_bar_settings_toggle_layout_style_compact">Pás</string>
   <string name="status_bar_settings_toggle_layout_style_single_page">Strana</string>
+  <string name="status_bar_settings_toggle_position">Pozícia prepínačov</string>
   <string name="status_bar_style_settings">Upozornenia</string>
   <string name="status_bar_toggle_arrangement">Rozloženie prepínačov</string>
   <string name="status_bt_address">Adresa zariadení Bluetooth</string>
@@ -2480,6 +2491,9 @@ Chcete zapnúť Wi-Fi?"</string>
   <string name="wfd_settings_title">Nastavenia Wi-Fi Displej</string>
   <string name="wfd_wps_keypad">Stlačenie tlačidlá</string>
   <string name="wfd_wps_pbc">Vložiť PIN</string>
+  <string name="whetstone_level_reboot">Toto nastavenie bude použité až po reštartovaní zariadenia</string>
+  <string name="whetstone_level_reboot_OK">Reštart</string>
+  <string name="whetstone_level_title">Optimalizácia RAM</string>
   <string name="widget_picker_title">Zvoľte widget</string>
   <string name="wifi_access_points">Siete WiFi</string>
   <string name="wifi_add_network">Ostatné</string>
@@ -2791,18 +2805,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-  <string name="need_reboot_now">Pre dokončenie je nutné reštartovať zariadenie!</string>
-  <string name="music_HiFi_title">Hi-Fi audio</string>
-  <string name="whetstone_level_reboot">Toto nastavenie bude použité až po reštartovaní zariadenia</string>
-  <string name="whetstone_level_reboot_OK">Reštart</string>
-  <string name="whetstone_level_title">Optimalizácia RAM</string>
-  <string name="status_bar_settings_long_click_sort">Dlhým podržaním presuniete</string>
-  <string name="status_bar_settings_toggle_position">Pozícia prepínačov</string>
-  <string name="alpha_build">" | Alpha"</string>
-  <string name="developer_build">" | Týždenná"</string>
-  <string name="stable_build">" | Stabilná"</string>
-  <string name="music_dirac_control">Vylepšiť kvalitu zvuku</string>
-  <string name="music_dirac_mode_off">Dirac vypnutý</string>
-  <string name="music_dirac_mode_piston_1">Xiaomi Piston-1</string>
-  <string name="music_dirac_mode_piston_basic">Základné</string>
 </resources>

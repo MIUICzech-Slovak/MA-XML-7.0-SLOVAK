@@ -273,7 +273,9 @@
   <string name="mx_online">Online</string>
   <string name="mx_reactivate">Znova aktivovať Cloud správy</string>
   <string name="mx_recommend_msg">Povoľte Cloud Správy pre zasielanie správ zdarma</string>
+  <string name="mx_type_guide">Cloudové správy umožnujú MIUI odosielať zdarma SMS cez Wi-Fi alebo mobilné dáta</string>
   <string name="mx_warning_notice">SMS bude odoslaná pre aktiváciu Cloud správ. Budú sa účtovať poplatky za prenesené dáta</string>
+  <string name="my_bookmark">Záložky</string>
   <string name="need_download">Čakanie na synchronizáciu...</string>
   <string name="new_message">Nová správa</string>
   <string name="new_message_arrived">Prišla nová správa</string>
@@ -523,6 +525,4 @@ Pokus: %s."</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="my_bookmark">Záložky</string>
-  <string name="mx_type_guide">Cloudové správy umožnujú MIUI odosielať zdarma SMS cez Wi-Fi alebo mobilné dáta</string>
 </resources>

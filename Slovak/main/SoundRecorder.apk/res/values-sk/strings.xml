@@ -24,6 +24,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="duration_format_second">%ss</string>
   <string name="error_app_internal">Vnútorná chyba aplikácie</string>
   <string name="error_app_internal_title">Chyba záznamníka</string>
+  <string name="error_file_access">Súbor neexistuje alebo je poškodený</string>
   <string name="error_filename_illegal_char">Názov súboru obsahuje nepovolené znaky.</string>
   <string name="error_filename_too_long">Názov súboru je príliš dlhý</string>
   <string name="error_sdcard_access">SD karta nie je dostupná</string>
@@ -37,6 +38,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="menu_settings">Nastavenie</string>
   <string name="message_file_size_error">Nahrávka dosiahla maximálnu dľžku nahrávania podporovanú pre %s</string>
   <string name="minute">%d minút</string>
+  <string name="no_downloading_file">Žiaden sťahovaný súbor</string>
   <string name="no_file">Žiadne nahrávky</string>
   <string name="notification_message_all_paused">Môže zvýšiť spotrebu mobilných dát.</string>
   <string name="notification_playback">Prehrávanie...</string>
@@ -109,6 +111,4 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="no_downloading_file">Žiaden sťahovaný súbor</string>
-  <string name="error_file_access">Súbor neexistuje alebo je poškodený</string>
 </resources>

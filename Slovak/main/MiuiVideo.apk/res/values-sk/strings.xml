@@ -39,6 +39,7 @@
   <string name="buffering">Ukladanie do vyrovnávacej pamäte...</string>
   <string name="buffering_video_netplay_label_v5">Ukladanie do vyrovnávacej pamäte...</string>
   <string name="cancel">Zrušiť</string>
+  <string name="cancel_button">Zrušiť</string>
   <string name="cancel_favorite_success">Odznačené</string>
   <string name="channel_choice_empty_hint">Žiadne videá</string>
   <string name="channel_empty_hint">Prázdne</string>
@@ -129,6 +130,8 @@
   <string name="gong_count_xiang">"Položky: %d "</string>
   <string name="good">OK</string>
   <string name="guess_you_like">Odporúčame vám</string>
+  <string name="hint_can_not_get_source_info">Nie je možné získať informácie o videu</string>
+  <string name="hint_without_selected_set">Vyhľadať zdroj automaticky</string>
   <string name="hot_recommend">Hity</string>
   <string name="icntv">iCNTV</string>
   <string name="imports">Import</string>
@@ -182,6 +185,7 @@
   <string name="ok">OK</string>
   <string name="online_video">Online</string>
   <string name="other_setting">Ostatné</string>
+  <string name="partner_specials">Partnerský obsah</string>
   <string name="pause">Zastaviť</string>
   <string name="percent_status">%.1f%%</string>
   <string name="pick_addon_to_delete">vyberte položky</string>
@@ -189,7 +193,7 @@
   <string name="play_count_ci">%d prehrané</string>
   <string name="play_his_empty_hint">Žiadna história</string>
   <string name="play_history">Naposledy prehrávané</string>
-   <string name="positive_comment">Dobre komentáre</string>
+  <string name="positive_comment">Dobre komentáre</string>
   <string name="prefix_countdown">Reklama:</string>
   <string name="priority_storage">Ukladať na externú SD kartru</string>
   <string name="priority_storage_summary">Automaticky ukladať na externú SD kartu</string>
@@ -214,6 +218,7 @@
   <string name="see_all_count_comment">%d ďalších komentárov</string>
   <string name="select_all">Vybrať všetko</string>
   <string name="select_count_xiang">Vybraných: %d</string>
+  <string name="select_media_source">Vyberte zdroj</string>
   <string name="select_none">Odznačiť všetko</string>
   <string name="select_offline_media">Vyberte offline mádia cache</string>
   <string name="select_tv">Vyberte kanál</string>
@@ -246,11 +251,18 @@
   <string name="unfavorite">Odznačiť</string>
   <string name="unknown_source">Neznámy zdroj</string>
   <string name="update">Aktualizovaná</string>
+  <string name="update_apk_statusbar">Sťahovanie...</string>
+  <string name="update_button">Aktualizovať</string>
+  <string name="update_size_prefix">Veľkosť:</string>
+  <string name="update_title">Dostupná aktualizácia</string>
   <string name="update_to_count_ji">Aktualizované na Ep. %d</string>
+  <string name="update_version_prefix">Verzia:</string>
   <string name="updatedalready">Aktualizované</string>
   <string name="upgrade">Aktualizovať</string>
   <string name="use_cellular_network">Použiť mobilnú sieť</string>
   <string name="use_cellular_network_summary">Použiť mobilnú sieť pre sťahovanie videa</string>
+  <string name="use_cellular_offlinedownload_summary">Použiť mobilné pripojenie na prehrávanie online videí</string>
+  <string name="use_cellular_offlinedownload_title">Použiť mobilné pripojenie</string>
   <string name="use_cellular_play_summary">Zobraziť upozornenie na využívanie mobilných dát</string>
   <string name="use_cellular_play_title">Upozorniť na mobilné pripojenie</string>
   <string name="userdata_alert_content">Používate mobilný internet a prehrávanie videí môže spotrebovať väčšie množstvo dát. Chcete pokračovať?</string>
@@ -323,16 +335,4 @@
   <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
   <string name="xiaomi_user">Xiaomi užívateľ</string>
   <string name="yesterday">"Včera "</string>
-  <string name="use_cellular_offlinedownload_summary">Použiť mobilné pripojenie na prehrávanie online videí</string>
-  <string name="use_cellular_offlinedownload_title">Použiť mobilné pripojenie</string>
-  <string name="cancel_button">Zrušiť</string>
-  <string name="hint_can_not_get_source_info">Nie je možné získať informácie o videu</string>
-  <string name="hint_without_selected_set">Vyhľadať zdroj automaticky</string>
-  <string name="partner_specials">Partnerský obsah</string>
-  <string name="select_media_source">Vyberte zdroj</string>
-  <string name="update_apk_statusbar">Sťahovanie...</string>
-  <string name="update_button">Aktualizovať</string>
-  <string name="update_size_prefix">Veľkosť:</string>
-  <string name="update_title">Dostupná aktualizácia</string>
-  <string name="update_version_prefix">Verzia:</string>
 </resources>

@@ -18,6 +18,7 @@
   <string name="AD_TITLE_COUNT">Aplikácií s adware: %d</string>
   <string name="AD_TITLE_NON_COUNT">Žiaden adware sa nenašiel</string>
   <string name="AD_Unistall">Odinštalovať</string>
+  <string name="APKTOOL_DUMMY_0130">false</string>
   <string name="Call_ADRESS">Hovory z regiónu</string>
   <string name="Call_BLACKLIST">Blokované Hovory</string>
   <string name="Call_DEFAULT">Inteligentné blokovanie</string>
@@ -60,8 +61,12 @@
   <string name="blacklist_prefix_add_hint">Pridať všetky čísla s predvoľbou do Čiernej listiny</string>
   <string name="block_message_number">SMS: %d</string>
   <string name="block_phone_number">Hovory: %d</string>
+  <string name="button_text_delete">Vymazať</string>
   <string name="button_to_setting">Nastavenia</string>
   <string name="call_delete_hint">Vymazať všetky blokované hovory z vybraného čísla?</string>
+  <string name="call_transfer_block">Blokovať presmerované hovory</string>
+  <string name="call_transfer_block_type">Blokovať presmerované hovory</string>
+  <string name="call_transfer_info">Blokovať hovory presmerované z neznámych čísel</string>
   <string name="cancle">Zrušiť</string>
   <string name="close_callwait">Zakázať</string>
   <string name="customizer_mode_user_define_name">Vlastné</string>
@@ -124,6 +129,8 @@
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Predajca</string>
   <string name="mark_agent_block">Označené ako predajca</string>
+  <string name="mark_banking_insurance">Predaj poistiek</string>
+  <string name="mark_banking_insurance_block">Nahlásiť ako Predaj poistiek</string>
   <string name="mark_express">Kuriér</string>
   <string name="mark_express_block">Označené ako kuriér</string>
   <string name="mark_fraud">Podvodník</string>
@@ -165,8 +172,15 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="note_sms_none">Prázdne</string>
   <string name="one_address_choose_hint">%s 1 región</string>
   <string name="open_callwait">Povoliť</string>
+  <string name="read_all_sms">Označiť ako prečítané</string>
+  <string name="report_error">Nie je možné nahlásiť</string>
+  <string name="report_error_not_net">Nie je možné sa pripojiť k sieti</string>
+  <string name="report_only">Vyberte správu pre nahlásenie</string>
+  <string name="report_sms">Nahlásiť správy</string>
+  <string name="report_success">Správa nahlásená</string>
   <string name="sim_not_ready">SIM karta nie je pripravená</string>
   <string name="sms_delete_hint">Vymazať všetky blokované SMS z vybraného čísla?</string>
+  <string name="special_number_group">Blokovať špeciálne čísla</string>
   <string name="st_advanced_setting_group">Rozšírené</string>
   <string name="st_antispam_black_adress_add">Blokovaný región (Iba Čína)</string>
   <string name="st_antispam_bw_adress_add">Povolený región (Iba Čína)</string>
@@ -265,6 +279,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="st_title_mode_choose_group">Výber režimu blokovania</string>
   <string name="st_title_not_sim">Prázdne</string>
   <string name="st_title_open_antispam">AntiSpam</string>
+  <string name="st_title_other_group">Ostatné</string>
   <string name="st_title_settings_other_group">Ostatné nastavenia</string>
   <string name="st_title_show_antispamnotification">Zobraziť upozornenie</string>
   <string name="st_title_sim_card">%1$sSIM %2$s</string>
@@ -283,19 +298,4 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
-  <string name="button_text_delete">Vymazať</string>
-  <string name="read_all_sms">Označiť ako prečítané</string>
-  <string name="call_transfer_block">Blokovať presmerované hovory</string>
-  <string name="call_transfer_block_type">Blokovať presmerované hovory</string>
-  <string name="call_transfer_info">Blokovať hovory presmerované z neznámych čísel</string>
-  <string name="mark_banking_insurance">Predaj poistiek</string>
-  <string name="mark_banking_insurance_block">Nahlásiť ako Predaj poistiek</string>
-  <string name="report_error">Nie je možné nahlásiť</string>
-  <string name="report_error_not_net">Nie je možné sa pripojiť k sieti</string>
-  <string name="report_only">Vyberte správu pre nahlásenie</string>
-  <string name="report_sms">Nahlásiť správy</string>
-  <string name="report_success">Správa nahlásená</string>
-  <string name="special_number_group">Blokovať špeciálne čísla</string>
-  <string name="st_title_other_group">Ostatné</string>
-  <string name="APKTOOL_DUMMY_0130">false</string>
 </resources>

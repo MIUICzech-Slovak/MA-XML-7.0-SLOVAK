@@ -142,6 +142,8 @@
   <string name="organization">Organizácia</string>
   <string name="perm_payment_dspt">Povoliť aplikácií platiť cez Xiaomi platby</string>
   <string name="perm_payment_lab">Xiaomi platby</string>
+  <string name="permdesc_sendSmsNoConfirmation">Povolí aplikácií odoslať SMS. Vaše mesačné poplatky sa môžu výrazne navýšiť ak podvodné aplikácie budú odosielať SMS bez vášho vedomia.</string>
+  <string name="permlab_sendSmsNoConfirmation">odoslať SMS bez potvrdenia</string>
   <string name="phone">Telefón</string>
   <string name="pm">PM</string>
   <string name="privacy_policy">Súkromie</string>
@@ -253,6 +255,4 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
-  <string name="permdesc_sendSmsNoConfirmation">Povolí aplikácií odoslať SMS. Vaše mesačné poplatky sa môžu výrazne navýšiť ak podvodné aplikácie budú odosielať SMS bez vášho vedomia.</string>
-  <string name="permlab_sendSmsNoConfirmation">odoslať SMS bez potvrdenia</string>
 </resources>

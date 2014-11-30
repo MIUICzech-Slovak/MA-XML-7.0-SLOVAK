@@ -23,6 +23,9 @@
   <string name="action_key_play_prev">Predchádzajúce</string>
   <string name="action_key_power">Zapínanie</string>
   <string name="action_key_power_long">Zapínanie (Dlhé stlačenie)</string>
+  <string name="action_key_vol">Tlačidlo hlasitosti</string>
+  <string name="action_key_vol_down">Hlasitosť nadol</string>
+  <string name="action_key_vol_up">Hlasitosť nahor</string>
   <string name="action_kuaidi">Rýchle taxi</string>
   <string name="action_lock_screen">Zamknúť</string>
   <string name="action_open_camera">Fotoaparát</string>
@@ -142,6 +145,7 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="key_direction_left">Vľavo</string>
   <string name="key_direction_right">Vpravo</string>
   <string name="key_direction_up">Nahor</string>
+  <string name="know_it">OK</string>
   <string name="long_click">Dlhé stlačenie</string>
   <string name="message_photo_end">Fotografia uložená</string>
   <string name="name">Meno:</string>
@@ -166,12 +170,16 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Skenovanie zlyhalo</string>
   <string name="scan_result">Informácie</string>
+  <string name="screenshot_crop">Orezaný</string>
+  <string name="screenshot_full">Fullscreen</string>
+  <string name="scrennshot_select_title">Vyberte režim Screenshotu</string>
   <string name="sdcard">sdcard</string>
   <string name="select_baidusearch">Baidu vyhľadávanie</string>
   <string name="select_baiduvoicesearch">Baidu hlasové vyhľadávanie</string>
   <string name="select_camera">Vyberte fotoaparát</string>
   <string name="select_device">Čo ste pripojili?</string>
   <string name="select_direction">Smery</string>
+  <string name="select_vol">Zvoľte tlačidlo hlasitosti</string>
   <string name="setting_buy">Kúpiť MiKey</string>
   <string name="setting_feedback">Spätná väzba</string>
   <string name="setting_instant_photo_desc">Pred zhotovením fotografie, fotoaparát zaostrí</string>
@@ -221,6 +229,8 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="test_user_entry">Test</string>
   <string name="times">krát</string>
   <string name="title">Titul:</string>
+  <string name="toast_audio_record_start">Spustiť nahrávanie</string>
+  <string name="toast_audio_record_stop">Zastaviť nahrávanie</string>
   <string name="toast_close">Ukončené</string>
   <string name="toast_open">Spustené</string>
   <string name="toggle_bluetooth">Bluetooth</string>
@@ -238,10 +248,6 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="unsupport_title">Táto funkcia nie je podporovaná</string>
   <string name="update_message">Aktualizácia!</string>
   <string name="vcard_prompt">Nie je možné pridať kontakt, pretože chýba meno</string>
-  <string name="web">Web:</string>
-  <string name="write_pic_fail">Chyba uloženia fotografie!</string>
-  <string name="toast_audio_record_start">Spustiť nahrávanie</string>
-  <string name="toast_audio_record_stop">Zastaviť nahrávanie</string>
   <string name="wallpaper_action">Zmeniť Tapetu</string>
   <string name="wallpaper_change_both">Plocha + Zámok</string>
   <string name="wallpaper_change_desktop">Tapeta plochy</string>
@@ -251,12 +257,6 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="wallpaper_change_ok">Tapeta zmenená</string>
   <string name="wallpaper_changing">Zmena tapety...</string>
   <string name="wallpaper_no_more">Nemeniť tapetu</string>
-  <string name="select_vol">Zvoľte tlačidlo hlasitosti</string>
-  <string name="action_key_vol">Tlačidlo hlasitosti</string>
-  <string name="action_key_vol_down">Hlasitosť nadol</string>
-  <string name="action_key_vol_up">Hlasitosť nahor</string>
-  <string name="know_it">OK</string>
-  <string name="screenshot_crop">Orezaný</string>
-  <string name="screenshot_full">Fullscreen</string>
-  <string name="scrennshot_select_title">Vyberte režim Screenshotu</string>
+  <string name="web">Web:</string>
+  <string name="write_pic_fail">Chyba uloženia fotografie!</string>
 </resources>

@@ -53,6 +53,8 @@
   <string name="frequency_out_of_range">(%1$s~%2$s) Frekvencia je mimo povolený rozsah</string>
   <string name="frequency_should_not_null">Frekvencia musí byť zadaná</string>
   <string name="frequency_string"/>
+  <string name="group_favor">Predvoľby</string>
+  <string name="group_other">Ostatné</string>
   <string name="hint_frequency">Frekvencia: %1$s ~ %2$s</string>
   <string name="hint_label">Názov</string>
   <string name="hint_station_name">Vložte názov stanice</string>
@@ -160,6 +162,4 @@
   <string name="txt_sleep_mode">Spánok</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobraziť zoznam staníc</string>
-  <string name="group_favor">Predvoľby</string>
-  <string name="group_other">Ostatné</string>
 </resources>

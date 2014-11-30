@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-  <string name="action_settings">Nastavenia</string>
   <string name="ac_gree">"Gree A/C"</string>
+  <string name="action_settings">Nastavenia</string>
   <string name="add">Pridať</string>
   <string name="add_control">Párovať</string>
   <string name="add_device">Párovať nové zariadenie</string>
@@ -54,11 +54,11 @@
   <string name="confirm">Povoliť</string>
   <string name="connected">Pripojené</string>
   <string name="continue_to_add_other_rc">Pridať ďalšie zariadenie</string>
-  <string name="di"/>
   <string name="control_vol_by_cellphone">Použiť zariadenie na ovládanie hlasitosti</string>
   <string name="delete">Vymazať</string>
   <string name="delete_confirm">Odpojiť zariadenie?</string>
   <string name="delete_desc">Nebude možné ovládať “%s” pomocou Xiaomi zariania.</string>
+  <string name="di"/>
   <string name="download_times">Stiahnuté: %1$d</string>
   <string name="dpad_down">Nadol</string>
   <string name="dpad_left">Vľavo</string>

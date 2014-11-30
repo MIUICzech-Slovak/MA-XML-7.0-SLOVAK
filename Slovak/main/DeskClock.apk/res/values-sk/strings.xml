@@ -49,6 +49,7 @@
   <string name="delete_timezone_title">Vymazať časovú zónu</string>
   <string name="dialog_confirm_abort">Naozaj chcete zrušiť vaše zmeny?</string>
   <string name="done">Hotovo</string>
+  <string name="edit_systemtime">Upraviť nastavenie času</string>
   <string name="elapsed_time_format">(+%s)</string>
   <string name="every_day">Každý deň</string>
   <string name="full_wday_month_day_no_year">EEEE, d.MMMM</string>
@@ -115,5 +116,4 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="edit_systemtime">Upraviť nastavenie času</string>
 </resources>

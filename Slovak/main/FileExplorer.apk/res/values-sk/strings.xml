@@ -101,6 +101,7 @@
   <string name="file_too_large">Súbor je príliš veľký</string>
   <string name="finished">Dokončené</string>
   <string name="folder_exist">Zložka už existuje</string>
+  <string name="folder_name_illegal">Chybný názov zložky</string>
   <string name="forward_to_web_recycle_prompt">&lt;a href=\"%1$s\"&gt;Stlačte tu&lt;/a&gt;pre otvorenie koša v Cloude</string>
   <string name="ftp_account_req_notice">Užívateľské meno a heslo, 4~16 znakov, obsahovať čísla, písmena...</string>
   <string name="ftp_anonymous_login">Anonymné FTP</string>
@@ -321,5 +322,4 @@ Získali ste ďalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
-  <string name="folder_name_illegal">Chybný názov zložky</string>
 </resources>

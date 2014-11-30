@@ -982,6 +982,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="set_default">Nastaviť predvolené</string>
   <string name="set_photo_failed_msg">Nastavenie avatara zlyhalo</string>
   <string name="share_error">Tento kontakt nemôže byť zdieľaný.</string>
+  <string name="share_over_limit">Nad limit, nemôže byť zdieľané</string>
   <string name="share_via">Zdieľať cez</string>
   <string name="share_visible_contacts">Zdielať kontakty</string>
   <string name="shortcutActivityTitle">Výber skratky kontaktu</string>
@@ -1154,5 +1155,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="share_over_limit">Nad limit, nemôže byť zdieľané</string>
 </resources>

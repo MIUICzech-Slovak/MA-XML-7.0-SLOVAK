@@ -2,6 +2,7 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth zariadenie je príliš ďaleko.</string>
+  <string name="confirm_pin_msg">Zadajte PIN znova</string>
   <string name="contact_carrier_message">Ak máte ďalšie otázky, opýtajte sa vášho operátora.</string>
   <string name="default_lockscreen_unlock_hint_text">Potiahnite nahor</string>
   <string name="delete">Vymazať</string>
@@ -28,6 +29,7 @@ Deaktivujte režim Lietadlo."</string>
   <string name="input_pin_code_to_unlock">Zadajte PIN pre odomknutie</string>
   <string name="input_puk_code">Zadajte PUK</string>
   <string name="input_puk_code_to_unlock">Zadajte PUK kód pre odblokovanie zariadenia</string>
+  <string name="invalid_confirm_pin_hint">PIN kód nesúhlasí</string>
   <string name="keyguard_torch_cover_text">Pre dlhšie svietenie stlačte tlačidlo zapínania.</string>
   <string name="lock_screen_date">EE, dd.MM.yyyy</string>
   <string name="lockscreen_access_pattern_cell_added">Bunka bola pridaná</string>
@@ -80,6 +82,4 @@ Deaktivujte režim Lietadlo."</string>
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
-  <string name="confirm_pin_msg">Zadajte PIN znova</string>
-  <string name="invalid_confirm_pin_hint">PIN kód nesúhlasí</string>
 </resources>
