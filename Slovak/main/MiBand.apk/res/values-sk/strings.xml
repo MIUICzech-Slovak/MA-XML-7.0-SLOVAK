@@ -66,7 +66,7 @@ then tap Follow to complete sync."</string>
   <string name="bracelet_info_battery">%s%%</string>
   <string name="bracelet_info_deviceid">%s</string>
   <string name="bracelet_info_fw_version">"Firmware: %1$s 
-Súhlas: %2$s"</string>
+Podmienky používania: %2$s"</string>
   <string name="bracelet_info_mac_address">"Názov: %1$s  
 Adresa: %2$s"</string>
   <string name="bracelet_login_info">Prihláste sa svojim Xiaomi účtom</string>
@@ -431,7 +431,8 @@ Zaspal som o %3$s, prebudil sa o %4$s."</string>
   <string name="set_mili_name_ok">MiBand premenovaný</string>
   <string name="set_person_goal">Nastavenie cieľa</string>
   <string name="set_sport_goal">Nastaviť ciele</string>
-  <string name="setting_about_app">Verzia apl.: Preklad: miuios.cz/miband</string>
+  <string name="setting_about_app">"Verzia apl.: 
+Preklad: miuios.cz/miband"</string>
   <string name="setting_about_fw">Verzia Firmware</string>
   <string name="setting_feedback_address">Podrobnosti kontaktu (E-mail, číslo QQ)</string>
   <string name="setting_feedback_hint">Ďakujeme za váš názor</string>
@@ -661,4 +662,35 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="your_gender">Vaše pohlavie</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
+  <string name="bind_devices">Bind Devices</string>
+  <string name="bind_mi_band">Bind Mi Band</string>
+  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.miuios.cz/miband&amp;gt;Web MiBand&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="lab_factory_cancel_deauthorize">Odpárovať</string>
+  <string name="lab_factory_item_group_open">OTVORENÉ</string>
+  <string name="read_useragreement">Súhlasím s Podmienkami používania.</string>
+  <string name="share_to_topic_for_event">\#MiBand 10000 krokov za deň#</string>
+  <string name="sport_running_distance_desc">km</string>
+  <string name="sport_running_history_date" formatted="false">%d.%d.%d</string>
+  <string name="sport_running_pause">Zastaviť</string>
+  <string name="sport_running_prompt_come_on">Go!!</string>
+  <string name="sport_running_prompt_great">Výborne!!</string>
+  <string name="sport_running_prompt_per_kilometer" formatted="false">Zabehli ste %skm. Spálili ste %s. Tempo je %s.%s</string>
+  <string name="sport_running_real_time_pace">Aktuálne tempo</string>
+  <string name="sport_running_resume">Pokračovať</string>
+  <string name="sport_running_stop">Zastaviť</string>
+  <string name="state_authorization_error">Chyba autorizácie!</string>
+  <string name="state_authorization_success">Autorizované!</string>
+  <string name="state_deauthorization_error">Zrušenie autorizácie zlyhalo!</string>
+  <string name="state_deauthorization_success">Zrušená autorizácia!</string>
+  <string name="title_activity_open">Stránka partnerov</string>
+  <string name="unlock_for_smartlock_pair_fail_tip">Chyba, skúste to znova...</string>
+  <string name="unlock_for_smartlock_pair_start_tip">Párovanie...</string>
+  <string name="unlock_for_smartlock_pair_success_tip">Pripojené cez Smart Lock</string>
+  <string name="unlock_for_smartlock_tip">Aplikácia MiBand musí byť spustená na pozadí</string>
+  <string name="unlock_for_smartlock_tip_step1">1. krok: Choďte do Nastavenia - Bezpečnosť</string>
+  <string name="unlock_for_smartlock_tip_step2">2. krok: Nastavte spôsob uzamykania na PIN, Gesto alebo Heslo</string>
+  <string name="unlock_for_smartlock_tip_step3">3. krok: Vyberte Smart Lock - odomykanie pomocou MiBand</string>
+  <string name="user_agreement_ux">Prihláste sa do UX Improvement Program</string>
+  <string name="weight_test_dynamic_detail">Váha: %1$s%2$s</string>
+  <string name="weight_test_dynamic_title">%1$s</string>
 </resources>
