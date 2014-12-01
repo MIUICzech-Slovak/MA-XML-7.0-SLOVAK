@@ -75,7 +75,7 @@ Adresa: %2$s"</string>
   <string name="bracelet_not_connected_bat_unknown">MiBand nie je pripojený.</string>
   <string name="bracelet_not_found_info">Keď bliká LED, skúste ho vyhľadať znova.</string>
   <string name="bracelet_not_found_title">MiBand sa nenašiel</string>
-  <string name="bracelet_store_desc">Zakúpiť MiBand</string>
+  <string name="bracelet_store_desc">Preklad MiBand</string>
   <string name="bt_operation_failed_tips">Chyba Bluetooth, skúste to znova</string>
   <string name="buy_bracelet_desc">Len v Číne.</string>
   <string name="cal">kcal</string>
