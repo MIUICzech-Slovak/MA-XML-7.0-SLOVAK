@@ -249,4 +249,10 @@ Túto službu môžte aktivovať alebo zakázať v Nastaveniach.
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="micloud_check_sim_notify_text">"Zrejme bola zmenená SIM karta. Prihláste sa
+do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
+  <string name="micloud_check_sim_notify_title">Znova aktivovať MiCloud</string>
+  <string name="micloud_check_sim_title">"Zrejme bola zmenená SIM karta. Prihláste sa
+do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
+  <string name="micloud_main_sync_exception">Chyba synchr.</string>
 </resources>

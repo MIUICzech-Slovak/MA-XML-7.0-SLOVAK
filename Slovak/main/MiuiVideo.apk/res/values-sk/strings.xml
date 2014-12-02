@@ -335,4 +335,6 @@
   <string name="xiaomi_account_type_unsupported">"Systém nepodporuje Xiaomi účet."</string>
   <string name="xiaomi_user">Xiaomi užívateľ</string>
   <string name="yesterday">"Včera "</string>
+  <string name="use_cellular_offlinedownload_summary">Zobraziť upozornenie pri používaní mobilného pripojenia na sťahovanie videa</string>
+  <string name="use_cellular_offlinedownload_title">Upozornenie sťahovania</string>
 </resources>

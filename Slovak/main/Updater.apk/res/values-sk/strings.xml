@@ -262,4 +262,15 @@ Svoj názor môžte odoslať každý utorok"</string>
   <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
   <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
   <string name="worst_update">Najhoršia aktualizácia</string>
+  <string name="auto_agree_clause">"Naše Podmienky ochrany súkromia boli aktualizované. "</string>
+  <string name="auto_button_examine">Zobraziť</string>
+  <string name="auto_button_examine_immediately">Zobraziť</string>
+  <string name="auto_button_sure_cancel">Zrušiť</string>
+  <string name="auto_check_clause_button">Zobraziť</string>
+  <string name="auto_check_clause_msg">"Musíte súhlasiť s našimi novými Podmienkami o ochrane súkromia pred aplikovaním aktualizácie. "</string>
+  <string name="auto_dialog_msg">"Aktualizovali sme naše Podmienky o ochrane súkromia. Prečítajte si ich pozorne pred aktualizáciou systému. "</string>
+  <string name="auto_dialog_msg_check_again">"Musíte súhlasiť s našimi novými Podmienkami o ochrane súkromia pred aplikovaním aktualizácie. "</string>
+  <string name="auto_dialog_title_check_again">Zrušiť aktualizáciu?</string>
+  <string name="important_suggestion">Podmienky o ochrane súkromia boli zmenené</string>
+  <string name="updater_nonetwork_clause">Pripojte sa na internet pre zobrazenie nových Podmienok o ochrane súkromia</string>
 </resources>

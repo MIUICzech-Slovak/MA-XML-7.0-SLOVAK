@@ -852,4 +852,5 @@ Môže to trvať aj 5 minút."</string>
   <string name="xdivert_setting">X-Divert Setting</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="call_recording_notification_toggle_title">Upozornenie nahrávania hovorov</string>
 </resources>

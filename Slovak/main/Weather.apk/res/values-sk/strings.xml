@@ -72,4 +72,6 @@
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
+  <string name="first_start_network_msg">Pre načítanie informácií je nutné internetové pripojenie.</string>
+  <string name="first_start_network_title">Upozornenie na pripojenie</string>
 </resources>
