@@ -98,4 +98,20 @@
   <string name="wlan_unavailable_dialog_button_sent">Odoslať okamžite</string>
   <string name="wlan_unavailable_dialog_content">Odošle sa %s cez 2G/3G dáta, stlačte OK na odoslanie cez sieť Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
+  <string name="button_feedback">Iné</string>
+  <string name="button_plus">+1</string>
+  <string name="common_problem_empty">Prázdne</string>
+  <string name="err_type_hardware">Hardware</string>
+  <string name="err_type_hardware_summary">Tlačidlá, nabíjanie, senzory, atď.</string>
+  <string name="err_type_mysuggestion">Odporúčania</string>
+  <string name="err_type_mysuggestion_summary">Váš názor</string>
+  <string name="err_type_system">Systém</string>
+  <string name="err_type_system_summary">Pamäť, výkon, atď.</string>
+  <string name="err_type_xiaomi_family">Mi Family</string>
+  <string name="err_type_xiaomi_service">Služby zákazníkom</string>
+  <string name="problem_detail">Problém</string>
+  <string name="problem_solution">Riešenie</string>
+  <string name="problem_title">Poznámka</string>
+  <string name="title_common_problem">Bežné chyby</string>
+
 </resources>
