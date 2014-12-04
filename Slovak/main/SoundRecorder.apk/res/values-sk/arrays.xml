@@ -37,4 +37,9 @@
         <item>Hudba</item>
         <item>Ľudský hlas</item>
     </string-array>
+    <string-array name="x5_record_scenes_entries">
+        <item>Hudba</item>
+        <item>Ľudský hlas</item>
+        <item>Rozhovor</item>
+    </string-array>
 </resources>
