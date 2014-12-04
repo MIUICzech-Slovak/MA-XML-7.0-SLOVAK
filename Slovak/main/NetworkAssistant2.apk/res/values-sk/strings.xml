@@ -344,4 +344,10 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
 Zakúpili ste %1$s dodatočných dát tento mesiac. Manuálne ste zadali %2$s."</string>
   <string name="traffic_config_alert_body_extra_notset">"
 Zakúpili ste %1$s dodatočných dát tento mesiac."</string>
+  <string name="privacy_prompt_purchase_history_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre získanie histórie o navýšení.</string>
+  <string name="privacy_prompt_tc_sms_report_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre aktualizáciu vašej spotreby dát.</string>
+  <string name="privacy_prompt_traffic_adjust_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre aktualizáciu vzoru SMS správy a kontrolu či je táto funkcia podporovaná vaším operátorom.</string>
+  <string name="privacy_prompt_traffic_purchase_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre kontrolu možností navýšenia objemu spotreby dát.</string>
+  <string name="privacy_prompt_upload">Bezpečnostné upozornenie</string>
+  <string name="tc_sms_report_get_default">Odoslaná SMS správa nebude spoplatnená.</string>
 </resources>
