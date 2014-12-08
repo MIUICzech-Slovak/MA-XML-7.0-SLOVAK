@@ -518,7 +518,7 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="sport_running_end_time">Koniec</string>
   <string name="sport_running_gps_cancel">Zrušiť</string>
   <string name="sport_running_gps_turnon">Zapnúť</string>
-  <string name="sport_running_helper">Tréner behania</string>
+  <string name="sport_running_helper">Behanie</string>
   <string name="sport_running_helper_test">Test behania</string>
   <string name="sport_running_history">História</string>
   <string name="sport_running_history_no_data">N/A</string>
@@ -662,7 +662,7 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="your_gender">Vaše pohlavie</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
-  <string name="bind_devices">Bind Devices</string>
+  <string name="bind_devices">Prepojiť zariadenia</string>
   <string name="bind_mi_band">Bind Mi Band</string>
   <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.miuios.cz/miband&amp;gt;Web MiBand&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
   <string name="lab_factory_cancel_deauthorize">Odpárovať</string>
@@ -675,7 +675,7 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="sport_running_prompt_come_on">Go!!</string>
   <string name="sport_running_prompt_great">Výborne!!</string>
   <string name="sport_running_prompt_per_kilometer" formatted="false">Zabehli ste %skm. Spálili ste %s. Tempo je %s.%s</string>
-  <string name="sport_running_real_time_pace">Aktuálne tempo</string>
+  <string name="sport_running_real_time_pace">Tempo (m/km)</string>
   <string name="sport_running_resume">Pokračovať</string>
   <string name="sport_running_stop">Zastaviť</string>
   <string name="state_authorization_error">Chyba autorizácie!</string>
@@ -693,4 +693,12 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="user_agreement_ux">Prihláste sa do UX Improvement Program</string>
   <string name="weight_test_dynamic_detail">Váha: %1$s%2$s</string>
   <string name="weight_test_dynamic_title">%1$s</string>
+  <string name="disable_hidden_feature">Skrytá aktivita deaktivovaná</string>
+  <string name="dynamic_title_weight">Váha</string>
+  <string name="enable_hidden_feature">Skrytá aktivita aktivovaná</string>
+  <string name="sport_running_kilometers">km</string>
+  <string name="sport_running_kilometers_per_hour">km/h</string>
+  <string name="sport_running_per_kilometers">/km</string>
+  <string name="sport_running_speed_with_unit">Rýchlosť (km/h)</string>
+  <string name="unit_sec_short">s</string>
 </resources>
