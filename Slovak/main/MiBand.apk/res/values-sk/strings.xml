@@ -658,7 +658,7 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="welcom_back">Vitajte späť</string>
   <string name="welcome">Vitajte</string>
   <string name="wrong_system_time">Váš systémový čas nie je správny a ovplyvní to fungovanie MiBand.</string>
-  <string name="year">Rok</string>
+  <string name="year"/>
   <string name="your_gender">Vaše pohlavie</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
