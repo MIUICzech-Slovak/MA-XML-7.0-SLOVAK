@@ -273,4 +273,6 @@ Svoj názor môžte odoslať každý utorok"</string>
   <string name="auto_dialog_title_check_again">Zrušiť aktualizáciu?</string>
   <string name="important_suggestion">Podmienky o ochrane súkromia boli zmenené</string>
   <string name="updater_nonetwork_clause">Pripojte sa na internet pre zobrazenie nových Podmienok o ochrane súkromia</string>
+  <string name="notification_reboot_summary_hm">Reštartovať zariadenie.</string>
+  <string name="notification_reboot_title_hm">Reštartujte pre aktualizáciu</string>
 </resources>

@@ -147,7 +147,7 @@
   <string name="toast_fm_recorder_internal_error">Chyba nahrávania FM.</string>
   <string name="toast_fm_recorder_storage_full">Úložisko je plné, nie je možné nahrávať</string>
   <string name="toast_fm_seeking">Vyhľadávanie staníc...</string>
-  <string name="toast_fm_starting">Spúšťa sa FM，čakajte prosím...</string>
+  <string name="toast_fm_starting">Spúšťa sa FM, čakajte prosím...</string>
   <string name="toast_fm_stoping">Ukončuje sa FM, čakajte prosím...</string>
   <string name="toast_removed_from_presets">Odobrané</string>
   <string name="toast_save_station">%s MHz uložené</string>
@@ -162,4 +162,5 @@
   <string name="txt_sleep_mode">Spánok</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobraziť zoznam staníc</string>
+  <string name="alert_frequency_duplicate">Táto frekvencia už existuje</string>
 </resources>
