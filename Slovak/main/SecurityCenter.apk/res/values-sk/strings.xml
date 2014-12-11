@@ -680,23 +680,4 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
-  <string name="auto_clean_switch_off">未开启</string>
-  <string name="auto_clean_switch_on">已开启</string>
-  <string name="clean_content_all">全部清理</string>
-  <string name="clean_content_one">仅清理%s</string>
-  <string name="clean_content_three">不包括%s</string>
-  <string name="clean_content_two">仅清理%1$s与%2$s</string>
-  <string name="clean_content_zero">全不清理</string>
-  <string name="item_title_process_mode">处理方式</string>
-  <string name="notification_summary_after_auto_cleanup">已帮您清理%s垃圾，系统将更加流畅</string>
-  <string name="pref_category_title_auto_clean_settings">自动清理设置</string>
-  <string name="pref_category_title_other_clean_settings">其他清理设置</string>
-  <string name="pref_content_cleanup_white_list_none">无</string>
-  <string name="pref_summary_auto_clean_and_alert">垃圾达到指定大小后自动清理或提醒</string>
-  <string name="pref_summary_garbage_auto_clean_content">可选择只清理部分垃圾</string>
-  <string name="pref_summary_garbage_process_mode">满足清理时机与垃圾大小后自动清理或提醒</string>
-  <string name="pref_title_auto_clean_and_alert">自动清理与提醒</string>
-  <string name="pref_title_auto_clean_content_choose">清理内容选择</string>
-  <string name="pref_title_garbage_auto_clean_content">清理内容</string>
-  <string name="pref_title_garbage_process_mode">处理方式</string>
 </resources>
