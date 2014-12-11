@@ -51,8 +51,8 @@
   <string name="apps_sort_type_item_time">Často používané</string>
   <string name="apps_sort_type_title">Zoradiť</string>
   <string name="auto_handle_title">Optimalizovať automaticky</string>
-  <string name="auto_clean_switch_off">Zakázané</string>
-  <string name="auto_clean_switch_on">Povolené</string>
+  <string name="auto_clean_switch_off">Vyp.</string>
+  <string name="auto_clean_switch_on">Zap.</string>
   <string name="back">Späť</string>
   <string name="battery_desc_apps">Využitie batérie aplikáciou</string>
   <string name="battery_desc_bluetooth">Využitie batérie technológiou Bluetooth</string>
@@ -121,9 +121,9 @@
   <string name="call_and_contact">Hovory a Kontakty</string>
   <string name="cancel">Zrušiť</string>
   <string name="clean_content_all">Všetko vyčistiť</string>
-  <string name="clean_content_one">Vyčistiť iba do %s</string>
+  <string name="clean_content_one">Vyčistiť iba %s</string>
   <string name="clean_content_three">Okrem %s</string>
-  <string name="clean_content_two">Vyčistiť iba do %1$s a %2$s</string>
+  <string name="clean_content_two">Vyčistiť iba %1$s a %2$s</string>
   <string name="clean_content_zero">Nie je potrebné čistenie</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Zrušiť</string>
@@ -552,8 +552,8 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="pref_summary_expand_cache_group">Skupiny v zozname cache budú rozbalené</string>
   <string name="pref_summary_garbage_auto_clean_content">Vyberte čo sa má vyčistiť</string>
   <string name="pref_summary_garbage_cleanup_check_size">Upozorniť ma ak nepotrebné súbory a aplikácie dosiahnu maximálnu veľkosť</string>
-  <string name="pref_summary_garbage_cleanup_check_time">Upozorniť ma keď čas dosiahne určitý interval</string>
-  <string name="pref_summary_garbage_process_mode">Upozorniť na automatické vyčistenie</string>
+  <string name="pref_summary_garbage_cleanup_check_time">Vyberte interval upozornenia na odpad</string>
+  <string name="pref_summary_garbage_process_mode">Upozornenie na automatické čistenie odpadu</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Odoslať a skontrolovať neznáme názvy súborov s online databázou</string>
   <string name="pref_title_auto_clean_and_alert">Automatické čistenie</string>
   <string name="pref_title_auto_clean_content_choose">Vyčistiť</string>
@@ -563,7 +563,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="pref_title_garbage_auto_clean_content">Obsah čistenia</string>
   <string name="pref_title_garbage_cleanup_check_size">Nastavenie veľkosti</string>
   <string name="pref_title_garbage_cleanup_check_time">Upozorniť na odpad</string>
-  <string name="pref_title_garbage_process_mode">Čistenie...</string>
+  <string name="pref_title_garbage_process_mode">Čistenie</string>
   <string name="pref_title_manual_check_cleanup_db_update">Aktualizovať</string>
   <string name="pref_title_open_optimizer_cloud_scan">Použiť online databázu</string>
   <string name="process_kernel_label">Android OS</string>
