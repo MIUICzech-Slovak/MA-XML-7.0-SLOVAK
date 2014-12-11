@@ -2805,4 +2805,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="font_size_summary1"/>
+  <string name="font_size_summary2"/>
+  <string name="title_font">Písmo</string>
+  <string name="title_font_current">Používa sa</string>
 </resources>

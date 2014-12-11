@@ -51,6 +51,8 @@
   <string name="apps_sort_type_item_time">Často používané</string>
   <string name="apps_sort_type_title">Zoradiť</string>
   <string name="auto_handle_title">Optimalizovať automaticky</string>
+  <string name="auto_clean_switch_off">Zakázané</string>
+  <string name="auto_clean_switch_on">Povolené</string>
   <string name="back">Späť</string>
   <string name="battery_desc_apps">Využitie batérie aplikáciou</string>
   <string name="battery_desc_bluetooth">Využitie batérie technológiou Bluetooth</string>
@@ -118,6 +120,11 @@
   <string name="cache_title_system_cache">Cache systému</string>
   <string name="call_and_contact">Hovory a Kontakty</string>
   <string name="cancel">Zrušiť</string>
+  <string name="clean_content_all">Všetko vyčistiť</string>
+  <string name="clean_content_one">Vyčistiť iba do %s</string>
+  <string name="clean_content_three">Okrem %s</string>
+  <string name="clean_content_two">Vyčistiť iba do %1$s a %2$s</string>
+  <string name="clean_content_zero">Nie je potrebné čistenie</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Zrušiť</string>
   <string name="cta_checkbox_title">Viac sa nepýtať</string>
@@ -275,6 +282,7 @@
   <string name="item_garbage_time_never">Nikdy</string>
   <string name="item_install_monitor">Kontrola inštalácie</string>
   <string name="item_mms">Filtrovať nežiaduce správy</string>
+  <string name="item_title_process_mode">Čistenie</string>
   <string name="item_title_garbage_size">Veľkosť nepotrebných súborov</string>
   <string name="item_title_garbage_time">Upozorniť</string>
   <string name="item_usb_debug">USB ladenie</string>
@@ -338,6 +346,7 @@
   <string name="msg_update_error_code_unknown_error">Neznáma chyba, skúste to neskôr!</string>
   <string name="never">Iba raz</string>
   <string name="notification_button_text_of_low_memory">Vyčistiť</string>
+  <string name="notification_summary_after_auto_cleanup">Je možné vyčistiť %s a zrýchliť tým váš systém</string>
   <string name="notification_summary_of_garbage_cleanup">Vaše nepotrebné súbory dosiahli %s</string>
   <string name="notification_summary_of_low_memory">Ak nie je dostatok miesta, aplikácie sa nenainštalujú</string>
   <string name="notification_title_firewall_blocked">Blokované</string>
@@ -527,24 +536,34 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="power_subtitle_lowbattery">Slabá batéria: Úspora energie</string>
   <string name="power_subtitle_ontime">Plánované prepínanie profilu výkonu: Aktívne</string>
   <string name="power_wifi">Wi‑Fi</string>
+  <string name="pref_category_title_auto_clean_settings">Automatické čistenie</string>
   <string name="pref_category_title_auto_update_cleanup_db">Nastavenie databázy čistenia</string>
   <string name="pref_category_title_cleanup_white_list">Ignorované pri čistení</string>
   <string name="pref_category_title_garbage_cleanup_check">Nastavenie čistenia</string>
   <string name="pref_category_title_module_settings">Nastavenia modulov</string>
+  <string name="pref_category_title_other_clean_settings">Viac nastavení čistenia</string>
   <string name="pref_category_title_reference_settings">Súvisiace nastavenia</string>
   <string name="pref_category_title_securitycenter_settings">Nastavenia Optimalizácie</string>
   <string name="pref_category_title_virus_lib_auto_update">Nastavenia Vírusovej databázy</string>
+  <string name="pref_content_cleanup_white_list_none">Žiadne</string>
+  <string name="pref_summary_auto_clean_and_alert">Automatické čistenie odpadu alebo upozorniť po dosiahnutí zadanej veľkosti</string>
   <string name="pref_summary_auto_update_cleanup_db">Aktualizované: %s</string>
   <string name="pref_summary_cleanup_white_list">Súbory v zozname budú ignorované pri čistení</string>
   <string name="pref_summary_expand_cache_group">Skupiny v zozname cache budú rozbalené</string>
+  <string name="pref_summary_garbage_auto_clean_content">Vyberte čo sa má vyčistiť</string>
   <string name="pref_summary_garbage_cleanup_check_size">Upozorniť ma ak nepotrebné súbory a aplikácie dosiahnu maximálnu veľkosť</string>
   <string name="pref_summary_garbage_cleanup_check_time">Upozorniť ma keď čas dosiahne určitý interval</string>
+  <string name="pref_summary_garbage_process_mode">Upozorniť na automatické vyčistenie</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Odoslať a skontrolovať neznáme názvy súborov s online databázou</string>
+  <string name="pref_title_auto_clean_and_alert">Automatické čistenie</string>
+  <string name="pref_title_auto_clean_content_choose">Vyčistiť</string>
   <string name="pref_title_auto_update_cleanup_db">Auto. aktualizácia</string>
   <string name="pref_title_cleanup_white_list">Zoznam ignorovaných</string>
   <string name="pref_title_expand_cache_group">Rozbaliť skupinu</string>
+  <string name="pref_title_garbage_auto_clean_content">Obsah čistenia</string>
   <string name="pref_title_garbage_cleanup_check_size">Nastavenie veľkosti</string>
   <string name="pref_title_garbage_cleanup_check_time">Upozorniť na odpad</string>
+  <string name="pref_title_garbage_process_mode">Čistenie...</string>
   <string name="pref_title_manual_check_cleanup_db_update">Aktualizovať</string>
   <string name="pref_title_open_optimizer_cloud_scan">Použiť online databázu</string>
   <string name="process_kernel_label">Android OS</string>
@@ -583,6 +602,8 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="summary_install_virus">Kontrolovať prítomnosť vírusov v aplikáciách pred inštaláciou</string>
   <string name="summary_miui_update">Dostupná aktualizácia pre %s.</string>
   <string name="summary_mms">Filtrovať otravné správy (predajcovia, reklama, atď.)</string>
+  <string name="summary_network_switch">Povoliť mobilné dáta pre využívanie Optimalizácie</string>
+  <string name="summary_never_flow_verify">Neopravovať objem spotreby dát</string>
   <string name="summary_optimizer">Odoslať a skontrolovať neznáme názvy súborov s online databázou</string>
   <string name="summary_permission">Chrániť moje súkromie pred aplikáciami</string>
   <string name="summary_permission_root">Vaše dáta sú vo vačšom ohrození ak aplikácie majú povolené práva ROOT.</string>
@@ -621,6 +642,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="title_miui_update_yes">MIUI je aktuálna</string>
   <string name="title_mms_no">Filter správ vypnutý</string>
   <string name="title_mms_yes">Filter správ zapnutý</string>
+  <string name="title_network_switch">Upozornenie</string>
   <string name="title_optimizer">Čistič</string>
   <string name="title_permission_no">Sledovanie povolení vypnuté</string>
   <string name="title_permission_root">Upozornenie na ROOT práva</string>
@@ -649,6 +671,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="toast_garbage_lib">Automatické aktualizácie pre Čistič povolené</string>
   <string name="toast_garbage_list_empty">Všetko vyzerá OK, nie je potrebné čistenie!</string>
   <string name="toast_network_eror">Chyba siete!</string>
+  <string name="toast_network_switch">Povolené</string>
   <string name="toast_removed_from_white_list">" odstránené z výnimiek"</string>
   <string name="toast_root_apply_accept">ROOT práva pre %s povolené</string>
   <string name="toast_root_apply_reject">ROOT práva pre %s zakázané</string>
@@ -680,4 +703,6 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="name_antivirus">"Podmienky používania Tencent"</string>
+  <string name="name_optimizer">"Podmienky používania Clean Master"</string>
 </resources>

@@ -255,4 +255,6 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_check_sim_title">"Zrejme bola zmenená SIM karta. Prihláste sa
 do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_main_sync_exception">Chyba synchr.</string>
+  <string name="phone_number_may_required_dspt_provision">"Táto služba môže vyžadovať vaše telefónne číslo. "</string>
+  <string name="phone_number_required_dspt_provision">"Táto služba vyžaduje vaše telefónne číslo. "</string>
 </resources>
