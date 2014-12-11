@@ -41,4 +41,9 @@
         <item>Zapnúť</item>
         <item>Nemeniť</item>
     </string-array>
+    <string-array name="auto_clean_time">
+        <item>Denne</item>
+        <item>Každé 3 dni</item>
+        <item>Každých 7 dní</item>
+    </string-array>
 </resources>

@@ -286,4 +286,6 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
+  <string name="can_not_create_long_event">Popis je príliš dlhý</string>
+  <string name="from_google_group_calendar">Google Kalendár</string>
 </resources>

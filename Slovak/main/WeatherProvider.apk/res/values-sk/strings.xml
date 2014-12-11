@@ -2,4 +2,5 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="app_label">Poskytovateľ počasia</string>
+  <string name="view_realtime_clear_substitution">Clear</string>
 </resources>

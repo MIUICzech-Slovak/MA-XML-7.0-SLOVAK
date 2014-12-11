@@ -74,4 +74,6 @@
   <string name="weather_unit_with_c">°C</string>
   <string name="first_start_network_msg">Pre načítanie informácií je nutné internetové pripojenie.</string>
   <string name="first_start_network_title">Upozornenie na pripojenie</string>
+  <string name="international_detail_menu_title">Podrobnosti</string>
+  <string name="view_realtime_clear_substitution">Clear</string>
 </resources>

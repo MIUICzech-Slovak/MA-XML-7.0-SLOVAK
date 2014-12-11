@@ -45,4 +45,12 @@
 
 Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa možnosti %s ."</string>
   <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>
+  <string name="privacy_notif_content">Zobraziť podrobnosti.</string>
+  <string name="privacy_notif_title">Xunlei sťahovanie je povolené</string>
+  <string name="privacy_tip_cancel">Zrušiť</string>
+  <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_title">Použiť Xunlei sťahovanie?</string>
+  <string name="task_already_exist">Úloha už existuje</string>
+
 </resources>

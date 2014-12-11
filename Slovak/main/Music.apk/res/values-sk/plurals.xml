@@ -37,4 +37,7 @@
         <item quantity="other">Skladby: %d</item>
         <item quantity="one">Skladby: 1</item>
     </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">Nové: %d</item>
+    </plurals>
 </resources>
