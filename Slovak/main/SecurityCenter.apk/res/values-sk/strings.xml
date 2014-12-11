@@ -546,7 +546,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="pref_category_title_securitycenter_settings">Nastavenia Optimalizácie</string>
   <string name="pref_category_title_virus_lib_auto_update">Nastavenia Vírusovej databázy</string>
   <string name="pref_content_cleanup_white_list_none">Žiadne</string>
-  <string name="pref_summary_auto_clean_and_alert">Automatické čistenie odpadu alebo upozorniť po dosiahnutí zadanej veľkosti</string>
+  <string name="pref_summary_auto_clean_and_alert">Automaticky vyčistiť odpad alebo upozorniť po dosiahnutí zadanej veľkosti</string>
   <string name="pref_summary_auto_update_cleanup_db">Aktualizované: %s</string>
   <string name="pref_summary_cleanup_white_list">Súbory v zozname budú ignorované pri čistení</string>
   <string name="pref_summary_expand_cache_group">Skupiny v zozname cache budú rozbalené</string>

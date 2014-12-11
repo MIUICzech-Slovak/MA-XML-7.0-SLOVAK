@@ -46,4 +46,9 @@
         <item>Každé 3 dni</item>
         <item>Každých 7 dní</item>
     </string-array>
+    <string-array name="auto_process_mode">
+        <item>Upozorniť</item>
+        <item>Vyčistiť na pozadí</item>
+        <item>Upozorniť po vyčistení</item>
+    </string-array>
 </resources>
