@@ -51,4 +51,17 @@
         <item>Vyčistiť na pozadí</item>
         <item>Upozorniť po vyčistení</item>
     </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Raz</item>
+        <item>Denne</item>
+        <item>Pracovné dni (V Číne)</item>
+        <item>Pon. až Pia.</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Raz</item>
+        <item>Denne</item>
+        <item>Pon. až Pia.</item>
+        <item>Vlastné</item>
+    </string-array>
 </resources>
