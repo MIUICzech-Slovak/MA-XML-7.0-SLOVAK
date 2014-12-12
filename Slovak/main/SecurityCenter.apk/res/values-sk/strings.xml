@@ -346,7 +346,7 @@
   <string name="msg_update_error_code_unknown_error">Neznáma chyba, skúste to neskôr!</string>
   <string name="never">Iba raz</string>
   <string name="notification_button_text_of_low_memory">Vyčistiť</string>
-  <string name="notification_summary_after_auto_cleanup">Je možné vyčistiť %s a zrýchliť tým váš systém</string>
+  <string name="notification_summary_after_auto_cleanup">Vyčistené %s</string>
   <string name="notification_summary_of_garbage_cleanup">Vaše nepotrebné súbory dosiahli %s</string>
   <string name="notification_summary_of_low_memory">Ak nie je dostatok miesta, aplikácie sa nenainštalujú</string>
   <string name="notification_title_firewall_blocked">Blokované</string>
@@ -705,4 +705,9 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_title">Ignorované</string>
   <string name="name_antivirus">"Podmienky používania Tencent"</string>
   <string name="name_optimizer">"Podmienky používania Clean Master"</string>
+  <string name="pref_category_title_lock_screen_memory_clean">Vyčistiť na pozadí</string>
+  <string name="pref_summary_lock_screen_memory_clean">Vyčistiť automaticky keď je displej zamknutý</string>
+  <string name="pref_title_lock_screen_memory_clean">Vyčistiť na pozadí</string>
+  <string name="summary_antivirus_oversea">Aktualizovať vírusovú databázu automaticky</string>
+  <string name="text_antivirus_oversea">Aktualizovať vírusovú databázu</string>
 </resources>
