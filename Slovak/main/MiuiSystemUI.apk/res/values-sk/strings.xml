@@ -235,7 +235,7 @@
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
   <string name="status_bar_network_flow">"Dnes: %1$s | Ostáva: %2$s | Balíček: %3$s"</string>
-  <string name="status_bar_network_flow_exceed">"Dnes: %1$s | Prekročené: %2$s | Balíček: %3$s"</string>
+  <string name="status_bar_network_flow_exceed">"Dnes: %1$s | Prekročené:<font color=%2$s>%3$s</font> | Balíček: %4$s"</string>
   <string name="status_bar_network_flow_today">Dnes: %1$s</string>
   <string name="battery_profiles">Použiť profily výkonu</string>
 </resources>
