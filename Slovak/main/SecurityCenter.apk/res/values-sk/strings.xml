@@ -121,7 +121,7 @@
   <string name="call_and_contact">Hovory a Kontakty</string>
   <string name="cancel">Zrušiť</string>
   <string name="clean_content_all">Všetko vyčistiť</string>
-  <string name="clean_content_one">Vyčistiť iba %s</string>
+  <string name="clean_content_one">%s</string>
   <string name="clean_content_three">Okrem %s</string>
   <string name="clean_content_two">Vyčistiť iba %1$s a %2$s</string>
   <string name="clean_content_zero">Nie je potrebné čistenie</string>
