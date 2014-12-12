@@ -184,7 +184,7 @@
   <string name="music_quality">Kvalita hudby</string>
   <string name="music_settings">Hudba</string>
   <string name="my_account">Môj účet</string>
-  <string name="my_music">Online Hudba</string>
+  <string name="my_music">Moja Hudba</string>
   <string name="my_music_empty">\"Moja Hudba\" je prázdna. Stiahnite alebo označte nejaké skladby v \"Online Hudbe\"</string>
   <string name="my_music_empty_goto_online">Váš zoznam skladieb je prázdny.</string>
   <string name="my_playlist">Môj playlist</string>
@@ -204,7 +204,7 @@
   <string name="not_login">Neprihlásený</string>
   <string name="not_selected">Zvoľte skladbu</string>
   <string name="ok">OK</string>
-  <string name="online_music">Moja Hudba</string>
+  <string name="online_music">Online Hudba</string>
   <string name="online_playlist_is_empty">Online playlist je prázdny!</string>
   <string name="order_process_fail">Nebolo možné overiť váš účet, skúste to znova neskôr.</string>
   <string name="payment_fail">Payment failed</string>
