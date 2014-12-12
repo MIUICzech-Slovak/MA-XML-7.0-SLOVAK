@@ -64,4 +64,10 @@
         <item>Pon. až Pia.</item>
         <item>Vlastné</item>
     </string-array>
+    <string-array name="auto_memory_clean">
+        <item>o 1 minútu</item>
+        <item>o 5 minút</item>
+        <item>o 10 minút</item>
+        <item>Nikdy</item>
+    </string-array>
 </resources>
