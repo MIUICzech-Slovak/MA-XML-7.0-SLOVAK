@@ -17,16 +17,16 @@
                 {
             "siteId": 02,
             "imageId": 290,
-            "title": "xiaomimobile.cz",
-            "url": "http://www.xiaomimobile.cz/",
+            "title": "touch.sk",
+            "url": "http://www.touch.sk/",
             "favicon": "",
-            "displayName": "Xiaomimobile.cz",
+            "displayName": "Touch.sk",
             "position": 1,
             "movable": true,
             "isDelete": true,
             "recommend": false,
-            "alias": "http://www.xiaomimobile.cz/",
-            "matchUrl": "http://www.xiaomimobile.cz/"
+            "alias": "http://www.touch.sk/",
+            "matchUrl": "http://www.touch.sk/"
         },
                 {
             "siteId": 03,
@@ -183,12 +183,12 @@
                 {
             "siteId": 02,
             "imageId": 290,
-            "title": "xiaomimobile.cz",
-            "url": "http://www.xiaomimobile.cz/",
+            "title": "touch.sk",
+            "url": "http://touch.sk/",
             "favicon": "",
-            "displayName": "xiaomimobile.cz",
-            "alias": "http://www.xiaomimobile.cz/",
-            "matchUrl": "http://www.xiaomimobile.cz/"
+            "displayName": "Touch.sk",
+            "alias": "http://www.touch.sk/",
+            "matchUrl": "http://www.touch.sk/"
         },
                 {
             "siteId": 03,
@@ -301,7 +301,7 @@
         },
                 {
             "id": 290,
-            "foreground": "cz-sk-xm.png",
+            "foreground": "touch.png",
             "background": "cz-sk-white.png",
             "updateTime": 1393382497000
         },
