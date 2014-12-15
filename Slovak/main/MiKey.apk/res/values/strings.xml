@@ -282,4 +282,9 @@ From the top of the screen slide downwards to use it."</string>
   <string name="webpage_title">Open webpage</string>
   <string name="screenkey_title">Shield button</string>
   <string name="mikey_sprite_toggle_title">MiKey wizard open</string>
+  <string name="privacy_mode_end">Privacy mode disabled</string>
+  <string name="privacy_mode_started">Privacy mode enabled</string>
+  <string name="privacy_mode_title">Privacy mode</string>
+  <string name="screenkey_disabled">Screen button disabled</string>
+  <string name="screenkey_enabled">Screen button enabled</string>
 </resources>

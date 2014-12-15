@@ -259,4 +259,9 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="wallpaper_no_more">Nemeniť tapetu</string>
   <string name="web">Web:</string>
   <string name="write_pic_fail">Chyba uloženia fotografie!</string>
+  <string name="privacy_mode_end">Súkromný režim deaktivovaný</string>
+  <string name="privacy_mode_started">Súkromný režim aktivovaný</string>
+  <string name="privacy_mode_title">Súkromný režim</string>
+  <string name="screenkey_disabled">Tlačidlá deaktivované</string>
+  <string name="screenkey_enabled">Tlačidlá aktivované</string>
 </resources>
