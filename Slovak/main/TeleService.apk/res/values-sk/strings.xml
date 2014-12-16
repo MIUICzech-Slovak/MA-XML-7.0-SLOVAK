@@ -853,4 +853,8 @@ Môže to trvať aj 5 minút."</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="call_recording_notification_toggle_title">Upozornenie nahrávania hovorov</string>
+  <string name="network_unlock">Odblokovať</string>
+  <string name="preferred_network_restrict_network_changed_incall">Počas hovoru nie je možné zmeniť sieť</string>
+  <string name="sim_cards_network_mode_changed_summary">Zobraziť nastavenia SMS a Hovoru.</string>
+  <string name="sim_cards_network_mode_changed_title">Zistená nová SIM karta</string>
 </resources>
