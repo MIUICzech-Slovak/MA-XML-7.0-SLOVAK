@@ -79,4 +79,5 @@
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto sieť je bezpečná.</string>
+  <string name="choose_picture">Vybrať obrázok s QR kódom</string>
 </resources>
