@@ -2,5 +2,5 @@
 <string name="date_time" value="dd.MM. EEEE"/>
 <string name="language" value="sk"/>
 <string name="desc_date_format" value="EEEE, dd MMM"/>
-<string name="desc_time" value="'current time' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', dotknite sa dva krát pre zobrazenie hodín'"/>
+<string name="desc_time" value="'čas' + #hour12+' '+ifelse(#minute,#minute,'oclock')+', dotknite sa dva krát pre zobrazenie hodín'"/>
 </strings>
