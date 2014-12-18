@@ -141,4 +141,5 @@ Ok pre zrušenie obnovy"</string>
   <string name="select_backup_data">Vyberte zálohované dáta</string>
   <string name="v5_data">V5 dáta</string>
   <string name="v5_delete">vymazať V5 dáta</string>
+  <string name="name_model">"%1$s %2$s"</string>
 </resources>

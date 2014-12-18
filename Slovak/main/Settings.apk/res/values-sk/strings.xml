@@ -2855,4 +2855,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
 Aplikovať zmeny?"</string>
   <string name="page_layout_confirm_title">Zmeniť rozloženie</string>
   <string name="title_layout_current">Použité rozloženie</string>
+  <string name="local_auto_backup_off">Vyp</string>
+  <string name="local_auto_backup_on">Zap</string>
+  <string name="local_auto_backup_section_title">Auto. zálohy</string>
 </resources>

@@ -180,7 +180,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="report_success">Správa nahlásená</string>
   <string name="sim_not_ready">SIM karta nie je pripravená</string>
   <string name="sms_delete_hint">Vymazať všetky blokované SMS z vybraného čísla?</string>
-  <string name="special_number_group">Blokovať špeciálne čísla</string>
+  <string name="special_number_group">Blokovať nahlásené čísla</string>
   <string name="st_advanced_setting_group">Rozšírené</string>
   <string name="st_antispam_black_adress_add">Blokovaný región (Iba Čína)</string>
   <string name="st_antispam_bw_adress_add">Povolený región (Iba Čína)</string>
