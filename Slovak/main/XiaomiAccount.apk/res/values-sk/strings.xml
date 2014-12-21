@@ -493,7 +493,7 @@ Skontrolujte aj SPAM."</string>
   <string name="phone_unactivated">Neaktivované</string>
   <string name="phone_unknown">Neznáme</string>
   <string name="remove_device_success_notice">Ak odoberiete toto zariadenie z dôveryhodných, budete musieť overiť toto zariadenie znova po prihlásení sa.​</string>
-  <string name="remove_trust_btn">Odobrať z dúveryhodných zariadení</string>
-  <string name="remove_trust_notice">Odobrať z dôveryhodných zariadení a odhlásiť sa</string>
+  <string name="remove_trust_btn">Odobrať z dôveryhodných zariadení</string>
+  <string name="remove_trust_notice">Odobrať z dôveryhodných zariadení a odhlásiť</string>
   <string name="rename_current_device">Zmeniť názov zariadenia</string>
 </resources>
