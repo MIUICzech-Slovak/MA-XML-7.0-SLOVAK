@@ -724,4 +724,8 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="weight_device_list">Váhy v blízkosti</string>
   <string name="weight_scale">Váha</string>
   <string name="weight_unbinded">Odpojiť od Váhy</string>
+  <string name="running_gps_poor_signal">Slabý signál GPS.</string>
+  <string name="donot_have_band">Nemáte MiBand?</string>
+  <string name="help_title_4">Skúste reštartovať telefón</string>
+  <string name="help_info_4">Skúste reštartovať telefón a znovu otvoriť aplikáciu MiBand.</string>
 </resources>
