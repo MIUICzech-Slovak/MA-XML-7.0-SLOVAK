@@ -455,7 +455,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="bluetooth_unlock_confirm_device_text">Dotknite sa zariadenia pre potvrdenie</string>
   <string name="bluetooth_unlock_delete_device">Vymazať toto zariadenie</string>
   <string name="bluetooth_unlock_delete_device_confirm_msg">Vymazať toto zariadenie?</string>
-  <string name="bluetooth_unlock_device_matched_text">Ppužiť toto zariadenie pre odomknutie</string>
+  <string name="bluetooth_unlock_device_matched_text">Použiť toto zariadenie pre odomknutie</string>
   <string name="bluetooth_unlock_no_matched_device_yet">Žiadne dostupné zariadenia</string>
   <string name="bluetooth_unlock_settings_devices_title">Zariadenie</string>
   <string name="bluetooth_unlock_settings_toggle_title">Použiť na</string>
