@@ -241,7 +241,7 @@
   <string name="is_system_wallpaper_message">Nie je možné vymazať systémové súbory</string>
   <string name="local_wallpaper">Lokálne</string>
   <string name="mi_wallpaper">Mi Tapeta</string>
-  <string name="setting_wallpaper_tip">Posuňte alebo zmenšite</string>
+  <string name="setting_wallpaper_tip">Posuňte alebo zväčšite</string>
   <string name="show_all">Zobraziť všetko</string>
   <string name="uninstall_dialog_title_multi_format" formatted="false">Odinštalovať %s a %d ďalších apl.?</string>
   <string name="uninstall_result_failed">Nie je možné odinštalovať %s</string>
