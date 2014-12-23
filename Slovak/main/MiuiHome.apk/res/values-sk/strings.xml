@@ -222,4 +222,37 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
+  <string name="apply_action">Použíť</string>
+  <string name="apply_as_lock_screen">Zámok</string>
+  <string name="apply_as_wallpaper">Plocha</string>
+  <string name="apply_both">Plocha aj zámok</string>
+  <string name="choose_wallpaper">Vyberte tapetu</string>
+  <string name="current_preview">Náhľad</string>
+  <string name="delete">Vymazať</string>
+  <string name="delete_wallpaper_message">Vymazať tapetu (%1$d)?</string>
+  <string name="delete_wallpapers_message">Vymazať tapety (%1$d)?</string>
+  <string name="disable_wallpaper_scroll">Zakázať posúvanie tapety</string>
+  <string name="editing_mode_title">Vybraných: %1$d</string>
+  <string name="enable_wallpaper_scroll">Povoliť posúvanie tapety</string>
+  <string name="gadget_calculator_label">Kalkulačka</string>
+  <string name="gadget_calendar_label">Kalendár</string>
+  <string name="gadget_notes_label">Poznámky</string>
+  <string name="is_setting_wallpaper_toast">Nastavovanie tapety...</string>
+  <string name="is_system_wallpaper_message">Nie je možné vymazať systémové súbory</string>
+  <string name="local_wallpaper">Lokálne</string>
+  <string name="lock_screen_failed_message">Nie je možné nastaviť tapetu zámku</string>
+  <string name="lock_screen_success_message">Tapeta zámku nastavená</string>
+  <string name="mi_wallpaper">Mi Tapeta</string>
+  <string name="setting_wallpaper_tip">Posuňte alebo zmenšite</string>
+  <string name="show_all">Zobraziť všetko</string>
+  <string name="uninstall_dialog_title_multi_format" formatted="false">Odinštalovať %s a %d ďalších apl.?</string>
+  <string name="uninstall_result_failed">Nie je možné odinštalovať %s</string>
+  <string name="uninstall_result_multi_succeeded">Odinštalované apl. (%1$d)</string>
+  <string name="uninstall_result_other_failed" formatted="false">Nie je možné odinštalovať %s a %d ďalších apl.</string>
+  <string name="uninstall_result_succeeded">Apl. odinštalovaná</string>
+  <string name="uninstall_result_two_failed">Nie je možné odinštalovať %s a 1 ďalších apl.</string>
+  <string name="wallpaper">Tapeta</string>
+  <string name="wallpaper_failed_message">Nie je možné nastaviť tapetu</string>
+  <string name="wallpaper_settings">Nastavenie tapety</string>
+  <string name="wallpaper_success_message">Tapeta nastavená</string>
 </resources>

@@ -376,8 +376,8 @@
   <string name="power_bluetooth">Bluetooth</string>
   <string name="power_button_delete">Vymazať</string>
   <string name="power_cell">Telefón v pohotovostnom režime</string>
-  <string name="power_center_auto_shutdown">Prepínač</string>
-  <string name="power_center_auto_shutdown_summary">Čas vypnutia alebo zapnutia</string>
+  <string name="power_center_auto_shutdown">Automaticky Zap./Vyp.</string>
+  <string name="power_center_auto_shutdown_summary_default">Čas vypnutia alebo zapnutia</string>
   <string name="power_center_battery_full">Batéria je nabitá</string>
   <string name="power_center_charge_time">Nabité bude o %1$s</string>
   <string name="power_center_consume_rank">Spotreba</string>
@@ -389,13 +389,13 @@
   <string name="power_center_low_battery_title">Auto. prepnutie</string>
   <string name="power_center_on_time_summary_default">Prepnúť režim v stanovenom čase</string>
   <string name="power_center_on_time_summary_dynamic">Od %1$s do %2$s prepnúť na %3$s</string>
-  <string name="power_center_on_time_title">Naplánované</string>
-  <string name="power_center_ontime_boot">Čas spustenia</string>
+  <string name="power_center_on_time_title">Naplánovaný režim</string>
+  <string name="power_center_ontime_boot">Čas zapnutia</string>
   <string name="power_center_ontime_shutdown">Čas vypnutia</string>
   <string name="power_center_repeat">Opakovať</string>
   <string name="power_center_state_off">Vyp</string>
   <string name="power_center_state_on">Zap</string>
-  <string name="power_center_time_to_boot">Čas spustenia</string>
+  <string name="power_center_time_to_boot">Čas zapnutia</string>
   <string name="power_center_time_to_shutdown">Čas vypnutia</string>
   <string name="power_center_title">Batéria</string>
   <string name="power_chooser_check_box_summary">Zvoľte profil spotreby energie pre predĺženie výdrže batérie</string>
@@ -516,7 +516,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="power_save_low_battery_percentage_twenty">20%</string>
   <string name="power_save_low_battery_seekbar_title">Kapacita batérie je nízka ak má menej ako: %1$d%%</string>
   <string name="power_save_low_battery_title">Úsporný režim slabej batérie</string>
-  <string name="power_save_on_time_auto_save_title">Naplánované</string>
+  <string name="power_save_on_time_auto_save_title">Naplánovaný režim</string>
   <string name="power_save_on_time_default_time">00:00</string>
   <string name="power_save_on_time_end_time_summary">Koniec</string>
   <string name="power_save_on_time_end_time_title">%1$d: %2$d</string>
@@ -526,7 +526,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="power_save_on_time_option_title">Počas tejto doby</string>
   <string name="power_save_on_time_start_time_summary">Začiatok</string>
   <string name="power_save_on_time_start_time_title">%1$d: %2$d</string>
-  <string name="power_save_on_time_title">Naplánované</string>
+  <string name="power_save_on_time_title">Naplánovaný režim</string>
   <string name="power_screen">Obrazovka</string>
   <string name="power_settings_category_title">Zobrazenie batérie</string>
   <string name="power_settings_number">Percentá</string>
@@ -710,4 +710,21 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="pref_title_lock_screen_memory_clean">Vyčistiť na pozadí</string>
   <string name="summary_antivirus_oversea">Aktualizovať vírusovú databázu automaticky</string>
   <string name="text_antivirus_oversea">Aktualizovať vírusovú databázu</string>
+  <string name="boot_day_shutdown_day">Zariadenie sa zapne o %1$dd %2$s a vypne o %3$dd %4$s</string>
+  <string name="boot_reminder">Zapnúť vaše zariadenie v nastavenom čase</string>
+  <string name="boot_reminder_day">Zariadenie sa zapne o %1$dd %2$dh %3$dm</string>
+  <string name="boot_reminder_hour">Zariadenie sa zapne o %1$dh %2$dm</string>
+  <string name="boot_reminder_minute">Zariadenie sa zapne o %1$dm</string>
+  <string name="boot_shutdown">Zariadenie sa zapne o %1$s a vypne o %2$s</string>
+  <string name="boot_shutdown_day">Zariadenie sa zapne o %1$s a vypne o %2$dd %3$s</string>
+  <string name="boot_time">Zariadenie sa zapne o %1$s</string>
+  <string name="boot_time_day">Zariadenie sa zapne o %1$dd %2$s</string>
+  <string name="power_20s_shutdown">Zariadenie sa vypne o 20 sekúnd</string>
+  <string name="shutdown_boot">Zariadenie sa vypne o %1$s a zapne o %2$s</string>
+  <string name="shutdown_boot_day">Zariadenie sa vypne o %1$s a zapne o %2$dd %3$s</string>
+  <string name="shutdown_cancel_reminder">Nevyplo sa</string>
+  <string name="shutdown_cancel_reminder_detail">Zariadenie sa nevyplo lebo práve prebiehal hovor</string>
+  <string name="shutdown_day_boot_day">Zariadenie sa vypne o %1$dd %2$s a zapne o %3$dd %4$s</string>
+  <string name="shutdown_time">Zariadenie sa vypne o %1$s</string>
+  <string name="shutdown_time_day">Zariadenie sa vypne o %1$dd %2$s</string>
 </resources>

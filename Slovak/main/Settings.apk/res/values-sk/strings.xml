@@ -2851,11 +2851,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="page_layout_7">Poznámky</string>
   <string name="page_layout_8">Kalendár</string>
   <string name="page_layout_9">Email</string>
-  <string name="page_layout_confirm_message">"Hustota displeja bola zmenená a rozloženie plochy bude aktualizované.
-Aplikovať zmeny?"</string>
+  <string name="page_layout_confirm_message">Vaše zariadenie je nutné reštartovať pre aplikovanie zmien</string>
   <string name="page_layout_confirm_title">Zmeniť rozloženie</string>
   <string name="title_layout_current">Použité rozloženie</string>
   <string name="local_auto_backup_off">Vyp</string>
   <string name="local_auto_backup_on">Zap</string>
   <string name="local_auto_backup_section_title">Auto. zálohy</string>
+  <string name="volume_hifi_description">Nastavenie Hi-Fi</string>
+  <string name="provision_page_layout_confirm_message">Vaše zariadenie je nutné reštartovať pre aplikovanie zmien.</string>
 </resources>

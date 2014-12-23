@@ -9,4 +9,12 @@
         <item quantity="other">Poznámok: %1$s</item>
         <item quantity="one">Poznámok: 1</item>
     </plurals>
+	<plurals name="note_terms">
+        <item quantity="other">Poznámok: %1$s</item>
+        <item quantity="one">Poznámok: %1$s</item>
+    </plurals>
+    <plurals name="folder_terms">
+        <item quantity="other">Zložiek: %1$s</item>
+        <item quantity="one">Zložiek: %1$s</item>
+    </plurals>
 </resources>

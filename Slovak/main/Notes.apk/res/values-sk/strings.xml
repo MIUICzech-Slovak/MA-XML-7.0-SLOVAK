@@ -6,10 +6,10 @@
   <string name="alert_action_edit_anyway">Pokračovať</string>
   <string name="alert_edit_action_delete">Odstrániť</string>
   <string name="alert_edit_action_update">Obnoviť</string>
-  <string name="alert_message_delete_folders">Chcete vymazať zložky (%1$s) ?</string>
-  <string name="alert_message_delete_folders_notes">Chcete vymazať zložky (%1$s) a poznámky (%2$s) ?</string>
-  <string name="alert_message_delete_note">Chcete vymazať túto poznámku?</string>
-  <string name="alert_message_delete_notes">Chcete vymazať poznámky (%1$s) ?</string>
+  <string name="alert_message_delete_folders">Vymazať (%1$s)?</string>
+  <string name="alert_message_delete_folders_notes">Vymazať (%1$s) a (%2$s)?</string>
+  <string name="alert_message_delete_note">Vymazať túto poznámku?</string>
+  <string name="alert_message_delete_notes">Vymazať (%1$s)?</string>
   <string name="alert_message_edit_anyway">Ak upravíte túto poznámku, jej obsah môže byť stratený.</string>
   <string name="alert_title_edit_anyway">Táto poznámka obsahuje nepodporovaný obsah</string>
   <string name="app_name">Poznámky</string>
@@ -31,7 +31,8 @@
   <string name="error_unsupport_content">Táto poznámka obsahuje nepodporovaný obsah, dotknite sa tu pre aktualizovanie aplikácie</string>
   <string name="error_widget_exist_for_send_to_desktop">Táto poznámka už na ploche existuje</string>
   <string name="folder_exist">Zložka už existuje, zvoľte prosím iný názov</string>
-  <string name="format_move_notes_to_folder">Presunuté %1$d poznámky do zložky %2$s</string>
+  <string name="format_move_notes_out_folder">Presunuté %1$s</string>
+  <string name="format_move_notes_to_folder">Presunuté %1$s do %2$s</string>
   <string name="hint_foler_name">Vstupné meno</string>
   <string name="info_note_enter_desktop">Poznámka bola pridaná na plochu</string>
   <string name="login_sync">Prihlásenie a synchr.</string>
