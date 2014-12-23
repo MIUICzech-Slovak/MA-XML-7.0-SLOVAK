@@ -240,8 +240,6 @@
   <string name="is_setting_wallpaper_toast">Nastavovanie tapety...</string>
   <string name="is_system_wallpaper_message">Nie je možné vymazať systémové súbory</string>
   <string name="local_wallpaper">Lokálne</string>
-  <string name="lock_screen_failed_message">Nie je možné nastaviť tapetu zámku</string>
-  <string name="lock_screen_success_message">Tapeta zámku nastavená</string>
   <string name="mi_wallpaper">Mi Tapeta</string>
   <string name="setting_wallpaper_tip">Posuňte alebo zmenšite</string>
   <string name="show_all">Zobraziť všetko</string>
