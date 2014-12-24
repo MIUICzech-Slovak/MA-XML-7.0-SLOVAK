@@ -377,7 +377,7 @@
   <string name="power_button_delete">Vymazať</string>
   <string name="power_cell">Telefón v pohotovostnom režime</string>
   <string name="power_center_auto_shutdown">Automaticky Zap./Vyp.</string>
-  <string name="power_center_auto_shutdown_summary_default">Čas vypnutia alebo zapnutia</string>
+  <string name="power_center_auto_shutdown_summary_default">Čas vypnutia alebo zapnutia zariadenia</string>
   <string name="power_center_battery_full">Batéria je nabitá</string>
   <string name="power_center_charge_time">Nabité bude o %1$s</string>
   <string name="power_center_consume_rank">Spotreba</string>
