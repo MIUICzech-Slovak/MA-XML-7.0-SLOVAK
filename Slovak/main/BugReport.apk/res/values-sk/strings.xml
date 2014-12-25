@@ -119,4 +119,10 @@
   <string name="submit_dialog_title">Odoslať hlásenie</string>
   <string name="bugreport_tool_log_toast">Záznam uložený do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Vytváranie záznamu o chybe (trvá okolo 1 minúty)</string>
+  <string name="announcement">Upozornenie</string>
+  <string name="err_type_app">Aplikácie</string>
+  <string name="err_type_more">Viac</string>
+  <string name="title_nonsystem_app">Iné apl.</string>
+  <string name="title_system_app">MIUI apl.</string>
+  <string name="toast_network_unavailable">Nie je možné odoslať. Pripojte sa k sieti.</string>
 </resources>

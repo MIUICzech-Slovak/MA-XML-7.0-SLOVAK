@@ -496,4 +496,6 @@ Skontrolujte aj SPAM."</string>
   <string name="remove_trust_btn">Odobrať z dôveryhodných zariadení</string>
   <string name="remove_trust_notice">Odobrať z dôveryhodných zariadení a odhlásiť</string>
   <string name="rename_current_device">Zmeniť názov zariadenia</string>
+  <string name="delete_device_failed">Nie je možné odobrať zariadenie</string>
+  <string name="no_response_retry">Žiadna odpoveď, skúste to neskôr.</string>
 </resources>
