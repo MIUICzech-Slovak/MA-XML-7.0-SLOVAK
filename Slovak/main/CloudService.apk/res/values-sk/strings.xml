@@ -201,7 +201,6 @@ Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
   <string name="success_upgraded_space">%s pridané</string>
   <string name="sync">Synchr.</string>
   <string name="sync_dspt">Povoliť synchr.</string>
-  <string name="sync_dspt_provision">"MiCloud synchronizuje vaše fotografie, SMS, poznámky, a oveľa viac. Vaše zálohované dáta môžte zobraziť aj na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision3">". Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
   <string name="sync_item_calllog_summary">Synchr. zoznam hovorov z tohto zariadenia</string>
