@@ -1873,7 +1873,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="security_keyguard_category_name">Zámok</string>
   <string name="security_password_category_name">Heslo</string>
   <string name="security_passwords_title">Heslá</string>
-  <string name="security_privacy_settings_title">Súkromie</string>
+  <string name="security_privacy_settings_title">Zabezpečenie</string>
   <string name="security_relative">Bezpečnosť</string>
   <string name="security_settings_billing_desc">Táto aplikácia vám môže účtovať poplatky:</string>
   <string name="security_settings_desc">Táto aplikácia má prístup k nasledujúcim funkciám telefónu:</string>
@@ -2250,8 +2250,8 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="unmount_inform_text">SD karta bude odpojená.</string>
   <string name="untitled_apn">Bez názvu</string>
   <string name="update_progress_for_updates">Aktualizácia (%s)</string>
-  <string name="upload_debug_log_summary">Odošlite záznam debug a pomôžte vývojárom vytvoriť stabilnejší a lepší MIUI ROM. Ďakujeme!</string>
-  <string name="upload_debug_log_title">Odoslať záznam debug</string>
+  <string name="upload_debug_log_summary">Odošlite záznam o chybe a pomôžte vývojárom vytvoriť stabilnejšiu a lepšiu MIUI ROM. Ďakujeme!</string>
+  <string name="upload_debug_log_title">Odoslať záznam o chybe</string>
   <string name="usage_log">Štatistika využitia aplikácií</string>
   <string name="usage_name_percent">"%1$s -  %2$s%%"</string>
   <string name="usage_stats_label">Štatistika použitia</string>
