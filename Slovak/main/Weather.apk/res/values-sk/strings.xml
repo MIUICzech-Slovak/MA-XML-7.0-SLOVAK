@@ -17,10 +17,10 @@
   <string name="activity_find_city_dialog_message">Použiť aktuálnu polohu</string>
   <string name="activity_find_city_dialog_set">Nastavenie</string>
   <string name="activity_find_city_dialog_title">Poloha</string>
-  <string name="activity_main_refresh_time">Aktualizované %1$s</string>
+  <string name="activity_main_refresh_time">Aktualizované: %1$s</string>
   <string name="activity_main_refresh_timeout">Aktual. sa nepodarila</string>
   <string name="activity_main_time_format">dd.MM.</string>
-  <string name="activity_main_update_time">Aktualizované %1$s</string>
+  <string name="activity_main_update_time">Aktualizované: %1$s</string>
   <string name="activity_main_update_time_right_now">Teraz</string>
   <string name="activity_weather_main_null_data">- -</string>
   <string name="activity_weathermain_locationg">Získavanie polohy...</string>
@@ -68,7 +68,7 @@
   <string name="view_indexes_title_visibility">Viditeľnosť (km)</string>
   <string name="view_indexes_title_wind">Vietor</string>
   <string name="view_indexes_wind_unit">km/h</string>
-  <string name="view_sun_titile">Východ a Západ slnka</string>
+  <string name="view_sun_titile">Východ a západ slnka</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
