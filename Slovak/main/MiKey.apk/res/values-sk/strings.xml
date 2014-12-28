@@ -148,6 +148,7 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="know_it">OK</string>
   <string name="long_click">Dlhé stlačenie</string>
   <string name="message_photo_end">Fotografia uložená</string>
+  <string name="mikey_sprite_toggle_title">Otvoriť MiKey Wizard</string>
   <string name="name">Meno:</string>
   <string name="nickname">Prezývka:</string>
   <string name="no_usage">...</string>
@@ -163,6 +164,9 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="phone">Telefón:</string>
   <string name="picker_lable">Galéria</string>
   <string name="place_barcode_into_rectangle">Zamerajte QR alebo čiarový kód</string>
+  <string name="privacy_mode_end">Súkromný režim deaktivovaný</string>
+  <string name="privacy_mode_started">Súkromný režim aktivovaný</string>
+  <string name="privacy_mode_title">Súkromný režim</string>
   <string name="rank_prefix">"Hodnotenie: "</string>
   <string name="rank_suffix">" bodov"</string>
   <string name="recognize">Rozpoznať</string>
@@ -170,6 +174,9 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Skenovanie zlyhalo</string>
   <string name="scan_result">Informácie</string>
+  <string name="screenkey_disabled">Tlačidlá deaktivované</string>
+  <string name="screenkey_enabled">Tlačidlá aktivované</string>
+  <string name="screenkey_title">Deaktivovať tlačidlá</string>
   <string name="screenshot_crop">Orezaný</string>
   <string name="screenshot_full">Fullscreen</string>
   <string name="scrennshot_select_title">Vyberte režim Screenshotu</string>
@@ -258,14 +265,7 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="wallpaper_changing">Zmena tapety...</string>
   <string name="wallpaper_no_more">Nemeniť tapetu</string>
   <string name="web">Web:</string>
-  <string name="write_pic_fail">Chyba uloženia fotografie!</string>
-  <string name="privacy_mode_end">Súkromný režim deaktivovaný</string>
-  <string name="privacy_mode_started">Súkromný režim aktivovaný</string>
-  <string name="privacy_mode_title">Súkromný režim</string>
-  <string name="screenkey_disabled">Tlačidlá deaktivované</string>
-  <string name="screenkey_enabled">Tlačidlá aktivované</string>
   <string name="webpage_input_title">Zadajte URL</string>
   <string name="webpage_title">Otvoriť web stránku</string>
-  <string name="screenkey_title">Deaktivovať tlačidlá</string>
-  <string name="mikey_sprite_toggle_title">Otvoriť MiKey Wizard</string>
+  <string name="write_pic_fail">Chyba uloženia fotografie!</string>
 </resources>

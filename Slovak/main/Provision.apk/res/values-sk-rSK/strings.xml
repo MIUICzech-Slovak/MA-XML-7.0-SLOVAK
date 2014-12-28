@@ -26,9 +26,13 @@
   <string name="other_settings_user_experience">Spätná väzba</string>
   <string name="other_settings_user_experience_summary">Pomôžte zlepšiť MIUI odosielaním anonymných štatistík v rámci našej %s"</string>
   <string name="other_settings_user_experience_summary1">Ochrany súkromia</string>
+  <string name="page_layout_label">Nastaviť veľkosť textu a rozloženie plochy, prepínačov, číselníka a ďalších.</string>
+  <string name="page_layout_title">Rozloženie systému</string>
   <string name="pref_title_data_slot">Preferovaná dátová SIM karta</string>
   <string name="pref_title_voice_slot">Preferovaná hlasová SIM karta</string>
   <string name="privacy_policy">Podmienky súkromia</string>
+  <string name="provision_finish">OK</string>
+  <string name="provision_finish_restart">Reštart</string>
   <string name="provision_inputmethod_policy_description">"Zobraziť pre túto klávesnicu "</string>
   <string name="provision_inputmethod_policy_description1">Podmienky súkromia</string>
   <string name="setting_locale">Nastavovanie krajiny...</string>
@@ -43,11 +47,7 @@
   <string name="terms_of_service">Podmienky používania</string>
   <string name="terms_of_use">Podmienky používania</string>
   <string name="terms_of_use_label">Musíte súhlasiť s Podmienkami používania a Podmienkami súkromia ak chcete používať MIUI.</string>
+  <string name="title_congratulation">Užite si svoj nový telefón s miuios.cz :)</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte v</string>
-  <string name="title_congratulation">Užite si svoj nový telefón s miuios.cz :)</string>
-  <string name="page_layout_label">Nastaviť veľkosť textu a rozloženie plochy, prepínačov, číselníka a ďalších.</string>
-  <string name="page_layout_title">Rozloženie systému</string>
-  <string name="provision_finish">OK</string>
-  <string name="provision_finish_restart">Reštart</string>
 </resources>

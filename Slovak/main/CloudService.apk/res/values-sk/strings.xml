@@ -92,6 +92,11 @@
   <string name="master_alert_notif_dspt_no">Všetko je aktuálne.</string>
   <string name="master_alert_notif_title">Dáta nie sú synchronizované %s dní</string>
   <string name="micloud">MiCloud</string>
+  <string name="micloud_check_sim_notify_text">"Zrejme bola zmenená SIM karta. Prihláste sa
+do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
+  <string name="micloud_check_sim_notify_title">Znova aktivovať MiCloud</string>
+  <string name="micloud_check_sim_title">"Zrejme bola zmenená SIM karta. Prihláste sa
+do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_detail_fail">Zlyhalo</string>
   <string name="micloud_detail_lastest">Synchr.</string>
   <string name="micloud_detail_pending">Čaká na synchr.</string>
@@ -130,6 +135,7 @@
   <string name="micloud_main_space_risk">Máte nesynchr. %d dát. Navýšte si kapacitu MiCloud úložiska.</string>
   <string name="micloud_main_stop_sync">Ukončiť synchr.</string>
   <string name="micloud_main_suggest_sync">Vaše dáta nie sú synchronizované.</string>
+  <string name="micloud_main_sync_exception">Chyba synchr.</string>
   <string name="micloud_main_sync_now">Synchronizovať</string>
   <string name="micloud_main_sync_on_wifi">Synchr. len cez Wi-Fi</string>
   <string name="micloud_main_sync_pause">Zastaviť</string>
@@ -164,6 +170,7 @@ Využité %s | Ostáva %s"</string>
   <string name="micloud_web_discription">Prihláste sa na i.mi.com pre prístup k vašim dátam</string>
   <string name="micloud_web_discription_01">Prihláste sa na http://i.mi.com</string>
   <string name="micloud_web_discription_02">pre prístup k vašim súborom</string>
+  <string name="micloud_web_discription_international">Navštívte www.mi.com/micloud</string>
   <string name="microsoft_cloud">Microsoft Cloud</string>
   <string name="microsoft_cloud_eng">One Drive</string>
   <string name="microsoft_cloud_price">Okolo RMB 80 / rok</string>
@@ -172,6 +179,8 @@ Využité %s | Ostáva %s"</string>
   <string name="mx_dspt_provision">"Cloudové správy môžte posielať zdarma medzi užívateľmi MIUI.
 
 Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
+  <string name="mx_dspt_provision_privacy">"Táto služba vyžaduje vaše telefónne číslo. Bude odoslaná medzinárodná SMS pre aktiváciu.
+Táto funkcia zašifruje a odošle vaše číslo na server Xiaomi."</string>
   <string name="mx_sub_dspt_provision">Cloud správy</string>
   <string name="next">Ďalej</string>
   <string name="noRemind">Nepripomínať</string>
@@ -180,6 +189,8 @@ Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
   <string name="only_in_wlan">Vypnuté</string>
   <string name="other_settings">Ďalšie nastavenia</string>
   <string name="password">Heslo</string>
+  <string name="phone_number_may_required_dspt_provision">"Táto služba môže vyžadovať vaše telefónne číslo. "</string>
+  <string name="phone_number_required_dspt_provision">"Táto služba vyžaduje vaše telefónne číslo. "</string>
   <string name="photo">Fotografií</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Odporúča sa zapnúť, inak môže spotrebovať Vaše dáta</string>
   <string name="pref_title_sync_contacts_title">Synch. kontakty</string>
@@ -201,14 +212,20 @@ Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
   <string name="success_upgraded_space">%s pridané</string>
   <string name="sync">Synchr.</string>
   <string name="sync_dspt">Povoliť synchr.</string>
+  <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS, alebo vyhľadajte vaše zariadenie.</string>
+  <string name="sync_dspt_entrance_provision_2">Viac</string>
+  <string name="sync_dspt_provision">"Synchr.
+Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision3">". Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
+  <string name="sync_dspt_provision_title">Mi Cloud</string>
   <string name="sync_item_calllog_summary">Synchr. zoznam hovorov z tohto zariadenia</string>
   <string name="sync_item_calllog_title">Zoznam hovorov</string>
   <string name="sync_item_sms_summary">Prečítané SMS budú automaticky synchronizované</string>
   <string name="sync_item_sms_title">Synch. SMS</string>
   <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
+  <string name="sync_resend_sms_dspt_provision">. Ak zmeníte SIM kartu, bude odoslaná medzinárodná SMS pre jej aktiváciu.</string>
   <string name="sync_setting">Nastavenie synchr.</string>
   <string name="sync_standard">Štandard</string>
   <string name="sync_sub_1_intl_sms">Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty</string>
@@ -243,21 +260,4 @@ Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="micloud_check_sim_notify_text">"Zrejme bola zmenená SIM karta. Prihláste sa
-do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
-  <string name="micloud_check_sim_notify_title">Znova aktivovať MiCloud</string>
-  <string name="micloud_check_sim_title">"Zrejme bola zmenená SIM karta. Prihláste sa
-do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
-  <string name="micloud_main_sync_exception">Chyba synchr.</string>
-  <string name="phone_number_may_required_dspt_provision">"Táto služba môže vyžadovať vaše telefónne číslo. "</string>
-  <string name="phone_number_required_dspt_provision">"Táto služba vyžaduje vaše telefónne číslo. "</string>
-  <string name="micloud_web_discription_international">Navštívte www.mi.com/micloud</string>
-  <string name="mx_dspt_provision_privacy">"Táto služba vyžaduje vaše telefónne číslo. Bude odoslaná medzinárodná SMS pre aktiváciu.
-Táto funkcia zašifruje a odošle vaše číslo na server Xiaomi."</string>
-  <string name="sync_dspt_entrance_provision">Synchr. vaše fotografie, kontakty, SMS, alebo vyhľadajte vaše zariadenie.</string>
-  <string name="sync_dspt_entrance_provision_2">Viac</string>
-  <string name="sync_dspt_provision">"Synchr.
-Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo na "</string>
-  <string name="sync_dspt_provision_title">Mi Cloud</string>
-  <string name="sync_resend_sms_dspt_provision">. Ak zmeníte SIM kartu, bude odoslaná medzinárodná SMS pre jej aktiváciu.</string>
 </resources>

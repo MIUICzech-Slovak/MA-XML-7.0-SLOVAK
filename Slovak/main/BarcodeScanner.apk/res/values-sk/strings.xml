@@ -12,6 +12,7 @@
   <string name="birthday">Narodeniny:</string>
   <string name="camera_error">Fotoaparát nefunguje správne</string>
   <string name="cancel">Zrušiť</string>
+  <string name="choose_picture">Vybrať obrázok s QR kódom</string>
   <string name="close_flash_error">Vypínanie blesku zlyhalo</string>
   <string name="cloud_album_details">Album:</string>
   <string name="company">Firma:</string>
@@ -79,5 +80,4 @@
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto sieť je bezpečná.</string>
-  <string name="choose_picture">Vybrať obrázok s QR kódom</string>
 </resources>

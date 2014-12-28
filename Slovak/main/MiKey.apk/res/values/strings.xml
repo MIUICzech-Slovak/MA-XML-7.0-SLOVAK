@@ -151,6 +151,7 @@
   <string name="know_it">OK</string>
   <string name="long_click">Long press</string>
   <string name="message_photo_end">Picture saved</string>
+  <string name="mikey_sprite_toggle_title">MiKey wizard open</string>
   <string name="name">Name:</string>
   <string name="nickname">Nickname:</string>
   <string name="no_usage">...</string>
@@ -166,6 +167,9 @@
   <string name="phone">Phone:</string>
   <string name="picker_lable">Gallery</string>
   <string name="place_barcode_into_rectangle">Focus on the QR code</string>
+  <string name="privacy_mode_end">Privacy mode disabled</string>
+  <string name="privacy_mode_started">Privacy mode enabled</string>
+  <string name="privacy_mode_title">Privacy mode</string>
   <string name="rank_prefix">"Rankings: "</string>
   <string name="rank_suffix">" points"</string>
   <string name="recognize">Identify</string>
@@ -173,6 +177,9 @@
   <string name="running_notification">Xiaomi MiKey</string>
   <string name="scan_fail">Failed to scan!</string>
   <string name="scan_result">Scan results</string>
+  <string name="screenkey_disabled">Screen button disabled</string>
+  <string name="screenkey_enabled">Screen button enabled</string>
+  <string name="screenkey_title">Shield button</string>
   <string name="screenshot_crop">Crop</string>
   <string name="screenshot_full">Fullscreen</string>
   <string name="scrennshot_select_title">Select capture size</string>
@@ -277,14 +284,7 @@ From the top of the screen slide downwards to use it."</string>
   <string name="wallpaper_changing">Changing wallpaper...</string>
   <string name="wallpaper_no_more">Dont replace wallpaper</string>
   <string name="web">Website:</string>
-  <string name="write_pic_fail">Failed to save picture!</string>
   <string name="webpage_input_title">Enter URL</string>
   <string name="webpage_title">Open webpage</string>
-  <string name="screenkey_title">Shield button</string>
-  <string name="mikey_sprite_toggle_title">MiKey wizard open</string>
-  <string name="privacy_mode_end">Privacy mode disabled</string>
-  <string name="privacy_mode_started">Privacy mode enabled</string>
-  <string name="privacy_mode_title">Privacy mode</string>
-  <string name="screenkey_disabled">Screen button disabled</string>
-  <string name="screenkey_enabled">Screen button enabled</string>
+  <string name="write_pic_fail">Failed to save picture!</string>
 </resources>

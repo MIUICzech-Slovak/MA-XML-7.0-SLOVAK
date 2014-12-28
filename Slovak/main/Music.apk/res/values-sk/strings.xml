@@ -25,6 +25,7 @@
   <string name="avoid_to_use_traffic_summary">Upozorniť na spotrebu dát</string>
   <string name="avoid_to_use_traffic_title">Použiť len Wi-Fi pre stream</string>
   <string name="baidu_music">Baidu Music</string>
+  <string name="bluetooth_device">Bluetooth zariadenie</string>
   <string name="buffering">Načítavanie...</string>
   <string name="button_add">Pridať</string>
   <string name="can_not_find_resource">Nič sa nenašlo</string>
@@ -37,6 +38,8 @@
   <string name="create_playlist">Vytvoriť playlist</string>
   <string name="data_usage_warning">Využitie dát</string>
   <string name="data_usage_warning_summary">Použitie mobilných dát pre stream hudby vo vysokej kvalite môže navýšiť vaše poplatky.</string>
+  <string name="device_connected">Pripojené</string>
+  <string name="device_not_connected">Nepripojené</string>
   <string name="dialog_button_agree">Súhlasím</string>
   <string name="dialog_button_create_playlist">Vytvoriť Playlist</string>
   <string name="dialog_button_editor_choice">Výber</string>
@@ -278,8 +281,4 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
-  <string name="bluetooth_device">Bluetooth zariadenie</string>
-  <string name="device_connected">Pripojené</string>
-  <string name="device_not_connected">Nepripojené</string>
-
 </resources>

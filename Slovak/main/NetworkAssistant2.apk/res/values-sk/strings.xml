@@ -221,6 +221,11 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="pref_warning_values">Upozornenie po dosiahnutí</string>
   <string name="privacy_declare_dialog_message">Používaním tejto služby súhlasíte s Opera &lt;a href=%s&gt; Podmienkami používania&lt;/a&gt;.</string>
   <string name="privacy_declare_dialog_title">Podmienky používania</string>
+  <string name="privacy_prompt_purchase_history_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre získanie histórie o navýšení.</string>
+  <string name="privacy_prompt_tc_sms_report_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre aktualizáciu vašej spotreby dát.</string>
+  <string name="privacy_prompt_traffic_adjust_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre aktualizáciu vzoru SMS správy a kontrolu či je táto funkcia podporovaná vaším operátorom.</string>
+  <string name="privacy_prompt_traffic_purchase_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre kontrolu možností navýšenia objemu spotreby dát.</string>
+  <string name="privacy_prompt_upload">Bezpečnostné upozornenie</string>
   <string name="read_number">86 článkov</string>
   <string name="read_unit">" článkov"</string>
   <string name="right_precent">100%</string>
@@ -228,6 +233,8 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="sc_allow_network_dialog_tiltle">Nie je možné využívať úsporu dát</string>
   <string name="setting_traffic_pkg">Nastaviť dátový balík</string>
   <string name="settings">Nastavenie spotreby dát</string>
+  <string name="show_traffic_dialog_message">Spotreba vašich mobilných dát bude zobrazená v roletke. Toto nastavenie môžete kedykoľvek zmeniť v Spotreba dát &gt; Nastavenia</string>
+  <string name="show_traffic_dialog_title">Zobraziť spotrebu dát v roletke</string>
   <string name="songs_number">18 skladieb</string>
   <string name="songs_unit">" skladieb"</string>
   <string name="sorted_button">Zoradiť</string>
@@ -237,6 +244,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="system_app">Systémové Aplikácie</string>
   <string name="tc_sms_report_direction">Enquiry code (command in SMS to carrier)</string>
   <string name="tc_sms_report_do_report">Send</string>
+  <string name="tc_sms_report_get_default">Odoslaná SMS správa nebude spoplatnená.</string>
   <string name="tc_sms_report_get_sms">Get SMS</string>
   <string name="tc_sms_report_get_sms2">Get SMS</string>
   <string name="tc_sms_report_get_sms_again">Refresh SMS</string>
@@ -268,6 +276,10 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="tips_message">"Ak si nie ste istý o množstve svojich predplatených dát, môžete ich zistiť vytočením %2$s (%1$s) (Iba Čína)."</string>
   <string name="traffic_config_alert_body">"Your carrier's accounting show you have used %s
 Update your data usage info?"</string>
+  <string name="traffic_config_alert_body_extra">"
+Zakúpili ste %1$s dodatočných dát tento mesiac. Manuálne ste zadali %2$s."</string>
+  <string name="traffic_config_alert_body_extra_notset">"
+Zakúpili ste %1$s dodatočných dát tento mesiac."</string>
   <string name="traffic_config_alert_body_leisure">"Your carrier's accounting shows you've used %1$s of your off-peak data this month, this is different from the %2$s you've set manually."</string>
   <string name="traffic_config_alert_body_leisure_notset">"
 Your carrer's accounting shows you have %s of off-peak data remaining. You haven't set a limit for off-peak data."</string>
@@ -340,16 +352,4 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usage_sorted_activity_lable">Spotreba dát</string>
   <string name="usage_sorted_empty_text">Prázdne</string>
   <string name="usage_sorted_loading_text">Načítavanie...</string>
-  <string name="traffic_config_alert_body_extra">"
-Zakúpili ste %1$s dodatočných dát tento mesiac. Manuálne ste zadali %2$s."</string>
-  <string name="traffic_config_alert_body_extra_notset">"
-Zakúpili ste %1$s dodatočných dát tento mesiac."</string>
-  <string name="privacy_prompt_purchase_history_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre získanie histórie o navýšení.</string>
-  <string name="privacy_prompt_tc_sms_report_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre aktualizáciu vašej spotreby dát.</string>
-  <string name="privacy_prompt_traffic_adjust_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre aktualizáciu vzoru SMS správy a kontrolu či je táto funkcia podporovaná vaším operátorom.</string>
-  <string name="privacy_prompt_traffic_purchase_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre kontrolu možností navýšenia objemu spotreby dát.</string>
-  <string name="privacy_prompt_upload">Bezpečnostné upozornenie</string>
-  <string name="tc_sms_report_get_default">Odoslaná SMS správa nebude spoplatnená.</string>
-  <string name="show_traffic_dialog_message">Spotreba vašich mobilných dát bude zobrazená v roletke. Toto nastavenie môžete kedykoľvek zmeniť v Spotreba dát &gt; Nastavenia</string>
-  <string name="show_traffic_dialog_title">Zobraziť spotrebu dát v roletke</string>
 </resources>

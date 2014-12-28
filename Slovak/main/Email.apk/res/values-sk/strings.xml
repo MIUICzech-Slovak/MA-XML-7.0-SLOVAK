@@ -233,6 +233,7 @@
   <string name="attachment_mgr_name">Príloha</string>
   <string name="attachment_not_exists">Príloha nie je dostupná!</string>
   <string name="attachment_not_found">Prílohu sa nepodarilo prevziať.</string>
+  <string name="attachment_stop_all">Zastaviť</string>
   <string name="attachment_text">Text</string>
   <string name="attachment_type_blocked">Tento typ prílohy žiaľ nemôžete uložiť ani otvoriť.</string>
   <string name="attachment_unknown">Súbor %s</string>
@@ -858,5 +859,4 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="attachment_stop_all">Zastaviť</string>
 </resources>

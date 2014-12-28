@@ -121,6 +121,7 @@
   <string name="choosertitle_sharevia">Zdieľať cez</string>
   <string name="clear">Vyčistiť</string>
   <string name="clear_history">Vymazať históriu</string>
+  <string name="clear_history_by_group_alert">Vyčistiť históriu od %s?</string>
   <string name="clear_history_group">Vymazať históriu (%s strán)</string>
   <string name="clear_search_history">Vymazať históriu</string>
   <string name="clip_dialog_title">Otvoriť skopírovanú URL adresu?</string>
@@ -754,5 +755,4 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="clear_history_by_group_alert">Vyčistiť históriu od %s?</string>
 </resources>

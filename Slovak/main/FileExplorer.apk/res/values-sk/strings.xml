@@ -61,6 +61,7 @@
   <string name="decompress_success">Rozbaľovanie dokončené</string>
   <string name="decompress_to">Rozbaliť do inej zložky</string>
   <string name="decompress_to_here">Rozbaliť do tejto zložky</string>
+  <string name="delete_dialog_button">Vymazať</string>
   <string name="delete_failed">Mazanie zlyhalo</string>
   <string name="delete_file">Vymazať?</string>
   <string name="delete_files">Vymazať vybrané súbory (%1$d)?</string>
@@ -322,5 +323,4 @@ Získali ste ďalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
-  <string name="delete_dialog_button">Vymazať</string>
 </resources>

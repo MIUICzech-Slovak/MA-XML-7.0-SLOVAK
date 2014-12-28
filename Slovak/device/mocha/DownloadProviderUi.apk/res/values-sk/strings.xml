@@ -116,6 +116,10 @@
   <string name="pref_summary_no_limit_popup">Neobmedzená veľkosť súboru</string>
   <string name="pref_title_enable_max_bytes_popup">Opýtať sa pri sťahovaní dát</string>
   <string name="preferences_title">Nastavenia</string>
+  <string name="privacy_tip_cancel">Zrušiť</string>
+  <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
+  <string name="privacy_tip_ok">OK</string>
+  <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
   <string name="remove_download">Odstrániť</string>
   <string name="restart_download">Reštart</string>
   <string name="resume_download">Obnoviť</string>
@@ -136,8 +140,4 @@
   <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
-  <string name="privacy_tip_cancel">Zrušiť</string>
-  <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
-  <string name="privacy_tip_ok">OK</string>
-  <string name="privacy_tip_title">Use Xunlei Accelerator?</string>
 </resources>

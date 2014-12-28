@@ -103,6 +103,7 @@
   <string name="call_recording_notification_summary">Zobraziť oznámenie o nahrávke po ukončení hovoru</string>
   <string name="call_recording_notification_title">Oznámenie o nahrávaní</string>
   <string name="call_recording_notification_title_error">Nahrávanie hovoru zlyhalo</string>
+  <string name="call_recording_notification_toggle_title">Upozornenie nahrávania hovorov</string>
   <string name="call_recording_setting">Nahrávanie hovoru</string>
   <string name="call_remove_exception_numbers_confirm">%d čísel bude vymazaných.</string>
   <string name="call_settings">Nastavenie hovoru</string>
@@ -481,6 +482,7 @@
 Will use preferred network instead."</string>
   <string name="network_settings_turn_off">Vypnúť</string>
   <string name="network_settings_warn_message">Použiť iba sieť manuálne vybranú.</string>
+  <string name="network_unlock">Odblokovať</string>
   <string name="networks">Sieťoví operátori</string>
   <string name="networks_title">Sieťoví operátori</string>
   <string name="new_password_label">Nové heslo (4 čísla)</string>
@@ -592,6 +594,7 @@ Môže to trvať aj 5 minút."</string>
   <string name="preferred_network_mode_dialogtitle">Preferovaný režim siete</string>
   <string name="preferred_network_mode_summary">Zmení sieťový operačný režim</string>
   <string name="preferred_network_mode_title">Režim siete</string>
+  <string name="preferred_network_restrict_network_changed_incall">Počas hovoru nie je možné zmeniť sieť</string>
   <string name="preferred_network_type_3g_only_warning">"Vybrali ste možnosť Len 3G! pokiaľ vaša karta SIM nepodporuje 3G, nebudete mať signál! Potvrďte kliknutím na OK."</string>
   <string name="preferred_network_type_cdma">CDMA</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">3G preferovaná</string>
@@ -708,6 +711,8 @@ Môže to trvať aj 5 minút."</string>
   <string name="simContacts_empty">Na karte SIM nie sú žiadne kontakty.</string>
   <string name="simContacts_emptyLoading">Čítanie z karty SIM...</string>
   <string name="simContacts_title">Správa kontaktov na SIM karte</string>
+  <string name="sim_cards_network_mode_changed_summary">Zobraziť nastavenia SMS a Hovoru.</string>
+  <string name="sim_cards_network_mode_changed_title">Zistená nová SIM karta</string>
   <string name="sim_contact_name">Meno</string>
   <string name="sim_contact_number">Číslo</string>
   <string name="sim_ndp_dismiss_text">Zrušiť</string>
@@ -852,9 +857,4 @@ Môže to trvať aj 5 minút."</string>
   <string name="xdivert_setting">X-Divert Setting</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="call_recording_notification_toggle_title">Upozornenie nahrávania hovorov</string>
-  <string name="network_unlock">Odblokovať</string>
-  <string name="preferred_network_restrict_network_changed_incall">Počas hovoru nie je možné zmeniť sieť</string>
-  <string name="sim_cards_network_mode_changed_summary">Zobraziť nastavenia SMS a Hovoru.</string>
-  <string name="sim_cards_network_mode_changed_title">Zistená nová SIM karta</string>
 </resources>

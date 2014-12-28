@@ -5,6 +5,7 @@
   <string name="access_sd_fail">Nie je možné sa pripojiť k SD karte</string>
   <string name="alert_dialog_cancel">Zrušiť</string>
   <string name="alert_dialog_ok">Ok</string>
+  <string name="alert_frequency_duplicate">Táto frekvencia už existuje</string>
   <string name="alert_invalid_frequency">Nesprávna frekvencia.</string>
   <string name="alert_message_delete_station">Naozaj chcete odstrániť túto stanicu?</string>
   <string name="alert_title_delete">Odstrániť</string>
@@ -162,5 +163,4 @@
   <string name="txt_sleep_mode">Spánok</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobraziť zoznam staníc</string>
-  <string name="alert_frequency_duplicate">Táto frekvencia už existuje</string>
 </resources>

@@ -36,6 +36,7 @@
   <string name="attach_subject">Predmet</string>
   <string name="attach_take_photo">Odfotiť obrázok</string>
   <string name="attach_video">Videá</string>
+  <string name="audio_download_failed">sťahovanie nahrávky zlyhalo</string>
   <string name="back_to_message_list">Zoznam správ</string>
   <string name="batch_adding_progress_message">Pridávanie...</string>
   <string name="batch_delete_confirm_dialog_message">Vymazať %1$s vybrané správy</string>
@@ -50,6 +51,7 @@
   <string name="cannot_add_slide_anymore">Ďalšie snímky sa nedajú pridať.</string>
   <string name="cannot_forward_drm_obj">Objekt DRM obsiahnutý v správe sa nedá poslať ďalej.</string>
   <string name="cannot_get_details">Nie je možné získať informácie</string>
+  <string name="cannot_resend_audio">Nie je možné odoslať nahrávku</string>
   <string name="cannot_send_message">Správu nie je možné odoslať</string>
   <string name="cannot_send_message_reason">Správa nemá platných príjemcov.</string>
   <string name="change_duration_activity">Zmena doby trvania</string>
@@ -120,6 +122,7 @@
   <string name="download">Stiahnuť</string>
   <string name="download_later">Momentálne sa nedá stiahnuť. Skúste to prosím neskôr.</string>
   <string name="downloading">Sťahovanie</string>
+  <string name="downloading_file_can_not_play">Počkajte kým sa nahrávka stiahne</string>
   <string name="duration_not_a_number">Doba trvania musí byť číslo</string>
   <string name="duration_sec">Trvanie (%s s)</string>
   <string name="duration_selector_title">"Doba trvania snímku "</string>
@@ -173,6 +176,7 @@
   <string name="group_resend_message">Odosielanie (%d)</string>
   <string name="guild_add_attachments">Kliknite sem pre pridanie príloh alebo smajlíkov do správy</string>
   <string name="guild_add_recipients">Kliknite sem pre pridanie príjemcov z adresára</string>
+  <string name="guild_msim_switcher">Zmeniť SIM kartu</string>
   <string name="has_invalid_recipient">%1$s Neplatných príjemcov</string>
   <string name="hidden_sender_address">Adresa skrytého odosielateľa</string>
   <string name="hint_search_sms">%d SMS</string>
@@ -187,6 +191,7 @@
   <string name="invalid_recipient_message">Správu nemožno doručiť, opravte zadané údaje príjemcov.</string>
   <string name="kilobyte">kB</string>
   <string name="layout_selector_title">"Rozloženie prezentácie"</string>
+  <string name="left_cancel">Potiahnite doľava pre zrušenie</string>
   <string name="loading_all_messages">Načítavanie všetkých správ...</string>
   <string name="loading_conversations">Nahrávanie konverzácií...</string>
   <string name="loading_mms">Načítavanie MMS...</string>
@@ -207,6 +212,7 @@
   <string name="menu_new_manual">Vložiť číslo manuálne</string>
   <string name="menu_pick_from_contact">Vybrať z kontaktov</string>
   <string name="menu_preferences">Nastavenia</string>
+  <string name="menu_send_as_common">Odoslať ako SMS</string>
   <string name="menu_unlock">Odomknúť</string>
   <string name="menu_view_contact">Zobraziť kontakt</string>
   <string name="menu_yellowpage">Zobraziť %s</string>
@@ -223,6 +229,7 @@
   <string name="message_saved_as_draft">Správa bola uložená ako koncept.</string>
   <string name="message_send_failed_title">Správa nebola odoslaná</string>
   <string name="message_send_read_report">Prečítaná správa bude odoslaná.</string>
+  <string name="message_sent">Odoslané</string>
   <string name="message_size_label">"Veľkosť správy: "</string>
   <string name="message_too_big_for_audio">Správa je príliš veľká pre pripojenie audia.</string>
   <string name="message_too_big_for_video">Správa je príliš veľká pre pripojenie videa.</string>
@@ -240,6 +247,7 @@
   <string name="msglist_release_to_more">Pustite pre zobrazenie ďalších</string>
   <string name="multimedia_message">MMS</string>
   <string name="multimedia_notification">Zvuk oznámenia</string>
+  <string name="mx_activate_dlg_title">Aktivovať Cloudové správy</string>
   <string name="mx_activate_error_malformed_info">Aktivácia Cloud správ zlyhala, vyžaduje sa opätovný pokus o aktiváciu</string>
   <string name="mx_activate_error_server">Aktivácia servera pre Cloud správy zlyhala</string>
   <string name="mx_activate_error_sim_change">SIM karta zmenená, vyžaduje sa opätovný pokus o aktiváciu Cloud správ</string>
@@ -252,6 +260,7 @@
   <string name="mx_activate_int_hint_sim_change">Bola zmenená SIM karta. Vyžaduje sa odoslanie medzinárodnej SMS pre opätovnú aktiváciu Cloud správ. Chcete ich aktivovať teraz?</string>
   <string name="mx_activate_int_popup_msg">Správy umožňujú užívateľom MIUI odosielať správy medzi sebou bez použitia mobilných dát.</string>
   <string name="mx_activate_popup_msg">Cloud správy umožňujú užívateľom MIUI odosielať správy medzi sebou bez použitia mobilných dát.</string>
+  <string name="mx_activate_user_agreement_p1">"Používaním tejto služby súhlasíte s "</string>
   <string name="mx_activation_done">Cloud správy sú povolené</string>
   <string name="mx_auto_resend_mms">Auto. odoslanie MMS</string>
   <string name="mx_auto_resend_mms_summary">Odoslať ako MMS ak Cloud správy nie sú dostupné. Bude spoplatnené vaším operátorom.</string>
@@ -262,6 +271,7 @@
   <string name="mx_count_dspt">Odoslali ste %1$d SMS a %2$d MMS cez cloud</string>
   <string name="mx_current_status">Stav: Online</string>
   <string name="mx_dspt">Odoslať správu cez internet medzi používateľmi MIUI a odoslať cez operátora ak zlyhá.</string>
+  <string name="mx_dspt_provision">Cloudové správy vám umožňujú zdarma odosielať SMS medzi užívateľmi MIUI. Aktivačná SMS môže byť spoplatnená vašim operátorom.</string>
   <string name="mx_enable">Povoliť Cloud správy</string>
   <string name="mx_enable_int_popup_msg">Cloud správy Vám umožnia posielať SMS správy zdarma medzi používateľmi MIUI. Pre aktiváciu sa odošle medzinárodná SMS správa ktorá bude spoplatnená podľa cenníka Vášho operátora.</string>
   <string name="mx_enable_popup_msg">Cloud správy Vám umožňujú odosielať sms cez MIUI. Vyžaduje sa odoslanie bežnej SMS správy pre ich aktiváciu. Chcete pokračovať?</string>
@@ -301,6 +311,7 @@
   <string name="phrase_list_title">Frázy</string>
   <string name="pick_too_many_recipients">Príliš mnoho príjemcov</string>
   <string name="play">Prehrať</string>
+  <string name="playing_failed">Nie je možné prehrať</string>
   <string name="pref_advanced_settings_title">Pokročilé nastavenia</string>
   <string name="pref_collapse_sp_messages_summary">Spájať do vlákna správy od Banky, operátora, atď.</string>
   <string name="pref_edit_smsc_address">Nastaviť číslo SMS centra</string>
@@ -351,6 +362,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="pref_title_wake_up_screen">Rozsvietiť displej</string>
   <string name="preferences_title">Nastavenia</string>
   <string name="prepare_send">Pripravené na odoslanie...</string>
+  <string name="press_recording">Stlačte a podržte ikonu mikrofónu pre nahrávanie</string>
   <string name="preview">Náhľad</string>
   <string name="preview_slideshow">Náhľad</string>
   <string name="priority_high">Vysoká</string>
@@ -369,10 +381,12 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="received_label">"Prijaté: "</string>
   <string name="recipient_editor_count_format">"%d"</string>
   <string name="recipient_label">"Príjemca: "</string>
+  <string name="recording_failed">Nie je možné nahrať</string>
   <string name="refill_now">Znovu zadať</string>
   <string name="refresh">Obnoviť</string>
   <string name="refresh_failed">Obnovenie zlyhalo</string>
   <string name="refreshing">Obnovovanie...</string>
+  <string name="release_cancel">Pustite pre ukončenie</string>
   <string name="remove">Odstrániť</string>
   <string name="remove_music">Odstrániť hudbu</string>
   <string name="remove_picture">Odstrániť fotografiu</string>
@@ -383,6 +397,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="replace_image">Nahradiť fotografiu</string>
   <string name="resent_message">Znova odoslať</string>
   <string name="resize_image_error_information">Veľkosť fotografie bola prispôsobená. Napriek tomu je príliš veľká a nemožno ju odoslať.</string>
+  <string name="resource_price_free">Zdarma</string>
   <string name="restore_all_button_msg">Obnoviť všetky správy z tohto čísla</string>
   <string name="restore_blocked_message">Obnoviť správy</string>
   <string name="restore_to_phone_memory_failed">Obnovenie zlyhalo</string>
@@ -396,6 +411,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="saved_ringtone">Vyzváňanie uložené</string>
   <string name="saved_ringtone_fail">Uloženie vyzváňania sa nepodarilo</string>
   <string name="saved_to_sim">Uložené</string>
+  <string name="sdcard_has_not_enough_space">Nie je dostatok miesta na úložisku</string>
   <string name="search">Správy</string>
   <string name="search_empty">Žiadne výsledky</string>
   <string name="search_hint">Hľadať v správach</string>
@@ -523,23 +539,7 @@ Pokus: %s."</string>
   <string name="view_hms_details">Podrobnosti</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
+  <string name="warning_show">Odoslať o %ds</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="mx_activate_dlg_title">Aktivovať Cloudové správy</string>
-  <string name="mx_activate_user_agreement_p1">"Používaním tejto služby súhlasíte s "</string>
-  <string name="mx_dspt_provision">Cloudové správy vám umožňujú zdarma odosielať SMS medzi užívateľmi MIUI. Aktivačná SMS môže byť spoplatnená vašim operátorom.</string>
-  <string name="audio_download_failed">sťahovanie nahrávky zlyhalo</string>
-  <string name="cannot_resend_audio">Nie je možné odoslať nahrávku</string>
-  <string name="downloading_file_can_not_play">Počkajte kým sa nahrávka stiahne</string>
-  <string name="guild_msim_switcher">Zmeniť SIM kartu</string>
-  <string name="left_cancel">Potiahnite doľava pre zrušenie</string>
-  <string name="menu_send_as_common">Odoslať ako SMS</string>
-  <string name="message_sent">Odoslané</string>
-  <string name="playing_failed">Nie je možné prehrať</string>
-  <string name="press_recording">Stlačte a podržte ikonu mikrofónu pre nahrávanie</string>
-  <string name="recording_failed">Nie je možné nahrať</string>
-  <string name="release_cancel">Pustite pre ukončenie</string>
-  <string name="resource_price_free">Zdarma</string>
-  <string name="sdcard_has_not_enough_space">Nie je dostatok miesta na úložisku</string>
-  <string name="warning_show">Odoslať o %ds</string>
 </resources>

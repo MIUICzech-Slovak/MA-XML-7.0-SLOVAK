@@ -57,6 +57,7 @@
   <string name="button_week">T</string>
   <string name="calendar_refresh">Aktualizovať</string>
   <string name="calendar_server_error">Chyba servera</string>
+  <string name="can_not_create_long_event">Popis je príliš dlhý</string>
   <string name="can_not_modify_allday_event">Celodenná udalosť nemôže byť upravená</string>
   <string name="can_not_modify_event">Nie je možné upraviť</string>
   <string name="can_not_modify_repeating_acrossing_days_event">Opakujúca sa a viacdenná udalosť nemôže byť upravená</string>
@@ -130,6 +131,7 @@
   <string name="event_view">Zobraziť udalosť</string>
   <string name="every_weekday">Každý pracovný deň (po–pia)</string>
   <string name="exist_calendar">Kalendár už existuje</string>
+  <string name="from_google_group_calendar">Google Kalendár</string>
   <string name="gadget_no_events">Žiadne nadchádzajúce udalosti</string>
   <string name="gadget_title">Kalendár</string>
   <string name="goto_today">Dnes</string>
@@ -286,6 +288,4 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="can_not_create_long_event">Popis je príliš dlhý</string>
-  <string name="from_google_group_calendar">Google Kalendár</string>
 </resources>

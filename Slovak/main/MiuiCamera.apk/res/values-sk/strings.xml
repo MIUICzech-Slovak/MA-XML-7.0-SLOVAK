@@ -203,6 +203,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Redukcia pruhov na displeji</string>
+  <string name="pref_camera_asd_title">Autom. rozpoznať scénu</string>
   <string name="pref_camera_audio_capture_title">Spúšť zvukom</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto. zachytiť keď sa zastaví</string>
   <string name="pref_camera_auto_chroma_flash_title">Chroma Flash</string>
@@ -301,6 +302,9 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_jpegquality_entry_low">Nízka</string>
   <string name="pref_camera_jpegquality_entry_normal">Normálna</string>
   <string name="pref_camera_jpegquality_title">Kvalita obrazu</string>
+  <string name="pref_camera_long_press_shutter_feature_title">Dlhé podržanie spúšte</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Dávkové snímanie</string>
+  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Zaostriť</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_off">Zaostriť</string>
   <string name="pref_camera_long_pressing_burst_shooting_entry_on">Dávkové fotenie</string>
   <string name="pref_camera_long_pressing_burst_shooting_title">Podržanie spúšte</string>
@@ -571,8 +575,4 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="pref_camera_long_press_shutter_feature_title">Dlhé podržanie spúšte</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Dávkové snímanie</string>
-  <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Zaostriť</string>
-  <string name="pref_camera_asd_title">Autom. rozpoznať scénu</string>
 </resources>

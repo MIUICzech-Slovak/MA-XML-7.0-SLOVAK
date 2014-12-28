@@ -9,6 +9,10 @@
   <string name="auth_notif_message">Zadajte kľúč relácie pre zariadenie %1$s</string>
   <string name="auth_notif_ticker">Žiadosť overenia Obex</string>
   <string name="auth_notif_title">Kľúč relácie</string>
+  <string name="bluetooth_preference_connected_devices">Pripojené zariadenia</string>
+  <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>
+  <string name="bluetooth_preference_scan_title">Vyhľadať zariadenie</string>
+  <string name="bluetooth_search_for_devices">Hľadanie zariadení</string>
   <string name="bt_advanced_settings">Bluetooth Advanced Settings</string>
   <string name="bt_enable_cancel">Zrušiť</string>
   <string name="bt_enable_line1">Ak chcete používať služby Bluetooth, musíte najskôr rozhranie Bluetooth zapnúť.</string>
@@ -30,6 +34,7 @@
   <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Odstrániť všetky záznamy</string>
   <string name="delete_record">Odstrániť záznam</string>
+  <string name="device_picker">Bluetooth device chooser</string>
   <string name="download_cancel">Zastaviť</string>
   <string name="download_fail_line1">Súbor nebol prijatý</string>
   <string name="download_fail_line2">Súbor: %1$s</string>
@@ -119,6 +124,7 @@
   <string name="profile_mse">MAP</string>
   <string name="profile_pan">PAN</string>
   <string name="profile_sap">SAP</string>
+  <string name="progress_scanning">Searching</string>
   <string name="sharedUserId"/>
   <string name="start_server">Spustiť server TCP</string>
   <string name="status_canceled">Prenos bol zrušený používateľom.</string>
@@ -155,10 +161,4 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
-  <string name="bluetooth_preference_connected_devices">Pripojené zariadenia</string>
-  <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>
-  <string name="bluetooth_preference_scan_title">Vyhľadať zariadenie</string>
-  <string name="bluetooth_search_for_devices">Hľadanie zariadení</string>
-  <string name="device_picker">Bluetooth device chooser</string>
-  <string name="progress_scanning">Searching</string>
 </resources>
