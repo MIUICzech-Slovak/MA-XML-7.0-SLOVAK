@@ -26,6 +26,9 @@
   <string name="deselect_all">Zrušiť výber všetkého</string>
   <string name="determine">Potvrdiť</string>
   <string name="dialog_cannot_resume">Sťahovanie bolo prerušené a nie je možné v ňom pokračovať.</string>
+  <string name="dialog_confirm_delete_checkbox_message">Vymazať aj stiahnutý súbor</string>
+  <string name="dialog_confirm_delete_downloads_message">Vymazať ulohy (%d)?</string>
+  <string name="dialog_confirm_delete_the_download_item_message">Vymazať tieto úlohy</string>
   <string name="dialog_failed_body">Chcete tento súbor skúsiť znova prevziať neskôr, alebo ho chcete zo zoznamu odstrániť?</string>
   <string name="dialog_file_already_exists">Nepodarilo sa prevziať. Cieľový súbor už existuje.</string>
   <string name="dialog_file_missing_body">Prevzatý súbor sa nepodarilo nájsť.</string>
@@ -42,6 +45,7 @@
   <string name="download_complete">Stiahnuté</string>
   <string name="download_error">Neúspešné</string>
   <string name="download_error_insufficient_space">Nedostatok miesta</string>
+  <string name="download_filesize_unknown">neznáme</string>
   <string name="download_in_process">Sťahované</string>
   <string name="download_info_count_deleted_tasks">Úspešne vymazané sťahovania %s</string>
   <string name="download_info_start_deleted_tasks">Pripravujem vymazanie sťahovania</string>
@@ -131,6 +135,8 @@
   <string name="turn_off_xunlei_message">Môže spôsobiť pomalšie sťahovanie dát.</string>
   <string name="turn_off_xunlei_tips">Xunlei sťahovanie je deaktivované</string>
   <string name="turn_off_xunlei_title">Deaktivovať Xunlei sťahovanie</string>
+  <string name="unbind_xunlei_2_success">Xunlei Account added</string>
+  <string name="unbind_xunlei_success">Signed out of Xunlei Account</string>
   <string name="valid_in_this_month">platí len pre tento mesiac</string>
   <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
   <string name="xunlei_brand">Poskytuje Xunlei</string>
