@@ -728,4 +728,41 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="your_gender">Vaše pohlavie</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
+  <string name="share_weibo_label">Weibo</string>
+  <string name="share_pengyouquan_label">Moments</string>
+  <string name="share_weixin_label">WeChat</string>
+  <string name="share_qq_label">QQ</string>
+  <string name="share_qq_zone_label">QZone</string>
+  <string name="share_miliao_label">MiTalk</string>
+  <string name="share_line_label">Line</string>
+  <string name="share_facebook_label">Facebook</string>
+  <string name="health_link">HealthLink</string>
+  <string name="title_health_link_service">Health Care Service</string>
+  <string name="health_care_date_limit">Period of service: free year</string>
+  <string name="health_care_country_limit">Region: China mainland</string>
+  <string name="service_call_notice">Call the 24-hour telephone, access to services</string>
+  <string name="notice_for_users">MiBand user Exclusive</string>
+  <string name="health_provider_desc">Union health services by far</string>
+  <string name="connected_broadcast_disconnect_tips">Please connect the MiBand, then set</string>
+  <string name="sensor_hub_tip">"Phone pedometer displayed by the phone's internal sensor
+  Motion data (Sensor Hub) record.
+  After binding bracelet, this data is only as a reference, not saved to the cloud"</string>
+  <string name="incomingcall_info_1">Toto upozornenie vyžaduje spustenú aplikáciu na pozadí.</string>
+  <string name="incomingcall_info_2">"Uzamknite aplikáciu MiBand a 
+pridajte MiBand do zoznamu povolených."</string>
+  <string name="incomingcall_info_3">Pridajte aplikáciu MiBand do zoznamu povolených.</string>
+  <string name="incoming_call_notify_closed">Upozornenie na prich. hovor ukončené</string>
+  <string name="sport_running_share">Zdieľať</string>
+  <string name="sport_running_watermark">Vodoznak</string>
+  <string name="share_image_preparing">Príprava na zdieľanie</string>
+  <string name="sport_running_cal_with_unit">Spálené(kcal)</string>
+  <string name="sport_running_cal_desc">Spálené</string>
+  <string name="sport_running_cal_burnt">%d kcal</string>
+  <string name="sport_running_step_frequency">Tempo(krokov/m)</string>
+  <string name="sport_running_marathon_cost_time">(Celý maratón potrebuje %s v tomto tempe)</string>
+  <string name="action_pop_service">Služby</string>
+  <string name="sport_running_label_hint">Názov</string>
+  <string name="sport_running_sport_state_sr_tips">Automaticky zastavené. Obnoví sa keď sa pohnete.</string>
+  <string name="sport_running_auto_pause">Automaticky zastaviť</string>
+  <string name="watermark_search_location">\#Získavanie polohy#</string>
 </resources>
