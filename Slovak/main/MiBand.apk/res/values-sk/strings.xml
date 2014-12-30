@@ -743,7 +743,6 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="service_call_notice">Call the 24-hour telephone, access to services</string>
   <string name="notice_for_users">MiBand user Exclusive</string>
   <string name="health_provider_desc">Union health services by far</string>
-  <string name="connected_broadcast_disconnect_tips">Please connect the MiBand, then set</string>
   <string name="sensor_hub_tip">"Phone pedometer displayed by the phone's internal sensor
   Motion data (Sensor Hub) record.
   After binding bracelet, this data is only as a reference, not saved to the cloud"</string>
