@@ -82,9 +82,9 @@
   <string name="order_check">Predaj</string>
   <string name="performance_compare">Výkon</string>
   <string name="person_check">Zdieľať</string>
-  <string name="phone">Telef=on:</string>
+  <string name="phone">Telefón:</string>
   <string name="picker_lable">Galéria</string>
-  <string name="place_barcode_into_rectangle">Zamerajte QR kód</string>
+  <string name="place_barcode_into_rectangle">Zamerajte QR kód na jd.mi.com</string>
   <string name="please_set_network">Nastavte sieťové pripojenie</string>
   <string name="public_beta">Official</string>
   <string name="recognize">Rozpoznať</string>
