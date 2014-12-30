@@ -30,7 +30,7 @@
   <string name="detail_info">Podrobnosti</string>
   <string name="detail_info_buy_channel">Distribútor</string>
   <string name="detail_info_capacity">Kapacita</string>
-  <string name="detail_info_content">Toto zariadenie nie je vyrobené spoločnosťou Xiaomi.</string>
+  <string name="detail_info_content">Toto zariadenie je vyrobené spoločnosťou Xiaomi.</string>
   <string name="detail_info_guarantee_time">Záruka</string>
   <string name="detail_info_model">Model</string>
   <string name="detail_info_produce_time">Čas výroby</string>
@@ -52,12 +52,12 @@
   <string name="finish">Dokončiť</string>
   <string name="flash_lable">Blesk</string>
   <string name="get_result_first">Navštívte www.miuios.cz/antifake</string>
-  <string name="get_result_four">Web page at the end to see the identification results</string>
-  <string name="get_result_from_web">See the appraisal report in the official website of millet identified</string>
-  <string name="get_result_path">Get step identification results</string>
-  <string name="get_result_second">Get into the identification results page</string>
-  <string name="get_result_third">Page generated two-dimensional code scanning information</string>
-  <string name="hard_device_msg_submit">HW specifikácia bola odoslaná</string>
+  <string name="get_result_four">Podrobnosti sa zobrazia na web stránke</string>
+  <string name="get_result_from_web">Podrobný výpis sa zobrazil na web stránke</string>
+  <string name="get_result_path">Získať podrobnosti o výsledku</string>
+  <string name="get_result_second">Navštívte web stránku s výsledkami</string>
+  <string name="get_result_third">Web stránka vygenerovala nový QR kód</string>
+  <string name="hard_device_msg_submit">HW špecifikácia bola odoslaná</string>
   <string name="hardware_compare">HardWare</string>
   <string name="help_adults">Pomoc</string>
   <string name="label_error_msg">Chyby</string>
