@@ -765,4 +765,7 @@ pridajte MiBand do zoznamu povolených."</string>
   <string name="sport_running_sport_state_sr_tips">Automaticky zastavené. Obnoví sa keď sa pohnete.</string>
   <string name="sport_running_auto_pause">Automaticky zastaviť</string>
   <string name="watermark_search_location">\#Získavanie polohy#</string>
+  <string name="connected_broadcast">Bluetooth Broadcasting</string>
+  <string name="connected_broadcast_tips">MiBand bude možné nájsť aj v iných zariadeniach</string>
+  <string name="connected_broadcast_disconnect_tips">Pripojte MiBand</string>
 </resources>
