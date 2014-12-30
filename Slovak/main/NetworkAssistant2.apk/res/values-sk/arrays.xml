@@ -56,8 +56,8 @@
         <item>"Wi-Fi "</item>
     </string-array>	
 	<string-array name="over_limit_traffic_waring_style">
-        <item>Zobraziť varovanie</item>
-        <item>Varovať a odpojiť od mobilných dát</item>
+        <item>Varovať</item>
+        <item>Varovať a odpojiť</item>
     </string-array>
     <string-array name="min_limit_pkg_default">
         <item>1 MB</item>
