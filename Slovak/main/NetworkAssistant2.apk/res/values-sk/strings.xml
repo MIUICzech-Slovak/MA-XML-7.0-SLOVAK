@@ -352,4 +352,14 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usage_sorted_activity_lable">Spotreba dát</string>
   <string name="usage_sorted_empty_text">Prázdne</string>
   <string name="usage_sorted_loading_text">Načítavanie...</string>
+  <string name="daily_limit_network_available_body">Zobraziť využitie dát.</string>
+  <string name="daily_limit_over_message">Prekročili ste denný limit dát.</string>
+  <string name="five_percent_total_pkg">%s (5%% z mesačného objemu dát)</string>
+  <string name="pref_title_over_traffic_limit_warning">Odpojiť mobilné dáta po prekročení limitu</string>
+  <string name="pref_title_traffic_limit_number">Objem</string>
+  <string name="reach_daily_limit_value_body">Obmedzte vašu spotrebu mobilných dát.</string>
+  <string name="reach_daily_limit_value_title">Dosiahli ste váš denný limit dát</string>
+  <string name="ten_percent_total_pkg">%s (10%% z mesačného objemu dát)</string>
+  <string name="three_percent_total_pkg">%s (3%% z mesačného objemu dát)</string>
+  <string name="title_limit_traffic_per_day">Denný limit mobilných dát</string>
 </resources>
