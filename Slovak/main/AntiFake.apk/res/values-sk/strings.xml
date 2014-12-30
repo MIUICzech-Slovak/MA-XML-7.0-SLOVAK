@@ -38,7 +38,7 @@
   <string name="detail_info_serial_number">Sériové číslo</string>
   <string name="detail_info_service_record">Záznam o opravách</string>
   <string name="display">Zobraziť</string>
-  <string name="download_in_mobile">Používate mobilné dáta. Stiahnutie novej verzie môže navýšiť vaše poplatky. Stiahnúť novú verziu?</string>
+  <string name="download_in_mobile">Používate mobilné dáta. Stiahnutie novej verzie môže navýšiť vaše poplatky. Stiahnuť novú verziu?</string>
   <string name="download_right_now">Stiahnuť</string>
   <string name="email">Email:</string>
   <string name="error_authfailure">Chyba identifikácie</string>
