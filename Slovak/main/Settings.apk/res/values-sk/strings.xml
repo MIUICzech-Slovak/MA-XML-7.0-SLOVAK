@@ -2859,4 +2859,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="handy_mode">Ovládanie jednou rukou</string>
+  <string name="handy_mode_enable">Ovládanie jednou rukou</string>
+  <string name="handy_mode_size">Veľkosť zmenšenia</string>
+  <string name="handy_mode_tips">Posuňte prstom doľava alebo doprava zo stredného tlačidla DOMOV pre zmenšenie displeja.</string>
 </resources>

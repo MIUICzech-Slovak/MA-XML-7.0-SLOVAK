@@ -45,4 +45,24 @@
         <item quantity="zero">Položiek: %1$d</item>
         <item quantity="one">Položiek: %1$d</item>
     </plurals>
+	<plurals name="how_many_pics">
+        <item quantity="other">Fotografie: %d</item>
+        <item quantity="one">Fotografie: %d</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">Videá: %d</item>
+        <item quantity="one">Videá: %d</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">Zložky: %d</item>
+        <item quantity="one">Zložky: %d</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Némáte oprávnenie vymazať tieto súbory %d.</item>
+        <item quantity="one">Némáte oprávnenie vymazať tieto súbory %d.</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Môžete vybrať %d položiek</item>
+        <item quantity="one">Môžete vybrať %d položku</item>
+    </plurals>
 </resources>
