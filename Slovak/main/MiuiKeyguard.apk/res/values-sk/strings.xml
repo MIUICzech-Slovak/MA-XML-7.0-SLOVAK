@@ -63,8 +63,8 @@ Deaktivujte režim Lietadlo."</string>
   <string name="miui_unlockscreen_password_wrong">Znova:</string>
   <string name="open_wifi_settings">Nastavenia siete</string>
   <string name="phone_locked_string">Zariadenie je zablokované</string>
-  <string name="phone_locked_timeout_minutes_string">Choďte späť po %s minútach</string>
-  <string name="phone_locked_timeout_seconds_string">Choďte späť po %s sekundách</string>
+  <string name="phone_locked_timeout_minutes_string">Skúste znovu o %s minút</string>
+  <string name="phone_locked_timeout_seconds_string">Skúste znovu o %s sekúnd</string>
   <string name="pin_operation_failed">PIN zlyhal.</string>
   <string name="pincode_set_to_default_msg">PIN je nastavený na 1234, môžete ho zmeniť tu:</string>
   <string name="puk_operation_failed">PUK zlyhal.</string>

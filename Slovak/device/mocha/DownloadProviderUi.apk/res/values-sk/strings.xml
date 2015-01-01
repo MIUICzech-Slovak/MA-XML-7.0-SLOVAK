@@ -58,7 +58,7 @@
   <string name="download_list_intoAuthAlert">Čakajte prosím</string>
   <string name="download_list_open_xl_cancel">Zrušiť</string>
   <string name="download_list_open_xl_message">Prístup k Xunlei sťahovaniu, neobmedzenému sťahovanie vyskou rýchlosťou.</string>
-  <string name="download_list_open_xl_ok">Odmietnuť</string>
+  <string name="download_list_open_xl_ok">OK</string>
   <string name="download_list_open_xl_title">Xunlei sťahovanie</string>
   <string name="download_no_application_title">Súbor nie je možné otvoriť</string>
   <string name="download_paused">Sťahovanie pozastavené</string>
