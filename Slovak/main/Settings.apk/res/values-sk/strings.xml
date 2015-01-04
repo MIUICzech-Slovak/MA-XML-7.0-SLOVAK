@@ -2863,4 +2863,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="handy_mode_enable">Ovládanie jednou rukou</string>
   <string name="handy_mode_size">Veľkosť zmenšenia</string>
   <string name="handy_mode_tips">Posuňte prstom doľava alebo doprava zo stredného tlačidla DOMOV pre zmenšenie displeja.</string>
+  <string name="music_hifi_volumn">Hlasitosť Hi-Fi</string>
 </resources>
