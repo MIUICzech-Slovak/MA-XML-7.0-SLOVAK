@@ -9,6 +9,6 @@
   <string name="root_audio">Audio</string>
   <string name="root_images">Obrázky</string>
   <string name="root_videos">Videá</string>
-  <string name="uid_label">Média</string>
+  <string name="uid_label">Médiá</string>
   <string name="upgrade_msg">Aktualizovanie databázy médií.</string>
 </resources>

@@ -1273,7 +1273,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="media_format_summary">Zmaže dáta na SD karte</string>
   <string name="media_format_title">Zmazať SD kartu</string>
   <string name="media_volume_summary">Umožňuje nastaviť hlasitosť hudby a videí</string>
-  <string name="media_volume_title">Média</string>
+  <string name="media_volume_title">Médiá</string>
   <string name="medium_font">Stredné</string>
   <string name="memory">RAM</string>
   <string name="memory_apps_usage">Aplikácie</string>
@@ -1286,7 +1286,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="memory_downloads_usage">Sťahovanie</string>
   <string name="memory_media_cache_usage">Údaje uložené vo vyrovnávacej pamäti</string>
   <string name="memory_media_misc_usage">Rôzne</string>
-  <string name="memory_media_usage">Média</string>
+  <string name="memory_media_usage">Médiá</string>
   <string name="memory_music_usage">Audio súbory</string>
   <string name="memory_size">Celková pamäť</string>
   <string name="memory_title">Dostupné: %1$s\u0009\u0009Celkom: %2$s</string>
@@ -2472,8 +2472,8 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="volume_bluetooth_description">Bluetooth</string>
   <string name="volume_category_title">Hlasitosť</string>
   <string name="volume_hifi_description">Nastavenie Hi-Fi</string>
-  <string name="volume_media_description">Hudba, video, hry a ďalšie média</string>
-  <string name="volume_media_mute">Stlmiť hudbu a ostatné média</string>
+  <string name="volume_media_description">Hudba, video, hry a ďalšie médiá</string>
+  <string name="volume_media_mute">Stlmiť hudbu a ostatné médiá</string>
   <string name="volume_notification_description">Oznámenia</string>
   <string name="volume_notification_mute">Stlmiť notifikácie</string>
   <string name="volume_restore">Obnoviť hlasitosť</string>

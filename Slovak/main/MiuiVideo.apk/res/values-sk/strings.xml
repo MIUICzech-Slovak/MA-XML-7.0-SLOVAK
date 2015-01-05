@@ -26,7 +26,7 @@
   <string name="all">Všetko</string>
   <string name="all_comment">Všetky komentáre</string>
   <string name="all_ep">Všetky ep.</string>
-  <string name="all_media">Všetky média</string>
+  <string name="all_media">Všetky médiá</string>
   <string name="app_name">Video</string>
   <string name="area_colon">"Krajina: "</string>
   <string name="authenticated_failed">Prihlásenie zlyhalo</string>
@@ -118,7 +118,7 @@
   <string name="feature_media_empty_hint">Žiadne</string>
   <string name="file_error">Chyba súboru</string>
   <string name="filter">Filter</string>
-  <string name="filter_media">Filtrovať média</string>
+  <string name="filter_media">Filtrovať médiá</string>
   <string name="filter_program">Filter</string>
   <string name="forecast">Program</string>
   <string name="forecast_empty_hint">Žiadne programy</string>
@@ -152,7 +152,7 @@
   <string name="login_tip_content">Prihláste sa Vašim Xiaomi účtom pre aktualizácie Vašich obľúbených seriálov.</string>
   <string name="login_tip_title">Prihlásiť</string>
   <string name="manage">Spravovať</string>
-  <string name="manage_offline_media">Spravovať offline média cache</string>
+  <string name="manage_offline_media">Spravovať offline médiá cache</string>
   <string name="media_name_comment">%s komentár</string>
   <string name="menu_item_disable_audio_enhance">Vypnúť vylepšenie zvuku</string>
   <string name="menu_item_enable_audio_enhance">Povoliť vylepšenie zvuku</string>
@@ -181,7 +181,7 @@
   <string name="offline_media_empty_hint">Prázdne</string>
   <string name="offline_no_source">Žiadne zdroje</string>
   <string name="offline_no_wifi">Nie ste pripojený na Wi-Fi, zvoľte možnosť načítavania cez mobilnú sieť v nastaveniach ak chcete pokračovať.</string>
-  <string name="offline_setting">Offline média</string>
+  <string name="offline_setting">Offline médiá</string>
   <string name="ok">OK</string>
   <string name="online_video">Online</string>
   <string name="other_setting">Ostatné</string>
@@ -244,8 +244,8 @@
   <string name="toast_message_continue_play_minute">"m "</string>
   <string name="toast_message_continue_play_second_and_play">s</string>
   <string name="today">"Dnes "</string>
-  <string name="top_status_local_media">Lokálne média</string>
-  <string name="top_status_online_media">Online média</string>
+  <string name="top_status_local_media">Lokálne médiá</string>
+  <string name="top_status_online_media">Online médiá</string>
   <string name="tv_channel_empty_hint">Žiadne kanály</string>
   <string name="type_colon">Žáner:</string>
   <string name="unfavorite">Odznačiť</string>

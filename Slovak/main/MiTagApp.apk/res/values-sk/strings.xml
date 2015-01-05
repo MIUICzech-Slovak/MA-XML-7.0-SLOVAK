@@ -101,7 +101,7 @@ sa dotknete štítkom telefónu"</string>
   <string name="input_password_gain">Potvrdiť heslo</string>
   <string name="input_password_warning">"Heslo bude zapísané na štítku, nezabudnite ho!"</string>
   <string name="local_app">Stiahnuté aplikácie</string>
-  <string name="media_value">Média %s%%</string>
+  <string name="media_value">Médiá %s%%</string>
   <string name="meeting_mode">Režim Stretnutie</string>
   <string name="miui_ringer_mode">Režim zvonenia</string>
   <string name="mode">režim</string>
@@ -168,7 +168,7 @@ sa dotknete štítkom telefónu"</string>
   <string name="sms_content">Správa</string>
   <string name="sound">Zvuk</string>
   <string name="sound_alarm">Budík</string>
-  <string name="sound_media">Média</string>
+  <string name="sound_media">Médiá</string>
   <string name="sound_notification">Upozornenia</string>
   <string name="sound_ringer">Zvonenie</string>
   <string name="sound_voice">Hovory</string>
