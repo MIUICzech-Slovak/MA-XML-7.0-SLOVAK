@@ -727,4 +727,8 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="summary_network_switch">Povoliť Optimalizácií pripojenie na internet</string>
+  <string name="summary_never_flow_verify">Nebolo overené u vášho operátora</string>
+  <string name="title_network_switch">Povoliť prístup na internet</string>
+  <string name="toast_network_switch">Táto aplikácia má prístup na internet</string>
 </resources>
