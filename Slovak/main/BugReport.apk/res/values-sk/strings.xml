@@ -125,4 +125,8 @@
   <string name="wlan_unavailable_dialog_button_sent">Odoslať okamžite</string>
   <string name="wlan_unavailable_dialog_content">Odošle sa %s cez 2G/3G dáta, stlačte OK na odoslanie cez sieť Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
+  <string name="bugreport_dump_complete_notification_summary">Zobraziť</string>
+  <string name="bugreport_dump_complete_notification_title">Vytvoriť hlásenie o chybe</string>
+  <string name="bugreport_dump_start_notification_summary">Trvá približne 1 minútu.</string>
+  <string name="bugreport_dump_start_notification_title">Vytváranie hlásenia o chybe</string>
 </resources>

@@ -727,4 +727,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="boot_reminder_day_hour">Zariadenie sa zapne o %1$dd %2$dh</string>
+  <string name="boot_reminder_only_day">Zariadenie sa zapne o %1$dd</string>
+  <string name="boot_reminder_only_hour">Zariadenie sa zapne o %1$dh</string>
 </resources>

@@ -282,4 +282,13 @@
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="stream_quality">Kvalita streamu</string>
+  <string name="bill_list_fragment_title">Hitparády</string>
+  <string name="channel_list_fragment_title">FM</string>
+  <string name="delete_file_as_well">Vymazať aj stiahnutý súbor</string>
+  <string name="delete_file_end">Súbory vymazané</string>
+  <string name="delete_file_start">Vymazať súbory</string>
+  <string name="no_song">Žiadne skladby</string>
+  <string name="nowplaying_menu_item_delete">Vymazať</string>
+  <string name="project_device_mobile">Mobilné zariadenie</string>
+  <string name="recommend_fragment_title">Hity</string>
 </resources>
