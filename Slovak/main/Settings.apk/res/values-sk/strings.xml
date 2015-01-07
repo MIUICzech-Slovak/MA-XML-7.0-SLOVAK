@@ -2889,4 +2889,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="location_agps_supl_server_port">Server port</string>
   <string name="location_agps_supl_settings">SUPL settings</string>
   <string name="supl_not_set">&lt;Nenastavené&gt;</string>
+  <string name="screen_effect">Kontrast a farby</string>
+  <string name="screen_optimize">Kontrast</string>
+  <string name="wifi_disconnected_notification_summary">Pokus o znovu pripojenie k Wi-Fi.</string>
+  <string name="wifi_disconnected_notification_title">Wi-Fi odpojené</string>
 </resources>

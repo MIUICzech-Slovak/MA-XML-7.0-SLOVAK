@@ -816,7 +816,7 @@ Synchronizujte ich teraz."</string>
   <string name="resource_comment_edit_comment_waiting">Kontrola histórie užívateľa...</string>
   <string name="resource_comment_edit_text_default">Napíšte komentár</string>
   <string name="resource_comment_edit_title">Upraviť komentár: %1$s</string>
-  <string name="resource_comment_entry_tips">Zobraziť komentáre</string>
+  <string name="resource_comment_entry_tips">Komentáre (%1$s)</string>
   <string name="resource_comment_expand_full_text">Rozbaliť text▼</string>
   <string name="resource_comment_footer">Prázdne komentáre nie sú zobrazené.</string>
   <string name="resource_comment_good_comments">Pozitívne</string>
@@ -1155,4 +1155,19 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="resource_detail_vertical_divider">|</string>
+  <string name="resource_failed_to_load_list">Načítavanie zoznamu zlyhalo</string>
+  <string name="resource_get_auth_has_been_undercarriaged">Táto téma už nie je dostupná.</string>
+  <string name="resource_get_auth_not_official">Témy mimo oficiálneho obchodu nie sú podporované</string>
+  <string name="resource_has_been_downloaded">Táto téma už je stiahnutá.</string>
+  <string name="resource_no_match_app">Nenašla sa žiadna aplikácia.</string>
+  <string name="resource_no_network_text">Nie je možné pripojiť sa k sieti.</string>
+  <string name="resource_search_list_empty">Nič sa nenašlo</string>
+  <string name="resource_select_ringtone_confirm">Vybrať tento tón?</string>
+  <string name="resource_tip_select_none">Žiadne</string>
+  <string name="resource_title_category">Kategórie</string>
+  <string name="resource_title_hot_subject">Populárne</string>
+  <string name="resource_title_local">Lokálne</string>
+  <string name="resource_title_rank">Najlepšie</string>
+  <string name="resource_title_subject">Odporúčané</string>
 </resources>

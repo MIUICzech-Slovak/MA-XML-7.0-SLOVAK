@@ -27,7 +27,7 @@
   <string name="cloud_space_upgrade_message">Stlačte pre získanie %s GB miesta tento mesiac</string>
   <string name="cloud_space_upgrade_no_quota_info">Nesprávne dáta, skúste to znova</string>
   <string name="cloud_space_upgrade_title">Získajte viac priestoru v Cloude!</string>
-  <string name="cloud_sync_setting_summary_standard">Štandard: Synchronizovať cez Wi-Fi fotografie, video, MMS, dáta aplikácií a ostatné cez mobilné dáta</string>
+  <string name="cloud_sync_setting_summary_standard">Synchr. SMS, fotografie, a videá po pripojení na Wi-Fi</string>
   <string name="cloud_sync_setting_summary_wlan">Len cez Wi-Fi: Synchr. všetko len cez Wi-Fi</string>
   <string name="cmcc_micloud_dspt">Služby Cloudu obsahujú synchronizáciu, vyhľadanie polohy zariadenia a mnoho ďalších funkcií. Taktiež môžete svoje dáta spravovať kedykoľvek online!</string>
   <string name="contact">Kontaktov</string>
@@ -261,4 +261,11 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
   <string name="user_agreement_title">Podmienky používania MiCloud</string>
+  <string name="find_device_status_ok">Vyhľadajte svoje zariadenia na i.mi.com</string>
+  <string name="micloud_setting_browser_summary">Záložky a históriu</string>
+  <string name="micloud_setting_contact_summary">Kontakty a profilové fotografie</string>
+  <string name="micloud_setting_gallery_summary">Fotografie a videá</string>
+  <string name="micloud_setting_music_summary">Playlisty a obľúbené skladby</string>
+  <string name="micloud_setting_sms_summary">SMS a MMS</string>
+  <string name="micloud_setting_wifi_summary">Wi-Fi nastavenie</string>
 </resources>

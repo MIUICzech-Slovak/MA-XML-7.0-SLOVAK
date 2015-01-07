@@ -651,4 +651,14 @@ Postupujte podľa pokynov"</item>
         <item>Domáca sieť</item>
         <item>Všetky siete</item>
     </string-array>
+    <string-array name="screen_optimize_title">
+        <item>Automatický kontrast</item>
+        <item>Zvýšený kontrast</item>
+        <item>Štandard</item>
+    </string-array>
+    <string-array name="screen_optimize_summary">
+        <item>Prispôsobiť kontrast okolitému osvetleniu</item>
+        <item>Zvýšiť kontrast</item>
+        <item>Nemeniť kontrast</item>
+    </string-array>
 </resources>
