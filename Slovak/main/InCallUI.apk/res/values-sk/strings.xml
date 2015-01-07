@@ -295,7 +295,7 @@
   <string name="labelNwService">Nastavenie sieťových služieb</string>
   <string name="label_available">Dostupné siete</string>
   <string name="label_ndp">PIN na odomknutie siete SIM</string>
-  <string name="label_puk2_code">Zadajte kód PUK2</string>
+  <string name="label_puk2_code">PUK2</string>
   <string name="lafs_disable">Miestne prílety a odlety zakázané</string>
   <string name="lafs_enable">Miestne prílety a odlety povolené</string>
   <string name="list_language_dtitle">Jazyky</string>
