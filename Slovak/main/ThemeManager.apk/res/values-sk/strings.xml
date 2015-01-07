@@ -316,13 +316,11 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="my_gifts_received">Prijaté</string>
   <string name="purchased_list_format">Zakúpené %1$s</string>
   <string name="resource_detail_vertical_divider">|</string>
-  <string name="resource_failed_to_load_list">Načítavanie zlyhalo</string>
   <string name="resource_get_auth_has_been_undercarriaged">Táto téma už nie je dostupná.</string>
   <string name="resource_get_auth_not_official">Témy mimo oficiálneho obchodu nie sú podporované</string>
   <string name="resource_has_been_downloaded">Táto téma už je stiahnutá.</string>
   <string name="resource_no_match_app">Nenašla sa žiadna aplikácia.</string>
   <string name="resource_no_network_text">Nie je možné pripojiť sa k sieti</string>
-  <string name="resource_search_list_empty">Nič sa nenašlo</string>
   <string name="resource_select_ringtone_confirm">Vybrať tento tón?</string>
   <string name="resource_title_category">Kategórie</string>
   <string name="resource_title_hot_subject">Populárne</string>
