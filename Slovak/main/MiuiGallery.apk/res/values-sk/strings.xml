@@ -47,7 +47,7 @@
   <string name="alert_init_merged_message">Fotografie ktoré máte vo svojom zariadení a v MiCloud, sa zobrazia na jednom mieste.</string>
   <string name="alert_init_merged_title">Všetky fotografie na jednom mieste.</string>
   <string name="alert_message_open_sync">Vyžaduje sa synchronizácia, prajete si synchronizovať teraz?</string>
-  <string name="alert_secret_album_message">Posuňte prstom odspodu nahor pre zobrazenie tajného albumu. Pre jeho ochranu je nutné nastaviť vzor.</string>
+  <string name="alert_secret_album_message">Posuňte prstom zhora nadol v cloud abumoch pre zobrazenie tajného albumu. Pre jeho ochranu je nutné nastaviť vzor.</string>
   <string name="alert_secret_album_title">Pridané do tajného albumu</string>
   <string name="already_apply_album">Otvoriť %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
