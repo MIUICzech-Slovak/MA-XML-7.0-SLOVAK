@@ -193,7 +193,7 @@ spoločne!"</string>
   <string name="edit">Upraviť</string>
   <string name="edited_photo_bucket_name">Upravené</string>
   <string name="email_picker_title">Pridať zdieľaný E-mail</string>
-  <string name="enable">Povoliť</string>
+  <string name="enable">Povolené</string>
   <string name="enable_cloud_for_sharing">Je potrebné povoliť cloudové album pre zobrazenie zdieľaných fotografií.</string>
   <string name="enter_email_hint">"Zadajte E-mail "</string>
   <string name="error_album_not_exist">"Album neexistuje."</string>
