@@ -2893,4 +2893,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="screen_optimize">Kontrast</string>
   <string name="wifi_disconnected_notification_summary">Pokus o znovu pripojenie k Wi-Fi.</string>
   <string name="wifi_disconnected_notification_title">Wi-Fi odpojené</string>
+  <string name="screen_paper_mode_summary">Pri dlhodobom čítaní bude potlačená modrá farba</string>
+  <string name="screen_paper_mode_title">Čítací režim</string>
+  <string name="screen_paper_mode_turn_off">Zakázané</string>
+  <string name="screen_paper_mode_turn_on">Povolené</string>
 </resources>

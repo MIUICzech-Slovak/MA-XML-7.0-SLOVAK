@@ -381,4 +381,5 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="roaming_not_start_title">Medzinárodný roaming</string>
   <string name="roaming_start_body">Povoliť aplikáciam v zozname výnimiek prístup k dátovému pripojeniu počas medzinárodného roamingu.</string>
   <string name="roaming_start_title">Medzinárodný roaming</string>
+  <string name="tc_sms_report_toast_text">Získavanie informácií...</string>
 </resources>

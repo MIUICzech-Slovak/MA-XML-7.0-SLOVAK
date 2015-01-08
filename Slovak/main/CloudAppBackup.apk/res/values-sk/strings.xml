@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-  <string name="already_deleted">(vymazané)</string>
+  <string name="already_deleted">%d (vymazané)</string>
   <string name="already_disable_backup">Záloha je deaktivovaná pre toto zariadenie</string>
   <string name="already_enable_backup">Záloha je povolená pre toto zariadenie</string>
   <string name="app_installed">Nainštalované</string>
@@ -142,4 +142,11 @@ Ok pre zrušenie obnovy"</string>
   <string name="v5_delete">vymazať V5 dáta</string>
   <string name="v5tov6_complete">Konverzia dokončená</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="about_cloud_app_backup">O zálohe</string>
+  <string name="cancel_recover_settings">Zrušiť</string>
+  <string name="cloud_app_backup_already">" bolo zálohované"</string>
+  <string name="download_settings">Stiahnuť nastavenie plochy</string>
+  <string name="explantion_of_data_size">Ušetrené miesto použitím MiMarket</string>
+  <string name="recover_settings">Obnoviť nastavenia plochy</string>
+  <string name="recover_settings_description">Ponechať zariadenie zapnuté</string>  
 </resources>
