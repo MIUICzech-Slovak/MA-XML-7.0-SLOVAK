@@ -13,18 +13,6 @@
 	    "position": 0
         },
         {
-            "title":"xiaomimobile.cz",
-            "url":"http://www.xiaomimobile.cz/",
-            "thumbnail":"xm.png",
-            "logobg":"bg01.9.png",
-            "nightModeMask": "night.9.png",
-            "favicon":"",
-	    "displayName": "Xiaomimobile.cz",
-	    "isDelete": true,
-	    "movable": true,
-	    "position": 1
-        },
-        {
             "title":"Zoznam zmien MIUI",
             "url":"http://www.miuios.cz/miui-changelog",
             "thumbnail":"change-cz-sk.png",
