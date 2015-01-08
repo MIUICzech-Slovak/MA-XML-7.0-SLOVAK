@@ -553,7 +553,7 @@ spoločne!"</string>
   <string name="sync_only_in_wifi">Iba cez Wi-Fi</string>
   <string name="sync_only_in_wifi_alert">Deaktivovanie synchronizácie len cez Wi-Fi môže zvýšiť Vaše poplatky za mobilne dáta. Chcete deaktivovať?</string>
   <string name="sync_only_in_wifi_summary">Odporúča sa povoliť, inak sa spotrebuje viac dát od operátora.</string>
-  <string name="sync_third_party_app_pic_summary">Upload photos in some app folders to your cloud automatically</string>
+  <string name="sync_third_party_app_pic_summary">Nahrať fotografie z ostatných aplikácií automaticky do MiCloud</string>
   <string name="system_album">Systémový album</string>
   <string name="tab_all_text">Všetko</string>
   <string name="tab_lockscreen_text">Tapeta zámku</string>
