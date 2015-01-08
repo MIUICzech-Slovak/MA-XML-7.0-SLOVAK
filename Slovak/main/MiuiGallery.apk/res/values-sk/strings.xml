@@ -375,7 +375,7 @@ spoločne!"</string>
   <string name="open_single_image_failure">Obrázok sa nepodarilo otvoriť!</string>
   <string name="open_sync_title">Vyžaduje sa Synchronizácia</string>
   <string name="operation_add_picture">Vybrať obrázky</string>
-  <string name="operation_add_secret">Pridať tajné</string>
+  <string name="operation_add_secret">Pridať do tajného albumu</string>
   <string name="operation_delete_confirm_message_folder">"Zložky a súbory v nich budú vymazané.
 "</string>
   <string name="operation_failed">Operácia zlyhala.</string>
