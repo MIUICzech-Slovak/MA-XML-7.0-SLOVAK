@@ -325,7 +325,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="resource_title_category">Kategórie</string>
   <string name="resource_title_hot_subject">Populárne</string>
   <string name="resource_title_local">Lokálne</string>
-  <string name="resource_title_rank">Populárne</string>
+  <string name="resource_title_rank">Najlepšie</string>
   <string name="resource_title_subject">Populárne</string>
   <string name="theme_empty_redirect">Naspäť do obchodu</string>
   <string name="theme_favorite_add_fail">Nie je možné označiť tému</string>
