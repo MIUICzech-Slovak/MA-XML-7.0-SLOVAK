@@ -37,29 +37,40 @@
     "name" : "com.xiaomi.miclick.core.action.AudioRecorderAction",
     "sortId" : 6
   },
+  { "mutex" : [ "com.xiaomi.miclick.core.action.SearchAction"],
+      "groupId" : 1,
+      "groupName" : "Aplikácie",
+      "name" : "com.xiaomi.miclick.core.action.SearchAction",
+      "sortId" : 7
+    },
   { "groupId" : 1,
       "groupName" : "Aplikácie",
       "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction" ],
       "name" : "com.xiaomi.miclick.core.action.QrcodeAction",
-      "sortId" : 7
+      "sortId" : 8
     },
   { "mutex" : [ "com.xiaomi.miclick.core.action.WallpaperAction"],
       "groupId" : 1,
       "groupName" : "Aplikácie",
       "name" : "com.xiaomi.miclick.core.action.WallpaperAction",
-      "sortId" : 8
+      "sortId" : 9
     },
   { "mutex" : [ "com.xiaomi.miclick.core.action.WebpageAction"],
       "groupId" : 1,
       "groupName" : "Aplikácie",
       "name" : "com.xiaomi.miclick.core.action.WebpageAction",
-      "sortId" : 9
+      "sortId" : 10
+  },
+  { "groupId" : 1,
+    "groupName" : "Aplikácie",
+    "name" : "com.xiaomi.miclick.core.action.KuaidiAction",
+    "sortId" : 11
   },
   { "groupId" : 1,
     "groupName" : "Aplikácie",
     "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction" ],
     "name" : "com.xiaomi.miclick.core.action.Camera360CaptureAction",
-    "sortId" : 10
+    "sortId" : 12
   },
   { "dependence" : [ "com.xiaomi.miclick.core.action.Camera360CaptureAction",
         "com.xiaomi.miclick.core.action.CapturePhotoInstantAction",
@@ -68,34 +79,34 @@
     "groupId" : 1,
     "groupName" : "Aplikácie",
     "name" : "com.xiaomi.miclick.core.action.Camera360EditAction",
-    "sortId" : 11
+    "sortId" : 13
   },
   { "groupId" : 1,
     "groupName" : "Aplikácie",
     "name" : "com.xiaomi.miclick.core.action.CallAction",
-    "sortId" : 12
+    "sortId" : 14
   },
   { "groupId" : 1,
     "groupName" : "Aplikácie",
     "name" : "com.xiaomi.miclick.core.action.SMSAction",
-    "sortId" : 13
+    "sortId" : 15
   },
   { "mutex" : [ "com.xiaomi.miclick.core.action.MikeySpriteToggleAction"],
     "groupId" : 1,
     "groupName" : "Aplikácie",
     "name" : "com.xiaomi.miclick.core.action.MikeySpriteToggleAction",
-    "sortId" : 14
+    "sortId" : 16
   },
   { "mutex" : [ "com.xiaomi.miclick.core.action.TorchAction"],
       "groupId" : 1,
       "groupName" : "Aplikácie",
       "name" : "com.xiaomi.miclick.core.action.VideoRecorderAction",
-      "sortId" : 15
+      "sortId" : 17
     },
   { "groupId" : 1,
     "groupName" : "Aplikácie",
     "name" : "com.xiaomi.miclick.core.action.OpenAppAction",
-    "sortId" : 16
+    "sortId" : 18
   },
   { "groupId" : 2,
     "groupName" : "Systém",
@@ -241,4 +252,3 @@
       "sortId" : 26
   }
 ]
-
