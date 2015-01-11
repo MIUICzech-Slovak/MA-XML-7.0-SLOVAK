@@ -275,13 +275,6 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="webpage_input_title">Zadajte URL</string>
   <string name="webpage_title">Otvoriť web stránku</string>
   <string name="write_pic_fail">Chyba uloženia fotografie!</string>
-  <string name="screenkey_title">Senzorové tlačidlá</string>
-  <string name="mikey_sprite_toggle_title">MiKey wizard povolený</string>
-  <string name="privacy_mode_end">Súkromný režim zakázané</string>
-  <string name="privacy_mode_started">Súkromný režim povolený</string>
-  <string name="privacy_mode_title">Súkromný režim</string>
-  <string name="screenkey_disabled">Senzorové tlačidlá zakázané</string>
-  <string name="screenkey_enabled">Senzorové tlačidlá povolené</string>
   <string name="tab_combo">Balíček</string>
   <string name="privacy_mode_first_hint">Pre cudzích je povolený režim Návštevník</string>
   <string name="enable_mad_click">Povolený šialený režim</string>
