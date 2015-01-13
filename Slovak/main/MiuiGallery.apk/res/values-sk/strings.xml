@@ -610,8 +610,8 @@ spoločne!"</string>
   <string name="yunyi_pocket_camera">Fotoaparát</string>
   <string name="no_such_album">Album sa nenašiel</string>
   <string name="alert_secret_album_set_pattern">Nastaviť vzor</string>
-  <string name="auto_upload_guide">Automaticky nahrať fotografie z ostatných aplikácií na MiCloud</string>
-  <string name="auto_upload_setting_toast">Ďalšie možnosti nastavenia nájdete v nastaveniach MiCloud</string>
+  <string name="auto_upload_guide_msssage">Automaticky nahrať fotografie z ostatných aplikácií na MiCloud</string>
+  <string name="auto_upload_guide_title">Automaticky nahrať</string>
   <string name="go_setting">Zobraziť nastavenia</string>
   <string name="new_feature">Nová funkcia</string>
   <string name="not_now">Neskôr</string>
