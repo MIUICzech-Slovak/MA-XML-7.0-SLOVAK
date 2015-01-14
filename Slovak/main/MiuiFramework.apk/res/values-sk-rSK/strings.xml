@@ -183,4 +183,5 @@
   <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
   <string name="device_pad">MiPAD</string>
   <string name="status_bar_toggle_paper_mode">Čítací režim</string>
+  <string name="screen_paper_mode_enter_toast">Čítací režim je aktívny. Môžete ho kedykoľvek vypnúť v Nastavenia - Ďalšie nastavenia - Čítací režim.</string>
 </resources>

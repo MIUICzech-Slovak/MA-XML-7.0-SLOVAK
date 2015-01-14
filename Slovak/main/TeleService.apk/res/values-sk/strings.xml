@@ -859,4 +859,5 @@ Môže to trvať aj 5 minút."</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="international_roaming_setting">Medzinárodný roaming</string>
   <string name="incall_error_no_active_sim">Žiadna SIM karta</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferovať 4G (CDMA)</string>
 </resources>

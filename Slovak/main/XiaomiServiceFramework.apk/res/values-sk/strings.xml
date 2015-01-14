@@ -70,4 +70,6 @@
   <string name="error_device_id_title">Nie je možné získať číslo IMEI</string>
   <string name="sim_unactivated_title">Vaša SIM karta nie je aktivovaná</string>
   <string name="xmsf_activate_info">XMSF info</string>
+  <string name="sync_notification_title_format">Synchronizuje: %1$s</string>
+  <string name="xiaomi_cloud_service">MiCloud</string>
 </resources>

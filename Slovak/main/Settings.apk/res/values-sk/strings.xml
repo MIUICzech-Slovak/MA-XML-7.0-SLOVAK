@@ -1505,9 +1505,9 @@ Vyberte váš operačný systém:"</string>
   <string name="owner_info_settings_title">Info o vlastníkovi</string>
   <string name="packages_subtitle">Zahrnuté balíčky</string>
   <string name="page_layout_1">Sun 16/08</string>
-  <string name="page_layout_10">Správy</string>
-  <string name="page_layout_11">Optimalizácia</string>
-  <string name="page_layout_12">Nastavenie</string>
+  <string name="page_layout_10">Nastavenia</string>
+  <string name="page_layout_11">Počasie</string>
+  <string name="page_layout_12">Optimalizácia</string>
   <string name="page_layout_13">Nástroje</string>
   <string name="page_layout_14">Hry</string>
   <string name="page_layout_15">Apps</string>
@@ -1531,10 +1531,10 @@ Vyberte váš operačný systém:"</string>
   <string name="page_layout_31">Chartte Yvon</string>
   <string name="page_layout_4">Hudba</string>
   <string name="page_layout_5">Video</string>
-  <string name="page_layout_6">Počasie</string>
-  <string name="page_layout_7">Poznámky</string>
-  <string name="page_layout_8">Kalendár</string>
-  <string name="page_layout_9">Email</string>
+  <string name="page_layout_6">Aplikácie</string>
+  <string name="page_layout_7">Hry</string>
+  <string name="page_layout_8">MiLife</string>
+  <string name="page_layout_9">Témy</string>
   <string name="page_layout_confirm_message">Vaše zariadenie je nutné reštartovať pre aplikovanie zmien</string>
   <string name="page_layout_confirm_title">Zmeniť rozloženie</string>
   <string name="passwordIncorrect">Zadané heslo nie je správne</string>
@@ -2898,4 +2898,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="screen_paper_mode_turn_off">Zakázané</string>
   <string name="screen_paper_mode_turn_on">Povolené</string>
   <string name="screen_paper_mode_apps_title">Použiť čítací režim pre tieto apl.</string>
+  <string name="screen_paper_mode_off_apps_title">Nepoužívať čítací režim pre tieto aplikácie</string>
 </resources>

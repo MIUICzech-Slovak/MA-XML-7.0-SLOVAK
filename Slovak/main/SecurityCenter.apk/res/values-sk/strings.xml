@@ -730,12 +730,12 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="boot_reminder_day_hour">Zariadenie sa zapne o %1$dd %2$dh</string>
   <string name="boot_reminder_only_day">Zariadenie sa zapne o %1$dd</string>
   <string name="boot_reminder_only_hour">Zariadenie sa zapne o %1$dh</string>
-  <string name="confirm_auto_cleaner">Potvrdiť</string>
-  <string name="positive_confirm">Potvrdiť</string>
-  <string name="summary_auto_cleaner">Whether to clean automatically? Every three days after opening the default automatic cleaning a garbage can change the frequency and content in settings</string>
-  <string name="summary_delete_cache">Chcete vymazať cache vybraných aplikácií?</string>
-  <string name="summary_delete_large_file">Vymazať tento súbor? Vymazanie veľkých súborov môže odstrániť napr. aj offline mapy.</string>
-  <string name="title_auto_cleaner">Automaticky vyčistiť</string>
-  <string name="title_delete_cache">Vymazať cache</string>
-  <string name="title_delete_large_file">Vymazať veľké súbory</string>
+  <string name="confirm_auto_cleaner">OK</string>
+  <string name="positive_confirm">OK</string>
+  <string name="summary_auto_cleaner">Vyčistiť systém automaticky každé 3 dni?</string>
+  <string name="summary_delete_cache">Niektoré aplikácie vyžaduju tieto dáta pre ich správnu funkciu.</string>
+  <string name="summary_delete_large_file">Niektoré veľké súbory môžu byť využívané aplikáciami v offline režime (napr. mapy, atď.). Uistite sa, že ich nepotrebujete.</string>
+  <string name="title_auto_cleaner">Automaticky vyčistiť?</string>
+  <string name="title_delete_cache">Vymazať cache?</string>
+  <string name="title_delete_large_file">Vymazať tieto súbory?</string>
 </resources>

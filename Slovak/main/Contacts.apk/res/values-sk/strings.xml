@@ -1168,4 +1168,9 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="resource_title_local">Lokálne</string>
   <string name="resource_title_rank">Najlepšie</string>
   <string name="resource_title_subject">Odporúčané</string>
+  <string name="pull_to_refresh_pull_label">Potiahnite pre obnovenie...</string>
+  <string name="pull_to_refresh_refreshing_label">Načítavanie...</string>
+  <string name="pull_to_refresh_release_label">Pustite pre obnovenie...</string>
+  <string name="resource_pack_get_auth_has_been_undercarriaged">Táto téma už nie je dostupná.</string>
+  <string name="yellowpage_search_the_yellowpage">Vyhľadať v zozname</string>
 </resources>
