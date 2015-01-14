@@ -292,7 +292,7 @@ na konci zoznamu"</string>
   <string name="combo_saveas_title">Zadajte popis</string>
   <string name="combo_speed_fast">Rýchlo</string>
   <string name="combo_speed_medium">Stredne</string>
-  <string name="combo_speed_prefix">Rýchlosť:</string>
+  <string name="combo_speed_prefix">"Rýchlosť: "</string>
   <string name="combo_speed_slow">Pomaly</string>
   <string name="combo_standard_text">Tento balíček pokrýva bežné denné využitie MiKey.</string>
   <string name="combo_standard_title">Štandardný Balíček</string>
