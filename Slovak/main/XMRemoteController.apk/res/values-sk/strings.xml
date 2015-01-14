@@ -200,7 +200,7 @@
   <string name="steps">Pokus #%d</string>
   <string name="succeed_content">Po krokoch %1$s a %2$s, ste úspešne pridali zariadenie %3$s %4$s</string>
   <string name="succeed_finish">Dokončiť</string>
-  <string name="succeed_title">Úspešné</string>
+  <string name="succeed_title">Dokončiť</string>
   <string name="supporting_soon">Bude podporované</string>
   <string name="technical_support">- Technická podpora</string>
   <string name="title_nodata_feedback">Žiadna odozva zariadenia</string>
@@ -268,8 +268,8 @@
   <string name="match_stb_intro_left">Left-top boxes transmit direction</string>
   <string name="match_stb_intro_ok">Launch set-top box to determine the key</string>
   <string name="match_stb_intro_up">Launch set-top boxes direction keys</string>
-  <string name="match_tv_intro_ch_inc">Transmit channels increase key</string>
-  <string name="match_tv_intro_volume">Spustiť ovládanie hlasitosti TV</string>
+  <string name="match_tv_intro_ch_inc">Prepínanie programov</string>
+  <string name="match_tv_intro_volume">Ovládanie hlasitosti</string>
   <string name="minute">minút</string>
   <string name="mode">Režim</string>
   <string name="mute">Stíšiť</string>
@@ -280,7 +280,7 @@
   <string name="retry_for_more">Viac</string>
   <string name="scanning_milink">Vyhľadávanie zariadní</string>
   <string name="scene_default">Predvolené</string>
-  <string name="scene_name_frame">%1$s z %2$s%3$s</string>
+  <string name="scene_name_frame">%1$s - %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
   <string name="select_area">Oblasť</string>
   <string name="select_brand">Značka: %s</string>
@@ -292,7 +292,7 @@
   <string name="temperature">Teplota</string>
   <string name="unkown_device_input_hint">Zadajte model zariadenia</string>
   <string name="unkown_device_main">Nie je možné rozpoznať zariadenie</string>
-  <string name="unkown_device_sub">Ďakujeme</string>
+  <string name="unkown_device_sub">Ďakujeme za odoslanie informácií o vašom zariadení</string>
   <string name="unkown_device_title">Chyba odozvy zariadenia</string>
   <string name="volume">﻿Hlasitosť</string>
   <string name="yes">Áno</string>
