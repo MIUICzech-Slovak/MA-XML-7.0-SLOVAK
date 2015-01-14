@@ -250,12 +250,12 @@
   <string name="exit">Ukončiť</string>
   <string name="home_zhuye">﻿Domov</string>
   <string name="hot_mode">Ohrievač</string>
-  <string name="hour">Hodina</string>
+  <string name="hour">h</string>
   <string name="input_source">﻿Zdroj</string>
   <string name="ir_device_milink">Wi-Fi</string>
   <string name="ir_device_name">Názov</string>
   <string name="just_used">Použité</string>
-  <string name="last_use_frame">Najpoužívanejšie: %1$s</string>
+  <string name="last_use_frame">Naposledy: %1$s</string>
   <string name="living_room">Obývačka</string>
   <string name="location_select">Poloha</string>
   <string name="match_ac_intro_mode">Launching air conditioning mode key</string>
@@ -270,7 +270,7 @@
   <string name="match_stb_intro_up">Launch set-top boxes direction keys</string>
   <string name="match_tv_intro_ch_inc">Prepínanie programov</string>
   <string name="match_tv_intro_volume">Ovládanie hlasitosti</string>
-  <string name="minute">minút</string>
+  <string name="minute">min</string>
   <string name="mode">Režim</string>
   <string name="mute">Stíšiť</string>
   <string name="no">Nie</string>
