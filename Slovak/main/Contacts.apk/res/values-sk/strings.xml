@@ -1173,4 +1173,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="pull_to_refresh_release_label">Pustite pre obnovenie...</string>
   <string name="resource_pack_get_auth_has_been_undercarriaged">Táto téma už nie je dostupná.</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v zozname</string>
+  <string name="call_sim1_menu_title">Volať cez SIM1</string>
+  <string name="call_sim2_menu_title">Volať cez SIM2</string>
 </resources>
