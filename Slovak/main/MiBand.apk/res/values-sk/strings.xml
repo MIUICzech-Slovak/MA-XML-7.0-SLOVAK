@@ -767,4 +767,24 @@ pridajte MiBand do zoznamu povolených."</string>
   <string name="connected_broadcast">Viditeľnosť Bluetooth</string>
   <string name="connected_broadcast_tips">MiBand bude možné nájsť aj v iných zariadeniach</string>
   <string name="connected_broadcast_disconnect_tips">Pripojte MiBand</string>
+  <string name="action_mark">Behavior Tagging</string>
+  <string name="action_settings">Nastavenia</string>
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="hello_world">Hello world!</string>
+  <string name="help_info_4">Po obnove zariadenia otvorte MiBand aplikáciu.</string>
+  <string name="help_title_4">Skôste obnoviť vaše zariadenie.</string>
+  <string name="no_bracelet_tips">(dostupné len s pripojeným MiBand)</string>
+  <string name="no_steps">Žiadne kroky.</string>
+  <string name="picker_menu_done">Hotovo</string>
+  <string name="sport_running_auto_pause_desc">Automaticky zastaviť záznam trasy počas prestávky behu</string>
+  <string name="sport_running_delete_track_item_confirm">Vymazať tento záznam?</string>
+  <string name="sport_running_failed_to_get_history_neterror">Chyba siete</string>
+  <string name="sport_running_gallery">Galéria</string>
+  <string name="sport_running_get_history_no_more_data">Žiadne dáta</string>
+  <string name="sport_running_history_no_data_refresh">Žiadne dáta. Skúste to znova.</string>
+  <string name="sport_running_history_no_data_refreshing">Obnovenie. Čakajte prosím...</string>
+  <string name="title_activity_mark">MarkData</string>
+  <string name="unlock_for_smartlock_start_setting">Štart</string>
+  <string name="watermark_btn_confirm">Potvrdiť</string>
+  <string name="watermark_guide_tips">Posuniete dlhým podržaním</string>
 </resources>

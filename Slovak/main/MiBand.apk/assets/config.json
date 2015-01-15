@@ -1,0 +1,49 @@
+{
+    "global":true,
+
+    "partner" : {
+        "enable":false,
+        "loadEnable" : false,
+        "healthLinkEnable" : false,
+        "QQHealthEnable":false
+    },
+
+    "runner" : {
+        "enable" : false
+    },
+
+    "mall" : {
+        "enable" : false
+    },
+
+    "upgrade" : {
+        "miUpgrade" : true
+    },
+
+    "weather" : {
+        "enable" : false
+    },
+
+    "lab" : {
+        "enableSportVote" : true
+    },
+
+    "push" : {
+        "enable" : false
+    },
+
+    "weight" : {
+        "enable" : false
+    }, 
+
+    "log" : {
+        "umengEnable" : true,
+        "debugLogEnable": false,
+        "fileLogEnable" : true
+    },
+
+    "bluetooth" : {
+        "sensorWhiteListEnable" : true,
+        "connectedBroadcastEnable" :true
+    }
+}
