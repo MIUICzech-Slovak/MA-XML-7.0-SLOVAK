@@ -771,8 +771,6 @@ pridajte MiBand do zoznamu povolených."</string>
   <string name="action_settings">Nastavenia</string>
   <string name="hello_blank_fragment">Hello blank fragment</string>
   <string name="hello_world">Hello world!</string>
-  <string name="help_info_4">Po obnove zariadenia otvorte MiBand aplikáciu.</string>
-  <string name="help_title_4">Skôste obnoviť vaše zariadenie.</string>
   <string name="no_bracelet_tips">(dostupné len s pripojeným MiBand)</string>
   <string name="no_steps">Žiadne kroky.</string>
   <string name="picker_menu_done">Hotovo</string>
