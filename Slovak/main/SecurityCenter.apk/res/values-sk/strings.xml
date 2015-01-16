@@ -738,4 +738,5 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="title_auto_cleaner">Automaticky vyčistiť?</string>
   <string name="title_delete_cache">Vymazať cache?</string>
   <string name="title_delete_large_file">Vymazať tieto súbory?</string>
+  <string name="auto_cleaner_open">Vyčistiť</string>
 </resources>
