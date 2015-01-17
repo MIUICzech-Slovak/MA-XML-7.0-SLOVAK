@@ -116,7 +116,7 @@
   <string name="resource_detail_recommend_desiner_themes">%1$s témy</string>
   <string name="resource_detail_recommend_other_themes">Užívateľom sa tiež páči</string>
   <string name="resource_detail_update_log_title">Aktualizácie</string>
-  <string name="resource_detail_window_title">%1$s podrobnosti</string>
+  <string name="resource_detail_window_title">%1$s</string>
   <string name="resource_download">Stiahnuť</string>
   <string name="resource_download_trial">Vyskúšať</string>
   <string name="resource_downloaded_title">Stiahnuť zdroje</string>
