@@ -296,73 +296,73 @@
                 {
             "id": 29,
             "foreground": "cz-sk-google.png",
-            "background": "7a60fb5a-e655-4861-a10e-d34f3922a3c7.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393233855000
         },
                 {
             "id": 290,
             "foreground": "touch.png",
-            "background": "5a267092-f3ec-4355-9312-d08873506aea.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382497000
         },
                 {
             "id": 291,
             "foreground": "cz-sk-change-cz-sk.png",
-            "background": "7a60fb5a-e655-4861-a10e-d34f3922a3c7.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382633000
         },
                 {
             "id": 292,
             "foreground": "cz-sk-androidnews_logo.png",
-            "background": "620a7ec6-bcdd-411c-a12f-36235ef49b05.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382673000
         },
                 {
             "id": 293,
             "foreground": "cz-sk-miui_cz-sk.png",
-            "background": "7a60fb5a-e655-4861-a10e-d34f3922a3c7.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382707000
         },
                 {
             "id": 294,
             "foreground": "cz-sk-harek.png",
-            "background": "7a60fb5a-e655-4861-a10e-d34f3922a3c7.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382759000
         },
                 {
             "id": 295,
             "foreground": "cz-sk-g_plus.png",
-            "background": "3d2e9f7a-b017-42c2-bccc-1d7c4286a289.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382787000
         },
                 {
             "id": 296,
             "foreground": "cz-sk-thumb_xiaomi.png",
-            "background": "7a60fb5a-e655-4861-a10e-d34f3922a3c7.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382815000
         },
                 {
             "id": 297,
             "foreground": "cz-sk-thumb_twitter-cz.png",
-            "background": "18dd28c2-191f-4d53-b61e-01f577696f48.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382842000
         },
                 {
             "id": 298,
             "foreground": "cz-sk-ibuy.png",
-            "background": "81a57379-d0ed-40ce-a846-7e98137da246.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382875000
         },
                 {
             "id": 299,
             "foreground": "cz-sk-smart.png",
-            "background": "1068dbc1-8404-4a1e-8d02-d7a9146c67dd.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382903000
         },
                 {
             "id": 300,
             "foreground": "cz-sk-face.png",
-            "background": "5a267092-f3ec-4355-9312-d08873506aea.png",
+            "background": "cz-sk-white.png",
             "updateTime": 1393382962000
         }
     ],
