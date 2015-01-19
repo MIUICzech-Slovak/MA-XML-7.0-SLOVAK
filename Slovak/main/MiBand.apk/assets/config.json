@@ -1,19 +1,19 @@
 {
-    "global":true,
+    "global":false,
 
     "partner" : {
-        "enable":false,
-        "loadEnable" : false,
-        "healthLinkEnable" : false,
-        "QQHealthEnable":false
+        "enable":true,
+        "loadEnable" : true,
+        "healthLinkEnable" : true,
+        "QQHealthEnable":true
     },
 
     "runner" : {
-        "enable" : false
+        "enable" : true
     },
 
     "mall" : {
-        "enable" : false
+        "enable" : true
     },
 
     "upgrade" : {
@@ -21,15 +21,16 @@
     },
 
     "weather" : {
-        "enable" : false
+        "enable" : true
     },
 
     "lab" : {
-        "enableSportVote" : true
+        "enableSportVote" : true,
+        "enableActionTag" : true
     },
 
     "push" : {
-        "enable" : false
+        "enable" : true
     },
 
     "weight" : {
