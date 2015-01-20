@@ -1588,7 +1588,7 @@ Vyberte váš operačný systém:"</string>
   <string name="pref_button_light">Osvetlenie tlačidiel</string>
   <string name="pref_button_light_summary">Menu, Domov a Späť tlačidlo</string>
   <string name="pref_operational_key">Ovládacie tlačidlo</string>
-  <string name="pref_volume_wake_summary">Stlačením tlačidlá zosilniť/stlmiť prebudíte zariadenie.. Určené pre zariadenia s ťažko dostupným zapínacím tlačidlom.</string>
+  <string name="pref_volume_wake_summary">Stlačením tlačidlá zosilniť/stlmiť prebudíte zariadenie. Určené pre zariadenia s ťažko dostupným zapínacím tlačidlom.</string>
   <string name="pref_volume_wake_title">Zobudiť telefón</string>
   <string name="preference_change_password_title">Zmeniť heslo</string>
   <string name="preferred_app_settings">Predvolená aplikácia</string>
