@@ -91,7 +91,7 @@ For more info check the message you received from your service provider"</string
   <string name="input_used_max_hint">Zadajte spotrebované dáta (menej ako %s)</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prázdne</string>
-  <string name="lock_screen_traffic_warn_title">Upozornenie spotreby dát pri vypnutom displeji</string>
+  <string name="lock_screen_traffic_warn_title">Spotreba dát počas vyp. displeja</string>
   <string name="main_alert_message_no_imsi">Nenašla sa žiadna SIM karta</string>
   <string name="main_alert_message_no_mobile_package">Limit mobilných dát nie je nastavený</string>
   <string name="main_alert_message_slot_no_data_connection">"Tento slot SIM karty nepodporuje
@@ -397,4 +397,5 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_setting_open">Zap</string>
   <string name="traffic_setting_step_num">Nastavenie balíčku dát</string>
   <string name="traffic_warning_purchase_title">Ostáva menej ako %d%%</string>
+  <string name="lock_screen_traffic_notify_body">Spotrebované dáta: %s</string>
 </resources>
