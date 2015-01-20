@@ -73,7 +73,7 @@
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="activate_popup_confirm_upload_diagnosis_info">Odoslať</string>
-  <string name="activate_popup_desc_upload_diagnosis_info">Nie je možné aktivovať SIM kartu. Zvážte odoslanie informácií pre diagnostikovanie problému. (Report ID : %s)"</string>
+  <string name="activate_popup_desc_upload_diagnosis_info">Nie je možné aktivovať SIM kartu. Zvážte odoslanie informácií pre diagnostikovanie problému. (Report ID: %s)</string>
   <string name="activate_popup_link_diagnosis_detail">Ktoré súkromné dáta budú odoslané?</string>
   <string name="activate_popup_title_diagnosis_detail">Informácie o diagnostike</string>
  <string name="activate_popup_title_upload_diagnosis_info">Nie je možné aktivovať SIM kartu</string>
