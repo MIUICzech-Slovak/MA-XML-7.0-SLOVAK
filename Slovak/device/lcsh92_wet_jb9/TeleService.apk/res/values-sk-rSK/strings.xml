@@ -410,7 +410,6 @@ unavailable"</string>
   <string name="accessibility_speakerphone_enabled">Reproduktor je zapnutý.</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Náhlavná súprava</string>
-  <string name="audio_mode_earpiece">Náhlavná súprava</string>
   <string name="audio_mode_speaker">Reproduktor</string>
   <string name="audio_mode_wired_headset">Káblový headset</string>
   <string name="badPin">Pôvodný kód PIN bol zadaný nesprávne.</string>
@@ -432,7 +431,6 @@ unavailable"</string>
   <string name="confirmPin2Label">Potvrdiť nový PIN2</string>
   <string name="confirmPinLabel">Potvrdiť nový PIN</string>
   <string name="contactPhoto">Obrázok kontaktu</string>
-  <string name="default_notification_description">Predvolený zvuk (%1$s)</string>
   <string name="description_target_answer">Prijať</string>
   <string name="description_target_decline">Odmietnuť</string>
   <string name="description_target_send_sms">Odoslať SMS</string>
@@ -478,14 +476,12 @@ unavailable"</string>
   <string name="newPin2Label">Nový PIN2</string>
   <string name="newPinLabel">Nový PIN</string>
   <string name="notification_action_end_call">Ukončiť hovor</string>
-  <string name="notification_dialing">Vytáčanie</string>
   <string name="notification_incoming_call">Prichádzajúci hovor</string>
   <string name="notification_missedCallTitle">Zmeškaný hovor</string>
   <string name="notification_on_hold">Podržaný</string>
   <string name="notification_ongoing_call">Prebiehajúci hovor</string>
   <string name="oldPin2Label">Starý PIN2</string>
   <string name="oldPinLabel">Starý PIN</string>
-  <string name="old_password_label">Staré heslo (4 čísla)</string>
   <string name="onHold">Podržaný hovor</string>
   <string name="onscreenAddCallText">Pridať hovor</string>
   <string name="onscreenAudioText">Audio</string>
@@ -499,7 +495,6 @@ unavailable"</string>
   <string name="onscreenSwapCallsText">Zameniť</string>
   <string name="onscreenVideoCallText">Video hovor</string>
   <string name="password">Heslo</string>
-  <string name="password_changed">Heslo zmenené</string>
   <string name="password_title">Heslo</string>
   <string name="pause_prompt_no">Nie</string>
   <string name="pause_prompt_str">"Odosielanie tónov
@@ -532,7 +527,6 @@ Ostáva pokusov: %d"</string>
   <string name="saving_account">Ukladám účet...</string>
   <string name="search_networks">Vyhľadávanie siete</string>
   <string name="simContacts_empty">Žiadne kontakty na Vašej SIM karte.</string>
-  <string name="simContacts_title">Vybrať kontakty na import</string>
   <string name="stock_quotes_disable">Správy z akciových trhov zakázané</string>
   <string name="stock_quotes_enable">Správy z akciových trhov povolené</string>
   <string name="sum_carrier_select">Vyberte nového operátora</string>
