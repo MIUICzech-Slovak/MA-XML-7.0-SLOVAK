@@ -383,7 +383,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="roaming_start_title">Medzinárodný roaming</string>
   <string name="tc_sms_report_toast_text">Získavanie informácií...</string>
   <string name="traffic_over_purchase_body">Zobraziť podrobnosti.</string>
-  <string name="traffic_over_purchase_link">Dosiahli ste limit objemu svojich mobilných dát.&lt;br/&gt;Ak spotrebujete dáta nad rámec predplatených dát, váš operátor si môže účtovať ďalšie poplatky.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Navýšiť a ušetriť 50%.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_link">Dosiahli ste limit objemu svojich mobilných dát.&lt;br/&gt;Ak spotrebujete dáta nad rámec predplatených dát, váš operátor si môže účtovať ďalšie poplatky.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Navýšiť a ušetriť 50%.&lt;/U&gt;&lt;/font&gt;</string>
   <string name="traffic_over_purchase_title">Balíček dát vyčerpaný</string>
   <string name="traffic_purchase_body">Save 50% when you top up now.</string>
   <string name="traffic_purchse_suggestion">Navýšiť</string>
