@@ -14,10 +14,12 @@ en_GB = 'en_GB'
 cs_CZ = 'cs_CZ'
 sk_SK = 'sk_SK'
 pl_PL = 'pl_PL'
+hr_HR = 'hr_HR'
 en = 'en'
 cs = 'cs'
 sk = 'sk'
 pl = 'pl'
+hr = 'hr'
 g_CurLocale = ""
 DEBUG = false
 -------------Globals----------------
@@ -72,6 +74,8 @@ function getString(string_locale)
         curTable = localization_table[sk];
     elseif (getCurLocale() == pl_PL) then
         curTable = localization_table[pl];
+    elseif (getCurLocale() == hr_HR) then
+        curTable = localization_table[hr];
     end
 
     return curTable[string_locale];

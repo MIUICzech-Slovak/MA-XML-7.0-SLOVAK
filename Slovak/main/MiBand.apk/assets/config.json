@@ -1,11 +1,11 @@
 {
-    "global":false,
+    "global":true,
 
     "partner" : {
-        "enable":true,
-        "loadEnable" : true,
-        "healthLinkEnable" : true,
-        "QQHealthEnable":true
+        "enable":false,
+        "loadEnable" : false,
+        "healthLinkEnable" : false,
+        "QQHealthEnable":false
     },
 
     "runner" : {
@@ -13,15 +13,15 @@
     },
 
     "mall" : {
-        "enable" : true
+        "enable" : false
     },
 
     "upgrade" : {
-        "miUpgrade" : true
+        "miUpgrade" : false
     },
 
     "weather" : {
-        "enable" : true
+        "enable" : false
     },
 
     "lab" : {
@@ -30,7 +30,7 @@
     },
 
     "push" : {
-        "enable" : true
+        "enable" : false
     },
 
     "weight" : {

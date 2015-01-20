@@ -788,13 +788,13 @@ pridajte MiBand do zoznamu povolených."</string>
   <string name="about_mi_band">Use Mi Band to set, track, and follow your health and fitness data day and night.</string>
   <string name="action_badminton">Badminton</string>
   <string name="action_basketball">Basketball</string>
-  <string name="action_bath">Bath</string>
-  <string name="action_bike">Bike</string>
-  <string name="action_brush_tooth">Brush teeth</string>
-  <string name="action_pingpong">Pingpong</string>
-  <string name="action_run">Run</string>
-  <string name="action_sleep">Sleep</string>
-  <string name="action_walk">Walk</string>
+  <string name="action_bath">Kúpeľ</string>
+  <string name="action_bike">Bicykel</string>
+  <string name="action_brush_tooth">Čistenie zubov</string>
+  <string name="action_pingpong">Ping-pong</string>
+  <string name="action_run">Beh</string>
+  <string name="action_sleep">Spánok</string>
+  <string name="action_walk">Chôdza</string>
   <string name="baby_weight">Baby</string>
   <string name="bind_mi_weight">Bind Weight Scale</string>
   <string name="bind_mi_weight_about">&lt;Data&gt;&amp;lt;a href=http://www.mi.com&amp;gt;View Mi Weight Scale Website&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
@@ -802,12 +802,12 @@ pridajte MiBand do zoznamu povolených."</string>
   <string name="bind_weight_fail">Bind Failed</string>
   <string name="bind_weight_ok">Bind Weight Scale OK.</string>
   <string name="choose_tag_item">Which item are you going to do?</string>
-  <string name="complete">Complete</string>
+  <string name="complete">Dokončené</string>
   <string name="confirm_complete_tag">Are you sure to complete this tag task?</string>
-  <string name="connecting">Connecting…</string>
-  <string name="data_loading">Loading...Please wait for a moment</string>
-  <string name="delete">Delete</string>
-  <string name="device_not_found">Device not found</string>
+  <string name="connecting">Pripájanie...</string>
+  <string name="data_loading">Načítavanie...</string>
+  <string name="delete">Vymazať</string>
+  <string name="device_not_found">Zariadenie sa nenašlo</string>
   <string name="dynamic_detail_weight_title">%s</string>
   <string name="family_member">Family</string>
   <string name="find_weight_scale">Find Weight Scale</string>
@@ -819,8 +819,8 @@ pridajte MiBand do zoznamu povolených."</string>
   <string name="multi_weight_devices_info">Please keep away from other Weight Scales more than 10 meters.</string>
   <string name="name">Name</string>  
   <string name="notice_for_tag_time">Notice: the number after X means that the number of times you marked</string>
-  <string name="select_devices">Select devices</string>
-  <string name="select_devices_info">Please select Mi Devices to bind</string>
+  <string name="select_devices">Vybrať zariadenie</string>
+  <string name="select_devices_info">Vyberte Xiaomi zariadenie</string>
   <string name="sport_running_backgroud_notification">Running...,go go</string>
   <string name="tag_data_collecting">Data collecting, please waiting...</string>
   <string name="toast_behavior_tag_failed">Behavior data collect failed!</string>
@@ -828,10 +828,9 @@ pridajte MiBand do zoznamu povolených."</string>
   <string name="toast_enable_behavior_tag">Behavior tag feature enable！</string>
   <string name="unbind_weight_scale">Unbind weight scale ?</string>
   <string name="unit_weight">kg</string>
-  <string name="unlock_screen_modify_unlock_v5">"如需修改请打开
-设置-&gt;安全和隐私-&gt;屏幕安全保护-&gt;蓝牙设备解锁"</string>
-  <string name="unlock_screen_modify_unlock_v6">"如需修改请打开
-设置-&gt;锁屏和密码-&gt;蓝牙设备解锁"</string>
+  <string name="unlock_screen_modify_unlock_v5">"
+Nastavenia -&gt; Bezpečnosť -&gt; Zámok displeja - &gt; Bluetooth zariadenia"</string>
+  <string name="unlock_screen_modify_unlock_v6">"Nastavenia -&gt; Zámok displeja -&gt; Bluetooth zariadenia"</string>
   <string name="user_staron_me">Followers</string>
   <string name="visitor_weight">Weight</string>
   <string name="weight_bmi_tips">BMI %1$s %2$s</string>
