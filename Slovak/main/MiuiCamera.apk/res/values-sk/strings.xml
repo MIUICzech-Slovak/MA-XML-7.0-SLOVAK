@@ -586,13 +586,13 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_delay_capture_entry_3s">3s</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
   <string name="pref_camera_delay_capture_entry_audio">Zvukom</string>
-  <string name="pref_camera_delay_capture_title">Odpočítavanie</string>
+  <string name="pref_camera_delay_capture_title">Časovač</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Živé</string>
   <string name="pref_camera_hdr_entry_normal">Normálne</string>
-  <string name="pref_camera_hdr_entry_off">Vyp</string>
-  <string name="pref_simple_hdr_entry_off">Vyp</string>
-  <string name="pref_simple_hdr_entry_on">Zap</string>
-  <string name="simple_mode_button_text_delay_capture">Ukončiť odpočítavanie</string>
+  <string name="pref_camera_hdr_entry_off">Vypnuté</string>
+  <string name="pref_simple_hdr_entry_off">Vypnuté</string>
+  <string name="pref_simple_hdr_entry_on">Zapnuté</string>
+  <string name="simple_mode_button_text_delay_capture">Ukončiť časovač</string>
   <string name="simple_mode_button_text_scene">Ukončiť režim scény</string>
 </resources>
