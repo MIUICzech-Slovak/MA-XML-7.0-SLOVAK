@@ -161,4 +161,21 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
+  <string name="ble_device_address">MAC adresa BLE zariadenia</string>
+  <string name="ble_device_profile_header_title">Profily</string>
+  <string name="ble_device_profile_title">Pripojené BLE zariadenie</string>
+  <string name="ble_device_unbind">Vymazať nastavenia</string>
+  <string name="disconnect">Odpojiť</string>
+  <string name="mi_band_vibrate_alarm">Vibrovať keď zvoní budík</string>
+  <string name="mi_band_vibrate_incall">Vibrovať keď vyzváňa</string>
+  <string name="mi_band_vibrate_incall_in_contacts">Vibrovať pri prichádzajúcom hovore od kontaktov</string>
+  <string name="mi_band_vibrate_incall_no_contacts">Vibrovať pri prichádzajúcom hovore z neznámych čísel</string>
+  <string name="mi_band_vibrate_sms">Vibrovať pri novej SMS správe</string>
+  <string name="mi_band_vibrate_sms_in_contacts">Vibrovať pri novej SMS správe od kontaktov</string>
+  <string name="mi_band_vibrate_sms_no_contacts">Vibrovať pri novej SMS správe z neznámych čísel</string>
+  <string name="mi_key_alert_dialog_message">Dotykom stíšite.</string>
+  <string name="mi_key_alert_dialog_title">Upozornenie MiKey</string>
+  <string name="mi_key_find_mikey">Vyhľadať MiKey</string>
+  <string name="mi_key_find_phone">Vyhľadať telefón</string>
+  <string name="mi_key_take_photo">Vytvoriť fotografiu</string>
 </resources>

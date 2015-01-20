@@ -1175,4 +1175,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v zozname</string>
   <string name="call_sim1_menu_title">Volať cez SIM1</string>
   <string name="call_sim2_menu_title">Volať cez SIM2</string>
+  <string name="resource_download_notification_content">Skontrolovať</string>
+  <string name="resource_download_notification_title_many">Sťahovanie %1$s tém úspešné!</string>
+  <string name="resource_download_notification_title_one">Sťahovanie témy úspešné!</string>
 </resources>

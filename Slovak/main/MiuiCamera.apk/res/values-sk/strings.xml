@@ -499,7 +499,7 @@ opustite na chvíľu náhľad"</string>
   <string name="set_image">Nastaviť obrázok ako</string>
   <string name="set_label_all_albums">Všetky albumy</string>
   <string name="set_label_local_albums">Lokálne albumy</string>
-  <string name="setting_top_text">Možnosti</string>
+  <string name="setting_top_text">Režim fotenia</string>
   <string name="share">Zdieľať</string>
   <string name="show_all">Zobraziť všetko</string>
   <string name="show_images_only">Zobraziť fotografie</string>
@@ -575,4 +575,24 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
+  <string name="accessibility_hdr">Prepínanie HDR</string>
+  <string name="audio_focus_exit_button_text">Ukončiť</string>
+  <string name="pref_camera_asd_night_title">Automatické vylepšenie nočnej fotografie</string>
+  <string name="pref_camera_asd_popup_title">Upozorniť ak je potrebný blesk</string>
+  <string name="pref_camera_countdown_entry_10s">10s</string>
+  <string name="pref_camera_countdown_entry_3s">3s</string>
+  <string name="pref_camera_countdown_entry_5s">5s</string>
+  <string name="pref_camera_delay_capture_entry_10s">10s</string>
+  <string name="pref_camera_delay_capture_entry_3s">3s</string>
+  <string name="pref_camera_delay_capture_entry_5s">5s</string>
+  <string name="pref_camera_delay_capture_entry_audio">Zvukom</string>
+  <string name="pref_camera_delay_capture_title">Odpočítavanie</string>
+  <string name="pref_camera_hdr_entry_auto">Auto</string>
+  <string name="pref_camera_hdr_entry_live">Živé</string>
+  <string name="pref_camera_hdr_entry_normal">Normálne</string>
+  <string name="pref_camera_hdr_entry_off">Vyp</string>
+  <string name="pref_simple_hdr_entry_off">Vyp</string>
+  <string name="pref_simple_hdr_entry_on">Zap</string>
+  <string name="simple_mode_button_text_delay_capture">Ukončiť odpočítavanie</string>
+  <string name="simple_mode_button_text_scene">Ukončiť režim scény</string>
 </resources>

@@ -91,7 +91,7 @@ For more info check the message you received from your service provider"</string
   <string name="input_used_max_hint">Zadajte spotrebované dáta (menej ako %s)</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prázdne</string>
-  <string name="lock_screen_traffic_warn_title">Upozornenie spotreby dát</string>
+  <string name="lock_screen_traffic_warn_title">Upozornenie spotreby dát pri vypnutom displeji</string>
   <string name="main_alert_message_no_imsi">Nenašla sa žiadna SIM karta</string>
   <string name="main_alert_message_no_mobile_package">Limit mobilných dát nie je nastavený</string>
   <string name="main_alert_message_slot_no_data_connection">"Tento slot SIM karty nepodporuje
@@ -382,4 +382,19 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="roaming_start_body">Povoliť aplikáciam v zozname výnimiek prístup k dátovému pripojeniu počas medzinárodného roamingu.</string>
   <string name="roaming_start_title">Medzinárodný roaming</string>
   <string name="tc_sms_report_toast_text">Získavanie informácií...</string>
+  <string name="traffic_over_purchase_body">Zobraziť podrobnosti.</string>
+  <string name="traffic_over_purchase_link">Dosiahli ste limit objemu svojich mobilných dát.&lt;br/&gt;Ak spotrebujete dáta nad rámec predplatených dát, váš operátor si môže účtovať ďalšie poplatky.&lt;br/&gt;&lt;br/&gt;&lt;font color='#0000ff'&gt;&lt;U&gt;Navýšiť a ušetriť 50%.&lt;/U&gt;&lt;/font&gt;"</string>
+  <string name="traffic_over_purchase_title">Balíček dát vyčerpaný</string>
+  <string name="traffic_purchase_body">Save 50% when you top up now.</string>
+  <string name="traffic_purchse_suggestion">Navýšiť</string>
+  <string name="traffic_setting_app_count">%d apl</string>
+  <string name="traffic_setting_completed">OK</string>
+  <string name="traffic_setting_daily_limit_summary">Nastaviť limit spotreby dát</string>
+  <string name="traffic_setting_extra_pkg_oversea_summary">Nastaviť balíček dát a spotrebu</string>
+  <string name="traffic_setting_extra_pkg_summary">Nastaviť balíček dát a spotrebu</string>
+  <string name="traffic_setting_extra_pkg_title">Ďalšie nastavenia</string>
+  <string name="traffic_setting_extra_traffic_title">Ďalšie nastavenia</string>
+  <string name="traffic_setting_open">Zap</string>
+  <string name="traffic_setting_step_num">Nastavenie balíčku dát</string>
+  <string name="traffic_warning_purchase_title">Ostáva menej ako %d%%</string>
 </resources>
