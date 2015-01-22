@@ -2900,4 +2900,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="screen_paper_mode_turn_on">Povolené</string>
   <string name="screen_paper_mode_apps_title">Použiť čítací režim pre tieto apl.</string>
   <string name="screen_paper_mode_off_apps_title">Nepoužívať čítací režim pre tieto aplikácie</string>
+  <string name="power_center">Výkon</string>
 </resources>

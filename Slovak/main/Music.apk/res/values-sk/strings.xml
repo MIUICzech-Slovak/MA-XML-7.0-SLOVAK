@@ -293,4 +293,5 @@
   <string name="filter_by_folder">Podľa zložky</string>
   <string name="filter_by_folder_summary">Vybrať zložky na zobrazenie</string>
   <string name="select_displayed_folders">Vybrať zložky na zobrazenie</string>
+  <string name="similar_songs">Podobné skladby</string>
 </resources>

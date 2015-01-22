@@ -40,4 +40,8 @@
     <plurals name="Nnew_tracks_count">
         <item quantity="other">Nové: %d</item>
     </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">Podobné skladby: %d</item>
+        <item quantity="one">Podobné skladby: %d</item>
+    </plurals>
 </resources>
