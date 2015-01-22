@@ -291,7 +291,7 @@
   <string name="event_info_end">"Koniec: "</string>
   <string name="repeat_activity_label">Opakovať</string>
   <string name="repeat_custom_activity_label">Vlastné</string>
-  <string name="repeat_custom_prompt">každý %1$s o %2$s</string>
+  <string name="repeat_custom_prompt">každý %1$s, %2$s</string>
   <string name="repeat_custom_prompt_daily">každý %1$s</string>
   <string name="repeat_custom_prompt_sentence">Udalosť sa bude opakovať %1$s</string>
   <string name="repeat_custom_prompt_splitter">", "</string>
@@ -300,7 +300,7 @@
   <string name="repeat_end_label">Opakovanie končí</string>
   <string name="repeat_end_times_unit"/>
   <string name="repeat_interval_dialog_title">Každý %1$s</string>
-  <string name="repeat_interval_frequency">%1$d %2$ss</string>
+  <string name="repeat_interval_frequency">%1$d %2$s</string>
   <string name="repeat_interval_frequency_single">%1$s</string>
   <string name="repeat_label_choose_day">Vyberte deň</string>
   <string name="repeat_label_choose_month">Vyberte mesiac</string>
