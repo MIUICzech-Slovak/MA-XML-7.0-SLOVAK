@@ -288,10 +288,7 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="event_info_descrip">Poznámka\u0009\u0009\u0009</string>
-  <string name="event_info_end">Koniec\u0009\u0009\u0009</string>
-  <string name="event_info_repeat">Opakovať\u0009</string>
-  <string name="event_info_when">Kedy\u0009\u0009</string>
+  <string name="event_info_end">"Koniec: "</string>
   <string name="repeat_activity_label">Opakovať</string>
   <string name="repeat_custom_activity_label">Vlastné</string>
   <string name="repeat_custom_prompt">každý %1$s o %2$s</string>
