@@ -627,7 +627,7 @@
   <string name="set_as_homepage">Nastaviť ako domovskú stránku</string>
   <string name="share_link">Zdieľať odkaz</string>
   <string name="share_page">Zdieľať</string>
-  <string name="share_page_text">Výborná stránka 【%1$s】| %2$s"</string>
+  <string name="share_page_text">【%1$s】| %2$s"</string>
   <string name="show_check_security_url_check_tip_dialog_description">URL adresa tejto web stránky bude odoslaná na servre Xiaomi pre kontrolu jej bezpečnosti. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach Prehliadača.</string>
   <string name="show_check_security_url_check_tip_dialog_title">Bezpečnosť URL</string>
   <string name="sign_in_to" formatted="false">Prihlásenie do %s1 \"%s2\"</string>
