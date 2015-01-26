@@ -21,7 +21,7 @@
                 </LinearLayout>
                 <LinearLayout android:id="@id/device_light_color" android:background="@drawable/bg_item" android:paddingLeft="@dimen/mili_margin" android:paddingTop="0.0dip" android:paddingRight="@dimen/mili_margin" android:paddingBottom="0.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/stroke_width_minus" android:layout_marginBottom="@dimen/stroke_width_minus" android:minHeight="@dimen/item_height">
                     <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
-                        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/light_color" style="@style/ListItemTitleText" />
+                        <TextView android:id="@id/item_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/light_color" style="@style/ListItemTitleText" />
                     </LinearLayout>
                     <TextView android:id="@id/device_light_color_txt" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/blue" style="@style/ListItemValueText" />
                     <ImageView android:layout_gravity="right|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_indicator_right_arrow" />
@@ -29,7 +29,7 @@
                 <include layout="@layout/split_line_with_margin" />
                 <LinearLayout android:id="@id/device_wear_hand" android:background="@drawable/bg_item" android:paddingLeft="@dimen/mili_margin" android:paddingTop="6.0dip" android:paddingRight="@dimen/mili_margin" android:paddingBottom="6.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/stroke_width_minus" android:layout_marginBottom="@dimen/stroke_width_minus" android:minHeight="@dimen/item_height">
                     <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
-                        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wear_hand" style="@style/ListItemTitleText" />
+                        <TextView android:id="@id/item_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/wear_hand" style="@style/ListItemTitleText" />
                     </LinearLayout>
                     <TextView android:id="@id/device_wear_hand_text" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/left_hand" style="@style/ListItemValueText" />
                     <ImageView android:layout_gravity="right|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_indicator_right_arrow" />
@@ -37,7 +37,7 @@
                 <include layout="@layout/split_line_with_margin" />
                 <LinearLayout android:id="@id/device_unlock_screen" android:background="@drawable/bg_item" android:paddingLeft="@dimen/mili_margin" android:paddingTop="6.0dip" android:paddingRight="@dimen/mili_margin" android:paddingBottom="6.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/stroke_width_minus" android:layout_marginBottom="@dimen/stroke_width_minus" android:minHeight="@dimen/item_height">
                     <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
-                        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/unlock_screen" style="@style/ListItemTitleText" />
+                        <TextView android:id="@id/item_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/unlock_screen" style="@style/ListItemTitleText" />
                     </LinearLayout>
                     <TextView android:id="@id/device_unlock_screen_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/ListItemValueText" />
                     <ImageView android:layout_gravity="right|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_indicator_right_arrow" />
@@ -45,7 +45,7 @@
                 <include android:id="@id/device_unlock_split" layout="@layout/split_line_with_margin" />
                 <LinearLayout android:id="@id/incoming_call_notify" android:background="@drawable/bg_item" android:paddingLeft="@dimen/mili_margin" android:paddingRight="@dimen/mili_margin" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/stroke_width_minus" android:layout_marginBottom="@dimen/stroke_width_minus" android:minHeight="@dimen/item_height">
                     <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
-                        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/incoming_call_notify" style="@style/ListItemTitleText" />
+                        <TextView android:id="@id/item_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/incoming_call_notify" style="@style/ListItemTitleText" />
                     </LinearLayout>
                     <TextView android:id="@id/incoming_call_notify_text" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/ListItemValueText" />
                     <ImageView android:layout_gravity="right|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_indicator_right_arrow" />
@@ -60,7 +60,7 @@
                 <include layout="@layout/split_line_with_margin" />
                 <LinearLayout android:id="@id/vibrate_notify" android:background="@drawable/bg_item" android:paddingLeft="@dimen/mili_margin" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/stroke_width_minus" android:layout_marginBottom="@dimen/stroke_width_minus" android:minHeight="@dimen/item_height">
                     <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
-                        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/vibrate_notify" style="@style/ListItemTitleText" />
+                        <TextView android:id="@id/item_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/vibrate_notify" style="@style/ListItemTitleText" />
                         <TextView android:id="@id/vibrate_notify_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/vibrate_notify_tips" style="@style/ListItemValueText" />
                     </LinearLayout>
                     <RelativeLayout android:gravity="center" android:paddingRight="@dimen/mili_margin" android:clickable="true" android:layout_width="63.0dip" android:layout_height="fill_parent">
@@ -96,7 +96,7 @@
                 <include layout="@layout/split_line_with_margin" />
                 <LinearLayout android:id="@id/device_firmware_version" android:background="@drawable/bg_item" android:paddingLeft="@dimen/mili_margin" android:paddingTop="6.0dip" android:paddingRight="@dimen/mili_margin" android:paddingBottom="6.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/stroke_width_minus" android:layout_marginBottom="@dimen/stroke_width_minus" android:minHeight="@dimen/item_height">
                     <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
-                        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/firmware_version" style="@style/ListItemTitleText" />
+                        <TextView android:id="@id/item_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/firmware_version" style="@style/ListItemTitleText" />
                     </LinearLayout>
                     <TextView android:textSize="@dimen/info_content_size" android:textColor="@color/main_ui_content_color" android:gravity="center_vertical" android:id="@id/device_firmware_version_text" android:layout_width="wrap_content" android:layout_height="fill_parent" />
                     <ImageView android:layout_gravity="right|center" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="9.0dip" android:src="@drawable/ic_indicator_right_arrow" />

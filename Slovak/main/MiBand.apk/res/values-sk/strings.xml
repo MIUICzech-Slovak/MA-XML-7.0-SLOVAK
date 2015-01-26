@@ -867,4 +867,9 @@ Nastavenia -&gt; Bezpečnosť -&gt; Zámok displeja - &gt; Bluetooth zariadenia"
   <string name="weight_weighting_now">测量中</string>
   <string name="weighting_failed">"Weight unstable
 Please get off after the LED blinked."</string>
+  <string name="dynamic_title_bracelet_unbind">MiBand odpojený</string>
+  <string name="new_user">Nový užívateľ</string>
+  <string name="not_fount_available_userinfo">Žiadne informácie sa nenašli</string>
+  <string name="unlock_screen_help_info3">Po reštartovaní vášho zariadenia, skúste použíť váš MiBand pre odomknutie.</string>
+  <string name="unlock_screen_help_title3">Reštartujte a skúste to znova</string>
 </resources>
