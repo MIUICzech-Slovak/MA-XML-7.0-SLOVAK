@@ -43,8 +43,8 @@ Súhlas: %2$s"</string>
   <string name="bind_bracelet">Nájdený MiBand</string>
   <string name="bind_bracelet_ok">MiBand je pripojený</string>
   <string name="bind_devices">Prepojiť zariadenia</string>
-  <string name="bind_mi_band">Bind Mi Band</string>
-  <string name="bind_mi_band_about">&lt;Data&gt;&amp;lt;a href=http://www.miuios.cz/miband&amp;gt;Web MiBand&amp;lt;/a&amp;gt;&lt;/Data&gt;</string>
+  <string name="bind_mi_band">Pripojiť MiBand</string>
+  <string name="bind_mi_band_about">http://www.miuios.cz/miband</string>
   <string name="bind_new_mili">Pripojiť nový MiBand</string>
   <string name="bind_qq">Synchr. s QQ</string>
   <string name="bind_qq_health">Synchr. s QQ Health</string>
