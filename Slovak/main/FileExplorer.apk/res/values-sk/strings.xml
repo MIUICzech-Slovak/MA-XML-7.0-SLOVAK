@@ -323,4 +323,6 @@ Získali ste ďalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
+  <string name="mi_router_label">MiRouter</string>
+  <string name="usb_label">USB</string>
 </resources>

@@ -268,4 +268,5 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
   <string name="micloud_setting_music_summary">Playlisty a obľúbené skladby</string>
   <string name="micloud_setting_sms_summary">SMS a MMS</string>
   <string name="micloud_setting_wifi_summary">Wi-Fi nastavenie</string>
+  <string name="find_device_dspt_provision_4">Ak zmeníte SIM kartu, aktivačná SMS správa sa automaticky odošle pre aktivovanie tejto funkcie.</string>
 </resources>

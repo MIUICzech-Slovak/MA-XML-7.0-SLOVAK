@@ -1178,4 +1178,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="resource_download_notification_content">Skontrolovať</string>
   <string name="resource_download_notification_title_many">Sťahovanie %1$s tém úspešné!</string>
   <string name="resource_download_notification_title_one">Sťahovanie témy úspešné!</string>
+  <string name="yellowpage_navigation_clear_search_history">Vyčistiť históriu</string>
 </resources>

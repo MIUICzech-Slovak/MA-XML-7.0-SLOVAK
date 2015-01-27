@@ -238,4 +238,6 @@
   <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
+  <string name="status_bar_network_flow_exceed_to_purchase">Dnes: %1$s Prekročené: %2$s Zakúpiť: %3$s</string>
+  <string name="status_bar_network_flow_warning_to_purchase">"Dnes: %1$s    Ostáva: %2$s    Zakúpiť &gt;"</string>
 </resources>
