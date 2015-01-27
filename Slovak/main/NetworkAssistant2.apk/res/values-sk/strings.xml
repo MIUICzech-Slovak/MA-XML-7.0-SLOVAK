@@ -398,7 +398,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_setting_step_num">Nastavenie balíčku dát</string>
   <string name="traffic_warning_purchase_title">Ostáva menej ako %d%%</string>
   <string name="lock_screen_traffic_notify_body">Uzamknuté %1$s | Stiahnuté: %2$s</string>
-  <string name="lock_screen_setting_summary">Zobraziť upozornenie až po stiahnutí viac ako 100KB</string>
+  <string name="lock_screen_setting_summary">Upozornenie sa zobrazí až po stiahnutí viac ako 100KB</string>
   <string name="main_alert_message_month_limit_error">Zadaný limit nie je správny</string>
   <string name="notify_daily_data_usage_body">Dnes využité: %s. Nastavte limit.</string>
   <string name="notify_daily_limit_body">Tento týždeň využité: %s. Nastavte limit.</string>
