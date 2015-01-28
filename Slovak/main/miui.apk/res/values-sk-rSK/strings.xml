@@ -326,4 +326,7 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
+  <string name="app_name_which_call">Apl: %s</string>
+  <string name="app_version_which_call">Verzia: %s</string>
+  <string name="policy_name">Oprávnenia: %s</string>
 </resources>

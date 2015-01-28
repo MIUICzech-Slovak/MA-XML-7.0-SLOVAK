@@ -305,4 +305,6 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="sms_smart_engine_update">Automaticky aktualizovať SMS filter</string>
   <string name="st_title_sim_unknown">Neznáme</string>
   <string name="info_antispam_close">AntiSpam je vypnutý</string>
+  <string name="call_delete_title">Vymazať hovory</string>
+  <string name="sms_delete_title">Vymazať SMS</string>
 </resources>

@@ -129,4 +129,8 @@
   <string name="bugreport_dump_complete_notification_title">Vytvoriť hlásenie o chybe</string>
   <string name="bugreport_dump_start_notification_summary">Trvá približne 1 minútu.</string>
   <string name="bugreport_dump_start_notification_title">Vytváranie hlásenia o chybe</string>
+  <string name="loading_problem_list">Načítavanie zoznamu...</string>
+  <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybe budú odoslané na Xiaomi server.</string>
+  <string name="plus_one_submit_dialog_not_show_again">Zapamätať nasatvenie</string>
+  <string name="toast_feedback_submitting">Odosielanie...</string>
 </resources>
