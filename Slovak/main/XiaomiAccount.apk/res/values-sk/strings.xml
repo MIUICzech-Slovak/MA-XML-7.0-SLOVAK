@@ -501,12 +501,12 @@ s "</string>
   <string name="mi_service">Podpora</string>
   <string name="passport_error_empty_email">Zadajte emailovú adresu</string>
   <string name="account_crop_user_avatar">Orezať</string>
-  <string name="account_empty_user_name">Enter your Mi Account username</string>
+  <string name="account_empty_user_name">Zadajte užívateľské meno</string>
   <string name="account_error_longer_user_name">Nemôže mať viac ako 20 znakov</string>
   <string name="account_error_shorter_user_name">Nemôže mať menej ako 2 znaky</string>
   <string name="account_error_user_birthday">Dátum narodenia nie je správny</string>
-  <string name="account_no_set">Žiadny</string>
-  <string name="account_none">Žiadny</string>
+  <string name="account_no_set">Prázdne</string>
+  <string name="account_none">Prázdne</string>
   <string name="account_none_user_name">Žiadne</string>
   <string name="account_user_avatar">Profilová fotka</string>
   <string name="account_user_avatar_from_album">Vybrať</string>
