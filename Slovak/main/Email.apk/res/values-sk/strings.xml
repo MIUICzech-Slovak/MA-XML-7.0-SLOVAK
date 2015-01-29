@@ -872,4 +872,8 @@ Delta update size: %2$s"</string>
   <string name="no_application_found_title">Otvoriť prílohu.</string>
   <string name="recipient_needed_title">Upozornenie</string>
   <string name="remove_account_confirm_title">Vymazať účet</string>
+  <string name="search_tabs_name_all">Všetko</string>
+  <string name="search_tabs_name_recipient">Príjemca</string>
+  <string name="search_tabs_name_sender">Odosielateľ</string>
+  <string name="search_tabs_name_subject">Predmet</string>
 </resources>
