@@ -35,6 +35,7 @@
   <string name="format_move_notes_to_folder">Presunuté %1$s do %2$s</string>
   <string name="hint_foler_name">Vstupné meno</string>
   <string name="info_note_enter_desktop">Poznámka bola pridaná na plochu</string>
+  <string name="loading_text">Načítavanie...</string>
   <string name="login_sync">Prihlásenie a synchr.</string>
   <string name="menu_create_folder">Nová zložka</string>
   <string name="menu_delete">Odstrániť</string>
@@ -98,6 +99,7 @@
   <string name="sns_toast_over_limit">Odoslať ako obrázok</string>
   <string name="toast_folder_privacy_mode">V Chránenom režime nie je možné zložky upravovať</string>
   <string name="toast_message_add_image_fail">Vloženie obrázku zlyhalo!</string>
+  <string name="toast_message_add_text_warn">Tento typ súboru nie je podporovaný</string>
   <string name="toast_note_privacy_mode">V režime Návštevník nie je možné vytvoriť poznámku</string>
   <string name="toast_reach_text_limit_attachment">Obsah poznámky je príliš dlhý pre pridanie novej prílohy.</string>
   <string name="toast_reach_text_limit_truncate">"Obsah poznámky je automaticky skrátený, pretože je príliš dlhý."</string>
@@ -106,6 +108,4 @@
   <string name="widget_content_loading">Načítavanie...</string>
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
-  <string name="loading_text">Načítavanie...</string>
-  <string name="toast_message_add_text_warn">Tento typ súboru nie je podporovaný</string>
 </resources>

@@ -97,6 +97,21 @@
   <string name="cn_7">7</string>
   <string name="cn_8">8</string>
   <string name="cn_9">9</string>
+  <string name="combo_customize_desc">"Balíček môžete nastaviť tlačidlom
+na konci zoznamu"</string>
+  <string name="combo_edit">Upraviť</string>
+  <string name="combo_edit_title">Upraviť Balíček</string>
+  <string name="combo_saveas_already_saved_desc">Nastavenie uložené do balíčka</string>
+  <string name="combo_saveas_desc">Popis balíčka</string>
+  <string name="combo_saveas_name">Názov</string>
+  <string name="combo_saveas_name_empty">Bez názvu</string>
+  <string name="combo_saveas_title">Zadajte popis</string>
+  <string name="combo_speed_fast">Rýchlo</string>
+  <string name="combo_speed_medium">Stredne</string>
+  <string name="combo_speed_prefix">"Rýchlosť: "</string>
+  <string name="combo_speed_slow">Pomaly</string>
+  <string name="combo_standard_text">Tento balíček pokrýva bežné denné využitie MiKey.</string>
+  <string name="combo_standard_title">Štandardný Balíček</string>
   <string name="company">Firma:</string>
   <string name="confirm">OK</string>
   <string name="copy">Kopírovať</string>
@@ -106,10 +121,14 @@
   <string name="delete_confirm">Vymazať?</string>
   <string name="delete_gesture">Vymazať nastavenie tlačidla?</string>
   <string name="device_not_recognized">Pripojené zariadenie nie je rozpoznané. Skúste to znova.</string>
+  <string name="dialog_content_mad_click">Neprerušované klikanie:</string>
   <string name="dialog_title_disable_mikey_sprite">Vypnúť MiKey Wizard?</string>
+  <string name="dialog_title_mad_click">Poznámka</string>
+  <string name="disable_mad_click">Zakázaný šialený režim</string>
   <string name="disable_mikey_sprite">Vypnúť MiKey Wizard</string>
   <string name="earphone">Slúchadlá</string>
   <string name="email">Email:</string>
+  <string name="enable_mad_click">Povolený šialený režim</string>
   <string name="enable_mikey_sprite">Povoliť MiKey Wizard</string>
   <string name="fail_generate_barcode">Generovanie kódu zlyhalo</string>
   <string name="faq_comp_text">Pre zariadenia s MIUIv5 a Xiaomi telefóny. Aktuálnu verziu MiKey aplikácie nájdete stále na adrese miuios.cz/mikey</string>
@@ -166,6 +185,7 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="picker_lable">Galéria</string>
   <string name="place_barcode_into_rectangle">Zamerajte QR alebo čiarový kód</string>
   <string name="privacy_mode_end">Súkromný režim deaktivovaný</string>
+  <string name="privacy_mode_first_hint">Pre cudzích je povolený režim Návštevník</string>
   <string name="privacy_mode_started">Súkromný režim aktivovaný</string>
   <string name="privacy_mode_title">Súkromný režim</string>
   <string name="rank_prefix">"Hodnotenie: "</string>
@@ -237,6 +257,7 @@ Podržte prst na už existujúcej pre jej nahradenie alebo vymazanie"</string>
 a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="splash_tip">Pripojte MiKey</string>
   <string name="super_difficult_click">"Obtiažnosť "</string>
+  <string name="tab_combo">Balíček</string>
   <string name="tab_mikey">MiKey</string>
   <string name="tab_mikey_sprite">Wizard</string>
   <string name="task_title_prefix">Akcia %1$s: %2$s</string>
@@ -275,25 +296,4 @@ a stlačením MiKey simulujete dotyk na vybranom mieste"</string>
   <string name="webpage_input_title">Zadajte URL</string>
   <string name="webpage_title">Otvoriť web stránku</string>
   <string name="write_pic_fail">Chyba uloženia fotografie!</string>
-  <string name="tab_combo">Balíček</string>
-  <string name="privacy_mode_first_hint">Pre cudzích je povolený režim Návštevník</string>
-  <string name="enable_mad_click">Povolený šialený režim</string>
-  <string name="dialog_title_mad_click">Poznámka</string>
-  <string name="disable_mad_click">Zakázaný šialený režim</string>
-  <string name="dialog_content_mad_click">Neprerušované klikanie:</string>
-  <string name="combo_customize_desc">"Balíček môžete nastaviť tlačidlom
-na konci zoznamu"</string>
-  <string name="combo_edit">Upraviť</string>
-  <string name="combo_edit_title">Upraviť Balíček</string>
-  <string name="combo_saveas_already_saved_desc">Nastavenie uložené do balíčka</string>
-  <string name="combo_saveas_desc">Popis balíčka</string>
-  <string name="combo_saveas_name">Názov</string>
-  <string name="combo_saveas_name_empty">Bez názvu</string>
-  <string name="combo_saveas_title">Zadajte popis</string>
-  <string name="combo_speed_fast">Rýchlo</string>
-  <string name="combo_speed_medium">Stredne</string>
-  <string name="combo_speed_prefix">"Rýchlosť: "</string>
-  <string name="combo_speed_slow">Pomaly</string>
-  <string name="combo_standard_text">Tento balíček pokrýva bežné denné využitie MiKey.</string>
-  <string name="combo_standard_title">Štandardný Balíček</string>
 </resources>

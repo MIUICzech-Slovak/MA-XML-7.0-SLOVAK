@@ -358,7 +358,7 @@ Skopírujte súbor na SD kartu a spustite test znova.</string>
   <string name="cit_wifi_ap_scanning">Vyhľadávanie Wi-Fi siete...</string>
   <string name="cit_wifi_fail_to_scan">Nie je možné nájsť žiadnu sieť Wi-Fi</string>
   <string name="cit_wifi_state_refresh">Obnoviť</string>
-   <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
+  <string name="cit_x5_audio_lb_frontmic_to_speaker_title">Front mic speaker feedback test</string>
   <string name="cit_x5_audio_lb_summary_frontmic_to_speaker">"Front microphone to speaker feedback test.
 
 Turn the phone, Speak to microphone at the position of the receiver, you should hear voice in speaker"</string>

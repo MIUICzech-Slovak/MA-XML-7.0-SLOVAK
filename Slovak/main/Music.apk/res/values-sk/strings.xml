@@ -8,6 +8,7 @@
   <string name="action_item_add_to_new_playlist">Nový</string>
   <string name="action_item_delete">Vymazať</string>
   <string name="action_item_download">Stiahnúť</string>
+  <string name="action_item_hide">Skryť</string>
   <string name="action_item_remove">Odstrániť</string>
   <string name="action_item_send">Odoslať</string>
   <string name="album_name">Album</string>
@@ -25,11 +26,13 @@
   <string name="avoid_to_use_traffic_summary">Upozorniť na spotrebu dát</string>
   <string name="avoid_to_use_traffic_title">Použiť len Wi-Fi pre stream</string>
   <string name="baidu_music">Baidu Music</string>
+  <string name="bill_list_fragment_title">Hitparády</string>
   <string name="bluetooth_device">Bluetooth zariadenie</string>
   <string name="buffering">Načítavanie...</string>
   <string name="button_add">Pridať</string>
   <string name="can_not_find_resource">Nič sa nenašlo</string>
   <string name="cancel">Zrušiť</string>
+  <string name="channel_list_fragment_title">FM</string>
   <string name="choose_download_quality">Vyberte stiahnutú kvalitu</string>
   <string name="choose_stream_quality">Preferovaná kvalita streamu</string>
   <string name="click_modify">Dotykom upravíte text</string>
@@ -38,6 +41,9 @@
   <string name="create_playlist">Vytvoriť playlist</string>
   <string name="data_usage_warning">Využitie dát</string>
   <string name="data_usage_warning_summary">Použitie mobilných dát pre stream hudby vo vysokej kvalite môže navýšiť vaše poplatky.</string>
+  <string name="delete_file_as_well">Vymazať aj stiahnutý súbor</string>
+  <string name="delete_file_end">Súbory vymazané</string>
+  <string name="delete_file_start">Vymazať súbory</string>
   <string name="device_connected">Pripojené</string>
   <string name="device_not_connected">Nepripojené</string>
   <string name="dialog_button_agree">Súhlasím</string>
@@ -124,6 +130,8 @@
   <string name="filter_by_duration_min">0 sec</string>
   <string name="filter_by_duration_prefix">"Minimálna dĺžka: "</string>
   <string name="filter_by_duration_summary">Nezobrazovať krátke audio súbory</string>
+  <string name="filter_by_folder">Podľa zložky</string>
+  <string name="filter_by_folder_summary">Vybrať zložky na zobrazenie</string>
   <string name="filter_by_size">Filtrovať podľa veľkosti</string>
   <string name="filter_by_size_max">2MB</string>
   <string name="filter_by_size_min">0KB</string>
@@ -202,10 +210,12 @@
   <string name="no_local_source_find">Lokálne súbory sa nenašli, odosielanie zlyhalo!</string>
   <string name="no_online_song_selected">Žiadne vybrané skladby</string>
   <string name="no_results_return">Nič sa nenašlo</string>
+  <string name="no_song">Žiadne skladby</string>
   <string name="no_song_downloaded">Nie je možné sa pripojiť na server</string>
   <string name="normal_quality">Dobrá</string>
   <string name="not_login">Neprihlásený</string>
   <string name="not_selected">Zvoľte skladbu</string>
+  <string name="nowplaying_menu_item_delete">Vymazať</string>
   <string name="ok">OK</string>
   <string name="online_music">Online Hudba</string>
   <string name="online_playlist_is_empty">Online playlist je prázdny!</string>
@@ -223,6 +233,7 @@
   <string name="project_device">Telefón</string>
   <string name="project_device_mobile">Mobilné zariadenie</string>
   <string name="quit_warining">Prehrávanie sa zastaví o %d minút</string>
+  <string name="recommend_fragment_title">Hity</string>
   <string name="retry">Znova</string>
   <string name="ringtone_not_support">Formát nie je podporovaný.</string>
   <string name="search_album">Vyhľadať Album Online</string>
@@ -234,6 +245,7 @@
   <string name="search_title_song">Skladba</string>
   <string name="select_album">Vyberte album</string>
   <string name="select_device">Vyberte zariadenie</string>
+  <string name="select_displayed_folders">Vybrať zložky na zobrazenie</string>
   <string name="select_local_album">Vyberte Lokálny Album</string>
   <string name="select_local_lyric">Vyberte lokálny Text</string>
   <string name="select_lyric">Vybrať Text</string>
@@ -246,6 +258,7 @@
   <string name="set_lyric_successful">Text skladby uložený</string>
   <string name="set_ringtones_failed">Nastavenie zvonenia zlyhalo.</string>
   <string name="set_ringtones_successful">%s nastavené ako zvonenie.</string>
+  <string name="similar_songs">Podobné skladby</string>
   <string name="sleep_mode">Časovač</string>
   <string name="sleep_mode_canceled">Režim spánku zrušený</string>
   <string name="sleep_mode_summary">Posuvníkom nastavte čas</string>
@@ -254,6 +267,7 @@
   <string name="song_not_find">Sieť nie je povolená alebo skladba sa nenachádza na serveri.</string>
   <string name="source_from">Zdroj: %1$s</string>
   <string name="start_to_play">Prehrať</string>
+  <string name="stream_quality">Kvalita streamu</string>
   <string name="streamloadingtext">Pripájanie k %s</string>
   <string name="tab_album_list">Album</string>
   <string name="tab_artist_list">Umelec</string>
@@ -280,18 +294,4 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
-  <string name="stream_quality">Kvalita streamu</string>
-  <string name="bill_list_fragment_title">Hitparády</string>
-  <string name="channel_list_fragment_title">FM</string>
-  <string name="delete_file_as_well">Vymazať aj stiahnutý súbor</string>
-  <string name="delete_file_end">Súbory vymazané</string>
-  <string name="delete_file_start">Vymazať súbory</string>
-  <string name="no_song">Žiadne skladby</string>
-  <string name="nowplaying_menu_item_delete">Vymazať</string>
-  <string name="recommend_fragment_title">Hity</string>
-  <string name="action_item_hide">Skryť</string>
-  <string name="filter_by_folder">Podľa zložky</string>
-  <string name="filter_by_folder_summary">Vybrať zložky na zobrazenie</string>
-  <string name="select_displayed_folders">Vybrať zložky na zobrazenie</string>
-  <string name="similar_songs">Podobné skladby</string>
 </resources>

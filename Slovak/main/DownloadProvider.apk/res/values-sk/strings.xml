@@ -16,10 +16,16 @@
   <string name="download_running">Prebieha</string>
   <string name="download_running_percent">Prebieha, %d%%</string>
   <string name="download_unknown_title">Bez názvu</string>
+  <string name="notif_text_engine_off">Prebieha sťahovanie...</string>
+  <string name="notif_text_engine_on">Zrýchlenie... (len pre Čínu)</string>
+  <string name="notif_title_file_size">Celkovo: %1$d</string>
+  <string name="notif_title_multiple_downloading">%1$d</string>
+  <string name="notif_title_single_downloading">%1$s</string>
   <string name="notification_download_complete">Preberanie dokončené.</string>
   <string name="notification_download_failed">Preberanie bolo neúspešné.</string>
   <string name="notification_need_wifi_for_size">Vzhľadom na veľkosť preberaného súboru sa vyžaduje pripojenie Wi-Fi</string>
   <string name="notification_paused_in_background">Pozastavené na pozadí.</string>
+  <string name="paused_waiting_for_network">Čakanie na sieť</string>
   <string name="permdesc_accessAllDownloads">Umožňuje aplikácii zobraziť a upravovať všetky preberania spustené ľubovoľnou aplikáciou v systéme.</string>
   <string name="permdesc_downloadCacheNonPurgeable">Umožňuje aplikácii preberať súbory do vyrovnávacej pamäte preberania, ktorú nie je možné automaticky odstrániť, keď správca preberania potrebuje viac miesta.</string>
   <string name="permdesc_downloadCompletedIntent">Umožňuje aplikácii odosielať upozornenia na dokončenie preberania. Škodlivé aplikácie môžu pomocou tohto nastavenia zmiasť iné aplikácie, ktoré preberajú súbory.</string>
@@ -52,10 +58,4 @@
 
 Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa možnosti %s ."</string>
   <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>
-  <string name="notif_text_engine_off">Prebieha sťahovanie...</string>
-  <string name="notif_text_engine_on">Zrýchlenie... (len pre Čínu)</string>
-  <string name="notif_title_file_size">Celkovo: %1$d</string>
-  <string name="notif_title_multiple_downloading">%1$d</string>
-  <string name="notif_title_single_downloading">%1$s</string>
-  <string name="paused_waiting_for_network">Čakanie na sieť</string>
 </resources>

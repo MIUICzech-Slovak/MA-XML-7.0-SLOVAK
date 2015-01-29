@@ -27,6 +27,7 @@
   <string name="category_music">Hudba</string>
   <string name="category_other">Ostatné</string>
   <string name="category_picture">Obrázky</string>
+  <string name="category_recent">Nedávné</string>
   <string name="category_theme">Témy</string>
   <string name="category_type_document">Dokumenty</string>
   <string name="category_type_meida">Médiá</string>
@@ -143,6 +144,7 @@ Server je momentálne nedostupný, skúste to opäť neskôr
   <string name="menu_item_sort_size">Veľkosti</string>
   <string name="menu_item_sort_type">Typu</string>
   <string name="menu_list_name">Menu</string>
+  <string name="mi_router_label">MiRouter</string>
   <string name="migrate_announcement_msg">Ak už máte účet, môžete ho prepojiť v nastaveniach</string>
   <string name="migrate_announcement_title">Migrácia účtu</string>
   <string name="mobile_photo">Fotografie</string>
@@ -303,6 +305,7 @@ Získali ste ďalších %1$s"</string>
   <string name="upload_failed">Nahrávanie zlyhalo!</string>
   <string name="upload_file_toolarge_message">"%1$d súborov väčších ako 300M nemôže byť odoslaných. Prosím skontrolujte Správcu prenosu pre viac informácií."</string>
   <string name="uploading">Odosielam...</string>
+  <string name="usb_label">USB</string>
   <string name="used">"Použité "</string>
   <string name="user_guide">Užívateľský manuál</string>
   <string name="user_guide_continue_use">OK</string>
@@ -323,7 +326,4 @@ Získali ste ďalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
-  <string name="mi_router_label">MiRouter</string>
-  <string name="usb_label">USB</string>
-  <string name="category_recent">Nedávné</string>
 </resources>

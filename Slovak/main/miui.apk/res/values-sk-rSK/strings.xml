@@ -12,6 +12,8 @@
   <string name="address">Adresa</string>
   <string name="afternoon">PM</string>
   <string name="am">AM</string>
+  <string name="app_name_which_call">Apl: %s</string>
+  <string name="app_version_which_call">Verzia: %s</string>
   <string name="birthday">Narodeniny</string>
   <string name="check_phone_error_title">Synchr. nie je povolená</string>
   <string name="check_phone_io_error">Chyba siete.</string>
@@ -217,6 +219,7 @@
   <string name="permlab_sendSmsNoConfirmation">odoslať SMS bez potvrdenia</string>
   <string name="phone">Telefón</string>
   <string name="pm">PM</string>
+  <string name="policy_name">Oprávnenia: %s</string>
   <string name="privacy_policy">Súkromie</string>
   <string name="saturday">Sobota</string>
   <string name="saturday_short">Sob</string>
@@ -326,7 +329,4 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
-  <string name="app_name_which_call">Apl: %s</string>
-  <string name="app_version_which_call">Verzia: %s</string>
-  <string name="policy_name">Oprávnenia: %s</string>
 </resources>

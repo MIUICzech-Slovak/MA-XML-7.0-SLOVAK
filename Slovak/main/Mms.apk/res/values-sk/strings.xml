@@ -154,6 +154,7 @@
   <string name="festival">Odporúčané</string>
   <string name="festival_continue">OK</string>
   <string name="festival_networking_desc">Táto funkcia vyžaduje pripojenie na internet.</string>
+  <string name="festival_networking_title">Oznámenie</string>
   <string name="festival_never_remind">Viac sa nepýtať</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Načítavanie...</string>
@@ -182,6 +183,7 @@
   <string name="hint_search_sms">%d SMS</string>
   <string name="hms_add_image_progress_message">Spracovávanie...</string>
   <string name="hms_first_use_tips">Pre príjímanie správ služieb musíte byť pripojený k Wi-Fi sieti</string>
+  <string name="hms_uri_param_err">Mipub URL parameter \"id\" nesmie byť prázdny</string>
   <string name="importing_progress_private_message">Importovanie správ do súkromnej schránky</string>
   <string name="in_sms">Správa</string>
   <string name="insufficient_drm_rights">Nemáte dostatočné práva DRM.</string>
@@ -355,6 +357,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="pref_title_mms_retrieval_during_roaming">Načítať pri roamingu</string>
   <string name="pref_title_notification_body_enabled">Zobraziť náhľady</string>
   <string name="pref_title_ringtone_repeat">Opakovať upozornenie</string>
+  <string name="pref_title_ringtone_repeat_summary">Počet opakovaní zvonenia pri prijatí SMS správy:</string>
   <string name="pref_title_show_recent_contacts">Posledné kontakty</string>
   <string name="pref_title_sms_delete">Limit textových správ</string>
   <string name="pref_title_system_mms_priority">Systém. SMS aplik. má prioritu</string>
@@ -542,7 +545,4 @@ Pokus: %s."</string>
   <string name="warning_show">Odoslať o %ds</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="hms_uri_param_err">Mipub URL parameter \"id\" nesmie byť prázdny</string>
-  <string name="festival_networking_title">Oznámenie</string>
-  <string name="pref_title_ringtone_repeat_summary">Počet opakovaní zvonenia pri prijatí SMS správy:</string>
 </resources>

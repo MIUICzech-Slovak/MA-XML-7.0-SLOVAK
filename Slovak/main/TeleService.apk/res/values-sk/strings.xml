@@ -347,6 +347,7 @@
   <string name="ims_service_capability_title">Enable/Disable IMS Service Capability</string>
   <string name="incall_error_call_failed">Hovor nebol spojený.</string>
   <string name="incall_error_emergency_only">Prihlásenie k sieti bolo úspešné.</string>
+  <string name="incall_error_no_active_sim">Žiadna SIM karta</string>
   <string name="incall_error_no_phone_number_supplied">Hovor nie je možné spojiť, ale bolo zadané platné číslo.</string>
   <string name="incall_error_out_of_service">Mobilná sieť je nedostupná.</string>
   <string name="incall_error_power_off">Ak chcete telefonovať, vypnite najskôr režim V lietadle.</string>
@@ -354,6 +355,7 @@
   <string name="incall_status_dialed_mmi">Spustenie sekvencie MMI...</string>
   <string name="international_disable">Medzinárodné správy zakázané</string>
   <string name="international_enable">Medzinárodné správy povolené</string>
+  <string name="international_roaming_setting">Medzinárodný roaming</string>
   <string name="internet_phone">Hovor cez internet</string>
   <string name="invalid_password">Zadajte heslo (4 čísla).</string>
   <string name="invalid_pin">Nesprávny PIN, prosím zadajte PIN2, ktorý má od 4 do 8 čísel.</string>
@@ -600,6 +602,7 @@ Môže to trvať aj 5 minút."</string>
   <string name="preferred_network_type_pref_entries_3g_preferred">3G preferovaná</string>
   <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G(CDMA) preferovaná</string>
   <string name="preferred_network_type_pref_entries_4g_preferred">Preferovať 4G siete</string>
+  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferovať 4G (CDMA)</string>
   <string name="preferred_network_type_pref_entries_auto">Automaticky</string>
   <string name="preferred_network_type_pref_entries_global">Globálne</string>
   <string name="preferred_network_type_pref_entries_only_2g">Len 2G (šetrí batériu)</string>
@@ -857,7 +860,4 @@ Môže to trvať aj 5 minút."</string>
   <string name="xdivert_setting">X-Divert Setting</string>
   <string name="xdivert_summary">CFNRc Settings</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="international_roaming_setting">Medzinárodný roaming</string>
-  <string name="incall_error_no_active_sim">Žiadna SIM karta</string>
-  <string name="preferred_network_type_pref_entries_4g_preferred_cdma">Preferovať 4G (CDMA)</string>
 </resources>

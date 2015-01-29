@@ -48,6 +48,7 @@
   <string name="alert_init_merged_title">Všetky fotografie na jednom mieste.</string>
   <string name="alert_message_open_sync">Vyžaduje sa synchronizácia, prajete si synchronizovať teraz?</string>
   <string name="alert_secret_album_message">Posuňte prstom zhora nadol v cloud abumoch pre zobrazenie tajného albumu. Pre jeho ochranu je nutné nastaviť vzor.</string>
+  <string name="alert_secret_album_set_pattern">Nastaviť vzor</string>
   <string name="alert_secret_album_title">Pridané do tajného albumu</string>
   <string name="already_apply_album">Otvoriť %1$s?</string>
   <string name="android_tencent_tencent_weibo">Tencent Weibo</string>
@@ -61,6 +62,8 @@
   <string name="auto_create_recent_album_confirm">Po vypnutí tejto funkcie, vymaže galéria údaje obľúbených albumov. Obľúbené albumy nastavené užívateľom to neovplyvní. Alternatívne to môžete nastaviť dlhým klikom na album.</string>
   <string name="auto_create_recent_album_over_ten_times">Automatické vytvorenie obľúbeného albumu(ov), keď je album otvorený viac ako 10 krát</string>
   <string name="auto_upload_album_comfirm_to_share">Tento album bude automaticky nahrávaný, chcete ho naozaj zdieľať?</string>
+  <string name="auto_upload_guide_msssage">Automaticky nahrať fotografie z ostatných aplikácií na MiCloud</string>
+  <string name="auto_upload_guide_title">Automaticky nahrať</string>
   <string name="auto_upload_tip">Bude vytvorený album s rovnakým menom. Existujúci album bude spojený s týmto albumom.</string>
   <string name="auto_upload_title">Nahrať automaticky</string>
   <string name="autofix">Auto-fix</string>
@@ -89,6 +92,7 @@
   <string name="cannot_send_message">"Nie je možné odoslať správu"</string>
   <string name="cannot_send_message_reason">Vaša správa nemá žiadnych príjemcov.</string>
   <string name="cant_delete_cloud_album">Vymazanie zlyhalo: %s je systémový album alebo je zdieľané iným užívateľom.</string>
+  <string name="choose_cloud_album">Vybrať album</string>
   <string name="cleaning_cache">Odstraňovanie cache...</string>
   <string name="clear_thumbnail_cache">Vymazať cache náhľadov</string>
   <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria prehľadá mediálne súbory a vytvorí nové náhľady.</string>
@@ -249,6 +253,7 @@ spoločne!"</string>
   <string name="gallery_setting">Galéria</string>
   <string name="get_album_info_in_process">"Získavanie informácií o zdielanom albume. Čakajte prosím..."</string>
   <string name="global_setting">Nastavenia</string>
+  <string name="go_setting">Zobraziť nastavenia</string>
   <string name="grain">Filmové zrno</string>
   <string name="grayscale">ČB</string>
   <string name="group_by">Zoskupiť podľa </string>
@@ -354,6 +359,7 @@ spoločne!"</string>
   <string name="negative">Negatív</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
   <string name="new_device_tips">Našlo sa nové zariadenie. Stlačte pre jeho zobrazenie</string>
+  <string name="new_feature">Nová funkcia</string>
   <string name="no">Nie</string>
   <string name="no_albums_alert">Žiadne dostupné albumy.</string>
   <string name="no_connectivity">"Niektoré polohy nemožno identifikovať kvôli problémom so sieťou."</string>
@@ -362,10 +368,12 @@ spoločne!"</string>
   <string name="no_network_connected">Žiadne internetové pripojenie</string>
   <string name="no_picture_or_video">Prázdny.</string>
   <string name="no_storage_disable_cloud_albums">Cloudové albumy sú nedostupné, prosím skúste znovu keď bude externé úložisko dostupné.</string>
+  <string name="no_such_album">Album sa nenašiel</string>
   <string name="no_such_item">"Nemôžem nájsť položku."</string>
   <string name="no_thumbnail">Žiaden náhľad</string>
   <string name="none_picture">Žiadne obrázky.</string>
   <string name="not_auto_create_recent_album">Nevytvárať automaticky často zobrazené albumy</string>
+  <string name="not_now">Neskôr</string>
   <string name="not_show_hidden_albums">"Nezobraziť skryté albumy"</string>
   <string name="only_show_camera_in_first_page">Zobraziť len fotografie z albumu na prvej strane</string>
   <string name="only_show_camera_in_first_page_summary">Ak je deaktivované, budú zobrazené fotografie zo všetkých albumov v cloude.</string>
@@ -608,12 +616,4 @@ spoločne!"</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
   <string name="yunyi_pocket_camera">Fotoaparát</string>
-  <string name="no_such_album">Album sa nenašiel</string>
-  <string name="alert_secret_album_set_pattern">Nastaviť vzor</string>
-  <string name="auto_upload_guide_msssage">Automaticky nahrať fotografie z ostatných aplikácií na MiCloud</string>
-  <string name="auto_upload_guide_title">Automaticky nahrať</string>
-  <string name="go_setting">Zobraziť nastavenia</string>
-  <string name="new_feature">Nová funkcia</string>
-  <string name="not_now">Neskôr</string>
-  <string name="choose_cloud_album">Vybrať album</string>
 </resources>

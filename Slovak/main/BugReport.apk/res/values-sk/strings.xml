@@ -13,6 +13,10 @@
   <string name="bluetooth_problem3">Nie je možné odoslať súbory</string>
   <string name="bluetooth_problem4">Nie je možné prijať súbory</string>
   <string name="btn_send">Odoslať</string>
+  <string name="bugreport_dump_complete_notification_summary">Zobraziť</string>
+  <string name="bugreport_dump_complete_notification_title">Vytvoriť hlásenie o chybe</string>
+  <string name="bugreport_dump_start_notification_summary">Trvá približne 1 minútu.</string>
+  <string name="bugreport_dump_start_notification_title">Vytváranie hlásenia o chybe</string>
   <string name="bugreport_feedback_from">Od: %s</string>
   <string name="bugreport_tool_log_toast">Záznam uložený do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Vytváranie záznamu o chybe (trvá okolo 1 minúty)</string>
@@ -63,6 +67,7 @@
   <string name="hot_problem_empty">Prázdne</string>
   <string name="loading_apps">Vytváranie zoznamu...</string>
   <string name="loading_hot_problem">Načítavanie...</string>
+  <string name="loading_problem_list">Načítavanie zoznamu...</string>
   <string name="menu_attach_screenshot">Pripojiť screenshot</string>
   <string name="menu_copy">Kopírovať</string>
   <string name="menu_discard">Zrušiť</string>
@@ -75,6 +80,8 @@
   <string name="non_system_app_select">Stiahnuté aplikácie</string>
   <string name="nonsystemapp_description">Popis chyby</string>
   <string name="packaging_dialog_content">Generuje sa report, čakajte prosím...</string>
+  <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybe budú odoslané na Xiaomi server.</string>
+  <string name="plus_one_submit_dialog_not_show_again">Zapamätať nasatvenie</string>
   <string name="power_consuming_problem1">Zvýšená spotreba energie po poslednej aktualizácií</string>
   <string name="power_consuming_problem2">Používanie tejto aplikácie zvyšuje spotrebu energie</string>
   <string name="power_consuming_problem3">Vysoká spotreba energie počas nečinnosti zariadenia</string>
@@ -109,6 +116,7 @@
   <string name="toast_feedback_network_unavailable">Nie je možné sa pripojiť k sieti</string>
   <string name="toast_feedback_pending_wlan">Hlásená chyba bude odoslaná ked sa pripojíte na Wi-Fi</string>
   <string name="toast_feedback_submitted">Hlásenie chyby bolo úspešne odoslané</string>
+  <string name="toast_feedback_submitting">Odosielanie...</string>
   <string name="toast_feedbackservice_in_submit">Odosielanie staršieho hlásenia...</string>
   <string name="toast_network_unavailable">Nie je možné odoslať. Pripojte sa k sieti.</string>
   <string name="toast_pending_log_collection">Zhromažďovanie záznamov, čakajte prosím</string>
@@ -125,12 +133,4 @@
   <string name="wlan_unavailable_dialog_button_sent">Odoslať okamžite</string>
   <string name="wlan_unavailable_dialog_content">Odošle sa %s cez 2G/3G dáta, stlačte OK na odoslanie cez sieť Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
-  <string name="bugreport_dump_complete_notification_summary">Zobraziť</string>
-  <string name="bugreport_dump_complete_notification_title">Vytvoriť hlásenie o chybe</string>
-  <string name="bugreport_dump_start_notification_summary">Trvá približne 1 minútu.</string>
-  <string name="bugreport_dump_start_notification_title">Vytváranie hlásenia o chybe</string>
-  <string name="loading_problem_list">Načítavanie zoznamu...</string>
-  <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybe budú odoslané na Xiaomi server.</string>
-  <string name="plus_one_submit_dialog_not_show_again">Zapamätať nasatvenie</string>
-  <string name="toast_feedback_submitting">Odosielanie...</string>
 </resources>

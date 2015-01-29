@@ -52,6 +52,7 @@
   <string name="apps_sort_type_title">Zoradiť</string>
   <string name="auto_clean_switch_off">Vyp.</string>
   <string name="auto_clean_switch_on">Zap.</string>
+  <string name="auto_cleaner_open">Vyčistiť</string>
   <string name="auto_handle_title">Optimalizovať automaticky</string>
   <string name="back">Späť</string>
   <string name="battery_desc_apps">Využitie batérie aplikáciou</string>
@@ -72,8 +73,11 @@
   <string name="boot_day_shutdown_day">Zariadenie sa zapne o %1$dd %2$s a vypne o %3$dd %4$s</string>
   <string name="boot_reminder">Zapnúť vaše zariadenie v nastavenom čase</string>
   <string name="boot_reminder_day">Zariadenie sa zapne o %1$dd %2$dh %3$dm</string>
+  <string name="boot_reminder_day_hour">Zariadenie sa zapne o %1$dd %2$dh</string>
   <string name="boot_reminder_hour">Zariadenie sa zapne o %1$dh %2$dm</string>
   <string name="boot_reminder_minute">Zariadenie sa zapne o %1$dm</string>
+  <string name="boot_reminder_only_day">Zariadenie sa zapne o %1$dd</string>
+  <string name="boot_reminder_only_hour">Zariadenie sa zapne o %1$dh</string>
   <string name="boot_shutdown">Zariadenie sa zapne o %1$s a vypne o %2$s</string>
   <string name="boot_shutdown_day">Zariadenie sa zapne o %1$s a vypne o %2$dd %3$s</string>
   <string name="boot_time">Zariadenie sa zapne o %1$s</string>
@@ -134,6 +138,7 @@
   <string name="clean_content_three">Okrem %s</string>
   <string name="clean_content_two">Vyčistiť iba %1$s a %2$s</string>
   <string name="clean_content_zero">Nie je potrebné čistenie</string>
+  <string name="confirm_auto_cleaner">OK</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Zrušiť</string>
   <string name="cta_checkbox_title">Viac sa nepýtať</string>
@@ -382,6 +387,7 @@
   <string name="permission_send_sms_descx">Odoslať SMS a MMS správy</string>
   <string name="permission_with_SMS_and_MMS">Povolenia pre SMS a MMS</string>
   <string name="permission_with_call_and_contact">Povolenia týkajúce sa hovorov, kontaktov a zoznamu hovorov.</string>
+  <string name="positive_confirm">OK</string>
   <string name="power_20s_enter_mode">Režim %2$s o %1$d sekúnd</string>
   <string name="power_20s_shutdown">Zariadenie sa vypne o 20 sekúnd</string>
   <string name="power_apply_toast">Prepnúť na %s režim a uložiť súčasný profil</string>
@@ -612,10 +618,13 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="suffix_virus_count_top">Riziká</string>
   <string name="summary_antivirus">Odoslať a skontrolovať neznáme názvy súborov s online vírusovou databázou</string>
   <string name="summary_antivirus_oversea">Aktualizovať vírusovú databázu automaticky</string>
+  <string name="summary_auto_cleaner">Vyčistiť systém automaticky každé 3 dni?</string>
   <string name="summary_cleaner_cloudscan">Odoslať a porovnať neznáme názvy súborov s online databázou</string>
   <string name="summary_cloud_account">Pre prístup k viac službám sa musíte prihlásiť na Xiaomi účet.</string>
   <string name="summary_cloud_service">Použiť MiCloud pre zálohovanie dát v prípade krádeže alebo zničenia zariadenia.</string>
   <string name="summary_data_flow">Skontrolujte svoj objem predplatených dát a nastavte si upozornenie aby ste ich neprekročili.</string>
+  <string name="summary_delete_cache">Niektoré aplikácie vyžaduju tieto dáta pre ich správnu funkciu.</string>
+  <string name="summary_delete_large_file">Niektoré veľké súbory môžu byť využívané aplikáciami v offline režime (napr. mapy, atď.). Uistite sa, že ich nepotrebujete.</string>
   <string name="summary_dev">Zabráňte aplikáciám zneužívať vaše súkromné dáta</string>
   <string name="summary_flow_notification">Povolením tejto funkcie zobrazíte objem spotrebovaných dát v notif. roletke.</string>
   <string name="summary_flow_purchase_beyond">Prekročili ste svoj dátový limit o %sMB.</string>
@@ -647,12 +656,15 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="title_app_update">Dostupné aktualizácie</string>
   <string name="title_app_update_no">%d aplikácií má aktualizáciu</string>
   <string name="title_app_update_yes">Všetko je aktuálne</string>
+  <string name="title_auto_cleaner">Automaticky vyčistiť?</string>
   <string name="title_cleaner_cloudscan">Použiť online databázu Čističa</string>
   <string name="title_cloud_account">Prihláste sa na Xiaomi účet</string>
   <string name="title_cloud_service">MiCloud je vypnutý</string>
   <string name="title_data_flow">Nastaviť upozornenie na spotrebu dát</string>
   <string name="title_data_flow_no">Kontrola spotreby dát zakázaná</string>
   <string name="title_data_flow_yes">Kontrola spotreby dát povolená</string>
+  <string name="title_delete_cache">Vymazať cache?</string>
+  <string name="title_delete_large_file">Vymazať tieto súbory?</string>
   <string name="title_dev_no">Možnosti pre vývojárov zapnuté</string>
   <string name="title_dev_yes">Možnosti pre vývojárov vypnuté</string>
   <string name="title_flow_notification">Info o spotrebe dát je skryté</string>
@@ -727,16 +739,4 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
-  <string name="boot_reminder_day_hour">Zariadenie sa zapne o %1$dd %2$dh</string>
-  <string name="boot_reminder_only_day">Zariadenie sa zapne o %1$dd</string>
-  <string name="boot_reminder_only_hour">Zariadenie sa zapne o %1$dh</string>
-  <string name="confirm_auto_cleaner">OK</string>
-  <string name="positive_confirm">OK</string>
-  <string name="summary_auto_cleaner">Vyčistiť systém automaticky každé 3 dni?</string>
-  <string name="summary_delete_cache">Niektoré aplikácie vyžaduju tieto dáta pre ich správnu funkciu.</string>
-  <string name="summary_delete_large_file">Niektoré veľké súbory môžu byť využívané aplikáciami v offline režime (napr. mapy, atď.). Uistite sa, že ich nepotrebujete.</string>
-  <string name="title_auto_cleaner">Automaticky vyčistiť?</string>
-  <string name="title_delete_cache">Vymazať cache?</string>
-  <string name="title_delete_large_file">Vymazať tieto súbory?</string>
-  <string name="auto_cleaner_open">Vyčistiť</string>
 </resources>

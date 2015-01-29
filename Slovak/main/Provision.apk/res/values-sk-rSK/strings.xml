@@ -9,6 +9,7 @@
   <string name="ime_privacy_policy_no_network">Nie je možné sa pripojiť k sieti. Prečítajte si podmienky súkromia pre túto klávesnicu na %s.</string>
   <string name="input_method_category">Vyberte predvolenú metódu vstupu</string>
   <string name="input_method_setting">Zvoľte metódu zadávania</string>
+  <string name="install_preinstall_app">Načítavanie aplikácií...</string>
   <string name="locale_picker_confirm_dialog_desc">Vybrať %s ako váš región?</string>
   <string name="locale_picker_confirm_dialog_title">Nastavenie polohy</string>
   <string name="locale_picker_desc">Ak chcete zmeniť vašu krajinu neskôr, bude nutné urobiť Factory reset zariadenia</string>
@@ -50,5 +51,4 @@
   <string name="title_congratulation">Hotovo! Prihláste sa na www.miuios.cz :)</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte v</string>
-  <string name="install_preinstall_app">Načítavanie aplikácií...</string>
 </resources>

@@ -132,6 +132,8 @@
   <string name="select_all">Vybrať všetko</string>
   <string name="select_operation_items">Prosím, vyberte položku operácie</string>
   <string name="selected_count">Vybrané: %1$d z %2$d</string>
+  <string name="toast_xunlei_engine_open">"Xunlei sťahovanie je aktivované.
+Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="turn_off_xunlei_message">Môže spôsobiť pomalšie sťahovanie dát.</string>
   <string name="turn_off_xunlei_tips">Xunlei sťahovanie je deaktivované</string>
   <string name="turn_off_xunlei_title">Deaktivovať Xunlei sťahovanie</string>
@@ -141,14 +143,12 @@
   <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
   <string name="xunlei_brand">Poskytuje Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
+  <string name="xunlei_close_tips_button">Zrýchliť</string>
+  <string name="xunlei_close_tips_content">Len pre Čínu</string>
+  <string name="xunlei_close_tips_title">Táto funkcia nie je odporúčaná pre užívateľov mimo Čínu</string>
   <string name="xunlei_gaosu">Xunlei Highspeed service</string>
   <string name="xunlei_member_annual_fee">Xunlei member for one year(platinum)</string>
   <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
-  <string name="xunlei_close_tips_button">Zrýchliť</string>
-  <string name="xunlei_close_tips_content">Len pre Čínu</string>
-  <string name="xunlei_close_tips_title">Táto funkcia nie je odporúčaná pre užívateľov mimo Čínu</string>
-  <string name="toast_xunlei_engine_open">"Xunlei sťahovanie je aktivované.
-Táto funkcia nie je mimo Čínu odporúčaná"</string>
 </resources>

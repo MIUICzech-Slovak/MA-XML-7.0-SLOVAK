@@ -64,6 +64,7 @@
   <string name="button_text_delete">Vymazať</string>
   <string name="button_to_setting">Nastavenia</string>
   <string name="call_delete_hint">Vymazať všetky blokované hovory z vybraného čísla?</string>
+  <string name="call_delete_title">Vymazať hovory</string>
   <string name="call_transfer_block">Blokovať presmerované hovory</string>
   <string name="call_transfer_block_type">Blokovať presmerované hovory</string>
   <string name="call_transfer_info">Blokovať hovory presmerované z neznámych čísel</string>
@@ -119,6 +120,7 @@
   <string name="fw_blocked_count_sms">SMS (%d)</string>
   <string name="fw_blocked_join">" a "</string>
   <string name="hint_antispam_mode_edit">Vlastný režim</string>
+  <string name="info_antispam_close">AntiSpam je vypnutý</string>
   <string name="info_antispam_phone">Blokovať Hovory</string>
   <string name="info_antispam_phone_sms">Blokovať SMS a Hovory</string>
   <string name="info_antispam_sms">Blokovať SMS</string>
@@ -126,6 +128,7 @@
   <string name="info_unantispam_phone_sms">Povoliť SMS a Hovory</string>
   <string name="info_unantispam_sms">Povoliť SMS</string>
   <string name="label_callwait">Čakajúci hovor</string>
+  <string name="loding">Načítavanie dát</string>
   <string name="log_count">(%d)</string>
   <string name="mark_agent">Predajca</string>
   <string name="mark_agent_block">Označené ako predajca</string>
@@ -173,13 +176,18 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="one_address_choose_hint">%s 1 región</string>
   <string name="open_callwait">Povoliť</string>
   <string name="read_all_sms">Označiť ako prečítané</string>
+  <string name="report">Nahlásiť</string>
   <string name="report_error">Nie je možné nahlásiť</string>
   <string name="report_error_not_net">Nie je možné sa pripojiť k sieti</string>
   <string name="report_only">Vyberte správu pre nahlásenie</string>
   <string name="report_sms">Nahlásiť správy</string>
   <string name="report_success">Správa nahlásená</string>
+  <string name="report_warning">Nahlásiť %1$s SMS do Xiaomi? Tieto správy a telefónne čísla budú odoslané na Xiaomi server pre ich analýzu.</string>
+  <string name="report_warning_title">Nahlásiť SMS</string>
   <string name="sim_not_ready">SIM karta nie je pripravená</string>
   <string name="sms_delete_hint">Vymazať všetky blokované SMS z vybraného čísla?</string>
+  <string name="sms_delete_title">Vymazať SMS</string>
+  <string name="sms_smart_engine_update">Automaticky aktualizovať SMS filter</string>
   <string name="special_number_group">Blokovať nahlásené čísla</string>
   <string name="st_advanced_setting_group">Rozšírené</string>
   <string name="st_antispam_black_adress_add">Blokovaný región (Iba Čína)</string>
@@ -283,6 +291,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="st_title_settings_other_group">Ostatné nastavenia</string>
   <string name="st_title_show_antispamnotification">Zobraziť upozornenie</string>
   <string name="st_title_sim_card">%1$sSIM %2$s</string>
+  <string name="st_title_sim_unknown">Neznáme</string>
   <string name="st_title_whitelist_numbers">Povolené čísla</string>
   <string name="sure">OK</string>
   <string name="tab_blacklist">Čierna listina</string>
@@ -298,13 +307,4 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
-  <string name="loding">Načítavanie dát</string>
-  <string name="report">Nahlásiť</string>
-  <string name="report_warning">Nahlásiť %1$s SMS do Xiaomi? Tieto správy a telefónne čísla budú odoslané na Xiaomi server pre ich analýzu.</string>
-  <string name="report_warning_title">Nahlásiť SMS</string>
-  <string name="sms_smart_engine_update">Automaticky aktualizovať SMS filter</string>
-  <string name="st_title_sim_unknown">Neznáme</string>
-  <string name="info_antispam_close">AntiSpam je vypnutý</string>
-  <string name="call_delete_title">Vymazať hovory</string>
-  <string name="sms_delete_title">Vymazať SMS</string>
 </resources>

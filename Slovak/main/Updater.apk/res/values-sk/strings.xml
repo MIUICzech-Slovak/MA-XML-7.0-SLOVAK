@@ -48,6 +48,7 @@
   <string name="check_update_when_wifi_available_sum">Použiť iba Wi-Fi pre kontrolu aktualizácie</string>
   <string name="checking_for_updates">Kontrola aktualizácií...</string>
   <string name="choose_recommend">Prosím vyberte, či chcete odporučiť</string>
+  <string name="clean_up_button">Vyčistiť</string>
   <string name="comment_invalid">Ohodnoťte túto aktualizáciu (vyberte počet hviezdičiek)</string>
   <string name="comment_publish">Odoslať</string>
   <string name="comment_sending">Odosielanie...</string>
@@ -246,6 +247,8 @@
   <string name="update_feedback_end_sum">Svoj názor môžte odoslať každý utorok.</string>
   <string name="update_feedback_expired">"Zmeškali ste hodnotenie aktuálnej verzie.
 Svoj názor môžte odoslať každý utorok"</string>
+  <string name="update_feedback_need_account">Musíte sa prihlásiť k Xiaomi účtu</string>
+  <string name="update_feedback_need_network">Pripojte sa k sieti</string>
   <string name="update_feedback_need_update">Momentálne nepoužívate najnovšiu verziu MIUI. Pred odoslaním spätnej väzby musíte najkôr aktualizovať na najnovšiu verziu.</string>
   <string name="update_feel">Čo si o tom myslíte?</string>
   <string name="update_general">Spokojný</string>
@@ -275,7 +278,4 @@ Svoj názor môžte odoslať každý utorok"</string>
   <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
   <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
   <string name="worst_update">Najhoršia aktualizácia</string>
-  <string name="clean_up_button">Vyčistiť</string>
-  <string name="update_feedback_need_account">Musíte sa prihlásiť k Xiaomi účtu</string>
-  <string name="update_feedback_need_network">Pripojte sa k sieti</string>
 </resources>

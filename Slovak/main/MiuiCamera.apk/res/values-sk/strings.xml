@@ -11,6 +11,7 @@
   <string name="accessibility_close_more_ptions">Deaktivovať viac nastavení</string>
   <string name="accessibility_ev_control">Ovládanie vyrovnávania expozície</string>
   <string name="accessibility_flash_mode_button">Blesk</string>
+  <string name="accessibility_hdr">Prepínanie HDR</string>
   <string name="accessibility_more_ptions_closed">Viac nastavení deaktivované</string>
   <string name="accessibility_more_ptions_opened">Viac nastavení povolené</string>
   <string name="accessibility_open_more_ptions">Povoliť viac nastavení</string>
@@ -26,6 +27,7 @@
   <string name="albums">Albumy</string>
   <string name="aperture">Uzávierka</string>
   <string name="app_details">Aplikácia:</string>
+  <string name="audio_focus_exit_button_text">Ukončiť</string>
   <string name="auto">Auto</string>
   <string name="bg_replacement_message">"Nasmerujte svoj telefón nadol, 
 opustite na chvíľu náhľad"</string>
@@ -203,6 +205,8 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Redukcia pruhov na displeji</string>
+  <string name="pref_camera_asd_night_title">Automatické vylepšenie nočnej fotografie</string>
+  <string name="pref_camera_asd_popup_title">Upozorniť ak je potrebný blesk</string>
   <string name="pref_camera_asd_title">Autom. rozpoznať scénu</string>
   <string name="pref_camera_audio_capture_title">Spúšť zvukom</string>
   <string name="pref_camera_auto_capture_when_stable_title">Auto. zachytiť keď sa zastaví</string>
@@ -237,9 +241,17 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_coloreffect_entry_yesteryear">Minulý rok</string>
   <string name="pref_camera_coloreffect_title">Filtre</string>
   <string name="pref_camera_contrast_title">Kontrast</string>
+  <string name="pref_camera_countdown_entry_10s">10s</string>
+  <string name="pref_camera_countdown_entry_3s">3s</string>
+  <string name="pref_camera_countdown_entry_5s">5s</string>
   <string name="pref_camera_countdown_title">Odpočítavanie</string>
   <string name="pref_camera_current_k_value">Aktuálna hodnota</string>
   <string name="pref_camera_default_suffix">(Predvolené)</string>
+  <string name="pref_camera_delay_capture_entry_10s">10s</string>
+  <string name="pref_camera_delay_capture_entry_3s">3s</string>
+  <string name="pref_camera_delay_capture_entry_5s">5s</string>
+  <string name="pref_camera_delay_capture_entry_audio">Zvukom</string>
+  <string name="pref_camera_delay_capture_title">Časovač</string>
   <string name="pref_camera_denoise_title">Odšumenie</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
   <string name="pref_camera_exposuretime_entry_1">1s</string>
@@ -277,6 +289,10 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_focusmode_title">Režim ostrenia</string>
   <string name="pref_camera_front_fb_title">Vylepšiť farbu pleti</string>
   <string name="pref_camera_hand_night_title">Nočný režim</string>
+  <string name="pref_camera_hdr_entry_auto">Auto</string>
+  <string name="pref_camera_hdr_entry_live">Živé</string>
+  <string name="pref_camera_hdr_entry_normal">Normálne</string>
+  <string name="pref_camera_hdr_entry_off">Vypnuté</string>
   <string name="pref_camera_hdr_title">HDR</string>
   <string name="pref_camera_hdr_type_entry_live">Živé</string>
   <string name="pref_camera_hdr_type_entry_normal">Normálne</string>
@@ -438,6 +454,8 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_scan_qrcode_title">Skenovať QR kód</string>
   <string name="pref_setting_title">Nastavenia</string>
   <string name="pref_settings_mode">Režim kamery</string>
+  <string name="pref_simple_hdr_entry_off">Vypnuté</string>
+  <string name="pref_simple_hdr_entry_on">Zapnuté</string>
   <string name="pref_video_captrue_ability_title">Snímka počas videa</string>
   <string name="pref_video_focusmode_entry_auto">Dotykom</string>
   <string name="pref_video_focusmode_entry_continuous">Kontinuálne ostrenie</string>
@@ -512,6 +530,7 @@ opustite na chvíľu náhľad"</string>
   <string name="simple_mode_button_text_chroma_flash">Ukončiť</string>
   <string name="simple_mode_button_text_color_effect">Ukončiť filtre</string>
   <string name="simple_mode_button_text_countdown">Ukončiť odpočítavanie</string>
+  <string name="simple_mode_button_text_delay_capture">Ukončiť časovač</string>
   <string name="simple_mode_button_text_face_beauty">Ukončiť</string>
   <string name="simple_mode_button_text_fast_video">Ukončiť</string>
   <string name="simple_mode_button_text_hand_night">Ukončiť nočný režim</string>
@@ -520,6 +539,7 @@ opustite na chvíľu náhľad"</string>
   <string name="simple_mode_button_text_manual_mode">Ukončiť</string>
   <string name="simple_mode_button_text_opti_zoom">Ukončiť</string>
   <string name="simple_mode_button_text_panorama">Ukončiť</string>
+  <string name="simple_mode_button_text_scene">Ukončiť režim scény</string>
   <string name="simple_mode_button_text_slow_video">Ukončiť</string>
   <string name="simple_mode_button_text_ubi_focus">Ukončiť</string>
   <string name="simple_mode_button_text_ubifocus">Ukončiť</string>
@@ -575,24 +595,4 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="accessibility_hdr">Prepínanie HDR</string>
-  <string name="audio_focus_exit_button_text">Ukončiť</string>
-  <string name="pref_camera_asd_night_title">Automatické vylepšenie nočnej fotografie</string>
-  <string name="pref_camera_asd_popup_title">Upozorniť ak je potrebný blesk</string>
-  <string name="pref_camera_countdown_entry_10s">10s</string>
-  <string name="pref_camera_countdown_entry_3s">3s</string>
-  <string name="pref_camera_countdown_entry_5s">5s</string>
-  <string name="pref_camera_delay_capture_entry_10s">10s</string>
-  <string name="pref_camera_delay_capture_entry_3s">3s</string>
-  <string name="pref_camera_delay_capture_entry_5s">5s</string>
-  <string name="pref_camera_delay_capture_entry_audio">Zvukom</string>
-  <string name="pref_camera_delay_capture_title">Časovač</string>
-  <string name="pref_camera_hdr_entry_auto">Auto</string>
-  <string name="pref_camera_hdr_entry_live">Živé</string>
-  <string name="pref_camera_hdr_entry_normal">Normálne</string>
-  <string name="pref_camera_hdr_entry_off">Vypnuté</string>
-  <string name="pref_simple_hdr_entry_off">Vypnuté</string>
-  <string name="pref_simple_hdr_entry_on">Zapnuté</string>
-  <string name="simple_mode_button_text_delay_capture">Ukončiť časovač</string>
-  <string name="simple_mode_button_text_scene">Ukončiť režim scény</string>
 </resources>

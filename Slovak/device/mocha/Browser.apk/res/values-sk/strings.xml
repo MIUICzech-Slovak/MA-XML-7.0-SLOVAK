@@ -103,7 +103,7 @@
   <string name="download_start">Načítavanie...</string>
   <string name="edit_mode_title_empty">Vybrať</string>
   <string name="empty_bookmark">Žiadne záložky.</string>
-   <string name="empty_history">Žiadna história prehliadania</string>
+  <string name="empty_history">Žiadna história prehliadania</string>
   <string name="error_forbidden">Problém s vašim účtom: Synchr. vypnutá.</string>
   <string name="error_not_acceptable">Chyba servera: Synchr. vypnutá.</string>
   <string name="error_title">Chyba synchr.</string>

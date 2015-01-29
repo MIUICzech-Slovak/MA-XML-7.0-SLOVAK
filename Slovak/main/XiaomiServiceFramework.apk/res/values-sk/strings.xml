@@ -14,6 +14,7 @@
   <string name="activate_popup_confirm_failed_receive_sms">Znova</string>
   <string name="activate_popup_confirm_failed_send_sms">Znova</string>
   <string name="activate_popup_confirm_failed_server">Znova</string>
+  <string name="activate_popup_confirm_upload_diagnosis_info">Odoslať</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">Vaše SIM karty sú zmenené. 2 medzinárodne SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
   <string name="activate_popup_desc_new_2_sim_cards">Vaše SIM karty sú zmenené. 2 SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
   <string name="activate_popup_desc_new_intl_sim_card">Vaša SIM karta je zmenená. Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
@@ -25,6 +26,9 @@
   <string name="activate_popup_desc_register_account_intl">Bude odoslaná medzinárodná SMS pre aktiváciu vášho Xiaomi účtu</string>
   <string name="activate_popup_desc_sim_card">SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
   <string name="activate_popup_desc_sim_card_downlink">Zadajte číslo vašej SIM karty pre aktiváciu a funkcií ako %s</string>
+  <string name="activate_popup_desc_upload_diagnosis_info">Nie je možné aktivovať SIM kartu. Zvážte odoslanie informácií pre diagnostikovanie problému. (Report ID: %s)</string>
+  <string name="activate_popup_link_diagnosis_detail">Ktoré súkromné dáta budú odoslané?</string>
+  <string name="activate_popup_title_diagnosis_detail">Informácie o diagnostike</string>
   <string name="activate_popup_title_failed_phone_error">Nesprávne telefónne číslo</string>
   <string name="activate_popup_title_failed_query_info">Telefónne číslo sa nenašlo</string>
   <string name="activate_popup_title_failed_receive_sms">Bez odpovede</string>
@@ -33,6 +37,7 @@
   <string name="activate_popup_title_manual">Aktivovať %s</string>
   <string name="activate_popup_title_new_sim_card">Znovu aktivovať %s</string>
   <string name="activate_popup_title_register_account">Registrovať účet</string>
+  <string name="activate_popup_title_upload_diagnosis_info">Nie je možné aktivovať SIM kartu</string>
   <string name="activate_status_desc_acquire_phone_number">Načítavanie čísla telefónu zo servera</string>
   <string name="activate_status_desc_acquire_phone_number_server_error">Chyba servera počas načítavania čísla telefónu.</string>
   <string name="activate_status_desc_acquire_phone_number_server_no_info">Nie je možné načítať číslo telefónu.</string>
@@ -69,12 +74,7 @@
   <string name="error_device_id_message">Niektoré služby budú nedostupné</string>
   <string name="error_device_id_title">Nie je možné získať číslo IMEI</string>
   <string name="sim_unactivated_title">Vaša SIM karta nie je aktivovaná</string>
-  <string name="xmsf_activate_info">XMSF info</string>
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
-  <string name="activate_popup_confirm_upload_diagnosis_info">Odoslať</string>
-  <string name="activate_popup_desc_upload_diagnosis_info">Nie je možné aktivovať SIM kartu. Zvážte odoslanie informácií pre diagnostikovanie problému. (Report ID: %s)</string>
-  <string name="activate_popup_link_diagnosis_detail">Ktoré súkromné dáta budú odoslané?</string>
-  <string name="activate_popup_title_diagnosis_detail">Informácie o diagnostike</string>
- <string name="activate_popup_title_upload_diagnosis_info">Nie je možné aktivovať SIM kartu</string>
+  <string name="xmsf_activate_info">XMSF info</string>
 </resources>

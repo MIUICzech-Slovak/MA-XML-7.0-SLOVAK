@@ -3,6 +3,22 @@
 <resources>
   <string name="activity_not_found">Aplikácia nie je v telefóne nainštalovaná.</string>
   <string name="app_being_backup_message">Zálohuje sa.</string>
+  <string name="app_category_books">Knihy</string>
+  <string name="app_category_education">Vzdelávanie</string>
+  <string name="app_category_entertainment">Zábava</string>
+  <string name="app_category_finance">Financie</string>
+  <string name="app_category_games">Hry</string>
+  <string name="app_category_health">Zdravie</string>
+  <string name="app_category_lifestyle">Životný štýl</string>
+  <string name="app_category_music_movie">Hudba &amp; Video</string>
+  <string name="app_category_news">Správy</string>
+  <string name="app_category_photos">Fotografie</string>
+  <string name="app_category_productivity">Produktivita</string>
+  <string name="app_category_shopping">Nakupovanie</string>
+  <string name="app_category_social">Sociálne</string>
+  <string name="app_category_sport">Športy</string>
+  <string name="app_category_tools">Nástroje</string>
+  <string name="app_category_travel">Cestovanie</string>
   <string name="application_name">MIUI Launcher</string>
   <string name="apply_action">Použíť</string>
   <string name="apply_as_lock_screen">Zámok</string>
@@ -253,20 +269,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="app_category_books">Knihy</string>
-  <string name="app_category_education">Vzdelávanie</string>
-  <string name="app_category_entertainment">Zábava</string>
-  <string name="app_category_finance">Financie</string>
-  <string name="app_category_games">Hry</string>
-  <string name="app_category_health">Zdravie</string>
-  <string name="app_category_lifestyle">Životný štýl</string>
-  <string name="app_category_music_movie">Hudba &amp; Video</string>
-  <string name="app_category_news">Správy</string>
-  <string name="app_category_photos">Fotografie</string>
-  <string name="app_category_productivity">Produktivita</string>
-  <string name="app_category_shopping">Nakupovanie</string>
-  <string name="app_category_social">Sociálne</string>
-  <string name="app_category_sport">Športy</string>
-  <string name="app_category_tools">Nástroje</string>
-  <string name="app_category_travel">Cestovanie</string>
 </resources>

@@ -58,6 +58,7 @@
   <string name="find_device_dspt_provision">"Ak stratíte vaše zariadenie, choďte na "</string>
   <string name="find_device_dspt_provision_2">i.mi.com</string>
   <string name="find_device_dspt_provision_3">" . Túto službu môžte aktivovať alebo zakázať v Nastaveniach."</string>
+  <string name="find_device_dspt_provision_4">Ak zmeníte SIM kartu, aktivačná SMS správa sa automaticky odošle pre aktivovanie tejto funkcie.</string>
   <string name="find_device_enabling">Zapínanie...</string>
   <string name="find_device_error_network">Sieť je nedostupná</string>
   <string name="find_device_error_server">Chyba servera</string>
@@ -66,6 +67,7 @@
   <string name="find_device_notice_p2">i.mi.com</string>
   <string name="find_device_notice_p3">pre získanie polohy, zablokovať, vymazať alebo obnoviť všetky dáta.</string>
   <string name="find_device_send_sms_alert">Ak zmeníte SIM kartu, odošle sa SMS pre aktiváciu tejto služby.</string>
+  <string name="find_device_status_ok">Vyhľadajte svoje zariadenia na i.mi.com</string>
   <string name="find_device_stop_noise">Kliknite na \"OK\" pre zastavenie alarmu</string>
   <string name="find_device_success_title">Nájsť zariadenie</string>
   <string name="finish">Dokončiť</string>
@@ -148,6 +150,12 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_other_product_price">Cena ostatných produktov:</string>
   <string name="micloud_proceed">Pokračovať</string>
   <string name="micloud_sec_dspt">a zdieľať dáta s priateľmi.</string>
+  <string name="micloud_setting_browser_summary">Záložky a históriu</string>
+  <string name="micloud_setting_contact_summary">Kontakty a profilové fotografie</string>
+  <string name="micloud_setting_gallery_summary">Fotografie a videá</string>
+  <string name="micloud_setting_music_summary">Playlisty a obľúbené skladby</string>
+  <string name="micloud_setting_sms_summary">SMS a MMS</string>
+  <string name="micloud_setting_wifi_summary">Wi-Fi nastavenie</string>
   <string name="micloud_space_full_influence">Čo sa stane ak zaplním voľné miesto?</string>
   <string name="micloud_storage_expires_auto_renewal_sum">Je nutné obnoviť prihlásenie.</string>
   <string name="micloud_storage_expires_manually_renewal_sum">Musíte obnoviť prihlásenie.</string>
@@ -250,6 +258,7 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
   <string name="user_agreement_p6">"Súhlas s "</string>
   <string name="user_agreement_p7">"Podmienkami používania MiCloud"</string>
   <string name="user_agreement_p8">.</string>
+  <string name="user_agreement_title">Podmienky používania MiCloud</string>
   <string name="vcode">Overovací kód</string>
   <string name="verify">Overiť</string>
   <string name="view_storage_title">Kapacita cloudu</string>
@@ -260,13 +269,4 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="user_agreement_title">Podmienky používania MiCloud</string>
-  <string name="find_device_status_ok">Vyhľadajte svoje zariadenia na i.mi.com</string>
-  <string name="micloud_setting_browser_summary">Záložky a históriu</string>
-  <string name="micloud_setting_contact_summary">Kontakty a profilové fotografie</string>
-  <string name="micloud_setting_gallery_summary">Fotografie a videá</string>
-  <string name="micloud_setting_music_summary">Playlisty a obľúbené skladby</string>
-  <string name="micloud_setting_sms_summary">SMS a MMS</string>
-  <string name="micloud_setting_wifi_summary">Wi-Fi nastavenie</string>
-  <string name="find_device_dspt_provision_4">Ak zmeníte SIM kartu, aktivačná SMS správa sa automaticky odošle pre aktivovanie tejto funkcie.</string>
 </resources>

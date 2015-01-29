@@ -156,7 +156,9 @@
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow">"Dnes: %1$s | Ostáva: %2$s | Balíček: %3$s"</string>
   <string name="status_bar_network_flow_exceed">"Dnes: %1$s | Prekročené: &lt;font color=%2$s&gt;%3$s&lt;/font&gt; | Balíček: %4$s"</string>
+  <string name="status_bar_network_flow_exceed_to_purchase">Dnes: %1$s Prekročené: %2$s Zakúpiť: %3$s</string>
   <string name="status_bar_network_flow_today">Dnes: %1$s</string>
+  <string name="status_bar_network_flow_warning_to_purchase">"Dnes: %1$s    Ostáva: %2$s    Zakúpiť &gt;"</string>
   <string name="status_bar_network_name_separator">|</string>
   <string name="status_bar_no_recent_apps">Žiadne aplikácie v RAM</string>
   <string name="status_bar_notification_inspect_item_title">App info</string>
@@ -238,6 +240,4 @@
   <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
-  <string name="status_bar_network_flow_exceed_to_purchase">Dnes: %1$s Prekročené: %2$s Zakúpiť: %3$s</string>
-  <string name="status_bar_network_flow_warning_to_purchase">"Dnes: %1$s    Ostáva: %2$s    Zakúpiť &gt;"</string>
 </resources>
