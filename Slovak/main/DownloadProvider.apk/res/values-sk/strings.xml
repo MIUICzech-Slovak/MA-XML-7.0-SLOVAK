@@ -55,6 +55,6 @@ Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa
   <string name="notif_text_engine_off">Prebieha sťahovanie...</string>
   <string name="notif_text_engine_on">Zrýchlenie... (len pre Čínu)</string>
   <string name="notif_title_file_size">Celkovo: %1$d</string>
-  <string name="notif_title_multiple_downloading">Sťahovanie: %1$d</string>
-  <string name="notif_title_single_downloading">Sťahovanie: %1$s</string>
+  <string name="notif_title_multiple_downloading">%1$d</string>
+  <string name="notif_title_single_downloading">%1$s</string>
 </resources>
