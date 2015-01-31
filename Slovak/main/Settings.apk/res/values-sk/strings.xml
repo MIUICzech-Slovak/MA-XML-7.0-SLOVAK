@@ -68,7 +68,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="account_list">Všetko</string>
   <string name="account_settings">Účty</string>
   <string name="account_sync_settings_title">Synchr.</string>
-  <string name="activate_miui_screensaver">Sporič displeja počas spánku</string>
+  <string name="activate_miui_screensaver">Šetrič displeja počas spánku</string>
   <string name="activating">Aktivujem...</string>
   <string name="active_device_admin_msg">Správca zariadenia</string>
   <string name="active_input_method_subtypes">Aktívne metódy vstupu</string>
@@ -89,7 +89,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="advanced_settings_summary">Povoliť ďalšie možnosti nastavení</string>
   <string name="airplane_mode">Režim Lietadlo</string>
   <string name="alarm_volume_title">Budík</string>
-  <string name="alert_show_screensaver_when_not_charging_msg">Spotreba energie batérie sa zvýši ak je sporič displeja aktivovaný aj mimo nabíjania telefónu. Chcete deaktivovať?</string>
+  <string name="alert_show_screensaver_when_not_charging_msg">Spotreba energie batérie sa zvýši ak je šetrič displeja aktivovaný aj mimo nabíjania telefónu. Chcete deaktivovať?</string>
   <string name="alert_show_screensaver_when_not_charging_title">Upozornenie</string>
   <string name="all_volume_title">Hlasitosť</string>
   <string name="allow">Povoliť</string>
@@ -1378,7 +1378,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="miui_screensaver_show_time_select_title">Nastaviť trvanie prezentácie</string>
   <string name="miui_screensaver_state_off">Vyp.</string>
   <string name="miui_screensaver_state_on">Zap.</string>
-  <string name="miui_screensaver_title">Sporič displeja</string>
+  <string name="miui_screensaver_title">Šetrič displeja</string>
   <string name="miui_screensaver_usage">Obrázky v zvolenom albume sa budú zobrazovať opakovane 5 sekúnd po zhasnutí displeja.</string>
   <string name="mms_breathing_light_color_title">Farba LED správ</string>
   <string name="mms_breathing_light_freq_title">Frekv. blikania LED pri správach</string>
