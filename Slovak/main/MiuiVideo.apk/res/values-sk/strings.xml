@@ -158,8 +158,8 @@
   <string name="login_tip_title">Prihlásiť</string>
   <string name="maintitle_prefix">Dostupná aktualizácia</string>
   <string name="media_name_comment">%s komentár</string>
-  <string name="menu_item_disable_audio_enhance">Vypnúť vylepšenie zvuku</string>
-  <string name="menu_item_enable_audio_enhance">Povoliť vylepšenie zvuku</string>
+  <string name="menu_item_disable_audio_enhance">Vylepšenie zvuku</string>
+  <string name="menu_item_enable_audio_enhance">Vylepšenie zvuku</string>
   <string name="minute"> Minute</string>
   <string name="mipush_setting">Xiaomi push upozornenia</string>
   <string name="month">"."</string>
@@ -370,7 +370,7 @@
   <string name="vp_screen_shot">Záznam</string>
   <string name="vp_select_ci">Vybrať</string>
   <string name="vp_select_ep">Vybrať ep</string>
-  <string name="vp_select_function">Vybrať funkciu</string>
+  <string name="vp_select_function">Nastavenia videa</string>
   <string name="vp_select_source">Vybrať zdroj</string>
   <string name="vp_select_video_definition">Rozlíšenie</string>
   <string name="vp_select_video_source">Zdroj</string>
