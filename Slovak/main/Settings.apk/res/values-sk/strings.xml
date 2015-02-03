@@ -2901,4 +2901,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="search_accessibility">uľahčenie prístupu</string>
+  <string name="search_battery">batéria</string>
+  <string name="search_display">displej</string>
+  <string name="search_font">písmo</string>
+  <string name="search_handy_mode">ovládanie jednou rukou</string>
+  <string name="search_privacy">zálohovanie</string>
+  <string name="search_storage">úložisko</string>
+  <string name="search_wifi_display">wifi displej</string>
 </resources>

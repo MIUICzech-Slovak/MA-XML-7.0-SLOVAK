@@ -294,4 +294,9 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
+  <string name="no_album_info">Žiadne informácie</string>
+  <string name="no_artist_info">Žiadne informácie</string>
+  <string name="search_for_album">Album</string>
+  <string name="search_for_artist">Umelec</string>
+  <string name="support_online_only">Len online</string>
 </resources>

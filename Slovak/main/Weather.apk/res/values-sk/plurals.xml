@@ -12,4 +12,8 @@
         <item quantity="other">Pred %d dňami</item>
         <item quantity="one">Pred %d dňom</item>
     </plurals>
+	<plurals name="view_realtime_clear">
+        <item quantity="other">Jasno</item>
+        <item quantity="one">Slnečno</item>
+    </plurals>
 </resources>
