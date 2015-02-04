@@ -2909,4 +2909,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="search_privacy">zálohovanie</string>
   <string name="search_storage">úložisko</string>
   <string name="search_wifi_display">wifi displej</string>
+  <string name="cmcc_hardware_version">Verzia HW</string>
 </resources>

@@ -233,7 +233,7 @@
   <string name="search_recommend_media_hint">Odporúčame vám</string>
   <string name="search_recommend_word_hint">Hity</string>
   <string name="search_result_empty_text">Nič sa nenašlo</string>
-  <string name="search_result_hint">Výsledkov: %s</string>
+  <string name="search_result_input_hint">Vyhľadať</string>
   <string name="second">s</string>
   <string name="see_all_count_comment">%d ďalších komentárov</string>
   <string name="select_all">Vybrať všetko</string>
@@ -353,6 +353,7 @@
   <string name="vp_maintitlearea">Užite si filmy v HD kvalite! Stlačte tlačidlo OK pre pokračovanie.</string>
   <string name="vp_media_info">Zobraziť info o videu</string>
   <string name="vp_milink">MiLink</string>
+  <string name="vp_milink_function">Stream. do zariadenia</string>
   <string name="vp_newest_ep">Najnovšia</string>
   <string name="vp_next_ci">Ďalej</string>
   <string name="vp_offline">Offline</string>

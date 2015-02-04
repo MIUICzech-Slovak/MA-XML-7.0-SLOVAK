@@ -595,4 +595,7 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
+  <string name="accessibility_setting_button">Ďalšie nastavenia</string>
+  <string name="confirm_location_alert">Ukladanie polohy</string>
+  <string name="start_capture">Zatvoriť</string>
 </resources>
