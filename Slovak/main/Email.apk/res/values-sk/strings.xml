@@ -876,4 +876,7 @@ Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">%1$s update!</string>
   <string name="yes">Áno</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="outbox_alert_certificate_error">Neplatný certifikát E-mailu, je nutné ho aktualizovať.</string>
+  <string name="outbox_alert_rw_io_error">Nastala chyba pri odosielaní správy. Skúste ju odoslať znova.</string>
+  <string name="save_draft_failed">Ukladanie konceptu zlyhalo</string>
 </resources>
