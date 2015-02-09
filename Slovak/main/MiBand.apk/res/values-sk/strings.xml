@@ -274,8 +274,8 @@ a aktualizácia sa spustí automaticky po nabití MiBand"</string>
   <string name="goals_push_ten">Splnených 100%</string>
   <string name="gram">g</string>
   <string name="green">Zelená</string>
-  <string name="half_marathon_format_0">Ako %1$s polmaratón</string>
-  <string name="half_marathon_format_1">Viac ako %1$s polmaratón</string>
+  <string name="half_marathon_format_0">" ako %1$s polmaratón"</string>
+  <string name="half_marathon_format_1">" viac ako polmaratón"</string>
   <string name="health_care_country_limit">Region: China mainland</string>
   <string name="health_care_date_limit">Period of service: free year</string>
   <string name="health_link">HealthLink</string>
