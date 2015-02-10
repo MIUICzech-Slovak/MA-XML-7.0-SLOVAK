@@ -11,6 +11,7 @@
     </plurals>
     <plurals name="webview_last_num_days">
         <item quantity="other">Posledných %d dní</item>
+        <item quantity="one">Včera</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">Vybrané: %1$d</item>
@@ -26,6 +27,6 @@
     </plurals>
 	<plurals name="last_num_days">
         <item quantity="other">Posledných %d dní</item>
-		<item quantity="one">Posledný deň</item>
+	<item quantity="one">Včera</item>
     </plurals>
 </resources>

@@ -2910,4 +2910,17 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="search_storage">úložisko</string>
   <string name="search_wifi_display">wifi displej</string>
   <string name="cmcc_hardware_version">Verzia HW</string>
+  <string name="smartcover_sensitive_title">Smartcover režim</string>
+  <string name="wifi_connect_cmcc_dialog_cancel">Cancel</string>
+  <string name="wifi_connect_cmcc_dialog_confirm">OK</string>
+  <string name="wifi_connect_cmcc_dialog_content">Connected to CMCC network data services.</string>
+  <string name="wifi_connect_cmcc_dialog_not_remind">Viac nezobrazovať</string>
+  <string name="wifi_connect_cmcc_dialog_title">Upozornenie na mobilné dáta</string>
+  <string name="wifi_notify_cmcc_connected_summary">Show notification when connected to CMCC network</string>
+  <string name="wifi_notify_cmcc_connected_title">Upozornenie na CMCC sieť</string>
+  <string name="wifi_off_airplane_on_cancel">Zrušiť</string>
+  <string name="wifi_off_airplane_on_confirm">OK</string>
+  <string name="wifi_off_airplane_on_content">Môžete zapnúť Wi-Fi manuálne počas režimu Lietadlo.</string>
+  <string name="wifi_off_airplane_on_not_remind">Viac nezobrazovať</string>
+  <string name="wifi_off_airplane_on_title">Wi-Fi v režime Lietadlo</string>
 </resources>
