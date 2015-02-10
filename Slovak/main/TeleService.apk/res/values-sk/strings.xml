@@ -347,7 +347,7 @@
   <string name="ims_service_capability_title">Enable/Disable IMS Service Capability</string>
   <string name="incall_error_call_failed">Hovor nebol spojený.</string>
   <string name="incall_error_emergency_only">Prihlásenie k sieti bolo úspešné.</string>
-  <string name="incall_error_no_active_sim">Žiadna SIM karta</string>
+  <string name="incall_error_no_active_sim">SIM karta nie je aktivovaná</string>
   <string name="incall_error_no_phone_number_supplied">Hovor nie je možné spojiť, ale bolo zadané platné číslo.</string>
   <string name="incall_error_out_of_service">Mobilná sieť je nedostupná.</string>
   <string name="incall_error_power_off">Ak chcete telefonovať, vypnite najskôr režim V lietadle.</string>
