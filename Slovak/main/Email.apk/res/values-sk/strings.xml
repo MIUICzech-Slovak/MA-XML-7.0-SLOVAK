@@ -879,4 +879,6 @@ Delta update size: %2$s"</string>
   <string name="outbox_alert_certificate_error">Neplatný certifikát E-mailu, je nutné ho aktualizovať.</string>
   <string name="outbox_alert_rw_io_error">Nastala chyba pri odosielaní správy. Skúste ju odoslať znova.</string>
   <string name="save_draft_failed">Ukladanie konceptu zlyhalo</string>
+  <string name="account_setup_options_mail_check_frequency_4hour">Každé 4 hodiny</string>
+  <string name="account_setup_options_mail_check_frequency_12hour">Každých 12 hodín</string>
 </resources>
