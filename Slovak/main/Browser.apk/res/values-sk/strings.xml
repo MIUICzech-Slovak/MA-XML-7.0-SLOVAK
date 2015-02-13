@@ -778,7 +778,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="media_error_source">Chyba zdroja videa</string>
   <string name="media_error_timeout">Spojenie bolo ukončené</string>
   <string name="media_error_video_not_exist">Video už nie je dostupné</string>
-  <string name="miui_content_open_url">OpenURL</string>
+  <string name="miui_content_open_url">Otvoriť</string>
   <string name="miui_content_select_all">Všetko</string>
   <string name="no_matches">Nič sa nenašlo</string>
   <string name="older">Staršie</string>
