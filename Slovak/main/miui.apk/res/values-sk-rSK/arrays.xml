@@ -3,22 +3,30 @@
    <string-array name="alphabet_table">
         <item>\#</item>
         <item>A</item>
+        <item>Á</item>
         <item>B</item>
         <item>C</item>
         <item>Č</item>
         <item>D</item>
         <item>Ď</item>
+        <item>Dz</item>
+        <item>Dž</item>
         <item>E</item>
+        <item>É</item>
         <item>F</item>
         <item>G</item>
         <item>H</item>
         <item>I</item>
+        <item>Í</item>
         <item>J</item>
         <item>K</item>
         <item>L</item>
+        <item>Ľ</item>
         <item>M</item>
         <item>N</item>
+        <item>Ň</item>
         <item>O</item>
+        <item>Ó</item>
         <item>P</item>
         <item>Q</item>
         <item>R</item>
@@ -27,6 +35,7 @@
         <item>T</item>
         <item>Ť</item>
         <item>U</item>
+        <item>Ú</item>
         <item>V</item>
         <item>W</item>
         <item>X</item>
@@ -38,22 +47,30 @@
         <item>!</item>
         <item>\#</item>
         <item>A</item>
+        <item>Á</item>
         <item>B</item>
         <item>C</item>
         <item>Č</item>
         <item>D</item>
         <item>Ď</item>
+        <item>Dz</item>
+        <item>Dž</item>
         <item>E</item>
+        <item>É</item>
         <item>F</item>
         <item>G</item>
         <item>H</item>
         <item>I</item>
+        <item>Í</item>
         <item>J</item>
         <item>K</item>
         <item>L</item>
+        <item>Ľ</item>
         <item>M</item>
         <item>N</item>
+        <item>Ň</item>
         <item>O</item>
+        <item>Ó</item>
         <item>P</item>
         <item>Q</item>
         <item>R</item>
@@ -62,6 +79,7 @@
         <item>T</item>
         <item>Ť</item>
         <item>U</item>
+        <item>Ú</item>
         <item>V</item>
         <item>W</item>
         <item>X</item>
