@@ -513,12 +513,12 @@ Normálne"</string>
   <string name="upload_title_cant_be_empty">Zadajte názov videa!</string>
   <string name="upload_to_youku">Video uploads</string>
   <string name="upload_video_youku">上传视频到优酷</string>
-  <string name="use_under_account_login">You can use the following account to log in</string>
+  <string name="use_under_account_login">Vyberte účet ktorým sa chcete prihlásiť</string>
   <string name="user_feedback">Feedback</string>
   <string name="user_input_uid">&lt;a href=\"#\"&gt; scan fails how to do? &lt;/a&gt;</string>
   <string name="user_login_in_other_device">The current account has landed elsewhere</string>
   <string name="user_tips">Pridať kameru</string>
-  <string name="user_tips2">Experience the bunker smart camera</string>
+  <string name="user_tips2"/>
   <string name="userinfo_account_qq">Q-Zone</string>
   <string name="userinfo_account_tencent_weibo">腾讯微博</string>
   <string name="userinfo_account_weibo">Sina Weibo</string>
