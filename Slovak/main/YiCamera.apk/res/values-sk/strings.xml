@@ -32,14 +32,14 @@
   <string name="bind_failed">Bound to fail!</string>
   <string name="bind_success">Pripojené!</string>
   <string name="bluetooth_add">Pridať Bluetooth</string>
-  <string name="btn_gotofaq">Help</string>
+  <string name="btn_gotofaq">Pomoc</string>
   <string name="button_back">Naspäť</string>
-  <string name="button_camera_upgrade">Aktualizovať</string>
+  <string name="button_camera_upgrade">Inštal.</string>
   <string name="button_music">Hudba</string>
   <string name="button_next">Ďalej</string>
   <string name="button_prev">Naspäť</string>
-  <string name="button_reconfig">New Search</string>
-  <string name="button_start_camera">Check Now</string>
+  <string name="button_reconfig">Znova</string>
+  <string name="button_start_camera">Skontr.</string>
   <string name="by_device">Zariadenie</string>
   <string name="by_time">Čas</string>
   <string name="camer_offline">Offline</string>
@@ -570,7 +570,7 @@ Normálne"</string>
   <string name="winexperience_intranetcheck_title">Rýchlosť Wi-Fi siete</string>
   <string name="winexperience_recheck_btntxt">Obnoviť</string>
   <string name="winexperience_recheck_checking_btntxt">Kontrola...</string>
-  <string name="winexperience_rotatecircle_scoreunit">bodov</string>
+  <string name="winexperience_rotatecircle_scoreunit">mi</string>
   <string name="winexperience_shouldupdate_gotoupdate_immediately">Aktualizovať</string>
   <string name="winexperience_shouldupdate_info_downloaded">Nová verzia je stiahnutá a môže byť nainštalovaná!</string>
   <string name="winexperience_shouldupdate_info_downloading">Sťahovanie novej verzie...</string>
