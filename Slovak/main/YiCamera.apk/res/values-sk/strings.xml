@@ -53,7 +53,7 @@
   <string name="camera_alarm_starttime">Začiatok</string>
   <string name="camera_alarm_type">Čas</string>
   <string name="camera_buffing">Načítavanie...</string>
-  <string name="camera_cant_found_wifi">Kamera nemôže nájsť Wi-Fi sieť, slúste to znova!</string>
+  <string name="camera_cant_found_wifi">Kamera nemôže nájsť Wi-Fi sieť, skúste to znova!</string>
   <string name="camera_config_check_message">Skontrolujte či na kamere bliká oranžová LED!</string>
   <string name="camera_config_success">Nastavenie kamery dokončené</string>
   <string name="camera_description">Popis</string>
@@ -73,7 +73,7 @@
   <string name="camera_public">Verejné video</string>
   <string name="camera_reboot">Reštart kamery</string>
   <string name="camera_recording_is_not_open">Intercom nie je povolený!</string>
-  <string name="camera_remove">Ostrániť kameru</string>
+  <string name="camera_remove">Odstrániť kameru</string>
   <string name="camera_sdcard_manage">Spravovať SD kartu</string>
   <string name="camera_set_image">Nastaviť statický obal</string>
   <string name="camera_setting">Nastavenie kamery</string>
@@ -219,7 +219,7 @@
   <string name="first_config_title2">Nastavenie Wi-Fi kamery</string>
   <string name="five_minutes">5 minút</string>
   <string name="format">Formát</string>
-  <string name="format_sdcard">Forátovať SD kartu</string>
+  <string name="format_sdcard">Formátovať SD kartu</string>
   <string name="format_success">Formátovanie dokončené!</string>
   <string name="found_a_camera">Nájdená kamera</string>
   <string name="from">Od</string>
@@ -460,7 +460,7 @@ Normálne"</string>
   <string name="tips_export_video">Exportovanie videa</string>
   <string name="tips_no_sdcard">Vaše zariadenie nemá SD kartu.</string>
   <string name="tips_play_record_end">Prehrávanie ukončené!</string>
-  <string name="tips_play_record_failed">Prehrívanie zlyhalo!</string>
+  <string name="tips_play_record_failed">Prehrávanie zlyhalo!</string>
   <string name="tips_play_record_timeout">Nie je možné načítať históriu!</string>
   <string name="tips_save_password">Uložiť heslo</string>
   <string name="tips_snapshot_failed">Zlyhalo</string>
@@ -539,7 +539,7 @@ Normálne"</string>
   <string name="video_is_loading_wait_cut">Počkajte kým sa video načíta!</string>
   <string name="video_is_loading_wait_record">Počkajte kým sa video načíta!</string>
   <string name="video_play">Prehrávanie uloženého videa</string>
-  <string name="video_play_error">Prehrávanie videa zlyhalo, skôste to znova!</string>
+  <string name="video_play_error">Prehrávanie videa zlyhalo, skúste to znova!</string>
   <string name="webaccount_is_invaild">Užívateľské meno neexistuje, skúste to znova!</string>
   <string name="weibo_login">Weibo</string>
   <string name="wifi_add">Pridať LAN</string>
@@ -599,7 +599,7 @@ Normálne"</string>
   <string name="xlistview_footer_hint_ready">Načítať viac</string>
   <string name="xlistview_header_hint_loading">Načítavanie...</string>
   <string name="xlistview_header_hint_normal">Potiahnutím obnovíte</string>
-  <string name="xlistview_header_hint_ready">Pustite pre obnnovenie</string>
+  <string name="xlistview_header_hint_ready">Pustite pre obnovenie</string>
   <string name="xlistview_header_last_time">"Aktualizované: "</string>
   <string name="you_dont_have_camera">Nemáte kameru!</string>
   <string name="you_dont_have_right_to_add_camera">Bežný účet bez oprávnenia pridať kamery!</string>
