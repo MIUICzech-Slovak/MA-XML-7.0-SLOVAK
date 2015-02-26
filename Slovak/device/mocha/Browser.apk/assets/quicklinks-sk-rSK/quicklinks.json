@@ -73,16 +73,16 @@
                 {
             "siteId": 06,
             "imageId": 294,
-            "title": "HarekTrade",
-            "url": "http://harektrade.cz/",
+            "title": "Xiaomiforsale",
+            "url": "http://xiaomiforsale.com/",
             "favicon": "",
-            "displayName": "HarekTrade",
+            "displayName": "Xiaomiforsale",
             "position": 5,
             "movable": true,
             "isDelete": true,
             "recommend": false,
-            "alias": "http://harektrade.cz/",
-            "matchUrl": "http://harektrade.cz/"
+            "alias": "http://xiaomiforsale.com/",
+            "matchUrl": "http://xiaomiforsale.com/"
         },
                 {
             "siteId": 07,
@@ -223,12 +223,12 @@
                 {
             "siteId": 06,
             "imageId": 294,
-            "title": "HarekTrade",
-            "url": "http://harektrade.cz/",
+            "title": "Xiaomiforsale",
+            "url": "http://xiaomiforsale.com/",
             "favicon": "",
-            "displayName": "HarekTrade",
-            "alias": "http://harektrade.cz/",
-            "matchUrl": "http://harektrade.cz/"
+            "displayName": "Xiaomiforsale",
+            "alias": "http://xiaomiforsale.com/",
+            "matchUrl": "http://xiaomiforsale.com/"
         },
                 {
             "siteId": 07,
