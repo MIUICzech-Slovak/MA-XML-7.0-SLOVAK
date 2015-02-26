@@ -1,6 +1,0 @@
-#Fri Dec 05 16:48:20 CST 2014
-version=1
-density=480
-type=quicklink
-language=sk-rSK
-id=13
