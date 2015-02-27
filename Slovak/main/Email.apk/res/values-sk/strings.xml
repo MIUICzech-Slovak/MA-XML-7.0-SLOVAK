@@ -387,7 +387,6 @@
   <string name="draft_count_format"> (%1$s)</string>
   <string name="drawer_close">Zavrieť priečinok s navigáciou</string>
   <string name="drawer_open">Otvoriť priečinok s navigáciou</string>
-  <string name="eas_template">doména\\meno</string>
   <string name="edit_quick_response_dialog">Rýchla odpoveď</string>
   <string name="empty_account_tip">Účet sa nenašiel</string>
   <string name="empty_email_tip">Nie je možné odoslať prázdny email</string>
