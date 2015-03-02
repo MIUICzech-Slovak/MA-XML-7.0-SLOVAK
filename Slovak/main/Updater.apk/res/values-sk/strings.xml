@@ -36,7 +36,7 @@
   <string name="boot_recovery">Reštart do Recovery</string>
   <string name="button_text_check">Skontrolovať</string>
   <string name="button_text_later_reboot">Neskôr</string>
-  <string name="button_text_reboot">Reštartovať do novej verzie</string>
+  <string name="button_text_reboot">Reštartovať</string>
   <string name="button_text_reboot_hm">Po reštarte</string>
   <string name="button_text_update">Aktualizovať</string>
   <string name="cancel_download">Zastaviť sťahovanie aktualizácie?</string>
