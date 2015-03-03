@@ -813,6 +813,4 @@ Chcete opustiť túto web stránku?"</string>
   <string name="video_push_multi_title">Dostupné aktualizácie</string>
   <string name="video_push_single_message">Aktualizovať na %1$d</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
-  <string name="action_menu_text_snapshot">Uložiť stránku</string>
-  <string name="empty_snapshot_hint">Prázdne</string>
 </resources>
