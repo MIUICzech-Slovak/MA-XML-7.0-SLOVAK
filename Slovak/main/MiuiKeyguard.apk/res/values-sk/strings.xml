@@ -63,7 +63,7 @@ Deaktivujte režim Lietadlo."</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Odomknuté s MiBand</string>
   <string name="miui_unlockscreen_password_wrong">Znova:</string>
   <string name="open_camera_hint_text">Potiahnite doľava pre Fotoaparát</string>
-  <string name="open_remote_center_hint_text">Potiahnite doprava pre MiHome</string>
+  <string name="open_remote_center_hint_text">Potiahnite doprava pre Kontakty</string>
   <string name="open_wifi_settings">Nastavenia siete</string>
   <string name="phone_locked_string">Zariadenie je zablokované</string>
   <string name="phone_locked_timeout_minutes_string">Skúste znovu o %s minút</string>
