@@ -299,4 +299,13 @@
   <string name="search_for_album">Album</string>
   <string name="search_for_artist">Umelec</string>
   <string name="support_online_only">Len online</string>
+  <string name="click_to_view_new_local_audios">Zobraziť podrobnosti.</string>
+  <string name="disallow_add_to_personal_radio">Osobne rádio je len na čítanie</string>
+  <string name="fragment_title_personal">OSOBNÉ</string>
+  <string name="impunity_declaration_negative_text">Ukončiť</string>
+  <string name="impunity_declaration_positive_text">OK</string>
+  <string name="no_enough_info">Nie je dostatok informácií</string>
+  <string name="server_error">Chyba servera, skúste to znova.</string>
+  <string name="suggest_text">Ľuďom sa tiež páči</string>
+  <string name="today_update">Aktualizovaná Hudba</string>
 </resources>
