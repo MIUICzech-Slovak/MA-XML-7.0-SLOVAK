@@ -9,4 +9,12 @@
         <item quantity="other">Aktualizované: %d</item>
         <item quantity="one">Aktualizované: %d</item>
     </plurals>
+    <plurals name="numberFoot">
+        <item quantity="other">%sfeet</item>
+        <item quantity="one">%sfoot</item>
+    </plurals>
+    <plurals name="numberInch">
+        <item quantity="other">%sinches</item>
+        <item quantity="one">%sinch</item>
+    </plurals>
 </resources>

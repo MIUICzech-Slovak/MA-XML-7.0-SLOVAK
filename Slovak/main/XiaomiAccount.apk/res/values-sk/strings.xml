@@ -529,4 +529,5 @@ s "</string>
   <string name="sns_access_token_expired_warning">Prihlásenie k účtu vypršalo. Prihláste sa znovu.</string>
   <string name="user_avatar_update_title">Aktualizovať profilovú fotografiu</string>
   <string name="user_avatar_uploading">Nahrávanie...</string>
+  <string name="mi_support_service">Podpora</string>
 </resources>

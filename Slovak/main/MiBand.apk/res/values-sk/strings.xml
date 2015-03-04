@@ -45,7 +45,7 @@
   <string name="app_exit_press_again">Stlačte znova pre ukončenie</string>
   <string name="app_info_version">"Verzia: %1$s 
 Súhlas: %2$s"</string>
-  <string name="app_name">MiBand</string>
+  <string name="app_name">MiFit</string>
   <string name="awake_format">, prebudený %1$s krát.</string>
   <string name="awake_format_1">, prebudený raz.</string>
   <string name="baby_weight">Baby</string>
@@ -647,7 +647,7 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="sport_running_auto_pause">Automaticky zastaviť</string>
   <string name="sport_running_auto_pause_desc">Automaticky zastaviť záznam trasy počas prestávky behu</string>
   <string name="sport_running_average_speed">Priemer</string>
-  <string name="sport_running_backgroud_notification">Running...,go go</string>
+  <string name="sport_running_backgroud_notification">Bežte...</string>
   <string name="sport_running_burn">Spálené</string>
   <string name="sport_running_cal_burnt">%d kcal</string>
   <string name="sport_running_cal_desc">Spálené</string>
@@ -690,7 +690,7 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="sport_running_prompt_come_on">Go!!</string>
   <string name="sport_running_prompt_great">Výborne!!</string>
   <string name="sport_running_prompt_per_kilometer" formatted="false">Zabehli ste %skm. Spálili ste %s. Tempo je %s.%s</string>
-  <string name="sport_running_real_time_pace">Tempo (m/km)</string>
+  <string name="sport_running_real_time_pace">Tempo (km)</string>
   <string name="sport_running_resume">Pokračovať</string>
   <string name="sport_running_set_dist">Upozornenie vzdialenosti</string>
   <string name="sport_running_set_goal">Upozornenie na cieľ</string>
@@ -706,7 +706,7 @@ Najvyšší denný rekord bol %5$s, dňa %4$s."</string>
   <string name="sport_running_start">Štart</string>
   <string name="sport_running_start_time">Štart</string>
   <string name="sport_running_step">Krokov</string>
-  <string name="sport_running_step_frequency">Tempo(krokov/m)</string>
+  <string name="sport_running_step_frequency">krokov/min</string>
   <string name="sport_running_stop">Zastaviť</string>
   <string name="sport_running_time_desc">Čas</string>
   <string name="sport_running_watermark">Vodoznak</string>
@@ -932,4 +932,28 @@ Please get off after the LED blinked."</string>
   <string name="your_gender">Vaše pohlavie</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Váha</string>
+  <string name="confirm_pair">Potvrdiť</string>
+  <string name="connect_to_retrive">Žiadne pripojenie.</string>
+  <string name="metre">m</string>
+  <string name="odo_british">Celkovo míľ</string>
+  <string name="search_again">Skúsiť znova</string>
+  <string name="set_length_unit">Jednotka dĺžky</string>
+  <string name="set_weight_unit">Jednotka váhy</string>
+  <string name="signal_none">Žiadny</string>
+  <string name="signal_strong">Silný</string>
+  <string name="signal_weak">Slabý</string>
+  <string name="unit_british">Britské jednotky</string>
+  <string name="unit_british_detail">Britské jednotky (stopy, palce)</string>
+  <string name="unit_foot">stopy</string>
+  <string name="unit_inch">palce</string>
+  <string name="unit_metric">Metrické jednotky</string>
+  <string name="unit_metric_detail">Metrické jednotky (metre, kilometre)</string>
+  <string name="unit_mile">míle</string>
+  <string name="watermark_failed_to_create_contour_track">Vytváranie stopy zlyhalo, skontrolujte dostupné miesto na úložisku.</string>
+  <string name="week_total_distance_miles">"Celkovo za týždeň 
+(miles)"</string>
+  <string name="weight_unit_british">Inch (pound)</string>
+  <string name="weight_unit_metric">Metric (kilograms, kg)</string>
+  <string name="weight_unit_shijin">Jin (1 kg = 500 g)</string>
+  <string name="weight_unit_text_info">You have bound the weight that the weight of the unit will be set weight scale prevail, open the battery cover on the back, said weight can adjust the weight of the unit</string>
 </resources>
