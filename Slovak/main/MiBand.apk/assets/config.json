@@ -10,6 +10,7 @@
 
     "runner" : {
         "enable" : true
+        "runnerGroupEnnable" : false
     },
 
     "mall" : {
