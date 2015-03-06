@@ -952,8 +952,8 @@ Please get off after the LED blinked."</string>
   <string name="watermark_failed_to_create_contour_track">Vytváranie stopy zlyhalo, skontrolujte dostupné miesto na úložisku.</string>
   <string name="week_total_distance_miles">"Celkovo za týždeň 
 (miles)"</string>
-  <string name="weight_unit_british">Inch (pound)</string>
-  <string name="weight_unit_metric">Metric (kilograms, kg)</string>
-  <string name="weight_unit_shijin">Jin (1 kg = 500 g)</string>
+  <string name="weight_unit_british">Palce (pound)</string>
+  <string name="weight_unit_metric">Metrické (kilogramy, kg)</string>
+  <string name="weight_unit_shijin">Gramy (1kg=1000g)</string>
   <string name="weight_unit_text_info">You have bound the weight that the weight of the unit will be set weight scale prevail, open the battery cover on the back, said weight can adjust the weight of the unit</string>
 </resources>
