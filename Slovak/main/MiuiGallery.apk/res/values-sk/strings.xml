@@ -617,4 +617,34 @@ spoločne!"</string>
   <string name="yes">Áno</string>
   <string name="yunyi_pocket_camera">Fotoaparát</string>
   <string name="impunity_declaration_positive_text">OK</string>
+  <string name="black_white">Čiernobiela 1</string>
+  <string name="brannan">EarlyBird</string>
+  <string name="camera_black_white">Čiernobiela 2</string>
+  <string name="confirm_merge_face_albums">" "Spojiť tento album do %s?" "</string>
+  <string name="cool">​Cool</string>
+  <string name="cool_portrait">CoolPortrét</string>
+  <string name="create_new_face">Nová tvár</string>
+  <string name="early_bird">Brannan</string>
+  <string name="face_album">Album ľudí</string>
+  <string name="face_album_not_named">Bez mena</string>
+  <string name="face_album_rename_hint">Zadajte meno</string>
+  <string name="face_albumset_detecting_tip">Rozpoznávanie tvárí...</string>
+  <string name="face_albumset_empty">Žiadna tvár nebola rozpoznaná</string>
+  <string name="face_albumset_use_tip">"Pomôžte vyhľadať tieto tváre,
+uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>  
+  <string name="face_move_dialog_title">Vyberte album</string>
+  <string name="home_page_tab_face">Tvár</string>
+  <string name="ignore_face">Ignorovať túto tvár</string>
+  <string name="merge_album_positive_button_text">Spojiť</string>
+  <string name="name_wrong">Nie %s</string>
+  <string name="old">​Stará</string>
+  <string name="operation_remove_from_face_album">Odstrániť tvár</string>
+  <string name="photo_save_succeed">Uložené</string>
+  <string name="preparing_data">Spracovávanie dát...</string>
+  <string name="rename_face_album">Zmeniť meno</string>
+  <string name="rename_fail_msg">Zlyhalo</string> 
+  <string name="rise">Ryža</string>
+  <string name="start_to_use_face_albumset">Začnite používať album tvárí</string>
+  <string name="view_face_album">Zobraziť album</string>
+  <string name="who_is_this">Kto je to?</string>
 </resources>

@@ -880,4 +880,5 @@ Delta update size: %2$s"</string>
   <string name="save_draft_failed">Ukladanie konceptu zlyhalo</string>
   <string name="account_setup_options_mail_check_frequency_4hour">Každé 4 hodiny</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Každých 12 hodín</string>
+  <string name="account_setup_deleting_account_msg">Mazanie účtu...</string>
 </resources>

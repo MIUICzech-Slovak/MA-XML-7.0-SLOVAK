@@ -1039,7 +1039,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="home_app_uninstall_button">Odinštalovať túto aplikáciu</string>
   <string name="home_key">Tlačidlo Domov</string>
   <string name="home_settings">Domov</string>
-  <string name="ime_security_warning">Prostredníctvom tejto metódy zadávania dát je možné zhromažďovať zadaný text vrátane osobných údajov, ako sú heslá a čísla platobných kariet. Metóda je poskytovaná aplikácií %1$s. Chcete túto metódu zadávania dát použiť?</string>
+  <string name="ime_security_warning">%1$s môže zaznamenať všetko čo napíšete.</string>
   <string name="immediately_destroy_activities">Neuchovávať aktivity</string>
   <string name="immediately_destroy_activities_summary">Zrušiť každú aktivitu, hneď ako ju užívateľ ukončí</string>
   <string name="ims_reg_required_off">Vyžaduje sa vypnutie registrácie IMS</string>
@@ -2923,4 +2923,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="wifi_off_airplane_on_content">Môžete zapnúť Wi-Fi manuálne počas režimu Lietadlo.</string>
   <string name="wifi_off_airplane_on_not_remind">Viac nezobrazovať</string>
   <string name="wifi_off_airplane_on_title">Wi-Fi v režime Lietadlo</string>
+  <string name="wifi_datanetwork_switch_not_remind">Viac nezobrazovať</string>
 </resources>

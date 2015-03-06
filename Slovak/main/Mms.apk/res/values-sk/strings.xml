@@ -547,4 +547,7 @@ Pokus: %s."</string>
   <string name="yes">OK</string>
   <string name="pref_show_sms_template_summary">Automaticky kopírovať a vložiť overovací kód</string>
   <string name="title_show_sms_template">Kontrola SMS čí obsahuje overovací kód</string>
+  <string name="open_url_with_web">Povoliť otváranie URL?</string>
+  <string name="pref_title_mms_validity_period">Doba platnosti MMS</string>
+  <string name="pref_title_sms_validity_period">Doba platnosti SMS</string>
 </resources>
