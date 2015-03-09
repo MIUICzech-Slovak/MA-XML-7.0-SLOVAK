@@ -14,7 +14,7 @@
   <string name="bonded_device">Pripojené zariadenia</string>
   <string name="brightbeau">Brightbeau</string>
   <string name="burst_complete">Dokončené.</string>
-  <string name="burst_start">Starting burst...</string>
+  <string name="burst_start">Dávkové snímanie...</string>
   <string name="button_back_to_home">Naspäť</string>
   <string name="button_reconnect">Znovu pripojiť</string>
   <string name="button_search_retry">Vyhľadať znova</string>
@@ -63,7 +63,7 @@
   <string name="factory_reset_message">Chcete obnoviť továrne nastavenia?</string>
   <string name="factory_reset_title">Továrne nastavenia</string>
   <string name="faq_battery">Batéria</string>
-  <string name="faq_boot_shut">Rečtartovanie</string>
+  <string name="faq_boot_shut">Reštartovanie</string>
   <string name="faq_common_sense">Camera sense</string>
   <string name="faq_connect">Pripojenie</string>
   <string name="faq_others">Ostatné</string>
@@ -95,7 +95,7 @@
   <string name="generate_MP4">MP4</string>
   <string name="get_sd_card_info_failed">Chyba načítavania SD karty.</string>
   <string name="get_setting">Načítavanie...</string>
-  <string name="gif_format">GIF format</string>
+  <string name="gif_format">GIF formát</string>
   <string name="google_plus_client_inavailable">Google+ nie je nainštalované</string>
   <string name="googleplus">Google+</string>
   <string name="high_definition">HD</string>
@@ -128,7 +128,7 @@
   <string name="insert_sd_card_first">Nie je vložená SD karta.</string>
   <string name="instagram">Instagram</string>
   <string name="instagram_client_inavailable">Instagram nie je nainštalovaný</string>
-  <string name="instapager_email_or_password_incorrect">E-mail or Password incorrect</string>
+  <string name="instapager_email_or_password_incorrect">E-mail alebo heslo nie je správne</string>
   <string name="instapaper">Instapaper</string>
   <string name="instapaper_email">E-mail</string>
   <string name="instapaper_login">Prihlásiť sa</string>
@@ -166,7 +166,7 @@
   <string name="loop_record">Nahrávanie slučky</string>
   <string name="low_level_sd_card">SD karty menšie ako 4GB nie sú podporované</string>
   <string name="match_failed">Nič sa nenašlo</string>
-  <string name="match_success">Matched</string>
+  <string name="match_success">Nájdené</string>
   <string name="meter_average">Priemer</string>
   <string name="meter_center">Stred</string>
   <string name="meter_manual">Manuál</string>
@@ -185,7 +185,7 @@
   <string name="new_video">Nové video</string>
   <string name="next">Ďalej</string>
   <string name="no_more_space">Nie je dostupné miesto na SD karte.</string>
-  <string name="no_new_firmware_version">Máte najnovši firmware.</string>
+  <string name="no_new_firmware_version">Máte najnovší firmware.</string>
   <string name="no_new_version">Žiadna nová verzia.</string>
   <string name="no_preview">Žiaden náhľad.</string>
   <string name="no_sd_card">Žiadna SD karta.</string>
@@ -238,13 +238,13 @@
   <string name="prompt_switch_network_title">Prepnúť sieť</string>
   <string name="prompt_switching_network">Prepínanie siete...</string>
   <string name="prompt_video_download_message">Sťahovanie sa o chvíľu spustí, chcete pokračovať?</string>
-  <string name="prompt_video_download_title">Sťiahnuť</string>
+  <string name="prompt_video_download_title">Stiahnuť</string>
   <string name="prompt_video_file_downloaded">Súbor už bol stiahnutý.</string>
   <string name="prompt_video_file_isexist">Video súbor už existuje</string>
   <string name="pull_to_refresh_footer_pull_label">Potiahnite nahor pre načítanie</string>
   <string name="pull_to_refresh_footer_refreshing_label">Načítavanie...</string>
   <string name="pull_to_refresh_footer_release_label">Pustite pre načítanie</string>
-  <string name="pull_to_refresh_pull_label">Pustite pre obbnovenie</string>
+  <string name="pull_to_refresh_pull_label">Pustite pre obnovenie</string>
   <string name="pull_to_refresh_refreshing_label">Obnovenie...</string>
   <string name="pull_to_refresh_release_label">Pustite pre obnovenie</string>
   <string name="qq">QQ</string>
@@ -313,7 +313,7 @@
   <string name="setting_capture_default_mode">Predvolený režim</string>
   <string name="setting_common_problem">FAQ</string>
   <string name="setting_device">Zariadenia</string>
-  <string name="setting_failed">Aktualizácia nasatvení zlyhala.</string>
+  <string name="setting_failed">Aktualizácia nastavení zlyhala.</string>
   <string name="setting_feedback">Spätná väzba</string>
   <string name="setting_hw_version">Model</string>
   <string name="setting_led_mode">Režim LED</string>
@@ -353,14 +353,14 @@
   <string name="share_to_qzone_default">Zdieľané z %s</string>
   <string name="share_video">Zdieľať</string>
   <string name="shortmessage">Krátka správa</string>
-  <string name="should_connect_to_outside_wifi">Aktualizácia firmware vyžaduje iné Wi-Fi pripojenie. Chcete odpojiť váš telefón od kammery?</string>
+  <string name="should_connect_to_outside_wifi">Aktualizácia firmware vyžaduje iné Wi-Fi pripojenie. Chcete odpojiť váš telefón od kamery?</string>
   <string name="show_password">Zobraziť heslo</string>
   <string name="sinaweibo">Weibo</string>
   <string name="single_pic">Normálne</string>
   <string name="sns_caching_video">Načítavanie...(XX%)</string>
   <string name="sns_detail_video">Všetky videá</string>
   <string name="sns_found_photo">Populárne fotografie</string>
-  <string name="sns_home_found">Objavte</string>
+  <string name="sns_home_found">Online</string>
   <string name="sns_home_more">Viac</string>
   <string name="sns_home_my">Môj profil</string>
   <string name="sns_loading_video">Načítavanie videa...</string>
@@ -436,7 +436,7 @@ telefónu"</string>
   <string name="unsurrport_online_play">Súbor nepodporuje online prehrávanie</string>
   <string name="update_now">Chcete aktualizovať?</string>
   <string name="upload_failed">odosielanie zlyhalo, skúste to znova!</string>
-  <string name="use_login_button">Použite tlačidlo pre pihlásenie</string>
+  <string name="use_login_button">Použite tlačidlo pre prihlásenie</string>
   <string name="verion_name">Verzia</string>
   <string name="version">Verzia</string>
   <string name="video_drawtext">Obsah</string>
@@ -479,7 +479,7 @@ telefónu"</string>
   <string name="wifi_password_hint">Predvolené 1234567890</string>
   <string name="wifi_prex">SportsCamera_</string>
   <string name="wifi_scan_faild">Pripojenie zlyhalo.</string>
-  <string name="wifi_scan_faild_solution">Zariadenie bude opať vyhľadávať ak bliká Wi-Fi LED.</string>
+  <string name="wifi_scan_faild_solution">Zariadenie bude opäť vyhľadávať ak bliká Wi-Fi LED.</string>
   <string name="wifi_set_success">Informácie o Wi-Fi sieti sú aktualizované, pripojte sa znova ku kamere.</string>
   <string name="wifi_set_title">Nastavenia Wi-Fi</string>
   <string name="wrap_enable">Korekcia šošovky</string>
