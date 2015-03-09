@@ -280,7 +280,7 @@
   <string name="sd_xc">Vysoká kapacita</string>
   <string name="sdcard_size">XXG dostupné | Celkom YYG</string>
   <string name="search_device">Vyhľadať zariadenie</string>
-  <string name="search_time_out">Nie je možné nájsť kameru</string>
+  <string name="search_time_out">Kamera sa nenašla</string>
   <string name="searching">Vyhľadávanie kamery...</string>
   <string name="second">s</string>
   <string name="select_camera">Vyberte kameru</string>
@@ -479,7 +479,7 @@ telefónu"</string>
   <string name="wifi_password_hint">Predvolené 1234567890</string>
   <string name="wifi_prex">SportsCamera_</string>
   <string name="wifi_scan_faild">Pripojenie zlyhalo.</string>
-  <string name="wifi_scan_faild_solution">Zariadenie bude opäť vyhľadávať ak bliká Wi-Fi LED.</string>
+  <string name="wifi_scan_faild_solution">Skúste to znova keď bliká Wi-Fi LED.</string>
   <string name="wifi_set_success">Informácie o Wi-Fi sieti sú aktualizované, pripojte sa znova ku kamere.</string>
   <string name="wifi_set_title">Nastavenia Wi-Fi</string>
   <string name="wrap_enable">Korekcia šošovky</string>
