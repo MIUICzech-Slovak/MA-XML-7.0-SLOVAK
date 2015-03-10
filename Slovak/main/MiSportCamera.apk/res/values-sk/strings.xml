@@ -3,7 +3,7 @@
   <string name="_8mmfilm">8mm film</string>
   <string name="abnormal_sw_file">Nastala neznáma chyba, skúste to znova.</string>
   <string name="app_download_title">Sťahovanie...</string>
-  <string name="app_name">YiCamera</string>
+  <string name="app_name">YiSport</string>
   <string name="app_upgrade_button">Stiahnuť</string>
   <string name="app_upgrade_title">Vyhľadať aktualizáciu</string>
   <string name="app_version">Verzia apl.</string>
@@ -21,7 +21,7 @@
   <string name="buy">Obchod</string>
   <string name="buzzer_volume_high">Vysoká</string>
   <string name="buzzer_volume_low">Nízka</string>
-  <string name="buzzer_volume_mute">Stíšiť</string>
+  <string name="buzzer_volume_mute">Vypnuté</string>
   <string name="camera_firmware_upgrade">Aktualizácia FW</string>
   <string name="camera_firmware_v">Verzia FW kamery</string>
   <string name="can_not_piv">Fotografovanie je dostupné len počas nahrávania.</string>
@@ -35,7 +35,7 @@
   <string name="cloud_photo_album">Cloud album</string>
   <string name="confirm">OK</string>
   <string name="connecting">Pripájanie...</string>
-  <string name="cont_pic">Burst</string>
+  <string name="cont_pic">Dávka</string>
   <string name="current_file_already_downloaded">Súbor je už stiahnutý</string>
   <string name="current_file_is_downloading">Súbor sa už sťahuje</string>
   <string name="curvelevel">Krivka</string>
@@ -114,8 +114,8 @@
   <string name="ib_video_play_contentdescription">Prehrať</string>
   <string name="ib_video_thumb_contentdescription">Náhľady</string>
   <string name="image_content">content</string>
-  <string name="in_burst">Bursting</string>
-  <string name="in_burst_capture">Bursting...</string>
+  <string name="in_burst">Dávka</string>
+  <string name="in_burst_capture">Dávka...</string>
   <string name="in_caputring_not_surppor_change">Nahrávanie...</string>
   <string name="in_normal_capturing">Nahrávanie</string>
   <string name="in_quick_recording">Nahrávanie...</string>
@@ -185,10 +185,10 @@
   <string name="new_video">Nové video</string>
   <string name="next">Ďalej</string>
   <string name="no_more_space">Nie je dostupné miesto na SD karte.</string>
-  <string name="no_new_firmware_version">Máte najnovší firmware.</string>
-  <string name="no_new_version">Žiadna nová verzia.</string>
-  <string name="no_preview">Žiaden náhľad.</string>
-  <string name="no_sd_card">Žiadna SD karta.</string>
+  <string name="no_new_firmware_version">Máte najnovší firmware</string>
+  <string name="no_new_version">Žiadna nová verzia</string>
+  <string name="no_preview">Žiaden náhľad</string>
+  <string name="no_sd_card">Žiadna SD karta</string>
   <string name="nomal_pic">Normálny</string>
   <string name="none">Neznáme</string>
   <string name="normal_capture_complete">Zastaviť</string>
@@ -259,7 +259,7 @@
   <string name="recording_sound_not_allowed">V súčasnom rozlíšení nie je podporované nahrávanie zvuku</string>
   <string name="redownload">Stiahnuť znova</string>
   <string name="renren">Renren</string>
-  <string name="resolution_sample">1920 X 1080 | 16:9 | 60P</string>
+  <string name="resolution_sample">1920 X 1080 | 16:9 | 60fps</string>
   <string name="restart_device_immediately">Znovu pripojiť Wi-Fi po aktualizácií informácií o Wi-Fi. Chcete pokračovať?</string>
   <string name="restore_factory_success">Zapnite Wi-Fi pre pripojenie ak počujete 3x pípnutie.</string>
   <string name="retro">Retro</string>
@@ -312,13 +312,13 @@
   <string name="setting_camera_clock">Čas kamery</string>
   <string name="setting_capture_default_mode">Predvolený režim</string>
   <string name="setting_common_problem">FAQ</string>
-  <string name="setting_device">Zariadenia</string>
+  <string name="setting_device">Zariadenie</string>
   <string name="setting_failed">Aktualizácia nastavení zlyhala.</string>
   <string name="setting_feedback">Spätná väzba</string>
   <string name="setting_hw_version">Model</string>
   <string name="setting_led_mode">Režim LED</string>
   <string name="setting_loop_record">Nahrávanie slučky</string>
-  <string name="setting_meter_mode">Režim zamerania</string>
+  <string name="setting_meter_mode">Režim ostrenia</string>
   <string name="setting_photo">Fotografie</string>
   <string name="setting_photo_size">Rozlíšenie</string>
   <string name="setting_photo_stamp">Časový vodoznak</string>
@@ -339,7 +339,7 @@
   <string name="setting_video_standard">Standard</string>
   <string name="setting_video_time_stamp">Časový vodoznak</string>
   <string name="setting_warp_enable">Korekcia šošovky</string>
-  <string name="setting_wifi">Nasatvenie Wi-Fi</string>
+  <string name="setting_wifi">Nastavenie Wi-Fi</string>
   <string name="share_failed">Zdieľanie zlyhalo</string>
   <string name="share_finish">Úspešne zdieľané! Chcete sa znovu pripojiť ku kamere?</string>
   <string name="share_my_video_message">Práve som nahral video. Pozrite sa!</string>
@@ -403,7 +403,7 @@
 kamery"</string>
   <string name="tvCameraBatteryLevel">Batéria kamery</string>
   <string name="tvCommonSetting">Všeobecné</string>
-  <string name="tvConnectionStatue">"Stav
+  <string name="tvConnectionStatue">"Sila
 pripojenia"</string>
   <string name="tvDelete">Vymazať</string>
   <string name="tvDownLoad">Stiahnuté</string>
@@ -416,8 +416,8 @@ pripojenia"</string>
 telefónu"</string>
   <string name="tvPhoneBatteryLevel">Batéria telefónu</string>
   <string name="tvPhoto">Fotografie</string>
-  <string name="tvPhotographMode">Fotografie</string>
-  <string name="tvQuickShotMode">Snímka</string>
+  <string name="tvPhotographMode">Fotografia</string>
+  <string name="tvQuickShotMode">Klip</string>
   <string name="tvRecordMode">Video</string>
   <string name="tvSend">Odoslať</string>
   <string name="tvShare">Zdieľať</string>
