@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/tileBar" layout="@layout/widget_title_bar" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip" android:layout_weight="1.0">
+        <TextView android:textSize="14.0sp" android:textColor="@color/title_bar_color" android:id="@id/tvVersion" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:layout_marginBottom="15.0dip" android:text="0.5.3" android:singleLine="true" />
+        <View android:layout_marginLeft="0.0dip" android:layout_marginRight="0.0dip" style="@style/SettingLineStyle" />
+        <TextView android:textColor="@color/main_ui_content_color" android:id="@id/tvUpgradeContent" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginTop="15.0dip" android:text="1.升级内容升级内容升级\n2.内容升级内容升级内容" android:layout_weight="1.0" />
+    </LinearLayout>
+    <View android:layout_marginLeft="0.0dip" android:layout_marginRight="0.0dip" style="@style/SettingLineStyle" />
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="92.0dip">
+        <Button android:textSize="16.0sp" android:textColor="#ff707070" android:gravity="center" android:id="@id/btnUpgrade" android:background="@drawable/click_btn_bg_3" android:layout_width="fill_parent" android:layout_height="42.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:text="上传固件" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</LinearLayout>

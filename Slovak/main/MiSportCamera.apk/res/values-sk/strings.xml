@@ -48,7 +48,7 @@
   <string name="descr_image">Snímok</string>
   <string name="deselected_all">Odznačiť</string>
   <string name="dev_reboot_faild">Reštartovanie zlyhalo.</string>
-  <string name="disconnect_from_camera">Chcete odpojiť kameru?</string>
+  <string name="disconnect_from_camera">Chcete odpojiť kameru? Akcia kamery nebude prerušená.</string>
   <string name="documentary">Dokumentárny</string>
   <string name="douban">Douban</string>
   <string name="downloaded">Stiahnuté</string>

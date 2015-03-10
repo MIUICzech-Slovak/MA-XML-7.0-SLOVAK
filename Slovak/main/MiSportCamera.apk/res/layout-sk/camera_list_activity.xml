@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="27.0sp" android:textStyle="bold" android:textColor="@android:color/black" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/settting_item_margin" android:layout_marginTop="36.0dip" android:layout_marginRight="@dimen/settting_item_margin" android:text="Vyberte kameru" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/settting_item_margin" android:layout_marginTop="12.0dip" android:layout_marginRight="@dimen/settting_item_margin" android:layout_marginBottom="22.0dip">
+        <TextView android:textSize="16.0sp" android:textColor="#ff585858" android:id="@id/tvNotice" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Vyberte Wi-Fi sieť" android:layout_weight="1.0" />
+        <ImageView android:id="@id/ivRefresh" android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/ic_refresh" />
+    </LinearLayout>
+    <View style="@style/SettingLineStyle" />
+    <ListView android:id="@id/listView" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@drawable/setting_item_bg" android:divider="@null" android:footerDividersEnabled="true" />
+</LinearLayout>

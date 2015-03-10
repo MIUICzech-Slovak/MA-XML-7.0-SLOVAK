@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/dialog_empty_area" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:background="@color/window_bg_color" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="13.0sp" android:textColor="@android:color/black" android:layout_gravity="center_horizontal" android:id="@id/tvName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_marginBottom="20.0dip" android:text="Kvalita videa" />
+            <ListView android:id="@id/listView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@drawable/setting_item_bg" android:divider="@null" android:choiceMode="singleChoice" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

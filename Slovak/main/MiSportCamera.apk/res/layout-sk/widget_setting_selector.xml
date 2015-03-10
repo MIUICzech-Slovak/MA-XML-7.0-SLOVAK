@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout style="@style/SettingItemLayoutStyle">
+        <TextView android:id="@id/tvName" android:text="Rozlíšenie" style="@style/SettingItemTitleStyle" />
+        <LinearLayout style="@style/SettingItemRightLayoutStyle">
+            <TextView android:id="@id/tvValue" android:text="" style="@style/SettingItemValueStyle" />
+            <ImageView android:id="@id/ivNew" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:src="@drawable/new_icon" />
+            <ImageView android:id="@id/ivRight" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/setting_right" />
+        </LinearLayout>
+    </RelativeLayout>
+    <View style="@style/SettingLineStyle" />
+</LinearLayout>

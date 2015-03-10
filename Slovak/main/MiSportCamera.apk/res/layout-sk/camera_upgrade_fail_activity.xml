@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ff42464c" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="27.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/tvLoading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="30.0dip" android:layout_marginTop="36.0dip" android:layout_marginRight="30.0dip" android:text="Aktualizácia zlyhala" />
+    <TextView android:textSize="16.0sp" android:textColor="#ffb1b2b4" android:id="@id/tvFail" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="30.0dip" android:layout_marginTop="12.0dip" android:layout_marginRight="30.0dip" android:text="Nahrávanie FW zlyhalo" />
+    <View android:id="@id/devider" android:background="#ff8e9094" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="30.0dip" android:layout_marginTop="29.0dip" android:layout_marginRight="30.0dip" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:background="@drawable/upgrade_fail" android:layout_width="130.0dip" android:layout_height="130.0dip" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <RelativeLayout android:orientation="vertical" android:background="#ff262626" android:layout_width="fill_parent" android:layout_height="92.0dip">
+        <Button android:textSize="16.0sp" android:textColor="@android:color/white" android:gravity="center" android:id="@id/btnBack" android:background="@drawable/button_upgrade" android:layout_width="fill_parent" android:layout_height="42.0dip" android:layout_marginLeft="15.0dip" android:layout_marginRight="15.0dip" android:text="Naspäť" android:layout_centerInParent="true" />
+    </RelativeLayout>
+</LinearLayout>

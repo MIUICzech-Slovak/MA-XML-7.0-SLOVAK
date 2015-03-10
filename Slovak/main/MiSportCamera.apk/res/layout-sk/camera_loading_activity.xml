@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffd0422a" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="27.0sp" android:textStyle="bold" android:textColor="#ffffffff" android:id="@id/tvLoading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="36.0dip" android:text="Pripájanie" android:layout_alignLeft="@id/devider" />
+    <TextView android:textSize="16.0sp" android:textColor="#ffe8b1ab" android:id="@id/tvNotice" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="Zapnite kameru a stlačte tlačidlo Wi-Fi kým nebude blikať modrá LED" android:layout_below="@id/tvLoading" android:layout_alignLeft="@id/devider" />
+    <View android:id="@id/devider" android:background="#ffe38e7f" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginLeft="30.0dip" android:layout_marginTop="29.0dip" android:layout_marginRight="30.0dip" android:layout_below="@id/tvNotice" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="30.0dip" android:layout_below="@id/devider">
+        <ProgressBar android:id="@id/pbLoading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminateOnly="true" android:indeterminateDrawable="@drawable/circle_progressbar" android:indeterminateBehavior="repeat" android:layout_centerInParent="true" style="@style/LoadingActivityProgressBarStyle" />
+        <ImageView android:id="@id/ivLoading" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/circle_progressbar" android:layout_centerInParent="true" />
+        <TextView android:textSize="20.0sp" android:textColor="#fff6e2e0" android:id="@id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="loading" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/progressBar" android:layout_width="30.0dip" android:layout_height="30.0dip" android:layout_centerInParent="true" style="@style/My.Widget.ProgressBar.Small" />
+    <TextView android:textSize="10.0sp" android:textColor="@color/white" android:id="@id/tvloading" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="Načítavanie..." android:layout_below="@id/progressBar" android:layout_centerHorizontal="true" />
+</RelativeLayout>

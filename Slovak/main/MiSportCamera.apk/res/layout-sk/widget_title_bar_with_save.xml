@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/camera_setting_action_bar_background" android:layout_width="fill_parent" android:layout_height="48.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/llLeft" android:paddingRight="10.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_centerVertical="true">
+        <ImageView android:id="@id/ivLeft" android:visibility="visible" android:duplicateParentState="true" android:layout_width="36.0dip" android:layout_height="fill_parent" android:src="@drawable/button_file_manage_back" android:scaleType="centerInside" />
+        <TextView android:textSize="15.0sp" android:textColor="@android:color/white" android:gravity="center" android:layout_gravity="center" android:id="@id/tvTitle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Názov" />
+    </LinearLayout>
+    <Button android:textSize="14.0sp" android:textColor="@android:color/white" android:id="@id/btnRight" android:background="@drawable/btn_titlebar_save" android:layout_width="48.0dip" android:layout_height="30.0dip" android:layout_marginRight="5.0dip" android:text="@string/save" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</RelativeLayout>
