@@ -421,13 +421,13 @@ telefónu"</string>
   <string name="tvRecordMode">Video</string>
   <string name="tvSend">Odoslať</string>
   <string name="tvShare">Zdieľať</string>
-  <string name="tvVideo">Videoá</string>
+  <string name="tvVideo">Video</string>
   <string name="tvVideoDelete">Vymazať</string>
   <string name="tvVideoDownload">Stiahnuť</string>
   <string name="tvVideoSetting">Nastavenie videa</string>
   <string name="tv_burst">Dávka</string>
   <string name="tv_normal">Normálne</string>
-  <string name="tv_timelapes">Časozberné video</string>
+  <string name="tv_timelapes">Time Lapse</string>
   <string name="tv_timer">Samospúšť</string>
   <string name="tv_timing_off">vyp</string>
   <string name="twitter">Twitter</string>
