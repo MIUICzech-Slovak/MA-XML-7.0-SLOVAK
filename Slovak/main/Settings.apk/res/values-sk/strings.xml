@@ -2924,4 +2924,15 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="wifi_off_airplane_on_not_remind">Viac nezobrazovať</string>
   <string name="wifi_off_airplane_on_title">Wi-Fi v režime Lietadlo</string>
   <string name="wifi_datanetwork_switch_not_remind">Viac nezobrazovať</string>
+  <string name="bluetooth_unlock_state_disconnected">Odpojené</string>
+  <string name="bluetooth_unlock_state_key_error">Chyba kľúča</string>
+  <string name="bluetooth_unlock_state_label">Stav:</string>
+  <string name="bluetooth_unlock_state_ok">Úspešné</string>
+  <string name="bluetooth_unlock_state_too_far">Nie je v  dosahu</string>
+  <string name="device_security_settings_title">Bezpečnosť</string>
+  <string name="enable_crypt_keeper_encrypt">Povoliť šifrovanie</string>
+  <string name="location_access_off">Vyp</string>
+  <string name="location_access_on">Zap</string>
+  <string name="privacy_mode_summary">Užívateľské dáta budú ukryté</string>
+  <string name="privacy_mode_title">Povolenia</string>
 </resources>
