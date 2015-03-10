@@ -85,7 +85,7 @@
   <string name="firmware_upgrade_download_firmware">Sťahovanie aktualizácie FW...</string>
   <string name="firmware_upgrade_message">Chcete stiahnuť nový firmware?</string>
   <string name="firmware_upgrade_switch_wifi">Prepínanie Wi-Fi nastavení...</string>
-  <string name="firmware_upgrade_tip">Neodpojujte váš telefón od Wi-Fi siete počas aktualizácie.</string>
+  <string name="firmware_upgrade_tip">Neodpojujte váš telefón od Wi-Fi siete počas aktualizácie. Po dokončení reštartujte kameru a počkajte kým nedokončí inštaláciu.</string>
   <string name="firmware_upgrade_title">Nová verzia FW</string>
   <string name="flickr">Flickr</string>
   <string name="format_sdcard_msg">Chcete formátovať SD kartu?</string>
@@ -167,7 +167,7 @@
   <string name="low_level_sd_card">SD karty menšie ako 4GB nie sú podporované</string>
   <string name="match_failed">Nič sa nenašlo</string>
   <string name="match_success">Nájdené</string>
-  <string name="meter_average">Priemer</string>
+  <string name="meter_average">Matrica</string>
   <string name="meter_center">Stred</string>
   <string name="meter_manual">Manuál</string>
   <string name="meter_spot">Bod</string>
@@ -220,7 +220,7 @@
   <string name="produce_file">Vytváranie...</string>
   <string name="progress_dialog_delete_message">Vymazávanie</string>
   <string name="progress_dialog_delete_prompt">Vymazať</string>
-  <string name="prompt">Poznámka</string>
+  <string name="prompt">Upozornenie</string>
   <string name="prompt_cancel">Vymazať</string>
   <string name="prompt_continue">Pokračovať</string>
   <string name="prompt_dataflow_message">Chcete pokračovať na mobilnom pripojení?</string>
@@ -336,7 +336,7 @@
   <string name="setting_video_output_status">AV výstup</string>
   <string name="setting_video_quality">Kvalita</string>
   <string name="setting_video_resolution">Rozlíšenie</string>
-  <string name="setting_video_standard">Standard</string>
+  <string name="setting_video_standard">Štandard</string>
   <string name="setting_video_time_stamp">Časový vodoznak</string>
   <string name="setting_warp_enable">Korekcia šošovky</string>
   <string name="setting_wifi">Nastavenie Wi-Fi</string>
@@ -425,9 +425,9 @@ telefónu"</string>
   <string name="tvVideoDelete">Vymazať</string>
   <string name="tvVideoDownload">Stiahnuť</string>
   <string name="tvVideoSetting">Nastavenie videa</string>
-  <string name="tv_burst">Burst</string>
+  <string name="tv_burst">Dávka</string>
   <string name="tv_normal">Normálne</string>
-  <string name="tv_timelapes">Time lapse</string>
+  <string name="tv_timelapes">Časozberné video</string>
   <string name="tv_timer">Samospúšť</string>
   <string name="tv_timing_off">vyp</string>
   <string name="twitter">Twitter</string>
