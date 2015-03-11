@@ -262,7 +262,7 @@
   <string name="incall_error_supp_service_transfer">Hovor nie je možné presunúť.</string>
   <string name="incall_error_supp_service_unknown">Nepodporovaná služba.</string>
   <string name="incall_status_dialed_mmi">Spustenie sekvencie MMI...</string>
-  <string name="incoming_call_forwarded_title">Presmerovať prichádzajúci hovor</string>
+  <string name="incoming_call_forwarded_title">Presmerovaný prichádzajúci hovor</string>
   <string name="international_disable">Medzinárodné správy zakázané</string>
   <string name="international_enable">Medzinárodné správy povolené</string>
   <string name="internet_phone">Hovor cez internet</string>
