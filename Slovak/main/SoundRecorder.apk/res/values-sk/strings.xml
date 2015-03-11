@@ -112,6 +112,5 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="preference_tip_rename">Zobraziť premenovanie súboru po skončení nahrávania</string>
-  <string name="record_picker_title">Vyberte nahrávku</string>
   <string name="rename_no_more_tip">Viac sa nepýtať</string>
 </resources>
