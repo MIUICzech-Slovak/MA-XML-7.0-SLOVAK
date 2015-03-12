@@ -318,7 +318,7 @@
   <string name="setting_hw_version">Model</string>
   <string name="setting_led_mode">Režim LED</string>
   <string name="setting_loop_record">Nahrávanie slučky</string>
-  <string name="setting_meter_mode">Režim ostrenia</string>
+  <string name="setting_meter_mode">Meranie expozície</string>
   <string name="setting_photo">Fotografie</string>
   <string name="setting_photo_size">Rozlíšenie</string>
   <string name="setting_photo_stamp">Časový vodoznak</string>
