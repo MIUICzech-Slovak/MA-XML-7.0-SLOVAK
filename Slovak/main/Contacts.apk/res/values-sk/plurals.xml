@@ -96,4 +96,28 @@
         <item quantity="other">Importovaných kontaktov: %1$d</item>
         <item quantity="one">Importovaných kontaktov: %1$d</item>
     </plurals>
+    <plurals name="export_sim_contacts_dialog_message">
+        <item quantity="other">SIM karta uloží %d kontaktov.</item>
+        <item quantity="one">SIM karta uloží %d kontakt.</item>
+    </plurals>
+    <plurals name="confirm_delete_sim_entry_miui">
+        <item quantity="other">Vymazať kontakty (%d) zo SIM karty?</item>
+        <item quantity="one">Vymazať kontakty (%d) zo SIM karty?</item>
+    </plurals>
+    <plurals name="export_sim_contact_finish_success">
+        <item quantity="other">Skopírované kontakty: %d</item>
+        <item quantity="one">Skopírované kontakty: %d</item>
+    </plurals>
+    <plurals name="btn_delete_multi_contacts">
+        <item quantity="other">Vymazať kontakty %d</item>
+        <item quantity="one">Vymazať kontakt</item>
+    </plurals>
+    <plurals name="batch_delete_msg">
+        <item quantity="other">Vymazať kontakty (%d)?</item>
+        <item quantity="one">Vymazať kontakty (%d)?</item>
+    </plurals>
+    <plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Zvonil %dx</item>
+        <item quantity="one">Zvonil %dx</item>
+    </plurals>
 </resources>

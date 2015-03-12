@@ -343,4 +343,6 @@ Získali ste ďalších %1$s"</string>
   <string name="kuaipan_photo_locate">Nájdené %1$s</string>
   <string name="kuaipan_root_fooder">Domov</string>
   <string name="no_display_file">Nie je možné zobraziť %1$s</string>
+  <string name="action_mode_deselect_all">Odznačiť</string>
+  <string name="action_mode_select_all">Všetko</string>
 </resources>

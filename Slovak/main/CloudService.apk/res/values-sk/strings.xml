@@ -281,4 +281,14 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
   <string name="sina_share_success">Odoslané</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
+  <string name="micloud_single_dspt">Požívajte MiCloud pre synchr., vyhľadávanie svojho zariadenia a zdieľanie s priateľmi.</string>
+  <string name="micloud_space_duokan_detail">Spravovať váš obsah v Duokan.</string>
+  <string name="micloud_space_duokan_title">Duokan</string>
+  <string name="micloud_setting_antispam_summary">Výnimky pre Režim Nerušiť a blokované tel. čísla.</string>
+  <string name="micloud_main_sync_init">Získavanie informácií</string>
+  <string name="find_device_status_ok_international">Nájdite svoje zariadenie na www.mi.com/micloud</string>
+  <string name="cloudservice_new_sync">Synchr. %s s MiCloud</string>
+  <string name="calendar_sync">Kalendár</string>
+  <string name="click_to_enabled">Synchronizovať</string>
+  <string name="antispam_sync">Nastavenia Režimu Nerušiť</string>
 </resources>

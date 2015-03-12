@@ -881,4 +881,12 @@ Delta update size: %2$s"</string>
   <string name="account_setup_options_mail_check_frequency_4hour">Každé 4 hodiny</string>
   <string name="account_setup_options_mail_check_frequency_12hour">Každých 12 hodín</string>
   <string name="account_setup_deleting_account_msg">Mazanie účtu...</string>
+  <string name="account_setup_address_label">Email</string>
+  <string name="account_setup_correct_address_tips">Zadajte emailovú adresu</string>
+  <string name="outbox_alert_description_insufficient_storage_error">Nedostatok voľného miesta na serveri</string>
+  <string name="reduce_the_receiving_frequencye_summary">Synchr. menej často v nastavenom čase</string>
+  <string name="reduce_the_receiving_frequencye_title">Znížiť počet kontroly emailov</string>
+  <string name="save_power_summary">Úspora batérie v stanovený čas</string>
+  <string name="save_power_title">Úspora batérie</string>
+  <string name="ser_resp_err_map_pserr">Nesprávne meno alebo heslo</string>
 </resources>
