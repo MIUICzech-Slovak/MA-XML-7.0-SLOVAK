@@ -109,8 +109,8 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_detail_wlan">Nesynchr.: %d</string>
   <string name="micloud_detail_wlan_contact">Nesynchr.: %d obrázkov kontaktu</string>
   <string name="micloud_detail_wlan_mms">Nesynchr.: %d MMS</string>
-  <string name="micloud_dspt">Používajte MiCloud na synchronizáciu dát, lokalizáciu strateného telefónu...</string>
-  <string name="micloud_dspt_provision">Používajte MiCloud na synchronizáciu dát, lokalizáciu strateného telefónu a zdieľanie súborov so svojími priateľmi.</string>
+  <string name="micloud_dspt">Používajte MiCloud na synchr., vyhľadanie telefónu,</string>
+  <string name="micloud_dspt_provision">Používajte MiCloud na synchr., vyhľadanie telefónu a zdieľanie súborov.</string>
   <string name="micloud_first_login_summary"/>
   <string name="micloud_first_login_title"/>
   <string name="micloud_full_influence_dspt">"Všetky fotografie, videá, poznámky a aplikácie budú zálohované do MiCloud.
