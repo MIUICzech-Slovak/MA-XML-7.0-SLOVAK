@@ -494,4 +494,9 @@ Veľkosť: %2$s"</string>
   <string name="yixin_client_inavailable">Yixin nie je nainštalovaný</string>
   <string name="yixinmoments">Yixin Moments</string>
   <string name="youdao">Youdao</string>
+  <string name="camera_start_fw_update">Aktualizácia</string>
+  <string name="camera_start_usb_storage_mode">Kamera je prepnutá do USB režimu</string>
+  <string name="setting_cloud_album">Cloud album</string>
+  <string name="setting_timeout">Timeout</string>
+  <string name="wifi_authenticate_failed">Zadané heslo Wi-Fi siete nie je správne</string>
 </resources>
