@@ -345,4 +345,5 @@ Získali ste ďalších %1$s"</string>
   <string name="no_display_file">Nie je možné zobraziť %1$s</string>
   <string name="action_mode_deselect_all">Odznačiť</string>
   <string name="action_mode_select_all">Všetko</string>
+  <string name="can_not_send_with_too_many">Nie je možné odoslať toľko súborov</string>
 </resources>
