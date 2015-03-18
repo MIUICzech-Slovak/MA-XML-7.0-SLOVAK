@@ -661,4 +661,11 @@ Postupujte podľa pokynov"</item>
         <item>Zvýšiť kontrast</item>
         <item>Nemeniť kontrast</item>
     </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>Fialová</item>
+        <item>Rubínová</item>
+        <item>Oranžová</item>
+        <item>Zelená</item>
+        <item>Purpurová</item>
+    </string-array>
 </resources>

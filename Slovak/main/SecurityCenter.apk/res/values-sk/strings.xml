@@ -739,4 +739,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="summary_default_app">%s nie je nastavené ako predvolená aplikácia</string>
+  <string name="title_default_app">MIUI %s nie je nastavené ako predvolené</string>
+  <string name="toast_default_app">%1$s nastaviť ako predvolené pre %2$s</string>
 </resources>

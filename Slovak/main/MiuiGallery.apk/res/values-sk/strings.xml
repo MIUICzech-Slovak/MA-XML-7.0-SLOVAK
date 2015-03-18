@@ -469,7 +469,7 @@ spoločne!"</string>
   <string name="rotate">Otočiť</string>
   <string name="rotate_tooltip">Potiahnuť snímku pre jej otočenie</string>
   <string name="same_name_album_exists_alert">Album s rovnakým menom už existuje a bol zdieľaný. Nahrať fotografie automaticky do tohto albumu?</string>
-  <string name="saturation">Saturácia</string>
+  <string name="saturation">Satur.</string>
   <string name="save">Uložiť</string>
   <string name="save_error">"Nemožno uložiť orezaný obrázok."</string>
   <string name="save_photo">Uložiť upravenú snímku?</string>
@@ -618,13 +618,13 @@ spoločne!"</string>
   <string name="yunyi_pocket_camera">Fotoaparát</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="black_white">Čiernobiela 1</string>
-  <string name="brannan">EarlyBird</string>
+  <string name="brannan">Brannan</string>
   <string name="camera_black_white">Čiernobiela 2</string>
   <string name="confirm_merge_face_albums">" "Spojiť tento album do %s?" "</string>
   <string name="cool">​Cool</string>
   <string name="cool_portrait">CoolPortrét</string>
   <string name="create_new_face">Nová tvár</string>
-  <string name="early_bird">Brannan</string>
+  <string name="early_bird">Earlybird</string>
   <string name="face_album">Album ľudí</string>
   <string name="face_album_not_named">Bez mena</string>
   <string name="face_album_rename_hint">Zadajte meno</string>
@@ -643,11 +643,11 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="preparing_data">Spracovávanie dát...</string>
   <string name="rename_face_album">Zmeniť meno</string>
   <string name="rename_fail_msg">Zlyhalo</string> 
-  <string name="rise">Ryža</string>
+  <string name="rise">Rise</string>
   <string name="start_to_use_face_albumset">Začnite používať album tvárí</string>
   <string name="view_face_album">Zobraziť album</string>
   <string name="who_is_this">Kto je to?</string>
-  <string name="effect">Efekty</string>
+  <string name="effect">Filtre</string>
   <string name="adjust">Prispôsobiť</string>
   <string name="cloud_folder_chooser_move">Vymazať súbory z pôvodného albumu</string>
 </resources>
