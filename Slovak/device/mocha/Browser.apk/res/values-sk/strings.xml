@@ -26,7 +26,7 @@
   <string name="advertise_pop_window">Zakázať vyskakovacie okná</string>
   <string name="advertise_suspend_window">Zakázať plávajúce okná</string>
   <string name="application_name">Prehliadač</string>
-  <string name="bookmark">Záložka</string>
+  <string name="bookmark">Záložky</string>
   <string name="bookmark_action_bar_add_group_title">Pridať zložku</string>
   <string name="bookmark_action_bar_new_group_title">Nová zložka</string>
   <string name="bookmark_add_group_text_header">Pridať vybrané záložky (%1$d)</string>
@@ -274,4 +274,24 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_today">Dnes</string>
   <string name="webview_yesterday">Včera</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="find_next">Ďalšie</string>
+  <string name="find_previous">Predch.</string>
+  <string name="js_dialog_before_unload">"%s 
+
+Chcete odísť z tejto stránky?"</string>
+  <string name="js_dialog_before_unload_negative_button">Ostať na tejto stránke</string>
+  <string name="js_dialog_before_unload_positive_button">Odísť zo stránky</string>
+  <string name="js_dialog_before_unload_title">Potvrdenie</string>
+  <string name="js_dialog_title">Stránka \" %s \" oznamuje:</string>
+  <string name="js_dialog_title_default">JavaScript</string>
+  <string name="last_month">Posledný mesiac</string>
+  <string name="miui_content_open_url">Otvoriť URL</string>
+  <string name="no_matches">Nič sa nenašlo</string>
+  <string name="older">Staršie</string>
+  <string name="private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
+  <string name="save_password_message">Chcete aby si prehliadač zapamätal toto heslo?</string>
+  <string name="save_password_never">Nikdy</string>
+  <string name="save_password_notnow">Nie teraz</string>
+  <string name="save_password_remember">Zapamätať</string>
+  <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
 </resources>
