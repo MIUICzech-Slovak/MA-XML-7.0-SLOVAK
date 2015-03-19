@@ -438,5 +438,20 @@ Skontrolujte aj SPAM."</string>
   <string name="milink_nowifi">Wi-Fi nie je pripojená</string>
   <string name="no_ir_other_support">Podporuje len ovládač z MiBox</string>
   <string name="no_ir_support">Žiadne IR zariadenie</string>
-  
+  <string name="upgrade_already_latest">Žiadna nová verzia</string>
+  <string name="upgrade_current_version">Súčasná verzia: %1s</string>
+  <string name="upgrade_download">Stiahnuť apk</string>
+  <string name="upgrade_found_new_version">Nová verzia %1s</string>
+  <string name="upgrade_later">Neskôr</string>
+  <string name="upgrade_loading">Načítavanie</string>
+  <string name="upgrade_log">Sťahovanie</string>
+  <string name="upgrade_now">Aktualizovať</string>
+  <string name="upgrade_title_frame">Aktualizácia %1s</string>
+  <string name="external_app">Nainštalovaná verzia</string>
+  <string name="external_photo">Fotografie</string>
+  <string name="external_video">Video</string>
+  <string name="downloading">Sťahovanie</string>
+  <string name="download_assistant">Cast-screen artifact</string>
+  <string name="download_path_fail">Sťahovanie zlyhalo</string>
+  <string name="dialog_install_assistant_content">Xiaomi installed a specially developed application artifact screen cast, Fun MiTV/MiBox</string>
 </resources>
