@@ -150,4 +150,6 @@
   <string name="xiaomi_checker">Mi kontrola</string>
   <string name="xiaomi_desc">Používate Xiaomi Mi3</string>
   <string name="xiaomi_name">Beijing Xiaomi Mobile Software Co., Ltd.</string>
+  <string name="please_set_mode">Vyberte režim</string>
+  <string name="two_quit">Stlačte 2x pre ukončenie</string>
 </resources>
