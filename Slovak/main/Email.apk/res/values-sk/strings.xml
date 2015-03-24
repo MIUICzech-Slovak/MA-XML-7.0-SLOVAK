@@ -889,4 +889,11 @@ Delta update size: %2$s"</string>
   <string name="save_power_summary">Úspora batérie v stanovený čas</string>
   <string name="save_power_title">Úspora batérie</string>
   <string name="ser_resp_err_map_pserr">Nesprávne meno alebo heslo</string>
+  <string name="sdcard_cannot_use">SD karta nie je dostupná</string>
+  <string name="upload_log">Odoslať záznamy pre diagnostiku</string>
+  <string name="upload_log_failed">Odosielanie zlyhalo</string>
+  <string name="upload_log_success">Odoslané</string>
+  <string name="upload_log_title">Odoslať záznamy pre diagnostiku?</string>
+  <string name="uploading_logs">Odosielanie...</string>
+  <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie, používanie emailu môže navýšiť vaše mesačné poplatky!</string>
 </resources>

@@ -308,4 +308,8 @@
   <string name="server_error">Chyba servera, skúste to znova.</string>
   <string name="suggest_text">Ľuďom sa tiež páči</string>
   <string name="today_update">Aktualizovaná Hudba</string>
+  <string name="action_item_favorite">Obľúbené</string>
+  <string name="download_all_song">Stiahnuť všetko</string>
+  <string name="more_about_artist">Viac o %s</string>
+  <string name="play_all_song">Prehrať všetko</string>
 </resources>

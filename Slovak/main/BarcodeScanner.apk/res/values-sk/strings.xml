@@ -80,4 +80,5 @@
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto sieť je bezpečná.</string>
+  <string name="continue_to_website">Otvoriť webstránku</string>
 </resources>
