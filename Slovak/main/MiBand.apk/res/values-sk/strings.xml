@@ -974,7 +974,7 @@ Please get off after the LED blinked."</string>
   <string name="addgoal_light">"You're under your target weight"</string>
   <string name="addgoal_normal">"Congratulations! You're at your at your target weight."</string>
   <string name="agree_ux">User Experience Program</string>
-  <string name="alarm_tips">"Band will stop vibrating automatically when it detects you've gotten out of bed. Tap the band's sensor anytime to stop alarm manually. "</string>
+  <string name="alarm_tips">MiBand prestane vibrovať ak zistí, že ste vstali z postele. Kedykoľvek môžete vibrácie zastaviť poklepaním. "</string>
   <string name="ampm_format">hh:mma</string>
   <string name="baby_no_weight">No weigh-in history</string>
   <string name="baby_weight_equal">Same as last weigh-in</string>
@@ -989,8 +989,8 @@ you need available network."</string>
   <string name="bind_weibo_health_tip_init">Sign in to Weibo Health.</string>
   <string name="bind_weibo_health_title">Add Weibo Account</string>
   <string name="body_figure">体型</string>
-  <string name="bracelet_notify_text">主人可别忘了戴上环环呀</string>
-  <string name="bracelet_notify_title">手环电池已充满</string>
+  <string name="bracelet_notify_text">Nezabudnite na MiBand</string>
+  <string name="bracelet_notify_title">Batéria je nabitá</string>
   <string name="button_search_friend">Search</string>
   <string name="button_send_care">Send a Nudge</string>
   <string name="change_current_weight_report">"当前体重不是\"%1$s\"的?
@@ -1019,13 +1019,13 @@ You reached your goal."</string>
   <string name="invalid_name">名稱包含非法字符，請重新輸入</string>
   <string name="join_improvement_plan_detial">Help improve Mi Band by sending usage data to Huami Inc.</string>
   <string name="keep_goal_succ">成功保持体重</string>
-  <string name="label_accepted">Accepted</string>
-  <string name="label_activity">Today Step</string>
-  <string name="label_activity_record">%1$s/%2$s Activity History</string>
+  <string name="label_accepted">Prijaté</string>
+  <string name="label_activity">Dnešné ktorky</string>
+  <string name="label_activity_record">%1$s/%2$s História</string>
   <string name="label_calorie">Calorie (kCal)</string>
   <string name="label_care_time_by_me">Send %s Nudges to him</string>
   <string name="label_care_time_by_other">send %s Nudges to you</string>
-  <string name="label_continue_record">Continue</string>
+  <string name="label_continue_record">Pokračovať</string>
   <string name="label_date_with_week">%1$s/%2$s %3$s</string>
   <string name="label_delete_friend">Remove Contants</string>
   <string name="label_empty_friend">You can share data with each other, when you become friend</string>
@@ -1147,7 +1147,7 @@ Keep at it!"</string>
   <string name="toast_no_more_data">No more data</string>
   <string name="toast_operation_failed">Operation fail!</string>
   <string name="toast_user_info_error">User information is error!</string>
-  <string name="total_distance_format">Total distance: %s</string>
+  <string name="total_distance_format">Celková vzdialenosť: %s</string>
   <string name="ull_to_refresh_pull_label">Pull to refresh</string>
   <string name="upload_log">Upload log</string>
   <string name="upload_log_fail">Upload log failed, please try again.</string>
