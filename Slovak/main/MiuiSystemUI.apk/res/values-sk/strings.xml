@@ -244,4 +244,7 @@
   <string name="status_bar_network_flow_exceed_content">Dnes: %1$s | Prekročené: %3$s</string>
   <string name="status_bar_network_flow_limit">" | Balíček: %1$s"</string>
   <string name="status_bar_network_flow_purchase">" | Zakúpiť &gt;"</string>
+  <string name="media_projection_action_text">Spustiť</string>
+  <string name="media_projection_dialog_text">"%s bude snímať všetko čo sa zobrazí na vašom displeji."</string>
+  <string name="media_projection_remember_text">Viac nezobrazovať</string>
 </resources>

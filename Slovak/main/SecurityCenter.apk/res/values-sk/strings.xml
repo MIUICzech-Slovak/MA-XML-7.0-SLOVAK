@@ -742,4 +742,12 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="summary_default_app">%s nie je nastavené ako predvolená aplikácia</string>
   <string name="title_default_app">MIUI %s nie je nastavené ako predvolené</string>
   <string name="toast_default_app">%1$s nastaviť ako predvolené pre %2$s</string>
+  <string name="title_cmcc_app_check">Overenie nie je dokončené</string>
+  <string name="summary_cmcc_app_check">Niektoré aplikácie sa nepodarilo overiť</string>
+  <string name="notification_title_cmcc_app_check">Od poslednej kontroly: %d dní</string>
+  <string name="notification_summary_cmcc_app_check">Zobraziť podrobnosti</string>
+  <string name="cmcc_app_check_dialog_message">Reštartujte vaše zariadenie pre dokončenie opravy.</string>
+  <string name="cmcc_app_check_dialog_negative">Neskôr</string>
+  <string name="cmcc_app_check_dialog_positive">Reštartovať</string>
+  <string name="cmcc_app_check_dialog_title">Systím je opravený</string>
 </resources>
