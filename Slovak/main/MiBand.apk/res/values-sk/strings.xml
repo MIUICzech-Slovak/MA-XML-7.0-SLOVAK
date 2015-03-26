@@ -1020,7 +1020,7 @@ You reached your goal."</string>
   <string name="join_improvement_plan_detial">Help improve Mi Band by sending usage data to Huami Inc.</string>
   <string name="keep_goal_succ">成功保持体重</string>
   <string name="label_accepted">Prijaté</string>
-  <string name="label_activity">Dnešné ktorky</string>
+  <string name="label_activity">Dnešné kroky</string>
   <string name="label_activity_record">%1$s/%2$s História</string>
   <string name="label_calorie">Calorie (kCal)</string>
   <string name="label_care_time_by_me">Send %s Nudges to him</string>
