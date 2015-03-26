@@ -422,9 +422,9 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="arrearage_exception_summary">"Your carrier's accounting shows you need to top-up now"</string>
   <string name="arrearage_exception_title">Your balance is too low</string>
   <string name="btn_finish_diagnostic">OK</string>
-  <string name="btn_start_diagnostic">Spustiť</string>
+  <string name="btn_start_diagnostic">Kontrola</string>
   <string name="btn_stop_diagnostic">Zastaviť</string>
-  <string name="check_network_state">Skontrolujte stav siete</string>
+  <string name="check_network_state">Kontrola stavu siete</string>
   <string name="choose">Vybrať</string>
   <string name="connect_internet_by_mobiledata">Mobilné pripojenie</string>
   <string name="connect_internet_by_usbshare">Internet cez USB</string>
