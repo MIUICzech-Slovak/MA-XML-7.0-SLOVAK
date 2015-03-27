@@ -390,7 +390,7 @@
   <string name="resolution_normal">SD</string>
   <string name="rightnow_connect">Pripojiť</string>
   <string name="room">Izba</string>
-  <string name="run_score">Body</string>
+  <string name="run_score">Test</string>
   <string name="save">Uložiť</string>
   <string name="scan_the_qr_code">Zamerajte QR kód na zadnej strane kamery</string>
   <string name="sdcard_free_size">Dostupné miesto</string>
@@ -512,7 +512,7 @@ Normálne"</string>
   <string name="tips_add_camera_duplicated">Kamera už existuje, zadajte iné [number].</string>
   <string name="tips_add_camera_ok">Kamera pridaná.</string>
   <string name="tips_camera_name">Názov kamery</string>
-  <string name="tips_dev_location">Poznámka:</string>
+  <string name="tips_dev_location">Umiestnenie</string>
   <string name="tips_dev_security_code">Zadajte heslo</string>
   <string name="tips_dev_uid">Zadajte číslo kamery</string>
   <string name="tips_dev_uid_character">QR kód nie je správny!</string>
@@ -671,9 +671,9 @@ Normálne"</string>
   <string name="winexperience_tfcardstate_info_total_4g">4GB SD karta.</string>
   <string name="winexperience_tfcardstate_info_total_8g">8GB SD karta</string>
   <string name="winexperience_tfcardstate_title">Pamäťová karta</string>
-  <string name="winexperience_waiting_check">Prebieha podrobná kontrola pre čo najpresnejšie výsledky…</string>
+  <string name="winexperience_waiting_check">Prebieha podrobná kontrola...</string>
   <string name="work_day">Pracovný deň</string>
-  <string name="wrong_wifi_ssid_msg">KAmera podporuje len písmena abecedy a čísla v názve Wi-Fi siete!</string>
+  <string name="wrong_wifi_ssid_msg">Kamera podporuje len písmena abecedy a čísla v názve Wi-Fi siete!</string>
   <string name="wrong_wifi_ssid_title">Názov Wi-Fi nie je správny</string>
   <string name="xiaomi_login">Xiaomi účet</string>
   <string name="xlistview_footer_hint_normal">Viac</string>
