@@ -1,8 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Authorization_success">Autorizácia úspešná!</string>
+  <string name="UMAppUpdate">Aktualizácia aplikácie</string>
+  <string name="UMBreak_Network">Aktualizácia zlyhala. Skontrolujte nastavenie siete.</string>
+  <string name="UMDialog_InstallAPK">Stiahnutá aplikácia neobsahuje CZ a SK preklad, aktuaálnu verziu nájdete na miuios.cz/yicamera</string>
+  <string name="UMGprsCondition">(Upozornenie: Nie ste na Wi-Fi sieti)</string>
+  <string name="UMIgnore">OK</string>
+  <string name="UMNewVersion">Posledná verzia:</string>
+  <string name="UMNotNow">Neskôr</string>
+  <string name="UMTargetSize">Veľkosť:</string>
+  <string name="UMToast_IsUpdating">Aktualizácia....</string>
+  <string name="UMUpdateContent">Popis</string>
+  <string name="UMUpdateNow">Aktualizovať</string>
+  <string name="UMUpdateSize">Veľkosť:</string>
+  <string name="UMUpdateTitle">Nová verzia</string>
   <string name="Vertical">Na výšku</string>
-  <string name="about">About Cloud ants</string>
+  <string name="about">O Cloud ants</string>
   <string name="account_format_err">Chyba E-mailovej adresy</string>
   <string name="account_length_err">Meno je príliš dlhé (1-40 znakov)</string>
   <string name="account_must_email">(musí byť emailová adresa .com)</string>
@@ -24,14 +37,21 @@
   <string name="app_recommend_to_user">Odoslať známemu</string>
   <string name="app_slogan">Portable telescope, Trinidad also ease</string>
   <string name="app_upgrade">Nájdená nová verzia</string>
-  <string name="back_start_upload_share">后台启用上传任务</string>
+  <string name="back_start_upload_share">Background enabled upload task</string>
+  <string name="baike">Xiaoyi WiKi</string>
   <string name="barcode_add">Pridať QR kód</string>
   <string name="best_music_software">Najlepší hudobný softvér pre Android</string>
   <string name="best_recommend">Odporúčané</string>
   <string name="bind">Pripojené</string>
   <string name="bind_failed">Prepojenie zlyhalo!</string>
   <string name="bind_success">Pripojené!</string>
+  <string name="blue_1">Ak svieti modrá LED, kamera je úspešne pripojená k Wi-Fi sieti</string>
+  <string name="blue_2">Hlas \"úspešne pripojené\" oznámi úspešné pripojenie kamery na server</string>
+  <string name="blue_shan">Ak bliká modrá LED, kamera sa pripája k Wi-Fi sieti</string>
   <string name="bluetooth_add">Pridať Bluetooth</string>
+  <string name="btnCheckError">Kontrola</string>
+  <string name="btnHearConnectSuccess">Počul som oznámenie</string>
+  <string name="btnHearWifiPasswordError">Hlas oznámil zlé heslo Wi-Fi</string>
   <string name="btn_gotofaq">Pomoc</string>
   <string name="button_back">Naspäť</string>
   <string name="button_camera_upgrade">Inštal.</string>
@@ -40,6 +60,9 @@
   <string name="button_prev">Naspäť</string>
   <string name="button_reconfig">Znova</string>
   <string name="button_start_camera">Skontr.</string>
+  <string name="button_voice_no">Nepočujem hlasové povely</string>
+  <string name="button_voice_no_count_down">Nepočujem hlasové povely (15s)</string>
+  <string name="button_voice_yes">Počujem hlasové povely</string>
   <string name="by_device">Zariadenie</string>
   <string name="by_time">Čas</string>
   <string name="camer_offline">Offline</string>
@@ -69,7 +92,7 @@
   <string name="camera_no">Sériove číslo</string>
   <string name="camera_not_found">Kamera sa nenašla, skúste to znova!</string>
   <string name="camera_not_found_wifi">Nenašla sa Wi-Fi sieť: XXX, odpojte napájanie pre reštart kamery!</string>
-  <string name="camera_other_setting">Čalšie nastavenia</string>
+  <string name="camera_other_setting">Ďalšie nastavenia</string>
   <string name="camera_public">Verejné video</string>
   <string name="camera_reboot">Reštart kamery</string>
   <string name="camera_recording_is_not_open">Intercom nie je povolený!</string>
@@ -86,22 +109,26 @@
   <string name="camera_wifi_config_message_cancel_config">Nastavenie kamery prerušené, skúste to znova</string>
   <string name="camera_wifi_config_message_cant_connect_to_camera">Nastala chyba! Odpojte napájanie a pripojte ho znovu!</string>
   <string name="camera_wifi_config_message_connect_to_wifi">Kamera je pripojená...</string>
-  <string name="camera_wifi_config_message_failed_config">Not to force the network, check the following questions after the power plug to restart the device: 1. whether the route is on the DHCP function; 2. wifi password is correct; 3. If the indicator has now become long bright blue light status, go to \"More - associated cameras (two-dimensional code scanning)\" associated with the device can be carried out; 4. wifi whether encryption method is WEP; (does not support WEP encryption)</string>
+  <string name="camera_wifi_config_message_failed_config">"Ak máte problémy s pripojením kamery k Wi-Fi sieti, skúste nasledujúce kroky: 
+1. Skontrolujte nastavenie DHCP na vašom routri; 
+2. Heslo k Wi-Fi sieti je správne; 
+3. Ak svieti modrá LED, choďte do \"Viac - Pripojené kamery (Skenovať QR kód)\"; 
+4. Šifrovanie vašej Wi-Fi siete nie je nastavené na WEP;</string>
   <string name="camera_wifi_config_message_prompt">Skontrolujte, že svieti oranžová LED</string>
   <string name="camera_wifi_config_message_read_wifi_list">Načítavanie Wi-Fi sieti...</string>
-  <string name="camera_wifi_config_message_read_wifi_list_finished">Data is read successfully, configure the camera WiFi</string>
-  <string name="camera_wifi_config_message_releate_device">Is associated with the camera ...</string>
-  <string name="camera_wifi_config_message_search_wifi">Being rushed to find the camera ...</string>
-  <string name="camera_wifi_config_message_start_confi_camera_wifi">Configuring the camera ...</string>
-  <string name="camera_wifi_config_message_wait_finish_config">Čakanie na kameru pre dokončenie nastavenia...</string>
+  <string name="camera_wifi_config_message_read_wifi_list_finished">Vyhľadávanie dokončené, nastavte Wi-Fi sieť kamery</string>
+  <string name="camera_wifi_config_message_releate_device">Korelácia kamery...</string>
+  <string name="camera_wifi_config_message_search_wifi">Vyhľadávanie kamery...</string>
+  <string name="camera_wifi_config_message_start_confi_camera_wifi">Nastavenie Wi-Fi kamery...</string>
+  <string name="camera_wifi_config_message_wait_finish_config">Dokončenie nastavenia...</string>
   <string name="camera_wifi_next_config">Ďalej</string>
-  <string name="camera_wifi_start_config">Začiatok nastavenia</string>
+  <string name="camera_wifi_start_config">Nastaviť</string>
   <string name="camere_offline_view_history">Zariadenie nie je pripojené. Chcete zobraziť históriu?</string>
   <string name="camere_public">Verejná</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_bind">Odpojiť</string>
   <string name="cancel_public_to_all">Zrušiť zverejnenie kamery</string>
-  <string name="cancel_share_to_friend">Unsharing</string>
+  <string name="cancel_share_to_friend">Nezdieľať</string>
   <string name="cant_set_share_device">Unable to set the camera to share with others!</string>
   <string name="cant_set_shared_device_to_public">Your camera has been shared with a friend, and then set to cancel the public!</string>
   <string name="cant_share_public_device_other">Your camera is set to public, no longer shared with friends!</string>
@@ -109,15 +136,15 @@
   <string name="checking_camera">Vyhľadávanie kamery...</string>
   <string name="checking_camera_zero">Vyhľadávanie kamery... 0%</string>
   <string name="checknet_encryption_type">Šifrovanie:</string>
-  <string name="checknet_error_all_stream_blocking">Play both primary and secondary stream may occur Caton.</string>
+  <string name="checknet_error_all_stream_blocking">Prehrávanie videa nemusí byť plynulé.</string>
   <string name="checknet_error_connect_error">Žiadne pripojenie!</string>
   <string name="checknet_error_connect_type_mobile">Ste pripojený na mobilné dáta. Vyžaduje sa pripojenie k Wi-Fi sieti.</string>
   <string name="checknet_error_connect_type_unknown">Neznáme pripojenie. Vyžaduje sa pripojenie k Wi-Fi sieti.</string>
   <string name="checknet_error_connect_xiaomi_error">Pripojenie na Xiaomi server zlyhalo</string>
-  <string name="checknet_error_deputy_stream_blocking">Play Minor Stream may occur Caton.</string>
-  <string name="checknet_error_get_netconfig_error">Get network configuration information fails, try using other WiFi connection</string>
+  <string name="checknet_error_deputy_stream_blocking">Prehrávanie SD videa nemusí byť plynulé.</string>
+  <string name="checknet_error_get_netconfig_error">Načítavanie nastavenia Wi-Fi siete zlyhalo.</string>
   <string name="checknet_error_go_to_faq">Otvoriť FAQ?</string>
-  <string name="checknet_error_internet_connect_error">Sorry, little ants in the external network connection can not be Oh!</string>
+  <string name="checknet_error_internet_connect_error">Nie je možné sa pripojiť na externú Wi-Fi sieť!</string>
   <string name="checknet_error_internet_response_result_connect_iotc_er_unlicense">Chyba licencie</string>
   <string name="checknet_error_internet_response_result_mode_p2p">Káblové pripojenie</string>
   <string name="checknet_error_internet_response_result_mode_relay">Pomalé pripojenie</string>
@@ -125,25 +152,24 @@
   <string name="checknet_error_internet_response_result_mode_wait">Kontrola...</string>
   <string name="checknet_error_internet_response_result_ok">Hotovo</string>
   <string name="checknet_error_internet_response_result_unknown">Neznáma chyba</string>
-  <string name="checknet_error_main_stream_blocking">Play the main stream may occur Caton.</string>
-  <string name="checknet_error_msg_format" formatted="false">"&lt;Data&gt; \"&lt;font color = '# three hundred seventy-three thousand seven hundred thirty-seven'&gt; %s &lt;/ font&gt; the the &lt;font color = '# two hundred sixty-two thousand six hundred and twenty-six'&gt; %s &lt;/ font&gt; \"&lt;/ Data&gt;"</string>
+  <string name="checknet_error_main_stream_blocking">Prehrávanie HD videa nemusí byť plynulé.</string>
   <string name="checknet_error_unknown_wifi_info">Načítavanie Wi-fi siete zlyhalo.</string>
   <string name="checknet_gateway">Brána:</string>
   <string name="checknet_internet_category">Typ siete:</string>
-  <string name="checknet_internetcheck_packet_loss_rate">丢包率:</string>
-  <string name="checknet_internetcheck_packet_loss_rate1">丢包率1:</string>
-  <string name="checknet_intranetCheck_deputy_stream_loss_rate">标准视频 ——丢包率：</string>
-  <string name="checknet_intranetCheck_main_stream_loss_rate">高清视频 ——丢包率：</string>
-  <string name="checknet_intranetCheck_statistical_internet_info">开始统计网络信息...</string>
-  <string name="checknet_intranetCheck_time_delaied">延迟:</string>
-  <string name="checknet_intranetCheck_time_delay">延时：</string>
-  <string name="checknet_local_internet_info">本机网络信息：</string>
-  <string name="checknet_loss_info_0">恭喜你，网络非常流畅！</string>
+  <string name="checknet_internetcheck_packet_loss_rate">Stratené packety:</string>
+  <string name="checknet_internetcheck_packet_loss_rate1">Stratené packety 1:</string>
+  <string name="checknet_intranetCheck_deputy_stream_loss_rate">SD video —— Stratené packety:</string>
+  <string name="checknet_intranetCheck_main_stream_loss_rate">HD video —— Stratené packety:</string>
+  <string name="checknet_intranetCheck_statistical_internet_info">Start to count network information...</string>
+  <string name="checknet_intranetCheck_time_delaied">Oneskorenie:</string>
+  <string name="checknet_intranetCheck_time_delay">Oneskorenie:</string>
+  <string name="checknet_local_internet_info">Informácie o sieti:</string>
+  <string name="checknet_loss_info_0">Gratulujeme, pripojenie je stabilné.</string>
   <string name="checknet_ok">Sieťové pripojenie je v poriadku!</string>
   <string name="checknet_progress_prompt">Prebieha kontrola, čakajte prosím...</string>
   <string name="choose">Vybrať</string>
   <string name="choose_language">Zvoliť jazyk:</string>
-  <string name="clip">剪辑</string>
+  <string name="clip">Upraviť</string>
   <string name="close">Vypnúť</string>
   <string name="company_copyright">Copyright cloud ant Technology</string>
   <string name="company_copyright_english">Copyright 2014, ants Technology Co., LTD All Rights Reserved.</string>
@@ -151,23 +177,24 @@
   <string name="company_telephone">Phone: 400-920-6788</string>
   <string name="company_website">Official website: http: //www.360ants.com</string>
   <string name="configing_camera">Konfigurácia kamery...</string>
+  <string name="confirm_exit_camera_config">Ukončiť nastavenie kamery</string>
   <string name="connect_to_wifi_msg">Pripojte telefón k Wi-Fi sieti!</string>
   <string name="connect_to_wifi_title">Wi-Fi pripojenie</string>
   <string name="connecting">Pripájanie</string>
   <string name="content_description">Poznámka</string>
   <string name="continue_search">Pokračovať?</string>
-  <string name="create_upload_success">创建上传信息成功!</string>
+  <string name="create_upload_success">Informácie odoslané!</string>
   <string name="current_is_the_newest_version">Už máte najnovšiu verziu!</string>
   <string name="current_version_no">Súčasná verzia</string>
   <string name="data_load_failed">Chyba</string>
   <string name="data_loading">Načítavanie...</string>
-  <string name="data_not_receiver">数据无法接收</string>
-  <string name="db_databasecontext_sd_card_manager">SD卡管理：</string>
-  <string name="db_databasecontext_sd_card_not_exists">SD卡不存在，请加载SD卡</string>
-  <string name="db_sdcarddbhelper_out_line_faild">创建离线所需数据库表失败</string>
-  <string name="db_sdcarddbhelper_out_line_success">创建离线所需数据库表成功</string>
-  <string name="db_sdcarddbhelper_start_create_dbtable">开始创建数据库表</string>
-  <string name="develop_open">开发：开卷有益</string>
+  <string name="data_not_receiver">Nie je možné prijať dáta</string>
+  <string name="db_databasecontext_sd_card_manager">SD karta: </string>
+  <string name="db_databasecontext_sd_card_not_exists">Vložte SD kartu</string>
+  <string name="db_sdcarddbhelper_out_line_faild">Failed to establish offline database</string>
+  <string name="db_sdcarddbhelper_out_line_success">Succeed to establish offline database</string>
+  <string name="db_sdcarddbhelper_start_create_dbtable">Begin establishing database</string>
+  <string name="develop_open">Preklad: ingbrzy (miuios.cz)</string>
   <string name="device">Zariadenie:</string>
   <string name="device_added_by_other">Kamera je prepojená s užívateľom \"XXX\"</string>
   <string name="device_added_by_other2">Kamera je prepojená s iným užívateľom</string>
@@ -187,7 +214,7 @@
   <string name="email_cant_have_dont">Emailová adresa nesmie obsahovať čiarku!</string>
   <string name="empty">Žiadne videá alebo fotografie!</string>
   <string name="endtime_cant_less_than_starttime">Konečný čas nemôže byť pred začiatkom!</string>
-  <string name="endtime_must_less_than_current_time">Končný čas nesmie prekročiť súčasný čas!</string>
+  <string name="endtime_must_less_than_current_time">Konečný čas nesmie prekročiť súčasný čas!</string>
   <string name="endtime_must_less_than_starttime">Konečný čas nesmie byť skôr ako čas začiatku!</string>
   <string name="event_list">Zoznam histórie videa</string>
   <string name="event_search">Vyhľadávanie v histórií</string>
@@ -210,10 +237,12 @@
   <string name="failed_to_remove_share_device">Unsharing camera failed!</string>
   <string name="failed_to_share_device">Zdieľanie kamery zlyhalo!</string>
   <string name="failed_to_update_device">Aktualizácia kamery zlyhala!</string>
-  <string name="failed_to_upload">Sorry, upload failed due to network reasons, please &lt;u&gt; re-upload &lt;/ u&gt;</string>
+  <string name="failed_to_upload">Odosielanie zlyhalo kvôli problémom so sieťou. Skúste odoslať znova.</string>
   <string name="failed_to_view_image">Nie je možné zobraziť fotografie!</string>
-  <string name="file_uploading">文件上传中，还有分片上传任务未分配</string>
+  <string name="file_uploading">File uploading, still some upload tasks not allocated</string>
+  <string name="finish">Dokončiť</string>
   <string name="firmware_upgrade">Aktualizácia kamery</string>
+  <string name="firmware_version">Verzia Firmware</string>
   <string name="first_config_message">Skontrolujte, že na kamere svieti oranžová LED!</string>
   <string name="first_config_title">Prvé nastavenie</string>
   <string name="first_config_title2">Nastavenie Wi-Fi kamery</string>
@@ -224,15 +253,15 @@
   <string name="found_a_camera">Nájdená kamera</string>
   <string name="from">Od</string>
   <string name="goon_check">Skontrolujte</string>
-  <string name="happy_listen">开心听</string>
+  <string name="happy_listen">Listen happily</string>
   <string name="highquality">HD</string>
   <string name="hint_share_friend_account">Zadajte účet vášho priateľa</string>
   <string name="hint_share_message">Zadajte obsah správy</string>
-  <string name="hint_upload_to_youku_description">Video description (optional)</string>
-  <string name="hint_upload_to_youku_title">Video title</string>
-  <string name="hint_video_unpublish">This video is not published, can not share!</string>
+  <string name="hint_upload_to_youku_description">Popis videa (nepovinné)</string>
+  <string name="hint_upload_to_youku_title">Názov videa</string>
+  <string name="hint_video_unpublish">Toto video nie je verejné!</string>
   <string name="history_video">História</string>
-  <string name="hk_language">香港繁体</string>
+  <string name="hk_language">Traditional Chinese(HK)</string>
   <string name="hour">Hodina</string>
   <string name="ignore">Ignorovať</string>
   <string name="in_back_recording">Prebieha nahrávanie, počkajte kým sa nahrávanie dokončí!</string>
@@ -243,17 +272,19 @@
   <string name="item_winexperience_ignore_btntxt">Ignorovať</string>
   <string name="landscape">Na šírku</string>
   <string name="link_test_intranet">Detekcia siete</string>
+  <string name="list_friends">Friends on %s</string>
   <string name="live">Naživo</string>
   <string name="live_video">Naživo</string>
   <string name="live_video_off">Kamera je vypnutá</string>
   <string name="loading">Načítavanie...</string>
+  <string name="login_camera">Enjoy your wisdom journey!&gt;&gt;</string>
   <string name="login_user_account">Môžete použiť nasledujúce prihlasovacie konto</string>
-  <string name="logoin_km_eye">登陆千里眼</string>
+  <string name="logoin_km_eye">Login Clairvoyant</string>
   <string name="logout">Odhlásiť sa</string>
   <string name="lowquality">Jemná</string>
   <string name="manual_add">Pridať ručne</string>
   <string name="manual_input_camera_id">Ručne zadajte číslo kamery</string>
-  <string name="meida_manager_center">富媒体管理中心</string>
+  <string name="meida_manager_center">Richmedia management center</string>
   <string name="menu_buy">Zakúpiť</string>
   <string name="menu_camera_manage">Správa kamery</string>
   <string name="menu_cloud_video">Cloud Video</string>
@@ -269,17 +300,21 @@
   <string name="menu_title">Ponuka</string>
   <string name="menu_video">Moje videá</string>
   <string name="minuter">minúta</string>
-  <string name="modify_alarm_setting">Modify the alarm time</string>
-  <string name="more_recommend">更多精彩推荐</string>
-  <string name="more_try_failed">多次尝试失败怎么办?</string>
-  <string name="msg_bulk_mode_scanned">Batch scanning: find the barcode has been saved</string>
-  <string name="msg_camera_framework_bug">Sorry, the Android camera problems. You may need to restart the device.</string>
-  <string name="msg_default_status">Keep the camera back into the two-dimensional code scanning finder</string>
-  <string name="my_ap_not_found">Pro, wood has to find the camera, check to see if the camera is in a long bright orange status lights: 1. If yes, please add the camera interface, click OK again; 2. If not, plug the power supply device starts to wait long bright orange lights state;</string>
+  <string name="modify_alarm_setting">Upraviť čas upozornenia</string>
+  <string name="more_recommend">Viac možností</string>
+  <string name="more_try_failed">Čo môžem urobiť ak zlyhali všetky pokusy?</string>
+  <string name="msg_bulk_mode_scanned">Batch scanning: find the barcode, saved</string>
+  <string name="msg_camera_framework_bug">Nie je možné spustiť fotoaparát</string>
+  <string name="msg_default_status">Zamerajte QR kód na zadnej strane kamery</string>
+  <string name="my_ap_not_found">"Kamera sa nenašla. Skontrolujte:
+1.Ak stále svieti oranžová LED, vyhľadajte kameru znova;
+2.Ak nesvieti otranžová LED, reštartujte kameru a skúste to znova"</string>
   <string name="my_camera">Moja kamera</string>
   <string name="my_camera_description">Moja kamera</string>
   <string name="name_drift_bottle">Názov: drift bottle</string>
   <string name="network_error">Chyba siete, skúste to znova!</string>
+  <string name="network_invaid_msg">Pripojenie na server zlyhalo, skúste to znova.</string>
+  <string name="network_invaid_title">Sieť nie je použiteľná</string>
   <string name="new_alarm_setting">Nový čas alarmu</string>
   <string name="new_version_no">Posledná verzia</string>
   <string name="nickname">Meno</string>
@@ -288,12 +323,13 @@
   <string name="no_camera_found">Nemáte kameru!</string>
   <string name="no_device_found">Kamera sa nenašla!</string>
   <string name="no_event_found">V tomto čase nie je záznam v histórií!</string>
+  <string name="no_network">Žiadna sieť</string>
   <string name="no_photo">Žiadne snímky</string>
-  <string name="no_share_user">This device is not shared with other users</string>
+  <string name="no_share_user">Toto zariadenie nie je zdieľané s ostatnými užívateľmi</string>
   <string name="no_video">Žiadne video...</string>
   <string name="no_wifi_onlywifi_update">Žiadne Wi-Fi pripojenie.</string>
   <string name="none">Nie</string>
-  <string name="none_meida_info">对不起，您暂时没有富媒体消息</string>
+  <string name="none_meida_info">Sorry, there is no rihcmedia message for now</string>
   <string name="none_update">Žiadne aktualizácie</string>
   <string name="none_video">Žiadne video!</string>
   <string name="not_found_device">Neboli nájdené žiadne zariadenia</string>
@@ -309,12 +345,12 @@
   <string name="open_guide_light">Povoliť LED</string>
   <string name="operation_timeout">Operácia zlyhala</string>
   <string name="pass_null">Zadajte heslo</string>
-  <string name="passthrough_message">透传消息</string>
+  <string name="passthrough_message">Message passthrough</string>
   <string name="password">Heslo</string>
   <string name="password_format_err">Heslo musí byť 6-24 znakov</string>
   <string name="password_is_invaild">Nesprávne heslo, skúste to znova!</string>
   <string name="password_must_true">(počet znakov 6-24)</string>
-  <string name="pick_up">收起</string>
+  <string name="pick_up">Položiť</string>
   <string name="please_choose">Prosím, vyberte</string>
   <string name="please_confirm_password_is_right">Skontrolujte či je heslo správne</string>
   <string name="please_input_location">Zadajte poznámku!</string>
@@ -329,20 +365,24 @@
   <string name="privacy_config">Nastavenie súkromia</string>
   <string name="prompt">Upozorenie</string>
   <string name="public_to_all">Kamera je nastavená pre verejnosť</string>
+  <string name="pull_to_refresh">Potiahnite nadol pre obnovenie</string>
   <string name="qq_login">QQ</string>
   <string name="ready_receiver">Pripravené</string>
-  <string name="reboot_message_send_fail">Failed to send commands to restart the camera!</string>
-  <string name="reboot_message_send_success">Restarting the camera upgrade, please switch to the player interface to wait to reconnect!</string>
+  <string name="reboot_message_send_fail">Odosielanie príkazu zlyhalo!</string>
+  <string name="reboot_message_send_success">Reštartovanie kamery, prepnite sa na prehrávač a počkajte na pripojenie kamery!</string>
   <string name="rec">REC</string>
-  <string name="recommend_to_user_message">Cloud cloud ant ants clairvoyance is Shanghai Science and Technology Co., Ltd. launched a tool for home care, high-definition network camera business management.</string>
+  <string name="recommend_to_user_message">XiaoYi clairvoyance,a HD camera of Xiaoyi science and technology Ltd.,ShangHai,focusing on family and enterprise monitoring</string>
   <string name="recommend_to_user_title">Cloud ants clairvoyance</string>
   <string name="record_time_too_short">Čas nahrávania je príliš krátky!</string>
   <string name="record_video">Nahrávanie</string>
+  <string name="refreshing">Obnovenie...</string>
+  <string name="release_to_refresh">Pustite pre obnovenie</string>
   <string name="repass_null">Zadajte heslo znova</string>
   <string name="repasserr">Heslá sa nezhodujú</string>
   <string name="repassword">Znova zadajte heslo</string>
   <string name="replay_failed">Prehrávanie zlyhalo</string>
   <string name="research">Vyžaduje sa</string>
+  <string name="reset_camera">"Zasuňte spinku do dierky na zadnej strane kamery až kým sa nerozsvieti oranžová LED."</string>
   <string name="reset_wait_relax">Reštartujte kameru stlačením tlačidla RESET vzadu na kamere kým sa nerozbliká oranžová LED</string>
   <string name="resolution_auto">Auto</string>
   <string name="resolution_high">HD</string>
@@ -350,6 +390,7 @@
   <string name="resolution_normal">SD</string>
   <string name="rightnow_connect">Pripojiť</string>
   <string name="room">Izba</string>
+  <string name="run_score">Body</string>
   <string name="save">Uložiť</string>
   <string name="scan_the_qr_code">Zamerajte QR kód na zadnej strane kamery</string>
   <string name="sdcard_free_size">Dostupné miesto</string>
@@ -361,6 +402,8 @@
 Normálne"</string>
   <string name="sdcard_total_size">Kapacita</string>
   <string name="security_options">Bezpečnostné nastavenia:</string>
+  <string name="select_a_friend">Please select a friend</string>
+  <string name="select_one_plat_at_least">Please select a target platform</string>
   <string name="session_failed">Prerušené</string>
   <string name="set_wifi_fail">Pripojenie kamery zlyhalo, reštartujte kameru!</string>
   <string name="set_wifi_success">Kamera je pripojená k Wi-Fi sieti</string>
@@ -368,7 +411,7 @@ Normálne"</string>
   <string name="setting_ants_introduce">What is clairvoyance</string>
   <string name="setting_app_suggest">Feedback</string>
   <string name="setting_app_upgrade">Verzia apl.</string>
-  <string name="setting_buy">Purchase</string>
+  <string name="setting_buy">Kúpiť</string>
   <string name="setting_camera_manage">Správa kamery</string>
   <string name="setting_camera_upgrad">Aktualizovaná verzia</string>
   <string name="setting_camera_upgrade">Aktualizácia kamery</string>
@@ -376,10 +419,14 @@ Normálne"</string>
   <string name="setting_star_app">Hodnotenie</string>
   <string name="setting_view_only_in_wifi">WiFi only under watch</string>
   <string name="settings">Nastavenia</string>
+  <string name="shake2share">Zatraste telefónom!</string>
   <string name="share">Zdieľať</string>
+  <string name="share_canceled">Operation canceled</string>
+  <string name="share_completed">Operation succeeded</string>
   <string name="share_description">Popis</string>
   <string name="share_description_cant_be_empty">Zadajte popis videa!</string>
   <string name="share_faild">Zdieľanie zlyhalo!</string>
+  <string name="share_failed">Operation failed</string>
   <string name="share_file_cant_be_empty">Vyberte video!</string>
   <string name="share_image_one_key_text">Používam Xiaomi IP kameru, snímka z nej:</string>
   <string name="share_image_one_key_title">Zdieľanie snímku</string>
@@ -391,14 +438,15 @@ Normálne"</string>
   <string name="share_user_manage">Shared user management</string>
   <string name="share_video_one_key_text">Používam Xiaomi IP kameru, video z nej:</string>
   <string name="share_video_one_key_title">Zdieľanie videa</string>
+  <string name="sharing">Sharing operation is working in the background…</string>
   <string name="show_password">Zobraziť heslo</string>
   <string name="signal_strength">Sila signálu:</string>
-  <string name="size">Veľkosť：125KB</string>
+  <string name="size">Veľkosť: 125KB</string>
   <string name="sns_bind">Community bind</string>
-  <string name="software_describe">安卓优化大师是一款功能强大的手机系统优化软件，它提供了全面有效且简便安全的手机体检、开机加速、批量卸载、文件管理四大功能模块及数个附加的工具软件。使用安卓优化大师，能够有效地帮助用户了解自己的手机软硬件信息。件。使用安卓优化大师，能够有效地帮助用户了解自己的手机软硬件信息。件。使用安卓优化大师，能够有效地帮助用户了解自己的手机软硬件信息。</string>
+  <string name="software_describe">Android Optimizer is a powerful mobile phone system optimization software. It provides 4 comprehensive , effective ,simple and safe major function modules and a number of additional tools on mobile medical, starting acceleration, batch unloading and file management. Android Optimizer can effectively help users understand their mobile phone’s hardware and software information.</string>
   <string name="start_speaking_too_frequently">Recording is not closed, do not operate too often!</string>
-  <string name="start_upload">开始上传</string>
-  <string name="start_upload_share">开始建立上传服务</string>
+  <string name="start_upload">Start to upload</string>
+  <string name="start_upload_share">Start upload service</string>
   <string name="starttime_cant_equals_endtime">Začiatok a koniec nesmú byť rovnaké!</string>
   <string name="state_connected">Online</string>
   <string name="state_connecting">Pripojené</string>
@@ -421,12 +469,24 @@ Normálne"</string>
   <string name="sure_to_format_sdcard">Formátovanie SD karty vymaže všetok obsah z SD karty. Pokračovať?</string>
   <string name="sure_to_logout">Prihlásiť sa?</string>
   <string name="sure_to_reboot">Reštartovať kameru?</string>
-  <string name="sure_to_reboot_upgrade">Download success, determined to restart the upgrade?</string>
-  <string name="sure_to_share_to_all">"After the camera is set to public, everyone will be able to view the contents of your camera! Prohibiting dissemination of the following programs through the small ants camera: (a) harm national unity, sovereignty and territorial integrity; (b) endanger the security, honor and interests of the country; and (iii) to incite ethnic separatism and undermining national unity ; (iv) leaking state secrets; (e) slander, insult others; (vi) to promote pornography, superstition or violence; and (vii) false information; (viii) not included in the broadcast, film and television class program dedicated directory TV drama class program; (ix) collection down from the network or outside the media outside the program; (j) Other laws and regulations prohibited. Make sure you share video content without privacy leaks, and be sure to share the contents do not violate relevant laws and regulations, or else all the responsibilities borne by the user's personal!"</string>
+  <string name="sure_to_reboot_upgrade">Sťahovanie dokončené, reštartovať kameru?</string>
+  <string name="sure_to_share_to_all">"After setting to the public, everyone would be enabled to watch the contents of your camera.
+ Prohibiting dissemination of the following through the small ants camera:
+(first) Endanger national unity, sovereignty and territorial integrity;
+(second) Endanger the security, the honor and the interests of the State; 
+(third)Inciting ethnic separatism and undermining national unity;
+(fourth)Leaking state secrets;
+(fifth) Slander and insult the others;
+(sixth) Propagate obscenity, superstition or violence;
+(seventh) Spreading false information;
+(eighth) Not included in the broadcast, film and television programs dedicated directory class TV drama type of program; 
+ (nineth) download indexed from the network or outside the media outside the program 
+(tenth) Laws, regulations prohibited;
+ Make sure video you shared without privacy leaks and be sure to not to violate the relevant laws and regulations, otherwise, all the responsibilities will be borne by the user's theirselves"</string>
   <string name="sure_to_unbind">Odpojiť?</string>
   <string name="switch_text_off">Vypnúť</string>
   <string name="switch_text_on">Zapnúť</string>
-  <string name="system_sever_error">Network not to force, please try again</string>
+  <string name="system_sever_error">Chyba siete, skúste to znova.</string>
   <string name="text_alarm">Upozornenie</string>
   <string name="text_binded">Pripojené</string>
   <string name="text_cancel">Zrušiť</string>
@@ -441,7 +501,7 @@ Normálne"</string>
   <string name="text_photo_view">Zobrazenie snímkov</string>
   <string name="text_register">Registrácia</string>
   <string name="text_share">Zdieľať</string>
-  <string name="text_try">First stroll</string>
+  <string name="text_try">Prehliadať</string>
   <string name="text_unbinding">Odpojené</string>
   <string name="text_unlogin">Prihlásený</string>
   <string name="text_upload_finished">Nahrané</string>
@@ -472,6 +532,7 @@ Normálne"</string>
   <string name="tips_wifi_disconnect">Nepripojené</string>
   <string name="tips_wifi_name">Zadajte názov Wi-Fi siete</string>
   <string name="tips_wifi_password">Zadajte heslo</string>
+  <string name="tips_wifi_password_incorrect">Kamera sa nemôže pripojiť k Wi-Fi sieti. Skontrolujte zadané heslo Wi-Fi.</string>
   <string name="title">Názov</string>
   <string name="title_add_device">Pridať kameru</string>
   <string name="title_camera_config">Nastavenie kamery</string>
@@ -489,8 +550,9 @@ Normálne"</string>
   <string name="title_wifi_available">Dostupné siete</string>
   <string name="to">Pre</string>
   <string name="toast_cannot_use_hight_quilty_cause_mode_error">Dostupné len v HD režime</string>
+  <string name="toast_do_not_support_sdk">Nie je podporované v tejto verzii zariadenia</string>
   <string name="toast_out_of_memory">Nie je dostatok miesta na úložisku</string>
-  <string name="tw_language">台湾繁体</string>
+  <string name="tw_language">Traditional Chinese(Taiwan)</string>
   <string name="twenty_second">20 sekúnd</string>
   <string name="txtFrameRatio">FPS:</string>
   <string name="txtLocation">Poznámka</string>
@@ -503,24 +565,40 @@ Normálne"</string>
   <string name="type_weekends">Víkend</string>
   <string name="type_workday">Dni</string>
   <string name="uid_length_too_short">Číslo kamery nesmie mať menej ako 5 znakov!</string>
+  <string name="umeng_common_action_cancel">Zrušiť</string>
+  <string name="umeng_common_action_continue">Pokračovať</string>
+  <string name="umeng_common_action_info_exist">The app is already in downloading list.</string>
+  <string name="umeng_common_action_pause">Zastaviť</string>
+  <string name="umeng_common_download_failed">Sťahovanie zlyhalo!</string>
+  <string name="umeng_common_download_finish">Sťahovanie dokončené.</string>
+  <string name="umeng_common_download_notification_prefix">Sťahovanie:</string>
+  <string name="umeng_common_icon">icon</string>
+  <string name="umeng_common_info_interrupt">Sťahovanie prerušené.</string>
+  <string name="umeng_common_network_break_alert">Skontrolujte nastavenie siete, sťahovanie zlyhalo.</string>
+  <string name="umeng_common_patch_finish">Dokončené, kliknite pre inštaláciu.</string>
+  <string name="umeng_common_pause_notification_prefix">Pauza:</string>
+  <string name="umeng_common_silent_download_finish">Nová verzia je pripravená na inštaláciu.</string>
+  <string name="umeng_common_start_download_notification">Stiahnuť.</string>
+  <string name="umeng_common_start_patch_notification">Patch start.</string>
   <string name="unbind_success">Odpojené!</string>
   <string name="unlogin">Odhlásiť</string>
   <string name="unsupport_phone">Nepodporuje telefón</string>
-  <string name="update_token">更新Token</string>
+  <string name="update_token">Update Token</string>
   <string name="upload">Odoslať</string>
   <string name="upload_failed">Odosielanie zlyhalo!</string>
   <string name="upload_not_in_wifi_env">Nie ste pripojený na Wi-Fi sieť. Aj napriek tomu odoslať?</string>
   <string name="upload_title_cant_be_empty">Zadajte názov videa!</string>
   <string name="upload_to_youku">Video uploads</string>
-  <string name="upload_video_youku">上传视频到优酷</string>
+  <string name="upload_video_youku">Upload the video to Youku</string>
   <string name="use_under_account_login">Vyberte účet ktorým sa chcete prihlásiť</string>
   <string name="user_feedback">Feedback</string>
   <string name="user_input_uid">&lt;a href=\"#\"&gt; scan fails how to do? &lt;/a&gt;</string>
   <string name="user_login_in_other_device">The current account has landed elsewhere</string>
+  <string name="user_login_in_session_time">Current account has expired, please login again!</string>
   <string name="user_tips">Pridať kameru</string>
   <string name="user_tips2"/>
   <string name="userinfo_account_qq">Q-Zone</string>
-  <string name="userinfo_account_tencent_weibo">腾讯微博</string>
+  <string name="userinfo_account_tencent_weibo">Tencent Weibo</string>
   <string name="userinfo_account_weibo">Sina Weibo</string>
   <string name="userinfo_account_xiaomi">Xiaomi účet</string>
   <string name="userinfo_icon">Profilová fotka</string>
@@ -547,6 +625,7 @@ Normálne"</string>
   <string name="wifi_name">Názov Wi-Fi</string>
   <string name="wifi_password">Heslo Wi-Fi</string>
   <string name="wifi_reconfig">Znovu nastaviť kameru</string>
+  <string name="wifi_wrong">Hear Wi-Fi password wrong?</string>
   <string name="winexperience_activity_title">Kontrola</string>
   <string name="winexperience_cannot_check_in_connecting">Pokúša sa o pripojenie ku kamere</string>
   <string name="winexperience_connecting_btntxt">Pripájanie...</string>
@@ -592,8 +671,10 @@ Normálne"</string>
   <string name="winexperience_tfcardstate_info_total_4g">4GB SD karta.</string>
   <string name="winexperience_tfcardstate_info_total_8g">8GB SD karta</string>
   <string name="winexperience_tfcardstate_title">Pamäťová karta</string>
-  <string name="winexperience_waiting_check">In order to run sub-Jun more accurate results, still trying to detect oh ...</string>
+  <string name="winexperience_waiting_check">Prebieha podrobná kontrola pre čo najpresnejšie výsledky…</string>
   <string name="work_day">Pracovný deň</string>
+  <string name="wrong_wifi_ssid_msg">KAmera podporuje len písmena abecedy a čísla v názve Wi-Fi siete!</string>
+  <string name="wrong_wifi_ssid_title">Názov Wi-Fi nie je správny</string>
   <string name="xiaomi_login">Xiaomi účet</string>
   <string name="xlistview_footer_hint_normal">Viac</string>
   <string name="xlistview_footer_hint_ready">Načítať viac</string>
@@ -603,7 +684,7 @@ Normálne"</string>
   <string name="xlistview_header_last_time">"Aktualizované: "</string>
   <string name="you_dont_have_camera">Nemáte kameru!</string>
   <string name="you_dont_have_right_to_add_camera">Bežný účet bez oprávnenia pridať kamery!</string>
-  <string name="youku_oauth">优酷授权</string>
-  <string name="yunyi_km_eye">云蚁千里眼</string>
-  <string name="yunyi_time_photo">云蚁时拍</string>
+  <string name="youku_oauth">Authorized by Youku</string>
+  <string name="yunyi_km_eye">XiaoYi clairvoyant</string>
+  <string name="yunyi_time_photo">XiaoYi TimePhoto</string>
 </resources>

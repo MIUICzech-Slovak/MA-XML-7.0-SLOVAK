@@ -204,7 +204,7 @@
   <string name="respond">Odpovedá</string>
   <string name="retry_for_more">Viac</string>
   <string name="scaning">Vyhľadávanie</string>
-  <string name="scanning_milink">Vyhľadávanie zariadní</string>
+  <string name="scanning_milink">Vyhľadávanie zariadení</string>
   <string name="scene_default">Predvolené</string>
   <string name="scene_name_frame">%1$s - %2$s%3$s</string>
   <string name="scene_name_frame_short">%1$s%2$s</string>
