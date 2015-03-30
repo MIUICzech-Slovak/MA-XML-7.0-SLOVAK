@@ -14,7 +14,7 @@
   <string name="bluetooth_problem4">Nie je možné prijať súbory</string>
   <string name="btn_send">Odoslať</string>
   <string name="bugreport_dump_complete_notification_summary">Zobraziť</string>
-  <string name="bugreport_dump_complete_notification_title">Vytvoriť hlásenie o chybe</string>
+  <string name="bugreport_dump_complete_notification_title">Vytvorené hlásenie o chybe</string>
   <string name="bugreport_dump_start_notification_summary">Trvá približne 1 minútu.</string>
   <string name="bugreport_dump_start_notification_title">Vytváranie hlásenia o chybe</string>
   <string name="bugreport_feedback_from">Od: %s</string>
