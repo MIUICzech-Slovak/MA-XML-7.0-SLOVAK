@@ -6,6 +6,7 @@
         "loadEnable" : false,
         "healthLinkEnable" : false,
         "QQHealthEnable":false
+	"WeiboHealthEnable" : false
     },
 
     "runner" : {

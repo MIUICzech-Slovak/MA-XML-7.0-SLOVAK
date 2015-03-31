@@ -149,7 +149,7 @@
   <string name="select_all">Vybrať všetko</string>
   <string name="select_backup_item">Zvoľte zálohu</string>
   <string name="service_stoped">Služba sa zastavila</string>
-  <string name="settings_summary">Zálohovať telefón, správy a nastavenia</string>
+  <string name="settings_summary">" telefónu, správy a nastavenia"</string>
   <string name="sms_title">SMS</string>
   <string name="software_backup_info">Zálohovať aplikácie a ich dáta</string>
   <string name="start_backup">Spustiť zálohu</string>

@@ -1,9 +1,9 @@
 -------------------------
 -- Slovak Localization String resources
--- miuios.cz (2014)
+-- miuios.cz (2015)
 -- ingbzry
 -------------------------
- localization_Slovak_table = {
+ localization_sk_rSK_table = {
     calories_table={
 	{str="≈ Uhorka (100g)", calories=14}, 
 	{str="≈ Kurací vývar (100g)", calories=15}, 
@@ -115,7 +115,7 @@
 	{str="≈ Hrozienka (100g)", calories=262}, 
 	{str="≈ McD Cheeseburger", calories=264}, 
 	{str="≈ Klobása (100g)", calories=270}, 
-	{str="≈ Ham (100g)", calories=270}, 
+	{str="≈ Šunka (100g)", calories=270}, 
 	{str="≈ Huňáčik údené (100g)", calories=270}, 
 	{str="≈ McD McNuggets (100g)", calories=272}, 
 	{str="≈ Knedľa (100g)", calories=275}, 
@@ -221,7 +221,7 @@
     manual_fail_ytd_title = "Sorry, the streak broken yesterday.",
     manual_fail_ytd_subtitle = "Your streak until day before yesterday is %d.",
     unlock_password_hint="Nastavte zámok telefónu pre vašu bezpečnosť.",
-    unlock_password_hint_info="MiBand je najlepší pre odomyknutie.",
+    unlock_password_hint_info="MiBand je najlepší pre odomknutie.",
 
     get_distance_format=", celkovo %dm",
     activity_walk_format="%s Chôdza %d krokov %s",
