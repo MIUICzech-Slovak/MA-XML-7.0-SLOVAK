@@ -289,7 +289,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="st_title_open_antispam">AntiSpam</string>
   <string name="st_title_other_group">Ostatné</string>
   <string name="st_title_settings_other_group">Ostatné nastavenia</string>
-  <string name="st_title_show_antispamnotification">Zobraziť upozornenie</string>
+  <string name="st_title_show_antispamnotification">Upozorniť</string>
   <string name="st_title_sim_card">%1$sSIM %2$s</string>
   <string name="st_title_sim_unknown">Neznáme</string>
   <string name="st_title_whitelist_numbers">Povolené čísla</string>
@@ -316,4 +316,8 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="mark_number_setting_guide_content3">Nahlásili ste číslo ako %1$s. Chcete blokovať hovory z čísel nahlásených ako %2$s?</string>
   <string name="mark_number_setting_guide_forward">Nastavenie AntiSpam</string>
   <string name="mark_number_setting_guide_title">Blokovať nahlásené čísla</string>
+  <string name="antispam_notificaiton_type_show_all">Zobraziť blokovanie hovoru</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Ak nie je v čiernej listine</string>
+  <string name="antispam_notificaiton_type_show_none">Nezobrazovať upozornenie</string>
+  <string name="antispam_notification_setting_title">Upozorniť na blokovanie</string>
 </resources>
