@@ -28,8 +28,8 @@
   <string name="antispam_marked_title">%1$s</string>
   <string name="antispam_provider">Označené %s</string>
   <string name="apn_settings">Prístupové body (APN)</string>
-  <string name="atr_disable">Oblastné Nahlásiťy dopravy zakázané</string>
-  <string name="atr_enable">Oblastné Nahlásiťy dopravy povolené</string>
+  <string name="atr_disable">Oblastné prehľady dopravy zakázané</string>
+  <string name="atr_enable">Oblastné prehľady dopravy povolené</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
   <string name="audio_mode_earpiece">Náhlavná súprava</string>
   <string name="audio_mode_speaker">Reproduktor</string>

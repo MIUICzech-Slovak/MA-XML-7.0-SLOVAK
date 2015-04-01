@@ -137,7 +137,7 @@
   <string name="filter_by_size_min">0KB</string>
   <string name="filter_by_size_prefix">"Minimálna veľkosť: "</string>
   <string name="filter_by_size_summary">Nezobrazovať malé audio súbory</string>
-  <string name="find_ktv">Nahlásiťávať KTV</string>
+  <string name="find_ktv">Prehľadávať KTV</string>
   <string name="find_music">Prehliadať skladby</string>
   <string name="format_not_support">Formát nie je podporovaný</string>
   <string name="format_unsupported">Nepodporovaný formát.</string>
