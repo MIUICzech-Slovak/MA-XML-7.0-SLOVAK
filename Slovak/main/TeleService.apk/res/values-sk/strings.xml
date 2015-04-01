@@ -32,8 +32,8 @@
   <string name="answer_state_setting_title">Prichádzajúci hovor</string>
   <string name="antispam_notification_title">Neznáme číslo</string>
   <string name="apn_settings">Prístupové body (APN)</string>
-  <string name="atr_disable">Oblastné prehľady dopravy zakázané</string>
-  <string name="atr_enable">Oblastné prehľady dopravy povolené</string>
+  <string name="atr_disable">Oblastné Nahlásiťy dopravy zakázané</string>
+  <string name="atr_enable">Oblastné Nahlásiťy dopravy povolené</string>
   <string name="auth_username_summary">Užívateľské meno pre overenie</string>
   <string name="auth_username_title">Užívateľské meno</string>
   <string name="auto_answer_delay_entries_delay_10s">10s</string>

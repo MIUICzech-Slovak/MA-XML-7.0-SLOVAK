@@ -69,7 +69,7 @@
   <string name="pref_title_note_style">Typ poznámky</string>
   <string name="redo">Znovu</string>
   <string name="search">Poznámky</string>
-  <string name="search_hint">Prehľadávanie poznámok</string>
+  <string name="search_hint">Nahlásiťávanie poznámok</string>
   <string name="search_label">Hľadať</string>
   <string name="search_setting_description">Vyhľadá text v poznámkach</string>
   <string name="select_account_prompt">Povoliť synchronizáciu poznámok</string>

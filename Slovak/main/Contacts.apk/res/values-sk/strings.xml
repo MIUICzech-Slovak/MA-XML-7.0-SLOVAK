@@ -973,7 +973,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="save_photo_progress">Ukladám fotku...</string>
   <string name="savingContact">Ukladanie kontaktu...</string>
   <string name="savingDisplayGroups">Ukladám nastavenia zobrazenia …</string>
-  <string name="scan">Prehľadať zariadenie</string>
+  <string name="scan">Nahlásiťať zariadenie</string>
   <string name="scan_duplicate_message">Počet duplicitných kontaktov: %1$d</string>
   <string name="scan_merge">Hľadanie možných duplicitných kontaktov, prosím čakajte...</string>
   <string name="scan_qrcode_card_hint1">Načítajte QR kód</string>

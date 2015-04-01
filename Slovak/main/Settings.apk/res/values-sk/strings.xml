@@ -1916,7 +1916,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="sdcard_settings_mass_storage_status">USB úložisko je využívané ako veľkokapacitné pamäťové zariadenie USB</string>
   <string name="sdcard_settings_not_present_status">USB úložisko nie je pripojené</string>
   <string name="sdcard_settings_read_only_status">USB úložisko pripojené len na čítanie</string>
-  <string name="sdcard_settings_scanning_status">Prehľadávanie médií na USB úložisku...</string>
+  <string name="sdcard_settings_scanning_status">Nahlásiťávanie médií na USB úložisku...</string>
   <string name="sdcard_settings_screen_mass_storage_text">Povoliť veľkokapacitné pamäťové zariadenie USB</string>
   <string name="sdcard_settings_total_bytes_label">Celková pamäť (bajty):</string>
   <string name="sdcard_settings_unmounted_status">Teraz môžete SD kartu bezpečne odobrať.</string>

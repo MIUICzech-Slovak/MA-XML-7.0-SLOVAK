@@ -95,7 +95,7 @@
   <string name="choose_cloud_album">Vybrať album</string>
   <string name="cleaning_cache">Odstraňovanie cache...</string>
   <string name="clear_thumbnail_cache">Vymazať cache náhľadov</string>
-  <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria prehľadá mediálne súbory a vytvorí nové náhľady.</string>
+  <string name="clear_thumbnail_cache_confirm">Cache náhľadov bude vymazaná. Galéria Nahlásiťá mediálne súbory a vytvorí nové náhľady.</string>
   <string name="clear_thumbnail_cache_summary">Prezeranie galérie vytvorí náhľady. Vymazanie medzipamäte uvoľní miesto na úložisku.</string>
   <string name="click_to_add_picture">Dotykom pridáte fotografie</string>
   <string name="click_to_enter_camera">Otvoriť fotoaparát</string>

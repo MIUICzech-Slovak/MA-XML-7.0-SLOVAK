@@ -411,8 +411,8 @@
   <string name="pref_content_fontsize_setting">Nastavenie písma</string>
   <string name="pref_content_homepage">Nastaviť domovskú stránku</string>
   <string name="pref_content_javascript">Povoliť JavaScript</string>
-  <string name="pref_content_load_page">Otvoriť stránky v prehľade</string>
-  <string name="pref_content_load_page_summary">Zobraziť prehľad novootvorených stránok</string>
+  <string name="pref_content_load_page">Otvoriť stránky v Nahlásiťe</string>
+  <string name="pref_content_load_page_summary">Zobraziť Nahlásiť novootvorených stránok</string>
   <string name="pref_content_night_read_mode">Zapnúť Nočný režim</string>
   <string name="pref_content_open_in_background">Otvoriť na pozadí</string>
   <string name="pref_content_open_in_background_summary">Otvoriť nové karty na pozadí aktuálnej karty</string>

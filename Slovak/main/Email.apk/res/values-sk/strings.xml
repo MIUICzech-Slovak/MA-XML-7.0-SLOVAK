@@ -734,7 +734,7 @@ presahuje limit"</string>
   <string name="reply_all">Odp. všetkým</string>
   <string name="reply_attribution" formatted="false">Dňa %s používateľ %s napísal:</string>
   <string name="replyto_heading">"Odpovedať: "</string>
-  <string name="report">Prehľad</string>
+  <string name="report">Nahlásiť</string>
   <string name="report_phishing">Nahlásiť neopráv. získ. údajov</string>
   <string name="report_spam">Nahlásiť spam</string>
   <string name="request_entity_large">Požadovaný súbor je príliš veľký!</string>
