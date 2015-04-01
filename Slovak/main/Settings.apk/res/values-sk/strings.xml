@@ -2943,4 +2943,10 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="music_dolby_mode_music">Hudba</string>
   <string name="music_dolby_mode_off">Vyp.</string>
   <string name="music_title_dolby_control">DOLBY</string>
+  <string name="status_bar_settings_enable_notification">Povoliť upozornenia</string>
+  <string name="status_bar_settings_notification_led">LED upozornenie</string>
+  <string name="status_bar_settings_notification_sound_vibrate">Zvuk a vibrácie</string>
+  <string name="status_bar_settings_show_home_message">Ikona aplikácie</string>
+  <string name="status_bar_settings_show_keyguard_notification">Plávajúce upozornenia</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Zobraziť upozornenia na zamykacej obrazovke</string>
 </resources>

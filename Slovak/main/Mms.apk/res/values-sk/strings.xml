@@ -557,4 +557,12 @@ Pokus: %s."</string>
   <string name="select_copy_text">Vyberať a skopírovať text správy</string>
   <string name="confirm_restore_checkbox">Odblokovať správy z tohto čísla</string>
   <string name="confirm_restore_message">Obnoviť vybrané správy?</string>
+  <string name="pref_title_storage_status">Stav úložiska správ</string>
+  <string name="recipients_over_size">Príliš mnoho príjmateľov.</string>
+  <string name="storage_dialog_attachments">Prílohy MMS:</string>
+  <string name="storage_dialog_available_space">Dostupné:</string>
+  <string name="storage_dialog_database">Databáza:</string>
+  <string name="storage_dialog_mms">MMS: %d</string>
+  <string name="storage_dialog_mms_size">Veľkosť MMS:</string>
+  <string name="storage_dialog_sms">SMS: %d</string>
 </resources>
