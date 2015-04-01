@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Home screen apps backup​</string>
+    <string name="app_name">Záloha domácej obrazovky​</string>
     <string name="button_cancel">Zrušiť</string>
     <string name="button_next">Ďalej</string>
     <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -30,7 +30,7 @@
     <string name="latest_backup_time_loading">Načítavanie...</string>
     <string name="start_backup_to_micloud">Zálohovať aplikácie do MiCloud</string>
     <string name="backing_up_to_micloud">Zálohovanie...</string>
-    <string name="restore_from_cloud">Obnvoiť z MiCloud</string>
+    <string name="restore_from_cloud">Obnoviť z MiCloud</string>
     <string name="backup_to_cloud">Zálohovať</string>
     <string name="restoreing_file_tile">Obnovovanie %d súborov</string>
     <string name="menu_item_sort">Zoradiť podľa</string>
