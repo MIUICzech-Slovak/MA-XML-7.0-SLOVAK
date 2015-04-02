@@ -2948,5 +2948,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk a vibrácie</string>
   <string name="status_bar_settings_show_home_message">Ikona aplikácie</string>
   <string name="status_bar_settings_show_keyguard_notification">Plávajúce upozornenia</string>
-  <string name="status_bar_settings_show_keyguard_notification_summary">Zobraziť upozornenia na zamykacej obrazovke</string>
+  <string name="status_bar_settings_show_keyguard_notification_summary">Zobraziť upozornenia na zamykacej obrazovke a pri fullscreen aplikáciach</string>
 </resources>
