@@ -297,9 +297,9 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
   <string name="cloud_back_up_interval_long">7 dní</string>
   <string name="cloud_back_up_interval_short">1h</string>
   <string name="cloud_back_up_network_unavailable">Nie je možné odobrať. Pripojte sa k Wi-Fi sieti.</string>
-  <string name="cloud_back_up_open_info">"Zálohujte vaše nastavenie domácej obrazovky a aplikácií každých %1$s ak ste pripojený na Wi-Fi
+  <string name="cloud_back_up_open_info">"Zálohovať vaše nastavenie domácej obrazovky a aplikácií každých %1$s ak ste pripojený na Wi-Fi
 Naposledy: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Zálohujte vaše nastavenie domácej obrazovky a aplikácií každých %1$s ak ste pripojený na Wi-Fi</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Zálohovať vaše nastavenie domácej obrazovky a aplikácií každých %1$s ak ste pripojený na Wi-Fi</string>
   <string name="cloud_back_up_remove_success">Záloha vymazaná</string>
   <string name="cloud_back_up_title">Domáca obrazovka</string>
   <string name="cloud_backup_dialog_title">Zálohovať do MiCloud</string>
