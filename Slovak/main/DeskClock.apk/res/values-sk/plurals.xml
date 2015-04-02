@@ -20,4 +20,16 @@
         <item quantity="other">Odložiť o %d min</item>
         <item quantity="one">Odložiť o %d min</item>
     </plurals>
+    <plurals name="timer_message_hour">
+        <item quantity="other">"%1$dh "</item>
+        <item quantity="one">"%1$dh "</item>
+    </plurals>
+    <plurals name="timer_message_minute">
+        <item quantity="other">"%1$dmin "</item>
+        <item quantity="one">"%1$dmin "</item>
+    </plurals>
+    <plurals name="timer_message_second">
+        <item quantity="other">%1$ds</item>
+        <item quantity="one">%1$ds</item>
+    </plurals>
 </resources>

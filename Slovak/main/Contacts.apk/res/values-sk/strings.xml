@@ -1156,8 +1156,8 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="websiteLabelsGroup">WWW stránka</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Vymazať dáta</string>
-  <string name="yellowPageNavigationIconLabel">Directory</string>
-  <string name="yellowPageNavigationLabel">Directory</string>
+  <string name="yellowPageNavigationIconLabel">Zlaté stránky</string>
+  <string name="yellowPageNavigationLabel">Zlaté stránky</string>
   <string name="yellowpage_navigation_clear_search_history">Vyčistiť históriu</string>
   <string name="yellowpage_navigation_more_items">Viac</string>
   <string name="yellowpage_navigation_network_location_enable">Povoliť</string>

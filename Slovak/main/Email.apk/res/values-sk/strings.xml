@@ -895,5 +895,13 @@ Delta update size: %2$s"</string>
   <string name="upload_log_success">Odoslané</string>
   <string name="upload_log_title">Odoslať záznamy pre diagnostiku?</string>
   <string name="uploading_logs">Odosielanie...</string>
-  <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie, používanie emailu môže navýšiť vaše mesačné poplatky!</string>
+  <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
+  <string name="gmail_acceleration">Použíť proxy pre Gmail</string>
+  <string name="gmail_login_confirm_to_use_proxy">Použiť proxy server pre prístup k Gmail účtu?</string>
+  <string name="gmail_login_verify">Pridať Gmail účet</string>
+  <string name="gmail_web_login_go">OK</string>
+  <string name="gmail_web_login_required_message">Prihlásiť sa na Gmail</string>
+  <string name="open_proxy_in_settings">Gmail nie je dostupný vo vašej lokalite. Je možné odosielať a príjmať správy pomocou proxy serveru. Toto nastavenie môžete zmeniť v Nasteniach emailu.</string>
+  <string name="upload_log_yes">Odoslať</string>
+  <string name="upload_log_no">Zrušiť</string>
 </resources>

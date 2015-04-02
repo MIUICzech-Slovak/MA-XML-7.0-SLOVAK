@@ -135,4 +135,6 @@
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
   <string name="submit_dialog_not_wifi_content">Vaše hlásenie bude odoslané na server Xiaomi keď sa pripojíte na Wi-Fi.</string>
   <string name="toast_feedback_collect_store">Vytváranie záznamu...</string>
+  <string name="network_disconnected">Žiadna sieť</string>
+  <string name="toast_fill_brackets">Vyplňte v zátvorkách</string>
 </resources>

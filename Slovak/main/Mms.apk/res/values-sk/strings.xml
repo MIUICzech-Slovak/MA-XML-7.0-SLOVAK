@@ -565,4 +565,7 @@ Pokus: %s."</string>
   <string name="storage_dialog_mms">MMS: %d</string>
   <string name="storage_dialog_mms_size">Veľkosť MMS:</string>
   <string name="storage_dialog_sms">SMS: %d</string>
+  <string name="over_max_mms_size">MMS je príliš veľká.</string>
+  <string name="pref_title_send_delivery_reports">Odoslať oznámenie o doručení</string>
+  <string name="pref_summary_send_delivery_reports">Odoslať oznámenie o doručenej správe</string>
 </resources>
