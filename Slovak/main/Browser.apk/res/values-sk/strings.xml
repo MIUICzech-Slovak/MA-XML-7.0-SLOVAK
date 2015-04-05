@@ -83,6 +83,7 @@
   <string name="block_ads_choice_continue">Pokračovať</string>
   <string name="block_ads_message">Chcete zablokovať toto okno z tejto stránky?</string>
   <string name="block_ads_title">Môže obsahovať reklamu</string>
+  <string name="bookmark_url_already_exisit">Záložka už existuje</string>
   <string name="bookmark_URL_already_exisit">Záložka už existuje</string>
   <string name="bookmark_add_group_text_header">Pridať vybrané %1$d do skupiny</string>
   <string name="bookmark_add_to">Pridať do</string>

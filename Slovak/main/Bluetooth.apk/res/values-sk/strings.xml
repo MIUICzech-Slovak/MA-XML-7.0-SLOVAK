@@ -65,7 +65,7 @@
   <string name="incoming_file_confirm_Notification_title">Zdieľanie Bluetooth: Prichádzajúci súbor</string>
   <string name="incoming_file_confirm_cancel">Odmietnuť</string>
   <string name="incoming_file_confirm_content">"Používateľ %1$s sa vám pokúša odoslať súbor %2$s (%3$s). 
-
+	
  Chcete súbor prijať?"</string>
   <string name="incoming_file_confirm_ok">Prijať</string>
   <string name="incoming_file_confirm_timeout_content">Pri prijímaní prichádzajúceho súboru od používateľa %1$s vypršal časový limit.</string>
@@ -141,7 +141,7 @@
   <string name="profile_mse">MAP</string>
   <string name="profile_pan">PAN</string>
   <string name="profile_sap">SAP</string>
-  <string name="progress_scanning">Searching</string>
+  <string name="progress_scanning">Vyhľadávanie</string>
   <string name="sharedUserId"/>
   <string name="start_server">Spustiť server TCP</string>
   <string name="status_canceled">Prenos bol zrušený používateľom.</string>
@@ -178,4 +178,10 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
+  <string name="airplane_can_not_share">V režime Lietadlo nie je možné použiť Bluetooth pre zdieľanie súborov.</string>
+  <string name="bluetooth_in_airplane_mode">V režime Lietadlo</string>
+  <string name="incoming_line1">Od</string>
+  <string name="incoming_line2">Názov súboru</string>
+  <string name="incoming_line3">Veľkosť</string>
+  <string name="upload_fail_waiting">Pripravuje sa súbor na odoslanie.</string>
 </resources>

@@ -904,4 +904,5 @@ Delta update size: %2$s"</string>
   <string name="open_proxy_in_settings">Gmail nie je dostupný vo vašej lokalite. Je možné odosielať a príjmať správy pomocou proxy serveru. Toto nastavenie môžete zmeniť v Nasteniach emailu.</string>
   <string name="upload_log_yes">Odoslať</string>
   <string name="upload_log_no">Zrušiť</string>
+  <string name="download_before_view">Táto správa nebola stiahnutá.</string>
 </resources>
