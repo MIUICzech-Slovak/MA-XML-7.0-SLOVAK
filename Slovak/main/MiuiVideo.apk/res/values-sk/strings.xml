@@ -300,6 +300,8 @@
   <string name="userdata_alert_ok">Pokračovať</string>
   <string name="userdata_alert_title">Využitie dát</string>
   <string name="variety">Odporúčané</string>
+  <string name="video">Video</string>
+  <string name="video_count">Videá: %d</string>
   <string name="video">Videá</string>
   <string name="video_count">Videá: %d</string>
   <string name="video_declare">Copyright   |   Disclaimer</string>
