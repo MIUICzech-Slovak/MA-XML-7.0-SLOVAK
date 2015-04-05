@@ -79,8 +79,8 @@
   <string name="xmsf_activate_info">XMSF info</string>
   <string name="activate_popup_desc_2_intl_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašej SIM karty a funkcií ako %s</string>
   <string name="activate_popup_desc_2_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
-  <string name="activate_popup_desc_failed_phone_error">The phone number your entered is invalid.</string>
   <string name="activate_popup_desc_failed_phone_error">Zadané číslo je nesprávne.</string>
+  <string name="activate_popup_desc_failed_query_info">Nie je možné načítať vaše telefónne číslo. Uistite sa prosím, že je vložená SIM karta.</string>
   <string name="activate_popup_desc_failed_receive_sms">Skontrolujte zadané telefónne číslo a SIM kartu.</string>
   <string name="activate_popup_desc_failed_send_sms">Nie je možné odoslať aktivačnú SMS. Skontrolujte či je vložená SIM karta a máte mobilný signál.</string>
   <string name="activate_popup_desc_failed_server">Chyba servera. Skontrolujte sieťové pripojenie.</string>
