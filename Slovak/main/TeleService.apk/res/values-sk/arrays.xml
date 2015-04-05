@@ -21,4 +21,13 @@
         <item>Home only</item>
         <item>Automatic</item>
     </string-array>
+	 <string-array name="clir_display_values">
+        <item>Network default</item>
+        <item>Hide number</item>
+        <item>Show number</item>
+     </string-array>
+     <string-array name="dtmf_tone_entries">
+        <item>Normal</item>
+        <item>Long</item>
+     </string-array>
 </resources>

@@ -283,4 +283,6 @@ Svoj názor môžte odoslať každý utorok"</string>
 Navštívte www.miuios.cz/rom (MIUIv6) pre viac informácií."</string>
   <string name="recovery_failed_notification_msg">Nie je možné spustit MiRecovery</string>
   <string name="recovery_failed_title">Aktualizácia zlyhala</string>
+  <string name="particular_build">Špeciálny</string>
+  <string name="reboot">Reštart</string>
 </resources>

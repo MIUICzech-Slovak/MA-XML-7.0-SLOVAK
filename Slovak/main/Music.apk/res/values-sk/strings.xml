@@ -312,4 +312,5 @@
   <string name="download_all_song">Stiahnuť všetko</string>
   <string name="more_about_artist">Viac o %s</string>
   <string name="play_all_song">Prehrať všetko</string>
+  <string name="add_music">Pridať skladby</string>
 </resources>

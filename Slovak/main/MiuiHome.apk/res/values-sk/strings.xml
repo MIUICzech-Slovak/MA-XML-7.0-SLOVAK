@@ -270,4 +270,5 @@
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="cloud_app_restore_title">V poradí</string>
+  <string name="image_too_small_message">Obrázok nemá dostatočnú veľkosť</string>
 </resources>

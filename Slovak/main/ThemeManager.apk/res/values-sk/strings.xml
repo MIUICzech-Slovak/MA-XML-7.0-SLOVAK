@@ -345,4 +345,5 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
   <string name="gift_received_notification_title">%s vám daroval tému.</string>
   <string name="resource_tab_to_view">Zobraziť.</string>
+  <string name="resource_tip_select_none">Žiadne</string>
 </resources>
