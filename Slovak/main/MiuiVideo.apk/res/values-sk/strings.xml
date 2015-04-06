@@ -302,8 +302,6 @@
   <string name="variety">Odporúčané</string>
   <string name="video">Video</string>
   <string name="video_count">Videá: %d</string>
-  <string name="video">Videá</string>
-  <string name="video_count">Videá: %d</string>
   <string name="video_declare">Copyright   |   Disclaimer</string>
   <string name="video_info_audio_bitrate_label">Bitrate audio:</string>
   <string name="video_info_audio_coding_label">Formát kódovania zvuku:</string>

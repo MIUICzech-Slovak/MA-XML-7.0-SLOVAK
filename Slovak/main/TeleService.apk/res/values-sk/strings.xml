@@ -1019,8 +1019,6 @@ Môže to trvať aj 5 minút."</string>
   <string name="notification_ongoing_call">Prebiehajúci hovor</string>
   <string name="oldPin2Label">Pôvodný kód PIN2</string>
   <string name="oldPinLabel">Pôvodný kód PIN</string>
-  <string name="oldPin2Label">Pôvodný kód PIN2</string>
-  <string name="oldPinLabel">Pôvodný kód PIN</string>
   <string name="onHold">Podržaný hovor</string>
   <string name="onscreenAddCallText">Pridať hovor</string>
   <string name="onscreenAudioText">Zvuk</string>

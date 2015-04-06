@@ -698,7 +698,6 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="date_and_time_settings_title">Dátum a čas</string>
   <string name="date_and_time_settings_title_setup_wizard">Nastaviť dátum a čas</string>
   <string name="date_picker_title">Dátum</string>
-  <string name="date_time_24hour">Použiť 24hodinový formát</string>
   <string name="date_time_auto">Automatický dátum a čas</string>
   <string name="date_time_auto_summaryOff">Použiť čas zo siete</string>
   <string name="date_time_auto_summaryOn">Použiť čas zo siete</string>
