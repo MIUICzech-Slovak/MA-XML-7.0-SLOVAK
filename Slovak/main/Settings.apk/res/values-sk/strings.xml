@@ -3526,7 +3526,6 @@ sl. Wi‑Fi Assistant"</string>
   <string name="wifi_rssi_threshold_check_summary">Nepripájať sa na AP ak je slabé RSSI</string>
   <string name="wifi_saved_access_points_label">Uložené siete</string>
   <string name="wifi_saved_access_points_titlebar">Uložené siete</string>
-  <string name="wifi_scan_always_confirm_deny">Odmietnuť</string>
   <string name="wifi_scan_always_turnoff_message">Ak chcete toto nastavenie vypnúť, prejdite do rozbaľovacej ponuky Rozšírené.</string>
   <string name="wifi_select_network">Vybrať sieť Wi-Fi</string>
   <string name="wifi_setting_on_during_sleep_title">Wi‑Fi aktívne v režime spánku</string>
