@@ -307,4 +307,14 @@ Naposledy: %2$s"</string>
 You need a Mainland China bank card to purchase additional storage space."</string>
   <string name="buy_more_space_c_class">"This feature requires a Mainland China bank card.
 To get more storage space, visit mi.com/micloud."</string>
+  <string name="close_cloud_app_backup_cancel">Zrušiť</string>
+  <string name="close_cloud_app_backup_close">Zatvoriť</string>
+  <string name="close_cloud_app_backup_local_backup">Zálohovať</string>
+  <string name="close_cloud_app_backup_message">Služba zálohy v MiCloud bude ukončená a vaše zálohované dáta vymazané 1.5.2015, zálohujte si vaše dáta čo najskôr iným spôsobom.</string>
+  <string name="close_cloud_app_backup_notification_message">Zobraziť viac informácií</string>
+  <string name="close_cloud_app_backup_notification_title">Upozornenie MiCloud zálohy</string>
+  <string name="close_cloud_app_backup_title">Upozornenie</string>
+  <string name="cloud_app_back_up_quit_notification_content1">Služba MiCloud záloha aplikácií bude ukončená pre iné aplikácie ako MIUI. Všetky zálohované dáta doinštalovaných aplikácií budú vymazané 1.mája 2015. Aby ste nestratili svoje dáta pre doinštalované aplikácie, zálohujte si ich lokálne.</string>
+  <string name="cloud_app_back_up_quit_notification_content2">Kontakty, SMS, Fotografie, a ostatné MIUI aplikácie budú i naďalej zálohované.</string>
+  <string name="cloud_app_back_up_quit_notification_content3">Zálohujte dáta aplikácií</string>
 </resources>

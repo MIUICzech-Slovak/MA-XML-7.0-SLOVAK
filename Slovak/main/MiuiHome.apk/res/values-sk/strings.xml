@@ -271,4 +271,7 @@
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="cloud_app_restore_title">V poradí</string>
   <string name="image_too_small_message">Obrázok nemá dostatočnú veľkosť</string>
+  <string name="configure_wallpaper">Nastavenia</string>
+  <string name="failed_to_load_image">Nie je možné načítať obrázok</string>
+  <string name="mtzgadget_missing_text">Už nie je dostupný</string>
 </resources>
