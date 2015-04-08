@@ -750,4 +750,5 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="cmcc_app_check_dialog_negative">Neskôr</string>
   <string name="cmcc_app_check_dialog_positive">Reštartovať</string>
   <string name="cmcc_app_check_dialog_title">Systém je opravený</string>
+  <string name="toast_resolve_apk_error">Opraviť chybu apk</string>
 </resources>
