@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string name="screen_rotation_freeze_message">Rotácia obrazovky je uzamknutá</string>
+  <string name="screen_button_enabled_message">Tlačidlá pod displejom sú zapnuté</string>
+  <string name="screen_button_disabled_message">Tlačidlá pod displejom sú vypnuté. Môžete ich zapnúť stlačením tlačidiel \"Domov\" a \"Zapínanie\"</string>
   <string name="status_bar_toggle_ac">Kontrola prístupu</string>
   <string name="status_bar_toggle_auto_brightness">Auto. jas</string>
   <string name="status_bar_toggle_bluetooth">Bluetooth</string>
