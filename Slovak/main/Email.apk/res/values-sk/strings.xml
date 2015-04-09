@@ -691,7 +691,7 @@ presahuje limit"</string>
   <string name="preferences_default_reply_all_summary">Použiť ako predvolenú možnosť pre odpovede na správy</string>
   <string name="preferences_default_reply_all_title">Odpovedať všetkým</string>
   <string name="preferences_signature_dialog_title">Podpis</string>
-  <string name="preferences_signature_summary_not_set">Nenastavené</string>
+  <string name="preferences_signature_summary_not_set">Žiadny</string>
   <string name="preferences_signature_title">Podpis</string>
   <string name="prefetched_got_it">OK</string>
   <string name="preview_attachment">Ukážka</string>
@@ -886,8 +886,8 @@ Delta update size: %2$s"</string>
   <string name="outbox_alert_description_insufficient_storage_error">Nedostatok voľného miesta na serveri</string>
   <string name="reduce_the_receiving_frequencye_summary">Synchr. menej často v nastavenom čase</string>
   <string name="reduce_the_receiving_frequencye_title">Znížiť počet kontroly emailov</string>
-  <string name="save_power_summary">Úspora batérie v stanovený čas</string>
-  <string name="save_power_title">Úspora batérie</string>
+  <string name="save_power_summary">Oznámenie bude stíšené v stanovenom čase</string>
+  <string name="save_power_title">Režim Nerušiť</string>
   <string name="ser_resp_err_map_pserr">Nesprávne meno alebo heslo</string>
   <string name="sdcard_cannot_use">SD karta nie je dostupná</string>
   <string name="upload_log">Odoslať záznamy pre diagnostiku</string>
@@ -905,4 +905,9 @@ Delta update size: %2$s"</string>
   <string name="upload_log_yes">Odoslať</string>
   <string name="upload_log_no">Zrušiť</string>
   <string name="download_before_view">Táto správa nebola stiahnutá.</string>
+  <string name="toast_bar_fail_synchronization">Chyba pripojenia, skúste to znova neskôr.</string>
+  <string name="toast_bar_insufficient_memory_space">Nedostatok voľného miesta v zariadení. Synchronizácia zlyhala.</string>
+  <string name="toast_bar_invalid_account">Platnosť ôčtu vypršala, prihláste sa znova.</string>
+  <string name="toast_bar_no_connection_network">Žiadne pripojenie k sieti, stlačte pre nastavenie.</string>
+  <string name="toast_bar_open_gmail_synchronization">Viac neblokovať Gmail, stlačte pre používanie</string>
 </resources>

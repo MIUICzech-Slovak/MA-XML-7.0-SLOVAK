@@ -247,4 +247,8 @@
   <string name="media_projection_action_text">Spustiť</string>
   <string name="media_projection_dialog_text">"%s bude snímať všetko čo sa zobrazí na vašom displeji."</string>
   <string name="media_projection_remember_text">Viac nezobrazovať</string>
+  <string name="vpn_text">Zobraziť nastavenia.</string>
+  <string name="vpn_text_long">Pripojiť k %s. Zobraziť podrobnosti.</string>
+  <string name="vpn_title">VPN aktivované</string>
+  <string name="vpn_title_long">Pripájanie k VPN cez %s</string>
 </resources>

@@ -22,12 +22,12 @@
     <string-array name="prefEntries_autoAdvance">
         <item>Novšia</item>
         <item>Staršia</item>
-        <item>Zoznam konverzácií</item>
+        <item>Doručené správy</item>
     </string-array>
     <string-array name="prefSummaries_autoAdvance">
         <item>Po odstránení zobraziť novšiu konverzáciu</item>
         <item>Po odstránení zobraziť staršiu konverzáciu</item>
-        <item>Po odstránení zobraziť zoznam konverzácií</item>
+        <item>Po odstránení zobraziť doručené správy</item>
     </string-array>
     <string-array name="prefEntries_removal_action">
         <item>Zobraziť iba archiváciu</item>

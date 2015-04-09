@@ -3571,4 +3571,22 @@ sl. Wi‑Fi Assistant"</string>
   <string name="zen_mode_when_every_night">Každú noc</string>
   <string name="zen_mode_when_never">Nikdy</string>
   <string name="zen_mode_when_weeknights">Noci cez týždeň</string>
+  <string name="country_name">%s (systém)</string>
+  <string name="install_preinstall_app">Načítavanie aplikácií...</string>
+  <string name="locale_settings">Lokalita</string>
+  <string name="screen_paper_mode_adjust_level">Prispôsobiť čítací režim</string>
+  <string name="screen_paper_mode_apps_loading">Načítavanie...</string>
+  <string name="screen_paper_mode_global_summary">Použiť čítací režim na všetky aplikácie</string>
+  <string name="screen_paper_mode_global_title">Všetky aplikácie</string>
+  <string name="screen_paper_mode_local_summary">Vybrať aplikácie pre čítací režim</string>
+  <string name="screen_paper_mode_local_title">Vybrané aplikácie</string>
+  <string name="screen_paper_mode_range_title">Rozsah</string>
+  <string name="screen_paper_mode_set_apps_title">Vlastný čítací režim</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Viac sa nepýtať</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Súhlasím</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pre aktualizáciu zoznamu aplikácií ktoré môžu používať čítací režim je nutné internetové pripojenie. Súhlasíte?</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Podmienky používania</string>
+  <string name="screen_paper_mode_update_white_pkg_list_summary">Aktualizovať zoznam aplikácií ktoré môžu používať čítací režim</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Aktualizovať zoznam</string>
+  <string name="skip_lock_screen_confirm_msg">Nasledujúce funkcie nebudú dostupné pre zamykaciu obrazovku: Upozornenia, fotoaparát potiahnutím doprava a číselník potiahnutím doľava.</string>
 </resources>
