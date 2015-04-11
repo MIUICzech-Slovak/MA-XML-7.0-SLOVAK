@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="telecommAppLabel">Telefón</string>
+  <string name="unknown">Neznáme</string>
+  <string name="notification_missedCallTitle">Zmeškaný hovor</string>
+  <string name="notification_missedCallsTitle">Zmeškané hovory</string>
+  <string name="notification_missedCallsMsg">Zmeškané hovory: %s</string>
+  <string name="notification_missedCallTicker">Zmeškaný hovor od %s</string>
+  <string name="notification_missedCall_call_back">Zavolať späť</string>
+  <string name="notification_missedCall_message">Správa</string>
+  <string name="accessibility_call_muted">Hovor stíšený.</string>
+  <string name="accessibility_speakerphone_enabled">Reproduktor je zapnutý.</string>
+  <string name="respond_via_sms_canned_response_1">"Momentálne nemôžem hovoriť. Zavolám vám neskôr."</string>
+  <string name="respond_via_sms_canned_response_2">Zavolám späť.</string>
+  <string name="respond_via_sms_canned_response_3">Zavolám neskôr.</string>
+  <string name="respond_via_sms_canned_response_4">Nemôžem telefonovať, zavolajte neskôr.</string>
+  <string name="respond_via_sms_setting_title">Rýchle odpovede</string>
+  <string name="respond_via_sms_setting_title_2">Upraviť rýchle odpovede</string>
+  <string name="respond_via_sms_setting_summary" />
+  <string name="respond_via_sms_edittext_dialog_title">Rýchla odpoveď</string>
+  <string name="respond_via_sms_menu_reset_default_activity">Obnoviť predvolenú apl.</string>
+  <string name="respond_via_sms_confirmation_format">Správa bola odoslaná na číslo %s.</string>
+  <string name="outgoing_call_not_allowed">Tento užívateľ nemá povolenie pre volanie iných ako núdzových čisel</string>
+  <string name="outgoing_call_error_no_phone_number_supplied">Hovor nie je možné uskutočniť, zadané číslo nie je správne.</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Please disable TTY Mode to make video calls.</string>
+  <string name="no_vm_number">Číslo hlasovej schránky neexistuje</string>
+  <string name="no_vm_number_msg">Na karte SIM nie je uložené žiadne číslo hlasovej schránky.</string>
+  <string name="add_vm_number_str">Pridať číslo</string>
+  <string name="headset_plugin_view_text">Hands-free je pripojené.</string>
+  <string name="headset_plugin_view_title">Hands-free</string>
+  <string name="voice_report_incoming_call">Volanie</string>
+  <string name="voice_report_unknown_num">Neznáme číslo</string>
+</resources>
