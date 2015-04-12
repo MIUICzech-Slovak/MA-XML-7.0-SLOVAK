@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-  <string name="add_alarm">Pridať budík</string>
+  <string name="add_alarm">Pridať</string>
   <string name="alarm_alert">Zvonenie budíka</string>
   <string name="alarm_alert_alert_silenced">Budík stíšený na dobu %d minút.</string>
   <string name="alarm_alert_snooze_set">Odložiť o %d minút.</string>
