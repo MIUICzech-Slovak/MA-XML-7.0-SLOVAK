@@ -370,7 +370,7 @@ Poznámka: Priblíženie trojitým klepnutím funguje všade okrem klávesnice a
   <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena nebo symboly</string>
   <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením: %1$s Zadajte prístupový kľúč požadovaný zariadením:</string>
   <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>
-  <string name="bluetooth_enter_pin_msg">Párovanie si zariadením: %1$s Zadajte kód PIN požadovaný zariadením:</string>
+  <string name="bluetooth_enter_pin_msg">Párovanie so zariadením: %1$s Zadajte kód PIN požadovaný zariadením:</string>
   <string name="bluetooth_enter_pin_other_device">Tento kód PIN bude možno nutné zadať i v ďalšom zariadení.</string>
   <string name="bluetooth_error_title"/>
   <string name="bluetooth_headset_profile_summary_connected">Pripojené k hands-free</string>
