@@ -507,6 +507,6 @@ Veľkosť: %2$s"</string>
   <string name="get_latest_firmeware_info">Kontrola firmwaru...</string>
   <string name="firmware_version_synchronize_complete">Najnovšia verzia FW:</string>
   <string name="firmware_update_info">Verzia FW</string>
-  <string name="connect_camera_first">Nenašli ste informácie o verzii FW, pripojte kameru.</string>
+  <string name="connect_camera_first">Nenašli sa informácie o verzii FW, pripojte kameru.</string>
   <string name="check_failed">Kontrola zlyhala, skontrolujte nastavenie siete.</string>
 </resources>
