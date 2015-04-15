@@ -3,4 +3,5 @@
 <resources>
   <string name="bluetooth_enter_pin_msg">Zariadenie</string>
   <string name="bluetooth_enter_pin_msg_hs">Zariadenie vyžaduje zabezpečenie 16 miestným kódom</string>
+  <string name="bluetooth_enter_passkey_msg">"Zadajte párovací kód a potom stlačte tlačidlo Return alebo Enter"</string>
 </resources>
