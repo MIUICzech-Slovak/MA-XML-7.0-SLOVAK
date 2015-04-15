@@ -313,4 +313,10 @@
   <string name="more_about_artist">Viac o %s</string>
   <string name="play_all_song">Prehrať všetko</string>
   <string name="add_music">Pridať skladby</string>
+  <string name="delete">Vymazať</string>
+  <string name="only_online_can_select_quality">Kvalita môže byť zvolená len pre online skladby</string>
+  <string name="remove">Odstrániť</string>
+  <string name="sort_by_language">Jazyk</string>
+  <string name="sort_by_name">Názov</string>
+  <string name="sort_by_time">Dátum</string>
 </resources>

@@ -568,4 +568,5 @@ Pokus: %s."</string>
   <string name="over_max_mms_size">MMS je príliš veľká.</string>
   <string name="pref_title_send_delivery_reports">Odoslať oznámenie o doručení</string>
   <string name="pref_summary_send_delivery_reports">Odoslať oznámenie o doručenej správe</string>
+  <string name="storage_unavailable">Nie je dostatok voľného miesta</string>
 </resources>
