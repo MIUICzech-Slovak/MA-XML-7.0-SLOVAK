@@ -321,4 +321,9 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_app_back_up_quit_notification_content1">Služba zálohy aplikácií do MiCloud bude pre iné aplikácie ako MIUI ukončená. Všetky zálohované dáta doinštalovaných aplikácií budú vymazané 1.mája 2015. Aby ste nestratili svoje dáta pre doinštalované aplikácie, zálohujte si ich lokálne.</string>
   <string name="cloud_app_back_up_quit_notification_content2">Kontakty, SMS, Fotografie, a ostatné MIUI aplikácie budú i naďalej zálohované.</string>
   <string name="cloud_app_back_up_quit_notification_content3">Zálohujte dáta aplikácií</string>
+  <string name="activate_number_change_dialog_message">Vyberte telefónne číslo pre aktiváciu. Toto číslo sa zobrazí volanému cez MiVoice.</string>
+  <string name="mx_dspt_provision_with_voip">Zavolať ostatným užívateľom MIUI zdarma cez internetové volanie. Túto službu môžete kedykoľvek deaktivovať na nastaveniach.</string>
+  <string name="mx_sub_dspt_provision_with_voip">Internetové volanie</string>
+  <string name="voip_choose_sim">Vyberte telefónné číslo pre aktiváciu MiVoice</string>
+  <string name="voip_dspt">MiVoice</string>
 </resources>

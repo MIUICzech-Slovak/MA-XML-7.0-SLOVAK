@@ -285,4 +285,22 @@ Navštívte www.miuios.cz/rom (MIUIv6) pre viac informácií."</string>
   <string name="recovery_failed_title">Aktualizácia zlyhala</string>
   <string name="particular_build">Špeciálny</string>
   <string name="reboot">Reštart</string>
+  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;MIUI fórum&lt;/a&gt;" "</string>
+  <string name="vote_beta">Beta Feedback Program</string>
+  <string name="vote_error1">"Zrejme nie ste člen 
+BETA Feedback Programu"</string>
+  <string name="vote_error2">"Nie je možné odoslať váš názor.
+Aktualizujte vaše zariadenie a skúste to znova"</string>
+  <string name="vote_error3">"Nie je možné sa prihlásiť.
+Skúste sa znova prihlásiť vašim Xiaomi účtom."</string>
+  <string name="vote_error4">Váš názor už bol odoslaný</string>
+  <string name="vote_error5">"Nastala chyba,
+Nie je možné odoslať váš názor"</string>
+  <string name="vote_error_nonetwork">Nie je možné sa pripojiť k sieti</string>
+  <string name="vote_experience">Forum experience</string>
+  <string name="vote_hint">Získajte 20 bodov na fóre en.miui.com za hlasovanie</string>
+  <string name="vote_join">Už ste hlasovali</string>
+  <string name="vote_not_recommend">Neodporúčam túto verziu MIUI</string>
+  <string name="vote_recommend">Odporúčam túto verziu MIUI</string>
+  <string name="vote_submit">Odoslať</string>
 </resources>
