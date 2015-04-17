@@ -113,5 +113,5 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="preference_tip_rename">Zobraziť premenovanie súboru po skončení nahrávania</string>
   <string name="rename_no_more_tip">Viac sa nepýtať</string>
-  <string name="record_mark_point">%sznačka</string>
+  <string name="record_mark_point">Značiek: %s</string>
 </resources>
