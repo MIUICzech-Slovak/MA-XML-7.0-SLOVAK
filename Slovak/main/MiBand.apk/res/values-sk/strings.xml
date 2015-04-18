@@ -1203,7 +1203,7 @@ Udržujte MiBand a telefón maximálne 5m od seba."</string>
   <string name="wrong_system_time">Váš systémový čas nie je správny a ovplyvní to fungovanie MiBand.</string>
   <string name="wrong_tips">Chyba</string>
   <string name="year"/>
-  <string name="your_gender">Vaše pohlavie</string>
+  <string name="your_gender">Pohlavie</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Hmotnosť</string>
 </resources>
