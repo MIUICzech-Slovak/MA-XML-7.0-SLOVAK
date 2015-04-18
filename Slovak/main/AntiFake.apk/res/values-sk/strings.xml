@@ -85,6 +85,7 @@
   <string name="phone">Telefón:</string>
   <string name="picker_lable">Galéria</string>
   <string name="place_barcode_into_rectangle">Zamerajte QR kód na jd.mi.com</string>
+  <string name="please_set_mode">Vyberte režim</string>
   <string name="please_set_network">Nastavte sieťové pripojenie</string>
   <string name="public_beta">Official</string>
   <string name="recognize">Rozpoznať</string>
@@ -140,6 +141,7 @@
   <string name="tip_update_right_now">Aktualizovať</string>
   <string name="title">Titul:</string>
   <string name="title_error_token">Overenie zlyhalo</string>
+  <string name="two_quit">Stlačte 2x pre ukončenie</string>
   <string name="uninstall">Odinštalovať</string>
   <string name="unknown_error">Neznáma chyba</string>
   <string name="unknown_mobile">Neznáme zariadenie</string>
@@ -150,6 +152,4 @@
   <string name="xiaomi_checker">Mi kontrola</string>
   <string name="xiaomi_desc">Používate Xiaomi Mi3</string>
   <string name="xiaomi_name">Beijing Xiaomi Mobile Software Co., Ltd.</string>
-  <string name="please_set_mode">Vyberte režim</string>
-  <string name="two_quit">Stlačte 2x pre ukončenie</string>
 </resources>

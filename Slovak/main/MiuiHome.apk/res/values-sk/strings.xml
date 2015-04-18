@@ -41,6 +41,8 @@
   <string name="cant_remove_system_app">Systémové aplikácie nie je možné odinštalovať</string>
   <string name="choose_wallpaper">Vyberte tapetu</string>
   <string name="chooser_wallpaper">Vybrať tapetu z</string>
+  <string name="cloud_app_restore_title">V poradí</string>
+  <string name="configure_wallpaper">Nastavenia</string>
   <string name="confirm_btn_label">OK</string>
   <string name="current_preview">Náhľad</string>
   <string name="current_wallpaper">Súčasná</string>
@@ -72,6 +74,7 @@
   <string name="failed_to_drop">Presun sa nepodaril.</string>
   <string name="failed_to_drop_widget_invalid">Neplatný Widget</string>
   <string name="failed_to_drop_widget_nospace">Presun sa nepodaril, nie je dostatok miesta!</string>
+  <string name="failed_to_load_image">Nie je možné načítať obrázok</string>
   <string name="folder_name">Zložka</string>
   <string name="frame_load_failed">Načítavanie foto rámčeka zlyhalo!</string>
   <string name="free_style_apps_title">Vyberte aplikáciu</string>
@@ -125,6 +128,7 @@
   <string name="guide_install_app_msg">Aplikácia nie je nainštalovaná. Chcete ju nájsť v obchode Google?</string>
   <string name="guide_install_app_title">Inštalovať Aplikáciu</string>
   <string name="guide_tips_editing_mode">Podržte prst na widgete pre jeho pretiahnutie na obrazovku</string>
+  <string name="image_too_small_message">Obrázok nemá dostatočnú veľkosť</string>
   <string name="install">Inštalovať</string>
   <string name="invalid_contact_shortcut">Neplatný zástupca kontaktu</string>
   <string name="is_setting_wallpaper_toast">Nastavovanie tapety...</string>
@@ -149,6 +153,7 @@
   <string name="menu_wallpaper">Tapeta</string>
   <string name="menu_workspace_preview">Náhľad</string>
   <string name="mi_wallpaper">Mi Tapeta</string>
+  <string name="mtzgadget_missing_text">Už nie je dostupný</string>
   <string name="multi_selecting_tips">Dotknite sa ikon</string>
   <string name="online_wallpaper">Online</string>
   <string name="out_of_space">Na tejto ploche už nie je miesto.</string>
@@ -269,9 +274,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="cloud_app_restore_title">V poradí</string>
-  <string name="image_too_small_message">Obrázok nemá dostatočnú veľkosť</string>
-  <string name="configure_wallpaper">Nastavenia</string>
-  <string name="failed_to_load_image">Nie je možné načítať obrázok</string>
-  <string name="mtzgadget_missing_text">Už nie je dostupný</string>
 </resources>

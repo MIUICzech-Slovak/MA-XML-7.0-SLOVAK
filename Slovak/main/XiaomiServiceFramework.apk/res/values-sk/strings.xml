@@ -15,6 +15,15 @@
   <string name="activate_popup_confirm_failed_send_sms">Znova</string>
   <string name="activate_popup_confirm_failed_server">Znova</string>
   <string name="activate_popup_confirm_upload_diagnosis_info">Odoslať</string>
+  <string name="activate_popup_desc_2_intl_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašej SIM karty a funkcií ako %s</string>
+  <string name="activate_popup_desc_2_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
+  <string name="activate_popup_desc_failed_phone_error">Zadané číslo je nesprávne.</string>
+  <string name="activate_popup_desc_failed_query_info">Nie je možné načítať vaše telefónne číslo. Uistite sa prosím, že je vložená SIM karta.</string>
+  <string name="activate_popup_desc_failed_receive_sms">Skontrolujte zadané telefónne číslo a SIM kartu.</string>
+  <string name="activate_popup_desc_failed_send_sms">Nie je možné odoslať aktivačnú SMS. Skontrolujte či je vložená SIM karta a máte mobilný signál.</string>
+  <string name="activate_popup_desc_failed_server">Chyba servera. Skontrolujte sieťové pripojenie.</string>
+  <string name="activate_popup_desc_intl_sim_card">Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
+  <string name="activate_popup_desc_mixed_sim_cards">SMS a medzinárodná SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
   <string name="activate_popup_desc_new_2_intl_sim_cards">Vaše SIM karty sú zmenené. 2 medzinárodne SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
   <string name="activate_popup_desc_new_2_sim_cards">Vaše SIM karty sú zmenené. 2 SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
   <string name="activate_popup_desc_new_intl_sim_card">Vaša SIM karta je zmenená. Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
@@ -77,13 +86,4 @@
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
-  <string name="activate_popup_desc_2_intl_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašej SIM karty a funkcií ako %s</string>
-  <string name="activate_popup_desc_2_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
-  <string name="activate_popup_desc_failed_phone_error">Zadané číslo je nesprávne.</string>
-  <string name="activate_popup_desc_failed_query_info">Nie je možné načítať vaše telefónne číslo. Uistite sa prosím, že je vložená SIM karta.</string>
-  <string name="activate_popup_desc_failed_receive_sms">Skontrolujte zadané telefónne číslo a SIM kartu.</string>
-  <string name="activate_popup_desc_failed_send_sms">Nie je možné odoslať aktivačnú SMS. Skontrolujte či je vložená SIM karta a máte mobilný signál.</string>
-  <string name="activate_popup_desc_failed_server">Chyba servera. Skontrolujte sieťové pripojenie.</string>
-  <string name="activate_popup_desc_intl_sim_card">Medzinárodná SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
-  <string name="activate_popup_desc_mixed_sim_cards">SMS a medzinárodná SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
 </resources>

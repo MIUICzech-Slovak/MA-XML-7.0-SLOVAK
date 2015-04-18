@@ -101,6 +101,7 @@
   <string name="timer_got_it">OK</string>
   <string name="timer_item_duration_display">%1$dmin %2$ds</string>
   <string name="timer_item_label_hint">Názov časovača</string>
+  <string name="timer_item_picker_hour">hod</string>
   <string name="timer_item_picker_minute">min</string>
   <string name="timer_item_picker_second">s</string>
   <string name="timer_message">%1$dmin a %2$ds</string>
@@ -121,5 +122,4 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="timer_item_picker_hour">hod</string>
 </resources>

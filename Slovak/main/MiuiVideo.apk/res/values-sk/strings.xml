@@ -209,6 +209,7 @@
   <string name="play">Prehrať</string>
   <string name="play_count_ci">%d prehrané</string>
   <string name="play_his_empty_hint">Žiadna história</string>
+  <string name="play_his_empty_title">Prázdne</string>
   <string name="play_history">Naposledy prehrávané</string>
   <string name="positive_comment">Dobre komentáre</string>
   <string name="pps">PPS</string>
@@ -391,5 +392,4 @@
   <string name="yesterday">"Včera "</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-  <string name="play_his_empty_title">Prázdne</string>
 </resources>

@@ -117,6 +117,9 @@
   <string name="mdb_restore_label">Obnova MDB</string>
   <string name="mdb_restore_mode">Režim obnovy MDB</string>
   <string name="mdb_usb_disconnection_exit">USB odpojené, rušenie obnovy!</string>
+  <string name="media_projection_action_text">Spustiť</string>
+  <string name="media_projection_dialog_text">"%s bude snímať všetko čo sa zobrazí na vašom displeji."</string>
+  <string name="media_projection_remember_text">Viac nezobrazovať</string>
   <string name="mount_storage">Áno</string>
   <string name="no_notification_tips">Žiadne notifikácie</string>
   <string name="notification_otg_gamestick_in">Herný ovládač je pripojený</string>
@@ -155,8 +158,12 @@
   <string name="status_bar_date_format">d.M. E</string>
   <string name="status_bar_date_formatter">%2$s</string>
   <string name="status_bar_network_flow">"Dnes: %1$s | Ostáva: %2$s | Balíček: %3$s"</string>
+  <string name="status_bar_network_flow_content">Dnes: %1$s | Ostáva: %2$s</string>
   <string name="status_bar_network_flow_exceed">"Dnes: %1$s | Prekročené: &lt;font color=%2$s&gt;%3$s&lt;/font&gt; | Balíček: %4$s"</string>
+  <string name="status_bar_network_flow_exceed_content">Dnes: %1$s | Prekročené: %3$s</string>
   <string name="status_bar_network_flow_exceed_to_purchase">Dnes: %1$s Prekročené: %2$s Zakúpiť: %3$s</string>
+  <string name="status_bar_network_flow_limit">" | Balíček: %1$s"</string>
+  <string name="status_bar_network_flow_purchase">" | Zakúpiť &gt;"</string>
   <string name="status_bar_network_flow_today">Dnes: %1$s</string>
   <string name="status_bar_network_flow_warning_to_purchase">"Dnes: %1$s    Ostáva: %2$s    Zakúpiť &gt;"</string>
   <string name="status_bar_network_name_separator">|</string>
@@ -240,13 +247,6 @@
   <string name="user_guide_for_notification">Nová notifikácia, stiahnite lištu pre detail</string>
   <string name="user_guide_for_toggle">Zoznam prepínačov možno posúvať horizontálne</string>
   <string name="user_guide_for_toggle_list">Kliknite tu pre prispôsobenie zoznamu prepínačov</string>
-  <string name="status_bar_network_flow_content">Dnes: %1$s | Ostáva: %2$s</string>
-  <string name="status_bar_network_flow_exceed_content">Dnes: %1$s | Prekročené: %3$s</string>
-  <string name="status_bar_network_flow_limit">" | Balíček: %1$s"</string>
-  <string name="status_bar_network_flow_purchase">" | Zakúpiť &gt;"</string>
-  <string name="media_projection_action_text">Spustiť</string>
-  <string name="media_projection_dialog_text">"%s bude snímať všetko čo sa zobrazí na vašom displeji."</string>
-  <string name="media_projection_remember_text">Viac nezobrazovať</string>
   <string name="vpn_text">Zobraziť nastavenia.</string>
   <string name="vpn_text_long">Pripojiť k %s. Zobraziť podrobnosti.</string>
   <string name="vpn_title">VPN aktivované</string>

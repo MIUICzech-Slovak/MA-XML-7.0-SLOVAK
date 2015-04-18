@@ -18,6 +18,7 @@
   <string name="accessibility_panorama_review_cancel">Zrušiť</string>
   <string name="accessibility_review_thumbnail">Najnovšie fotografie</string>
   <string name="accessibility_scroll_button_slider">Foto/Video</string>
+  <string name="accessibility_setting_button">Ďalšie nastavenia</string>
   <string name="accessibility_show_setting_panel_button">Nastavenia</string>
   <string name="accessibility_shutter_button">Tlačidlo spúšte</string>
   <string name="accessibility_skin_beautify_button">Vylepšenie pleti</string>
@@ -47,6 +48,7 @@ opustite na chvíľu náhľad"</string>
   <string name="confirm_change_mode_title">Prepnúť režim</string>
   <string name="confirm_change_to_expert_mode_message">Prepnúť na rozšírený režim?</string>
   <string name="confirm_change_to_simple_mode_message">Prepnúť na základný režim?</string>
+  <string name="confirm_location_alert">Ukladanie polohy</string>
   <string name="confirm_location_message">Zariadenie môže zaznamenať vašu polohu vo fotografií. Chcete povoliť?</string>
   <string name="confirm_location_title">Zaznamenávanie polohy</string>
   <string name="confirm_restore_message">Chcete obnoviť predvolené nastavenia?</string>
@@ -339,6 +341,9 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_multiple_face_beauty_entry_on">Dve tváre</string>
   <string name="pref_camera_multiple_face_beauty_title">Vylepšenie tváre</string>
   <string name="pref_camera_panoramamode_title">Panoráma</string>
+  <string name="pref_camera_peak_entry_off">Vyp</string>
+  <string name="pref_camera_peak_entry_on">Zap</string>
+  <string name="pref_camera_peak_title">Peaking Focus</string>
   <string name="pref_camera_picture_format_entry_jpeg">JPEG</string>
   <string name="pref_camera_picture_format_entry_raw">RAW</string>
   <string name="pref_camera_picture_format_title">Formát fotografie</string>
@@ -549,6 +554,7 @@ opustite na chvíľu náhľad"</string>
   <string name="snapshot_qcif_and_d1">Only Video snapshot size is supported for this resolution.</string>
   <string name="snapshotsize_low_powermode">Rozlíšenie obrazu v režime nízkej spotreby nie je podporované. Pre fotografiu bude použité rozlíšenie videa. Zvoľte režim vysokého výkonu pre vybranie kvality snímku.</string>
   <string name="spaceIsLow_content">Dochádza voľné miesto na SD karte. Znížte kvalitu alebo vymažte niektoré snímky alebo iné súbory.</string>
+  <string name="start_capture">Zatvoriť</string>
   <string name="success_message_import_from_account">Úspešne importované</string>
   <string name="tags">Značky</string>
   <string name="tap_to_exposure">Dotykom nastavíte expozíciu</string>
@@ -595,10 +601,4 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="accessibility_setting_button">Ďalšie nastavenia</string>
-  <string name="confirm_location_alert">Ukladanie polohy</string>
-  <string name="start_capture">Zatvoriť</string>
-  <string name="pref_camera_peak_entry_off">Vyp</string>
-  <string name="pref_camera_peak_entry_on">Zap</string>
-  <string name="pref_camera_peak_title">Peaking Focus</string>
 </resources>

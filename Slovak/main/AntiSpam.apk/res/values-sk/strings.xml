@@ -51,6 +51,10 @@
   <string name="address_choose_hint">%1$s, %2$s a %3$d ďalšie</string>
   <string name="addwhitelist">Pridať do výnimiek</string>
   <string name="all_address_choose_hint">Všetky regióny</string>
+  <string name="antispam_notificaiton_type_show_all">Všetky čísla</string>
+  <string name="antispam_notificaiton_type_show_except_blacklist">Ak nie je v čiernej listine</string>
+  <string name="antispam_notificaiton_type_show_none">Nikdy</string>
+  <string name="antispam_notification_setting_title">Upozorniť na blokovanie</string>
   <string name="app_name">AntiSpam</string>
   <string name="backsound_set_hint">Nastaviť zvuk na %s?</string>
   <string name="baidu_thanks"/>
@@ -140,8 +144,17 @@
   <string name="mark_fraud_block">Označené ako podvodník</string>
   <string name="mark_meal">Donáška</string>
   <string name="mark_meal_block">Označené ako donáška</string>
+  <string name="mark_number_agent">Agent</string>
+  <string name="mark_number_banking">Poisťovací agent</string>
+  <string name="mark_number_fraud">Otravný</string>
   <string name="mark_number_info">"
 Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých už viac nechcete prijať hovor."</string>
+  <string name="mark_number_sell">Predajca</string>
+  <string name="mark_number_setting_guide_content1">Blokovať hovory z nahlásených čísel?</string>
+  <string name="mark_number_setting_guide_content2">Automaticky blokovať hovory z čísel nahlásených inými užívateľmi</string>
+  <string name="mark_number_setting_guide_content3">Nahlásili ste číslo ako %1$s. Chcete blokovať hovory z čísel nahlásených ako %2$s?</string>
+  <string name="mark_number_setting_guide_forward">Nastavenie AntiSpam</string>
+  <string name="mark_number_setting_guide_title">Blokovať nahlásené čísla</string>
   <string name="mark_sell">Predajca</string>
   <string name="mark_sell_block">Označené ako predajca</string>
   <string name="marked_by_others">"%d ľudí označilo ako "</string>
@@ -307,17 +320,4 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
-  <string name="mark_number_agent">Agent</string>
-  <string name="mark_number_banking">Poisťovací agent</string>
-  <string name="mark_number_fraud">Otravný</string>
-  <string name="mark_number_sell">Predajca</string>
-  <string name="mark_number_setting_guide_content1">Blokovať hovory z nahlásených čísel?</string>
-  <string name="mark_number_setting_guide_content2">Automaticky blokovať hovory z čísel nahlásených inými užívateľmi</string>
-  <string name="mark_number_setting_guide_content3">Nahlásili ste číslo ako %1$s. Chcete blokovať hovory z čísel nahlásených ako %2$s?</string>
-  <string name="mark_number_setting_guide_forward">Nastavenie AntiSpam</string>
-  <string name="mark_number_setting_guide_title">Blokovať nahlásené čísla</string>
-  <string name="antispam_notificaiton_type_show_all">Všetky čísla</string>
-  <string name="antispam_notificaiton_type_show_except_blacklist">Ak nie je v čiernej listine</string>
-  <string name="antispam_notificaiton_type_show_none">Nikdy</string>
-  <string name="antispam_notification_setting_title">Upozorniť na blokovanie</string>
 </resources>

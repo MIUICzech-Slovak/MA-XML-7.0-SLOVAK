@@ -138,6 +138,10 @@
   <string name="clean_content_three">Okrem %s</string>
   <string name="clean_content_two">Vyčistiť iba %1$s a %2$s</string>
   <string name="clean_content_zero">Nie je potrebné čistenie</string>
+  <string name="cmcc_app_check_dialog_message">Reštartujte vaše zariadenie pre dokončenie opravy.</string>
+  <string name="cmcc_app_check_dialog_negative">Neskôr</string>
+  <string name="cmcc_app_check_dialog_positive">Reštartovať</string>
+  <string name="cmcc_app_check_dialog_title">Systém je opravený</string>
   <string name="confirm_auto_cleaner">OK</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Zrušiť</string>
@@ -363,8 +367,10 @@
   <string name="never">Iba raz</string>
   <string name="notification_button_text_of_low_memory">Vyčistiť</string>
   <string name="notification_summary_after_auto_cleanup">Vyčistené %s</string>
+  <string name="notification_summary_cmcc_app_check">Zobraziť podrobnosti</string>
   <string name="notification_summary_of_garbage_cleanup">Vaše nepotrebné súbory dosiahli %s</string>
   <string name="notification_summary_of_low_memory">Ak nie je dostatok miesta, aplikácie sa nenainštalujú</string>
+  <string name="notification_title_cmcc_app_check">Od poslednej kontroly: %d dní</string>
   <string name="notification_title_firewall_blocked">Blokované</string>
   <string name="notification_title_of_garbage_cleanup">Upozornenie na odpad</string>
   <string name="notification_title_of_low_memory">Systémové úložisko využité na %s</string>
@@ -622,7 +628,9 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="summary_cleaner_cloudscan">Odoslať a porovnať neznáme názvy súborov s online databázou</string>
   <string name="summary_cloud_account">Pre prístup k viac službám sa musíte prihlásiť na Xiaomi účet.</string>
   <string name="summary_cloud_service">Použiť MiCloud pre zálohovanie dát v prípade krádeže alebo zničenia zariadenia.</string>
+  <string name="summary_cmcc_app_check">Niektoré aplikácie sa nepodarilo overiť</string>
   <string name="summary_data_flow">Skontrolujte svoj objem predplatených dát a nastavte si upozornenie aby ste ich neprekročili.</string>
+  <string name="summary_default_app">%s nie je nastavené ako predvolená aplikácia</string>
   <string name="summary_delete_cache">Niektoré aplikácie vyžaduju tieto dáta pre ich správnu funkciu.</string>
   <string name="summary_delete_large_file">Niektoré veľké súbory môžu byť využívané aplikáciami v offline režime (napr. mapy, atď.). Uistite sa, že ich nepotrebujete.</string>
   <string name="summary_dev">Zabráňte aplikáciám zneužívať vaše súkromné dáta</string>
@@ -660,9 +668,11 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="title_cleaner_cloudscan">Použiť online databázu Čističa</string>
   <string name="title_cloud_account">Prihláste sa na Xiaomi účet</string>
   <string name="title_cloud_service">MiCloud je vypnutý</string>
+  <string name="title_cmcc_app_check">Overenie nie je dokončené</string>
   <string name="title_data_flow">Nastaviť upozornenie na spotrebu dát</string>
   <string name="title_data_flow_no">Kontrola spotreby dát zakázaná</string>
   <string name="title_data_flow_yes">Kontrola spotreby dát povolená</string>
+  <string name="title_default_app">MIUI %s nie je nastavené ako predvolené</string>
   <string name="title_delete_cache">Vymazať cache?</string>
   <string name="title_delete_large_file">Vymazať tieto súbory?</string>
   <string name="title_dev_no">Možnosti pre vývojárov zapnuté</string>
@@ -702,6 +712,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="toast_backup_uninstall_failed">Zálohovanie %d apl. zlyhalo. Skúste to znova neskôr.</string>
   <string name="toast_backup_uninstall_success">Záloha a odinštalácia dokončená</string>
   <string name="toast_cleaner_cloudscan">Čistiť využije online databázu</string>
+  <string name="toast_default_app">%1$s nastaviť ako predvolené pre %2$s</string>
   <string name="toast_flow_notification">Upozornenie na spotrebu dát je povolené</string>
   <string name="toast_garbage_cleanup_success">Vyčistenie dokončené</string>
   <string name="toast_garbage_lib">Automatické aktualizácie pre Čistič povolené</string>
@@ -709,6 +720,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="toast_network_eror">Chyba siete!</string>
   <string name="toast_network_switch">Povolené</string>
   <string name="toast_removed_from_white_list">" odstránené z výnimiek"</string>
+  <string name="toast_resolve_apk_error">Opraviť chybu apk</string>
   <string name="toast_root_apply_accept">ROOT práva pre %s povolené</string>
   <string name="toast_root_apply_reject">ROOT práva pre %s zakázané</string>
   <string name="toast_shortcut_install">Odkaz pridaný</string>
@@ -739,16 +751,4 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
-  <string name="summary_default_app">%s nie je nastavené ako predvolená aplikácia</string>
-  <string name="title_default_app">MIUI %s nie je nastavené ako predvolené</string>
-  <string name="toast_default_app">%1$s nastaviť ako predvolené pre %2$s</string>
-  <string name="title_cmcc_app_check">Overenie nie je dokončené</string>
-  <string name="summary_cmcc_app_check">Niektoré aplikácie sa nepodarilo overiť</string>
-  <string name="notification_title_cmcc_app_check">Od poslednej kontroly: %d dní</string>
-  <string name="notification_summary_cmcc_app_check">Zobraziť podrobnosti</string>
-  <string name="cmcc_app_check_dialog_message">Reštartujte vaše zariadenie pre dokončenie opravy.</string>
-  <string name="cmcc_app_check_dialog_negative">Neskôr</string>
-  <string name="cmcc_app_check_dialog_positive">Reštartovať</string>
-  <string name="cmcc_app_check_dialog_title">Systém je opravený</string>
-  <string name="toast_resolve_apk_error">Opraviť chybu apk</string>
 </resources>

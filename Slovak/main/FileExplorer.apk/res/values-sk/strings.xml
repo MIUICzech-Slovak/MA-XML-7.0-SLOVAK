@@ -2,6 +2,8 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="account_bind_prompt">"Migrovanie užívateľských dát. Čakajte prosím..."</string>
+  <string name="action_mode_deselect_all">Odznačiť</string>
+  <string name="action_mode_select_all">Všetko</string>
   <string name="add_task">Pridať úlohu</string>
   <string name="adding_upload_tasks">Pridávanie súborov pre odosielanie.</string>
   <string name="already_signin_description">Podpísať sa môžete len raz za 24h, skúste to opäť zajtra.</string>
@@ -14,6 +16,7 @@
   <string name="binded_accout_description">Účty sú prepojené, môžete sa prihlásiť buď Xiaomi účtom alebo MiDrive účtom</string>
   <string name="binded_accout_title">MiDrive účet</string>
   <string name="byteShort">B</string>
+  <string name="can_not_send_with_too_many">Nie je možné odoslať toľko súborov</string>
   <string name="cancel">Zrušiť</string>
   <string name="category">Kategórie</string>
   <string name="category_all">Všetko</string>
@@ -68,6 +71,7 @@
   <string name="delete_files">Vymazať vybrané súbory (%1$d)?</string>
   <string name="delete_folder">Vymazať vybranú zložku?</string>
   <string name="delete_folders">Vymazať vybrané zložky (%1$d)?</string>
+  <string name="delete_selected_tasks">Vymazať vybrané?</string>
   <string name="des_running_trans">Ešte %1$d súborov je potrebných preniesť</string>
   <string name="dialog_select_type">Zvoľte typ súboru</string>
   <string name="dialog_type_audio">Zvuk</string>
@@ -101,6 +105,7 @@
   <string name="file_loading">Nahrávam...</string>
   <string name="file_not_exist">Súbor neexistuje</string>
   <string name="file_too_large">Súbor je príliš veľký</string>
+  <string name="files">Súbory</string>
   <string name="finished">Dokončené</string>
   <string name="folder_exist">Zložka už existuje</string>
   <string name="folder_name_illegal">Chybný názov zložky</string>
@@ -116,18 +121,33 @@
   <string name="ftp_username_hint">Meno</string>
   <string name="gbk_summary">Predvolené kódovanie pre Windows s tradičnou čínštinou</string>
   <string name="gbk_title">GBK</string>
+  <string name="get_cloud_space">Pridať 500GB</string>
   <string name="gigabyteShort">GB</string>
   <string name="image_download">Stiahnuť</string>
   <string name="image_share">Zdieľať</string>
   <string name="instruction">Zadajte v adresnom riadku prehliadača v PC:</string>
   <string name="instruction_pre">Slúži k prenosu súborov medzi telefónom a PC pomocou FTP protokolu.</string>
   <string name="kilobyteShort">KB</string>
+  <string name="kp_category_all">Kategória</string>
+  <string name="kp_category_doc">Word</string>
+  <string name="kp_category_excel">Excel</string>
+  <string name="kp_category_pdf">PDF</string>
+  <string name="kp_category_ppt">PowerPoint</string>
+  <string name="kp_category_txt">Text</string>
+  <string name="kuaipan_cloud_photo">MiDrive fotografie</string>
+  <string name="kuaipan_create_shortcut_success">Odkaz vytvorený</string>
+  <string name="kuaipan_data_formater_with_year">d.M.YYYY</string>
+  <string name="kuaipan_data_formater_without_year">d.M.</string>
+  <string name="kuaipan_delete_guide_des">Vymazať užívateľský manuál?</string>
+  <string name="kuaipan_delete_success">Vymazané</string>
   <string name="kuaipan_label">MiDrive</string>
   <string name="kuaipan_over_space">Váš MiDrive už nemá voľné miesto.</string>
+  <string name="kuaipan_photo_locate">Nájdené %1$s</string>
   <string name="kuaipan_prompt">MiDrive Pomoc</string>
   <string name="kuaipan_prompt_message">"
 Server je momentálne nedostupný, skúste to opäť neskôr
 "</string>
+  <string name="kuaipan_root_fooder">Domov</string>
   <string name="kuaipan_tech_support">Poskytuje Kingsoft Kuaipan</string>
   <string name="load_err">Načítavanie zlyhalo</string>
   <string name="loading">Načítavam...</string>
@@ -185,6 +205,7 @@ Server je momentálne nedostupný, skúste to opäť neskôr
   <string name="never_notify_network_connect">Viac sa nepýtať</string>
   <string name="new_folder_name">Nová zložka</string>
   <string name="no">Nie</string>
+  <string name="no_display_file">Nie je možné zobraziť %1$s</string>
   <string name="no_enough_storage_indication">Nie je dostatok miesta na úložisku. Vymažte nepotrené súbory a skúste to znova alebo použite Čistenie nepotrebných súborov.</string>
   <string name="no_enough_storage_title">Nie je dostatok miesta</string>
   <string name="no_file">Žiadne súbory</string>
@@ -326,25 +347,4 @@ Získali ste ďalších %1$s"</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
   <string name="yes">Áno</string>
-  <string name="delete_selected_tasks">Vymazať vybrané?</string>
-  <string name="files">Súbory</string>
-  <string name="get_cloud_space">Pridať 500GB</string>
-  <string name="kp_category_all">Kategória</string>
-  <string name="kp_category_doc">Word</string>
-  <string name="kp_category_excel">Excel</string>
-  <string name="kp_category_pdf">PDF</string>
-  <string name="kp_category_ppt">PowerPoint</string>
-  <string name="kp_category_txt">Text</string>
-  <string name="kuaipan_cloud_photo">MiDrive fotografie</string>
-  <string name="kuaipan_create_shortcut_success">Odkaz vytvorený</string>
-  <string name="kuaipan_data_formater_with_year">d.M.YYYY</string>
-  <string name="kuaipan_data_formater_without_year">d.M.</string>
-  <string name="kuaipan_delete_success">Vymazané</string>
-  <string name="kuaipan_photo_locate">Nájdené %1$s</string>
-  <string name="kuaipan_root_fooder">Domov</string>
-  <string name="no_display_file">Nie je možné zobraziť %1$s</string>
-  <string name="action_mode_deselect_all">Odznačiť</string>
-  <string name="action_mode_select_all">Všetko</string>
-  <string name="can_not_send_with_too_many">Nie je možné odoslať toľko súborov</string>
-  <string name="kuaipan_delete_guide_des">Vymazať užívateľský manuál?</string>
 </resources>

@@ -1,4 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="_8mmfilm">8mm film</string>
   <string name="abnormal_sw_file">Nastala neznáma chyba, skúste to znova.</string>
@@ -24,16 +25,20 @@
   <string name="buzzer_volume_mute">Vypnuté</string>
   <string name="camera_firmware_upgrade">Aktualizácia FW</string>
   <string name="camera_firmware_v">Verzia FW kamery</string>
+  <string name="camera_start_fw_update">Aktualizácia</string>
+  <string name="camera_start_usb_storage_mode">Kamera je prepnutá do USB režimu</string>
   <string name="can_not_piv">Fotografovanie je dostupné len počas nahrávania.</string>
   <string name="can_not_piv_in_current_resolution">Súčasné rozlíšenie nie je podporované.</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancle_share_message">Ukončiť zdieľanie a pripojiť kameru.</string>
   <string name="cant_start_session_failed_solution">Súčasná kamera je pripojená k inému telefónu.</string>
   <string name="capture">Fotka</string>
+  <string name="check_failed">Kontrola zlyhala, skontrolujte nastavenie siete.</string>
   <string name="check_image_to_login">Dotknite sa obrázka</string>
   <string name="check_new_version">Kontrola novej verzie...</string>
   <string name="cloud_photo_album">Cloud album</string>
   <string name="confirm">OK</string>
+  <string name="connect_camera_first">Nenašli sa informácie o verzii FW, pripojte kameru.</string>
   <string name="connecting">Pripájanie...</string>
   <string name="cont_pic">Dávka</string>
   <string name="current_file_already_downloaded">Súbor je už stiahnutý</string>
@@ -82,17 +87,20 @@
   <string name="find_new_sw">Dostupný nový firmware</string>
   <string name="firmware_download_failed">Sťahovanie zlyhalo.</string>
   <string name="firmware_in_downloading">Sťahovanie aktualizácie FW...</string>
+  <string name="firmware_update_info">Verzia FW</string>
   <string name="firmware_upgrade_download_firmware">Sťahovanie aktualizácie FW...</string>
   <string name="firmware_upgrade_message">Chcete stiahnuť nový firmware?</string>
   <string name="firmware_upgrade_switch_wifi">Prepínanie Wi-Fi nastavení...</string>
   <string name="firmware_upgrade_tip">Neodpojujte váš telefón od Wi-Fi siete počas aktualizácie. Po dokončení reštartujte kameru a počkajte kým nedokončí inštaláciu.</string>
   <string name="firmware_upgrade_title">Nová verzia FW</string>
+  <string name="firmware_version_synchronize_complete">Najnovšia verzia FW:</string>
   <string name="flickr">Flickr</string>
   <string name="format_sdcard_msg">Chcete formátovať SD kartu?</string>
   <string name="format_sdcard_title">Formátovať</string>
   <string name="foursquare">FourSquare</string>
   <string name="generate_GIF">GIF</string>
   <string name="generate_MP4">MP4</string>
+  <string name="get_latest_firmeware_info">Kontrola firmwaru...</string>
   <string name="get_sd_card_info_failed">Chyba načítavania SD karty.</string>
   <string name="get_setting">Načítavanie...</string>
   <string name="gif_format">GIF formát</string>
@@ -145,6 +153,7 @@
   <string name="kakaotalk">KakaoTalk</string>
   <string name="kakaotalk_client_inavailable">KakaoTalk nie je nainštalovaný</string>
   <string name="keep_cont_pic">Pokračovať</string>
+  <string name="latest_firmware_downloaded">Je dostupná nová verzia FW, pripojte kameru.</string>
   <string name="led_all_disable">Zakázať všetky</string>
   <string name="led_all_enable">Povoliť všetky</string>
   <string name="led_status_enable">Len svietiť</string>
@@ -295,6 +304,7 @@
   <string name="send_feedback_fail">Odosielanie zlyhalo.</string>
   <string name="send_feedback_success">Ďakujeme!</string>
   <string name="sepia">Sepia</string>
+  <string name="set_auto">Auto</string>
   <string name="set_camera_clock_message">Chcete nastaviť váš čas na telefóne?</string>
   <string name="set_camera_clock_title">Hodiny kamery</string>
   <string name="set_failed">Aktualizácia nastavení zlyhala.</string>
@@ -311,8 +321,11 @@
   <string name="setting_camera">Kamera</string>
   <string name="setting_camera_clock">Čas kamery</string>
   <string name="setting_capture_default_mode">Predvolený režim</string>
+  <string name="setting_check_firmware">Skontrolovať verziu FW</string>
+  <string name="setting_cloud_album">Cloud album</string>
   <string name="setting_common_problem">FAQ</string>
   <string name="setting_device">Zariadenie</string>
+  <string name="setting_emergency_file_backup">Záloha v núdzovej situácií</string>
   <string name="setting_failed">Aktualizácia nastavení zlyhala.</string>
   <string name="setting_feedback">Spätná väzba</string>
   <string name="setting_hw_version">Model</string>
@@ -330,12 +343,14 @@
   <string name="setting_start_wifi_while_booted">Automaticky spustiť Wi-Fi po zapnutí</string>
   <string name="setting_sw_version">Verzia FW</string>
   <string name="setting_system_default_mode">Predvolený režim po spustení</string>
+  <string name="setting_timeout">Timeout</string>
   <string name="setting_unsupported_resolution">Súčasné rozlíšenie nepodporuje automatické prepnutie na nočný režim.</string>
   <string name="setting_user_guide">Príručka</string>
   <string name="setting_video">Video</string>
   <string name="setting_video_output_status">AV výstup</string>
   <string name="setting_video_quality">Kvalita</string>
   <string name="setting_video_resolution">Rozlíšenie</string>
+  <string name="setting_video_rotate">Otočiť video</string>
   <string name="setting_video_standard">Štandard</string>
   <string name="setting_video_time_stamp">Časový vodoznak</string>
   <string name="setting_warp_enable">Korekcia šošovky</string>
@@ -473,6 +488,7 @@ telefónu"</string>
   <string name="weibo_upload_content">share picture</string>
   <string name="whatsapp">WhatsApp</string>
   <string name="whatsapp_client_inavailable">WhatsApp nie je nainštalovaný</string>
+  <string name="wifi_authenticate_failed">Zadané heslo Wi-Fi siete nie je správne</string>
   <string name="wifi_connect_failed">Odpojené</string>
   <string name="wifi_connect_failed_solution">Skontrolujte či váš telefón je pripojený ku kamere. Wi-Fi LED bude blikať.</string>
   <string name="wifi_invalidate_password">Wi-Fi heslo nie je správne.</string>
@@ -494,19 +510,4 @@ Veľkosť: %2$s"</string>
   <string name="yixin_client_inavailable">Yixin nie je nainštalovaný</string>
   <string name="yixinmoments">Yixin Moments</string>
   <string name="youdao">Youdao</string>
-  <string name="camera_start_fw_update">Aktualizácia</string>
-  <string name="camera_start_usb_storage_mode">Kamera je prepnutá do USB režimu</string>
-  <string name="setting_cloud_album">Cloud album</string>
-  <string name="setting_timeout">Timeout</string>
-  <string name="wifi_authenticate_failed">Zadané heslo Wi-Fi siete nie je správne</string>
-  <string name="setting_video_rotate">Otočiť video</string>
-  <string name="setting_emergency_file_backup">Záloha v núdzovej situácií</string>
-  <string name="setting_check_firmware">Skontrolovať verziu FW</string>
-  <string name="set_auto">Auto</string>
-  <string name="latest_firmware_downloaded">Je dostupná nová verzia FW, pripojte kameru.</string>
-  <string name="get_latest_firmeware_info">Kontrola firmwaru...</string>
-  <string name="firmware_version_synchronize_complete">Najnovšia verzia FW:</string>
-  <string name="firmware_update_info">Verzia FW</string>
-  <string name="connect_camera_first">Nenašli sa informácie o verzii FW, pripojte kameru.</string>
-  <string name="check_failed">Kontrola zlyhala, skontrolujte nastavenie siete.</string>
 </resources>

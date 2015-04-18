@@ -39,6 +39,7 @@
   <string name="account_user_name">Meno</string>
   <string name="account_user_name_dialog_title">Zadajte užívateľské meno</string>
   <string name="account_user_phone">Telefónné číslo</string>
+  <string name="account_user_using_facebook_avatar">Použiť obrázok z Facebooku</string>
   <string name="account_user_using_qq_avatar">Použiť obrázok z QQ</string>
   <string name="account_user_using_weibo_avatar">Použiť obrázok z Weibo</string>
   <string name="account_xiaomi_service">Služby</string>
@@ -225,6 +226,7 @@
   <string name="logout_failed">Odhlásenie zlyhalo</string>
   <string name="mi_account_dspt_provision">Prihláste sa do MiCloud, Obchodu s témami a mnoho iných služieb Xiaomi s jednym účtom.</string>
   <string name="mi_service">Podpora</string>
+  <string name="mi_support_service">Podpora</string>
   <string name="mibi_balance">MiKreditov: %s</string>
   <string name="micloud_account">Xiaomi</string>
   <string name="micloud_account_details">Podrobnosti</string>
@@ -271,6 +273,7 @@ Môžete ďalej pracovať s Vaším telefónom..."</string>
   <string name="micloud_sync_info">Nesynchr.: %d</string>
   <string name="micloud_sync_info_synced">Všetko je synchr.</string>
   <string name="micloud_sync_state_need_wifi">Použiť Wi-Fi pre synchr.</string>
+  <string name="micloud_sync_state_pending">V poradí</string>
   <string name="micloud_sync_state_stop">Zastavené</string>
   <string name="micloud_sync_state_synced">Synchronizované</string>
   <string name="micloud_sync_state_syncing">Synchronizuje</string>
@@ -490,6 +493,7 @@ Skontrolujte aj SPAM."</string>
   <string name="skip_register">Preskočiť</string>
   <string name="skip_setup_account_msg">Svoj účet môžete nastaviť aj neskôr v Nastaveniach telefónu.</string>
   <string name="skip_setup_account_title">Preskočiť nastavenie účtu</string>
+  <string name="sns_access_token_expired_warning">Prihlásenie k účtu vypršalo. Prihláste sa znovu.</string>
   <string name="sync_off">Vyp</string>
   <string name="sync_on">Zap</string>
   <string name="theme_store">MIUI Témy</string>
@@ -514,6 +518,8 @@ s "</string>
   <string name="user_agreement_p5">"Prihlásením sa, súhlasíte 
 s "</string>
   <string name="user_agreement_p6">"Súhlas s "</string>
+  <string name="user_avatar_update_title">Aktualizovať profilovú fotografiu</string>
+  <string name="user_avatar_uploading">Nahrávanie...</string>
   <string name="vcode">Overovací kód</string>
   <string name="vcode_notification_title">Overenie prihlásenia nie je úplné</string>
   <string name="vcode_prompt_long">Zadajte overovací kód vygenerovaný Xiaomi</string>
@@ -525,10 +531,4 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
-  <string name="account_user_using_facebook_avatar">Použiť obrázok z Facebooku</string>
-  <string name="sns_access_token_expired_warning">Prihlásenie k účtu vypršalo. Prihláste sa znovu.</string>
-  <string name="user_avatar_update_title">Aktualizovať profilovú fotografiu</string>
-  <string name="user_avatar_uploading">Nahrávanie...</string>
-  <string name="mi_support_service">Podpora</string>
-  <string name="micloud_sync_state_pending">V poradí</string>
 </resources>

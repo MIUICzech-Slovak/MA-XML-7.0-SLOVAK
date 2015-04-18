@@ -389,6 +389,7 @@ Chyba: \"%s\""</string>
   <string name="favoritesFrequentContacted">Často kontaktovaní</string>
   <string name="favorites_list_empty">Žiadne obľúbené</string>
   <string name="firewall_setting">Zoznam Blokovaných</string>
+  <string name="followed_yellowpage">Overené účty</string>
   <string name="foundTooManyContacts">Nájdených viac ako %d</string>
   <string name="frequentList">Často používané</string>
   <string name="from_account_format">%1$s</string>
@@ -941,6 +942,7 @@ Synchronizujte ich teraz."</string>
   <string name="resource_share_text">Tu je téma pre MIUI ktorá sa ti môže páčiť: %1$s! Adresa: %2$s</string>
   <string name="resource_share_title">Zdieľať</string>
   <string name="resource_system_title">Systémové zdroje</string>
+  <string name="resource_tab_to_view">Zobraziť</string>
   <string name="resource_tip_select_none">Žiadne</string>
   <string name="resource_tip_select_ringtone">Žiadne vybrané</string>
   <string name="resource_title">Podrobnosti</string>
@@ -1160,6 +1162,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowPageNavigationLabel">Zlaté stránky</string>
   <string name="yellowpage_navigation_clear_search_history">Vyčistiť históriu</string>
   <string name="yellowpage_navigation_more_items">Viac</string>
+  <string name="yellowpage_navigation_more_items_title">Viac služieb</string>
   <string name="yellowpage_navigation_network_location_enable">Povoliť</string>
   <string name="yellowpage_navigation_network_location_enable_later">Neskôr</string>
   <string name="yellowpage_navigation_network_location_enabled">Služba je povolená, môžete ju deaktivovať v nastaveniach polohy</string>
@@ -1167,6 +1170,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_network_location_not_enabled_title">Povoliť polohu podľa siete</string>
   <string name="yellowpage_navigation_no_content">Nič sa nenašlo</string>
   <string name="yellowpage_navigation_search_city_name_hint">Mesto</string>
+  <string name="yellowpage_navigation_search_history">História</string>
   <string name="yellowpage_navigation_search_offline_hint">Žiadne pripojenie</string>
   <string name="yellowpage_navigation_search_result_network_error">"Nie je možné sa pripojiť k sieti"</string>
   <string name="yellowpage_navigation_search_result_no_more">Nič viac</string>
@@ -1179,8 +1183,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v zozname</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="yellowpage_navigation_search_history">História</string>
-  <string name="resource_tab_to_view">Zobraziť</string>
-  <string name="followed_yellowpage">Overené účty</string>
-  <string name="yellowpage_navigation_more_items_title">Viac služieb</string>
 </resources>

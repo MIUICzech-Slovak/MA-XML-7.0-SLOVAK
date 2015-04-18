@@ -24,6 +24,7 @@
   <string name="acessibility_cal_notification">Oznámenie kalendára</string>
   <string name="acessibility_selected_marker_description">Vybrané udalosti</string>
   <string name="acessibility_snooze_notification">Stlmiť upozornenia</string>
+  <string name="action_label">Ďalej</string>
   <string name="action_text_new_event">Nová udalosť</string>
   <string name="action_text_online">Online</string>
   <string name="action_text_today">Dnes</string>
@@ -278,6 +279,11 @@
   <string name="snooze_all_label">Odložiť všetko</string>
   <string name="snooze_label">Stlmiť</string>
   <string name="subscribe_all">Prihlásiť</string>
+  <string name="sync_notice_cancel_toast_message">Lokálne uložené udalosti nebudú synchronizované s MiCloud</string>
+  <string name="sync_notice_message">Nemáte synchronizovaný kalendár s MiCloud. Chcete povoliť synchr.?</string>
+  <string name="sync_notice_ok">Povoliť</string>
+  <string name="sync_notice_ok_toast_message">Lokálne uložené udalosti budú synchronizované s MiCloud</string>
+  <string name="sync_notice_title">Synchronizácia</string>
   <string name="synced">synchronizovaný</string>
   <string name="tab_local">Lokálne</string>
   <string name="tab_online">Online</string>
@@ -312,10 +318,4 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="sync_notice_cancel_toast_message">Lokálne uložené udalosti nebudú synchronizované s MiCloud</string>
-  <string name="sync_notice_message">Nemáte synchronizovaný kalendár s MiCloud. Chcete povoliť synchr.?</string>
-  <string name="sync_notice_ok">Povoliť</string>
-  <string name="sync_notice_ok_toast_message">Lokálne uložené udalosti budú synchronizované s MiCloud</string>
-  <string name="sync_notice_title">Synchronizácia</string>
-  <string name="action_label">Ďalej</string>
 </resources>

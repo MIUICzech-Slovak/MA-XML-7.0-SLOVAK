@@ -118,6 +118,7 @@
   <string name="mione_update_fail_description">Prosím aktualizujte znova</string>
   <string name="mione_update_fail_title">Aktualizácia sa nepodarila</string>
   <string name="mione_update_success_title">Aktualizované</string>
+  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;MIUI fórum&lt;/a&gt;" "</string>
   <string name="miui_summary_has_new_version">" Je dostupná nová verzia  "</string>
   <string name="miui_summary_no_new_version">"Nie je dostupná nová verzia. 
    Navštívte miuios.cz/rom"</string>
@@ -170,17 +171,24 @@
   <string name="now">Teraz</string>
   <string name="on_checking">Kontrola aktualizácií</string>
   <string name="open_now">Povoliť</string>
+  <string name="particular_build">Špeciálny</string>
   <string name="pause">Zastaviť</string>
   <string name="paused_queued_for_network">Čakanie na internetové pripojenie</string>
   <string name="paused_queued_for_wifi">Čakanie na Wi-Fi pripojenie</string>
   <string name="previous">Späť</string>
   <string name="progress_title_checking">Kontrola aktualizácií...</string>
+  <string name="reboot">Reštart</string>
   <string name="reboot_later">Neskôr</string>
   <string name="reboot_now">Teraz</string>
   <string name="reboot_to_new_system">Reštartovať do novej verzie</string>
   <string name="recommend">Odporučiť</string>
   <string name="recommend_comment_hint">Dôvod po anglicky (voliteľné)</string>
   <string name="recommend_vote_title">MIUI Beta Team Poll</string>
+  <string name="recovery_failed_button">OK</string>
+  <string name="recovery_failed_msg">"Vaše zariadenie nemá dostatok voľného miesta pre nainštalovanie aktualizácie. 
+Navštívte www.miuios.cz/rom (MIUIv6) pre viac informácií."</string>
+  <string name="recovery_failed_notification_msg">Nie je možné spustit MiRecovery</string>
+  <string name="recovery_failed_title">Aktualizácia zlyhala</string>
   <string name="refuse_recommend_reason">Prosím vyplňte dôvod</string>
   <string name="repeat">Znova</string>
   <string name="sdcard_has_no_space_dialog_body">Na SD karte nie je dostatok voľného miesta, uvoľníte ho a aktualizujte znova</string>
@@ -274,18 +282,6 @@ Svoj názor môžte odoslať každý utorok"</string>
   <string name="verify_and_apply_dialog_title">Kontrola integrity dát</string>
   <string name="view_install_log">Zobraziť záznam</string>
   <string name="view_upgrade_tutorial">Pozrieť návod</string>
-  <string name="weekly_build">Týždenná verzia</string>
-  <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
-  <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
-  <string name="worst_update">Najhoršia aktualizácia</string>
-  <string name="recovery_failed_button">OK</string>
-  <string name="recovery_failed_msg">"Vaše zariadenie nemá dostatok voľného miesta pre nainštalovanie aktualizácie. 
-Navštívte www.miuios.cz/rom (MIUIv6) pre viac informácií."</string>
-  <string name="recovery_failed_notification_msg">Nie je možné spustit MiRecovery</string>
-  <string name="recovery_failed_title">Aktualizácia zlyhala</string>
-  <string name="particular_build">Špeciálny</string>
-  <string name="reboot">Reštart</string>
-  <string name="miui_BBS">" "&lt;a href="http://bbs.miui.com"&gt;MIUI fórum&lt;/a&gt;" "</string>
   <string name="vote_beta">Beta Feedback Program</string>
   <string name="vote_error1">"Zrejme nie ste člen 
 BETA Feedback Programu"</string>
@@ -303,4 +299,8 @@ Nie je možné odoslať váš názor"</string>
   <string name="vote_not_recommend">Neodporúčam túto verziu MIUI</string>
   <string name="vote_recommend">Odporúčam túto verziu MIUI</string>
   <string name="vote_submit">Odoslať</string>
+  <string name="weekly_build">Týždenná verzia</string>
+  <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
+  <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
+  <string name="worst_update">Najhoršia aktualizácia</string>
 </resources>

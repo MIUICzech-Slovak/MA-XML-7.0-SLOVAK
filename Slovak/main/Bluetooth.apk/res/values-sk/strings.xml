@@ -3,6 +3,7 @@
 <resources>
   <string name="ErrorTooManyRequests">Spracúva sa príliš veľa žiadostí. Opakujte akciu neskôr.</string>
   <string name="ack_record">Záznam ACK</string>
+  <string name="airplane_can_not_share">V režime Lietadlo nie je možné použiť Bluetooth pre zdieľanie súborov.</string>
   <string name="airplane_error_msg">Technológiu Bluetooth nemôžete používať v režime V lietadle.</string>
   <string name="airplane_error_title">Režim V lietadle</string>
   <string name="app_name">Zdieľanie Bluetooth</string>
@@ -13,6 +14,7 @@
   <string name="ble_device_profile_header_title">Profily</string>
   <string name="ble_device_profile_title">Pripojené BLE zariadenie</string>
   <string name="ble_device_unbind">Vymazať nastavenia</string>
+  <string name="bluetooth_in_airplane_mode">V režime Lietadlo</string>
   <string name="bluetooth_preference_connected_devices">Pripojené zariadenia</string>
   <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>
   <string name="bluetooth_preference_scan_title">Vyhľadať zariadenie</string>
@@ -72,6 +74,9 @@
   <string name="incoming_file_confirm_timeout_ok">OK</string>
   <string name="incoming_file_confirm_title">Prenos súborov</string>
   <string name="incoming_file_toast_msg">Potvrďte príjem súboru prichádzajúceho z iného zariadenia.</string>
+  <string name="incoming_line1">Od</string>
+  <string name="incoming_line2">Názov súboru</string>
+  <string name="incoming_line3">Veľkosť</string>
   <string name="insert_record">Vložiť záznam</string>
   <string name="localPhoneName">Moje meno</string>
   <string name="map_datasource_mms_name">MMS</string>
@@ -172,16 +177,11 @@
   <string name="upload_fail_line1">Súbor nebol odoslaný používateľovi „%1$s“.</string>
   <string name="upload_fail_line1_2">Súbor: %1$s</string>
   <string name="upload_fail_ok">Skúsiť znova</string>
+  <string name="upload_fail_waiting">Pripravuje sa súbor na odoslanie.</string>
   <string name="upload_line1">Komu: „%1$s“</string>
   <string name="upload_line3">Typ súboru: %1$s (%2$s)</string>
   <string name="upload_line5">Odosielanie súboru...</string>
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
-  <string name="airplane_can_not_share">V režime Lietadlo nie je možné použiť Bluetooth pre zdieľanie súborov.</string>
-  <string name="bluetooth_in_airplane_mode">V režime Lietadlo</string>
-  <string name="incoming_line1">Od</string>
-  <string name="incoming_line2">Názov súboru</string>
-  <string name="incoming_line3">Veľkosť</string>
-  <string name="upload_fail_waiting">Pripravuje sa súbor na odoslanie.</string>
 </resources>

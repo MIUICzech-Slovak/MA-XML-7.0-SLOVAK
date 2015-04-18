@@ -3,6 +3,7 @@
 <resources>
   <string name="about_smart_antispam_summary">Rozpoznať inteligentne neznáme čísla</string>
   <string name="about_telephone_fraud">Vyvarovať sa obťažovaniu</string>
+  <string name="account_yellowpage_followed">Overené účty</string>
   <string name="agree">Súhlasím</string>
   <string name="all_numbers">Všetky čísla</string>
   <string name="app_label">Zlaté stránky</string>
@@ -73,6 +74,7 @@
   <string name="express_inquiry_internal_failure">"Error occurred.
 Please check tracking number"</string>
   <string name="express_inquiry_logistics_indication">Courier company</string>
+  <string name="express_inquiry_logistics_prefix">Kuriérska služba: %s</string>
   <string name="express_inquiry_no_history">No history</string>
   <string name="express_inquiry_no_result">Žiadne výsledky.</string>
   <string name="express_inquiry_serial_number_indication">Tracking number</string>
@@ -188,6 +190,4 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
-  <string name="account_yellowpage_followed">Overené účty</string>
-  <string name="express_inquiry_logistics_prefix">Kuriérska služba: %s</string>
 </resources>

@@ -72,6 +72,7 @@
   <string name="menu_copy">Kopírovať</string>
   <string name="menu_discard">Zrušiť</string>
   <string name="menu_send">Odoslať hlásenie</string>
+  <string name="network_disconnected">Žiadna sieť</string>
   <string name="network_err">Nie je možné sa pripojiť na sieť. Skúste to znova neskôr.</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
   <string name="network_unavailable_dialog_content">Hlásená chyba bude odoslaná ked sa pripojíte na sieť</string>
@@ -103,6 +104,7 @@
   <string name="submit_dialog_cancel">Zrušiť</string>
   <string name="submit_dialog_confirm">Odoslať</string>
   <string name="submit_dialog_content">Vaše hlásenie bude odoslané na server Xiaomi.</string>
+  <string name="submit_dialog_not_wifi_content">Vaše hlásenie bude odoslané na server Xiaomi keď sa pripojíte na Wi-Fi.</string>
   <string name="submit_dialog_title">Odoslať hlásenie</string>
   <string name="suggestion_description">Napíšte svoj návrh na novú funkciu (v angličtine)...</string>
   <string name="suggestion_problem1">Dúfam, že pridáte túto funkciu lebo...</string>
@@ -113,11 +115,13 @@
   <string name="title_nonsystem_app">Iné apl.</string>
   <string name="title_system_app">MIUI apl.</string>
   <string name="toast_description_required">Popis je povinný!</string>
+  <string name="toast_feedback_collect_store">Vytváranie záznamu...</string>
   <string name="toast_feedback_network_unavailable">Nie je možné sa pripojiť k sieti</string>
   <string name="toast_feedback_pending_wlan">Hlásená chyba bude odoslaná ked sa pripojíte na Wi-Fi</string>
   <string name="toast_feedback_submitted">Hlásenie chyby bolo úspešne odoslané</string>
   <string name="toast_feedback_submitting">Odosielanie...</string>
   <string name="toast_feedbackservice_in_submit">Odosielanie staršieho hlásenia...</string>
+  <string name="toast_fill_brackets">Vyplňte v zátvorkách</string>
   <string name="toast_network_unavailable">Nie je možné odoslať. Pripojte sa k sieti.</string>
   <string name="toast_pending_log_collection">Zhromažďovanie záznamov, čakajte prosím</string>
   <string name="toast_report_copied_to_clipboard">Report skopírovaný do schránky</string>
@@ -133,8 +137,4 @@
   <string name="wlan_unavailable_dialog_button_sent">Odoslať okamžite</string>
   <string name="wlan_unavailable_dialog_content">Odošle sa %s cez 2G/3G dáta, stlačte OK na odoslanie cez sieť Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
-  <string name="submit_dialog_not_wifi_content">Vaše hlásenie bude odoslané na server Xiaomi keď sa pripojíte na Wi-Fi.</string>
-  <string name="toast_feedback_collect_store">Vytváranie záznamu...</string>
-  <string name="network_disconnected">Žiadna sieť</string>
-  <string name="toast_fill_brackets">Vyplňte v zátvorkách</string>
 </resources>

@@ -67,6 +67,7 @@
   <string name="gift_purchased_list_empty_with_received_list_empty">Žiadne dary</string>
   <string name="gift_received_endnote">Od: %1$s (prijaté %2$s)</string>
   <string name="gift_received_list_empty">Nedostali ste žiadne dary</string>
+  <string name="gift_received_notification_title">%s vám daroval tému.</string>
   <string name="gift_share">Zdieľať</string>
   <string name="gift_transfer">Prenos</string>
   <string name="gift_unbind_fail_dlg_title">Nie je možné vygenerovať kód</string>
@@ -240,6 +241,8 @@
   <string name="resource_share_text">Tu je téma pre MIUI ktorá sa ti môže páčiť: %1$s! Adresa: %2$s</string>
   <string name="resource_share_title">Zdieľať</string>
   <string name="resource_system_title">Systémové zdroje</string>
+  <string name="resource_tab_to_view">Zobraziť.</string>
+  <string name="resource_tip_select_none">Žiadne</string>
   <string name="resource_tip_select_ringtone">Žiadne vybrané</string>
   <string name="resource_title">Podrobnosti</string>
   <string name="resource_title_category">Kategórie</string>
@@ -343,7 +346,4 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
-  <string name="gift_received_notification_title">%s vám daroval tému.</string>
-  <string name="resource_tab_to_view">Zobraziť.</string>
-  <string name="resource_tip_select_none">Žiadne</string>
 </resources>
