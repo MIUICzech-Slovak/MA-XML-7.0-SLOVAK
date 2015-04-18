@@ -40,7 +40,7 @@
     },
 
     "weight" : {
-        "enable" : false
+        "enable" : true
     }, 
 
     "log" : {
