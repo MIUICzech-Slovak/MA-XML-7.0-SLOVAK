@@ -84,9 +84,9 @@ Súhlas: %2$s"</string>
   <string name="bind_bracelet_ok">MiBand je pripojený</string>
   <string name="bind_devices">Prepojiť zariadenia</string>
   <string name="bind_mi_band">Pripojiť MiBand</string>
-  <string name="bind_mi_band_about">http://www.miuios.cz/miband</string>
+  <string name="bind_mi_band_about">http://www.miuios.cz/mifit</string>
   <string name="bind_mi_weight">Prepojiť s váhou</string>
-  <string name="bind_mi_weight_about">http://www.mi.com</string>
+  <string name="bind_mi_weight_about">http://www.miuios.cz/mifit</string>
   <string name="bind_mi_weight_howto">Ako na to</string>
   <string name="bind_mi_weight_howto_tips">Ako používať Váhu</string>
   <string name="bind_new_mili">Pripojiť nový MiBand</string>
@@ -133,7 +133,7 @@ Podmienky používania: %2$s"</string>
 Adresa: %2$s"</string>
   <string name="bracelet_login_info">Prihláste sa svojim Xiaomi účtom</string>
   <string name="bracelet_login_info_2">"Prihlásením sa súhlasíte s "</string>
-  <string name="bracelet_login_title">Vitajte v MiBand</string>
+  <string name="bracelet_login_title">Vitajte v MiFit</string>
   <string name="bracelet_not_connected_bat_unknown">MiBand nie je pripojený.</string>
   <string name="bracelet_not_found_info">Keď bliká LED, skúste ho vyhľadať znova.</string>
   <string name="bracelet_not_found_title">MiBand sa nenašiel</string>
@@ -276,7 +276,7 @@ Dosiahli ste svoj cieľ."</string>
   <string name="dynamic_title_step">Dnes</string>
   <string name="dynamic_title_weight">Váha</string>
   <string name="dynamic_title_weight_not_nearby">Weight not nearby</string>
-  <string name="dynamic_title_weight_unbind">Odpojiť váhu</string>
+  <string name="dynamic_title_weight_unbind">Odpojená váha</string>
   <string name="enable_debug_log">Debug log active</string>
   <string name="enable_hidden_feature">Skrytá aktivita aktivovaná</string>
   <string name="equal_last_time">Hmotnosť sa nezmenila</string>
@@ -729,7 +729,7 @@ Pokračujte!"</string>
   <string name="search_weight_scale">Vyhľadať Váhu</string>
   <string name="search_weight_scale_info">Stojte v blízkosti Váhy</string>
   <string name="second">" sekundách"</string>
-  <string name="select_devices">Vybrať zariadenie</string>
+  <string name="select_devices">Vyberte zariadenie</string>
   <string name="select_devices_info">Vyberte Xiaomi zariadenie</string>
   <string name="select_from_camera">Fotoaparát</string>
   <string name="select_from_local">Galéria</string>
