@@ -76,4 +76,14 @@
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
+  <string name="share_btn_cancel">Zrušiť</string>
+  <string name="share_btn_confirm">Zdieľať</string>
+  <string name="share_button">Zdieľať</string>
+  <string name="share_menu_title">Zdieľať</string>
+  <string name="share_subject">Zdieľať</string>
+  <string name="share_title">Zdieľať stav počasia</string>
+  <string name="share_weather_desc">\#MIUI Počasie# Dnes %1$s %2$s</string>
+  <string name="share_weather_desc_alert">%1$s%2$s</string>
+  <string name="share_weather_desc_split">,</string>
+  <string name="share_weather_save_pic_fail">Nie je možné zhotoviť screenshot</string>
 </resources>
