@@ -17,7 +17,7 @@
   <string name="action_pingpong">Ping-pong</string>
   <string name="action_pop_about">Informácie</string>
   <string name="action_pop_lab">Fitness centrum</string>
-  <string name="action_pop_my_bracelet">Môj MiBand</string>
+  <string name="action_pop_my_bracelet">Moje zariadenia</string>
   <string name="action_pop_person_info">Môj profil</string>
   <string name="action_pop_sensorhub">Senzory</string>
   <string name="action_pop_service">Služby</string>
