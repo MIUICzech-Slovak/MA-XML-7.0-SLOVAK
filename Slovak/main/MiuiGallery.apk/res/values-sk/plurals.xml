@@ -67,6 +67,6 @@
     </plurals>
     <plurals name="more_face">
         <item quantity="other">%1$s nové tváre môžu patriť %2$s >></item>
-        <item quantity="one">%1$s nová tvár môžu patriť %2$s %2$s >></item>
+        <item quantity="one">%1$s nová tvár môže patriť %2$s >></item>
     </plurals>
 </resources>
