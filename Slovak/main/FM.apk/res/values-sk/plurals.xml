@@ -8,5 +8,9 @@
         <item quantity="few">Skenovaných: %1$d</item>
         <item quantity="many">Skenovaných: %1$d</item>
     </plurals>
+    <plurals name="notification_rec_content">
+        <item quantity="other">FM nahrávok: %d</item>
+        <item quantity="one">FM nahrávok: %d</item>
+    </plurals>
 </resources>
 

@@ -58,7 +58,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="preference_record_type_title">Typ nahrávky</string>
   <string name="preference_scenes">Režim nahrávania</string>
   <string name="preference_silent_mode">Nahrávanie v tichom režime</string>
-  <string name="preference_tip_rename">Zobraziť premenovanie súboru po skončení nahrávania</string>
+  <string name="preference_tip_rename">Premenovať nahrávku po skončení nahrávania</string>
   <string name="record_back_pressed_hint">Dotknite sa znova pre ukončenie nahrávania</string>
   <string name="record_download">Stiahnuť z MiCloud</string>
   <string name="record_download_activity">Sťahovanie nahrávok</string>
@@ -80,7 +80,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="record_list_cloud_fm">Nahrávky FM v Cloude</string>
   <string name="record_list_fm">FM Nahrávky</string>
   <string name="record_loading">Načítavanie...</string>
-  <string name="record_mark_point">Značiek: %s</string>
+  <string name="record_mark_point">Značky: %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Zvoľte nahrávku</string>
   <string name="record_saving">Ukladanie...</string>

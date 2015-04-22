@@ -2554,7 +2554,7 @@ Ostáva:"</string>
   <string name="sim_status_title">stav SIM</string>
   <string name="simulate_color_space">Simulácia far. priestoru</string>
   <string name="skip_label">Preskočiť</string>
-  <string name="skip_lock_screen_confirm_msg">Nasledujúce funkcie nebudú dostupné pre zamykaciu obrazovku: Upozornenia, fotoaparát potiahnutím doprava a číselník potiahnutím doľava.</string>
+  <string name="skip_lock_screen_confirm_msg">Pre zamykaciu obrazovku nebudú dostupné: Upozornenia, fotoaparát potiahnutím doprava a číselník potiahnutím doľava.</string>
   <string name="skip_step">Preskočiť</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">IMEI</string>
@@ -2752,7 +2752,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="title_color_calibration">Úprava farieb</string>
   <string name="title_dolby_control">Dolby Digital Plus</string>
   <string name="title_font">Písmo</string>
-  <string name="title_font_current">Používa sa</string>
+  <string name="title_font_current">Vybrať písmo</string>
   <string name="title_font_size">Veľkosť písma</string>
   <string name="title_hdmi_color_calibration">Nastavenie farieb</string>
   <string name="title_layout_current">Použité rozloženie</string>
@@ -3588,4 +3588,10 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="status_bar_app_disable_notification">Žiadne</string>
+  <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Zámok a roletka</string>
+  <string name="status_bar_app_enable_on_notificationBar">Roletka</string>
+  <string name="title_font2">Písmo</string>
+  <string name="title_font_current2">Vybrať písmo</string>
+  <string name="title_layout_current2">Veľkosť písma</string>
 </resources>

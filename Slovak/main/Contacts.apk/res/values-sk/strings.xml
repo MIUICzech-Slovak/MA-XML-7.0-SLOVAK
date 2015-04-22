@@ -1183,4 +1183,8 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v zozname</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="add_blacklist_dialog_title">Blokovať toto číslo?</string>
+  <string name="blacklist">Blokovať</string>
+  <string name="remove_blacklist_dialog_title">Odblokovať toto číslo?</string>
+  <string name="resource_select_ringtone_confirm_picker">Nastaviť tento zvuk?</string>
 </resources>

@@ -280,7 +280,7 @@
   <string name="snooze_label">Stlmiť</string>
   <string name="subscribe_all">Prihlásiť</string>
   <string name="sync_notice_cancel_toast_message">Lokálne uložené udalosti nebudú synchronizované s MiCloud</string>
-  <string name="sync_notice_message">Nemáte synchronizovaný kalendár s MiCloud. Chcete povoliť synchr.?</string>
+  <string name="sync_notice_message">Synchr. váš kalendír s MiCloud?</string>
   <string name="sync_notice_ok">Povoliť</string>
   <string name="sync_notice_ok_toast_message">Lokálne uložené udalosti budú synchronizované s MiCloud</string>
   <string name="sync_notice_title">Synchronizácia</string>

@@ -120,4 +120,12 @@
         <item quantity="other">Zvonil %dx</item>
         <item quantity="one">Zvonil %dx</item>
     </plurals>
+    <plurals name="dlg_add_blacklist">
+        <item quantity="other">Blokovať tieto %1$d čísla?</item>
+        <item quantity="one">Blokovať toto číslo?</item>
+    </plurals>
+    <plurals name="dlg_remove_blacklist">
+        <item quantity="other">Odblokovať tieto %1$d čísla?</item>
+        <item quantity="one">Odblokovať toto číslo?</item>
+    </plurals>
 </resources>
