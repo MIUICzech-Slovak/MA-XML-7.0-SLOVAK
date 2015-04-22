@@ -136,7 +136,7 @@
   <string name="filter_by_duration_min">0 sec</string>
   <string name="filter_by_duration_prefix">"Minimálna dĺžka: "</string>
   <string name="filter_by_duration_summary">Nezobrazovať krátke audio súbory</string>
-  <string name="filter_by_folder">Podľa zložky</string>
+  <string name="filter_by_folder">Filtrovať podľa zložky</string>
   <string name="filter_by_folder_summary">Vybrať zložky na zobrazenie</string>
   <string name="filter_by_size">Filtrovať podľa veľkosti</string>
   <string name="filter_by_size_max">2MB</string>
@@ -173,7 +173,7 @@
   <string name="ktv_playlist">Moje KTV</string>
   <string name="like">Páči sa</string>
   <string name="list_item_play_FM_radio">Dotykom spustíte FM rádio</string>
-  <string name="list_item_play_all_tracks">Dotykom spustite všetky skladby</string>
+  <string name="list_item_play_all_tracks">Prehrať všetky skladby</string>
   <string name="listview_index_of_total">%1$d/%2$d</string>
   <string name="loading_hint">Načítavanie...</string>
   <string name="local_music">Lokálna Hudba</string>
@@ -295,8 +295,8 @@
   <string name="support_online_only">Len online</string>
   <string name="tab_album_list">Album</string>
   <string name="tab_artist_list">Umelec</string>
-  <string name="tab_local_folder_list">Zložka</string>
-  <string name="tab_local_track_list">Zoznam skladieb</string>
+  <string name="tab_local_folder_list">Zložky</string>
+  <string name="tab_local_track_list">Skladby</string>
   <string name="tab_track_list">Skladba</string>
   <string name="take_effect_afater_restart">Musíte reštartovať aplikáciu pre použitie týchto zmien.</string>
   <string name="today_update">Aktualizovaná Hudba</string>
