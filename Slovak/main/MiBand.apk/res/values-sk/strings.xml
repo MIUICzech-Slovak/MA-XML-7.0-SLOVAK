@@ -1194,7 +1194,7 @@ Udržujte MiBand a telefón maximálne 5m od seba."</string>
   <string name="weight_unbinded">Odpojiť od Váhy</string>
   <string name="weight_unit_british">Britské jednotky (pound)</string>
   <string name="weight_unit_metric">Metrické jednotky (kilogramy, kg)</string>
-  <string name="weight_unit_shijin">Gramy (1kg=1000g)</string>
+  <string name="weight_unit_shijin">Jin (Čína, 1jin = 500g)</string>
   <string name="weight_unit_text_info">Váha je pripojená. Otvorte kryt batérií na spodnej strane váhy a nastavte jednotky hmotnosti.</string>
   <string name="weight_weighting_now">Váženie...</string>
   <string name="weighting_failed">Čakajte kým prestanú blikať LED na váhe.</string>
