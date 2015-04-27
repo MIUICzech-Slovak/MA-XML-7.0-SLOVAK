@@ -123,4 +123,23 @@
         <item>BMI: Nadváha</item>
         <item>BMI: Obezita</item>
     </string-array>
+    <string-array name="running_months">
+        <item>Január</item>
+        <item>Február</item>
+        <item>Marec</item>
+        <item>Apríl</item>
+        <item>Máj</item>
+        <item>Jún</item>
+        <item>Júl</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Október</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="phone_notify_tips">
+        <item>Vibrovať s MiBand počas prichádzajúceho hovoru</item>
+        <item>Vibrovať s MiBand počas budíku</item>
+        <item>Vibrovať s MiBand pri prihatí SMS správy</item>
+    </string-array>
 </resources>

@@ -17,4 +17,8 @@
         <item quantity="other">%sinches</item>
         <item quantity="one">%sinch</item>
     </plurals>
+    <plurals name="weight_match_user">
+        <item quantity="other">%1$d matches.</item>
+        <item quantity="one">%1$d match.</item>
+    </plurals>
 </resources>
