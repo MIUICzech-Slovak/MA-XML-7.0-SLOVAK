@@ -696,7 +696,7 @@ presahuje limit"</string>
   <string name="pop3_name">POP3</string>
   <string name="prefDialogTitle_conversationListIcon">Obrázok odosielateľa</string>
   <string name="prefDialogTitle_removal_action">Akcie archivácie a odstránenia</string>
-  <string name="preference_eas_tips">The coming activation page is requested by E-mail Server, please rest your heart to activate.</string>
+  <string name="preference_eas_tips">Na nasledujúcej obrazovke potvrďte tlačidlom “Aktivovať”. Toto potvrdenie je vyžadované serverom.</string>
   <string name="preference_head_load_description">Stiahnuť len hlavičky správ cez mobilné dáta.</string>
   <string name="preference_head_load_title">Znížiť spotrebu dát</string>
   <string name="preference_imap_tips"/>
