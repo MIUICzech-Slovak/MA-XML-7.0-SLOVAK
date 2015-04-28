@@ -86,4 +86,5 @@
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">", "</string>
   <string name="share_weather_save_pic_fail">Nie je možné zhotoviť screenshot</string>
+  <string name="activity_main_refresh_fail">Nebolo možné sa pripojiť k sieti</string>
 </resources>

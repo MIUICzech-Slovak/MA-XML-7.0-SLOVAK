@@ -3594,4 +3594,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="title_font2">Písmo</string>
   <string name="title_font_current2">Vybrať písmo</string>
   <string name="title_layout_current2">Veľkosť písma</string>
+  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
 </resources>

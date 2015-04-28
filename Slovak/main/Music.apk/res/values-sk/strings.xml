@@ -319,4 +319,12 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
+  <string name="i_know_it">OK</string>
+  <string name="service_stop">Služba bola ukončená</string>
+  <string name="upgrade_force">Ukončujeme poskytovanie online obsahu z dôvodu porušovania autorských práv.</string>
+  <string name="upgrade_immediate">Aktualizovať</string>
+  <string name="upgrade_nobeta">Ukončujeme poskytovanie online obsahu z dôvodu porušovania autorských práv. Ospravedňujeme sa za nepríjemnosti.</string>
+  <string name="upgrade_remind">Dostupná aktualizácia</string>
+  <string name="upgrade_suggest">Ukončujeme poskytovanie online obsahu z dôvodu porušovania autorských práv.</string>
+  <string name="upgrade_waringing">Bude možné počúvať len hudbu uloženú vo vašom zariadení.</string>
 </resources>
