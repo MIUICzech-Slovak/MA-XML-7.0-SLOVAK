@@ -1144,6 +1144,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="flash_when_ring_summary">Blikať LED blesku počas zvonenia prichádzajúceho hovoru</string>
+  <string name="flash_when_ring_summary">Blikať LED bleskom počas zvonenia prichádzajúceho hovoru</string>
   <string name="flash_when_ring_title">Blikať počas zvonenia</string>
 </resources>
