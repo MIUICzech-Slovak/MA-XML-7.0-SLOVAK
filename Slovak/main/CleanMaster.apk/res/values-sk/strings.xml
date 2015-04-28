@@ -76,7 +76,7 @@
   <string name="hints_garbage_cleanup_result_danger">Vyčistiť odpad</string>
   <string name="hints_garbage_cleanup_result_risk">Vyčistiť odpad</string>
   <string name="hints_garbage_cleanup_result_safe">Všetko je OK</string>
-  <string name="hints_garbage_handle_item_content">%1$d ，%2$s</string>
+<string name="hints_garbage_handle_item_content">Položiek: %1$d, %2$s</string>
   <string name="hints_garbage_handle_item_empty_content">Prázdne</string>
   <string name="hints_install_apps_interval">pred %d dňami</string>
   <string name="hints_install_apps_new">nepoužité</string>
