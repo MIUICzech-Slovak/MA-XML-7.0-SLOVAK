@@ -457,4 +457,5 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usbsharenet_exception_title">Skontrolovať sieť cez USB</string>
   <string name="wifi_exception_summary">Skontrolovať dostupné pripojenie Wi-Fi siete</string>
   <string name="wifi_exception_title">Skontrolovať Wi-Fi</string>
+  <string name="root">Root</string>
 </resources>

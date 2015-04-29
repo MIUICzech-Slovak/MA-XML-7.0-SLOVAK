@@ -3594,5 +3594,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="title_font2">Písmo</string>
   <string name="title_font_current2">Vybrať písmo</string>
   <string name="title_layout_current2">Veľkosť písma</string>
-  <string name="status_bar_settings_carrier_sim">SIM %1$s:</string>
+  <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
+  <string name="fluency_mode">Optimalizovať výkon</string>
+  <string name="fluency_mode_confirm_title">Reštartovať?</string>
+  <string name="fluency_mode_confirm_will_fluency_mode_text">Je nutné reštartovať vaše zariadenie pre aplikovanie týchto nastavení.</string>
+  <string name="fluency_mode_confirm_will_normal_mode_text">Zapnuté animácie a zvýšená spotreba RAM môže spôsobovať spomalenie systému na niektorých zariadeniach s 1GB RAM.</string>
+  <string name="fluency_mode_enabled_name">Optimalizovať výkon</string>
+  <string name="fluency_mode_summary">Vypnúť animácie systému a tým znížiť využívanie RAM</string>
+  <string name="gesture_wakeup_title">Prebudiť dvojitým poklepaním</string>
 </resources>

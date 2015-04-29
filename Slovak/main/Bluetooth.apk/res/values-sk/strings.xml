@@ -184,4 +184,8 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
+  <string name="bluetooth_connected">Pripojené</string>
+  <string name="bluetooth_connecting">Pripájanie...</string>
+  <string name="bluetooth_disconnected">Odpojené</string>
+  <string name="bluetooth_disconnecting">Odpájanie...</string>
 </resources>
