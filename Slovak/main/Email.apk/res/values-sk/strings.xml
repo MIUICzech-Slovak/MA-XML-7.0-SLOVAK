@@ -917,7 +917,7 @@ Delta update size: %2$s"</string>
   <string name="mibill_privacy_policy_button1">Nie</string>
   <string name="mibill_privacy_policy_button2">Áno</string>
   <string name="mibill_privacy_policy_description">Táto funkcia nie je podporovaná mimo Čínu! MiWallet bude analyzovať obsah správy a v prípade doručenia faktúry automaticky umožní jej zaplatenie.</string>
-  <string name="mibill_privacy_policy_link">Súhlasíte s &lt;a href="https://www.mipay.com/res/doc/eula/email.html"&gt;Credit Card Bill Service&lt;/a&gt;</string>
+  <string name="mibill_privacy_policy_link">Súhlasím s Credit Card Bill Service</string>
   <string name="mibill_privacy_policy_title">Nie je podporované mimo Čínu</string>
   <string name="account_settings_mibill_resolve_label">Analyzovať obsah správy</string>
 </resources>
