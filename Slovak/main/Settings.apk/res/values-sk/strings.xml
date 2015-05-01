@@ -3602,4 +3602,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="fluency_mode_enabled_name">Optimalizovať výkon</string>
   <string name="fluency_mode_summary">Vypnúť animácie systému a tým znížiť využívanie RAM</string>
   <string name="gesture_wakeup_title">Prebudiť dvojitým poklepaním</string>
+  <string name="search_fluency_mode">Optimalizovať výkon</string>
 </resources>

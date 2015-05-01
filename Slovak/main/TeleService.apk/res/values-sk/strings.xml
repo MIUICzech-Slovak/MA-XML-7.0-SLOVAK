@@ -1146,4 +1146,12 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_title">X-Divert</string>
   <string name="flash_when_ring_summary">Blikať LED bleskom počas zvonenia prichádzajúceho hovoru</string>
   <string name="flash_when_ring_title">Blikať počas zvonenia</string>
+  <string name="change_default_data">Zmeniť</string>
+  <string name="cdma_alert_title">Karta UIM musí byť ako predvolená</string>
+  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
+  <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
+  <string name="change_default_data_alert_title">Karta UIM musí byť ako predvolená</string>
+  <string name="confirm_change_default_data">Zmeniť</string>
+  <string name="not_change_default_data">Nemeniť</string>
+  <string name="remind_another_time">Viac sa nepýtať</string>
 </resources>
