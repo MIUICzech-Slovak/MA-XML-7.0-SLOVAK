@@ -45,6 +45,8 @@
   <string name="SD2_SDCard_mounted">Detect SD_2_Card</string>
   <string name="SD2_SDCard_unmounted">SDCard 2 unavailable</string>
   <string name="SDCard">SD Card</string>
+  <string name="SD_INTERNAL_SDCard_mounted">Internal SD card detected</string>
+  <string name="SD_INTERNAL_SDCard_unmounted">Internal SD card not mounted</string>
   <string name="SD_SDCard_available_szie">Available size</string>
   <string name="SD_SDCard_mounted">Detect SDCard</string>
   <string name="SD_SDCard_total_size">Total size</string>
@@ -78,6 +80,7 @@
   <string name="Uim1_not_insert">UIM1 not insert</string>
   <string name="Uim2_has_insert">UIM2 inserted</string>
   <string name="Uim2_not_insert">UIM2 not insert</string>
+  <string name="UimCard_test">UIM卡</string>
   <string name="UimResult">[UIM]:</string>
   <string name="Uim_has_insert">UIM inserted</string>
   <string name="Uim_not_insert">UIM not insert</string>
@@ -101,6 +104,7 @@
   <string name="adjust_again">Calibration again</string>
   <string name="adjust_begin">Calibration</string>
   <string name="adjust_fail">Calibration fail</string>
+  <string name="adjust_getadc_ok">Calibration is successful!</string>
   <string name="adjust_ok">Calibration success</string>
   <string name="aifsninfo">Aifsn:</string>
   <string name="aifsnlimit">[0-255]</string>
@@ -110,7 +114,7 @@ only in frame mode"</string>
   <string name="airplane_error_msg">"You can't use FM when the phone is in airplane mode."</string>
   <string name="airplane_error_msg_dlg">"You can't use FM when the phone is in airplane mode, Please press the close button or the Back key to close it!"</string>
   <string name="alertdialog_message">Please wait for 10s,then power off to write the result!</string>
-  <string name="alertdialog_title">Notification：</string>
+  <string name="alertdialog_title">Notification:</string>
   <string name="all_pass">All test item are pass</string>
   <string name="antennainfo">Antenna:</string>
   <string name="antennanum">[0(auto)/1/2]</string>
@@ -124,11 +128,19 @@ only in frame mode"</string>
   <string name="audio_db_playlist_name">My recordings</string>
   <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
   <string name="autotest">QC test</string>
+  <string name="audio_receive_info">Handset playing...</string>
+  <string name="audio_speaker">Speaker</string>
+  <string name="audio_speaker_info">Speaker playing...</string>
+  <string name="auto_import">Please press the corresponding button according to the number of packets to hear!</string>
+  <string name="auto_import_fail">Failed!</string>
+  <string name="auto_import_success">Success!</string>
+  <string name="auto_music">Music Player</string>
+  <string name="autotest">Hardware sampling</string>
   <string name="back_camera">Back Camera</string>
   <string name="back_to_test">Back</string>
   <string name="background_result">Back ground test result</string>
   <string name="backlight_dark">Backlight Dark</string>
-  <string name="backlight_keypadlight_test">Backlight＆KeypadLight</string>
+  <string name="backlight_keypadlight_test">Backlight and KeypadLight</string>
   <string name="backlight_light">Backlight Light</string>
   <string name="backlight_test">Backlight</string>
   <string name="baseband_version">Baseband version</string>
@@ -172,6 +184,7 @@ only in frame mode"</string>
   <string name="battery_test">Battery</string>
   <string name="battery_vol_test">Battery capacity</string>
   <string name="bearing">North to East:</string>
+  <string name="blackcardtest">Black card test</string>
   <string name="blow_from_mic_to_rec">Blowing on the MIC, the receiver playback. Judge whether there is sound.</string>
   <string name="blow_to_earphone_mic">Blowing on the earphone MIC, the earphone speaker playback. Judge whether there is sound.</string>
   <string name="blow_to_mic">Blowing on the MIC, the speaker playback. Judge whether there is sound.</string>
@@ -182,6 +195,7 @@ only in frame mode"</string>
   <string name="bluetooth_scan_mode_connectable">"can't be discoverable(can be connectable)"</string>
   <string name="bluetooth_scan_mode_discoverable">can be discoverable(can be connectable)</string>
   <string name="bluetooth_scan_mode_none">"can't be discoverable(can't be connectable)"</string>
+  <string name="bsp">BSP version</string>
   <string name="bt_addr_test">Bluetooth address</string>
   <string name="bt_enable_error">Bluetooth opened error</string>
   <string name="bt_result">[BT]:</string>
@@ -211,10 +225,11 @@ only in frame mode"</string>
   <string name="cdmaonly">CDMA Only</string>
   <string name="cellinfo">Cell Info</string>
   <string name="channel">Channel:</string>
+  <string name="channel_name">Channel name</string>
   <string name="charge_battery_test">Charge/Batt</string>
-  <string name="charge_current">Charge Current：</string>
+  <string name="charge_current">Charge Current:</string>
   <string name="charge_test">Charge</string>
-  <string name="charge_voltage">Charge Voltage：</string>
+  <string name="charge_voltage">Charge Voltage:</string>
   <string name="charger_in_test">Charger plug in</string>
   <string name="charger_out_test">Charger plug out</string>
   <string name="choose_channel">Channel select</string>
@@ -224,6 +239,7 @@ only in frame mode"</string>
   <string name="correct">correct</string>
   <string name="cpu_id">CPU ID</string>
   <string name="credibility">Cred%</string>
+  <string name="cta">CTA version</string>
   <string name="current_value">"Current value: "</string>
   <string name="custombt">[BT]:</string>
   <string name="customft">[FT]:</string>
@@ -242,6 +258,7 @@ only in frame mode"</string>
   <string name="earphone_key">Earphone(h)</string>
   <string name="earphone_test">Earphone</string>
   <string name="edit_local_freq">Edit local frequence</string>
+  <string name="efs">EFS version</string>
   <string name="efs_version">EFS version:</string>
   <string name="error">Error</string>
   <string name="error_app_internal">Internal application error</string>
@@ -254,6 +271,7 @@ only in frame mode"</string>
   <string name="exit">Exit</string>
   <string name="exit_auto_test">If you want exit auto test?</string>
   <string name="exit_hint">All tested records will be cleared, exit?</string>
+  <string name="external">External version:</string>
   <string name="external_version">External Version:</string>
   <string name="factory_restore">Factory Restore</string>
   <string name="field_netinfo">network information</string>
@@ -279,6 +297,8 @@ only in frame mode"</string>
   <string name="frequence2">Frequence:</string>
   <string name="frequence_range" formatted="false">" (Range:%2.1f~%2.1fMHz)"</string>
   <string name="front_camera">FrontCamera</string>
+  <string name="getadc_fail">Failed</string>
+  <string name="getadc_pass">Success</string>
   <string name="gotoairplane">Go to airplane mode</string>
   <string name="gotosleep">Go to sleep</string>
   <string name="gps">[ GPS]:</string>
@@ -305,8 +325,10 @@ only in frame mode"</string>
   <string name="headset_unplug_err">FM Radio has stopped.</string>
   <string name="height">Height :</string>
   <string name="imei">[ IMEI]:</string>
+  <string name="imei_no">IMEI:</string>
   <string name="input_passwords">Please input password!</string>
   <string name="insert_sd_card">Please insert an SD card</string>
+  <string name="internal">Internal version:</string>
   <string name="invalid_freq">Out of frequency range!</string>
   <string name="isdeleteall">Are you sure to delete all?</string>
   <string name="isdeleteselected">"Are you sure to delete
@@ -346,14 +368,15 @@ the selected?"</string>
   <string name="magnetic_test">Magnetic sensor</string>
   <string name="max_length_reached">Maximum length reached</string>
   <string name="mbboardtest">MB board</string>
+  <string name="meid_no">MEID:</string>
   <string name="memory_size">Memory Size</string>
   <string name="message_recorded">Message recorded</string>
   <string name="mic1_rec_loop">Main mic to receiver loopback</string>
   <string name="mic1test">MIC1</string>
   <string name="mic2_spk_loop">Sub mic to speaker loopback</string>
   <string name="mic2test">MIC2</string>
-  <string name="micphone_test">MIC＆ SPK</string>
-  <string name="micrectest">MIC＆ REC</string>
+  <string name="micphone_test">MIC and SPK</string>
+  <string name="micrectest">MIC and REC</string>
   <string name="midmainboardtest">PCBA test</string>
   <string name="midtest">Assemble test</string>
   <string name="min_available">%d min available</string>
@@ -461,7 +484,7 @@ mod:0-15"</string>
   <string name="radioInfo_display_asu">asu</string>
   <string name="radioInfo_display_dbm">dBm</string>
   <string name="radioInfo_lac">LAC</string>
-  <string name="radioInfo_unknown">未知</string>
+  <string name="radioInfo_unknown">Unknown</string>
   <string name="radio_info_band_label">"[BAND]   :"</string>
   <string name="radio_info_freq_label">[CHANNEL]:</string>
   <string name="radio_info_mcc_label">"[MCC]    :"</string>
@@ -526,6 +549,7 @@ mod:0-15"</string>
 "</string>
   <string name="softver">Software version:</string>
   <string name="softversion">Software version</string>
+  <string name="softversion_hint">Enter function test?</string>
   <string name="someinfo">Some info</string>
   <string name="speak_from_mic">Speaking to the MIC, the speaker playback. Judge whether there is sound.</string>
   <string name="speaker">Speaker</string>
