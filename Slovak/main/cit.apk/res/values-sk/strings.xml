@@ -587,7 +587,7 @@ mod:0-15"</string>
   <string name="uit88">[ UIT88]:</string>
   <string name="uit89">[ UIT89]:</string>
   <string name="unit">" MHz"</string>
-  <string name="unknown">未知</string>
+  <string name="unknown">unknown</string>
   <string name="unmodulated">Unmodulated</string>
   <string name="version">Version</string>
   <string name="version_fmt" formatted="false">"Software Version: %s
