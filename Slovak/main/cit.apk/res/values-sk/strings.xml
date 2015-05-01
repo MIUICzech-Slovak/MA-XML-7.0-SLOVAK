@@ -127,7 +127,6 @@ only in frame mode"</string>
   <string name="audio_db_artist_name">Your recordings</string>
   <string name="audio_db_playlist_name">My recordings</string>
   <string name="audio_db_title_format">yyyy-MM-dd HH:mm:ss</string>
-  <string name="autotest">QC test</string>
   <string name="audio_receive_info">Handset playing...</string>
   <string name="audio_speaker">Speaker</string>
   <string name="audio_speaker_info">Speaker playing...</string>
