@@ -510,4 +510,14 @@ Veľkosť: %2$s"</string>
   <string name="yixin_client_inavailable">Yixin nie je nainštalovaný</string>
   <string name="yixinmoments">Yixin Moments</string>
   <string name="youdao">Youdao</string>
+  <string name="firmware_downloading_message">Firmware už bol stiahnutý, chcete ho stiahnuť znova?</string>
+  <string name="firmware_downloading_title">Sťahovanie firmware</string>
+  <string name="firware_upgrade_begin">Aktualizovať</string>
+  <string name="firware_upgrade_succeeded">Gratulujeme</string>
+  <string name="firware_upgrade_succeeded_tips">Firmware sa úspešne odoslal</string>
+  <string name="setting_firmware_update">Odoslať Firmware</string>
+  <string name="setting_unbind_bluetooth_dev">Odpojte všetky bluetooth ovládače</string>
+  <string name="unbind_bluetooth_failed">Odpojenie zlyhalo!</string>
+  <string name="unbind_bluetooth_succeeded">Odpojené!</string>
+  <string name="unbind_bluetooth_unbinded">Nič sa nenašlo!</string>
 </resources>
