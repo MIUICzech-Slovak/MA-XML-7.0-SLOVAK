@@ -920,4 +920,12 @@ Delta update size: %2$s"</string>
   <string name="mibill_privacy_policy_link">Súhlasím s Credit Card Bill Service</string>
   <string name="mibill_privacy_policy_title">Nie je podporované mimo Čínu</string>
   <string name="account_settings_mibill_resolve_label">Analyzovať obsah správy</string>
+  <string name="account_settings_using_ringtone">Zvonenie</string>
+  <string name="folder_list_display_all">Zobraziť všetky zložky</string>
+  <string name="folder_list_display_only_import">Zonraziť len dôležité zložky</string>
+  <string name="imap_password_error">Heslo pre server prichádzajúcej pošty nie je správne</string>
+  <string name="outbox_alert_description_cannot_authenticate">Chyba prihlásenia na %s</string>
+  <string name="outbox_alert_description_reject_by_server">Odmietnuté %s</string>
+  <string name="outbox_alert_description_time_out">Chyba pripojenia</string>
+  <string name="smtp_password_error">Heslo pre server odchádzajúcej pošty nie je správne</string>
 </resources>
