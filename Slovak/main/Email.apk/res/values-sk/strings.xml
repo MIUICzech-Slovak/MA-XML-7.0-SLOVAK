@@ -922,7 +922,7 @@ Delta update size: %2$s"</string>
   <string name="account_settings_mibill_resolve_label">Analyzovať obsah správy</string>
   <string name="account_settings_using_ringtone">Zvonenie</string>
   <string name="folder_list_display_all">Zobraziť všetky zložky</string>
-  <string name="folder_list_display_only_import">Zonraziť len dôležité zložky</string>
+  <string name="folder_list_display_only_import">Zobraziť len dôležité zložky</string>
   <string name="imap_password_error">Heslo pre server prichádzajúcej pošty nie je správne</string>
   <string name="outbox_alert_description_cannot_authenticate">Chyba prihlásenia na %s</string>
   <string name="outbox_alert_description_reject_by_server">Odmietnuté %s</string>
