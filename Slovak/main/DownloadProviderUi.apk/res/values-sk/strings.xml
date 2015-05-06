@@ -46,7 +46,7 @@
   <string name="download_complete">Stiahnuté</string>
   <string name="download_error">Neúspešné</string>
   <string name="download_error_insufficient_space">Nedostatok miesta</string>
-  <string name="download_filesize_unknown">neznáme</string>
+  <string name="download_filesize_unknown">Neznáme</string>
   <string name="download_in_process">Sťahované</string>
   <string name="download_info_count_deleted_tasks">Úspešne vymazané sťahovania %s</string>
   <string name="download_info_start_deleted_tasks">Pripravujem vymazanie sťahovania</string>
@@ -140,7 +140,7 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="turn_off_xunlei_title">Deaktivovať Xunlei sťahovanie</string>
   <string name="unbind_xunlei_2_success">Xunlei účet zmenený</string>
   <string name="unbind_xunlei_success">Xunlei účet odpojený</string>
-  <string name="valid_in_this_month">platné len pre tento mesiac</string>
+  <string name="valid_in_this_month">Platné len pre tento mesiac</string>
   <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
   <string name="xunlei_brand">Poskytuje Xunlei</string>
   <string name="xunlei_brand_url">http://mobile.xunlei.com</string>

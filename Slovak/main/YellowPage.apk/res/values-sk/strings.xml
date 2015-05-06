@@ -32,7 +32,7 @@
   <string name="delete">Vymazať</string>
   <string name="do_not_remind_me">Viac sa nepýtať</string>
   <string name="dont_enable">Zakázať</string>
-  <string name="download_completed">Download completed！SD card path: %s</string>
+  <string name="download_completed">Download completed! SD card path: %s</string>
   <string name="download_failed">Download failed</string>
   <string name="download_failed_blocked">Download failed, cannot connect to network</string>
   <string name="download_failed_cannot_resume">Download failed, please try again later</string>
@@ -190,4 +190,5 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
+  <string name="network_access_denied">Prístup k sieti zamietnutý</string>
 </resources>

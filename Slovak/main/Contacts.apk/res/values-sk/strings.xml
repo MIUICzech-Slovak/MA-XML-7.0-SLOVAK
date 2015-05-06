@@ -1187,4 +1187,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="blacklist">Blokovať</string>
   <string name="remove_blacklist_dialog_title">Odblokovať toto číslo?</string>
   <string name="resource_select_ringtone_confirm_picker">Nastaviť tento zvuk?</string>
+  <string name="preference_contacts_recovery_introduction">Obnoviť kontakty</string>
 </resources>
