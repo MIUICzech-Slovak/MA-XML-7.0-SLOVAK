@@ -162,7 +162,7 @@ Total sumou: RMB%3$s"</string>
   <string name="recharge_user_confirm_title">Potvrdiť</string>
   <string name="remind_another_time">Nepýtať sa na toto číslo</string>
   <string name="remind_user_confirm">OK</string>
-  <string name="remind_user_suspect_number_message">"Podvodníci môžu zneužiť telefónne číslo inej osoby na obťažovanie. Ak sa nebojíte, môžte zavolať naspäť.
+  <string name="remind_user_suspect_number_message">"Podvodníci môžu zneužiť telefónne číslo inej osoby na obťažovanie. Ak sa nebojíte, môžete zavolať naspäť.
 
 Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýtať na heslo alebo PIN k účtu v banke."</string>
   <string name="remind_user_suspect_number_title">Vyvarovať sa podvodníkom</string>

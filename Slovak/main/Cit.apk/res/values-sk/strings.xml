@@ -107,7 +107,7 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
 1. Stlačte tlačidlo fotoaparátu pre otvorenie aplikácie
 2. Stlačte spúšť
 3. Stlačte OK, systém automaticky uloží fotografiu
-4. Zobrazte fotografiu a môžte ju vymazať."</string>
+4. Zobrazte fotografiu a môžete ju vymazať."</string>
   <string name="cit_front_camera_check_title">Test Prednej kamery</string>
   <string name="cit_gps_check_summary">Tento test zobrazí informácie o GPS</string>
   <string name="cit_gps_check_title">Test GPS</string>
@@ -167,7 +167,7 @@ zapnite GPS z roletky</string>
  2. Skontrolujte, že je zapnutý blesk
  3. Stlačte spúšť
  4. Stlačte OK, systém automaticky uloží fotografiu
- 5. Zobrazte fotografiu a môžte ju vymazať."</string>
+ 5. Zobrazte fotografiu a môžete ju vymazať."</string>
   <string name="cit_main_camera_check_title">Test Zadnej kamery</string>
   <string name="cit_name">Kontrola Hardware</string>
   <string name="cit_not_available">Verzia pre používateľa tento test nepodporuje, iba vo verzii pre výrobu je tento test dostupný</string>

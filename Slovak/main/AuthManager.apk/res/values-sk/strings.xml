@@ -251,5 +251,5 @@
   <string name="SysOpt_Boost_Boot">Boot</string>
   <string name="SysOpt_Boost_Receiver">Na pozadí</string>
   <string name="app_name">Povolenia</string>
-  <string name="permisson_reject_notice_toast_text">"\"%1$s\" nemá oprávnenie %2$s. Práva aplikácie môžte zmeniť v Optimalizácia &gt; Povolenia."</string>
+  <string name="permisson_reject_notice_toast_text">"\"%1$s\" nemá oprávnenie %2$s. Práva aplikácie môžete zmeniť v Optimalizácia &gt; Povolenia."</string>
 </resources>
