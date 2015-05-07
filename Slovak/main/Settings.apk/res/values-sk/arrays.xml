@@ -668,4 +668,12 @@ Postupujte podľa pokynov"</item>
         <item>Zelená</item>
         <item>Purpurová</item>
     </string-array>
+    <string-array name="install_non_market_app_entries">
+        <item>Opýtať sa na povolenie</item>
+        <item>Povolené</item>
+    </string-array>
+    <string-array name="install_non_market_app_contents">
+        <item>Opýtať sa</item>
+        <item>Povolené</item>
+    </string-array>
 </resources>
