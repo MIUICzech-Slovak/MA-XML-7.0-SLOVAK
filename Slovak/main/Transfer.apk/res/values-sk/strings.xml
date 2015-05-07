@@ -183,7 +183,7 @@
   <string name="share_message">Zdielaný súbor %1$s</string>
   <string name="share_msg_model">"Zdieľam s vami súbory. 
 Odkaz na stiahnutie: %1$s"</string>
-  <string name="share_text">MIUIv5 podporuje prenos súborov bez potreby mobilných dát. Užívatelia ktorí nemajú MIUIv5 si musia nainštalovať: %1$s</string>
+  <string name="share_text">MIUIv6 podporuje prenos súborov bez potreby mobilných dát. Užívatelia ktorí nemajú MIUIv6 si musia nainštalovať: %1$s</string>
   <string name="shortmessage">Krátka správa</string>
   <string name="start">Štart</string>
   <string name="summary_step_one">Odosielajte obrázky, hudbu, kontakty a ostatné súbory</string>
