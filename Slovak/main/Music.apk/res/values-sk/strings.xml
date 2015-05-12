@@ -283,7 +283,7 @@
   <string name="sleep_mode_summary">Posuvníkom nastavte čas</string>
   <string name="sleep_mode_title">Zastaviť prehrávanie po uplynutí času</string>
   <string name="song_name">Skladba</string>
-  <string name="song_not_find">Sieť nie je povolená alebo skladba sa nenachádza na serveri.</string>
+  <string name="song_not_find">Skladba sa nenachádza na serveri.</string>
   <string name="sort_by_language">Jazyk</string>
   <string name="sort_by_name">Názov</string>
   <string name="sort_by_time">Dátum</string>
@@ -327,4 +327,7 @@
   <string name="upgrade_remind">Dostupná aktualizácia</string>
   <string name="upgrade_suggest">Ukončujeme poskytovanie online obsahu z dôvodu porušovania autorských práv.</string>
   <string name="upgrade_waringing">Bude možné počúvať len hudbu uloženú vo vašom zariadení.</string>
+  <string name="preset_music_playlist">MiMusic playlist</string>
+  <string name="set_id3_not_have_read_or_write_permission">Nemáte povolenie upraviť tento súbor</string>
+  <string name="set_id3_not_support_format">Tento formát súboru nie je možné upraviť</string>
 </resources>

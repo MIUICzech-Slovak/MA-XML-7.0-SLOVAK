@@ -274,4 +274,6 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
+  <string name="download_action">Stiahnuť</string>
+  <string name="loading_wallpaper">Načítavanie...</string>
 </resources>
