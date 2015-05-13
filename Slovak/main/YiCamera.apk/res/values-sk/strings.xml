@@ -725,7 +725,7 @@ Normálne"</string>
   <string name="bind_camera_use_xiaomi">Je nutné sa prihlásiť Xiaomi účtom pred pridaním kamery.</string>
   <string name="bind_xiaomi">Pripojiť Xiaomi účet</string>
   <string name="btnReSearch">Znova vyhľadať</string>
-  <string name="camera_bind_timeout">Prpájanie kamery zlyhalo, resetujte zariadenie.</string>
+  <string name="camera_bind_timeout">Pripájanie kamery zlyhalo, resetujte zariadenie.</string>
   <string name="camera_is_offline">Kamera je offline.</string>
   <string name="camera_password_exceed_max_retry">Nesprávne heslo. Už nemáte viac pokusov.</string>
   <string name="camera_password_experied">Platnosť hesla kamery skončila, resetujte zariadenie.</string>
