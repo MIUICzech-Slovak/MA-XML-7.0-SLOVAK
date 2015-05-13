@@ -928,4 +928,13 @@ Delta update size: %2$s"</string>
   <string name="outbox_alert_description_reject_by_server">Odmietnuté %s</string>
   <string name="outbox_alert_description_time_out">Chyba pripojenia</string>
   <string name="smtp_password_error">Heslo pre server odchádzajúcej pošty nie je správne</string>
+  <string name="contact_edit_set_black_list">Čierna listina</string>
+  <string name="contact_edit_set_phone_contact">Upraviť kontakt</string>
+  <string name="contact_edit_set_pop_up_tips">Upozornenia</string>
+  <string name="contact_edit_set_unread_top">Zobraziť najskôr neprečítané správy</string>
+  <string name="contact_edit_set_vip">VIP</string>
+  <string name="contact_edit_title_permission">Práva kontaktu</string>
+  <string name="contact_edit_title_phone_contact">Zoznam kontaktov</string>
+  <string name="re_download_message_button">Stiahnuť znova</string>
+  <string name="re_download_message_info">Sťahovanie správy zlyhalo</string>
 </resources>

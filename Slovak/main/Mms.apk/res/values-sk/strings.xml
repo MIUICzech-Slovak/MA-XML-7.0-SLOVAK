@@ -569,4 +569,9 @@ Pokus: %s."</string>
   <string name="warning_show">Odoslať o %ds</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
+  <string name="security_alert_desc">"Odosielateľ nie je vo vašom zozname kontaktov. "&lt;u&gt;&lt;font color="red"&gt;Nahlásiť toto číslo&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_dialog_desc">Nahlásiť toto číslo (%s) a správu Xiaomi pre ďalšiu analýzu.</string>
+  <string name="security_alert_dialog_title">Nahlásiť</string>
+  <string name="sms_report_failed">Nebolo možné odoslať hlásenie</string>
+  <string name="sms_report_success">Hlásenie odoslané</string>
 </resources>

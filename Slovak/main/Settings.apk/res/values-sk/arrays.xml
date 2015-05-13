@@ -676,4 +676,12 @@ Postupujte podľa pokynov"</item>
         <item>Opýtať sa</item>
         <item>Povolené</item>
     </string-array>
+    <string-array name="lock_screen_secure_after_timeout_entries">
+        <item>okamžite</item>
+        <item>1 minúte</item>
+        <item>2 minútach</item>
+        <item>5 minútach</item>
+        <item>15 minútach</item>
+        <item>30 minútach</item>
+    </string-array>
 </resources>

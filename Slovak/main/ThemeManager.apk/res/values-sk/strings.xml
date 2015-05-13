@@ -347,4 +347,6 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
   <string name="resource_select_ringtone_confirm_picker">Nastaviť tento zvuk?</string>
+  <string name="theme_is_external_priority_storage">Uložiť na SD kartu</string>
+  <string name="theme_is_external_priority_storage_summary">Aplikácia Témy bude automaticky znovu spustená pre aplikovanie zmien</string>
 </resources>
