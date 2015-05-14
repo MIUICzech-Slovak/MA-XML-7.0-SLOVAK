@@ -152,4 +152,14 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
+  <string name="recommend_downloading">Sťahovanie</string>
+  <string name="recommend_failed">Zlyhalo</string>
+  <string name="recommend_install">Inštalovať</string>
+  <string name="recommend_installing">Inštaluje sa</string>
+  <string name="recommend_loading">Načítavanie...</string>
+  <string name="recommend_open">Otvoriť</string>
+  <string name="recommend_other_downloads">Top</string>
+  <string name="recommend_paused">Pozastavené</string>
+  <string name="recommend_prepare">V poradí</string>
+  <string name="recommend_show_other_downloads">Zobraziť top</string>
 </resources>

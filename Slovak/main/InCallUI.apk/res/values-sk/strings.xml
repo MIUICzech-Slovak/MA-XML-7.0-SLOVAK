@@ -707,4 +707,5 @@
   <string name="wild_prompt_str">Nahradiť zástupný znak znakom</string>
   <string name="call_extension_conference_mode">Konferencia</string>
   <string name="onscreen_audio_mode_conference">Konferencia</string>
+  <string name="livetalk_left_minute">Ostáva %smin</string>
 </resources>

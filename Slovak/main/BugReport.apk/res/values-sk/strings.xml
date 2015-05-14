@@ -137,4 +137,12 @@
   <string name="wlan_unavailable_dialog_button_sent">Odoslať okamžite</string>
   <string name="wlan_unavailable_dialog_content">Odošle sa %s cez 2G/3G dáta, stlačte OK na odoslanie cez sieť Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
+  <string name="bugreport_tool_log">Vytvoriť záznam o chybe</string>
+  <string name="bugreport_tool_log_toast">Záznam uložený do %s</string>
+  <string name="bugreport_tool_log_toast_generate_bugreport">Vytváranie záznamu o chybe (trvá cca 1min)</string>
+  <string name="modem_tool_log">Vytvoriť záznam modemu</string>
+  <string name="modem_tool_log_start">Spustiť</string>
+  <string name="modem_tool_log_start_toast">Záznam o modeme bude uložený do %s</string>
+  <string name="modem_tool_log_stop">Zastaviť</string>
+  <string name="modem_tool_log_stop_toast">Zastaviť záznam modemu z %s</string>
 </resources>

@@ -58,4 +58,6 @@
 
 Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa možnosti %s ."</string>
   <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>
+  <string name="notification_download_failed_more">Sťahovanie %1$d zlyhalo</string>
+  <string name="notification_download_success_more">Stiahnuté: %1$d</string>
 </resources>

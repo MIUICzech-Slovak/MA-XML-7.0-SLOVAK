@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Použíté pred %d dňami</item>
+        <item quantity="one">Použité včera</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Vyhľadať %d apl.</item>
+        <item quantity="one">Vyhľadať %d apl.</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">Aplikácie (%d) môžu použiť mobilné dáta počas roamingu</item>
+        <item quantity="one">Aplikácie (%d) môžu použiť mobilné dáta počas roamingu</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">Aplikácie (%d) nemôžu použiť mobilné dáta počas roamingu</item>
+        <item quantity="one">Aplikácie (%d) nemôžu použiť mobilné dáta počas roamingu</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Nájdených: %d</item>
+        <item quantity="one">Nájdených: %d</item>
+    </plurals>
+</resources>
