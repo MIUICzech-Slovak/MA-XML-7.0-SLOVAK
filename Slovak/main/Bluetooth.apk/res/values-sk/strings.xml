@@ -19,7 +19,7 @@
   <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>
   <string name="bluetooth_preference_scan_title">Vyhľadať zariadenie</string>
   <string name="bluetooth_search_for_devices">Hľadanie zariadení</string>
-  <string name="bt_advanced_settings">Bluetooth Advanced Settings</string>
+  <string name="bt_advanced_settings">Viac nastavení Bluetooth</string>
   <string name="bt_enable_cancel">Zrušiť</string>
   <string name="bt_enable_line1">Ak chcete používať služby Bluetooth, musíte najskôr rozhranie Bluetooth zapnúť.</string>
   <string name="bt_enable_line2">Zapnúť Bluetooth?</string>
@@ -40,7 +40,7 @@
   <string name="defaultnumber">000000</string>
   <string name="deleteAll_record">Odstrániť všetky záznamy</string>
   <string name="delete_record">Odstrániť záznam</string>
-  <string name="device_picker">Bluetooth device chooser</string>
+  <string name="device_picker">Bluetooth zariadenie</string>
   <string name="disconnect">Odpojiť</string>
   <string name="download_cancel">Zastaviť</string>
   <string name="download_fail_line1">Súbor nebol prijatý</string>
@@ -85,11 +85,11 @@
   <string name="map_provider_smsmms_name">Správy</string>
   <string name="mi_band_vibrate_alarm">Vibrovať keď zvoní budík</string>
   <string name="mi_band_vibrate_incall">Vibrovať keď vyzváňa</string>
-  <string name="mi_band_vibrate_incall_in_contacts">Vibrovať pri prichádzajúcom hovore od kontaktov</string>
-  <string name="mi_band_vibrate_incall_no_contacts">Vibrovať pri prichádzajúcom hovore z neznámych čísel</string>
+  <string name="mi_band_vibrate_incall_in_contacts">Prich. hovor od kontaktov</string>
+  <string name="mi_band_vibrate_incall_no_contacts">Prich. hovor z neznámych čísel</string>
   <string name="mi_band_vibrate_sms">Vibrovať pri novej SMS správe</string>
-  <string name="mi_band_vibrate_sms_in_contacts">Vibrovať pri novej SMS správe od kontaktov</string>
-  <string name="mi_band_vibrate_sms_no_contacts">Vibrovať pri novej SMS správe z neznámych čísel</string>
+  <string name="mi_band_vibrate_sms_in_contacts">SMS správa od kontaktov</string>
+  <string name="mi_band_vibrate_sms_no_contacts">SMS správa z neznámych čísel</string>
   <string name="mi_key_alert_dialog_message">Dotykom stíšite.</string>
   <string name="mi_key_alert_dialog_title">Upozornenie MiKey</string>
   <string name="mi_key_find_mikey">Vyhľadať MiKey</string>
@@ -108,7 +108,7 @@
   <string name="notification_receiving">Zdieľanie Bluetooth: Prijímanie súboru %1$s</string>
   <string name="notification_sending">Zdieľanie Bluetooth: Odosielanie súboru %1$s</string>
   <string name="notification_sent">Zdieľanie Bluetooth: Súbor %1$s bol odoslaný</string>
-  <string name="notification_sent_complete">100 % hotovo</string>
+  <string name="notification_sent_complete">100% hotovo</string>
   <string name="notification_sent_fail">Zdieľanie Bluetooth: Súbor %1$s nebol odoslaný</string>
   <string name="notify_server">Upozorniť server TCP</string>
   <string name="ok_button">OK</string>
