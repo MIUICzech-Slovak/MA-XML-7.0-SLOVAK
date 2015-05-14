@@ -177,7 +177,7 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_main_sync_init">Získavanie informácií</string>
   <string name="micloud_main_sync_now">Synchronizovať</string>
   <string name="micloud_main_sync_on_wifi">Synchr. len cez Wi-Fi</string>
-  <string name="micloud_main_sync_pause">Zastaviť</string>
+  <string name="micloud_main_sync_pause">Zastavené</string>
   <string name="micloud_main_sync_stop">Ukončiť synchr.</string>
   <string name="micloud_main_synced_data_count">Synchr.: %d</string>
   <string name="micloud_main_syncing">Synchronizuje sa...</string>
