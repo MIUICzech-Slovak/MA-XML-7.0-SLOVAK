@@ -405,7 +405,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_device_context_pair_connect">Párovať a pripojiť</string>
   <string name="bluetooth_device_context_unpair">Zrušiť párovanie</string>
   <string name="bluetooth_device_details">Nastavenie zariadenia</string>
-  <string name="bluetooth_device_name">Názov zariadenia:</string>
+  <string name="bluetooth_device_name">"Názov zariadenia: "</string>
   <string name="bluetooth_device_searchable">Viditeľné zariadenie</string>
   <string name="bluetooth_devices">Zariadenia Bluetooth</string>
   <string name="bluetooth_disable_profile_message">Toto nastavenie vypne profil: %1$s Zariadenie:%2$s</string>
@@ -548,8 +548,8 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_unlock_settings_unlock_device">Odomknutie</string>
   <string name="bluetooth_unlock_state_disconnected">Odpojené</string>
   <string name="bluetooth_unlock_state_key_error">Chyba kľúča</string>
-  <string name="bluetooth_unlock_state_label">Stav:</string>
-  <string name="bluetooth_unlock_state_ok">Úspešné</string>
+  <string name="bluetooth_unlock_state_label">"Stav: "</string>
+  <string name="bluetooth_unlock_state_ok">Pripojené</string>
   <string name="bluetooth_unlock_state_too_far">Nie je v dosahu</string>
   <string name="bluetooth_unlock_title">Odomknúť pomocou bluetooth zariadenia</string>
   <string name="bluetooth_unlock_turned_off">Vypnuté</string>
