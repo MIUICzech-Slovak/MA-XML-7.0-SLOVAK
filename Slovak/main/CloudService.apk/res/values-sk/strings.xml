@@ -327,4 +327,20 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
+  <string name="deskclock_backup">Záloha hodín a budíkov</string>
+  <string name="micloud_main_suggest_setting">"Čaká sa na Wi-Fi sieť pre synchr.
+Stlačte tlačidlo Nastavenia pre viac možností"</string>
+  <string name="micloud_main_sync_setting">Nastavenie synchr.</string>
+  <string name="micloud_main_title_sync_fail">Nie je možné synchr.</string>
+  <string name="micloud_main_title_sync_off">Synchr. vypnutá</string>
+  <string name="micloud_main_title_sync_on_wifi">Použiť W-Fi</string>
+  <string name="micloud_member">Prémium</string>
+  <string name="micloud_member_advantage">Získať viac úložného priestoru.</string>
+  <string name="micloud_setting_deskclock_summary">Nastavenie hodín</string>
+  <string name="micloud_storage">Úložisko</string>
+  <string name="micloud_sync_alert_dialog_message">Synchr. vaše fotografie, kontakty, poznámky a oveľa viac.</string>
+  <string name="micloud_sync_alert_dialog_negative">Zrušiť</string>
+  <string name="micloud_sync_alert_dialog_positive">OK</string>
+  <string name="micloud_sync_alert_dialog_title">Použiť MiCloud</string>
+  <string name="settings_backup_title">Zálohovať nastavenie systému</string>
 </resources>

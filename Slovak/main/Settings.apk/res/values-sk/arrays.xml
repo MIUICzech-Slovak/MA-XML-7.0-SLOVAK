@@ -684,4 +684,16 @@ Postupujte podľa pokynov"</item>
         <item>15 minútach</item>
         <item>30 minútach</item>
     </string-array>
+    <string-array name="fluency_mode_entries">
+        <item>Vypnúť animácie systému</item>
+        <item>Povoliť animácie systému</item>
+    </string-array>
+    <string-array name="fluency_mode_summaries">
+        <item>"Pre zrýchlenie vášho zariadenia vypnite animácie systému"</item>
+        <item>"Zobrazenie animácií systému môže spomaliť vaše zariadenie"</item>
+    </string-array>
+    <string-array name="fluency_mode_confirms">
+        <item>Reštartovať vaše zariadenie pre aplikovanie týchto zmien?</item>
+        <item>Reštartovať vaše zariadenie pre aplikovanie týchto zmien?</item>
+    </string-array>
 </resources>

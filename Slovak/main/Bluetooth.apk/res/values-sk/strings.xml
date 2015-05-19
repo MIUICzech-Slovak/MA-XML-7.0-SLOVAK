@@ -146,7 +146,7 @@
   <string name="profile_mse">MAP</string>
   <string name="profile_pan">PAN</string>
   <string name="profile_sap">SAP</string>
-  <string name="progress_scanning">Vyhľadávanie</string>
+  <string name="progress_scanning">Vyhľadávanie...</string>
   <string name="sharedUserId"/>
   <string name="start_server">Spustiť server TCP</string>
   <string name="status_canceled">Prenos bol zrušený používateľom.</string>
@@ -188,4 +188,5 @@
   <string name="bluetooth_connecting">Pripájanie...</string>
   <string name="bluetooth_disconnected">Odpojené</string>
   <string name="bluetooth_disconnecting">Odpájanie...</string>
+  <string name="ble_device_rename">Premenovať</string>
 </resources>

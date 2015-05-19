@@ -20,7 +20,7 @@
   <string name="cloud_app_no_data">Žiadna záloha</string>
   <string name="cloud_app_no_network">Nie je možné sa pripojiť k sieti</string>
   <string name="cloud_app_other_devices">Ostatné zariadenia</string>
-  <string name="cloud_app_restore_app_and_data">Obnoviť rozloženie domácej plochy</string>
+  <string name="cloud_app_restore_app_and_data">Obnoviť z MiCloud</string>
   <string name="cloud_app_restore_data">Obnoviť nainštalované aplikácie</string>
   <string name="cloud_app_restore_error">Nebolo možné obnoviť</string>
   <string name="cloud_app_restore_success">Aplikácie obnovené</string>
@@ -69,4 +69,8 @@
   <string name="start_recover">Obnoviť %s</string>
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="deskclock_backup">Hodiny</string>
+  <string name="recover_home_settings">Obnoviť nastavenie plochy</string>
+  <string name="recover_miui_settings">Obnoviť nastavenie MIUI</string>
+  <string name="settings_backup">Nastavenie systému</string>
 </resources>
