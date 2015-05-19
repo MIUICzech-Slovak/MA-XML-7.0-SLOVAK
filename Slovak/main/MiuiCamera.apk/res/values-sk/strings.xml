@@ -207,7 +207,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
   <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_antibanding_title">Redukcia pruhov na displeji</string>
-  <string name="pref_camera_asd_night_title">Automatické vylepšenie nočnej fotografie</string>
+  <string name="pref_camera_asd_night_title">Autom. vylepšiť nočnú fotografiu</string>
   <string name="pref_camera_asd_popup_title">Upozorniť ak je potrebný blesk</string>
   <string name="pref_camera_asd_title">Autom. rozpoznať scénu</string>
   <string name="pref_camera_audio_capture_title">Spúšť zvukom</string>
