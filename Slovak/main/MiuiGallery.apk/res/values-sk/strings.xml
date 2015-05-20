@@ -405,7 +405,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="not_now">Neskôr</string>
   <string name="not_show_hidden_albums">"Nezobraziť skryté albumy"</string>
   <string name="old">​Stará</string>
-  <string name="only_show_camera_in_first_page">Zobraziť len fotografie z albumu na prvej strane</string>
+  <string name="only_show_camera_in_first_page">Fotografie z albumu na prvej strane</string>
   <string name="only_show_camera_in_first_page_summary">Ak je deaktivované, budú zobrazené fotografie zo všetkých albumov v cloude.</string>
   <string name="open">Otvoriť</string>
   <string name="open_public_message">Vytvoriť URL a odoslať ostatným</string>
@@ -683,4 +683,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="ubifocus_data_invalid">Niektoré dáta pre tento obrázok sú poškodené</string>
   <string name="ubifocus_refocus_data_invalid">Nie je možné použiť Refocus, pretože niektoré dáta pre tento obrázok sú poškodené</string>
   <string name="videos">Videá</string>
+  <string name="cant_delete_system_album">Vymazanie zlyhalo: %s je systémový album alebo je zdieľané iným užívateľom.</string>
+  <string name="paint_highlight_cancel_context">Uložiť zvýraznený obrázok?</string>
+  <string name="paint_highlight_cancel_title">Zrušiť zmeny</string>
 </resources>

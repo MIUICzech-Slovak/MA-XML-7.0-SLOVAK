@@ -280,7 +280,7 @@
   <string name="snooze_label">Stlmiť</string>
   <string name="subscribe_all">Prihlásiť</string>
   <string name="sync_notice_cancel_toast_message">Lokálne uložené udalosti nebudú synchronizované s MiCloud</string>
-  <string name="sync_notice_message">Synchr. váš kalendír s MiCloud?</string>
+  <string name="sync_notice_message">Synchr. váš kalendár s MiCloud?</string>
   <string name="sync_notice_ok">Povoliť</string>
   <string name="sync_notice_ok_toast_message">Lokálne uložené udalosti budú synchronizované s MiCloud</string>
   <string name="sync_notice_title">Synchronizácia</string>
@@ -318,4 +318,6 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
+  <string name="select_date">Vybrať dátum</string>
+  <string name="birthday_notification_text_three_days_later_with_activity">Kúpte kvety alebo tortu pre TA</string>
 </resources>

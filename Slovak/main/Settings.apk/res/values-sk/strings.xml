@@ -3610,5 +3610,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="lock_screen_secure_after_timeout_title">Vyžadovať heslo</string>
   <string name="fluency_mode_confirm_and_reboot">Reštartovať</string>
   <string name="performance_category">Výkon</string>
-
+  <string name="cell_broadcast_settings_summary">Vyberte typ núdzových správ na zobrazenie</string>
 </resources>

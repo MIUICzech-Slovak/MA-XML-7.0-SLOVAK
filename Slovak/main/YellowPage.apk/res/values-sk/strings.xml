@@ -191,4 +191,13 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
   <string name="network_access_denied">Prístup k sieti zamietnutý</string>
+  <string name="mark_number_custom_mark_deleted">Označenie odobrané.</string>
+  <string name="mark_number_dialog_subtitle">Označené %2$d ľuďmi ako %1$s.</string>
+  <string name="mark_number_feedback">Nahlásiť</string>
+  <string name="mark_number_feedback_hint">Zadajte váš názor</string>
+  <string name="mark_number_feedback_invalid_hint">Zadajte správny údaj</string>
+  <string name="mark_number_feedback_success">Názor odoslaný, číslo bude overené.</string>
+  <string name="mark_number_marked_maintitle">Upraviť</string>
+  <string name="mark_number_marked_subtitle">Označil som ako %s</string>
+  <string name="mark_number_remove">Odobrať označenie</string>
 </resources>
