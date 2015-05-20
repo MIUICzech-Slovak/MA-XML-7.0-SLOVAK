@@ -866,7 +866,7 @@ presahuje limit"</string>
   <string name="turn_auto_sync_on_dialog_body">Zmeny, ktoré vykonáte vo všetkých aplikáciách a účtoch, budú synchronizované medzi webom, ďalšími zariadeniami a zariadením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnúť</string>
   <string name="turn_auto_sync_on_dialog_title">Zapnúť automatickú synchronizáciu?</string>
-  <string name="undo">Späť</string>
+  <string name="undo"/>
   <string name="unread_from_someone">Od [%s]</string>
   <string name="unread_string">konverzácia nebola prečítaná</string>
   <string name="unsent_messages_in_outbox">Počet neodoslaných správ v priečinku %2$s: %1$s</string>
