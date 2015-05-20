@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="emailAddressTypes">
+        <item>Domov</item>
+        <item>Práca</item>
+        <item>Iné</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="imProtocols">
+        <item>AIM</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
+        <item>QQ</item>
+        <item>Google Talk</item>
+        <item>ICQ</item>
+        <item>Jabber</item>
+    </string-array>
+    <string-array name="organizationTypes">
+        <item>Práca</item>
+        <item>Iné</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="phoneTypes">
+        <item>Domov</item>
+        <item>Mobil</item>
+        <item>Práca</item>
+        <item>Fax práca</item>
+        <item>Fax domov</item>
+        <item>Pager</item>
+        <item>Iné</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="postalAddressTypes">
+        <item>Domov</item>
+        <item>Práca</item>
+        <item>Iné</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="imAddressTypes">
+        <item>Domov</item>
+        <item>Práca</item>
+        <item>Iné</item>
+        <item>Vlastné</item>
+    </string-array>
+    <string-array name="app_ops_labels">
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Vibrovanie</item>
+        <item>Čítanie kontaktov</item>
+        <item>Úprava kontaktov</item>
+        <item>Čítanie denníka hovorov</item>
+        <item>Úprava denníka hovorov</item>
+        <item>Čítanie kalendára</item>
+        <item>Úprava kalendára</item>
+        <item>Poloha</item>
+        <item>Upozornenie na príspevok</item>
+        <item>Poloha</item>
+        <item>Volanie na telefón</item>
+        <item>Čítanie SMS/MMS</item>
+        <item>Písanie SMS/MMS</item>
+        <item>Príjem SMS/MMS</item>
+        <item>Príjem SMS/MMS</item>
+        <item>Príjem SMS/MMS</item>
+        <item>Príjem SMS/MMS</item>
+        <item>Odosielanie SMS/MMS</item>
+        <item>Čítanie SMS/MMS</item>
+        <item>Písanie SMS/MMS</item>
+        <item>Úprava nastavení</item>
+        <item>Vykreslenie navrch</item>
+        <item>Prístup k upozorneniam</item>
+        <item>Fotoaparát</item>
+        <item>Zaznamenať zvuk</item>
+        <item>Prehrať zvuk</item>
+        <item>Načítať schránku</item>
+        <item>Upraviť schránku</item>
+        <item>Tlačidlá médií</item>
+        <item>Zameranie zvuku</item>
+        <item>Hlavná hlasitosť</item>
+        <item>Hlasitosť hlasu</item>
+        <item>Hlasitosť zvonenia</item>
+        <item>Hlasitosť médií</item>
+        <item>Hlasitosť budíka</item>
+        <item>Hlasitosť upozornení</item>
+        <item>Hlasitosť zariadenia Bluetooth</item>
+        <item>Zakázať režim spánku</item>
+        <item>Poloha</item>
+        <item>Poloha</item>
+        <item>Štatika používania</item>
+        <item>Prepnúť mikrofón</item>
+        <item>Vyskakovacie okná</item>
+        <item>Odosielať média</item>
+        <item>Aktivovať VPN</item>
+        <item>Zmeniť Wi-Fi</item>
+        <item>Zmeniť Bluetooth</item>
+        <item>Odoslať MMS</item>
+        <item>Čítať MMS</item>
+        <item>Písať MMS</item>
+        <item>Auto. spustenie</item>
+        <item>Zmeniť NFC</item>
+        <item>Vymazať SMS</item>
+        <item>Vymazať MMS</item>
+        <item>Vymazať kontakty</item>
+        <item>Vymazať zoznam hovorov</item>
+        <item>Zmeniť 2G/3G</item>
+    </string-array>
+</resources>
