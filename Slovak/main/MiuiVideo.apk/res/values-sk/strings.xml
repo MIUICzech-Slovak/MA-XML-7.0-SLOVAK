@@ -41,8 +41,8 @@
   <string name="average_score">Hodnotenie</string>
   <string name="avg_score">%.1f</string>
   <string name="bestv">Bestv</string>
-  <string name="buffering">Ukladanie do vyrovnávacej pamäte...</string>
-  <string name="buffering_video_netplay_label_v5">Ukladanie do vyrovnávacej pamäte...</string>
+  <string name="buffering">Načítavanie...</string>
+  <string name="buffering_video_netplay_label_v5">Načítavanie...</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_favorite_success">Odznačené</string>
   <string name="check_app_version">Kontrola novej verzie...</string>
@@ -172,7 +172,7 @@
   <string name="media_name_comment">%s komentár</string>
   <string name="memory_mode_desc">Save memory usage</string>
   <string name="menu_item_enable_audio_enhance">Vylepšiť zvuk</string>
-  <string name="menu_item_disable_audio_enhance">Vylepšiť zvuk</string>
+  <string name="menu_item_disable_audio_enhance">Nevylepšovať zvuk</string>
   <string name="menu_name">Menu</string>
   <string name="mine_info_account_summary_none">Not login</string>
   <string name="mine_info_account_title">Account information</string>
@@ -327,7 +327,7 @@
   <string name="video_count">Videá: %d</string>
   <string name="video_info_audio_bitrate_label">Bitrate audio:</string>
   <string name="video_info_audio_coding_label">Formát kódovania zvuku:</string>
-  <string name="video_info_audio_null">Nedostupný</string>
+  <string name="video_info_audio_null">Neznáme</string>
   <string name="video_info_frame_rate_label">FPS:</string>
   <string name="video_info_length_label">Dĺžka:</string>
   <string name="video_info_resolution_label">Rozlíšenie videa:</string>
@@ -365,7 +365,7 @@
   <string name="vp_full_screen">Na celú obrazovku</string>
   <string name="vp_function">Nast.</string>
   <string name="vp_get_url_error">Načítavanie URL zlyhalo.</string>
-  <string name="vp_hide_media_info">Skryť info o videu</string>
+  <string name="vp_hide_media_info">Skryť info</string>
   <string name="vp_high_definition">HD</string>
   <string name="vp_hint">Informácia</string>
   <string name="vp_install">Inštalovať</string>
@@ -375,7 +375,7 @@
   <string name="vp_loading_video">Načítavanie…</string>
   <string name="vp_low_definition">LOW</string>
   <string name="vp_maintitlearea">Užite si filmy v HD kvalite! Stlačte tlačidlo OK pre pokračovanie.</string>
-  <string name="vp_media_info">Zobraziť info o videu</string>
+  <string name="vp_media_info">Info</string>
   <string name="vp_milink">MiLink</string>
   <string name="vp_milink_function">Stream.</string>
   <string name="vp_mobile_network_using_negative">Cancel</string>
@@ -397,11 +397,11 @@
   <string name="vp_player_plugin_dlg_title">Video Player Plugin</string>
   <string name="vp_plugin_message">Inštalovať HD video plugin?</string>
   <string name="vp_retry">Znova</string>
-  <string name="vp_scale_screen">Zmeniť pomer strán</string>
-  <string name="vp_screen_shot">Záznam</string>
+  <string name="vp_scale_screen">Pomer strán</string>
+  <string name="vp_screen_shot">Snímok</string>
   <string name="vp_select_ci">Vybrať</string>
   <string name="vp_select_ep">Vybrať ep</string>
-  <string name="vp_select_function">Nastavenia videa</string>
+  <string name="vp_select_function">Nastavenie</string>
   <string name="vp_select_source">Vybrať zdroj</string>
   <string name="vp_select_video_definition">Rozlíšenie</string>
   <string name="vp_select_video_source">Zdroj</string>
