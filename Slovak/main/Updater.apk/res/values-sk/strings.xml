@@ -306,4 +306,8 @@ Nie je možné odoslať váš názor"</string>
   <string name="welcom_button">OK</string>
   <string name="welcom_message">Dokončené</string>
   <string name="welcom_title">Vitajte v MIUI 6</string>
+  <string name="download_success_reboot_immediately">Reštartujte do novej verzie</string>
+  <string name="notification_auto_reboot_seccess_title">Aktualizované automaticky</string>
+  <string name="update_success_reboot_immediately">Zariadenie je aktualizované</string>
+  <string name="updater_wait_for_unzip">Rozbaľovanie aktualizácie...</string>
 </resources>

@@ -45,7 +45,7 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_back_up_close_info">Zálohovať</string>
   <string name="cloud_back_up_dialog_content">Zastaviť zálohovanie? Ak prerušíte zálohovanie, nebude možné obnoviť vaše nastavenia.</string>
   <string name="cloud_back_up_interval_long">7 dní</string>
-  <string name="cloud_back_up_interval_short">1h</string>
+  <string name="cloud_back_up_interval_short">1 deň</string>
   <string name="cloud_back_up_network_unavailable">Nie je možné odobrať. Pripojte sa k Wi-Fi sieti.</string>
   <string name="cloud_back_up_open_info">"Zálohovať vaše nastavenie domácej obrazovky a aplikácií každých %1$s ak ste pripojený na Wi-Fi
 Naposledy: %2$s"</string>
@@ -334,7 +334,7 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_main_title_sync_fail">Nie je možné synchr.</string>
   <string name="micloud_main_title_sync_off">Synchr. vypnutá</string>
   <string name="micloud_main_title_sync_on_wifi">Použiť W-Fi</string>
-  <string name="micloud_member">Prémium</string>
+  <string name="micloud_member">MiCloud členstvo</string>
   <string name="micloud_member_advantage">Získať viac úložného priestoru.</string>
   <string name="micloud_setting_deskclock_summary">Nastavenie hodín</string>
   <string name="micloud_storage">Úložisko</string>
@@ -343,4 +343,18 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Použiť MiCloud</string>
   <string name="settings_backup_title">Zálohovať nastavenie systému</string>
+  <string name="micloud_buy_member">Zmeniť členstvo</string>
+  <string name="micloud_member_buy_content" formatted="false">"Platné pre %s-%s-%s
+
+%s MiKreditov na rok"</string>
+  <string name="micloud_member_buy_title">Potvrdiť</string>
+  <string name="micloud_member_net_error_alert_message">Nemáte pripojenie k internetu.</string>
+  <string name="micloud_member_net_error_alert_title">Nie je možné sa pripojiť k sieti</string>
+  <string name="micloud_member_pay_fail_toast">Platba nemohla byť dokončená</string>
+  <string name="micloud_member_pay_miid_error_toast">Chyba účtu</string>
+  <string name="micloud_member_pay_order_error_toast">Chyba dát</string>
+  <string name="micloud_member_refresh_button">Obnoviť</string>
+  <string name="micloud_member_webload_fail_error_message">Chyba siete</string>
+  <string name="micloud_member_webload_fail_toast_4xx">Stránku nebolo možné načítať</string>
+  <string name="micloud_member_webload_fail_toast_5xx">Chyba servera</string>
 </resources>

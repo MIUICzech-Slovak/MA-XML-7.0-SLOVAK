@@ -1188,5 +1188,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="remove_blacklist_dialog_title">Odblokovať toto číslo?</string>
   <string name="resource_select_ringtone_confirm_picker">Nastaviť tento zvuk?</string>
   <string name="preference_contacts_recovery_introduction">Obnoviť kontakty</string>
-  <string name="group_sms_error_message">Chyba skupinovej SMS: viac ako limit %s</string>
+  <string name="group_sms_error_message">SMS nesmie mať viac ako %s príjmateľov</string>
+  <string name="export_sim_contact_finish_msg">%1$d prenesených | %2$d preskočených | %3$d ostáva</string>
 </resources>
