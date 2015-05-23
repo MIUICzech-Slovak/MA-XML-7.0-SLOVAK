@@ -165,7 +165,7 @@
         <item>Žiadné</item>
         <item>PAP</item>
         <item>CHAP</item>
-        <item>PAP nebo CHAP</item>
+        <item>PAP alebo CHAP</item>
     </string-array>
     <string-array name="bearer_entries">
         <item>LTE</item>

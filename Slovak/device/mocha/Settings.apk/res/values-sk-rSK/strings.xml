@@ -409,7 +409,7 @@ Stačí priložiť zariadenia k sebe (obyčajne zadnými stranami) a potom sa do
   <string name="bluetooth_dock_settings_title">Použiť zvuk doku</string>
   <string name="bluetooth_empty_list_bluetooth_off">Ak chcete zobraziť zariadenia, zapnite Bluetooth.</string>
   <string name="bluetooth_enable">Povoliť bluetooth</string>
-  <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena nebo symboly</string>
+  <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena alebo symboly</string>
   <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením: %1$s Zadajte prístupový kľúč požadovaný zariadením:</string>
   <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>
   <string name="bluetooth_enter_pin_msg">Párovanie so zariadením: %1$s Zadajte kód PIN požadovaný zariadením:</string>

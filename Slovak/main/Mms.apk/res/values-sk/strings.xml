@@ -542,7 +542,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="type_audio">audio</string>
   <string name="type_picture">obrázok</string>
   <string name="type_to_compose_text_enter_to_send">Sem napíšte správu</string>
-  <string name="type_to_compose_text_or_leave_blank">Zadajte text nebo nechajte prázdne</string>
+  <string name="type_to_compose_text_or_leave_blank">Zadajte text alebo nechajte prázdne</string>
   <string name="type_vcard">vCard</string>
   <string name="type_video">video</string>
   <string name="undelivered_msg_dialog_body">"Správu sa nepodarilo odoslať. 

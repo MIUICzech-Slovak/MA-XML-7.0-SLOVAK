@@ -430,7 +430,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_empty_list_bluetooth_off">Ak chcete zobraziť zariadenia, zapnite Bluetooth.</string>
   <string name="bluetooth_empty_list_user_restricted">Nemáte povolenie na zmenu nastavení Bluetooth.</string>
   <string name="bluetooth_enable">Povoliť bluetooth</string>
-  <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena nebo symboly</string>
+  <string name="bluetooth_enable_alphanumeric_pin">Kód PIN obsahuje písmena alebo symboly</string>
   <string name="bluetooth_enter_passkey_msg">Párovanie so zariadením: %1$s Zadajte prístupový kľúč požadovaný zariadením:</string>
   <string name="bluetooth_enter_passkey_other_device">Tento prístupový kľúč bude možno nutné zadať aj v ďalšom zariadení.</string>
   <string name="bluetooth_enter_pin_msg">Párovanie so zariadením: %1$s Zadajte kód PIN požadovaný zariadením:</string>
@@ -486,7 +486,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="bluetooth_pb_remember_choice">Na budúce sa nepýtať</string>
   <string name="bluetooth_permission_request">Požiadavka povolení Bluetooth</string>
   <string name="bluetooth_phonebook_request">Požiadavka telefónneho zoznamu</string>
-  <string name="bluetooth_pin_values_hint">Obvykle 0000 nebo 1234</string>
+  <string name="bluetooth_pin_values_hint">Obvykle 0000 alebo 1234</string>
   <string name="bluetooth_preference_connected_devices">Pripojené zariadenia</string>
   <string name="bluetooth_preference_device_settings">Nastavenie zariadenia</string>
   <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>
