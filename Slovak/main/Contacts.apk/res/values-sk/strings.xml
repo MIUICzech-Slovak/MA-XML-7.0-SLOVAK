@@ -1190,4 +1190,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="preference_contacts_recovery_introduction">Obnoviť kontakty</string>
   <string name="group_sms_error_message">SMS nesmie mať viac ako %s príjmateľov</string>
   <string name="export_sim_contact_finish_msg">%1$d prenesených | %2$d preskočených | %3$d ostáva</string>
+  <string name="deleting_sim_entry_miui_prepare">Príprava na vymazanie...</string>
+  <string name="importing_sim_contacts_miui_prepare">Príprava na import...</string>
+  <string name="loading_accounts">Načítavanie SIM...</string>
 </resources>
