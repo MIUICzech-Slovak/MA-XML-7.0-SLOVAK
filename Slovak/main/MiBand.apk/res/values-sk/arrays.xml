@@ -142,4 +142,15 @@
         <item>Vibrovať s MiBand počas budíku</item>
         <item>Vibrovať s MiBand pri prihatí SMS správy</item>
     </string-array>
+    <string-array name="weight_body_figures_for_child">
+        <item>Ľahký</item>
+        <item>Normálny</item>
+        <item>Nadváha</item>
+        <item>Obezita</item>
+        <item>Obezita</item>
+    </string-array>
+    <string-array name="contacts_notify_title">
+        <item>Len pre hovory od kontaktov</item>
+        <item>Len pre SMS od kontaktov</item>
+     </string-array>
 </resources>
