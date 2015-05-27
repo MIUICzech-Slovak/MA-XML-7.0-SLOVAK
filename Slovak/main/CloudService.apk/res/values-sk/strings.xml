@@ -358,4 +358,9 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_member_webload_fail_toast_4xx">Stránku nebolo možné načítať</string>
   <string name="micloud_member_webload_fail_toast_5xx">Chyba servera</string>
   <string name="micloud_main_space_low">Dochádza voľné miesto...</string>
+  <string name="sync_dspt_entrance_provision_confirm_close">Nepoužívať</string>
+  <string name="sync_dspt_entrance_provision_confirm_content">Aplikácie MIUI využívajú MiCloud pre zálohu fotografií, kontaktov, poznámok a oveľa viac. MiCloud je dostupný zdarma pre všetkých.</string>
+  <string name="sync_dspt_entrance_provision_confirm_open">Použíť MiCloud</string>
+  <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívať MiCloud?</string>
+  <string name="sync_dspt_entrance_provision_skip">Preskočiť</string>
 </resources>
