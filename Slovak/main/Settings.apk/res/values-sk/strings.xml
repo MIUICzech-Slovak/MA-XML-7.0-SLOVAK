@@ -3615,7 +3615,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="virtual_sim_description">SIM virtuálneho operátora</string>
   <string name="virtual_sim_title">Roaming dátovej siete</string>
   <string name="status_bar_settings_manage_notification">Spravovať upozornenia</string>
-  <string name="virtual_sim_category_title">Virtual Sim</string>
-  <string name="virtual_sim_description">Reliable international roaming service</string>
-  <string name="virtual_sim_title">Roaming data network</string>
 </resources>
