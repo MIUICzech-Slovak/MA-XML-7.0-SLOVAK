@@ -63,13 +63,13 @@ function setCurLocale(locale)
         if string.find(locale, line[1]) == 1 then
             g_curTable = line[2]
             log("find g_curTable = ".. line[1])
-
+            break;
         end
     end
 
     if (g_curTable == nil) then
         log('g_curTable is nil')
-        g_curTable = localization_English_table
+        g_curTable = localization_en_table
     end
 end
 

@@ -1456,7 +1456,6 @@ The method above can only be used to determine if the weight of a child is norma
   <string name="title_activity_baby_tips_detail">Weigh infant</string>
   <string name="title_activity_baby_weight">Weigh infant</string>
   <string name="title_activity_baby_weight_info">Weigh infant</string>
-  <string name="title_activity_open">Sync with account</string>
   <string name="toast_disable_bluethooth_brocast">Bluetooth Smart is off</string>
   <string name="toast_enable_bluethooth_brocast">Bluetooth Smart is on</string>
   <string name="unbind_google_fit">Stop syncing with Google Fit</string>
