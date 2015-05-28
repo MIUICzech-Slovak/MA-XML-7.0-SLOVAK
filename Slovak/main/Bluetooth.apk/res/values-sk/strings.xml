@@ -189,4 +189,13 @@
   <string name="bluetooth_disconnected">Odpojené</string>
   <string name="bluetooth_disconnecting">Odpájanie...</string>
   <string name="ble_device_rename">Premenovať</string>
+  <string name="ble_device_profile">Pripojené BLE zariadenie</string>
+  <string name="goto_package">Otvorte %1$s</string>
+  <string name="install_package">Pre viac funkcií nainštalujte %1$s</string>
+  <string name="mi_key_open_camera">Otvoriť Fotoaparát</string>
+  <string name="mi_key_summary_find_phone">Stlačte a podržte MiKey pre vyzváňanie</string>
+  <string name="mi_key_summary_open_camera">Dvojité stlačenie MiKey otvorí fotoaparát</string>
+  <string name="mi_key_summary_take_photo">Stlačte MiKey pre zhotovenie fotografie</string>
+  <string name="reset_function_msg">Reopen the function will cause it invalid in %1$s</string>
+  <string name="some_app_taking">(%1$s už používa túto funkciu…)</string>
 </resources>

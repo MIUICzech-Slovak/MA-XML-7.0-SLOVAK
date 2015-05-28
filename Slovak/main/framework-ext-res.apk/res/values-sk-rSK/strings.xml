@@ -77,4 +77,6 @@
   <string name="softap_notifif_summary">Pripojených: %d</string>
   <string name="softap_notifif_title">Hot-spot \"%s\" aktívny</string>
   <string name="unknown_caller">Neznáme číslo</string>
+  <string name="handy_mode_summary">Dotykom na prázdne miesto ho ukončíte</string>
+  <string name="handy_mode_title">Ovládanie jednou rukou</string>
 </resources>
