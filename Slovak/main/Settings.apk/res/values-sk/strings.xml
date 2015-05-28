@@ -1884,7 +1884,7 @@ Vyberte váš operačný systém:"</string>
   <string name="only_when_charging">Len počas nabíjania</string>
   <string name="onscreen_keyboard_settings_summary">Nastavenie klávesnice na obrazovke</string>
   <string name="open_wifi_connect_summary">Stlačte pre správu sietí</string>
-  <string name="open_wifi_connect_title">Pripojiť k otvorenej sieti %1$s</string>
+  <string name="open_wifi_connect_title">Pripojiť k %1$s</string>
   <string name="other_advanced_settings">Ďalšie nastavenia</string>
   <string name="other_personal_settings">Osobné nastavenia</string>
   <string name="other_relative">Ostatné povolenia</string>
