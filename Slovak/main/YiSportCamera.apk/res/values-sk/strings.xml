@@ -520,4 +520,17 @@ Veľkosť: %2$s"</string>
   <string name="unbind_bluetooth_failed">Odpojenie zlyhalo!</string>
   <string name="unbind_bluetooth_succeeded">Odpojené!</string>
   <string name="unbind_bluetooth_unbinded">Nič sa nenašlo!</string>
+  <string name="skip">Preskočiť</string>
+  <string name="open_url">Pripojiť sa</string>
+  <string name="home_camera_dialog_help_content">"Otvorte zadný kryt, vyberte batériu
+Nájdite číslo SN, názov predvolenej Wi-Fi siete kamery."</string>
+  <string name="home_camera_dialog_help_title">Nemôžete nájsť kameru?</string>
+  <string name="home_camera_dialog_reset_content">"Stlačte a podržte naraz tlačidlo zapínania a Wi-Fi.
+Kamera sa automaticky reštartuje s prevoleným heslom
+camera1234567890"</string>
+  <string name="home_camera_dialog_reset_title">Ako obnoviť predevolené nastavenia?</string>
+  <string name="firmware_upgrade_failed_no_space">SD karta má nedostatok voľného miesta.</string>
+  <string name="firmware_upgrade_failed_time_out">Spojenie bolo prerušené, nahrajte firmware znova.</string>
+  <string name="camera_firmware_cancel">Zrušiť Firmware</string>
+  <string name="button_forget_pwd">Zabudnuté Wi-Fi heslo?</string>
 </resources>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout android:orientation="vertical" android:background="@color/window_bg_color" android:paddingLeft="20.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="10.0dip" android:layout_marginRight="10.0dip"
   xmlns:android="http://schemas.android.com/apk/res/android">
-    <TextView android:textSize="20.0dip" android:textColor="#ffffffff" android:gravity="center" android:id="@id/title_bar" android:layout_width="fill_parent" android:layout_height="45.0dip" android:text="Test" />
+    <TextView android:textSize="20.0sp" android:textColor="#ffffffff" android:gravity="center" android:id="@id/title_bar" android:layout_width="fill_parent" android:layout_height="45.0dip" android:text="Test" />
     <TextView android:textSize="16.0sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/tv_message" android:layout_width="fill_parent" android:layout_height="150.0dip" android:layout_marginTop="0.0dip" android:text="sfafa" />
     <LinearLayout android:gravity="center" android:orientation="horizontal" android:layout_width="252.0dip" android:layout_height="wrap_content">
-        <Button android:textSize="16.0dip" android:textColor="#ff000000" android:gravity="center" android:id="@id/dialog_positive_button" android:layout_width="70.0dip" android:layout_height="40.0dip" android:layout_marginLeft="20.0dip" android:text="Zrušiť" />
+        <Button android:textSize="16.0sp" android:textColor="#ff000000" android:gravity="center" android:id="@id/dialog_positive_button" android:layout_width="70.0dip" android:layout_height="40.0dip" android:layout_marginLeft="20.0dip" android:text="Zrušiť" />
         <Button android:textSize="16.0dip" android:textColor="#ff000000" android:gravity="center" android:layout_gravity="center_vertical" android:id="@id/dialog_negative_button" android:layout_width="70.0dip" android:layout_height="40.0dip" android:layout_marginRight="20.0dip" android:text="显示" />
     </LinearLayout>
 </LinearLayout>
