@@ -304,7 +304,7 @@
   <string name="compose_help_context">Text správy</string>
   <string name="compose_send">Odoslať</string>
   <string name="compose_sent">Odoslané</string>
-  <string name="confirm">potvrdiť</string>
+  <string name="confirm">OK</string>
   <string name="confirm_delete">Vymazať tento email?</string>
   <string name="confirm_delete_conversation_title">Vymazať</string>
   <string name="confirm_discard_text">Zahodiť túto správu?</string>
