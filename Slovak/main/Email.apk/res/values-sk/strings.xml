@@ -937,10 +937,11 @@ Delta update size: %2$s"</string>
   <string name="contact_edit_title_phone_contact">Zoznam kontaktov</string>
   <string name="re_download_message_button">Stiahnuť znova</string>
   <string name="re_download_message_info">Sťahovanie správy zlyhalo</string>
-  <string name="account_setup_incoming_username_label_default_hint">Obsahuje doménu</string>
+  <string name="account_setup_incoming_username_label_default_hint">Môže obsahovať aj doménu</string>
   <string name="dialog_account_auto_sync_setting_no_open">Synchr. je vypnutá, nie je možné prijať nové správy.</string>
   <string name="dialog_auto_sync_setting_no_open">Synchr. je vypnutá, nie je možné prijať nové správy.</string>
   <string name="oauth_error_description">Nepodarilo sa autorizovať</string>
   <string name="oauth_gmail_login_notify">Google vyžaduje zadanie hesla na prihlasovacej stránke spoločnosti Google</string>
   <string name="oauth_login_continue">Pokračovať</string>
+
 </resources>

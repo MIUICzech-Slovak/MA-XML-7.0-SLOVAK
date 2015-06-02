@@ -363,4 +363,5 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Použíť MiCloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívať MiCloud?</string>
   <string name="sync_dspt_entrance_provision_skip">Preskočiť</string>
+  <string name="internet_access_dspt">Táto aplikácia vyžaduje pripojenie na internet pre jej správne fungovanie.</string>
 </resources>

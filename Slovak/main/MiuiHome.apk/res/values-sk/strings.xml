@@ -276,4 +276,5 @@
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="download_action">Stiahnuť</string>
   <string name="loading_wallpaper">Načítavanie...</string>
+  <string name="is_setting_wallpaper_message">Nastavovanie tapety...</string>
 </resources>

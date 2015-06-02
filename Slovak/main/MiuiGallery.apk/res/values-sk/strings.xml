@@ -686,4 +686,13 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="cant_delete_system_album">Vymazanie zlyhalo: %s je systémový album alebo je zdieľané iným užívateľom.</string>
   <string name="paint_highlight_cancel_context">Uložiť zvýraznený obrázok?</string>
   <string name="paint_highlight_cancel_title">Zrušiť zmeny</string>
+  <string name="add_event">Pridať udalosť</string>
+  <string name="add_event_hint">Zadajte názov</string>
+  <string name="confirm_all_photo_are_this_people_face">Všetky nájdené?</string>
+  <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojiť tieto albumy s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>
+  <string name="event_manage_photos">Spravovať fotografie</string>
+  <string name="face_albumset_loading_data">Načítavanie...</string>
+  <string name="merge_album">Spojiť</string>
+  <string name="merge_album_title">Spojiť albumy</string>
+  <string name="pick_from_contact">Vybrať z kontaktov</string>
 </resources>
