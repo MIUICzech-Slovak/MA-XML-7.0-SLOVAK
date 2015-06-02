@@ -86,5 +86,4 @@
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
-  <string name="activate_sms_postfix">[Táto SMS správa je použitá na aktivovanie vášho účtu.]</string>
 </resources>
