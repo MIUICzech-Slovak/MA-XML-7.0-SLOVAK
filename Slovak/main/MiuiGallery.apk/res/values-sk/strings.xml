@@ -244,7 +244,7 @@ spoločne!"</string>
   <string name="face_album_rename_hint">Zadajte meno</string>
   <string name="face_albumset_detecting_tip">Rozpoznávanie tvárí...</string>
   <string name="face_albumset_empty">Žiadna tvár nebola rozpoznaná</string>
-  <string name="face_albumset_use_tip">"Pomôžte vyhľadať tieto tváre,
+  <string name="face_albumset_use_tip">"Vyhľadať tváre na fotografiách,
 uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="face_move_dialog_title">Vyberte album</string>
   <string name="facelift">Zosvetlenie tváre</string>
@@ -585,9 +585,9 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="sports_camera">YiSports Camera</string>
   <string name="square">Štvorec</string>
   <string name="start_slide_show">Spustiť prezentáciu</string>
-  <string name="start_to_use_face_albumset">Začnite používať album tvárí</string>
+  <string name="start_to_use_face_albumset">Použiť album tvárí</string>
   <string name="storage_all_volumes">Všetky úložné zariadenia</string>
-  <string name="storage_no_space">"Nieje voľné miesto na úložisku."</string>
+  <string name="storage_no_space">"Nie je voľné miesto na úložisku."</string>
   <string name="straighten">Vyrovnať</string>
   <string name="straighten_tooltip">Potiahni snímku pre jej vyrovnanie</string>
   <string name="sync_album">Synchronizovať album</string>
@@ -661,7 +661,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="confirm_all_photo_not_this_people_face">Nie na všetkých fotografiách?</string>
   <string name="confirm_face">Označiť</string>
   <string name="confirm_left_photo_will_move_out">Ostatné fotografie budú presunuté mimo tohto albumu</string>
-  <string name="enabling_face_feature">Zapínanie...</string>
+  <string name="enabling_face_feature">Kontrola...</string>
   <string name="face_albumset_pending_enable_tip">Fotografie sa usporiadajú až po pripojení na Wi-Fi</string>
   <string name="ignore_album">Ignorovať</string>
   <string name="in_home_page_long_press_photo_setting_secret_photo">V galérií dlho podržte prst na fotografii a môžete ju pridať do Skrytého albumu.</string>
@@ -686,7 +686,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="cant_delete_system_album">Vymazanie zlyhalo: %s je systémový album alebo je zdieľané iným užívateľom.</string>
   <string name="paint_highlight_cancel_context">Uložiť zvýraznený obrázok?</string>
   <string name="paint_highlight_cancel_title">Zrušiť zmeny</string>
-  <string name="add_event">Pridať udalosť</string>
+  <string name="add_event">Názov</string>
   <string name="add_event_hint">Zadajte názov</string>
   <string name="confirm_all_photo_are_this_people_face">Všetky nájdené?</string>
   <string name="confirm_merge_many_face_albums">" "&lt;Data&gt; Spojiť tieto albumy s &amp;lt;font color=#323232&amp;gt;&amp;lt;b&amp;gt;%s&amp;lt;/b&amp;gt;&amp;lt;/font&amp;gt;? &lt;/Data&gt;" "</string>

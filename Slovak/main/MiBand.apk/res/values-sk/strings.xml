@@ -275,7 +275,7 @@ Dosiahli ste svoj cieľ."</string>
   <string name="dynamic_title_bracelet_unbind">MiBand odpojený</string>
   <string name="dynamic_title_sleep">Predchádzajúca noc</string>
   <string name="dynamic_title_step">Dnes</string>
-  <string name="dynamic_title_weight">Váha</string>
+  <string name="dynamic_title_weight">Hmotnosť</string>
   <string name="dynamic_title_weight_not_nearby">Váha nie je v dosahu</string>
   <string name="dynamic_title_weight_unbind">Odpojená váha</string>
   <string name="enable_debug_log">Debug log active</string>
@@ -607,7 +607,7 @@ Zaspal som o %3$s, prebudil sa o %4$s."</string>
   <string name="modify_nickname">Upraviť meno</string>
   <string name="modify_signiture">Upraviť stav</string>
   <string name="modify_signiture_hint">Stav</string>
-  <string name="modify_weight">Váha</string>
+  <string name="modify_weight">Hmotnosť</string>
   <string name="mon_fri">Pon. až Pia.</string>
   <string name="mon_sat">Pon. až Sob.</string>
   <string name="month"/>
