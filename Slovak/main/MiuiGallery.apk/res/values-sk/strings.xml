@@ -117,7 +117,7 @@
   <string name="cloud_camera_display_name">Fotografie</string>
   <string name="cloud_folder_chooser_move">Vymazať súbory z pôvodného albumu</string>
   <string name="cloud_gallery_no_pictures">Žiadne fotografie v MiCloud</string>
-  <string name="cloud_gallery_recyclebin_full">Kôš v MiCloude je plný, vyprázdnite ho na stránke i.mi.com</string>
+  <string name="cloud_gallery_recyclebin_full">Kôš v MiCloud je plný, vyprázdnite ho na stránke i.mi.com</string>
   <string name="cloud_gallery_space_full">Nahrávanie zlyhalo!, MiCloud úložisko galérie je plné</string>
   <string name="cloud_media_set_set">MiCloud albumy</string>
   <string name="cloud_owner_album_share_guide">Môžete zdieľať tento album s priateľmi</string>
@@ -166,7 +166,7 @@ spoločne!"</string>
   <string name="cool">​Cool</string>
   <string name="cool_portrait">CoolPortrét</string>
   <string name="create_new_cloud_folder">Vytvoriť novú zložku v MiCloud</string>
-  <string name="create_new_face">Nová tvár</string>
+  <string name="create_new_face">Nová osoba</string>
   <string name="crop">Orezať</string>
   <string name="crop_fail_to_load_image">Načítavanie obrázku pre orezanie zlyhalo.</string>
   <string name="crop_label">Orezať obrázok</string>
@@ -697,4 +697,5 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="pick_from_contact">Vybrať z kontaktov</string>
   <string name="face_album_long_tap_tip">Pre vybranie viacero ľudí alebo zmenu nastavení skupiny, stlačte a podržte obrázok profilu</string>
   <string name="ignore_alert_title">Ak bude ignorované, viackrát sa už nezobrazí. Chcete ignorovať?</string>
+  <string name="confirm_not_face">Nie táto osoba</string>
 </resources>
