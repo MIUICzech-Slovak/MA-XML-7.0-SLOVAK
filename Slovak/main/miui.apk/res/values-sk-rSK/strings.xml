@@ -329,4 +329,6 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
+  <string name="web_sso_login_fail">Musíte sa znova prihlásiť</string>
+  <string name="web_sso_login_message">Prihlasovanie...</string>
 </resources>

@@ -307,7 +307,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="show_traffic_dialog_message">Spotreba vašich mobilných dát bude zobrazená v roletke. Toto nastavenie môžete kedykoľvek zmeniť v Spotreba dát &gt; Nastavenia</string>
   <string name="show_traffic_dialog_title">Zobraziť spotrebu dát v roletke</string>
   <string name="signal_exception_summary">Nie je možné sa pripojiť k sieti.</string>
-  <string name="signal_exception_title">Testovať silu signálu</string>
+  <string name="signal_exception_title">Kontrola sily signálu</string>
   <string name="songs_number">18 skladieb</string>
   <string name="songs_unit">" skladieb"</string>
   <string name="sorted_button">Zoradiť</string>

@@ -820,4 +820,5 @@ Chcete odísť z tejto stránky?"</string>
   <string name="sub_sync_item_browser_title_useful_summary">Synchr. užitočné stránky</string>
   <string name="sub_sync_item_browser_title_video">Synchr. históriu videa</string>
   <string name="sub_sync_item_browser_title_video_summary">Synchr. zoznam prehraných videí</string>
+  <string name="video_buffering_percent_string">Načítavanie...</string>
 </resources>
