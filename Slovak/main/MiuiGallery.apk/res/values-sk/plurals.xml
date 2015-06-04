@@ -66,8 +66,8 @@
         <item quantity="one">Môžete vybrať %d položku</item>
     </plurals>
     <plurals name="more_face">
-        <item quantity="other">%1$s nové tváre môžu patriť %2$s >></item>
-        <item quantity="one">%1$s nová tvár môže patriť %2$s >></item>
+        <item quantity="other">%1$s fotografie %2$s >></item>
+        <item quantity="one">%1$s fotografie %2$s >></item>
     </plurals>
     <plurals name="confirm_delete_album">
         <item quantity="other">Vymazať %1$s albumy (celkom %2$s)?</item>
