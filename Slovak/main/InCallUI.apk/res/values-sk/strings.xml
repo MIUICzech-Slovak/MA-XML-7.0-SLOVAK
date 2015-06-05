@@ -578,8 +578,8 @@
   <string name="reverting_settings">Prebieha obnovenie predchádzajúcich nastavení...</string>
   <string name="ringtone_title">Zvonenie telefónu</string>
   <string name="roaming">Dáta v roamingu</string>
-  <string name="roaming_disable">Dátové prenosy v roamingu sú zakázané</string>
-  <string name="roaming_enable">Dátové prenosy v roamingu sú povolené</string>
+  <string name="roaming_disable">Dátové prenosy v roamingu</string>
+  <string name="roaming_enable">Dátové prenosy v roamingu</string>
   <string name="roaming_reenable_message">Pripojenie dátových služieb bolo prerušené, pretože ste opustili domovskú sieť a datové služby pri roamingu máte vypnuté.</string>
   <string name="roaming_warning">Naozaj chcete povoliť dátové služby v roamingu? Vystavujete sa nebezpečiu vysokých poplatkov.</string>
   <string name="save">Uložiť</string>

@@ -929,8 +929,8 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="rnw2_unlock_failed">UIM Network2 unlock request unsuccessful.</string>
   <string name="rnw2_unlock_success">RUIM Network2 unlock successful.</string>
   <string name="roaming">Dáta v roamingu</string>
-  <string name="roaming_disable">Dátové prenosy v roamingu sú zakázané</string>
-  <string name="roaming_enable">Dátové prenosy v roamingu sú povolené</string>
+  <string name="roaming_disable">Dátové prenosy v roamingu</string>
+  <string name="roaming_enable">Dátové prenosy v roamingu</string>
   <string name="roaming_reenable_message">Pripojenie dátových služieb bolo prerušené, pretože ste opustili domovskú sieť a datové služby pri roamingu máte vypnuté.</string>
   <string name="roaming_warning">Naozaj chcete povoliť dátové služby v roamingu? Vystavujete sa nebezpečiu vysokých poplatkov.</string>
   <string name="rsp_unlock_failed">UIM Service Provider unlock request unsuccessful.</string>
