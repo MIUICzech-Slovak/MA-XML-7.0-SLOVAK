@@ -674,7 +674,7 @@
   <string name="transport_title">Typ transportu</string>
   <string name="tty_mode_option_summary">Set TTY mode</string>
   <string name="tty_mode_option_title">TTY mode</string>
-  <string name="unknown">Neznámé</string>
+  <string name="unknown">Neznáme</string>
   <string name="unlock_failed">Odblokovanie siete neúspešné.</string>
   <string name="unlock_success">Sieť bola úspešne odblokovaná.</string>
   <string name="updating_fdn_contact">Aktualizácia povoleného telefónneho čísla...</string>
