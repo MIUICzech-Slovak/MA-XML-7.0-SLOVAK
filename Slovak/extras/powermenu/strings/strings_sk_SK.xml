@@ -6,4 +6,5 @@
     <string name="label_shutdown">Vypnúť</string>
     <string name="label_alert_reboot">Reštart</string>
     <string name="label_alert_shutdown">Vypnúť</string>
+    <string name="label_blank">Späť</string>
 </resources>
