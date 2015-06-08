@@ -796,4 +796,12 @@ ostatné zariadenia budú podporované neskôr."</string>
   <string name="use_barcode_startuse">Začať používať</string>
   <string name="use_barcode_use_tip">"Zobrazený QR kód ukážte pred kamerou
 a čakajte na jeho načítanie"</string>
+  <string name="button_voice_barcode">Skúste nastavenie QR kódom</string>
+  <string name="button_voice_wifi">Skúste nastavenie Wi-Fi</string>
+  <string name="camera_config">Nastavenie kamery</string>
+  <string name="camera_connect_timeout">Pripájanie kamery zlyhalo, skúste resetovať kameru.</string>
+  <string name="camera_wifi_tip">Zatiaľ nie je podporovaná 5G Wi-Fi, ak ste pripojený na 5G Wi-Fi, prepnite sa na 2.4G</string>
+  <string name="through_power_orange_light2">"Čakajte na hlasový príkaz z kamery
+\"Čakanie na pripojenie\""</string>
+  <string name="use_barcode_camera_tip">Zamerajte tento QR kód fotoaparátom</string>
 </resources>
