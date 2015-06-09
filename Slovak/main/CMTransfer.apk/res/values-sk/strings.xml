@@ -264,33 +264,33 @@
     <string name="files">Súbory</string>
     <string name="transfer_phone">Telefón</string>
     <string name="select_send_error">Vyberte súbor</string>
-    <string name="transfer_file">Odoslať</string>
-    <string name="receive_file">Prijať</string>
+    <string name="transfer_file">Odoslať súbor</string>
+    <string name="receive_file">Prijať súbor</string>
     <string name="anonymity">Neznámy autor</string>
     <string name="unknown_album">Neznámy album</string>
     <string name="unknown_device">Neznáme zariadenie</string>
     <string name="main_dlg_msg_first">&lt;font size=6 >Obe zariadenia&lt;/font> musia mať nainštalovanú aplikácu CM Transfer.</string>
     <string name="main_dlg_butn">Inštalovať priateľom</string>
 
-    <string name="main_share_wifi_msg">Ask your friend to join this Wi-Fi:</string>
-    <string name="main_share_wifi_msg_bottom">Then, they can get CM Transfer in a flash!</string>
-    <string name="main_share_url_title">Joined! Last step:</string>
-    <string name="main_share_url_msg_first">Ask them to open their browser and visit</string>
-    <string name="main_share_url_msg_second">&lt;font color=#0671cf >http://192.168.43.1:1111&lt;/font> to get CM Transfer.</string>
-    <string name="main_share_url_msg_bottom">I will be there absolutely!</string>
-    <string name="main_share_url_msg">Ask your friends scan QR code to get CM Transfer</string>
-    <string name="main_share_bottom_text">&lt;u>Send CM Transfer to other phone&lt;/u></string>
+    <string name="main_share_wifi_msg">Požiadajte svojich priateľov aby sa pripojili k tejto Wi-Fi:</string>
+    <string name="main_share_wifi_msg_bottom">Potom môžu získať CM Transfer veľmi rýchlo!</string>
+    <string name="main_share_url_title">Pripojené! Posledný krok:</string>
+    <string name="main_share_url_msg_first">Požiadajte ich aby navšívili</string>
+    <string name="main_share_url_msg_second">&lt;font color=#0671cf >http://192.168.43.1:1111&lt;/font> pre získanie aplikácie CM Transfer.</string>
+    <string name="main_share_url_msg_bottom">Určite budem tam!</string>
+    <string name="main_share_url_msg">Požiadajte vašich priateľov aby načítali QR kód pre CM Transfer</string>
+    <string name="main_share_bottom_text">&lt;u>Odoslať CM Transfer do iného zariadenia&lt;/u></string>
     <string name="send_name"> CM Transfer</string>
-    <string name="twice_back_pressed_tip">Tap again to exit</string>
-    <string name="about">About</string>
-    <string name="feedback">Feedback</string>
-    <string name="transfer_history">Sending History</string>
-    <string name="last_connect">Last connect:</string>
-    <string name="my_device">My Phone</string>
-    <string name="connected_failed">Connecting failure, please try again</string>
-    <string name="auto_connect_query">Send file to %1$s&lt;br/>&lt;font color=#47c580 >%2$s&lt;/font>?</string>
+    <string name="twice_back_pressed_tip">Stlačte znova pre ukončenie</string>
+    <string name="about">O aplikácií</string>
+    <string name="feedback">Spätná väzba</string>
+    <string name="transfer_history">História odosielania</string>
+    <string name="last_connect">Naposledy pripojený:</string>
+    <string name="my_device">Moje zariadenie</string>
+    <string name="connected_failed">Pripájanie zlyhalo, skúste to znova.</string>
+    <string name="auto_connect_query">Odoslať súbor do %1$s&lt;br/>&lt;font color=#47c580 >%2$s&lt;/font>?</string>
     <string name="about_desc">CM Transfer</string>
-    <string name="about_qq_qun">Our email: &lt;font color=#2a7fe9 >cmtransfer@cmcm.com&lt;/font></string>
+    <string name="about_qq_qun">Náš email: &lt;font color=#2a7fe9 >cmtransfer@cmcm.com&lt;/font></string>
     <string name="about_copyright">Cheetah Mobile Inc.</string>
     <string name="about_copyright_eng">© 2015 All Rights Reserved.</string>
     <string name="about_email">mailto:%s</string>

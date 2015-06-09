@@ -524,4 +524,6 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="no_network_btn">Skúsiť znova</string>
   <string name="permission_exception_summary">Niektoré aplikácie nemajú povolenie na pripojenie k internetu</string>
   <string name="permission_exception_title">Zobraziť povolenie siete</string>
+  <string name="gateway_exception_summary2">Pripojenie k serveru zlyhalo</string>
+  <string name="pref_title_diagnostics_dont_show_float_notification">Zobraziť upozornenia v roletke</string>
 </resources>
