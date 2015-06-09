@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="boot_msg_text">
+        <item>-==MIUIos.cz==-</item>
+	<item>-==MIUIos.cz==-</item>
+	<item>-==MIUIos.cz==-</item>
+        <item>Prebieha inštalácia.</item>
+        <item>Prebieha inštalácia..</item>
+        <item>Prebieha inštalácia...</item>
+        <item>Optimalizácia aplikácií...</item>
+        <item>Svoje postrehy napíšte na miuios.cz/rom</item>
+    </string-array>
+</resources>
