@@ -271,7 +271,6 @@
     <string name="unknown_device">Neznáme zariadenie</string>
     <string name="main_dlg_msg_first">&lt;font size=6 >Obe zariadenia&lt;/font> musia mať nainštalovanú aplikácu CM Transfer.</string>
     <string name="main_dlg_butn">Inštalovať priateľom</string>
-
     <string name="main_share_wifi_msg">Požiadajte svojich priateľov aby sa pripojili k tejto Wi-Fi:</string>
     <string name="main_share_wifi_msg_bottom">Potom môžu získať CM Transfer veľmi rýchlo!</string>
     <string name="main_share_url_title">Pripojené! Posledný krok:</string>
@@ -280,7 +279,7 @@
     <string name="main_share_url_msg_bottom">Určite budem tam!</string>
     <string name="main_share_url_msg">Požiadajte vašich priateľov aby načítali QR kód pre CM Transfer</string>
     <string name="main_share_bottom_text">&lt;u>Odoslať CM Transfer do iného zariadenia&lt;/u></string>
-    <string name="send_name"> CM Transfer</string>
+    <string name="send_name"> CM Transfer</string>
     <string name="twice_back_pressed_tip">Stlačte znova pre ukončenie</string>
     <string name="about">O aplikácií</string>
     <string name="feedback">Spätná väzba</string>
@@ -296,59 +295,59 @@
     <string name="about_email">mailto:%s</string>
     <string name="about_subject">That is what I want to say to CM Transfer.</string>
     <string name="item_five_star">Rate 5 Stars on Google Play</string>
-    <string name="item_send_facebook">Like us on Facebook</string>
-    <string name="item_join_us">Join our beta testing group</string>
-    <string name="item_send_email">Send an email to us</string>
+    <string name="item_send_facebook">Facebook</string>
+    <string name="item_join_us">Betatest</string>
+    <string name="item_send_email">Email</string>
     <string name="feedback_content_title">Send us your questions:</string>
     <string name="feedback_qq_title">Please leave your email address:</string>
     <string name="feedback_commit">Submit</string>
     <string name="feedback_commit_success">Submitted successfully</string>
     <string name="feedback_content">Did you experience any issues when sending files?</string>
-    <string name="send_waiting">Waiting for other person to receive files…</string>
-    <string name="recv_waiting">Waiting for other person to send files…</string>
-    <string name="transfer_info_doing_format" formatted="false">Sending file (%d/%d) at %s</string>
-    <string name="transfer_info_gone_format" formatted="false">%d files sent, average speed of %s</string>
-    <string name="recv_info_doing_format" formatted="false">Receiving file (%d/%d) at %s</string>
-    <string name="recv_info_gone_format" formatted="false">%d files received, average speed of %s</string>
-    <string name="transfer_button_done">DONE</string>
-    <string name="transfer_receive_timeout">Connection broken</string>
-    <string name="transfer_devices_title">%d phone found, select one to send to</string>
-    <string name="transfer_computer">Connected to: %1$s</string>
-    <string name="trans_item_num">( %1$d )</string>
+    <string name="send_waiting">Čakanie na prijmateľa...</string>
+    <string name="recv_waiting">Čakanie na odosielateľa...</string>
+    <string name="transfer_info_doing_format" formatted="false">Odosielanie súboru (%d/%d) %s</string>
+    <string name="transfer_info_gone_format" formatted="false">Odoslaných %d, priemernou rýchlosťou %s</string>
+    <string name="recv_info_doing_format" formatted="false">Príjmanie súboru (%d/%d) %s</string>
+    <string name="recv_info_gone_format" formatted="false">Prijatých %d , priemernou rýchlosťou %s</string>
+    <string name="transfer_button_done">HOTOVO</string>
+    <string name="transfer_receive_timeout">Spojenie prerušené</string>
+    <string name="transfer_devices_title">%d nájdených zariadení, vyberte jedno pre odosielanie</string>
+    <string name="transfer_computer">Pripojené: %1$s</string>
+    <string name="trans_item_num">(%1$d)</string>
     <string name="app_size">%s</string>
-    <string name="my_phone">My phone</string>
-    <string name="trans_table_msg">Your friends also need to install CM Transfer to receive your files.</string>
-    <string name="history_task_info_empty">No history</string>
-    <string name="history_task_dialog_clean_all">Are you sure delete all sending history?</string>
-    <string name="history_task_dialog_clean_current">Are you sure delete it?</string>
-    <string name="history_task_dialog_btn_cancel">No</string>
-    <string name="history_task_dialog_btn_clean">Yes</string>
-    <string name="history_task_toast_clean_failed">Deleting failure</string>
+    <string name="my_phone">Môj telefón</string>
+    <string name="trans_table_msg">Vaši priatelia si musia taktiež nainštalovať CM Transfer ak chcú prijmať a odosielať súbory.</string>
+    <string name="history_task_info_empty">Žiadna história</string>
+    <string name="history_task_dialog_clean_all">Vymazať celú históriu?</string>
+    <string name="history_task_dialog_clean_current">Vymazať?</string>
+    <string name="history_task_dialog_btn_cancel">Nie</string>
+    <string name="history_task_dialog_btn_clean">Áno</string>
+    <string name="history_task_toast_clean_failed">Mazanie zlyhalo</string>
     <string name="history_title_calendar">%1$s-%2$s-%3$s</string>
-    <string name="notification_upgrade_title">CM Transfer has updated!</string>
-    <string name="notification_title_sending_files">Sending files to %1$s</string>
-    <string name="notification_title_recive_files">Receiving files from %1$s</string>
-    <string name="notification_title_start_transfer_wait_response">Sending file to %1$s</string>
-    <string name="notification_msg_start_transfer_wait_response">Waiting to PC responding...</string>
-    <string name="notification_msg_server_refuse_accept_files">%1$s refused to receiving</string>
-    <string name="notification_title_server_stop_accept_files">Transfer failure</string>
-    <string name="notification_msg_server_stop_accept_files">%1$s canceled to receiving</string>
-    <string name="notification_msg_disconnect_for_exception">There are more %1$d fils to go to send to%2$s</string>
-    <string name="notification_title_transfer_finish">Sending Complete</string>
-    <string name="notification_title_recive_finish">Receiving Complete</string>
-    <string name="notification_msg_transfer_finish">Sent %2$d files to %1$s</string>
-    <string name="notification_msg_recive_finish">Received %2$d files from %1$s</string>
-    <string name="notification_title_unexport_media"> &lt;font color=#ffffff >There are &lt;/font> &lt;font color=#faa039 >%1$d&lt;/font> &lt;font color=#ffffff >photos can be backuped to %2$s&lt;/font></string>
-    <string name="notification_msg_unexport_media"> &lt;font color=#a4a4a4 >Send to %1$s&lt;/font> &lt;font color=#faa039 >%2$s&lt;/font></string>
-    <string name="notification_look_up">Check</string>
-    <string name="notification_backup">Backup</string>
-    <string name="notification_send">send</string>
-    <string name="notification_backup_html"> &lt;font color=#ffffff >Backup&lt;/font></string>
-    <string name="msg_make_pc_receive_files">Please ask your friend receive your files.</string>
-    <string name="cancel_send">Cancel</string>
-    <string name="continue_send">Send More</string>
-    <string name="cancel_recv">Yes</string>
-    <string name="continue_recv">No</string>
+    <string name="notification_upgrade_title">CM Transfer aktualizovaný!</string>
+    <string name="notification_title_sending_files">ODosielanie súborov %1$s</string>
+    <string name="notification_title_recive_files">Príjmanie súborov od %1$s</string>
+    <string name="notification_title_start_transfer_wait_response">Odosielanie súboru %1$s</string>
+    <string name="notification_msg_start_transfer_wait_response">Čakanie na PC...</string>
+    <string name="notification_msg_server_refuse_accept_files">%1$s odmietol prijatie súboru</string>
+    <string name="notification_title_server_stop_accept_files">Prenos zlyhal</string>
+    <string name="notification_msg_server_stop_accept_files">%1$s zrušil príjmanie súboru</string>
+    <string name="notification_msg_disconnect_for_exception">Ostáva ešte odoslať %1$d súborov  pre %2$s</string>
+    <string name="notification_title_transfer_finish">Odosielanie dokončené</string>
+    <string name="notification_title_recive_finish">Príjmanie dokončené</string>
+    <string name="notification_msg_transfer_finish">Odoslaných %2$d súborov %1$s</string>
+    <string name="notification_msg_recive_finish">Prijatých %2$d súborov od %1$s</string>
+    <string name="notification_title_unexport_media"> &lt;font color=#faa039 >%1$d&lt;/font> &lt;font color=#ffffff >photos can be backuped to %2$s&lt;/font></string>
+    <string name="notification_msg_unexport_media"> &lt;font color=#a4a4a4 >Odoslať %1$s&lt;/font> &lt;font color=#faa039 >%2$s&lt;/font></string>
+    <string name="notification_look_up">Skontrolovať</string>
+    <string name="notification_backup">Zálohovať</string>
+    <string name="notification_send">odoslať</string>
+    <string name="notification_backup_html"> &lt;font color=#ffffff >Zálohovať&lt;/font></string>
+    <string name="msg_make_pc_receive_files">Požiadajte príjmateľa o potvrdenie prijatia súboru.</string>
+    <string name="cancel_send">Zrušiť</string>
+    <string name="continue_send">Odoslať viac</string>
+    <string name="cancel_recv">Áno</string>
+    <string name="continue_recv">Nie</string>
     <string name="i_known">OK</string>
     <string name="msg_wait_for_server_accept_files">The phone is busy, please wait...</string>
     <string name="msg_if_cancel_send_files">Files are being sent, are you sure you want to cancel?</string>
@@ -366,7 +365,7 @@
     <string name="notification_first_start_title">CM Transfer has updated!</string>
     <string name="notification_first_start_content">&lt;font color=#FF9400 >%1$d&lt;/font>photo can be backuped，save memory &lt;font color=#FF9400 >%2$s&lt;/font></string>
     <string name="notification_first_start_content2">It is very fast&lt;font color=#FF9400 >10M/S&lt;/font></string>
-    <string name="notification_title_server_accept_file">&lt;font color=#ffffff > &lt;/font> &lt;font color=#ae8329 >%1$s&lt;/font> &lt;font color=#ffffff >sending &lt;/font> &lt;font color=#ffffff >%2$d &lt;/font>&lt;font color=#ffffff > files &lt;/font></string>
+    <string name="notification_title_server_accept_file">&lt;font color=#ffffff > &lt;/font> &lt;font color=#ae8329 >%1$s&lt;/font> &lt;font color=#ffffff >sending &lt;/font> &lt;font color=#ffffff >%2$d &lt;/font>&lt;font color=#ffffff > files &lt;/font></string>
     <string name="notification_msg_server_accept_file">&lt;font color=#a4a4a4 size=1>It is very fast &lt;/font></string>
     <string name="upgrade_dialog_checking">Checking for updates...</string>
     <string name="upgrade_dialog_latest">Already at newest version</string>
@@ -387,7 +386,7 @@
     <string name="local_audio_album">Local Music</string>
     <string name="local_camera_video">Phone Videos</string>
     <string name="tab_send">Send</string>
-    <string name="tab_send_with_count">Send  (%d)</string>
+    <string name="tab_send_with_count">Send  (%d)</string>
     <string name="tab_title">Select %s</string>
     <string name="image_album_msg">%d total</string>
     <string name="video_album_msg">%d total</string>
@@ -396,11 +395,11 @@
     <string name="transfer_app_size">%s</string>
     <string name="tab_select_all">Select all</string>
     <string name="tab_mobile_bells">Ringtones</string>
-    <string name="tab_mobile_artist">%1$s  · %2$s</string>
+    <string name="tab_mobile_artist">%1$s  · %2$s</string>
     <string name="tab_mobile_album">%1$s</string>
     <string name="send_confirm_back_msg">You have selected &lt;font color=#47c580 >%1$d&lt;/font> files, are you sure you want to cancel?</string>
-    <string name="give_up_send">Yes</string>
-    <string name="cancel">No</string>
+    <string name="give_up_send">Áno</string>
+    <string name="cancel">Nie</string>
     <string name="invite_free_flow_ssid_title">Invite your friends to connect to hotspot:</string>
     <string name="invite_free_enter_url">or Enter this URL to download</string>
     <string name="invite_qrcode_tip">next step</string>
