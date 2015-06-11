@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="androvid_audio">AndroVid Music</string>
     <string name="vicecwe_audio">Voice Changer With Effects Music</string>
@@ -269,12 +269,12 @@
     <string name="anonymity">Neznámy autor</string>
     <string name="unknown_album">Neznámy album</string>
     <string name="unknown_device">Neznáme zariadenie</string>
-    <string name="main_dlg_msg_first">&lt;font size=6 >Obe zariadenia&lt;/font> musia mať nainštalovanú aplikácu CM Transfer.</string>
+    <string name="main_dlg_msg_first">&lt;font size=6 >Obe zariadenia&lt;/font> musia mať nainštalovanú aplikáciu CM Transfer.</string>
     <string name="main_dlg_butn">Inštalovať priateľom</string>
     <string name="main_share_wifi_msg">Požiadajte svojich priateľov aby sa pripojili k tejto Wi-Fi:</string>
     <string name="main_share_wifi_msg_bottom">Potom môžu získať CM Transfer veľmi rýchlo!</string>
     <string name="main_share_url_title">Pripojené! Posledný krok:</string>
-    <string name="main_share_url_msg_first">Požiadajte ich aby navšívili</string>
+    <string name="main_share_url_msg_first">Požiadajte ich aby navštívili</string>
     <string name="main_share_url_msg_second">&lt;font color=#0671cf >http://192.168.43.1:1111&lt;/font> pre získanie aplikácie CM Transfer.</string>
     <string name="main_share_url_msg_bottom">Určite budem tam!</string>
     <string name="main_share_url_msg">Požiadajte vašich priateľov aby načítali QR kód pre CM Transfer</string>
@@ -293,21 +293,21 @@
     <string name="about_copyright">Cheetah Mobile Inc.</string>
     <string name="about_copyright_eng">© 2015 All Rights Reserved.</string>
     <string name="about_email">mailto:%s</string>
-    <string name="about_subject">That is what I want to say to CM Transfer.</string>
-    <string name="item_five_star">Rate 5 Stars on Google Play</string>
+    <string name="about_subject">Toto chcem povedať CM Transfer.</string>
+    <string name="item_five_star">Ohodnoťte aplikáciu na Google Play</string>
     <string name="item_send_facebook">Facebook</string>
     <string name="item_join_us">Betatest</string>
     <string name="item_send_email">Email</string>
-    <string name="feedback_content_title">Send us your questions:</string>
-    <string name="feedback_qq_title">Please leave your email address:</string>
-    <string name="feedback_commit">Submit</string>
-    <string name="feedback_commit_success">Submitted successfully</string>
-    <string name="feedback_content">Did you experience any issues when sending files?</string>
+    <string name="feedback_content_title">Vaša otázka:</string>
+    <string name="feedback_qq_title">Vaša emailová adresa:</string>
+    <string name="feedback_commit">Odoslať</string>
+    <string name="feedback_commit_success">Úspešne odoslané</string>
+    <string name="feedback_content">Zaznamenali ste nejaké problémy počas prijámania alebo odosielania súborov?</string>
     <string name="send_waiting">Čakanie na prijmateľa...</string>
     <string name="recv_waiting">Čakanie na odosielateľa...</string>
     <string name="transfer_info_doing_format" formatted="false">Odosielanie súboru (%d/%d) %s</string>
     <string name="transfer_info_gone_format" formatted="false">Odoslaných %d, priemernou rýchlosťou %s</string>
-    <string name="recv_info_doing_format" formatted="false">Príjmanie súboru (%d/%d) %s</string>
+    <string name="recv_info_doing_format" formatted="false">Prijímanie súboru (%d/%d) %s</string>
     <string name="recv_info_gone_format" formatted="false">Prijatých %d , priemernou rýchlosťou %s</string>
     <string name="transfer_button_done">HOTOVO</string>
     <string name="transfer_receive_timeout">Spojenie prerušené</string>
@@ -316,7 +316,7 @@
     <string name="trans_item_num">(%1$d)</string>
     <string name="app_size">%s</string>
     <string name="my_phone">Môj telefón</string>
-    <string name="trans_table_msg">Vaši priatelia si musia taktiež nainštalovať CM Transfer ak chcú prijmať a odosielať súbory.</string>
+    <string name="trans_table_msg">Vaši priatelia si musia taktiež nainštalovať CM Transfer ak chcú prijímať a odosielať súbory.</string>
     <string name="history_task_info_empty">Žiadna história</string>
     <string name="history_task_dialog_clean_all">Vymazať celú históriu?</string>
     <string name="history_task_dialog_clean_current">Vymazať?</string>
@@ -325,137 +325,137 @@
     <string name="history_task_toast_clean_failed">Mazanie zlyhalo</string>
     <string name="history_title_calendar">%1$s-%2$s-%3$s</string>
     <string name="notification_upgrade_title">CM Transfer aktualizovaný!</string>
-    <string name="notification_title_sending_files">ODosielanie súborov %1$s</string>
-    <string name="notification_title_recive_files">Príjmanie súborov od %1$s</string>
+    <string name="notification_title_sending_files">Odosielanie súborov %1$s</string>
+    <string name="notification_title_recive_files">Prijímanie súborov od %1$s</string>
     <string name="notification_title_start_transfer_wait_response">Odosielanie súboru %1$s</string>
     <string name="notification_msg_start_transfer_wait_response">Čakanie na PC...</string>
     <string name="notification_msg_server_refuse_accept_files">%1$s odmietol prijatie súboru</string>
     <string name="notification_title_server_stop_accept_files">Prenos zlyhal</string>
-    <string name="notification_msg_server_stop_accept_files">%1$s zrušil príjmanie súboru</string>
+    <string name="notification_msg_server_stop_accept_files">%1$s zrušil prijímanie súboru</string>
     <string name="notification_msg_disconnect_for_exception">Ostáva ešte odoslať %1$d súborov  pre %2$s</string>
     <string name="notification_title_transfer_finish">Odosielanie dokončené</string>
-    <string name="notification_title_recive_finish">Príjmanie dokončené</string>
+    <string name="notification_title_recive_finish">Prijímanie dokončené</string>
     <string name="notification_msg_transfer_finish">Odoslaných %2$d súborov %1$s</string>
     <string name="notification_msg_recive_finish">Prijatých %2$d súborov od %1$s</string>
-    <string name="notification_title_unexport_media"> &lt;font color=#faa039 >%1$d&lt;/font> &lt;font color=#ffffff >photos can be backuped to %2$s&lt;/font></string>
+    <string name="notification_title_unexport_media"> &lt;font color=#faa039 >%1$d&lt;/font> &lt;font color=#ffffff >fotografií môže byť zálohovaných do %2$s&lt;/font></string>
     <string name="notification_msg_unexport_media"> &lt;font color=#a4a4a4 >Odoslať %1$s&lt;/font> &lt;font color=#faa039 >%2$s&lt;/font></string>
     <string name="notification_look_up">Skontrolovať</string>
     <string name="notification_backup">Zálohovať</string>
     <string name="notification_send">odoslať</string>
     <string name="notification_backup_html"> &lt;font color=#ffffff >Zálohovať&lt;/font></string>
-    <string name="msg_make_pc_receive_files">Požiadajte príjmateľa o potvrdenie prijatia súboru.</string>
+    <string name="msg_make_pc_receive_files">Požiadajte prijímateľa o potvrdenie prijatia súboru.</string>
     <string name="cancel_send">Zrušiť</string>
     <string name="continue_send">Odoslať viac</string>
     <string name="cancel_recv">Áno</string>
     <string name="continue_recv">Nie</string>
     <string name="i_known">OK</string>
-    <string name="msg_wait_for_server_accept_files">The phone is busy, please wait...</string>
-    <string name="msg_if_cancel_send_files">Files are being sent, are you sure you want to cancel?</string>
-    <string name="msg_if_cancel_recv_files">Files are being received, are you sure you want to cancel?</string>
-    <string name="msg_no_find_sdcard">Other phone has no SD card, cannot send files</string>
-    <string name="msg_sdcard_no_volume">Other phone lacks space, cannot send files</string>
-    <string name="msg_other_recv_wait">The phone is busy now, please try again later...</string>
-    <string name="msg_send_other_wait">The phone is busy, please try again later...</string>
-    <string name="msg_connecting_loading">Connecting...</string>
-    <string name="msg_pc_refuse_accept_files">Be refused</string>
-    <string name="msg_affirm_recv">Please receive file on PC</string>
-    <string name="msg_disconnect_for_exception">Disconnected</string>
-    <string name="wifi_closed_tip">Please open Wi-Fi</string>
-    <string name="open_wifi">Open Wi-Fi</string>
-    <string name="notification_first_start_title">CM Transfer has updated!</string>
-    <string name="notification_first_start_content">&lt;font color=#FF9400 >%1$d&lt;/font>photo can be backuped，save memory &lt;font color=#FF9400 >%2$s&lt;/font></string>
-    <string name="notification_first_start_content2">It is very fast&lt;font color=#FF9400 >10M/S&lt;/font></string>
-    <string name="notification_title_server_accept_file">&lt;font color=#ffffff > &lt;/font> &lt;font color=#ae8329 >%1$s&lt;/font> &lt;font color=#ffffff >sending &lt;/font> &lt;font color=#ffffff >%2$d &lt;/font>&lt;font color=#ffffff > files &lt;/font></string>
-    <string name="notification_msg_server_accept_file">&lt;font color=#a4a4a4 size=1>It is very fast &lt;/font></string>
-    <string name="upgrade_dialog_checking">Checking for updates...</string>
-    <string name="upgrade_dialog_latest">Already at newest version</string>
-    <string name="upgrade_dialog_version_format">Please update CM Transfer to v%s</string>
-    <string name="upgrade_dialog_publish_date">Release date: %s</string>
-    <string name="upgrade_dialog_size_format">Update size: %s</string>
-    <string name="upgrade_dialog_button_upgrade">Update Now</string>
-    <string name="recv_request_msg" formatted="false">%s is sending %s files, do you want to receive them?</string>
-    <string name="recv_action_accept">Yes</string>
-    <string name="recv_action_deny">No</string>
-    <string name="audio">Music</string>
-    <string name="app">Apps</string>
-    <string name="local_image_album">Local Pictures</string>
-    <string name="local_image_camera">Photos</string>
-    <string name="local_micromsg_video">Wechat Videos</string>
-    <string name="local_screen_shots">Screenshots</string>
-    <string name="local_video_album">Local Videos</string>
-    <string name="local_audio_album">Local Music</string>
-    <string name="local_camera_video">Phone Videos</string>
-    <string name="tab_send">Send</string>
-    <string name="tab_send_with_count">Send  (%d)</string>
-    <string name="tab_title">Select %s</string>
-    <string name="image_album_msg">%d total</string>
-    <string name="video_album_msg">%d total</string>
-    <string name="audio_album_msg">%d total</string>
-    <string name="transfer_app_count">( %d total )</string>
+    <string name="msg_wait_for_server_accept_files">Telefón je zaneprázdnený, čakajte prosím...</string>
+    <string name="msg_if_cancel_send_files">Odosielajú sa súbory, naozaj chcete zrušiť?</string>
+    <string name="msg_if_cancel_recv_files">Prijímajú sa súbory, naozaj chcete zrušiť?</string>
+    <string name="msg_no_find_sdcard">Druhé zariadenie nemá SD kartu, nie je možné odoslať súbory</string>
+    <string name="msg_sdcard_no_volume">Druhé zariadenie má málo voľnej pamäte, nie je možné odoslať súbory</string>
+    <string name="msg_other_recv_wait">Telefón je práve zaneprázdnený, skúste to neskôr...</string>
+    <string name="msg_send_other_wait">Telefón je zaneprázdnený, skúste to neskôr...</string>
+    <string name="msg_connecting_loading">Pripája sa...</string>
+    <string name="msg_pc_refuse_accept_files">Odmietnuť</string>
+    <string name="msg_affirm_recv">Prosím príjmite súbor na PC</string>
+    <string name="msg_disconnect_for_exception">Odpojené</string>
+    <string name="wifi_closed_tip">Povoľte Wi-Fi</string>
+    <string name="open_wifi">povoliť Wi-Fi</string>
+    <string name="notification_first_start_title">CM Transfer bol aktualizovaný!</string>
+    <string name="notification_first_start_content">&lt;font color=#FF9400 >%1$d&lt;/font>fotografia môže byť zálohovaná，ušetri priestor na úložisku&lt;font color=#FF9400 >%2$s&lt;/font></string>
+    <string name="notification_first_start_content2">Veľmi rýchle&lt;font color=#FF9400 >10M/S&lt;/font></string>
+    <string name="notification_title_server_accept_file">&lt;font color=#ffffff > &lt;/font> &lt;font color=#ae8329 >%1$s&lt;/font> &lt;font color=#ffffff >odosiela &lt;/font> &lt;font color=#ffffff >%2$d &lt;/font>&lt;font color=#ffffff > súbory &lt;/font></string>
+    <string name="notification_msg_server_accept_file">&lt;font color=#a4a4a4 size=1>Veľmi rýchle &lt;/font></string>
+    <string name="upgrade_dialog_checking">Kontrola aktualizácií...</string>
+    <string name="upgrade_dialog_latest">Už máte najnovšiu verziu</string>
+    <string name="upgrade_dialog_version_format">Prosím aktualizujte CM Transfer na v%s</string>
+    <string name="upgrade_dialog_publish_date">Dátum vydania: %s</string>
+    <string name="upgrade_dialog_size_format">Veľkosť aktualizácie: %s</string>
+    <string name="upgrade_dialog_button_upgrade">Aktualizovať teraz</string>
+    <string name="recv_request_msg" formatted="false">%s vám posiela súbory (%s), chcete ich prijať?</string>
+    <string name="recv_action_accept">Áno</string>
+    <string name="recv_action_deny">Nie</string>
+    <string name="audio">Hudba</string>
+    <string name="app">Aplikácie</string>
+    <string name="local_image_album">Lokálne obrázky</string>
+    <string name="local_image_camera">Fotografie</string>
+    <string name="local_micromsg_video">Wechat Videá</string>
+    <string name="local_screen_shots">Snímky obrazovky</string>
+    <string name="local_video_album">Lokálne videá</string>
+    <string name="local_audio_album">Lokálna hudba</string>
+    <string name="local_camera_video">Videá v telefóne</string>
+    <string name="tab_send">Odoslať</string>
+    <string name="tab_send_with_count">Odoslať (%d)</string>
+    <string name="tab_title">Vybrať %s</string>
+    <string name="image_album_msg">%d spolu</string>
+    <string name="video_album_msg">%d spolu</string>
+    <string name="audio_album_msg">%d spolu</string>
+    <string name="transfer_app_count">(%d spolu)</string>
     <string name="transfer_app_size">%s</string>
-    <string name="tab_select_all">Select all</string>
-    <string name="tab_mobile_bells">Ringtones</string>
+    <string name="tab_select_all">Vybrať všetko</string>
+    <string name="tab_mobile_bells">Zvonenia</string>
     <string name="tab_mobile_artist">%1$s  · %2$s</string>
     <string name="tab_mobile_album">%1$s</string>
-    <string name="send_confirm_back_msg">You have selected &lt;font color=#47c580 >%1$d&lt;/font> files, are you sure you want to cancel?</string>
+    <string name="send_confirm_back_msg">Vybrali ste &lt;font color=#47c580 >%1$d&lt;/font> súbory, ste si istý, že chcete zrušiť?</string>
     <string name="give_up_send">Áno</string>
     <string name="cancel">Nie</string>
-    <string name="invite_free_flow_ssid_title">Invite your friends to connect to hotspot:</string>
-    <string name="invite_free_enter_url">or Enter this URL to download</string>
-    <string name="invite_qrcode_tip">next step</string>
-    <string name="invite_qrcode_tip_download">Scan QR code to install</string>
-    <string name="invite_qrcode_tip_wifi">Scan QR code, get it on</string>
-    <string name="invite_qrcode_tip_wifi_tips">Google play</string>
-    <string name="invite_tip">Send CM Transfer to other phone</string>
-    <string name="invite_free_flow">Install CM Transfer with hotspot</string>
-    <string name="invite_other_way">Friends getting slow speeds?</string>
-    <string name="invite_message_content">"Hey,I found a file transfer app that's much faster than Bluetooth."</string>
-    <string name="invite_email_content">Hey, I found an app that lets us share files faster than Bluetooth without any network fees.Try out CMTransfer here!</string>
-    <string name="invite_twitter_and_googleplus_content">"Hi, I found a cool app called #CMTransfer that's 160 times faster than Bluetooth. We can transfer any files quickly and easily without any network. Try it out！"</string>
-    <string name="phone_bell">Incoming call</string>
-    <string name="notification_bell">Message</string>
-    <string name="alarm_bell">Alarm</string>
+    <string name="invite_free_flow_ssid_title">Pozvite svojich priateľov na pripojenie k hotspotu:</string>
+    <string name="invite_free_enter_url">alebo vložte túto URL k stiahnutiu</string>
+    <string name="invite_qrcode_tip">ďalší krok</string>
+    <string name="invite_qrcode_tip_download">Naskenujte QR kód a nainštalujte</string>
+    <string name="invite_qrcode_tip_wifi">Naskenujte QR kód, získajte to v</string>
+    <string name="invite_qrcode_tip_wifi_tips">Obchod Google Play</string>
+    <string name="invite_tip">Poslať CM Transfer na iný telefón</string>
+    <string name="invite_free_flow">Inštalovať CM Transfer s hotspotom</string>
+    <string name="invite_other_way">Priatelia majú nízke rýchlosti?</string>
+    <string name="invite_message_content">"Hej, našiel som aplikáciu na zdieľanie súborov, ktorá je rýchlejšia ako Bluetooth."</string>
+    <string name="invite_email_content">Hej, našiel som aplikáciu ktorá dokáže poslať súbory rýchlejšie ako Bluetooth bez poplatkov za dáta. Vyskúšajte CM Transfer!</string>
+    <string name="invite_twitter_and_googleplus_content">"Ahoj, našiel som super aplikáciu #CMTransfer ktorá je 160 krát rýchlejšia ako Bluetooth. Môžeme poslať akékoľvek súbory rýchlo a jednoducho bez použitia dátovej siete. Vyskúšaj to!"</string>
+    <string name="phone_bell">Prichádzajúci hovor</string>
+    <string name="notification_bell">Správa</string>
+    <string name="alarm_bell">Budík</string>
     <string name="invite_share_by_bluetooth">Bluetooth</string>
     <string name="invite_share_by_wifi">Wi-Fi</string>
-    <string name="invite_share_by_message">Message</string>
+    <string name="invite_share_by_message">Správa</string>
     <string name="invite_share_by_email">Email</string>
     <string name="invite_share_by_facebook">Facebook</string>
     <string name="invite_share_by_twitter">Twitter</string>
     <string name="invite_share_by_googleplus">Google+</string>
-    <string name="invite_bluetooth_explain">easily to send</string>
-    <string name="invite_wifi_explain">with hotspot</string>
-    <string name="invite_message_explain">text to friends</string>
-    <string name="invite_email_explain">send an email</string>
-    <string name="send_history_list_item_title">Sent %2$d files to %1$s</string>
-    <string name="recv_history_title">Received File</string>
-    <string name="recv_history_list_item_title">Received %2$d files from %1$s</string>
-    <string name="recv_history_file_btn_delele">Delete (%1$d)</string>
-    <string name="recv_history_file_count_title">( %1$d total )</string>
-    <string name="recv_history_file_toast_clean_failed">Delete failure</string>
-    <string name="no_file_tip">No files</string>
-    <string name="loading_file_tip">Loading, please wait...</string>
-    <string name="rate_des">If you love it, give me 5 stars!</string>
-    <string name="rate_btn_cancel">NOT NOW</string>
-    <string name="rate_btn_ok">RATE 5 STARS</string>
-    <string name="rate_limit_speed">Amazing ! Transferred at %s</string>
-    <string name="google_play_slides_up_tip">Please scroll up to rate</string>
-    <string name="share_to">share to</string>
-    <string name="share_face_to_face">Share CM Transfer face-to-face</string>
-    <string name="toast_no_external_memory">No SD Card</string>
-    <string name="toast_deleted_image">This picture is not exist</string>
-    <string name="toast_deleted_video">This video is not exist</string>
-    <string name="toast_deleted_recv_files">Deleting...</string>
-    <string name="toast_deleted_transfer_record">Deleting...</string>
-    <string name="toast_transfer_cancel">Other person has canceled sending the file</string>
-    <string name="toast_recv_cancel">Other person has canceled receiving the file</string>
-    <string name="toast_transfer_break">Network problem, please try again</string>
-    <string name="toast_no_data_transfer">No data needs to be transmitted</string>
-    <string name="about_toast_msg">"You don't have %s installed"</string>
-    <string name="file">Files</string>
-    <string name="open">OPEN</string>
-    <string name="receiver_version_error">The version of CM Transfer on the receiving phone is out of date. &lt;br>&lt;font color=#909090 >Would you like to update it now?&lt;/font></string>
-    <string name="receiver_version_error_result">&lt;font color=#909090 >%d files have not been sent because &lt;/font>the version of CM Transfer on the receiving phone is out of date&lt;font color=#909090 >. Please update it to send files again.&lt;/font></string>
-    <string name="toast_file_cannot_open">Unable to find application to perform this action</string>
-    <string name="notify_five_star_msg">CM Transfer thanks all of you!</string>
-    <string name="notify_five_star_like">like</string>
+    <string name="invite_bluetooth_explain">jednoduché posielanie</string>
+    <string name="invite_wifi_explain">s hotspotom</string>
+    <string name="invite_message_explain">poslať sms známym</string>
+    <string name="invite_email_explain">poslať email</string>
+    <string name="send_history_list_item_title">Odoslané %2$d súbory %1$s</string>
+    <string name="recv_history_title">Prijaté súbory</string>
+    <string name="recv_history_list_item_title">Prijaté %2$d súbory od %1$s</string>
+    <string name="recv_history_file_btn_delele">Vymazať (%1$d)</string>
+    <string name="recv_history_file_count_title">(%1$d spolu)</string>
+    <string name="recv_history_file_toast_clean_failed">Vymazanie zlyhalo</string>
+    <string name="no_file_tip">Žiadne súbory</string>
+    <string name="loading_file_tip">Nahrávam, čakajte prosím...</string>
+    <string name="rate_des">Ak sa vám páči, ohodnoťte 5 hviezdičkami!</string>
+    <string name="rate_btn_cancel">Teraz nie</string>
+    <string name="rate_btn_ok">Ohodnotiť 5 hviezdičkami</string>
+    <string name="rate_limit_speed">Úžasné! Prenesené rýchlosťou %s</string>
+    <string name="google_play_slides_up_tip">Posunutím nahor nájdete možnosť ohodnotiť</string>
+    <string name="share_to">Zdieľať</string>
+    <string name="share_face_to_face">Zdieľať CM Transfer tvárou v tvár</string>
+    <string name="toast_no_external_memory">Žiadna SD karta</string>
+    <string name="toast_deleted_image">Tento obrázok neexistuje</string>
+    <string name="toast_deleted_video">Toto  video neexistuje</string>
+    <string name="toast_deleted_recv_files">Vymazávam...</string>
+    <string name="toast_deleted_transfer_record">Vymazávam...</string>
+    <string name="toast_transfer_cancel">Odosielateľ zrušil odosielanie súboru</string>
+    <string name="toast_recv_cancel">Prijímateľ zrušil príjem súboru</string>
+    <string name="toast_transfer_break">Problém so sieťou, skúste to znova</string>
+    <string name="toast_no_data_transfer">Žiadne dáta nebudú prenesené</string>
+    <string name="about_toast_msg">"Nemáte nainštalovaný %s"</string>
+    <string name="file">Súbory</string>
+    <string name="open">Otvoriť</string>
+    <string name="receiver_version_error">Verzia CM Transfer na prijímateľovom telefóne je zastaralá. &lt;br>&lt;font color=#909090 >Želáte si ju aktualizovať?&lt;/font></string>
+    <string name="receiver_version_error_result">&lt;font color=#909090 >%d súbory neboli odoslané, pretože &lt;/font>verzia CM Transfer na prijímateľovom telefóne je zastaralá.&lt;font color=#909090 >. Prosím aktualizujte ju, aby bolo možné poslať súbory znova.&lt;/font></string>
+    <string name="toast_file_cannot_open">Nebolo možné nájsť aplikáciu na dokončenie tejto úlohy</string>
+    <string name="notify_five_star_msg">CM Transfer vám ďakuje!</string>
+    <string name="notify_five_star_like">Páči sa mi</string>
 </resources>
