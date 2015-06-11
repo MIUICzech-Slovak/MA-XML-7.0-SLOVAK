@@ -278,7 +278,7 @@
     <string name="main_share_url_msg_second">&lt;font color=#0671cf >http://192.168.43.1:1111&lt;/font> pre získanie aplikácie CM Transfer.</string>
     <string name="main_share_url_msg_bottom">Určite budem tam!</string>
     <string name="main_share_url_msg">Požiadajte vašich priateľov aby načítali QR kód pre CM Transfer</string>
-    <string name="main_share_bottom_text"/>&lt;u>Odoslať CM Transfer do iného zariadenia&lt;/u></string>
+    <string name="main_share_bottom_text">&lt;u>Odoslať CM Transfer do iného zariadenia&lt;/u></string>
     <string name="send_name"> CM Transfer</string>
     <string name="twice_back_pressed_tip">Stlačte znova pre ukončenie</string>
     <string name="about">O aplikácií</string>
