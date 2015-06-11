@@ -187,4 +187,10 @@
   <string name="android_ringtone_default_with_actual">Predvolené zvonenie (%1$s)</string>
   <string name="android_ringtone_silent">Žiadne</string>
   <string name="android_ringtone_unknown">Neznáme zvonenie</string>
+  <string name="app_name_which_call">Apl: %s</string>
+  <string name="app_version_which_call">Verzia: %s</string>
+  <string name="license_host_unreachable">"Nie je možné sa pripojiť k sieti. Pre zobrazenie týchto informácií choďte na %s."</string>
+  <string name="loading">Načítavanie...</string>
+  <string name="mibi_license">Podmienky používania MiCredit</string>
+  <string name="policy_name">Oprávnenia: %s</string>
 </resources>
