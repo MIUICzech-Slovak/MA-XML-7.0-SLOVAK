@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#fff3f5f9" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/titleLayout" android:background="#ff0169c8" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/titleBackView" android:layout_width="wrap_content" android:layout_height="48.0dip">
+                <ImageView android:id="@id/btn_back" android:paddingLeft="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/btn_back" />
+                <TextView android:textSize="17.0sp" android:textColor="#ffffffff" android:gravity="center_vertical" android:id="@id/titleTextView" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:text="@string/invite_tip" />
+            </LinearLayout>
+        </FrameLayout>
+    </RelativeLayout>
+    <ScrollView android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/titleMsgLayout" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_below="@id/titleLayout">
+                <TextView android:textColor="#ff909090" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:text="Odoslať" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/ll_invite_function" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/titleMsgLayout">
+                <View android:background="#ffdadbdf" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <include android:id="@id/rl_share_by_bluetooth" layout="@layout/item_invite_function" />
+                <include android:id="@id/rl_share_by_message" layout="@layout/item_invite_function" />
+                <include android:id="@id/rl_share_by_email" layout="@layout/item_invite_function" />
+                <include android:id="@id/rl_share_by_wifi" layout="@layout/item_invite_function" />
+                <View android:background="#ffdadbdf" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            </LinearLayout>
+            <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:id="@id/shareTitleMsgLayout" android:layout_width="fill_parent" android:layout_height="45.0dip" android:layout_below="@id/ll_invite_function">
+                <TextView android:textColor="#ff909090" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="15.0dip" android:text="Zdieľať" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/shareTitleMsgLayout">
+                <View android:background="#ffdadbdf" android:layout_width="fill_parent" android:layout_height="1.0px" />
+                <include android:id="@id/rl_share_by_fecebook" layout="@layout/item_about_function" />
+                <include android:id="@id/rl_share_by_twitter" layout="@layout/item_about_function" />
+                <include android:id="@id/rl_share_by_googleplus" layout="@layout/item_about_function" />
+                <View android:background="#ffdadbdf" android:layout_width="fill_parent" android:layout_height="1.0px" />
+            </LinearLayout>
+        </RelativeLayout>
+    </ScrollView>
+</LinearLayout>

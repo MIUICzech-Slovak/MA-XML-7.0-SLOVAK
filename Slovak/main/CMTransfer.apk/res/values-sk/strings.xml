@@ -25,7 +25,7 @@
     <string name="saavn_audio">Saavn Music</string>
     <string name="spotify_audio">Spotify Music</string>
     <string name="spotifyw_audio">Spotify Music</string>
-    <string name="com_cmcm_transfer_save_music">CM Transfer Prijatá Hudba</string>
+    <string name="com_cmcm_transfer_save_music">Prijatá Hudba</string>
     <string name="com_cloudmusic_netease_save_music">Netease Music</string>
     <string name="com_dewmobile_kuaiya_play_save_music">Zapya Music</string>
     <string name="com_sds_android_save_music">TTPod Music</string>
@@ -206,7 +206,7 @@
     <string name="com_spotify_mobile_android_ui_save_pic">Spotify Pictures</string>
     <string name="com_google_android_apps_genie_geniewidget_save_pic">News and Weather Pictures</string>
     <string name="com_ijinshan_kbatterydoctor_en_save_pic">Battery Doctor Pictures</string>
-    <string name="com_cmcm_transfer_save_pic">CM Transfer Received Pictures</string>
+    <string name="com_cmcm_transfer_save_pic">Prijaté obrázky</string>
     <string name="com_ijinshan_browser_save_pic">CM Browser Pictures</string>
     <string name="com_ijinshan_browser_fast_save_pic">CM Fast Browser Pictures</string>
     <string name="com_sonyericsson_extras_liveware_save_pic">Sony Liveware Pictures</string>
@@ -244,7 +244,7 @@
     <string name="oovoo_video">ooVoo Videos</string>
     <string name="com_dewmobile_kuaiya_play_save_video">Zapya Videos</string>
     <string name="com_instagram_android_save_video">Instagram Videos</string>
-    <string name="com_cmcm_transfer_save_video">CM Transfer Received Videos</string>
+    <string name="com_cmcm_transfer_save_video">Prijaté videá</string>
     <string name="com_netease_cloudmusic_save_video">Netease Videos</string>
     <string name="com_sds_android_ttpod_save_video">TTPod Videos</string>
     <string name="com_qiyi_video_save_video">iQiYi Videos</string>
@@ -278,7 +278,7 @@
     <string name="main_share_url_msg_second">&lt;font color=#0671cf >http://192.168.43.1:1111&lt;/font> pre získanie aplikácie CM Transfer.</string>
     <string name="main_share_url_msg_bottom">Určite budem tam!</string>
     <string name="main_share_url_msg">Požiadajte vašich priateľov aby načítali QR kód pre CM Transfer</string>
-    <string name="main_share_bottom_text">&lt;u>Odoslať CM Transfer do iného zariadenia&lt;/u></string>
+    <string name="main_share_bottom_text"/>&lt;u>Odoslať CM Transfer do iného zariadenia&lt;/u></string>
     <string name="send_name"> CM Transfer</string>
     <string name="twice_back_pressed_tip">Stlačte znova pre ukončenie</string>
     <string name="about">O aplikácií</string>
@@ -302,7 +302,7 @@
     <string name="feedback_qq_title">Vaša emailová adresa:</string>
     <string name="feedback_commit">Odoslať</string>
     <string name="feedback_commit_success">Úspešne odoslané</string>
-    <string name="feedback_content">Zaznamenali ste nejaké problémy počas prijámania alebo odosielania súborov?</string>
+    <string name="feedback_content">Zaznamenali ste nejaké problémy počas prijímania alebo odosielania súborov?</string>
     <string name="send_waiting">Čakanie na prijmateľa...</string>
     <string name="recv_waiting">Čakanie na odosielateľa...</string>
     <string name="transfer_info_doing_format" formatted="false">Odosielanie súboru (%d/%d) %s</string>
@@ -440,7 +440,7 @@
     <string name="rate_limit_speed">Úžasné! Prenesené rýchlosťou %s</string>
     <string name="google_play_slides_up_tip">Posunutím nahor nájdete možnosť ohodnotiť</string>
     <string name="share_to">Zdieľať</string>
-    <string name="share_face_to_face">Zdieľať CM Transfer tvárou v tvár</string>
+    <string name="share_face_to_face"/>
     <string name="toast_no_external_memory">Žiadna SD karta</string>
     <string name="toast_deleted_image">Tento obrázok neexistuje</string>
     <string name="toast_deleted_video">Toto  video neexistuje</string>
