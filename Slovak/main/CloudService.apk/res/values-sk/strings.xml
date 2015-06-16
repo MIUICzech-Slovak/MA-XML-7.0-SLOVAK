@@ -47,11 +47,11 @@ To get more storage space, visit mi.com/micloud."</string>
   <string name="cloud_back_up_interval_long">7 dní</string>
   <string name="cloud_back_up_interval_short">1 deň</string>
   <string name="cloud_back_up_network_unavailable">Nie je možné odobrať. Pripojte sa k Wi-Fi sieti.</string>
-  <string name="cloud_back_up_open_info">"Zálohovať vaše nastavenie domácej obrazovky a aplikácií každých %1$s ak ste pripojený na Wi-Fi
+  <string name="cloud_back_up_open_info">"Zálohovať vaše aplikácie každých %1$s ak ste pripojený na Wi-Fi
 Naposledy: %2$s"</string>
-  <string name="cloud_back_up_open_info_no_backuptime">Zálohovať vaše nastavenie domácej obrazovky a aplikácií každých %1$s ak ste pripojený na Wi-Fi</string>
+  <string name="cloud_back_up_open_info_no_backuptime">Zálohovať vaše aplikácie každých %1$s ak ste pripojený na Wi-Fi</string>
   <string name="cloud_back_up_remove_success">Záloha vymazaná</string>
-  <string name="cloud_back_up_title">Domáca obrazovka</string>
+  <string name="cloud_back_up_title">Aplikácie</string>
   <string name="cloud_backup_dialog_title">Zálohovať do MiCloud</string>
   <string name="cloud_find_device">Nájsť zariadenie</string>
   <string name="cloud_space_upgrade_message">Stlačte pre získanie %s GB miesta tento mesiac</string>
@@ -187,7 +187,7 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_other_product_price">Cena ostatných produktov:</string>
   <string name="micloud_proceed">Pokračovať</string>
   <string name="micloud_sec_dspt">a zdieľať dáta s priateľmi.</string>
-  <string name="micloud_setting_antispam_summary">Výnimky pre Režim Nerušiť a blokované tel. čísla.</string>
+  <string name="micloud_setting_antispam_summary">Výnimky a blokované tel. čísla.</string>
   <string name="micloud_setting_browser_summary">Záložky a históriu</string>
   <string name="micloud_setting_contact_summary">Kontakty a profilové fotografie</string>
   <string name="micloud_setting_gallery_summary">Fotografie a videá</string>
@@ -343,7 +343,7 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_sync_alert_dialog_positive">OK</string>
   <string name="micloud_sync_alert_dialog_title">Použiť MiCloud</string>
   <string name="settings_backup_title">Zálohovať nastavenie systému</string>
-  <string name="micloud_buy_member">Zmeniť členstvo</string>
+  <string name="micloud_buy_member">Účet</string>
   <string name="micloud_member_buy_content" formatted="false">"Platné pre %s-%s-%s
 
 %s MiKreditov na rok"</string>
@@ -364,8 +364,8 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívať MiCloud?</string>
   <string name="sync_dspt_entrance_provision_skip">Preskočiť</string>
   <string name="internet_access_dspt">Táto aplikácia vyžaduje pripojenie na internet pre jej správne fungovanie.</string>
-  <string name="micloud_space_applist_detail">Manage your home screen space using the phone app.</string>
-  <string name="micloud_space_applist_title">Home screen Back up Space</string>
-  <string name="micloud_space_soundrecorder_detail">Manage your sound recorder content using the phone app.</string>
-  <string name="micloud_space_soundrecorder_title">SoundRecorder Space</string>
+  <string name="micloud_space_applist_detail">Spravovať apl. na vašej ploche.</string>
+  <string name="micloud_space_applist_title">Spravovať aplikácie</string>
+  <string name="micloud_space_soundrecorder_detail">Spravovať nahrávky vo vašom zariadení</string>
+  <string name="micloud_space_soundrecorder_title">Nahrávky</string>
 </resources>

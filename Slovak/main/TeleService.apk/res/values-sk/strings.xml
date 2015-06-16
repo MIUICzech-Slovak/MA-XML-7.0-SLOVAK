@@ -575,7 +575,7 @@
   <string name="msim_default_setting">Predvolené nastavenia</string>
   <string name="msim_enable_sim">Povoliť</string>
   <string name="msim_general_setting">Všeobecné nastavenia</string>
-  <string name="msim_has_been_disabled">(Deaktivované)</string>
+  <string name="msim_has_been_disabled">(Deaktivovaná)</string>
   <string name="msim_info_editor_name">Upraviť názov SIM karty</string>
   <string name="msim_info_editor_number">Upraviť číslo SIM karty</string>
   <string name="msim_info_editor_set_name_error">Nastala chyba, skúste to znova neskôr.</string>
