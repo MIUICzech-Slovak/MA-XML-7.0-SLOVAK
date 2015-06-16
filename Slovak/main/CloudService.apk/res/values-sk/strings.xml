@@ -364,4 +364,8 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívať MiCloud?</string>
   <string name="sync_dspt_entrance_provision_skip">Preskočiť</string>
   <string name="internet_access_dspt">Táto aplikácia vyžaduje pripojenie na internet pre jej správne fungovanie.</string>
+  <string name="micloud_space_applist_detail">Manage your home screen space using the phone app.</string>
+  <string name="micloud_space_applist_title">Home screen Back up Space</string>
+  <string name="micloud_space_soundrecorder_detail">Manage your sound recorder content using the phone app.</string>
+  <string name="micloud_space_soundrecorder_title">SoundRecorder Space</string>
 </resources>

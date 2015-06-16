@@ -443,7 +443,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_capture_settings">Nastavenie Fotoaparátu</string>
   <string name="pref_exposure_title">Expozícia</string>
   <string name="pref_face_beauty_title">Úprava pleti</string>
-  <string name="pref_front_mirror_entry_auto">Auto</string>
+  <string name="pref_front_mirror_entry_auto">Auto (len ak je rozpoznaná tvár)</string>
   <string name="pref_front_mirror_entry_off">Vyp</string>
   <string name="pref_front_mirror_entry_on">Zap</string>
   <string name="pref_front_mirror_title">Zrkadliť prednú kameru</string>

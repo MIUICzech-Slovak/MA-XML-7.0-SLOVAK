@@ -37,7 +37,7 @@
   <string name="connect_internet_by_usbshare">Internet cez USB</string>
   <string name="connect_internet_by_wifi">Pripojenie cez Wi-Fi</string>
   <string name="current_network_state_not_need_diagnose">Všetko je v poriadku</string>
-  <string name="daily_limit_network_available_body">Zobraziť využitie dát.</string>
+  <string name="daily_limit_network_available_body">Zobraziť spotrebu dát.</string>
   <string name="daily_limit_over_message">Prekročili ste denný limit dát.</string>
   <string name="daily_pkg_traffic">Nastavte limit predplatených dát</string>
   <string name="data_usage_correction_timeout_body">Nastaviť manuálne.</string>
@@ -143,10 +143,10 @@ mobilné internetové pripojenie"</string>
   <string name="main_button_usage_adjust_manual">Zadajte využité dáta</string>
   <string name="main_button_usage_adjusting">Mení sa...</string>
   <string name="main_button_usage_package_setting">Zadajte využité dáta</string>
-  <string name="main_primary_message_traffic_cur_leisure">Využitie dát mimo špičku</string>
+  <string name="main_primary_message_traffic_cur_leisure">Spotreba dát mimo špičku</string>
   <string name="main_primary_message_traffic_cur_normal">Pod limitom dát</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Prekročený limit dát</string>
-  <string name="main_primary_message_traffic_cur_normal_warning">Upozornenie na využitie dát</string>
+  <string name="main_primary_message_traffic_cur_normal_warning">Upozornenie na spotrebu dát</string>
   <string name="main_primary_message_traffic_enough">Pod limitom dát</string>
   <string name="main_primary_message_traffic_overlimit">Prekročený limit dát</string>
   <string name="main_primary_message_traffic_overlimit_purchase">Potrebujete si navýšiť dáta</string>
@@ -295,9 +295,9 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="repair_loading_text">Načítavanie..</string>
   <string name="replace_dns">Automaticky nahradiť</string>
   <string name="right_precent">100%</string>
-  <string name="roaming_not_start_body">Aplikácie v zozname výnimiek majú prístup k dátovému pripojeniu počas medzinárodného roamingu.</string>
+  <string name="roaming_not_start_body">Zobraziť nastavenie dátového roamingu.</string>
   <string name="roaming_not_start_title">Medzinárodný roaming</string>
-  <string name="roaming_start_body">Povoliť dátové pripojenie aplikáciam.</string>
+  <string name="roaming_start_body">Zobraziť výnimky dátového roamingu.</string>
   <string name="roaming_start_title">Medzinárodný roaming</string>
   <string name="sc_allow_network_dialog_message">Je nutné povoliť tejto aplikácií prístup k sieťovému pripojeniu.</string>
   <string name="sc_allow_network_dialog_tiltle">Nie je možné využívať úsporu dát</string>
@@ -448,7 +448,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_setting_open">Zap</string>
   <string name="traffic_setting_step_num">Nastavenie balíčku dát</string>
   <string name="traffic_setting_update_template_falure">Nie je možné sa pripojiť k sieti</string>
-  <string name="traffic_warning_purchase_title">Využitie mobilných dát</string>
+  <string name="traffic_warning_purchase_title">Spotreba mobilných dát</string>
   <string name="unable_connect_internet">Nie je možné sa pripojiť k sieti</string>
   <string name="usage_sorted_activity_lable">Spotreba dát</string>
   <string name="usage_sorted_empty_text">Prázdne</string>
