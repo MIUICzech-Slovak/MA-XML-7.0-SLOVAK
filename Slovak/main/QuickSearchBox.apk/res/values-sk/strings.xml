@@ -50,8 +50,8 @@
   <string name="voice_search_hint_title">Skúste hovoriť:</string>
   <string name="xiaomi_search_label">Online</string>
   <string name="searchable_lable_app">Apl.</string>
-  <string name="searchable_lable_browser">Prehliadač</string>
-  <string name="searchable_lable_duokan">Správy</string>
+  <string name="searchable_lable_browser">Internet</string>
+  <string name="searchable_lable_duokan">Noviny</string>
   <string name="searchable_lable_music">Hudba</string>
   <string name="searchable_lable_o2o">Mapy</string>
   <string name="searchable_lable_video">Video</string>
