@@ -173,7 +173,6 @@
   <string name="found_old_messages">Celkovo z: %1$s bolo nájdených zo starých účtov. Prajete si ich nahrať do Vášho súčasného účtu: %2$s?</string>
   <string name="found_old_messages_title">Nahrať správy</string>
   <string name="found_wild_messages">Správy z týchto čísiel boli nájdené vo vašom MiCloud účte:%s Chcete ich stiahnuť?</string>
-  <string name="found_wild_messages_title">Stiahnuť správy</string>
   <string name="from_label">"Od: "</string>
   <string name="group_message">Skupinová správa</string>
   <string name="group_message_failed_title">Zlyhalo odoslanie správy ku %d kontaktom. Skúsiť to znova?</string>
