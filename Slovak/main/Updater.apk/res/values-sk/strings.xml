@@ -259,10 +259,10 @@ Svoj názor môžete odoslať každý utorok"</string>
   <string name="update_feedback_need_network">Pripojte sa k sieti</string>
   <string name="update_feedback_need_update">Momentálne nepoužívate najnovšiu verziu MIUI. Pred odoslaním spätnej väzby musíte najkôr aktualizovať na najnovšiu verziu.</string>
   <string name="update_feel">Čo si o tom myslíte?</string>
-  <string name="update_general">Spokojný</string>
+  <string name="update_general">Priemerný</string>
   <string name="update_happy">Skvelý!</string>
   <string name="update_monthly_build_only">Aktualizácia iba mesačných verzií</string>
-  <string name="update_sad">Nič moc</string>
+  <string name="update_sad">Sklamanie</string>
   <string name="update_success">Aktualizácia prebehla úspešne!</string>
   <string name="update_success_body">na verziu %s</string>
   <string name="update_success_title">MIUI je aktualizovaná</string>

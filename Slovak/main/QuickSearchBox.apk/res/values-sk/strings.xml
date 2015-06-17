@@ -38,7 +38,7 @@
   <string name="remove_from_history">Odobrať z histórie hľadania</string>
   <string name="remove_from_history_failed">"Odobranie položky z histórie sa nepodarilo"</string>
   <string name="search_in_app_store">Vyhľadať v Google Play</string>
-  <string name="search_in_web">Vyhľadať na internete</string>
+  <string name="search_in_web">Vyhľadať online</string>
   <string name="search_settings">Nastavenie hľadania</string>
   <string name="search_sources">Vyhľadateľné položky</string>
   <string name="search_sources_summary">Vyberte si, čo hľadať v telefóne</string>
@@ -48,12 +48,12 @@
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Skúste hovoriť:</string>
-  <string name="xiaomi_search_label">Online</string>
+  <string name="xiaomi_search_label">Výsledky</string>
   <string name="searchable_lable_app">Apl.</string>
   <string name="searchable_lable_browser">Internet</string>
   <string name="searchable_lable_duokan">Noviny</string>
   <string name="searchable_lable_music">Hudba</string>
   <string name="searchable_lable_o2o">Mapy</string>
   <string name="searchable_lable_video">Video</string>
-  <string name="searchable_sources">Vyhľadávanie online</string>
+  <string name="searchable_sources">Online</string>
 </resources>
