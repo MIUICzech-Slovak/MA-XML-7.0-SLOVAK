@@ -3603,7 +3603,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="fluency_mode_summary">Vypnúť animácie systému a tým znížiť využívanie RAM</string>
   <string name="gesture_wakeup_title">Prebudiť dvojitým poklepaním</string>
   <string name="search_fluency_mode">Optimalizovať výkon</string>
-  <string name="install_no_market_app_summary">Povoliť inštaláciu aplikácií stiahnutých mimo oficálneho Obchodu Play</string>
+  <string name="install_no_market_app_summary">Povoliť inštaláciu aplikácií stiahnutých mimo oficiálneho Obchodu Play</string>
   <string name="install_no_market_app_title">Neznáme zdroje</string>
   <string name="lock_screen_secure_after_timeout_immediately_summary">Vyžadovať heslo okamžite</string>
   <string name="lock_screen_secure_after_timeout_summary">Vyžadovať heslo po %1$s</string>
