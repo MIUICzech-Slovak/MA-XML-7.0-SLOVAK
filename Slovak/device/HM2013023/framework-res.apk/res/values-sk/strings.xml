@@ -1304,7 +1304,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže viesť k poškodeniu vášho
   <string name="vpn_text">Dotykom môžete spravovať sieť.</string>
   <string name="vpn_text_long">Pripojené k relácii %s. Po dotyku môžete sieť spravovať.</string>
   <string name="vpn_title">Sieť VPN je aktivovaná</string>
-  <string name="vpn_title_long">Aplikáciu %s aktivovala sieť VPN</string>
+  <string name="vpn_title_long">Aplikácia %s aktivovala VPN</string>
   <string name="wait">Čakajte</string>
   <string name="wallpaper_binding_label">Tapeta</string>
   <string name="wday1_date1_time1_wday2_date2_time2">%3$s %1$s, %2$s - %6$s %4$s, %5$s</string>

@@ -1442,7 +1442,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="vpn_text">Dotykom môžete spravovať sieť.</string>
   <string name="vpn_text_long">Pripojené k relácii %s. Po dotyku môžete sieť spravovať.</string>
   <string name="vpn_title">Sieť VPN je aktivovaná</string>
-  <string name="vpn_title_long">Aplikáciu %s aktivovala sieť VPN</string>
+  <string name="vpn_title_long">Aplikácia %s aktivovala VPN</string>
   <string name="wait">Čakajte</string>
   <string name="wallpaper_binding_label">Tapeta</string>
   <string name="webpage_unresponsive">"Stránka nereaguje.
