@@ -28,6 +28,7 @@
   <string name="btn_start_diagnostic">Kontrola</string>
   <string name="btn_stop_diagnostic">Zastaviť</string>
   <string name="cancel_button">Zrušiť</string>
+  <string name="captive_portal_exception_title">Pripojiť na verejnú sieť</string>
   <string name="chat_number">10 hodín</string>
   <string name="chat_uint">" hodín"</string>
   <string name="check_network_state">Kontrola stavu siete</string>
@@ -40,6 +41,7 @@
   <string name="daily_limit_network_available_body">Zobraziť spotrebu dát.</string>
   <string name="daily_limit_over_message">Prekročili ste denný limit dát.</string>
   <string name="daily_pkg_traffic">Nastavte limit predplatených dát</string>
+  <string name="data_network_blocked_notification_title">Žiadne pripojenie</string>
   <string name="data_usage_correction_timeout_body">Nastaviť manuálne.</string>
   <string name="data_usage_correction_timeout_title">Synchr. spotreby dát zlyhala</string>
   <string name="data_usage_disabled_dialog">"Dosiahli ste limit vašich predplatených dát. 
@@ -88,6 +90,7 @@ For more info check the message you received from your service provider"</string
   <string name="detail_app_button">Podrobnosti</string>
   <string name="dialog_app_roaming_message">Ak ste v medzinárodnom roamingu, iba aplikácie v zozname výnimiek majú prístup k dátovemu pripojeniu. %1$s nie je pridané do výnimiek. Zobraziť zoznam výnimiek?"</string>
   <string name="dialog_app_roaming_title">"Medzinárodný roaming nie je povolený pre %1$s"</string>
+  <string name="dialog_roaming_apps_sorted_title">Zoradiť podľa</string>
   <string name="dialog_roaming_message">Aplikácie v zozname výnimiek budú mať prístup k dátovému pripojeniu počas medzinárodného roamingu. Pridať túto aplikáciu do výnimiek?</string>
   <string name="dialog_roaming_title">Medzinárodný roaming</string>
   <string name="disable_air_mode">Vypnite režim Lietadlo</string>
@@ -102,6 +105,8 @@ For more info check the message you received from your service provider"</string
   <string name="firewall_fragment_sys_listempty">Prázdne</string>
   <string name="firewall_fragment_tab_title_nonsys">Stiahnuté</string>
   <string name="firewall_fragment_tab_title_sys">Systémové</string>
+  <string name="firewall_network_restrict_notify_message">Zmeniť nastavenia</string>
+  <string name="firewall_network_restrict_notify_title">%1$s nemá povolené pripojenie k %2$s.</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Medzinárodný roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -116,16 +121,22 @@ For more info check the message you received from your service provider"</string
   <string name="free_time_traffic_title">Zadajte limit dát mimo špičku</string>
   <string name="free_traffic_settings">Nastavenie dát mimo špičku</string>
   <string name="gateway_exception_summary">Skontrolujte váš router a skúste to znova.</string>
+  <string name="gateway_exception_summary2">Pripojenie k serveru zlyhalo</string>
   <string name="gateway_exception_title">Kontrola routeru</string>
+  <string name="hints_input_roaming_daily_limit">Zadajte denný limit mobilných dát</string>
+  <string name="hints_install_apps_new">Nikdy nepoužité</string>
+  <string name="hints_install_apps_today">Dnes použité</string>
   <string name="input_aviable_traffic">Nastaviť limit spotreby dát</string>
   <string name="input_traffic_pkg">Zadajte využité dáta</string>
   <string name="input_used_hint">Zadajte využité dáta</string>
   <string name="input_used_max_hint">Zadajte spotrebované dáta (menej ako %s)</string>
   <string name="international_roaming_setting">Medzinárodný roaming</string>
   <string name="international_roaming_whitelist_count">%d aplikácií má prístup k dátovému pripojeniu počas medzinárodného roamingu</string>
+  <string name="ip_address_exception_summary">Nepodarilo sa získať IP adresu. Ak sa táto chyba opakuje, skúste nastaviť statickú IP adresu.</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prázdne</string>
   <string name="load_fail">Nie je možné načítať</string>
+  <string name="local_ip_exception_summary">Nepodarilo sa získať IP adresu. Odporúčame odoslať záznam o chybe cez aplikáciu Hlásenie chýb.</string>
   <string name="lock_screen_setting_summary">Upozornenie sa zobrazí až po stiahnutí viac ako 100KB</string>
   <string name="lock_screen_traffic_guide_notification_summary">Mobilné dáta využité počas uzamknutia telefónu.</string>
   <string name="lock_screen_traffic_guide_notification_title">Stiahnuté %s</string>
@@ -179,10 +190,49 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
   <string name="mi_service_traffic_detail">Podrobnosti o Frameworku</string>
+  <string name="mian_page_primary_txt">Medzinárodný roaming</string>
+  <string name="miuishare_title_more">Viac</string>
+  <string name="miuishare_title_share">Zdieľať</string>
+  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
+  <string name="miuishare_weibo_title">Weibo</string>
   <string name="network_assistant_upgraded_body">Dotykom obmedzíte používanie dát.</string>
   <string name="network_assistant_upgraded_title">Aktualizácia dokončená</string>
+  <string name="network_blocked_connected_open_wifi">Pripojiť na verejnú sieť</string>
+  <string name="network_blocked_notification_summary">Zobraziť podrobnosti.</string>
+  <string name="network_blocked_switch_wifi">Prepnúť siete</string>
+  <string name="network_connected_exception_title">Kontrola siete</string>
   <string name="network_control">Nastavenia aplikácie</string>
   <string name="network_diagnostics">Skontrolovať sieť</string>
+  <string name="network_mobile_exception_detail">"Vaše zariadenie sa nemôže pripojiť na internet:
+
+ 1. Skontrolujte či ste nepresiahli dátový limit u vášho operátora.
+ 2. Ak ste si práve navýšili dátový limit, skúste reštartovať vaše zariadenie.
+ 3. Signál vášho oprátora je možno príliš slabý v tejto lokalite."</string>
+  <string name="network_not_available">Nie je možné sa pripojiť k sieti</string>
+  <string name="network_operator_exception_summary">Nebolo možné aktivovať vašu SIM kartu. Skontrolujte či ste správne vložili SIM kartu a mobilné dáta sú aktivované u vášho operátora.</string>
+  <string name="network_permission_exception_tips">Nie je možné použiť mobilné dáta.</string>
+  <string name="network_roaming_exception_tips">Nie je možné použiť mobilné dáta v roamingu.</string>
+  <string name="network_route_exception_detail">"Môže byť problém s routerom na ktorý ste pripojený:
+
+
+"&lt;b&gt;"1. Verejná Wi-Fi sieť
+"&lt;/b&gt;"Ak ste pripojený k verejnej Wi-Fi sieti, množstvo pripojených užívateľov môže spôsobovať spomalenie rýchlosti a nestabilitu pripojenia. Skúste vybrať inú Wi-Fi sieť.
+"&lt;b&gt;"2. Chyba poskytovateľa internetového pripojenia
+"&lt;/b&gt;"Uistite sa, že máte správne nastavené internetové pripojenie podľa vášho poskytovateľa.
+"&lt;b&gt;"3. Chyba routra
+"&lt;/b&gt;"Skúste reštartovať váš router alebo skontrolovať jeho nastavenia.
+"&lt;b&gt;"4. Iné problémy s vašim routrom
+"&lt;/b&gt;"Obnovte továrne nastavenia vášho routra.
+"&lt;b&gt;"5. Uistite sa, že je router správne pripojený
+"&lt;/b&gt;"Skúste použiť iný internetový kábel pre pripojenie routra. Ak si myslíte, že máte problém s internetovým pripojením vášho routra, kontaktujte poskytovateľa internetových služieb."</string>
+  <string name="network_sim_exception_detail">"Môže byť problém s vašou SIM kartou:
+
+ 1. Skontrolujte nastavenie mobilného dátového pripojenia s nastavením u vášho operátora. Skúste použiť inú SIM kartu.
+ 2. Ak používate dve SIM karty, skúste ich prehodiť v slotoch zariadenia.
+ 3. Skontrolujte či máte správne vloženú SIM kartu do zariadenia a nie je poškodená."</string>
+  <string name="networkchanged_exception_summary">Pripojenie k sieti bolo zmenené. Skontrolujte ho znova.</string>
+  <string name="networkchanged_exception_title">Pripojenie zmenené</string>
+  <string name="no_network_btn">Skúsiť znova</string>
   <string name="none_mi_service_app_detail">Prázdne</string>
   <string name="notification_content_title">Využité %1$s počas uzamknutia</string>
   <string name="notification_title">%1$s-%2$s: %3$s využité</string>
@@ -198,8 +248,13 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Text</string>
   <string name="online_songs">Hudba</string>
+  <string name="open_now">Povoliť apl. používanie mobilných dát</string>
+  <string name="other_exception_summary">Nemáte internetové pripojenie</string>
+  <string name="other_exception_title">Kontrola ostatných chýb</string>
   <string name="pay_charge">Top-up</string>
   <string name="per_month_pkg_traffic_settings">Nastaviť limit mobilných dát</string>
+  <string name="permission_exception_summary">Niektoré aplikácie nemajú povolenie na pripojenie k internetu</string>
+  <string name="permission_exception_title">Zobraziť povolenie siete</string>
   <string name="permit_running_network">Povoliť dáta na pozadí</string>
   <string name="person_hotpot">Mobilné hot-spoty</string>
   <string name="pkg_traffic">Nastaviť limit mobilných dát</string>
@@ -247,6 +302,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="pref_package_traffic_overlay">%1$s | Dodatočné: %2$s</string>
   <string name="pref_package_traffic_settings">Limit mobilných dát</string>
   <string name="pref_pkg_begin_date">Deň obnovenia dátového balíčku</string>
+  <string name="pref_roaming_daily_limit_setting">Denný limit dát pre roaming</string>
   <string name="pref_setting_operators_message">Upraviť správu ktorú odosiela vaše zariadenie operátorovi pre kontrolu vašej spotreby dát</string>
   <string name="pref_show_mobile_traffic">Po odomknutí vášho zariadenia, zobraziť stav spotreby dát počas doby kedy bolo zariadenie uzamknuté (musí byť dlhšie ako 5 minút)</string>
   <string name="pref_special_traffic_exceed_limit">Upozorniť ma ak som dosiahol limit</string>
@@ -254,6 +310,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="pref_specified_adjust">Nastaviť vlastný limit dát</string>
   <string name="pref_specified_traffic_settings">Nastavenie limitu dát</string>
   <string name="pref_title_declaration">Dôležité upozornenie</string>
+  <string name="pref_title_diagnostics_dont_show_float_notification">Zobraziť upozornenia v roletke</string>
   <string name="pref_title_mobile_traffic">Zobraziť spotrebu dát počas spánku</string>
   <string name="pref_title_network_diagnostics">Diagnostika siete</string>
   <string name="pref_title_over_traffic_limit_warning">Po prekročení</string>
@@ -287,18 +344,26 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="privacy_prompt_traffic_adjust_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre aktualizáciu vzoru SMS správy a kontrolu či je táto funkcia podporovaná vaším operátorom.</string>
   <string name="privacy_prompt_traffic_purchase_message">Vaše telefónne číslo a podrobnosti o operátorovi budú odoslané na Xiaomi server pre kontrolu možností navýšenia objemu spotreby dát.</string>
   <string name="privacy_prompt_upload">Bezpečnostné upozornenie</string>
+  <string name="protocol_exception_title">Diagnostika siete</string>
+  <string name="protocol_loop_back_exception_summary">Test zlyhal. Odporúčame odoslať záznam o chybe cez aplikáciu Hlásenie chýb.</string>
   <string name="reach_daily_limit_value_body">Obmedzte vašu spotrebu mobilných dát.</string>
   <string name="reach_daily_limit_value_title">Dosiahli ste váš denný limit dát</string>
   <string name="read_number">86 článkov</string>
   <string name="read_unit">" článkov"</string>
+  <string name="renew_ip">Znova</string>
   <string name="repair">Opraviť</string>
   <string name="repair_loading_text">Načítavanie..</string>
   <string name="replace_dns">Automaticky nahradiť</string>
   <string name="right_precent">100%</string>
+  <string name="roaming_limit_dialog_message">Dosiahnutý denný limit dát v roamingu.</string>
+  <string name="roaming_limit_network_notification_body">Zobraziť dostupné siete</string>
+  <string name="roaming_limit_notification_title">Dosiahnutý denný limit dát v roamingu</string>
+  <string name="roaming_limit_warning_notification_body">Zobraziť spotrebu dát.</string>
   <string name="roaming_not_start_body">Zobraziť nastavenie dátového roamingu.</string>
   <string name="roaming_not_start_title">Medzinárodný roaming</string>
   <string name="roaming_start_body">Zobraziť výnimky dátového roamingu.</string>
   <string name="roaming_start_title">Medzinárodný roaming</string>
+  <string name="root">Root práva</string>
   <string name="sc_allow_network_dialog_message">Je nutné povoliť tejto aplikácií prístup k sieťovému pripojeniu.</string>
   <string name="sc_allow_network_dialog_tiltle">Nie je možné využívať úsporu dát</string>
   <string name="see_detail">Podrobnosti</string>
@@ -308,6 +373,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="show_traffic_dialog_title">Zobraziť spotrebu dát v roletke</string>
   <string name="signal_exception_summary">Nie je možné sa pripojiť k sieti.</string>
   <string name="signal_exception_title">Kontrola sily signálu</string>
+  <string name="sim_state_exception_summary">Niečo nie je v poriadku s vašou SIM kartou.</string>
   <string name="songs_number">18 skladieb</string>
   <string name="songs_unit">" skladieb"</string>
   <string name="sorted_button">Zoradiť</string>
@@ -374,6 +440,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_correction_start_correction">"Kontrola so servermi operátora..."</string>
   <string name="traffic_correction_start_correction_failed">Požiadavka zlyhala, skontrolujte nastavenie operátora</string>
   <string name="traffic_correction_success">Spotreba dát aktualizovaná</string>
+  <string name="traffic_correction_success_notify_message">Zobraziť podrobnosti</string>
   <string name="traffic_limit_error_alert_body">Ostávajúci objem mobilných dát zistený od vášho operátorom je %1$s. To je viac ako váš nastavený limit %2$s.</string>
   <string name="traffic_limit_error_alert_iknow">OK</string>
   <string name="traffic_limit_error_alert_reset">Obnoviť limit</string>
@@ -455,75 +522,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="usage_sorted_loading_text">Načítavanie...</string>
   <string name="usbsharenet_exception_summary">Nie je možné skontrolovať pripojenie cez MiPCsuite.</string>
   <string name="usbsharenet_exception_title">Skontrolovať sieť cez USB</string>
+  <string name="usbsharenet_pc_exception_summary">Nie je možné sa pripojiť k sieti cez zdieľané pripojenie. Skontrolujte pripojenie vášho PC.</string>
   <string name="wifi_exception_summary">Skontrolovať dostupné pripojenie Wi-Fi siete</string>
   <string name="wifi_exception_title">Kontrola Wi-Fi</string>
-  <string name="root">Root práva</string>
-  <string name="firewall_network_restrict_notify_message">Zmeniť nastavenia</string>
-  <string name="firewall_network_restrict_notify_title">%1$s nemá povolené pripojenie k %2$s.</string>
-  <string name="traffic_correction_success_notify_message">Zobraziť podrobnosti</string>
-  <string name="captive_portal_exception_title">Pripojiť na verejnú sieť</string>
-  <string name="data_network_blocked_notification_title">Žiadne pripojenie</string>
-  <string name="dialog_roaming_apps_sorted_title">Zoradiť podľa</string>
-  <string name="hints_input_roaming_daily_limit">Zadajte denný limit mobilných dát</string>
-  <string name="hints_install_apps_new">Nikdy nepoužité</string>
-  <string name="hints_install_apps_today">Dnes použité</string>
-  <string name="ip_address_exception_summary">Nepodarilo sa získať IP adresu. Ak sa táto chyba opakuje, skúste nastaviť statickú IP adresu.</string>
-  <string name="local_ip_exception_summary">Nepodarilo sa získať IP adresu. Odporúčame odoslať záznam o chybe cez aplikáciu Hlásenie chýb.</string>
-  <string name="mian_page_primary_txt">Medzinárodný roaming</string>
-  <string name="network_blocked_connected_open_wifi">Pripojiť na verejnú sieť</string>
-  <string name="network_blocked_notification_summary">Zobraziť podrobnosti.</string>
-  <string name="network_blocked_switch_wifi">Prepnúť siete</string>
-  <string name="network_mobile_exception_detail">"Vaše zariadenie sa nemôže pripojiť na internet:
-
- 1. Skontrolujte či ste nepresiahli dátový limit u vášho operátora.
- 2. Ak ste si práve navýšili dátový limit, skúste reštartovať vaše zariadenie.
- 3. Signál vášho oprátora je možno príliš slabý v tejto lokalite."</string>
-  <string name="network_operator_exception_summary">Nebolo možné aktivovať vašu SIM kartu. Skontrolujte či ste správne vložili SIM kartu a mobilné dáta sú aktivované u vášho operátora.</string>
-  <string name="network_permission_exception_tips">Nie je možné použiť mobilné dáta.</string>
-  <string name="network_roaming_exception_tips">Nie je možné použiť mobilné dáta v roamingu.</string>
-  <string name="network_route_exception_detail">"Môže byť problém s routerom na ktorý ste pripojený:
-
-
-"&lt;b&gt;"1. Verejná Wi-Fi sieť
-"&lt;/b&gt;"Ak ste pripojený k verejnej Wi-Fi sieti, množstvo pripojených užívateľov môže spôsobovať spomalenie rýchlosti a nestabilitu pripojenia. Skúste vybrať inú Wi-Fi sieť.
-"&lt;b&gt;"2. Chyba poskytovateľa internetového pripojenia
-"&lt;/b&gt;"Uistite sa, že máte správne nastavené internetové pripojenie podľa vášho poskytovateľa.
-"&lt;b&gt;"3. Chyba routra
-"&lt;/b&gt;"Skúste reštartovať váš router alebo skontrolovať jeho nastavenia.
-"&lt;b&gt;"4. Iné problémy s vašim routrom
-"&lt;/b&gt;"Obnovte továrne nastavenia vášho routra.
-"&lt;b&gt;"5. Uistite sa, že je router správne pripojený
-"&lt;/b&gt;"Skúste použiť iný internetový kábel pre pripojenie routra. Ak si myslíte, že máte problém s internetovým pripojením vášho routra, kontaktujte poskytovateľa internetových služieb."</string>
-  <string name="network_sim_exception_detail">"Môže byť problém s vašou SIM kartou:
-
- 1. Skontrolujte nastavenie mobilného dátového pripojenia s nastavením u vášho operátora. Skúste použiť inú SIM kartu.
- 2. Ak používate dve SIM karty, skúste ich prehodiť v slotoch zariadenia.
- 3. Skontrolujte či máte správne vloženú SIM kartu do zariadenia a nie je poškodená."</string>
-  <string name="open_now">Povoliť apl. používanie mobilných dát</string>
-  <string name="other_exception_summary">Nemáte internetové pripojenie</string>
-  <string name="other_exception_title">Kontrola ostatných chýb</string>
-  <string name="pref_roaming_daily_limit_setting">Denný limit dát pre roaming</string>
-  <string name="protocol_exception_title">Diagnostika siete</string>
-  <string name="protocol_loop_back_exception_summary">Test zlyhal. Odporúčame odoslať záznam o chybe cez aplikáciu Hlásenie chýb.</string>
-  <string name="renew_ip">Znova</string>
-  <string name="roaming_limit_dialog_message">Dosiahnutý denný limit dát v roamingu.</string>
-  <string name="roaming_limit_network_notification_body">Zobraziť dostupné siete</string>
-  <string name="roaming_limit_notification_title">Dosiahnutý denný limit dát v roamingu</string>
-  <string name="roaming_limit_warning_notification_body">Zobraziť spotrebu dát.</string>
-  <string name="sim_state_exception_summary">Niečo nie je v poriadku s vašou SIM kartou.</string>
-  <string name="usbsharenet_pc_exception_summary">Nie je možné sa pripojiť k sieti cez zdieľané pripojenie. Skontrolujte pripojenie vášho PC.</string>
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
-  <string name="miuishare_title_more">Viac</string>
-  <string name="miuishare_title_share">Zdieľať</string>
-  <string name="miuishare_wechat_timeline_title">Wechat Timeline</string>
-  <string name="miuishare_weibo_title">Weibo</string>
-  <string name="network_connected_exception_title">Kontrola siete</string>
-  <string name="network_not_available">Nie je možné sa pripojiť k sieti</string>
-  <string name="networkchanged_exception_summary">Pripojenie k sieti bolo zmenené. Skontrolujte ho znova.</string>
-  <string name="networkchanged_exception_title">Pripojenie zmenené</string>
-  <string name="no_network_btn">Skúsiť znova</string>
-  <string name="permission_exception_summary">Niektoré aplikácie nemajú povolenie na pripojenie k internetu</string>
-  <string name="permission_exception_title">Zobraziť povolenie siete</string>
-  <string name="gateway_exception_summary2">Pripojenie k serveru zlyhalo</string>
-  <string name="pref_title_diagnostics_dont_show_float_notification">Zobraziť upozornenia v roletke</string>
 </resources>

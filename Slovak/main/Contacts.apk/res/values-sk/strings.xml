@@ -18,6 +18,7 @@
   <string name="add_2sec_pause">Pridať 2s pauzu</string>
   <string name="add_account">Pridať účet</string>
   <string name="add_blacklist">Čierna listina</string>
+  <string name="add_blacklist_dialog_title">Blokovať toto číslo?</string>
   <string name="add_connection_button">Pridať prepojenie</string>
   <string name="add_contact_dlg_message_fmt">Pridať \"%s\" do kontaktov?</string>
   <string name="add_field">Pridať ďalšiu položku</string>
@@ -44,6 +45,7 @@
   <string name="batch_delete_msg">"Chcete vymazať %d kontaktov?
  
  Ak používate synchronizáciu kontaktov s cloudom, budú vymazané aj odtiaľ."</string>
+  <string name="blacklist">Blokovať</string>
   <string name="bluetooth_connection_failed_toast">Bluetooth spojenie sa prerušilo</string>
   <string name="blurbJoinContactDataWith">Vyberte kontakt s ktorým chcete zlúčiť s %s:</string>
   <string name="btn_delete_multi_contacts">Vymazať kontakt (%d)</string>
@@ -155,6 +157,7 @@
   <string name="close_dial_pad">Zatvoriť číselník</string>
   <string name="cloud_antispam_mark">Spam</string>
   <string name="cloud_antispam_title">Anti-Spam</string>
+  <string name="cloud_recommend_msg">Dotykom synchronizujete kontakty s MiCloud.</string>
   <string name="composer_failed_to_get_database_infomation">Načítanie informácií z databázy sa nepodarilo</string>
   <string name="composer_has_no_exportable_contact">Nemožno exportovať žiadne kontakty. Ak máte v telefóne skutočne uložené kontakty, je možné, že poskytovateľ dátových služieb zakázal ich export mimo telefón.</string>
   <string name="composer_not_initialized">Editor vCard nie je správne inicializovaný</string>
@@ -231,6 +234,7 @@
   <string name="delete_unknown_contact_calllog_title">Potvrdiť vymazanie volaní na neznáme čísla?</string>
   <string name="deleting">Odstraňovanie...</string>
   <string name="deleting_sim_entry_miui">Mazanie kontaktov na SIM karte...</string>
+  <string name="deleting_sim_entry_miui_prepare">Príprava na vymazanie...</string>
   <string name="description_add_contact">Pridať kontakt</string>
   <string name="description_author">Autor</string>
   <string name="description_call">Volať %1$s</string>
@@ -354,6 +358,7 @@
   <string name="event_edit_field_hint_text">Dátum</string>
   <string name="export_sim_contact_finish">Export na SIM kartu je kompletný</string>
   <string name="export_sim_contact_finish_failure">Dokončené: %1$d Ostáva: %2$d</string>
+  <string name="export_sim_contact_finish_msg">%1$d prenesených | %2$d preskočených | %3$d ostáva</string>
   <string name="export_sim_contact_finish_success">Skopírovaných %d kontaktov na SIM kartu</string>
   <string name="export_sim_contacts_dialog_message">Vaša SIM karta môže uložiť %d kontaktov. Chcete pokračovať?</string>
   <string name="export_to_sdcard">Exportovať na úložisko</string>
@@ -412,6 +417,7 @@ Chyba: \"%s\""</string>
   <string name="group_rename_dialog_title">Premenovať skupinu</string>
   <string name="group_rename_fail_toast">Premenovanie skupiny zlyhalo</string>
   <string name="group_rename_success_toast">Skupina je premenovaná</string>
+  <string name="group_sms_error_message">SMS nesmie mať viac ako %s príjmateľov</string>
   <string name="group_sms_progress_msg">Príprava na skupinovú SMS...</string>
   <string name="groupsLabel">Skupiny</string>
   <string name="groups_list_empty">Žiadne skupiny</string>
@@ -459,6 +465,7 @@ Chyba: \"%s\""</string>
   <string name="import_weibo_progress_name">%1$s</string>
   <string name="import_weibo_progress_percent">%1$d%%</string>
   <string name="importing_sim_contacts_miui">Importovanie kontaktov zo SIM...</string>
+  <string name="importing_sim_contacts_miui_prepare">Príprava na import...</string>
   <string name="importing_vcard_canceled_title">Import %s bol prerušený</string>
   <string name="importing_vcard_description">Import %s</string>
   <string name="importing_vcard_finished_title">Import vCard %s dokončený</string>
@@ -488,6 +495,7 @@ Chyba: \"%s\""</string>
   <string name="list_filter_phones">Všetky kontakty s telefónnymi číslami</string>
   <string name="list_filter_single">Kontakt</string>
   <string name="loading">Načítavanie...</string>
+  <string name="loading_accounts">Načítavanie SIM...</string>
   <string name="loading_group_members">Načítavanie...</string>
   <string name="loading_groups">Načítavanie...</string>
   <string name="loading_recent">Načítavanie...</string>
@@ -723,6 +731,7 @@ Synchronizujte ich teraz."</string>
   <string name="preference_contacts_display">Zobrazenie kontaktov</string>
   <string name="preference_contacts_filter">Kontakty na zobrazenie</string>
   <string name="preference_contacts_more">Viac nastavení kontakov</string>
+  <string name="preference_contacts_recovery_introduction">Obnoviť kontakty</string>
   <string name="preference_dial_pad_touch_tone_default">Predvolené</string>
   <string name="preference_dial_pad_touch_tone_human">Ľudský hlas</string>
   <string name="preference_dial_pad_touch_tone_piano">Klavír</string>
@@ -793,6 +802,7 @@ Synchronizujte ich teraz."</string>
   <string name="relationLabelsGroup">Príbuzný</string>
   <string name="removePhoto">Odstrániť fotku</string>
   <string name="remove_blacklist">Odstrániť z čiernej listiny</string>
+  <string name="remove_blacklist_dialog_title">Odblokovať toto číslo?</string>
   <string name="remove_duplicate">"MIUI Vám pomôže nájsť a zlúčiť duplicitné kontakty. Kontakty sa nezlúčia automaticky."</string>
   <string name="resource_account_abnormal_state">Chyba účtu: Skúste to opäť neskôr.</string>
   <string name="resource_account_fail_to_add">Pridávanie účtu zlyhalo.</string>
@@ -934,6 +944,7 @@ Synchronizujte ich teraz."</string>
   <string name="resource_see_more">Viac</string>
   <string name="resource_select">Zvoliť</string>
   <string name="resource_select_ringtone_confirm">Vybrať tento tón?</string>
+  <string name="resource_select_ringtone_confirm_picker">Nastaviť tento zvuk?</string>
   <string name="resource_selected">Najlepšie</string>
   <string name="resource_send">Odoslať</string>
   <string name="resource_server_alert_dialog_title">Server je momentálne nedostupný</string>
@@ -1183,15 +1194,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v zozname</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="add_blacklist_dialog_title">Blokovať toto číslo?</string>
-  <string name="blacklist">Blokovať</string>
-  <string name="remove_blacklist_dialog_title">Odblokovať toto číslo?</string>
-  <string name="resource_select_ringtone_confirm_picker">Nastaviť tento zvuk?</string>
-  <string name="preference_contacts_recovery_introduction">Obnoviť kontakty</string>
-  <string name="group_sms_error_message">SMS nesmie mať viac ako %s príjmateľov</string>
-  <string name="export_sim_contact_finish_msg">%1$d prenesených | %2$d preskočených | %3$d ostáva</string>
-  <string name="deleting_sim_entry_miui_prepare">Príprava na vymazanie...</string>
-  <string name="importing_sim_contacts_miui_prepare">Príprava na import...</string>
-  <string name="loading_accounts">Načítavanie SIM...</string>
-  <string name="cloud_recommend_msg">Dotykom synchronizujete kontakty s MiCloud.</string>
 </resources>

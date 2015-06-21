@@ -2,6 +2,9 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="alwaysUsePrompt">Nastaviť ako predvolené (už sa nepýtať)</string>
+  <string name="android_ringtone_default_with_actual">Predvolené zvonenie (%1$s)</string>
+  <string name="android_ringtone_silent">Žiadne</string>
+  <string name="android_ringtone_unknown">Neznáme zvonenie</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
   <string name="app_no_notification">Žiadne notifikácie</string>
@@ -184,7 +187,4 @@
   <string name="yellow_page_sms_send_failed">Odosielanie SMS správy zlyhalo.</string>
   <string name="yellow_page_sms_sending">Odosielanie...</string>
   <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
-  <string name="android_ringtone_default_with_actual">Predvolené zvonenie (%1$s)</string>
-  <string name="android_ringtone_silent">Žiadne</string>
-  <string name="android_ringtone_unknown">Neznáme zvonenie</string>
 </resources>

@@ -173,6 +173,9 @@
   <string name="found_old_messages">Celkovo z: %1$s bolo nájdených zo starých účtov. Prajete si ich nahrať do Vášho súčasného účtu: %2$s?</string>
   <string name="found_old_messages_title">Nahrať správy</string>
   <string name="found_wild_messages">Správy z týchto čísiel boli nájdené vo vašom MiCloud účte:%s Chcete ich stiahnuť?</string>
+  <string name="found_wild_messages_guide_cloud_desc">Pre synchr. správ z MiCloud sa prihláste svojim Xiaomi účtom a povoľte synchronizáciu SMS.</string>
+  <string name="found_wild_messages_guide_settings_desc">Synchr. SMS správy z MiCould v nastaveniach SMS.</string>
+  <string name="found_wild_messages_title">Synchr. SMS správy z MiCloud</string>
   <string name="from_label">"Od: "</string>
   <string name="group_message">Skupinová správa</string>
   <string name="group_message_failed_title">Zlyhalo odoslanie správy ku %d kontaktom. Skúsiť to znova?</string>
@@ -330,6 +333,7 @@
   <string name="pref_mms_settings_title">Nastavenie správ (MMS)</string>
   <string name="pref_notification_settings_title">Nastavenie oznamovania</string>
   <string name="pref_other_title">Ostatné</string>
+  <string name="pref_show_blocked_messages_summary">Zobraziť blokované SMS v konverzácií</string>
   <string name="pref_show_sms_template_summary">Automaticky kopírovať a vložiť overovací kód</string>
   <string name="pref_sms_theme_title">Nastavenie štýlu</string>
   <string name="pref_summary_allow_si_sl_push">Umožní príjem a oznamovanie WAP Push správy (SI / SL)</string>
@@ -412,6 +416,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="remove_video">Odstrániť video</string>
   <string name="replace">Nahradiť</string>
   <string name="replace_image">Nahradiť fotografiu</string>
+  <string name="reply_button_msg">Odpovedať</string>
   <string name="resent_message">Znova odoslať</string>
   <string name="resize_image_error_information">Veľkosť fotografie bola prispôsobená. Napriek tomu je príliš veľká a nemožno ju odoslať.</string>
   <string name="resource_price_free">Zdarma</string>
@@ -436,6 +441,9 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="search_setting_description">Text v správach</string>
   <string name="search_show_more_results">Viac</string>
   <string name="secs">s</string>
+  <string name="security_alert_desc">"Odosielateľ nie je vo vašom zozname kontaktov. "&lt;u&gt;&lt;font color="red"&gt;Nahlásiť toto číslo&lt;/font&gt;&lt;/u&gt;</string>
+  <string name="security_alert_dialog_desc">Nahlásiť toto číslo (%s) a správu Xiaomi pre ďalšiu analýzu.</string>
+  <string name="security_alert_dialog_title">Nahlásiť</string>
   <string name="select_audio">Vybrať audio</string>
   <string name="select_bottom_text">Text dole</string>
   <string name="select_copy_text">Vyberať a skopírovať text správy</string>
@@ -485,6 +493,8 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="sms_full_title">Textové správy majú už plnú pamäť</string>
   <string name="sms_rejected_body">Prichádzajúca správa bola odmietnutá z neznámeho dôvodu.</string>
   <string name="sms_rejected_title">Textová správa odmietnutá</string>
+  <string name="sms_report_failed">Nebolo možné odoslať hlásenie</string>
+  <string name="sms_report_success">Hlásenie odoslané</string>
   <string name="sp_category_all">Všetky správy služieb</string>
   <string name="sp_category_bank">Správy Banky</string>
   <string name="sp_category_title_prefix">%s</string>
@@ -523,6 +533,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="timed_message_to">Komu</string>
   <string name="title_collapse_sp_messages">Spájať správy služieb</string>
   <string name="title_date_type">Časová značka</string>
+  <string name="title_show_blocked_messages">Zobraziť blokované SMS</string>
   <string name="title_show_sms_template">Kontrola SMS čí obsahuje overovací kód</string>
   <string name="title_timed_message_dialog">Čas odoslania správy</string>
   <string name="to_address_label">"Komu: "</string>
@@ -568,15 +579,4 @@ Pokus: %s."</string>
   <string name="warning_show">Odoslať o %ds</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="security_alert_desc">"Odosielateľ nie je vo vašom zozname kontaktov. "&lt;u&gt;&lt;font color="red"&gt;Nahlásiť toto číslo&lt;/font&gt;&lt;/u&gt;</string>
-  <string name="security_alert_dialog_desc">Nahlásiť toto číslo (%s) a správu Xiaomi pre ďalšiu analýzu.</string>
-  <string name="security_alert_dialog_title">Nahlásiť</string>
-  <string name="sms_report_failed">Nebolo možné odoslať hlásenie</string>
-  <string name="sms_report_success">Hlásenie odoslané</string>
-  <string name="found_wild_messages_guide_cloud_desc">Pre synchr. správ z MiCloud sa prihláste svojim Xiaomi účtom a povoľte synchronizáciu SMS.</string>
-  <string name="found_wild_messages_guide_settings_desc">Synchr. SMS správy z MiCould v nastaveniach SMS.</string>
-  <string name="found_wild_messages_title">Synchr. SMS správy z MiCloud</string>
-  <string name="pref_show_blocked_messages_summary">Zobraziť blokované SMS v konverzácií</string>
-  <string name="reply_button_msg">Odpovedať</string>
-  <string name="title_show_blocked_messages">Zobraziť blokované SMS</string>
 </resources>

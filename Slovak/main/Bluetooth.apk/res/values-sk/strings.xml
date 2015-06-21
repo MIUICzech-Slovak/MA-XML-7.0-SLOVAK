@@ -11,9 +11,15 @@
   <string name="auth_notif_ticker">Žiadosť overenia Obex</string>
   <string name="auth_notif_title">Kľúč relácie</string>
   <string name="ble_device_address">MAC adresa BLE zariadenia</string>
+  <string name="ble_device_profile">Pripojené BLE zariadenie</string>
   <string name="ble_device_profile_header_title">Profily</string>
   <string name="ble_device_profile_title">Pripojené BLE zariadenie</string>
+  <string name="ble_device_rename">Premenovať</string>
   <string name="ble_device_unbind">Vymazať nastavenia</string>
+  <string name="bluetooth_connected">Pripojené</string>
+  <string name="bluetooth_connecting">Pripájanie...</string>
+  <string name="bluetooth_disconnected">Odpojené</string>
+  <string name="bluetooth_disconnecting">Odpájanie...</string>
   <string name="bluetooth_in_airplane_mode">V režime Lietadlo</string>
   <string name="bluetooth_preference_connected_devices">Pripojené zariadenia</string>
   <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>
@@ -60,6 +66,7 @@
   <string name="empty_file_notification_sent">Zdieľanie cez Bluetooth: Prázdny súbor %1$s bol odmietnutý</string>
   <string name="enabling_progress_content">Prebieha zapínanie rozhrania Bluetooth...</string>
   <string name="enabling_progress_title">Čakajte...</string>
+  <string name="goto_package">Otvorte %1$s</string>
   <string name="hello">Hello World, TestActivity</string>
   <string name="inbound_history_title">Prichádzajúce prenosy</string>
   <string name="inbound_noti_title">Zdieľanie Bluetooth: Prijaté súbory</string>
@@ -78,6 +85,7 @@
   <string name="incoming_line2">Názov súboru</string>
   <string name="incoming_line3">Veľkosť</string>
   <string name="insert_record">Vložiť záznam</string>
+  <string name="install_package">Pre viac funkcií nainštalujte %1$s</string>
   <string name="localPhoneName">Moje meno</string>
   <string name="map_datasource_mms_name">MMS</string>
   <string name="map_datasource_sms_name">SMS</string>
@@ -94,6 +102,10 @@
   <string name="mi_key_alert_dialog_title">Upozornenie MiKey</string>
   <string name="mi_key_find_mikey">Vyhľadať MiKey</string>
   <string name="mi_key_find_phone">Vyhľadať telefón</string>
+  <string name="mi_key_open_camera">Otvoriť Fotoaparát</string>
+  <string name="mi_key_summary_find_phone">Stlačte a podržte MiKey pre vyzváňanie</string>
+  <string name="mi_key_summary_open_camera">Dvojité stlačenie MiKey otvorí fotoaparát</string>
+  <string name="mi_key_summary_take_photo">Stlačte MiKey pre zhotovenie fotografie</string>
   <string name="mi_key_take_photo">Vytvoriť fotografiu</string>
   <string name="miui_transfer_history_title">Bluetooth prenos</string>
   <string name="miui_transfer_inbound_title">Prichádzajúce</string>
@@ -147,7 +159,9 @@
   <string name="profile_pan">PAN</string>
   <string name="profile_sap">SAP</string>
   <string name="progress_scanning">Vyhľadávanie...</string>
+  <string name="reset_function_msg">Reopen the function will cause it invalid in %1$s</string>
   <string name="sharedUserId"/>
+  <string name="some_app_taking">(%1$s už používa túto funkciu…)</string>
   <string name="start_server">Spustiť server TCP</string>
   <string name="status_canceled">Prenos bol zrušený používateľom.</string>
   <string name="status_connection_error">Neúspešný pokus o pripojenie.</string>
@@ -184,18 +198,4 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
-  <string name="bluetooth_connected">Pripojené</string>
-  <string name="bluetooth_connecting">Pripájanie...</string>
-  <string name="bluetooth_disconnected">Odpojené</string>
-  <string name="bluetooth_disconnecting">Odpájanie...</string>
-  <string name="ble_device_rename">Premenovať</string>
-  <string name="ble_device_profile">Pripojené BLE zariadenie</string>
-  <string name="goto_package">Otvorte %1$s</string>
-  <string name="install_package">Pre viac funkcií nainštalujte %1$s</string>
-  <string name="mi_key_open_camera">Otvoriť Fotoaparát</string>
-  <string name="mi_key_summary_find_phone">Stlačte a podržte MiKey pre vyzváňanie</string>
-  <string name="mi_key_summary_open_camera">Dvojité stlačenie MiKey otvorí fotoaparát</string>
-  <string name="mi_key_summary_take_photo">Stlačte MiKey pre zhotovenie fotografie</string>
-  <string name="reset_function_msg">Reopen the function will cause it invalid in %1$s</string>
-  <string name="some_app_taking">(%1$s už používa túto funkciu…)</string>
 </resources>

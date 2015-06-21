@@ -2,11 +2,16 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="alwaysUsePrompt">Nastaviť ako predvolené (už sa nepýtať)</string>
+  <string name="android_ringtone_default_with_actual">Predvolené zvonenie (%1$s)</string>
+  <string name="android_ringtone_silent">Žiadne</string>
+  <string name="android_ringtone_unknown">Neznáme zvonenie</string>
   <string name="anniversary_of_lifting_martial_law"/>
   <string name="anti_aggression_day"/>
+  <string name="app_name_which_call">Apl: %s</string>
   <string name="app_no_notification">Žiadne notifikácie</string>
   <string name="app_notificaiton_on_notificationBar">Roletka</string>
   <string name="app_notificaiton_on_statusBar_and_notificationBar">Lišta a roletka</string>
+  <string name="app_version_which_call">Verzia: %s</string>
   <string name="arbor_day"/>
   <string name="armed_forces_day"/>
   <string name="auto_start_warning_allow">Povoliť</string>
@@ -59,7 +64,9 @@
   <string name="key_btn_space">Miesto</string>
   <string name="labour_day"/>
   <string name="lantern_festival"/>
+  <string name="license_host_unreachable">"Nie je možné sa pripojiť k sieti. Pre zobrazenie týchto informácií choďte na %s."</string>
   <string name="light_snow"/>
+  <string name="loading">Načítavanie...</string>
   <string name="lockscreen_access_pattern_cell_added">Bunka pridaná</string>
   <string name="lockscreen_access_pattern_cleared">Vzor vyčistený</string>
   <string name="lockscreen_access_pattern_detected">Vzor kompletný</string>
@@ -90,6 +97,7 @@
   <string name="maml_component_customization_title">Nastavenia</string>
   <string name="memory_clear_nothing_result">Pamäť RAM je čistá</string>
   <string name="memory_clear_result">"Uvoľnené: %1$sB \nDostupné: %2$sB"</string>
+  <string name="mibi_license">Podmienky používania MiCredit</string>
   <string name="miui_device_name">Android</string>
   <string name="national_day"/>
   <string name="national_father_day"/>
@@ -100,6 +108,7 @@
   <string name="peace_day"/>
   <string name="perm_send_push_dspt">Povoliť okamžité správy Xiaomi</string>
   <string name="perm_send_push_lab">Odoslať okamžitú správu</string>
+  <string name="policy_name">Oprávnenia: %s</string>
   <string name="presentation_payphone">Telefónny automat</string>
   <string name="presentation_private">Súkromné číslo</string>
   <string name="presentation_unknown">Neznáme číslo</string>
@@ -184,13 +193,4 @@
   <string name="yellow_page_sms_send_failed">Odosielanie SMS správy zlyhalo.</string>
   <string name="yellow_page_sms_sending">Odosielanie...</string>
   <string name="yellow_page_unable_send_sms">Nie je možné odoslať SMS správu.</string>
-  <string name="android_ringtone_default_with_actual">Predvolené zvonenie (%1$s)</string>
-  <string name="android_ringtone_silent">Žiadne</string>
-  <string name="android_ringtone_unknown">Neznáme zvonenie</string>
-  <string name="app_name_which_call">Apl: %s</string>
-  <string name="app_version_which_call">Verzia: %s</string>
-  <string name="license_host_unreachable">"Nie je možné sa pripojiť k sieti. Pre zobrazenie týchto informácií choďte na %s."</string>
-  <string name="loading">Načítavanie...</string>
-  <string name="mibi_license">Podmienky používania MiCredit</string>
-  <string name="policy_name">Oprávnenia: %s</string>
 </resources>

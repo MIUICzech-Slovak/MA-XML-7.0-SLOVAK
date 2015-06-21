@@ -3,6 +3,7 @@
 <resources>
   <string name="Parse_error_dlg_text">Pri analýze balíka sa vyskytol problém.</string>
   <string name="Parse_error_dlg_title">Chyba analýzy</string>
+  <string name="activity_package_delete_confirm_title">Dôležité upozornenie</string>
   <string name="allow_source_dlg_text">"Aplikácia %1$s chce inštalovať iné aplikácie. 
 
 Povoliť teraz aj v budúcnosti?"</string>
@@ -11,6 +12,11 @@ Povoliť teraz aj v budúcnosti?"</string>
   <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť v zozname nainštalovaných aplikácií.</string>
   <string name="app_not_found_dlg_title">Aplikácia sa nenašla</string>
   <string name="auto_startup_dialog_msg">"Miui dovolí aplikácií spustiť sa automaticky. To môže zvýšiť nielen spotrebu energie ale aj dát. \nPovoliť automatické spustenie？"</string>
+  <string name="button_text_cancel">Zrušiť</string>
+  <string name="button_text_delete">Vymazať</string>
+  <string name="button_text_delete_timer">Vymazať (%d)</string>
+  <string name="button_text_next_step">Ďalej</string>
+  <string name="button_text_next_step_timer">Ďalej (%d)</string>
   <string name="caller_app">Vyvolané aplikáciou: %1$s</string>
   <string name="cancel">Zrušiť</string>
   <string name="dlg_app_replacement_statement">"Aplikácia, ktorú inštalujete, nahradí inú aplikáciu. 
@@ -18,6 +24,7 @@ Povoliť teraz aj v budúcnosti?"</string>
 Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="dlg_app_replacement_statement_with_version">"%1$s (%2$s) nahradí súčasnú verziu (%3$s). Vaše dáta budú zachované. Chcete pokračovať?"</string>
   <string name="dlg_app_replacement_title">Nahradiť aplikáciu?</string>
+  <string name="dlg_appstore_notice">Stiahnite si túto aplikáciu z oficiálneho Obchodu Play.</string>
   <string name="dlg_ok">OK</string>
   <string name="dlg_sys_app_replacement_statement">"Toto je systémová aplikácia. 
 
@@ -40,6 +47,7 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="installing">Prebieha inštalácia...</string>
   <string name="launch">Otvoriť</string>
   <string name="lift_ban">Odblokovať</string>
+  <string name="lift_ban_once">Povoliť raz</string>
   <string name="low_risk_perms">Bezpečné práva</string>
   <string name="manage_applications">Spravovať aplikácie</string>
   <string name="manage_device_administrators">Spravovať správcov zariadenia</string>
@@ -47,6 +55,9 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="other_relative">Ostatné práva</string>
   <string name="out_of_space_dlg_text">Aplikáciu %1$s sa nepodarilo nainštalovať. Uvoľnite miesto v pamäti a skúste to znova.</string>
   <string name="out_of_space_dlg_title">Nedostatok miesta</string>
+  <string name="package_delete_confirm_step_1">Vymazať %s?</string>
+  <string name="package_delete_confirm_step_2">Vymazanie tejto aplikácie môže spôsobiť nestabilitu vášho systému.</string>
+  <string name="package_delete_confirm_step_3">Po vymazaní tejto aplikácie ju už nebude možné spustiť.</string>
   <string name="perm_action_accept">Povoliť</string>
   <string name="perm_action_prompt">Opýtať sa</string>
   <string name="perm_action_reject">Zakázať</string>
@@ -94,15 +105,4 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="virus_scan_install">" "Pokračovať" "</string>
   <string name="virus_scan_is_risk">Táto aplikácia je podozrivá!</string>
   <string name="virus_scan_is_virus">Táto aplikácia je VÍRUS!</string>
-  <string name="dlg_appstore_notice">Stiahnite si túto aplikáciu z oficiálneho Obchodu Play.</string>
-  <string name="lift_ban_once">Povoliť raz</string>
-  <string name="activity_package_delete_confirm_title">Dôležité upozornenie</string>
-  <string name="button_text_cancel">Zrušiť</string>
-  <string name="button_text_delete">Vymazať</string>
-  <string name="button_text_delete_timer">Vymazať (%d)</string>
-  <string name="button_text_next_step">Ďalej</string>
-  <string name="button_text_next_step_timer">Ďalej (%d)</string>
-  <string name="package_delete_confirm_step_1">Vymazať %s?</string>
-  <string name="package_delete_confirm_step_2">Vymazanie tejto aplikácie môže spôsobiť nestabilitu vášho systému.</string>
-  <string name="package_delete_confirm_step_3">Po vymazaní tejto aplikácie ju už nebude možné spustiť.</string>
 </resources>

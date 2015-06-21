@@ -72,6 +72,7 @@
   <string name="download_failed">Nebolo možné stiahnuť</string>
   <string name="download_full">Sťiahnuť plnú verziu</string>
   <string name="download_ota_rom">Stiahnuť (%s)</string>
+  <string name="download_success_reboot_immediately">Reštartujte do novej verzie</string>
   <string name="download_title">Sťahovanie (%s)</string>
   <string name="download_title_first">Získavanie informácií...</string>
   <string name="download_title_full_download">Získavanie informácií...</string>
@@ -151,6 +152,7 @@
   <string name="no_wifi_title">Využitie mobilných dát</string>
   <string name="not_open">Zakázať</string>
   <string name="not_recommend">"Neodporúčam"</string>
+  <string name="notification_auto_reboot_seccess_title">Aktualizované automaticky</string>
   <string name="notification_downloading">Sťahovanie aktualizácie...</string>
   <string name="notification_load_body_alpha">Prihláste sa do svojho Xiaomi účtu pre aktualizáciu vášho zariadenia.</string>
   <string name="notification_load_body_dev">Prihláste sa do svojho Xiaomi účtu pre aktualizáciu vášho zariadenia.</string>
@@ -265,11 +267,13 @@ Svoj názor môžete odoslať každý utorok"</string>
   <string name="update_sad">Sklamanie</string>
   <string name="update_success">Aktualizácia prebehla úspešne!</string>
   <string name="update_success_body">na verziu %s</string>
+  <string name="update_success_reboot_immediately">Zariadenie je aktualizované</string>
   <string name="update_success_title">MIUI je aktualizovaná</string>
   <string name="updater_finish_download">Sťahovanie ROM je dokončené</string>
   <string name="updater_nolog">Zoznam zmien nie je dostupný</string>
   <string name="updater_nonetwork">Pripojte sa k sieti pre načítanie zoznamu zmien</string>
   <string name="updater_nonetwork_clause">Pripojte sa na internet pre zobrazenie nových Podmienok o ochrane súkromia</string>
+  <string name="updater_wait_for_unzip">Rozbaľovanie aktualizácie...</string>
   <string name="upgrade_close">Zavrieť</string>
   <string name="upgrade_kernel">Kernel je potrebné aktualizovať</string>
   <string name="upgrade_kernel_msg">"Verzia kernelu nesúhlasí s MIUI ROM. Musíte aktualizovať kernel manuálne. Postup aktualizácie nájdete tu:"</string>
@@ -300,14 +304,10 @@ Nie je možné odoslať váš názor"</string>
   <string name="vote_recommend">Odporúčam túto verziu MIUI</string>
   <string name="vote_submit">Odoslať</string>
   <string name="weekly_build">Týždenná verzia</string>
-  <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
-  <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
-  <string name="worst_update">Najhoršia aktualizácia</string>
   <string name="welcom_button">OK</string>
   <string name="welcom_message">Dokončené</string>
   <string name="welcom_title">Vitajte v MIUI 6</string>
-  <string name="download_success_reboot_immediately">Reštartujte do novej verzie</string>
-  <string name="notification_auto_reboot_seccess_title">Aktualizované automaticky</string>
-  <string name="update_success_reboot_immediately">Zariadenie je aktualizované</string>
-  <string name="updater_wait_for_unzip">Rozbaľovanie aktualizácie...</string>
+  <string name="wifi_not_available_body">Odporúča sa použiť Wi-Fi pripojenie na stiahnutie aktualizácie kvôli jej veľkosti. Momentálne nie ste pripojený na Wi-Fi, chcete napriek tomu pokračovať?</string>
+  <string name="wifi_not_available_title">Wi-Fi nepripojené</string>
+  <string name="worst_update">Najhoršia aktualizácia</string>
 </resources>

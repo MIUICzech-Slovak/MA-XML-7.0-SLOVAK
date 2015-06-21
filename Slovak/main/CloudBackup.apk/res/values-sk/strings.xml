@@ -31,6 +31,7 @@
   <string name="cloud_task_in_process">Prebieha %s! Vymazanie zálohy súčasného zariadenia zruší obnovenie iného zariadenia. Chcete ju vymazať?</string>
   <string name="customization">Upraviť</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
+  <string name="deskclock_backup">Hodiny</string>
   <string name="desktop_downloading">Sťahuje sa</string>
   <string name="desktop_installing">Inštaluje</string>
   <string name="desktop_recovering">Obnovuje sa</string>
@@ -56,6 +57,8 @@
   <string name="open_wifi_setting">Nastavenie Wi-Fi</string>
   <string name="process_whole_recovery">Obnova \"%s\"</string>
   <string name="recover_from_micloud">Obnoviť pomocou MiCloud</string>
+  <string name="recover_home_settings">Obnoviť nastavenie plochy</string>
+  <string name="recover_miui_settings">Obnoviť nastavenie MIUI</string>
   <string name="recover_settings">Obnoviť nastavenie plochy</string>
   <string name="recover_settings_description">Nevypínajte vaše zariadenie</string>
   <string name="recovering">Obnovenie %s</string>
@@ -65,12 +68,9 @@
   <string name="restoreing_file_tile">Obnovovanie %d súborov</string>
   <string name="retry">Znova</string>
   <string name="self_phone">Toto zariadenie</string>
+  <string name="settings_backup">Nastavenie systému</string>
   <string name="start_backup_to_micloud">Zálohovať aplikácie do MiCloud</string>
   <string name="start_recover">Obnoviť %s</string>
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="deskclock_backup">Hodiny</string>
-  <string name="recover_home_settings">Obnoviť nastavenie plochy</string>
-  <string name="recover_miui_settings">Obnoviť nastavenie MIUI</string>
-  <string name="settings_backup">Nastavenie systému</string>
 </resources>

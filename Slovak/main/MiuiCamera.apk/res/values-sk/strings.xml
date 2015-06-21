@@ -290,6 +290,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_focusmode_entry_normal">Normálne</string>
   <string name="pref_camera_focusmode_title">Režim ostrenia</string>
   <string name="pref_camera_front_fb_title">Vylepšiť farbu pleti</string>
+  <string name="pref_camera_gradienter_title">Vodováha</string>
   <string name="pref_camera_hand_night_title">Nočný režim</string>
   <string name="pref_camera_hdr_entry_auto">Auto</string>
   <string name="pref_camera_hdr_entry_live">Živé</string>
@@ -538,6 +539,7 @@ opustite na chvíľu náhľad"</string>
   <string name="simple_mode_button_text_delay_capture">Ukončiť časovač</string>
   <string name="simple_mode_button_text_face_beauty">Ukončiť</string>
   <string name="simple_mode_button_text_fast_video">Ukončiť</string>
+  <string name="simple_mode_button_text_gradienter">Ukončiť</string>
   <string name="simple_mode_button_text_hand_night">Ukončiť nočný režim</string>
   <string name="simple_mode_button_text_hdr">Ukončiť HDR</string>
   <string name="simple_mode_button_text_manual">Ukončiť</string>
@@ -601,6 +603,4 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="pref_camera_gradienter_title">Vodováha</string>
-  <string name="simple_mode_button_text_gradienter">Ukončiť</string>
 </resources>

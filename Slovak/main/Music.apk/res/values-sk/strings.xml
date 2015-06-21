@@ -22,6 +22,7 @@
   <string name="artist_name">Umelec</string>
   <string name="artist_search_title">Umelec</string>
   <string name="artist_view">Umelec</string>
+  <string name="atmd_music">Ultimate</string>
   <string name="audio_picker_title">Vyberte skladbu</string>
   <string name="auto_download_in_wifi">Žiadne internetové pripojenie</string>
   <string name="available_playlist_name_format">Nový playlist %d</string>
@@ -161,6 +162,7 @@
   <string name="higher_quality_music">Vysoká kvalita hudby</string>
   <string name="higher_quality_music_summary">Streamovať a sťahovať hudbu vo vyššej kvalite</string>
   <string name="i_know">OK</string>
+  <string name="i_know_it">OK</string>
   <string name="impunity_declaration">Táto aplikácia vyžaduje pripojenie na internet pre správne fungovanie streamovaného obsahu.</string>
   <string name="impunity_declaration_ignore">Viac sa nepýtať</string>
   <string name="impunity_declaration_negative_text">Ukončiť</string>
@@ -242,6 +244,7 @@
   <string name="playlist_renamed_message">Playlist premenovaný</string>
   <string name="please_download_first">Najskôr stiahnite.</string>
   <string name="please_search_or_select">Vyhľadajte alebo vyberte</string>
+  <string name="preset_music_playlist">MiMusic playlist</string>
   <string name="presonal_center">Nastavenie účtu</string>
   <string name="priority_storage">Ukladať na externú SD kartu</string>
   <string name="priority_storage_summary">Automaticky sťahovať na externú SD kartu</string>
@@ -270,9 +273,12 @@
   <string name="send_to">Odoslať</string>
   <string name="send_to_title">Odoslať (%1$s)</string>
   <string name="server_error">Chyba servera, skúste to znova.</string>
+  <string name="service_stop">Služba bola ukončená</string>
   <string name="set_album_successful">Album uložený</string>
   <string name="set_as_ring">Nastaviť ako zvonenie</string>
   <string name="set_id3_failed">Nastavenie skladby zlyhalo</string>
+  <string name="set_id3_not_have_read_or_write_permission">Nemáte povolenie upraviť tento súbor</string>
+  <string name="set_id3_not_support_format">Tento formát súboru nie je možné upraviť</string>
   <string name="set_id3_successful">Informácie o skladbe uložené</string>
   <string name="set_lyric_successful">Text skladby uložený</string>
   <string name="set_ringtones_failed">Nastavenie zvonenia zlyhalo.</string>
@@ -316,20 +322,13 @@
   <string name="ultra_high_quality">Najvyššia</string>
   <string name="unknown_album_name">Neznámy album</string>
   <string name="unknown_artist_name">Neznámy umelec</string>
-  <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
-  <string name="valid_period">"Platné: "</string>
-  <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
-  <string name="i_know_it">OK</string>
-  <string name="service_stop">Služba bola ukončená</string>
   <string name="upgrade_force">Ukončujeme poskytovanie online obsahu z dôvodu porušovania autorských práv.</string>
   <string name="upgrade_immediate">Aktualizovať</string>
   <string name="upgrade_nobeta">Ukončujeme poskytovanie online obsahu z dôvodu porušovania autorských práv. Ospravedňujeme sa za nepríjemnosti.</string>
   <string name="upgrade_remind">Dostupná aktualizácia</string>
   <string name="upgrade_suggest">Ukončujeme poskytovanie online obsahu z dôvodu porušovania autorských práv.</string>
   <string name="upgrade_waringing">Bude možné počúvať len hudbu uloženú vo vašom zariadení.</string>
-  <string name="preset_music_playlist">MiMusic playlist</string>
-  <string name="set_id3_not_have_read_or_write_permission">Nemáte povolenie upraviť tento súbor</string>
-  <string name="set_id3_not_support_format">Tento formát súboru nie je možné upraviť</string>
-  <string name="atmd_music">Ultimate</string>
-  
+  <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
+  <string name="valid_period">"Platné: "</string>
+  <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
 </resources>

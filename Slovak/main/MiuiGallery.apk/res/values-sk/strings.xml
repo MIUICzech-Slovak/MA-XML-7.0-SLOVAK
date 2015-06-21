@@ -8,6 +8,8 @@
   <string name="action_fail_unknown_error">Operácia zlyhala z neznámeho dôvodu.</string>
   <string name="activity_not_found">Nie je dostupná žiadna aplikácia na dokončenie akcie.</string>
   <string name="add_account">Pridať účet</string>
+  <string name="add_event">Názov</string>
+  <string name="add_event_hint">Zadajte názov</string>
   <string name="add_sharer">Pridať člena</string>
   <string name="add_to_cloud_album">Pridať do MiCloud</string>
   <string name="add_to_cloud_exceeded_the_size_message">Súbor je príliš veľký.</string>
@@ -51,6 +53,7 @@
   <string name="alert_secret_album_message">Posuňte prstom zhora nadol v MiCloud abumoch pre zobrazenie tajného albumu. Pre jeho ochranu je nutné nastaviť vzor.</string>
   <string name="alert_secret_album_set_pattern">Nastaviť vzor</string>
   <string name="alert_secret_album_title">Pridané do tajného albumu</string>
+  <string name="all_video_album_display_name">Všetky videá</string>
   <string name="already_apply_album">Otvoriť %1$s?</string>
   <string name="always_rotate_alert_msg">Deaktivovať môžete v nastaveniach Galérie</string>
   <string name="always_rotate_alert_positive_button_text">Povoliť</string>
@@ -99,6 +102,7 @@
   <string name="cannot_send_message">"Nie je možné odoslať správu"</string>
   <string name="cannot_send_message_reason">Vaša správa nemá žiadnych príjemcov.</string>
   <string name="cant_delete_cloud_album">Vymazanie zlyhalo: %s je systémový album alebo je zdieľané iným užívateľom.</string>
+  <string name="cant_delete_system_album">Vymazanie zlyhalo: %s je systémový album alebo je zdieľané iným užívateľom.</string>
   <string name="choose_cloud_album">Vybrať album</string>
   <string name="cleaning_cache">Odstraňovanie cache...</string>
   <string name="clear_thumbnail_cache">Vymazať cache náhľadov</string>
@@ -140,6 +144,8 @@ spoločne!"</string>
   <string name="comfirm_delete_current_album">Vymazať tento album?</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
+  <string name="confirm_all_photo_are_this_people_face">Priradiť všetky fotografie k %s?</string>
+  <string name="confirm_all_photo_not_this_people_face">Nie je %s na všetkých fotografiách?</string>
   <string name="confirm_delete">Vymazať (%s)?</string>
   <string name="confirm_delete_album" formatted="false">Chcete vymazať (%s) albumov (%s súborov)?</string>
   <string name="confirm_delete_has_cloud_image_video">Vymazať (%s) fotografií z vášho zariadenia a MiCloud?</string>
@@ -156,7 +162,12 @@ spoločne!"</string>
   <string name="confirm_download">"Potrebujete stiahnuť %s. Toto okno sa už viac nezobrazí."</string>
   <string name="confirm_download_video_message">Nie je možné video prehrať ak nie je dokončené jeho sťahovanie. Sťahovanie bude obnovené keď sa pripojíte na Wi-Fi.</string>
   <string name="confirm_download_video_title">Stiahnuť video</string>
+  <string name="confirm_face">Označiť</string>
+  <string name="confirm_left_photo_will_move_in">%s je na všetkých ostatných fotografiách?</string>
+  <string name="confirm_left_photo_will_move_out">Na fotografii nie je %s?</string>
   <string name="confirm_merge_face_albums">" "Spojiť tento album s %s?" "</string>
+  <string name="confirm_merge_many_face_albums">" "Spojiť tento album s %s?" "</string>
+  <string name="confirm_not_face">Nie táto osoba</string>
   <string name="contact_photo">Obrázok kontaktu</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>
   <string name="context_menu_copy">Kopírovať</string>
@@ -214,6 +225,7 @@ spoločne!"</string>
   <string name="email_picker_title">Pridať zdieľaný E-mail</string>
   <string name="enable">Povolené</string>
   <string name="enable_cloud_for_sharing">Je potrebné povoliť MiCloud album pre zobrazenie zdieľaných fotografií.</string>
+  <string name="enabling_face_feature">Kontrola...</string>
   <string name="enter_email_hint">"Zadajte E-mail "</string>
   <string name="error_album_not_exist">"Album neexistuje."</string>
   <string name="error_cloud_not_active">MiCloud album sa nepoužíva</string>
@@ -229,6 +241,8 @@ spoločne!"</string>
   <string name="error_title">Chyba Synchr.</string>
   <string name="error_unauthorized">Príliš mnoho pokusov o prihlásenie: Synchr. deaktivovaná.</string>
   <string name="error_unknown_host">Nenašla sa žiadna sieť.</string>
+  <string name="event_create_long_photo">Vytváranie fotografie...</string>
+  <string name="event_manage_photos">Spravovať fotografie</string>
   <string name="exit">Odísť</string>
   <string name="exit_share">Ukončiť album</string>
   <string name="exit_share_failed">Ukončenie albumu %1$s zlyhalo</string>
@@ -240,10 +254,13 @@ spoločne!"</string>
   <string name="external_usb_device">Externé USB úložisko</string>
   <string name="external_usb_device_hm">Externé USB úložisko</string>
   <string name="face_album">Album ľudí</string>
+  <string name="face_album_long_tap_tip">Pre vybranie viacero ľudí alebo zmenu nastavení skupiny, stlačte a podržte obrázok profilu</string>
   <string name="face_album_not_named">Bez mena</string>
   <string name="face_album_rename_hint">Zadajte meno</string>
   <string name="face_albumset_detecting_tip">Rozpoznávanie ľudí...</string>
   <string name="face_albumset_empty">Žiadna osoba nebola rozpoznaná</string>
+  <string name="face_albumset_loading_data">Načítavanie...</string>
+  <string name="face_albumset_pending_enable_tip">Fotografie sa usporiadajú až po pripojení na Wi-Fi</string>
   <string name="face_albumset_use_tip">"Vyhľadať osoby na fotografiách,
 uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="face_move_dialog_title">Vyberte album</string>
@@ -297,6 +314,8 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="how_many_pics">%d Snímkov</string>
   <string name="how_many_sub_folders">%d\u0020Priečinkov</string>
   <string name="how_many_videos">%d\u0020Videí</string>
+  <string name="ignore_album">Nezobrazovať</string>
+  <string name="ignore_alert_title">Ak bude ignorované, viackrát sa už nezobrazí. Chcete ignorovať?</string>
   <string name="ignore_face">Ignorovať túto osobu</string>
   <string name="image_download_item_title">Sťahovanie obrázku (%s)</string>
   <string name="image_quota_fulfiled">"Nie je možné vytvoriť obrázok, Počet obrázkov presiahol limit."</string>
@@ -309,6 +328,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="impunity_declaration_settings">Upozorniť na pripojenie</string>
   <string name="impunity_declaration_summary">Upozorniť na pripojenie k internetu pri spustení aplikácie</string>
   <string name="impunity_declaration_title">Pripojenie k sieti</string>
+  <string name="in_home_page_long_press_photo_setting_secret_photo">V galérií dlho podržte prst na fotografii a môžete ju pridať do Skrytého albumu.</string>
   <string name="initial_cloud_button_text">Prihlásiť sa</string>
   <string name="initial_cloud_text">Kedykoľvek a kdekoľvek môžete mať Vaše fotografie vždy pri sebe</string>
   <string name="initializing_cloud">Vytváranie MiCloud Albumu...</string>
@@ -329,6 +349,10 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="kick_sharer">Odstrániť zdieľaných</string>
   <string name="kick_sharer_failed">Odstránenie zo zdieľaných zlyhalo</string>
   <string name="kick_sharer_successfully">Úspešne odstránené zo zdieľaných</string>
+  <string name="last_chinese_new_year">Posledný Čínsky Nový rok</string>
+  <string name="last_new_year">Posledný Nový rok</string>
+  <string name="last_valentine_day">Posledný Valentín</string>
+  <string name="last_year_today">Pred rokom</string>
   <string name="loading">Nahrávam...</string>
   <string name="loading_failure">Snímku sa nepodarilo nahrať</string>
   <string name="loading_image">Sťahovanie obrázku...</string>
@@ -357,7 +381,9 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="menu_item_sort_size_asc">Vzostupne podľa veľkosti</string>
   <string name="menu_item_sort_size_desc">Zostupne podľa veľkosti</string>
   <string name="menu_view_contact">Zobraziť kontakt</string>
+  <string name="merge_album">Spojiť</string>
   <string name="merge_album_positive_button_text">Spojiť</string>
+  <string name="merge_album_title">Spojiť albumy</string>
   <string name="message_no_delete_access">Prístup zamietnutý. Nemožno odstrániť súbor alebo adresár: %s</string>
   <string name="message_no_delete_access_with_count">Nie je možné vymazať súbory(%d) alebo zložky. Možno už neexistujú alebo nemáte k ním práva.</string>
   <string name="messagelist_sender_self">Ja</string>
@@ -378,6 +404,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="moman_camera_icon">Moman Camera emoticon</string>
   <string name="moman_camera_picture">Moman Camera pictures</string>
   <string name="more">Viac</string>
+  <string name="mosaic">mozaika</string>
   <string name="move">Presunúť</string>
   <string name="move_to_cloud_album">Premiestniť do MiCloud</string>
   <string name="mtgif">MTGIF</string>
@@ -387,6 +414,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="name_wrong">Nie %s</string>
   <string name="negative">Negatív</string>
   <string name="netease_newsreader_netease_down_pic">Netease Newsreader</string>
+  <string name="network_connected_rescan">Skontrolovať znova po pripojení na internet</string>
   <string name="new_device_tips">Našlo sa nové zariadenie. Stlačte pre jeho zobrazenie</string>
   <string name="new_feature">Nová funkcia</string>
   <string name="no">Nie</string>
@@ -396,12 +424,14 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="no_map_app">Žiadna aplikácia pre mapy</string>
   <string name="no_network_connected">Žiadne internetové pripojenie</string>
   <string name="no_picture_or_video">Prázdny.</string>
+  <string name="no_secret_photo">Žiadna tajná fotografia</string>
   <string name="no_storage_disable_cloud_albums">MiCloud albumy sú nedostupné, prosím skúste znovu keď bude externé úložisko dostupné.</string>
   <string name="no_such_album">Album sa nenašiel</string>
   <string name="no_such_item">"Nemôžem nájsť položku."</string>
   <string name="no_thumbnail">Žiaden náhľad</string>
   <string name="none_picture">Žiadne obrázky.</string>
   <string name="not_auto_create_recent_album">Nevytvárať automaticky často zobrazené albumy</string>
+  <string name="not_is">Nie %s?</string>
   <string name="not_now">Neskôr</string>
   <string name="not_show_hidden_albums">"Nezobraziť skryté albumy"</string>
   <string name="old">​Stará</string>
@@ -432,11 +462,15 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="original_scale">Pôvodná veľkosť</string>
   <string name="other_category">Ďalšie nastavenia</string>
   <string name="owner_album_subtitle">Zdieľané s %1$s členmi</string>
+  <string name="paint_brush">Štetec</string>
   <string name="paint_cancel_context">Zrušiť zmeny?</string>
   <string name="paint_cancel_title">Zrušiť zmeny</string>
   <string name="paint_crop_cancel_context">Uložiť orezaný obrázok?</string>
   <string name="paint_crop_cancel_title">Zahodiť zmeny</string>
   <string name="paint_crop_tips">Pre čo najlepší obrázok, umiestnite jeho zaujímavú časť do stredu pomocou jeho zmenšenia a posúvania.</string>
+  <string name="paint_highlight">Zvýrazniť</string>
+  <string name="paint_highlight_cancel_context">Uložiť zvýraznený obrázok?</string>
+  <string name="paint_highlight_cancel_title">Zrušiť zmeny</string>
   <string name="path">Cesta</string>
   <string name="people">Ľudia</string>
   <string name="photo_page_always_rotate">Automaticky otočiť</string>
@@ -453,6 +487,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="photo_size">Veľkosť</string>
   <string name="photoeditor_name">Foto štúdio</string>
   <string name="photos">" Snímkov"</string>
+  <string name="pick_from_contact">Vybrať z kontaktov</string>
   <string name="pick_too_many_recipients">Príliš mnoho príjemcov</string>
   <string name="pick_too_much_tips">Maximálne %d</string>
   <string name="pick_with_limited_upper_bound_title">Môžete vybrať %d položiek</string>
@@ -470,6 +505,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="preparing_data_to_delete">Príprava obrázkov na vymazanie.</string>
   <string name="priority_storage">Uložiť na SD kartu</string>
   <string name="priority_storage_summary">Ukladať súbory automaticky na SD kartu.</string>
+  <string name="project_available_tip">Nájdený projektor</string>
   <string name="projection">Projekcia</string>
   <string name="public_url_descript">Ktokoľvek má prístup k albumu cez túto URL</string>
   <string name="publish_failed">Zverejnenie zlyhalo.</string>
@@ -490,6 +526,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="remove_from_secret_unfinished_message_with_count">%1$s položiek nebolo odobraných z tajných</string>
   <string name="remove_hidden_album">Zrušiť skryté</string>
   <string name="remove_recent_album">Odstrániť z nedávnych albumov</string>
+  <string name="rename_event">Premenovať udalosť</string>
   <string name="rename_face_album">Zmeniť meno</string>
   <string name="rename_fail_msg">Zlyhalo</string>
   <string name="rename_failed">Premenovať sa nepodarilo</string>
@@ -501,6 +538,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="request_sms_url_title">Tip</string>
   <string name="retry_to_create_album">Znova</string>
   <string name="retry_to_request_qr_code">Znova</string>
+  <string name="return_to_top">Dotknite sa \"Fotografie\" pre návrat nahor</string>
   <string name="rise">Rise</string>
   <string name="rotate">Otočiť</string>
   <string name="rotate_tooltip">Potiahnuť snímku pre jej otočenie</string>
@@ -521,6 +559,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="screensaver_category">Šetrič displeja</string>
   <string name="screensaver_path">Album:</string>
   <string name="screensaver_path_not_set">Nenastavené</string>
+  <string name="script">skript</string>
   <string name="sd_not_available">SD karta nie je vložená alebo je nedostupná</string>
   <string name="sdcard_root">Hlavná zložka SD karty</string>
   <string name="seconds">sekúnd</string>
@@ -530,6 +569,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="select_auto_upload_albums">Vyberte albumy pre nahranie do MiCloud</string>
   <string name="select_image">Vybrať snímku</string>
   <string name="select_item">Vybrať položku</string>
+  <string name="select_item_face">Fotografie kde je %s</string>
   <string name="select_too_much_to_send_tips">Zvolili ste príliš mnoho fotografií na odoslanie. Zvoľte maximálne %d.</string>
   <string name="select_video">Vybrať video</string>
   <string name="send">Zdieľať</string>
@@ -559,6 +599,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="share_by_email_successfully">Zdieľanie %1$s cez E-mail úspešné</string>
   <string name="share_current_album">Zdieľať tento album</string>
   <string name="share_public_url_text">Zdieľam album %1$s. Prezrite si ho na %2$s</string>
+  <string name="share_title_more">Viac</string>
   <string name="sharer_quota_fulfiled">"Nie je možné pridať na zdieľanie. Počet zdieľaných osôb pre tento album presiahol limit."</string>
   <string name="sharpen">Zaostriť</string>
   <string name="show_all">Obrázky a videá</string>
@@ -569,6 +610,8 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="show_videos_only">Iba videá</string>
   <string name="sina_weibo">Weibo</string>
   <string name="sina_weibo_save">Weibo</string>
+  <string name="single_device_project_dialog_checkbox_text">Zapamätať tento projektor</string>
+  <string name="single_device_project_dialog_title">Odoslať na %s</string>
   <string name="size_above">%1$s alebo väčšie</string>
   <string name="size_below">%1$s alebo menšie</string>
   <string name="size_between">%1$s do %2$s</string>
@@ -620,9 +663,11 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="to_count">%d celkovo</string>
   <string name="too_many_recipients">Správa má príliš mnoho príjemcov (%1$s), povolených je %2$s.</string>
   <string name="try_to_send">Pokúsiť sa odoslať</string>
+  <string name="ubifocus_data_invalid">Niektoré dáta pre tento obrázok sú poškodené</string>
   <string name="ubifocus_data_missing">Nie je možné preostriť kvôli chýbajúcim dátam</string>
   <string name="ubifocus_guide_text">Pre preostrenie podržte dlhšie</string>
   <string name="ubifocus_map_error">Chýbajú dáta</string>
+  <string name="ubifocus_refocus_data_invalid">Nie je možné použiť Refocus, pretože niektoré dáta pre tento obrázok sú poškodené</string>
   <string name="ubifocus_refocus_data_missing">Nie je možné preostriť kvôli chýbajúcim dátam</string>
   <string name="ubifocus_refocus_download_tip">Najskôr stiahnite dáta na preostrenie</string>
   <string name="ubifocus_refocus_map_error">Nie je možné preostriť kvôli chybným dátam</string>
@@ -636,12 +681,14 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="user_alias_self">Ja</string>
   <string name="video_err">"Nie je možné prehrať video."</string>
   <string name="video_not_exist">Video sa nenašlo</string>
+  <string name="videos">" Videí"</string>
   <string name="view_face_album">Zobraziť album</string>
   <string name="view_sharers">Zdieľané s</string>
   <string name="vignette">Portrét</string>
   <string name="wallpaper">Tapeta</string>
   <string name="warn">Varovanie</string>
   <string name="wechat">WeChat</string>
+  <string name="wechat_timeline_title">WeChat</string>
   <string name="weibo">Weibo</string>
   <string name="weikan_weikan">Weikan TV</string>
   <string name="weixin">WeChat</string>
@@ -657,51 +704,4 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="yellow_page">Zložka</string>
   <string name="yes">Áno</string>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
-  <string name="all_video_album_display_name">Všetky videá</string>
-  <string name="confirm_all_photo_not_this_people_face">Nie je %s na všetkých fotografiách?</string>
-  <string name="confirm_face">Označiť</string>
-  <string name="confirm_left_photo_will_move_out">Na fotografii nie je %s?</string>
-  <string name="enabling_face_feature">Kontrola...</string>
-  <string name="face_albumset_pending_enable_tip">Fotografie sa usporiadajú až po pripojení na Wi-Fi</string>
-  <string name="ignore_album">Nezobrazovať</string>
-  <string name="in_home_page_long_press_photo_setting_secret_photo">V galérií dlho podržte prst na fotografii a môžete ju pridať do Skrytého albumu.</string>
-  <string name="last_chinese_new_year">Posledný Čínsky Nový rok</string>
-  <string name="last_new_year">Posledný Nový rok</string>
-  <string name="last_valentine_day">Posledný Valentín</string>
-  <string name="last_year_today">Pred rokom</string>
-  <string name="mosaic">mozaika</string>
-  <string name="network_connected_rescan">Skontrolovať znova po pripojení na internet</string>
-  <string name="no_secret_photo">Žiadna tajná fotografia</string>
-  <string name="paint_brush">Štetec</string>
-  <string name="paint_highlight">Zvýrazniť</string>
-  <string name="project_available_tip">Nájdený projektor</string>
-  <string name="return_to_top">Dotknite sa \"Fotografie\" pre návrat nahor</string>
-  <string name="script">skript</string>
-  <string name="select_item_face">Fotografie kde je %s</string>
-  <string name="single_device_project_dialog_checkbox_text">Zapamätať tento projektor</string>
-  <string name="single_device_project_dialog_title">Odoslať na %s</string>
-  <string name="ubifocus_data_invalid">Niektoré dáta pre tento obrázok sú poškodené</string>
-  <string name="ubifocus_refocus_data_invalid">Nie je možné použiť Refocus, pretože niektoré dáta pre tento obrázok sú poškodené</string>
-  <string name="videos">" Videí"</string>
-  <string name="cant_delete_system_album">Vymazanie zlyhalo: %s je systémový album alebo je zdieľané iným užívateľom.</string>
-  <string name="paint_highlight_cancel_context">Uložiť zvýraznený obrázok?</string>
-  <string name="paint_highlight_cancel_title">Zrušiť zmeny</string>
-  <string name="add_event">Názov</string>
-  <string name="add_event_hint">Zadajte názov</string>
-  <string name="confirm_all_photo_are_this_people_face">Priradiť všetky fotografie k %s?</string>
-  <string name="confirm_merge_many_face_albums">" "Spojiť tento album s %s?" "</string>
-  <string name="event_manage_photos">Spravovať fotografie</string>
-  <string name="face_albumset_loading_data">Načítavanie...</string>
-  <string name="merge_album">Spojiť</string>
-  <string name="merge_album_title">Spojiť albumy</string>
-  <string name="pick_from_contact">Vybrať z kontaktov</string>
-  <string name="face_album_long_tap_tip">Pre vybranie viacero ľudí alebo zmenu nastavení skupiny, stlačte a podržte obrázok profilu</string>
-  <string name="ignore_alert_title">Ak bude ignorované, viackrát sa už nezobrazí. Chcete ignorovať?</string>
-  <string name="confirm_not_face">Nie táto osoba</string>
-  <string name="confirm_left_photo_will_move_in">%s je na všetkých ostatných fotografiách?</string>
-  <string name="event_create_long_photo">Vytváranie fotografie...</string>
-  <string name="not_is">Nie %s?</string>
-  <string name="rename_event">Premenovať udalosť</string>
-  <string name="share_title_more">Viac</string>
-  <string name="wechat_timeline_title">WeChat</string>
 </resources>

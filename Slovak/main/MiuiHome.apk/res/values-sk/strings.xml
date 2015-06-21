@@ -59,6 +59,7 @@
   <string name="disable_auto_start_format">%s</string>
   <string name="disable_auto_start_message">Zakázať auto. spustenie</string>
   <string name="disable_wallpaper_scroll">Zakázať posúvanie tapety</string>
+  <string name="download_action">Stiahnuť</string>
   <string name="edit_folder_title">Úprava názvu zložky</string>
   <string name="editing_add_widget_tips">Widgety</string>
   <string name="editing_mode_enter_tip_text">Posuňte dva prsty k sebe pre úpravu plochy</string>
@@ -131,9 +132,11 @@
   <string name="image_too_small_message">Obrázok nemá dostatočnú veľkosť</string>
   <string name="install">Inštalovať</string>
   <string name="invalid_contact_shortcut">Neplatný zástupca kontaktu</string>
+  <string name="is_setting_wallpaper_message">Nastavovanie tapety...</string>
   <string name="is_setting_wallpaper_toast">Nastavovanie tapety...</string>
   <string name="is_system_wallpaper_message">Nie je možné vymazať systémové súbory</string>
   <string name="loading_desktop">Načítavanie launcheru...</string>
+  <string name="loading_wallpaper">Načítavanie...</string>
   <string name="local_wallpaper">Lokálne</string>
   <string name="lock_screen_failed_message">Nastavenie zlyhalo</string>
   <string name="lock_screen_success_message">Nastavené</string>
@@ -274,7 +277,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="download_action">Stiahnuť</string>
-  <string name="loading_wallpaper">Načítavanie...</string>
-  <string name="is_setting_wallpaper_message">Nastavovanie tapety...</string>
 </resources>

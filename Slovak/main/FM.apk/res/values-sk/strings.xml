@@ -99,6 +99,7 @@
   <string name="new_frequency">Nová stanica</string>
   <string name="next_station">Nasledujúca</string>
   <string name="no_storage">Pripojte SD kartu pred nahrávaním</string>
+  <string name="notification_rec_title">Zobraziť nahrávky</string>
   <string name="pre_station">Predchádzajúca</string>
   <string name="preparing_sd">Pripravujem SD kartu</string>
   <string name="preset_delete">Odstrániť</string>
@@ -163,5 +164,4 @@
   <string name="txt_sleep_mode">Spánok</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobraziť zoznam staníc</string>
-  <string name="notification_rec_title">Zobraziť nahrávky</string>
 </resources>

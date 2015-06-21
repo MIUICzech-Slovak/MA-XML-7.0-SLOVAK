@@ -55,6 +55,7 @@
   <string name="account_settings_login_dialog_reason_fmt" formatted="false">Prihlásenie do účtu %s zlyhalo. Odpoveď servera: %s Chcete aktualizovať svoje používateľské meno alebo heslo?</string>
   <string name="account_settings_login_dialog_title">Prihlásenie sa nepodarilo</string>
   <string name="account_settings_mail_check_frequency_label">Frekvencia synchronizácie</string>
+  <string name="account_settings_mibill_resolve_label">Analyzovať obsah správy</string>
   <string name="account_settings_name_label">Vaše meno</string>
   <string name="account_settings_notifications">Nastavenia upozornení</string>
   <string name="account_settings_notify_label">E-mailové upozornenia</string>
@@ -76,6 +77,7 @@
   <string name="account_settings_sync_email_summary">Synchr. e-mail pre tento účet</string>
   <string name="account_settings_unsupported_label">Nepodporované pravidlá</string>
   <string name="account_settings_unsupported_summary">Žiadne</string>
+  <string name="account_settings_using_ringtone">Zvonenie</string>
   <string name="account_settings_vibrate_when_label">Vibrovať</string>
   <string name="account_setup_account_type_headline">Typ účtu</string>
   <string name="account_setup_account_type_instructions">O aký typ účtu ide?</string>
@@ -141,6 +143,7 @@
   <string name="account_setup_incoming_server_label">Server</string>
   <string name="account_setup_incoming_title">Nastavenie účtu</string>
   <string name="account_setup_incoming_username_label">Používateľské meno</string>
+  <string name="account_setup_incoming_username_label_default_hint">Môže obsahovať aj doménu</string>
   <string name="account_setup_names_account_name_label">Pomenovať tento účet (nepovinné)</string>
   <string name="account_setup_names_headline">Váš účet je nastavený a e-mail je na ceste!</string>
   <string name="account_setup_names_title">Nastavenie účtu</string>
@@ -317,6 +320,13 @@
   <string name="confirm_send_message_with_no_subject">V predmete správy nie je žiaden text.</string>
   <string name="confirm_send_title">Chcete túto správu odoslať?</string>
   <string name="contact_content_provider">Contact Content Provider</string>
+  <string name="contact_edit_set_black_list">Čierna listina</string>
+  <string name="contact_edit_set_phone_contact">Upraviť kontakt</string>
+  <string name="contact_edit_set_pop_up_tips">Upozornenia</string>
+  <string name="contact_edit_set_unread_top">Zobraziť najskôr neprečítané správy</string>
+  <string name="contact_edit_set_vip">VIP</string>
+  <string name="contact_edit_title_permission">Práva kontaktu</string>
+  <string name="contact_edit_title_phone_contact">Zoznam kontaktov</string>
   <string name="contact_info_string">Zobraziť informácie kontaktu %1$s</string>
   <string name="contact_info_string_default">Zobraziť kontaktné informácie</string>
   <string name="contact_list_add_btn">Pridať</string>
@@ -363,7 +373,9 @@
   <string name="device_admin_label">Poslať e-mail</string>
   <string name="device_not_activiey_lint1">Správca zariadenia nie je aktivovaný</string>
   <string name="device_not_activiey_lint2">Služba EMail nefunguje správne</string>
+  <string name="dialog_account_auto_sync_setting_no_open">Synchr. je vypnutá, nie je možné prijať nové správy.</string>
   <string name="dialog_auto_download_failed">Nie je možné dokočiť sťahovanie</string>
+  <string name="dialog_auto_sync_setting_no_open">Synchr. je vypnutá, nie je možné prijať nové správy.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Nie je dostatok voľného miesta pre %s.</string>
   <string name="dialog_insufficient_space_on_external">Nie je dostatok voľného miesta pre stiahnutie prílohy.</string>
   <string name="dialog_insufficient_space_on_internal">Nie je dostatok voľného miesta</string>
@@ -427,6 +439,8 @@
   <string name="flow_saved_dlg_title">Znížená spotreba dát</string>
   <string name="flow_saved_preference_total">Uložené %1$s.</string>
   <string name="folder_icon_desc">Ikona priečinka</string>
+  <string name="folder_list_display_all">Zobraziť všetky zložky</string>
+  <string name="folder_list_display_only_import">Zobraziť len dôležité zložky</string>
   <string name="folder_picker_title">Výber priečinka</string>
   <string name="folder_removed">Odstránené z priečinka %1$s</string>
   <string name="folder_shortcut_widget_label">Priečinok aplikácie E-mail</string>
@@ -470,6 +484,7 @@
   <string name="hint_quick_reply_all">Odpovedať všetkým</string>
   <string name="ignore_spam_warning">Ignorovať, dôverujem tejto správe</string>
   <string name="imap_name">IMAP</string>
+  <string name="imap_password_error">Heslo pre server prichádzajúcej pošty nie je správne</string>
   <string name="inbox_folders_heading">Doručená pošta</string>
   <string name="info">Informácie</string>
   <string name="inline_picture_deleted">Prebieha sťahovanie obrázka...</string>
@@ -578,6 +593,11 @@ Kópia: %4$s
   <string name="message_saved">Správa bola uložená ako koncept.</string>
   <string name="message_type_name">správa</string>
   <string name="message_view_attachment_background_load">Pred odoslaním sa prevezme jedna alebo viacero príloh zo správy posielanej ďalej.</string>
+  <string name="mibill_privacy_policy_button1">Nie</string>
+  <string name="mibill_privacy_policy_button2">Áno</string>
+  <string name="mibill_privacy_policy_description">Táto funkcia nie je podporovaná mimo Čínu! MiWallet bude analyzovať obsah správy a v prípade doručenia faktúry automaticky umožní jej zaplatenie.</string>
+  <string name="mibill_privacy_policy_link">Súhlasím s Credit Card Bill Service</string>
+  <string name="mibill_privacy_policy_title">Nie je podporované mimo Čínu</string>
   <string name="more_atts_remaining">Ostáva: %1$d</string>
   <string name="more_atts_total">Príloh: %1$d</string>
   <string name="more_context">Viac</string>
@@ -616,6 +636,9 @@ Kópia: %4$s
   <string name="notification_action_undo_delete">Odstránené</string>
   <string name="notification_action_undo_remove_label">Menovka bola odstránená</string>
   <string name="notification_exchange_calendar_added">Pridaný Exchange kalendár</string>
+  <string name="oauth_error_description">Nepodarilo sa autorizovať</string>
+  <string name="oauth_gmail_login_notify">Google vyžaduje zadanie hesla na prihlasovacej stránke spoločnosti Google</string>
+  <string name="oauth_login_continue">Pokračovať</string>
   <string name="ok">OK</string>
   <string name="okay_action">OK</string>
   <string name="open_proxy_in_settings">Gmail nie je dostupný vo vašej lokalite. Je možné odosielať a príjmať správy pomocou proxy serveru. Toto nastavenie môžete zmeniť v Nasteniach emailu.</string>
@@ -625,11 +648,14 @@ Kópia: %4$s
   <string name="outbox_alert_button_resend">Odoslať</string>
   <string name="outbox_alert_certificate_error">Neplatný certifikát E-mailu, je nutné ho aktualizovať.</string>
   <string name="outbox_alert_description_auth_error">Príčina: Chyba prihlásenia servera počas synchr. odchádzajúcej pošty</string>
+  <string name="outbox_alert_description_cannot_authenticate">Chyba prihlásenia na %s</string>
   <string name="outbox_alert_description_http_error">Príčina: HTTP chyba servera počas synchr. odchádzajúcej pošty</string>
   <string name="outbox_alert_description_insufficient_storage_error">Nedostatok voľného miesta na serveri</string>
   <string name="outbox_alert_description_provision_error">Príčina: Chyba servera počas synchr. odchádzajúcej pošty</string>
+  <string name="outbox_alert_description_reject_by_server">Odmietnuté %s</string>
   <string name="outbox_alert_description_sent_failed">"Príčina: Veľkosť prílohy
 presahuje limit"</string>
+  <string name="outbox_alert_description_time_out">Chyba pripojenia</string>
   <string name="outbox_alert_duplicate_click">Čakajte, prebieha synchronizácia</string>
   <string name="outbox_alert_edit_resend">Upraviť a odoslať</string>
   <string name="outbox_alert_failed_edit_resend">Odosielanie zlyhalo, upravte a odošlite znova</string>
@@ -731,6 +757,8 @@ presahuje limit"</string>
   <string name="quick_responses_empty_view">Žiadne rýchle odpovede.</string>
   <string name="quoted_text">Zahrnúť citovaný text</string>
   <string name="quoted_text_label">Citovať text</string>
+  <string name="re_download_message_button">Stiahnuť znova</string>
+  <string name="re_download_message_info">Sťahovanie správy zlyhalo</string>
   <string name="read_string">konverzácia bola prečítaná</string>
   <string name="recent_folders_heading">Nedávne priečinky</string>
   <string name="recipient_error_dialog_title">Chyba príjemcu</string>
@@ -822,6 +850,7 @@ presahuje limit"</string>
   <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
   <string name="single_new_message_notification_title">%1$s: %2$s</string>
+  <string name="smtp_password_error">Heslo pre server odchádzajúcej pošty nie je správne</string>
   <string name="sort_attachment">Zoradiť podľa</string>
   <string name="status_network_error">Problém s pripojením.</string>
   <string name="storage">Ukladací priestor</string>
@@ -914,34 +943,4 @@ Delta update size: %2$s"</string>
   <string name="yes">Áno</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="mibill_privacy_policy_button1">Nie</string>
-  <string name="mibill_privacy_policy_button2">Áno</string>
-  <string name="mibill_privacy_policy_description">Táto funkcia nie je podporovaná mimo Čínu! MiWallet bude analyzovať obsah správy a v prípade doručenia faktúry automaticky umožní jej zaplatenie.</string>
-  <string name="mibill_privacy_policy_link">Súhlasím s Credit Card Bill Service</string>
-  <string name="mibill_privacy_policy_title">Nie je podporované mimo Čínu</string>
-  <string name="account_settings_mibill_resolve_label">Analyzovať obsah správy</string>
-  <string name="account_settings_using_ringtone">Zvonenie</string>
-  <string name="folder_list_display_all">Zobraziť všetky zložky</string>
-  <string name="folder_list_display_only_import">Zobraziť len dôležité zložky</string>
-  <string name="imap_password_error">Heslo pre server prichádzajúcej pošty nie je správne</string>
-  <string name="outbox_alert_description_cannot_authenticate">Chyba prihlásenia na %s</string>
-  <string name="outbox_alert_description_reject_by_server">Odmietnuté %s</string>
-  <string name="outbox_alert_description_time_out">Chyba pripojenia</string>
-  <string name="smtp_password_error">Heslo pre server odchádzajúcej pošty nie je správne</string>
-  <string name="contact_edit_set_black_list">Čierna listina</string>
-  <string name="contact_edit_set_phone_contact">Upraviť kontakt</string>
-  <string name="contact_edit_set_pop_up_tips">Upozornenia</string>
-  <string name="contact_edit_set_unread_top">Zobraziť najskôr neprečítané správy</string>
-  <string name="contact_edit_set_vip">VIP</string>
-  <string name="contact_edit_title_permission">Práva kontaktu</string>
-  <string name="contact_edit_title_phone_contact">Zoznam kontaktov</string>
-  <string name="re_download_message_button">Stiahnuť znova</string>
-  <string name="re_download_message_info">Sťahovanie správy zlyhalo</string>
-  <string name="account_setup_incoming_username_label_default_hint">Môže obsahovať aj doménu</string>
-  <string name="dialog_account_auto_sync_setting_no_open">Synchr. je vypnutá, nie je možné prijať nové správy.</string>
-  <string name="dialog_auto_sync_setting_no_open">Synchr. je vypnutá, nie je možné prijať nové správy.</string>
-  <string name="oauth_error_description">Nepodarilo sa autorizovať</string>
-  <string name="oauth_gmail_login_notify">Google vyžaduje zadanie hesla na prihlasovacej stránke spoločnosti Google</string>
-  <string name="oauth_login_continue">Pokračovať</string>
-
 </resources>

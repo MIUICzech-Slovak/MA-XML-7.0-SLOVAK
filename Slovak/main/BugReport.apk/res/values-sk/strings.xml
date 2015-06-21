@@ -18,6 +18,7 @@
   <string name="bugreport_dump_start_notification_summary">Trvá približne 1 minútu.</string>
   <string name="bugreport_dump_start_notification_title">Vytváranie hlásenia o chybe</string>
   <string name="bugreport_feedback_from">Od: %s</string>
+  <string name="bugreport_tool_log">Vytvoriť záznam o chybe</string>
   <string name="bugreport_tool_log_toast">Záznam uložený do %s</string>
   <string name="bugreport_tool_log_toast_generate_bugreport">Vytváranie záznamu o chybe (trvá okolo 1 minúty)</string>
   <string name="button_feedback">Iné</string>
@@ -72,6 +73,11 @@
   <string name="menu_copy">Kopírovať</string>
   <string name="menu_discard">Zrušiť</string>
   <string name="menu_send">Odoslať hlásenie</string>
+  <string name="modem_tool_log">Vytvoriť záznam modemu</string>
+  <string name="modem_tool_log_start">Spustiť</string>
+  <string name="modem_tool_log_start_toast">Záznam o modeme bude uložený do %s</string>
+  <string name="modem_tool_log_stop">Zastaviť</string>
+  <string name="modem_tool_log_stop_toast">Zastaviť záznam modemu z %s</string>
   <string name="network_disconnected">Žiadna sieť</string>
   <string name="network_err">Nie je možné sa pripojiť na sieť. Skúste to znova neskôr.</string>
   <string name="network_unavailable_dialog_button_ok">OK</string>
@@ -137,10 +143,4 @@
   <string name="wlan_unavailable_dialog_button_sent">Odoslať okamžite</string>
   <string name="wlan_unavailable_dialog_content">Odošle sa %s cez 2G/3G dáta, stlačte OK na odoslanie cez sieť Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
-  <string name="bugreport_tool_log">Vytvoriť záznam o chybe</string>
-  <string name="modem_tool_log">Vytvoriť záznam modemu</string>
-  <string name="modem_tool_log_start">Spustiť</string>
-  <string name="modem_tool_log_start_toast">Záznam o modeme bude uložený do %s</string>
-  <string name="modem_tool_log_stop">Zastaviť</string>
-  <string name="modem_tool_log_stop_toast">Zastaviť záznam modemu z %s</string>
 </resources>

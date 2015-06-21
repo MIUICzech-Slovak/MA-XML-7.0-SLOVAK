@@ -48,6 +48,7 @@
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
   <string name="birthday_notification_text_three_days_later">Za 3 dni má %4$s (%3$s)!</string>
+  <string name="birthday_notification_text_three_days_later_with_activity">Kúpte kvety alebo tortu pre TA</string>
   <string name="birthday_notification_text_today">Nezabudnite zablahoželať!</string>
   <string name="birthday_notification_title_three_days_later">%1$s bude mať %2$s</string>
   <string name="birthday_notification_title_today">%1$s má %3$s</string>
@@ -267,6 +268,7 @@
   <string name="search">Hľadať</string>
   <string name="search_history_cleared">História vyhľadávania vymazaná.</string>
   <string name="search_title">Vyhľadať v mojich kalendároch</string>
+  <string name="select_date">Vybrať dátum</string>
   <string name="select_synced_calendars_button">Kalendáre, ktoré sa majú synchronizovať</string>
   <string name="select_synced_calendars_title">Kalendáre, ktoré sa majú synchronizovať</string>
   <string name="select_visible_calendars_title">Kalendáre, ktoré sa majú zobraziť</string>
@@ -318,6 +320,4 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="select_date">Vybrať dátum</string>
-  <string name="birthday_notification_text_three_days_later_with_activity">Kúpte kvety alebo tortu pre TA</string>
 </resources>

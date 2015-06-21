@@ -39,10 +39,12 @@
   <string name="setting_locale">Nastavovanie krajiny...</string>
   <string name="shut_down">Vypnúť</string>
   <string name="sim_card_detecting">Vyhľadávanie SIM karty...</string>
+  <string name="sim_card_detecting_title">Skontrolovať SIM kartu</string>
   <string name="sim_card_detection">SIM karta sa nenašla</string>
   <string name="sim_card_detection_info">Pre vytvorenie Xiaomi účtu sa vyžaduje SIM karta.</string>
   <string name="sim_dectection_next">Pokračovať</string>
   <string name="sim_redetection">Skontr. SIM</string>
+  <string name="skip_underline">Preskočiť</string>
   <string name="summary_not_set">Nenastavené</string>
   <string name="summary_sim_card">Karta %1$d</string>
   <string name="summary_sim_card_with_operator">Karta %1$d: %2$s</string>
@@ -53,6 +55,4 @@
 Prihláste sa na www.miuios.cz :)"</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte v</string>
-  <string name="sim_card_detecting_title">Skontrolovať SIM kartu</string>
-  <string name="skip_underline">Preskočiť</string>
 </resources>

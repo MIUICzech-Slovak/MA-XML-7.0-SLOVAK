@@ -17,12 +17,14 @@
   <string name="burst_complete">Dokončené.</string>
   <string name="burst_start">Dávkové snímanie...</string>
   <string name="button_back_to_home">Naspäť</string>
+  <string name="button_forget_pwd">Zabudnuté Wi-Fi heslo?</string>
   <string name="button_reconnect">Znovu pripojiť</string>
   <string name="button_search_retry">Vyhľadať znova</string>
   <string name="buy">Obchod</string>
   <string name="buzzer_volume_high">Vysoká</string>
   <string name="buzzer_volume_low">Nízka</string>
   <string name="buzzer_volume_mute">Vypnuté</string>
+  <string name="camera_firmware_cancel">Zrušiť Firmware</string>
   <string name="camera_firmware_upgrade">Aktualizácia FW</string>
   <string name="camera_firmware_v">Verzia FW kamery</string>
   <string name="camera_start_fw_update">Aktualizácia</string>
@@ -86,14 +88,21 @@
   <string name="find_new_bluetooth_device">Vyhľadať nové zariadenie</string>
   <string name="find_new_sw">Dostupný nový firmware</string>
   <string name="firmware_download_failed">Sťahovanie zlyhalo.</string>
+  <string name="firmware_downloading_message">Firmware už bol stiahnutý, chcete ho stiahnuť znova?</string>
+  <string name="firmware_downloading_title">Sťahovanie firmware</string>
   <string name="firmware_in_downloading">Sťahovanie aktualizácie FW...</string>
   <string name="firmware_update_info">Verzia FW</string>
   <string name="firmware_upgrade_download_firmware">Sťahovanie aktualizácie FW...</string>
+  <string name="firmware_upgrade_failed_no_space">SD karta má nedostatok voľného miesta.</string>
+  <string name="firmware_upgrade_failed_time_out">Spojenie bolo prerušené, nahrajte firmware znova.</string>
   <string name="firmware_upgrade_message">Chcete stiahnuť nový firmware?</string>
   <string name="firmware_upgrade_switch_wifi">Prepínanie Wi-Fi nastavení...</string>
   <string name="firmware_upgrade_tip">Neodpojujte váš telefón od Wi-Fi siete počas aktualizácie. Po dokončení reštartujte kameru a počkajte kým nedokončí inštaláciu.</string>
   <string name="firmware_upgrade_title">Nová verzia FW</string>
   <string name="firmware_version_synchronize_complete">Najnovšia verzia FW:</string>
+  <string name="firware_upgrade_begin">Aktualizovať</string>
+  <string name="firware_upgrade_succeeded">Gratulujeme</string>
+  <string name="firware_upgrade_succeeded_tips">Firmware sa úspešne odoslal</string>
   <string name="flickr">Flickr</string>
   <string name="format_sdcard_msg">Chcete formátovať SD kartu?</string>
   <string name="format_sdcard_title">Formátovať</string>
@@ -109,6 +118,13 @@
   <string name="high_definition">HD</string>
   <string name="hint_password">Nové heslo</string>
   <string name="hint_ssid">Wi-Fi SSID</string>
+  <string name="home_camera_dialog_help_content">"Otvorte zadný kryt, vyberte batériu
+Nájdite číslo SN, názov predvolenej Wi-Fi siete kamery."</string>
+  <string name="home_camera_dialog_help_title">Nemôžete nájsť kameru?</string>
+  <string name="home_camera_dialog_reset_content">"Stlačte a podržte naraz tlačidlo zapínania a Wi-Fi.
+Kamera sa automaticky reštartuje s prevoleným heslom
+camera1234567890"</string>
+  <string name="home_camera_dialog_reset_title">Ako obnoviť predevolené nastavenia?</string>
   <string name="ib_back_contentdescription">Späť</string>
   <string name="ib_back_photo_show_contentdescription">Späť</string>
   <string name="ib_back_video_show_contentdescription">Späť</string>
@@ -204,6 +220,7 @@
   <string name="normal_capture_start">Spustiť</string>
   <string name="open_camera">Zapnite kameru</string>
   <string name="open_camera_message">Stlačte ON/OFF tlačidlo</string>
+  <string name="open_url">Pripojiť sa</string>
   <string name="open_wifi">Zapnite Wi-Fi</string>
   <string name="open_wifi_message">Dlho podržte tlačidlo Wi-Fi na boku kamery kým sa nezapne modrá LED.</string>
   <string name="operation_failed">Operácia zlyhala</string>
@@ -328,6 +345,7 @@
   <string name="setting_emergency_file_backup">Záloha v núdzovej situácií</string>
   <string name="setting_failed">Aktualizácia nastavení zlyhala.</string>
   <string name="setting_feedback">Spätná väzba</string>
+  <string name="setting_firmware_update">Odoslať Firmware</string>
   <string name="setting_hw_version">Model</string>
   <string name="setting_led_mode">Režim LED</string>
   <string name="setting_loop_record">Nahrávanie slučky</string>
@@ -344,6 +362,7 @@
   <string name="setting_sw_version">Verzia FW</string>
   <string name="setting_system_default_mode">Predvolený režim po spustení</string>
   <string name="setting_timeout">Timeout</string>
+  <string name="setting_unbind_bluetooth_dev">Odpojte všetky bluetooth ovládače</string>
   <string name="setting_unsupported_resolution">Súčasné rozlíšenie nepodporuje automatické prepnutie na nočný režim.</string>
   <string name="setting_user_guide">Príručka</string>
   <string name="setting_video">Video</string>
@@ -372,6 +391,7 @@
   <string name="show_password">Zobraziť heslo</string>
   <string name="sinaweibo">Weibo</string>
   <string name="single_pic">Normálne</string>
+  <string name="skip">Preskočiť</string>
   <string name="sns_caching_video">Načítavanie...(XX%)</string>
   <string name="sns_detail_video">Všetky videá</string>
   <string name="sns_found_photo">Populárne fotografie</string>
@@ -447,6 +467,9 @@ telefónu"</string>
   <string name="tv_timing_off">vyp</string>
   <string name="twitter">Twitter</string>
   <string name="unable_to_delete_photo">Nie je možné vymazať fotografiu!</string>
+  <string name="unbind_bluetooth_failed">Odpojenie zlyhalo!</string>
+  <string name="unbind_bluetooth_succeeded">Odpojené!</string>
+  <string name="unbind_bluetooth_unbinded">Nič sa nenašlo!</string>
   <string name="unsurported_sw_version">Súčasná verzia nepodporuje časovanie záberu. Aktualizujte na najnovšiu verziu na adrese miuios.cz/sportcam</string>
   <string name="unsurrport_online_play">Súbor nepodporuje online prehrávanie</string>
   <string name="update_now">Chcete aktualizovať?</string>
@@ -510,27 +533,4 @@ Veľkosť: %2$s"</string>
   <string name="yixin_client_inavailable">Yixin nie je nainštalovaný</string>
   <string name="yixinmoments">Yixin Moments</string>
   <string name="youdao">Youdao</string>
-  <string name="firmware_downloading_message">Firmware už bol stiahnutý, chcete ho stiahnuť znova?</string>
-  <string name="firmware_downloading_title">Sťahovanie firmware</string>
-  <string name="firware_upgrade_begin">Aktualizovať</string>
-  <string name="firware_upgrade_succeeded">Gratulujeme</string>
-  <string name="firware_upgrade_succeeded_tips">Firmware sa úspešne odoslal</string>
-  <string name="setting_firmware_update">Odoslať Firmware</string>
-  <string name="setting_unbind_bluetooth_dev">Odpojte všetky bluetooth ovládače</string>
-  <string name="unbind_bluetooth_failed">Odpojenie zlyhalo!</string>
-  <string name="unbind_bluetooth_succeeded">Odpojené!</string>
-  <string name="unbind_bluetooth_unbinded">Nič sa nenašlo!</string>
-  <string name="skip">Preskočiť</string>
-  <string name="open_url">Pripojiť sa</string>
-  <string name="home_camera_dialog_help_content">"Otvorte zadný kryt, vyberte batériu
-Nájdite číslo SN, názov predvolenej Wi-Fi siete kamery."</string>
-  <string name="home_camera_dialog_help_title">Nemôžete nájsť kameru?</string>
-  <string name="home_camera_dialog_reset_content">"Stlačte a podržte naraz tlačidlo zapínania a Wi-Fi.
-Kamera sa automaticky reštartuje s prevoleným heslom
-camera1234567890"</string>
-  <string name="home_camera_dialog_reset_title">Ako obnoviť predevolené nastavenia?</string>
-  <string name="firmware_upgrade_failed_no_space">SD karta má nedostatok voľného miesta.</string>
-  <string name="firmware_upgrade_failed_time_out">Spojenie bolo prerušené, nahrajte firmware znova.</string>
-  <string name="camera_firmware_cancel">Zrušiť Firmware</string>
-  <string name="button_forget_pwd">Zabudnuté Wi-Fi heslo?</string>
 </resources>

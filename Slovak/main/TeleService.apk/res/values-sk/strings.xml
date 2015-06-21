@@ -156,6 +156,7 @@
   <string name="callind_multi_sim">Zvoliť Podpis</string>
   <string name="calling_via_template">Volanie cez %s</string>
   <string name="callwait_open_hint">\"Čakajúci hovor\" je služba poskytovaná operátorom. Ak sa zobrazí \"Chybný MMI kód\", obráťte sa na svojho operátora.</string>
+  <string name="can_not_use_for_not_data_sim">(Nie je možné použiť: Musí byť nastavená ako predvolená SIM pre dáta)</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_call">Zrušiť</string>
   <string name="card_title_MOcall_forwarding">Odchádzajúce presmerované hovory</string>
@@ -192,6 +193,8 @@
   <string name="carrier_settings_title">Nastavenie operátora</string>
   <string name="cb_sms_settings">Nastavenie SMS Cell Broadcast</string>
   <string name="cdma_activate_device">Aktivované zariadenie</string>
+  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
+  <string name="cdma_alert_title">Karta UIM musí byť ako predvolená</string>
   <string name="cdma_display_precise_call_state_message">Ak to Váš operátor nepodporuje, the call state will be incorrect when this switch is opened. Are you sure you want to open it?</string>
   <string name="cdma_display_precise_call_state_summary">CDMA call timer is restricted by the network operator. If the local operator supports, call state can be shown precisely.</string>
   <string name="cdma_display_precise_call_state_title">Display precise call state</string>
@@ -213,6 +216,9 @@
   <string name="cfnry_title">Presmerovať pokiaľ neodpovedám</string>
   <string name="cfu_title">Vždy presmerovať</string>
   <string name="change">Nastaviť</string>
+  <string name="change_default_data">Zmeniť</string>
+  <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
+  <string name="change_default_data_alert_title">Karta UIM musí byť ako predvolená</string>
   <string name="change_num">Aktualizovať</string>
   <string name="change_password">Zmeniť heslo blokovania hovorov</string>
   <string name="change_pin">Zmeniť kód PIN</string>
@@ -225,9 +231,11 @@
   <string name="close_profile">Zavrieť</string>
   <string name="cloud_antispam_title">Anti-Spam</string>
   <string name="command_error_fdn_failure">Táto operácia nemôže byť povolená pokiaľ je FDN zapnuté. prosím vypnite FDN a skúste to znova.</string>
+  <string name="config_default_data_sim">Nastavenia</string>
   <string name="config_dialing_emergency_number_suffix"/>
   <string name="confirmPin2Label">Potvrdiť nový kód PIN2</string>
   <string name="confirmPinLabel">Potvrďte nový kód PIN</string>
+  <string name="confirm_change_default_data">Zmeniť</string>
   <string name="confirm_password_label">Potvrdiť nové heslo</string>
   <string name="confirm_pin2_label">Potvrdiť nový PIN2</string>
   <string name="confirm_pin_label">Potvrdiť nový PIN</string>
@@ -415,6 +423,8 @@
   <string name="fdn_invalid_number">Povolené telefónne číslo bolo aktualizované: Číslo nemôže byť dlhšie ako 20 číslic.</string>
   <string name="fdn_service_unavailable">FDN služba nie je dostupná.</string>
   <string name="fdn_summary">Obmedziť odchádzajúce hovory len na čísla v tomto zozname</string>
+  <string name="flash_when_ring_summary">Blikať LED bleskom počas zvonenia prichádzajúceho hovoru</string>
+  <string name="flash_when_ring_title">Blikať počas zvonenia</string>
   <string name="fw_change_failed">"Zmena čísla odkazovej schránky neúspešná. Ak problém pretrváva, obráťte sa na svojho operátora."</string>
   <string name="fw_get_in_vm_failed">"Načítanie a uloženie aktuálneho nastavenia čísla pre presmerovanie neúspešné. Naozaj chcete zmeniť operátora?"</string>
   <string name="general_news_settings">Všeobecné správy</string>
@@ -423,6 +433,7 @@
   <string name="get_smsc_address_error">Chyba pri získaní čísla SMS centra</string>
   <string name="get_smsc_address_timeout">Vypršal časový limit na zistenie SMS čísla operátora, prosím skúste to neskôr.</string>
   <string name="goPrivate">prepnúť na súkromné</string>
+  <string name="got_it">OK</string>
   <string name="gsm_umts_network_preferences_dialogtitle">Režim siete</string>
   <string name="gsm_umts_network_preferences_title">Režim siete</string>
   <string name="gsm_umts_options">Možnosti GSM/UMTS</string>
@@ -456,6 +467,7 @@
   <string name="incall_error_no_phone_number_supplied">Hovor nie je možné spojiť, ale bolo zadané platné číslo.</string>
   <string name="incall_error_out_of_service">Mobilná sieť je nedostupná.</string>
   <string name="incall_error_power_off">Ak chcete telefonovať, vypnite najskôr režim V lietadle.</string>
+  <string name="incall_error_sim_deactive">SIM karta je neaktívna</string>
   <string name="incall_error_supp_service_conference">Hovory nie je možné spojiť do konferenčného hovoru.</string>
   <string name="incall_error_supp_service_hangup">Hovor nie je možné uvoľniť.</string>
   <string name="incall_error_supp_service_reject">Hovor nie je možné odmietnuť.</string>
@@ -477,6 +489,7 @@
   <string name="invalid_pin2">Nesprávny PIN2, prosím zadajte PIN2, ktorý má od 4 do 8 čísel.</string>
   <string name="invalid_puk">Nesprávny PUK, prosím zadajte PUK, ktorý má od 4 do 8 čísel.</string>
   <string name="invalid_puk2">Nesprávny PUK2, prosím zadajte PUK2, ktorý má 8 čísel.</string>
+  <string name="ivr_parameter_settings">IVR nastavenia (Čína)</string>
   <string name="labelCDMAMore">Nastavenie CDMA hovorov</string>
   <string name="labelCF">Presmerovanie hovorov</string>
   <string name="labelCFB">Presmerovať ak je obsadené</string>
@@ -653,6 +666,7 @@ Will use preferred network instead."</string>
   <string name="no_wifi_available_title">Wi-Fi pripojenie nedostupné</string>
   <string name="not_a_valid_port">Číslo portu by malo byť od 1000 do 65534</string>
   <string name="not_allowed">Vaša karta SIM neumožňuje pripojenie do siete.</string>
+  <string name="not_change_default_data">Nemeniť</string>
   <string name="not_voice_capable">Hlasový hovor nepodporovaný</string>
   <string name="notification_action_end_call">Ukončiť</string>
   <string name="notification_dialing">Vytáčanie</string>
@@ -887,6 +901,7 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="reject_via_sms_summary">Nastavte odosielanú sms pri zrušení hovoru</string>
   <string name="reject_via_sms_title">Nastavenie odpovedajúcej sms</string>
   <string name="remember_my_choice">Vždy používajte toto umiestnenie pre volanie cez internet</string>
+  <string name="remind_another_time">Viac sa nepýtať</string>
   <string name="remove">Vymazať</string>
   <string name="remove_ims_account">Odobrať účet</string>
   <string name="remove_sip_account">Vymazať účet</string>
@@ -1144,19 +1159,4 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="flash_when_ring_summary">Blikať LED bleskom počas zvonenia prichádzajúceho hovoru</string>
-  <string name="flash_when_ring_title">Blikať počas zvonenia</string>
-  <string name="change_default_data">Zmeniť</string>
-  <string name="cdma_alert_title">Karta UIM musí byť ako predvolená</string>
-  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
-  <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
-  <string name="change_default_data_alert_title">Karta UIM musí byť ako predvolená</string>
-  <string name="confirm_change_default_data">Zmeniť</string>
-  <string name="not_change_default_data">Nemeniť</string>
-  <string name="remind_another_time">Viac sa nepýtať</string>
-  <string name="incall_error_sim_deactive">SIM karta je neaktívna</string>
-  <string name="ivr_parameter_settings">IVR nastavenia (Čína)</string>
-  <string name="can_not_use_for_not_data_sim">(Nie je možné použiť: Musí byť nastavená ako predvolená SIM pre dáta)</string>
-  <string name="config_default_data_sim">Nastavenia</string>
-  <string name="got_it">OK</string>
 </resources>

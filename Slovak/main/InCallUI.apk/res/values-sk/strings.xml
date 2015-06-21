@@ -76,6 +76,7 @@
   <string name="callFailed_userBusy">Linka je obsadená.</string>
   <string name="callUnanswered_forwarded">Hovor je presmerovaný</string>
   <string name="call_description_recording">Nahrávanie...</string>
+  <string name="call_extension_conference_mode">Konferencia</string>
   <string name="call_forwarding_settings">Presmerovanie hovorov</string>
   <string name="call_lost">Hovor bol stratený.</string>
   <string name="call_record_button_label">Nahrávanie %s</string>
@@ -332,6 +333,7 @@
   <string name="list_language_dtitle">Jazyky</string>
   <string name="list_language_summary">Vyberte jazyk správ</string>
   <string name="list_language_title">Jazyk</string>
+  <string name="livetalk_left_minute">Ostáva %smin</string>
   <string name="livetalk_provider_info">Poskytované %s</string>
   <string name="livetalk_waiting">Čakanie...</string>
   <string name="load_networks_progress">Vyhľadávam...</string>
@@ -444,6 +446,7 @@
   <string name="onscreen_add_call_text">Pridať hovor</string>
   <string name="onscreen_audio_mode">Odpovedať cez</string>
   <string name="onscreen_audio_mode_bluetooth">Bluetooth</string>
+  <string name="onscreen_audio_mode_conference">Konferencia</string>
   <string name="onscreen_audio_mode_handset">Hands-free</string>
   <string name="onscreen_audio_mode_headset">Headphones</string>
   <string name="onscreen_audio_mode_speaker">Reproduktor</string>
@@ -705,7 +708,4 @@
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
   <string name="wild_prompt_str">Nahradiť zástupný znak znakom</string>
-  <string name="call_extension_conference_mode">Konferencia</string>
-  <string name="onscreen_audio_mode_conference">Konferencia</string>
-  <string name="livetalk_left_minute">Ostáva %smin</string>
 </resources>

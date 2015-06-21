@@ -38,6 +38,7 @@
   <string name="SMS_SERVICE">Blokovanie Služieb</string>
   <string name="SMSpass">SMS</string>
   <string name="STRANGER_BLOCK">Čierna listina</string>
+  <string name="action_source_sms_title">Blokované SMS</string>
   <string name="ad_block_hint">Blokované: %d</string>
   <string name="ad_install_monitor">Kontrola inštalácií</string>
   <string name="ad_install_monitor_hint">Inštalovaná aplikácia je kontrolovaná na prítomnosť Adware</string>
@@ -320,5 +321,4 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="user_define_title">Vlastný režim</string>
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
-  <string name="action_source_sms_title">Blokované SMS</string>
 </resources>
