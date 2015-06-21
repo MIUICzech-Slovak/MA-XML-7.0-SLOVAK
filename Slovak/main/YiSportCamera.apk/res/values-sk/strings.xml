@@ -97,7 +97,8 @@
   <string name="firmware_upgrade_failed_time_out">Spojenie bolo prerušené, nahrajte firmware znova.</string>
   <string name="firmware_upgrade_message">Chcete stiahnuť nový firmware?</string>
   <string name="firmware_upgrade_switch_wifi">Prepínanie Wi-Fi nastavení...</string>
-  <string name="firmware_upgrade_tip">Neodpojujte váš telefón od Wi-Fi siete počas aktualizácie. Po dokončení reštartujte kameru a počkajte kým nedokončí inštaláciu.</string>
+  <string name="firmware_upgrade_tip">"Odosielanie firmware,
+nevzdiaľujte telefón od kamery."</string>
   <string name="firmware_upgrade_title">Nová verzia FW</string>
   <string name="firmware_version_synchronize_complete">Najnovšia verzia FW:</string>
   <string name="firware_upgrade_begin">Aktualizovať</string>
@@ -533,4 +534,54 @@ Veľkosť: %2$s"</string>
   <string name="yixin_client_inavailable">Yixin nie je nainštalovaný</string>
   <string name="yixinmoments">Yixin Moments</string>
   <string name="youdao">Youdao</string>
+  <string name="bluetooth_unbinding_timeout">Odpájanie Bluetooth ovládania zlyhalo</string>
+  <string name="camera_upgrade_help_content">"Bolo zistené zlyhanie poslednej aktualizácie, skúste nasledujúce tipy: 
+
+ 1. Nabite batériu kamery minimálne na 50% 
+ 2. Nevypínajte kameru alebo Wi-Fi počas aktualizácie 
+ 3. Kamera musí byť v blízkosti telefónu 
+ 4. Čakajte kým sa dokončí aktualizácia a kamera sa sama reštartuje 
+ 
+ Skúste aktualizovať manuálne cez PC/Mac 
+ Návod: http://www.xiaoyi.com/update/sports"</string>
+  <string name="download_at_once">Stiahnuť</string>
+  <string name="finish">Dokončiť</string>
+  <string name="firmware_upgrade_cautions">Počas aktualizácie kamera pípa. Zrýchlené pípanie znamená, že aktualizácia sa dokončila a kamera sa sama reštartuje.</string>
+  <string name="firmware_upgrade_failed_sd_card_remove">"Žiadna SD karta.
+Vložte SD kartu a skúste to znova."</string>
+  <string name="firmware_upgrade_progress">%d%% odoslané</string>
+  <string name="firware_upgrade_patient">Kamera sa aktualizuje, čakajte prosím..</string>
+  <string name="in_timelapes_recording">Timelapse Nahrávanie...</string>
+  <string name="laiwang">Laiwang</string>
+  <string name="laiwang_client_inavailable">Laiwangs client not exists or the version is too low</string>
+  <string name="laiwangmoments">Laiwang Moments</string>
+  <string name="list_friends">Priatelia na %s</string>
+  <string name="multi_share">Photo Sharing</string>
+  <string name="next_time">Next Time</string>
+  <string name="ok">OK</string>
+  <string name="prompt_video_file_downloading">Sťahovanie videa</string>
+  <string name="pull_to_refresh">Potiahnutím obnovíte</string>
+  <string name="refreshing">Obnovenie...</string>
+  <string name="release_to_refresh">Pustite pre obnovenie</string>
+  <string name="select_a_friend">Vybete priateľa</string>
+  <string name="select_one_plat_at_least">Vyberte sieť na zdieľanie</string>
+  <string name="shake2share">Zatraste svojim telefónom!</string>
+  <string name="share">Zdieľať</string>
+  <string name="share_canceled">Operácia je zrušená</string>
+  <string name="share_completed">Operácia dokončená</string>
+  <string name="share_picture">Zdieľať fotografiu</string>
+  <string name="share_to">Zdieľať na</string>
+  <string name="sharing">Zdieľanie prebieha na pozadí...</string>
+  <string name="tv_normal_record">Normálne</string>
+  <string name="tv_record_photo">Nahrávka + foto</string>
+  <string name="tv_timlapse_record">Timelapse</string>
+  <string name="understand">OK</string>
+  <string name="upgrade_at_once">Aktualizovať</string>
+  <string name="upgrade_help">Pomoc</string>
+  <string name="upgrade_one_more">Znova</string>
+  <string name="upgrade_terminate_tip">Posledná aktualizácia zlyhala, pozrite si tipy ako aktualizovať.</string>
+  <string name="upgrade_tips_on_ready">Aktualizácia je pripravená, bude to trvať len pár minút.</string>
+  <string name="upgrade_tips_on_version">Odporúčame aktualizovať na poslednú verziu.</string>
+  <string name="wechatcollect">Wechat Collect</string>
+  <string name="wifi_connect_failed_directly">Reštartujte váš telefón alebo skontrolujte nastavenie Wi-Fi pripojenia.</string>
 </resources>
