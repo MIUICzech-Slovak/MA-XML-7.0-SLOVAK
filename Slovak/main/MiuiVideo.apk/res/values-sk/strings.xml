@@ -320,7 +320,7 @@
   <string name="version_select">Version Select</string>
   <string name="version_select_summary">Select alpha, developing, stable version</string>
   <string name="vertical_line">&lt;CDATA&gt; | &lt;/CDATA&gt;</string>
-  <string name="video">video</string>
+  <string name="video">Video</string>
   <string name="video_app_update">Update</string>
   <string name="video_bbs">Join Us</string>
   <string name="video_bbs_url">Join us and help develop this video application</string>
