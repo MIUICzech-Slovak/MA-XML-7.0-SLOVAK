@@ -546,10 +546,10 @@ Veľkosť: %2$s"</string>
  Návod: http://www.xiaoyi.com/update/sports"</string>
   <string name="download_at_once">Stiahnuť</string>
   <string name="finish">Dokončiť</string>
-  <string name="firmware_upgrade_cautions">Počas aktualizácie kamera pípa. Zrýchlené pípanie znamená, že aktualizácia sa dokončila a kamera sa sama reštartuje.</string>
+  <string name="firmware_upgrade_cautions">Počas aktualizácie kamera pípa. Zrýchlené pípanie znamená, že aktualizácia sa dokončila a kamera sa sama vypne.</string>
   <string name="firmware_upgrade_failed_sd_card_remove">"Žiadna SD karta.
 Vložte SD kartu a skúste to znova."</string>
-  <string name="firmware_upgrade_progress">%d%% odoslané</string>
+  <string name="firmware_upgrade_progress">Odoslané: %d%%</string>
   <string name="firware_upgrade_patient">Kamera sa aktualizuje, čakajte prosím..</string>
   <string name="in_timelapes_recording">Timelapse Nahrávanie...</string>
   <string name="laiwang">Laiwang</string>
