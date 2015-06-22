@@ -1496,4 +1496,37 @@ Chcete ju zavrieť?"</string>
   <string name="year">rok</string>
   <string name="years">roky</string>
   <string name="yes">OK</string>
+     <string name="lockscreen_airplane_mode_on">Airplane Mode</string>
+     <string name="lockscreen_sim_error_message_short">Invalid Card.</string>
+     <string name="permission">Permission</string>
+     <string name="permission_remember_choice">Remember</string>
+     <string name="pinpuk_attempts">"
+Attempts Remaining :"</string>
+     <string name="progress_nomediapresent">No removable media present…</string>
+     <string name="quick_contacts_not_available">No application found to view this contact.</string>
+     <string name="stk_cc_ss_to_dial">SS request is modified to DIAL request.</string>
+     <string name="stk_cc_ss_to_ss">SS request is modified to new SS request.</string>
+     <string name="stk_cc_ss_to_ussd">SS request is modified to USSD request.</string>
+     <string name="stk_cc_ussd_to_dial">USSD request is modified to DIAL request.</string>
+     <string name="stk_cc_ussd_to_ss">USSD request is modified to SS request.</string>
+     <string name="stk_cc_ussd_to_ussd">USSD request is modified to new USSD request.</string>
+     <string name="storage_uicc">UICC storage</string>
+     <string name="transient_navigation_confirmation_long">Swipe from edge of screen to reveal system bar</string>
+     <string name="web_user_agent_target_content">"Mobile "</string>
+     <string name="webviewchromium_color_picker_button_black">Black</string>
+     <string name="webviewchromium_color_picker_button_blue">Blue</string>
+     <string name="webviewchromium_color_picker_button_cyan">Cyan</string>
+     <string name="webviewchromium_color_picker_button_green">Green</string>
+     <string name="webviewchromium_color_picker_button_magenta">Magenta</string>
+     <string name="webviewchromium_color_picker_button_red">Red</string>
+     <string name="webviewchromium_color_picker_button_white">White</string>
+     <string name="webviewchromium_color_picker_button_yellow">Yellow</string>
+     <string name="webviewchromium_copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
+     <string name="webviewchromium_date_picker_dialog_other_button_label">Other</string>
+     <string name="webviewchromium_profiler_error_toast">Failed to start profiler</string>
+     <string name="webviewchromium_profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
+     <string name="webviewchromium_profiler_started_toast">Profiler started</string>
+     <string name="webviewchromium_profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
+     <string name="webviewchromium_time_picker_dialog_title">Set time</string>
+     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
 </resources>
