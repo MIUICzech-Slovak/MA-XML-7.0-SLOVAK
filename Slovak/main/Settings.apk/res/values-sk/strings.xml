@@ -3616,4 +3616,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="choose_smartcover_type">Vyberte typ krytu</string>
+  <string name="normal_smartcover_title">Nepriehľadný predný kryt</string>
+  <string name="smallwindow_smartcover_title">Priehľadný predný kryt</string>
 </resources>
