@@ -252,7 +252,7 @@
   <string name="vpn_title">VPN aktivované</string>
   <string name="vpn_title_long">Pripájanie k VPN cez %s</string>
   <string name="disable_notification_summary">Upozornenia sa nebudú zobrazovať</string>
-  <string name="disable_notification_title">Deaktivovaž upozornenia</string>
+  <string name="disable_notification_title">Deaktivovať upozornenia</string>
   <string name="expanded_notification_manager">Upraviť</string>
   <string name="notification_template_text">" upozorňuje, dotykom ho zobrazíte."</string>
 </resources>
