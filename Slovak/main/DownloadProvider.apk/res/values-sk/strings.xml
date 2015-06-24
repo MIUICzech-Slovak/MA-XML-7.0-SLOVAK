@@ -60,9 +60,9 @@
 
 Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa možnosti %s ."</string>
   <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>
-     <string name="dialog_not_show_again">"Don't show again"</string>
-     <string name="warning_tip_cancel">Download</string>
-     <string name="warning_tip_content">"You're no longer connected to WLAN. Using your mobile data connection to complete this download will increase your data usage. If you go over your plan’s data limit, your carrier could charge you additional fees."</string>
-     <string name="warning_tip_ok">Pause</string>
-     <string name="warning_tip_title">Data usage warning</string>
+     <string name="dialog_not_show_again">Viac sa nepýtať</string>
+     <string name="warning_tip_cancel">Stiahnúť</string>
+     <string name="warning_tip_content">Nie ste pripojený na Wi-Fi sieť. Sťahovanie tohto súboru môže navýšiť vaše poplatky za mobilné dáta."</string>
+     <string name="warning_tip_ok">Zastaviť</string>
+     <string name="warning_tip_title">Využívanie mobilných dát</string>
 </resources>
