@@ -254,5 +254,5 @@
   <string name="disable_notification_summary">Upozornenia sa nebudú zobrazovať</string>
   <string name="disable_notification_title">Deaktivovaž upozornenia</string>
   <string name="expanded_notification_manager">Upraviť</string>
-  <string name="notification_template_text">Upozornenie, dotykom ho zobrazíte</string>
+  <string name="notification_template_text">" upozorňuje, dotykom ho zobrazíte."</string>
 </resources>

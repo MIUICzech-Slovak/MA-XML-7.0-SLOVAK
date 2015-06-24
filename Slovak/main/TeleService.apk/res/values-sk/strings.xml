@@ -1159,4 +1159,8 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="msim_disable_sim_card_btn_text">OK</string>
+  <string name="msim_disable_sim_card_summary_default_card">Táto karta je momentálne nastavená ako vaša predvolená SIM. Ak ju zakážete, nebudete môcť uskutočniť hovory alebo využívať mobilné dáta. Môžete zakázať túto SIM kartu až po zvolení druhej SIM ako predvolená SIM karta."</string>
+  <string name="msim_disable_sim_card_summary_non_default_card">Nebudete môcť uskutočniť hovory alebo využívať mobilné dáta. Zakázať používanie %s SIM karty?</string>
+  <string name="msim_disable_sim_card_title">Zakázať používanie SIM karty</string>
 </resources>
