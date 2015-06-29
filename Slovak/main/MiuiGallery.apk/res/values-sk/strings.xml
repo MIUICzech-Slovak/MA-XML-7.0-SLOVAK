@@ -92,7 +92,7 @@
   <string name="camera_black_white">Čiernobiela 2</string>
   <string name="camera_connected">Fotoaparát pripojený.</string>
   <string name="camera_disconnected">Fotoaparát odpojený.</string>
-  <string name="camera_folder_display_name">Fotografie1</string>
+  <string name="camera_folder_display_name">Fotografie</string>
   <string name="camera_setas_wallpaper">Tapeta</string>
   <string name="camera_view_none_message">Tu budú zobrazené Vaše fotografie.</string>
   <string name="cancel">Zrušiť</string>
@@ -118,7 +118,7 @@
   <string name="cloud_albums">MiCloud Albumy</string>
   <string name="cloud_be_shared_guide_message">"Zobrazujte fotografie Vašich priateľov a pridávajte Vaše fotografie do ich albumu, takže si ich môžete prezerať spolu."</string>
   <string name="cloud_be_shared_guide_title">Tento album je od priateľa</string>
-  <string name="cloud_camera_display_name">Fotografie2</string>
+  <string name="cloud_camera_display_name">Fotografie</string>
   <string name="cloud_folder_chooser_move">Vymazať súbory z pôvodného albumu</string>
   <string name="cloud_gallery_no_pictures">Žiadne fotografie v MiCloud</string>
   <string name="cloud_gallery_recyclebin_full">Kôš v MiCloud je plný, vyprázdnite ho na stránke i.mi.com</string>
@@ -310,7 +310,7 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="home_page_tab_cloud">MiCloud</string>
   <string name="home_page_tab_face">Ľudia</string>
   <string name="home_page_tab_local">Lokálne</string>
-  <string name="home_page_tab_photo">Fotografie3</string>
+  <string name="home_page_tab_photo">Fotografie</string>
   <string name="how_many_pics">%d Snímkov</string>
   <string name="how_many_sub_folders">%d\u0020Priečinkov</string>
   <string name="how_many_videos">%d\u0020Videí</string>
@@ -495,8 +495,8 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="picker_no_items_selected">Žiadne položky</string>
   <string name="picker_select_album_title_empty">Vyberte album</string>
   <string name="picker_tab_camera">Fotoaparát</string>
-  <string name="picker_tab_photo">Fotografie4</string>
-  <string name="pocket_camera_picture">Fotografie5</string>
+  <string name="picker_tab_photo">Foto</string>
+  <string name="pocket_camera_picture">Fotografie</string>
   <string name="pocket_camera_video">Videá</string>
   <string name="pocketcamera">PocketCamera</string>
   <string name="posterize">Posterizovať</string>
