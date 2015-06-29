@@ -72,8 +72,8 @@ Naposledy: %2$s"</string>
   <string name="enable_cloud_service_notification">Nemáte povolené služby Cloudu</string>
   <string name="enable_find_device_error">Chyba: %1$s</string>
   <string name="enable_micloud">Registrovať alebo prihlásiť</string>
-  <string name="enable_sync">Povoliť synchr.</string>
-  <string name="enable_sync_dspt">Synchr. je deaktivovaná</string>
+  <string name="enable_sync">Synchr.</string>
+  <string name="enable_sync_dspt">Nesynchr.</string>
   <string name="error_data_in_transfer">Vaše dáta sa presúvajú. Čakajte %s hodín.</string>
   <string name="error_data_in_transfer_title">Služby Cloudu sú momentálne nedostupné.</string>
   <string name="error_forbidden">Synchr. bola deaktivovaná kvôli problémom s vašim Xiaomi účtom.</string>
@@ -368,4 +368,7 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="mx_dspt_provision_privacy_2_sim">"Táto funkcia vyžaduje vaše telefónne číslo. Váš operátor môže spoplatniť dve odoslané SMS správy pre aktivovanie tejto funkcie.
+
+Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
 </resources>

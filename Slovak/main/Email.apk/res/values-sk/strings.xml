@@ -130,7 +130,7 @@
   <string name="account_setup_incoming_imap_path_prefix_hint">Voliteľné</string>
   <string name="account_setup_incoming_imap_path_prefix_label">Predpona cesty IMAP</string>
   <string name="account_setup_incoming_mail_adress_label">Adresa</string>
-  <string name="account_setup_incoming_mail_domain_hint">Povinné</string>
+  <string name="account_setup_incoming_mail_domain_hint">Nepovinné</string>
   <string name="account_setup_incoming_mail_domain_label">Doména</string>
   <string name="account_setup_incoming_password_label">Heslo</string>
   <string name="account_setup_incoming_port_label">Port</string>
@@ -752,8 +752,8 @@ presahuje limit"</string>
   <string name="quick_4">Dohodnime si schôdzku a prediskutujme to.</string>
   <string name="quick_reply_dialog_title">Vyberte prosím</string>
   <string name="quick_reply_hint">Odpovedať všetkým (%1$d)</string>
-  <string name="quick_reply_hint_bcc">(V BCC)</string>
-  <string name="quick_reply_hint_cc">(V CC)</string>
+  <string name="quick_reply_hint_bcc">" (V BCC) "</string>
+  <string name="quick_reply_hint_cc">" (V CC) "</string>
   <string name="quick_responses_empty_view">Žiadne rýchle odpovede.</string>
   <string name="quoted_text">Zahrnúť citovaný text</string>
   <string name="quoted_text_label">Citovať text</string>
@@ -943,4 +943,10 @@ Delta update size: %2$s"</string>
   <string name="yes">Áno</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="account_setup_failed_dlg_device_locked">Vaša adresa bola zablokovaná zámkom zariadenia</string>
+  <string name="attachment_open_SecurityException_hint">Skontrolujte povolenia, poškodenie, atď.</string>
+  <string name="attachment_open_SecurityException_title">Otvorenie súboru zlyhalo</string>
+  <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
+  <string name="ser_resp_err_map_serclosed_url_tag">Ako to vyriešiť?</string>
+  <string name="unzip_file_failed">Rozbalenie súboru zlyahlo!</string>
 </resources>

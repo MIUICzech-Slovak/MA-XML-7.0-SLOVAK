@@ -1191,7 +1191,9 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_navigation_send_to_desktop_downloading">Sťahovanie ikony...</string>
   <string name="yellowpage_navigation_send_to_desktop_failed">Chyba, skontrolujte nastavenie siete.</string>
   <string name="yellowpage_navigation_send_to_desktop_succeeded">Pridané na plochu</string>
-  <string name="yellowpage_search_the_yellowpage">Vyhľadať v zozname</string>
+  <string name="yellowpage_search_the_yellowpage">Vyhľadať v Zlatých stránkach</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="unknow_phone_number_call_failed">Nie je možné volať na neznáme číslo.</string>
+  <string name="unknow_phone_number_mms_failed">Nie je možné odoslať SMS na neznáme číslo.</string>
 </resources>

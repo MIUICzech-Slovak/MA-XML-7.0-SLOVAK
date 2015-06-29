@@ -2938,8 +2938,8 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="usage_type_wifi_running">Pripojenie Wi-Fi aktívne</string>
   <string name="usb_audio_disable_routing">Vyp. smer. zvuku do USB</string>
   <string name="usb_audio_disable_routing_summary">Vyp. aut. smer. zvuku do zvukových periférií USB</string>
-  <string name="usb_charging_summary">Umožňuje deaktivovať prenos súborov s PC a prepnúť do režimu nabíjania.</string>
-  <string name="usb_charging_title">Nabíjanie</string>
+  <string name="usb_charging_summary">Deaktivovať všetky ostatné USB funkcie a zrýchliť proces nabíjania.</string>
+  <string name="usb_charging_title">Zrýchliť nabíjanie</string>
   <string name="usb_connection_category">Pripojiť ako</string>
   <string name="usb_eject">Odpojiť USB úložisko</string>
   <string name="usb_eject_summary">Odpojiť USB úložisko a bezpečne odobrať</string>
@@ -3619,4 +3619,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="choose_smartcover_type">Vyberte typ krytu</string>
   <string name="normal_smartcover_title">Nepriehľadný predný kryt</string>
   <string name="smallwindow_smartcover_title">Priehľadný predný kryt</string>
+  <string name="config_charging_function_name">charging</string>
 </resources>

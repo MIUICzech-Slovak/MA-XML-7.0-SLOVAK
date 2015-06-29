@@ -52,7 +52,7 @@
   <string name="gift_present_dlg_anonymous">Anonymný dar</string>
   <string name="gift_present_dlg_input_hint">Xiaomi ID / telefónne číslo</string>
   <string name="gift_present_dlg_no_fee">Odosielanie darov nie je spoplatnené</string>
-  <string name="gift_present_dlg_present_max_limit">Táto téma už bola darovaná %$1s krát (to je max. počet).</string>
+  <string name="gift_present_dlg_present_max_limit">Táto téma už bola darovaná %1$s krát (max. počet).</string>
   <string name="gift_present_dlg_share">Generovať kód a odoslať</string>
   <string name="gift_present_fail_dlg_content">"Nie je možné odoslať ako dar. "</string>
   <string name="gift_present_fail_dlg_title">Nie je možné odoslať ako dar</string>

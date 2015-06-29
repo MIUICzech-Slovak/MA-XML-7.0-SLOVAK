@@ -255,4 +255,7 @@
   <string name="disable_notification_title">Deaktivovať upozornenia</string>
   <string name="expanded_notification_manager">Upraviť</string>
   <string name="notification_template_text">" upozorňuje, dotykom ho zobrazíte."</string>
+  <string name="activate_usb_message">Vložte SIM kartu pre aktivovanie USB funkcií</string>
+  <string name="activate_usb_title">Aktivovať USB</string>
+  <string name="usb_function_charging_text">Pripojiť v nabíjacom režime</string>
 </resources>
