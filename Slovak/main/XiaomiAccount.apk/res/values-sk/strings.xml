@@ -569,4 +569,5 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
+  <string name="exceed_binded_phone_times_notice">Toto telefónne číslo je prepojené s viacerými Xiaomi účtami. Nie je možné pridať ďalší účet.</string>
 </resources>

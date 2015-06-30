@@ -331,4 +331,7 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
+  <string name="atmd_copyright_info">Online obsah poskytuje Ultimate Inc.</string>
+  <string name="atmd_mail"/>
+  <string name="atmd_tel"/>
 </resources>
