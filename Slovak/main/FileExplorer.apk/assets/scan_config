@@ -6,6 +6,7 @@
                 "packageName": "com.tencent.mm",
                 "appName": "微信",
                 "appName_en": "WeChat",
+                "appName_sk": "WeChat",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_E8MS3LQ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429844877&Signature=urOwbKJNhHL0Rw7ScWiXhBWH8g0%3D",
                 "dirName": "/Tencent/MicroMsg"
             },
@@ -110,6 +111,7 @@
                 "packageName": "com.UCMobile",
                 "appName": "UC浏览器",
                 "appName_en": "UC Browser",
+                "appName_sk": "UC Browser",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_JIB39C8?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429862264&Signature=xj8%2B2EqaCktxPopO47WQnFmml1o%3D",
                 "dirName": "/UCDownloads"
             },
@@ -154,6 +156,7 @@
                 "packageName": "com.baidu.searchbox",
                 "appName": "手机百度",
                 "appName_en": "Baidu",
+                "appName_sk": "Baidu",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_FF2UJ5S?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3429862487&Signature=XrnwloOUHDCh8g%2BzKxVXtm4GY7U%3D",
                 "dirName": "/baidu"
             },
@@ -280,6 +283,7 @@
                 "packageName": "com.jingdong.app.mall",
                 "appName": "京东",
                 "appName_en": "JD.COM",
+                "appName_sk": "JD.COM",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_BLXZW2Q?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430115104&Signature=uGBRsb65vD111KHCfO2eTwOty8E%3D",
                 "dirName": "/jingdong"
             },
@@ -336,6 +340,7 @@
                 "packageName": "com.xlredapple.bluetooth",
                 "appName": "蓝牙",
                 "appName_en": "Bluetooth",
+                "appName_sk": "Bluetooth",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_VQ54RTR?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114859&Signature=uQSH2THMWjbIMDXhar2V0i6L6yM%3D",
                 "dirName": "/bluetooth"
             },
@@ -351,6 +356,7 @@
                 "packageName": "com.tencent.mtt",
                 "appName": "QQ浏览器",
                 "appName_en": "QQBrowser",
+                "appName_sk": "QQBrowser",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_XTTC9QZ?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114427&Signature=Dpyy4Uksh36TldI2lA3SBVHj6Ao%3D",
                 "dirName": "/QQBrowser"
             },
@@ -366,6 +372,7 @@
                 "packageName": "com.android.providers.downloads.ui",
                 "appName": "系统下载",
                 "appName_en": "Download",
+                "appName_sk": "Stiahnuté",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_TNEYAMV?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430817988&Signature=8iRMNR5pS%2B682QjkBtGJApg3B0I%3D",
                 "dirName": "/Download"
             },
@@ -389,6 +396,7 @@
                 "packageName": "com.xlredapple.screenshot",
                 "appName": "截屏",
                 "appName_en": "Screenshots",
+                "appName_sk": "Screenshoty",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_ROL5O82?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430114898&Signature=IRMkLpJLbshp%2BZTJ0vXVo8MvRpo%3D",
                 "dirName": "/DCIM/Screenshots"
             },
@@ -456,6 +464,7 @@
                 "packageName": "com.xlredapple.miui",
                 "appName": "音乐和壁纸",
                 "appName_en": "MIUI Theme",
+                "appName_sk": "MIUI Témy",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_B14J93O?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430818870&Signature=mQUBgFraxCK%2FIKNjIF0BPtF5tJo%3D",
                 "dirName": "/MIUI"
             },
@@ -483,6 +492,7 @@
                 "packageName": "com.xlredapple.camera",
                 "appName": "照片",
                 "appName_en": "Camera photos",
+                "appName_sk": "Fotografie",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_437DLEC?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430128186&Signature=h0M4LJh1uxHTGiW5Y9YR291rNVM%3D",
                 "dirName": "/DCIM/Camera"
             },
@@ -564,6 +574,7 @@
                 "packageName": "org.wikipedia",
                 "appName": "维基百科",
                 "appName_en": "Wikipedia",
+                "appName_sk": "Wikipedia",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_FS3CW5J?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3430900686&Signature=uJF58DUsYspZmUjfPbl9xMoKZnI%3D",
                 "dirName": "/Android/data/org.wikipedia"
             },
@@ -1256,6 +1267,7 @@
                 "packageName": "com.evernote",
                 "appName": "印象笔记",
                 "appName_en": "Evernote",
+                "appName_sk": "Evernote",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_J1U6WBW?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485220&Signature=sWs4MryXHHauqbokLHQWYLS2b4Y%3D",
                 "groupName": "印象笔记截屏",
                 "dirName": "/Pictures/EVERNOTE"
@@ -1503,6 +1515,7 @@
                 "packageName": "com.duokan.reader",
                 "appName": "多看阅读",
                 "appName_en": "Reader",
+                "appName_sk": "Reader",
                 "appIcon": "http://ra2.kssws.ks-cdn.com/app_ZYIZKOI?AccessKeyId=vaP5lsEBk1OK5k9b%2BvSv&Expires=3433485511&Signature=S63Q09gEtHjX3IJWIfA3qT3Y0do%3D",
                 "dirName": "/DuoKan"
             },
@@ -1538,7 +1551,7 @@
                 "subDirName": "",
                 "directName": "MIUI主题",
                 "directName_en": "MIUI Themes",
-				"directName_sk": "MIUI Témy",
+		"directName_sk": "MIUI Témy",
                 "state": "disable"
             },
             {
@@ -1573,7 +1586,7 @@
                 "subDirName": "",
                 "directName": "MIUI提示音",
                 "directName_en": "MIUI Notifications",
-				"directName_sk": "MIUI Upozornenia",
+		"directName_sk": "MIUI Upozornenia",
                 "state": "enable"
             },
             {
@@ -1597,7 +1610,7 @@
                 "subDirName": "",
                 "directName": "锁屏壁纸",
                 "directName_en": "MIUI Wallpapers",
-                "directName_en": "MIUI Tapety",
+                "directName_sk": "MIUI Tapety",
                 "state": "enable"
             },
             {
@@ -1653,7 +1666,7 @@
                 "subDirName": "",
                 "directName": "系统下载文件",
                 "directName_en": "Downloads",
-                "directName_en": "Stiahnuté",
+                "directName_sk": "Stiahnuté",
                 "state": "enable"
             },
             {
@@ -1665,6 +1678,7 @@
                 "subDirName": "",
                 "directName": "系统下载文件",
                 "directName_en": "Downloads",
+                "directName_sk": "Stiahnuté",
                 "state": "enable"
             },
             {
@@ -1753,7 +1767,7 @@
                 "subDirName": "",
                 "directName": "MIUI升级包",
                 "directName_en": "MIUI Update Package",
-                "directName_en": "MIUI Aktualizácie",
+                "directName_sk": "MIUI Aktualizácie",
                 "state": "enable"
             },
             {
@@ -1777,6 +1791,7 @@
                 "subDirName": "",
                 "directName": "截屏",
                 "directName_en": "Screenshots",
+                "directName_sk": "Screenshoty",
                 "state": "enable"
             },
             {
@@ -1788,6 +1803,7 @@
                 "subDirName": "",
                 "directName": "截屏",
                 "directName_en": "Screenshots",
+                "directName_sk": "Screenshoty",
                 "state": "enable"
             },
             {
@@ -1799,6 +1815,7 @@
                 "subDirName": "",
                 "directName": "截屏",
                 "directName_en": "Screenshots",
+                "directName_sk": "Screenshoty",
                 "state": "enable"
             },
             {
@@ -1810,6 +1827,7 @@
                 "subDirName": "",
                 "directName": "蓝牙接收文件",
                 "directName_en": "Bluetooth",
+                "directName_sk": "Bluetooth",
                 "state": "enable"
             },
             {
@@ -1821,6 +1839,7 @@
                 "subDirName": "",
                 "directName": "蓝牙接收文件",
                 "directName_en": "Bluetooth",
+                "directName_sk": "Bluetooth",
                 "state": "enable"
             },
             {
@@ -1832,6 +1851,7 @@
                 "subDirName": "",
                 "directName": "蓝牙接收文件",
                 "directName_en": "Bluetooth",
+                "directName_sk": "Bluetooth",
                 "state": "enable"
             },
             {
@@ -1876,6 +1896,7 @@
                 "subDirName": "",
                 "directName": "京东图片",
                 "directName_en": "Pics from JD.COM",
+                "directName_sk": "Obrázky z JD.COM",
                 "state": "enable"
             },
             {
@@ -1887,6 +1908,7 @@
                 "subDirName": "",
                 "directName": "京东图片",
                 "directName_en": "Pics from JD.COM",
+                "directName_sk": "Obrázky z JD.COM",
                 "state": "enable"
             },
             {
@@ -1898,6 +1920,7 @@
                 "subDirName": "",
                 "directName": "手机照片",
                 "directName_en": "Camera photos",
+                "directName_sk": "Fotografie",
                 "state": "enable"
             },
             {
@@ -1942,6 +1965,7 @@
                 "subDirName": "",
                 "directName": "UC浏览器下载文件",
                 "directName_en": "UC Browser downloads",
+                "directName_sk": "UC Browser",
                 "state": "enable"
             },
             {
@@ -1975,6 +1999,7 @@
                 "subDirName": "",
                 "directName": "QQ图片",
                 "directName_en": "Pics from QQ",
+                "directName_sk": "Obrázky z QQ",
                 "state": "enable"
             },
             {
@@ -2008,6 +2033,7 @@
                 "subDirName": "",
                 "directName": "壁纸",
                 "directName_en": "MIUI Wallpapers",
+                "directName_sk": "MIUI Tapety",
                 "state": "enable"
             },
             {
@@ -2019,6 +2045,7 @@
                 "subDirName": "",
                 "directName": "录音",
                 "directName_en": "MIUI Sound Record",
+                "directName_sk": "MIUI Nahrávky",
                 "state": "enable"
             },
             {
@@ -2063,6 +2090,7 @@
                 "subDirName": "",
                 "directName": "示例视频",
                 "directName_en": "MIUI Demo Videos",
+                "directName_sk": "MIUI Demo Video",
                 "state": "enable"
             },
             {
@@ -2118,6 +2146,7 @@
                 "subDirName": "",
                 "directName": "Pinterest图片",
                 "directName_en": "Pics from Pinterest",
+                "directName_sk": "Obrázky z Pinterest",
                 "state": "disable"
             },
             {
@@ -2151,6 +2180,7 @@
                 "subDirName": "",
                 "directName": "Snapseed图片",
                 "directName_en": "Pics from Snapseed",
+                "directName_sk": "Obrázky zo Snapseed",
                 "state": "disable"
             },
             {
@@ -2162,6 +2192,7 @@
                 "subDirName": "",
                 "directName": "Twitter图片",
                 "directName_en": "Pics from Twitter",
+                "directName_sk": "Obrázky z Twitter",
                 "state": "disable"
             },
             {
@@ -2173,6 +2204,7 @@
                 "subDirName": "",
                 "directName": "Viber图片",
                 "directName_en": "Pics from Viber",
+                "directName_sk": "Obrázky z Viber",
                 "state": "disable"
             },
             {
@@ -2184,6 +2216,7 @@
                 "subDirName": "",
                 "directName": "Instagram图片",
                 "directName_en": "Pics from Instagram",
+                "directName_sk": "Obrázky z Instagram",
                 "state": "disable"
             },
             {
@@ -2195,6 +2228,7 @@
                 "subDirName": "",
                 "directName": "Messenger图片",
                 "directName_en": "Pics from Messenger",
+                "directName_sk": "Obrázky z Messenger",
                 "state": "disable"
             },
             {
@@ -2206,6 +2240,7 @@
                 "subDirName": "",
                 "directName": "Facebook图片",
                 "directName_en": "Pics from Facebook",
+                "directName_sk": "Obrázky z Facebook",
                 "state": "disable"
             },
             {
@@ -2316,6 +2351,7 @@
                 "subDirName": "",
                 "directName": "MIUI音乐",
                 "directName_en": "MIUI Musics",
+                "directName_sk": "MIUI Hudba",
                 "state": "enable"
             },
             {
@@ -2327,6 +2363,7 @@
                 "subDirName": "",
                 "directName": "MIUI音乐",
                 "directName_en": "MIUI Musics",
+                "directName_sk": "MIUI Hudba",
                 "state": "enable"
             },
             {
@@ -2393,6 +2430,7 @@
                 "subDirName": "",
                 "directName": "MIUI音乐",
                 "directName_en": "MIUI Musics",
+                "directName_sk": "MIUI Hudba",
                 "state": "enable"
             },
             {
