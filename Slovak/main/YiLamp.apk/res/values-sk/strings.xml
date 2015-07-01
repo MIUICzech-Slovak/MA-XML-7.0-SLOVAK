@@ -72,7 +72,7 @@ Svetlo sa vypne o %1$dmin"</string>
     <string name="night_time_from">Od %1$s</string>
     <string name="night_time_to">" Do %1$s"</string>
     <string name="night_light_disable">Zakázané</string>
-    <string name="night_light_sub_info">Ak je povolené Nočné svetlo, v stanovenom čase sa môžete dotknúť hornej plochy lampy a jas lampy bude upravený tak aby nedošlo k poškodeniu vaších očí.</string>
+    <string name="night_light_sub_info">Ak je povolené Nočné svetlo a zapnete lampu v stanovenom čase jas lampy bude upravený tak aby nedošlo k poškodeniu vaších očí.</string>
     <string name="fw_update">Aktualizácia firmware</string>
     <string name="fw_ota_progress">Aktualizácia firmware...</string>
     <string name="ota_success">Aktualizácia dokončená</string>
