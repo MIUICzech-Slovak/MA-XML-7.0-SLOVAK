@@ -349,7 +349,6 @@ Získali ste ďalších %1$s"</string>
   <string name="yes">Áno</string>
   <string name="archive_send_to">Odoslať do...</string>
   <string name="category_file">Súbory</string>
-  <string name="category_recent">Nedávne</string>
   <string name="decompress_destination_error">Rozbaľovanie zlyhalo. Nie je možné rozbaliť súbor do tohto adresára.</string>
   <string name="expand_all">Všetko</string>
   <string name="group_title">%2$s z %1$s</string>
