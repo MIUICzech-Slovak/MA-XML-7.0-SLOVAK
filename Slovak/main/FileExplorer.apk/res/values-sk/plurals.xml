@@ -49,4 +49,20 @@
         <item quantity="few">Vybrané: %1$d</item>
         <item quantity="many">Vybrané: %1$d</item>
     </plurals>
+	    <plurals name="items_file">
+        <item quantity="other"> (%1$d položiek)</item>
+        <item quantity="zero"> (%1$d položiek)</item>
+        <item quantity="one"> (%1$d položka)</item>
+        <item quantity="two"> (%1$d položky)</item>
+        <item quantity="few"> (%1$d položiek)</item>
+        <item quantity="many"> (%1$d položiek)</item>
+    </plurals>
+    <plurals name="items_picture">
+        <item quantity="other"> (%1$d položiek)</item>
+        <item quantity="zero"> (%1$d položiek)</item>
+        <item quantity="one"> (%1$d položka)</item>
+        <item quantity="two"> (%1$d položky)</item>
+        <item quantity="few"> (%1$d položiek)</item>
+        <item quantity="many"> (%1$d položiek)</item>
+    </plurals>
 </resources>
