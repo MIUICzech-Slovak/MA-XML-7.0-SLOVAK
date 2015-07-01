@@ -15,7 +15,7 @@
     <string name="welcome">Aplikáciu preložilo miuios.cz</string>
     <string name="login">Xiaomi účet</string>
     <string name="register">Registrovať sa</string>
-    <string name="discover_device">Vyhľadať Yi lampu</string>
+    <string name="discover_device">Vyhľadávanie Yi lampy</string>
     <string name="screen_all_light_offline">Yi lampa sa nenašla, skúste nasledovné:</string>
     <string name="no_device_found_title">Yi lampa sa nenašla</string>
     <string name="no_device_found_research">Vyhľadať</string>
@@ -70,9 +70,9 @@ Svetlo sa vypne o %1$dmin"</string>
     <string name="night_light_text_on">Zapnuté</string>
     <string name="night_light_text_off">Vypnuté</string>
     <string name="night_time_from">Od %1$s</string>
-    <string name="night_time_to">Do %1$s</string>
+    <string name="night_time_to">" Do %1$s"</string>
     <string name="night_light_disable">Zakázané</string>
-    <string name="night_light_sub_info">Ak je povolené Nočné svetlo, v stanovenom čase sa môžete dotknúť hornej plochy lampy a upraví sa jas tak aby nedošlo k poškodeniu vaších očí.</string>
+    <string name="night_light_sub_info">Ak je povolené Nočné svetlo, v stanovenom čase sa môžete dotknúť hornej plochy lampy a jas lampy bude upravený tak aby nedošlo k poškodeniu vaších očí.</string>
     <string name="fw_update">Aktualizácia firmware</string>
     <string name="fw_ota_progress">Aktualizácia firmware...</string>
     <string name="ota_success">Aktualizácia dokončená</string>

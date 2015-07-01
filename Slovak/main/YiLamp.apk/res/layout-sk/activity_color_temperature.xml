@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@drawable/bg_line" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/common_layout_header" />
+    <com.yeelight.cherry.widget.ColorTemperatureView android:id="@id/colorView" android:background="#1affffff" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="4.0" />
+    <TextView android:ellipsize="end" android:gravity="left|center" android:layout_gravity="center_horizontal" android:id="@id/mode_desc" android:paddingLeft="10.0dip" android:paddingTop="10.0dip" android:focusable="true" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_marginLeft="20.0dip" android:layout_marginRight="20.0dip" android:text="Yi lampa podporuje 16 miliónov farieb. Môžete si nastaviť vašu obľúbenú farbu a zvoliť stlačením tlačidla na lampe." android:lines="3" android:layout_weight="1.0" style="@style/text_style" />
+    <Button android:layout_gravity="center_horizontal" android:background="@drawable/radian_btn_bg" android:layout_marginBottom="55.0dip" android:text="Uložiť" android:onClick="saveScene" style="@style/radian_btn_style" />
+</LinearLayout>

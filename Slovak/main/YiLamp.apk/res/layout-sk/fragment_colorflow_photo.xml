@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.yeelight.cherry.widget.PhotoColorView android:id="@id/photocolorView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:layout_alignParentTop="true" android:layout_alignParentStart="true" />
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="30.0dip" android:layout_alignParentBottom="true">
+        <TextView android:textColor="@color/text_white" android:gravity="center" android:id="@id/photo_add" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Pridať" android:drawableTop="@drawable/photo_add_bg" android:drawablePadding="5.0dip" android:layout_weight="1.0" />
+        <TextView android:textColor="@color/text_white" android:gravity="center" android:id="@id/photo_pictures" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Galéria" android:drawableTop="@drawable/photo_pictures_bg" android:drawablePadding="5.0dip" android:layout_weight="1.0" />
+        <TextView android:textColor="@color/text_white" android:gravity="center" android:id="@id/photo_camera" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Fotoaparát" android:drawableTop="@drawable/photo_camera" android:drawablePadding="5.0dip" android:layout_weight="1.0" />
+        <TextView android:textColor="@color/text_white" android:gravity="center" android:id="@id/photo_del" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="Vymazať" android:drawableTop="@drawable/photo_delete_bg" android:drawablePadding="5.0dip" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

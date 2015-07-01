@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/common_setting_bg" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/common_layout_header" />
+    <RelativeLayout android:background="@color/common_content_bg" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/nightlight_layout" android:clickable="true" style="@style/setting_click_item_style">
+            <TextView android:id="@id/nightlight_status_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Nočné svetlo" style="@style/setting_text_style" />
+            <ImageView android:id="@id/nightlight_switch" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/setting_switch_off" android:scaleType="center" />
+        </LinearLayout>
+        <TextView android:layout_below="@id/nightlight_layout" style="@style/horizontal_line.padding" />
+        <TextView android:textSize="@dimen/setting_item_text_sub_size" android:layout_marginTop="5.0dip" android:text="@string/night_light_sub_info" android:layout_below="@id/nightlight_layout" android:lineSpacingMultiplier="1.1" android:alpha="0.5" style="@style/setting_click_item_style" />
+        <LinearLayout android:orientation="vertical" android:id="@id/night_light_time_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+            <TextView style="@style/horizontal_line" />
+            <com.yeelight.cherry.widget.AlarmTextView android:gravity="center" android:id="@id/time_from" android:background="@drawable/common_click_item_bg" android:layout_width="fill_parent" android:layout_height="@dimen/setting_item_height" android:text="123" />
+            <TextView style="@style/horizontal_line" />
+            <com.yeelight.cherry.widget.AlarmTextView android:gravity="center" android:id="@id/time_to" android:background="@drawable/common_click_item_bg" android:layout_width="fill_parent" android:layout_height="@dimen/setting_item_height" android:text="465" />
+            <TextView style="@style/horizontal_line" />
+            <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.yeelight.cherry.widget.TimePicker android:id="@id/timerPicker" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </RelativeLayout>
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>
