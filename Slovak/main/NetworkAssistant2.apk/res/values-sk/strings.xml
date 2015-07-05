@@ -89,7 +89,7 @@ For more info check the message you received from your service provider"</string
   <string name="deleted_apps">Vymazané Apl.</string>
   <string name="detail_app_button">Podrobnosti</string>
   <string name="dialog_app_roaming_message">Ak ste v medzinárodnom roamingu, iba aplikácie v zozname výnimiek majú prístup k dátovemu pripojeniu. %1$s nie je pridané do výnimiek. Zobraziť zoznam výnimiek?"</string>
-  <string name="dialog_app_roaming_title">"Medzinárodný roaming nie je povolený pre %1$s"</string>
+  <string name="dialog_app_roaming_title">"Roaming nie je povolený pre %1$s"</string>
   <string name="dialog_roaming_apps_sorted_title">Zoradiť podľa</string>
   <string name="dialog_roaming_message">Aplikácie v zozname výnimiek budú mať prístup k dátovému pripojeniu počas medzinárodného roamingu. Pridať túto aplikáciu do výnimiek?</string>
   <string name="dialog_roaming_title">Medzinárodný roaming</string>

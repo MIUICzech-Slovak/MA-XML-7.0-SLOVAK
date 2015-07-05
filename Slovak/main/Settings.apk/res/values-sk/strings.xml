@@ -3497,7 +3497,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="wifi_status">Stav</string>
   <string name="wifi_status_test">Stav Wi-Fi</string>
   <string name="wifi_stopping">Vypínanie Wi-Fi...</string>
-  <string name="wifi_subnet_mask">Subnet mask</string>
+  <string name="wifi_subnet_mask">Maska podsiete</string>
   <string name="wifi_suspend_efficiency_title">Zlepšiť výkonnosť</string>
   <string name="wifi_suspend_optimizations">Optimalizácia Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimalizovať spotrebu batérie pri zapnutej sieti Wi-Fi</string>
