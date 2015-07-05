@@ -406,13 +406,13 @@ Skontrolujte aj SPAM."</string>
   <string name="province">Provincia</string>
   <string name="pull_down_refresh">Potiahnutím nadol obnovíte</string>
   <string name="pull_up_refresh">Pustite pre obnovenie</string>
-  <string name="rc">Diaľkové ovládanie</string>
-  <string name="rc_name">Ďiaľkové ovládanie</string>
+  <string name="rc">Ovládanie</string>
+  <string name="rc_name">Ovládanie</string>
   <string name="refreshing">Obnovenie...</string>
   <string name="refreshing_no_point">Načítavanie...</string>
   <string name="refreshing_retry">Skúsiť znova?</string>
   <string name="release_to_refresh">Obnovenie...</string>
-  <string name="remote_controller_name">Ďiaľkové ovládanie</string>
+  <string name="remote_controller_name">Ovládanie</string>
   <string name="rename">Premenovať</string>
   <string name="rename_hint">Zadajte názov zariadenia</string>
   <string name="respond">Odpovedá</string>
