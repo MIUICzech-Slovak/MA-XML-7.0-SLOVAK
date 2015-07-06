@@ -87,4 +87,12 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
+  <string name="activate_popup_confirm_all_gateway_failed_query_info">Znova</string>
+  <string name="activate_popup_confirm_all_gateway_failed_send_sms">Znova</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">"Nie je možné rozpoznať vaše telefónne číslo. Uistite sa, že vaša SIM karta je aktivovaná.
+Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Nebolo možné odoslať aktivačnú SMS správu. Uistite sa, že vaša SIM karta je aktivovaná.
+Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
+  <string name="activate_popup_title_all_gateway_failed_send_sms">Nebolo možné odoslať aktivačnú SMS správu</string>
+  <string name="activate_popup_title_all_gateway_failed_query_info">Nie je možné rozpoznať telefónne číslo</string>
 </resources>

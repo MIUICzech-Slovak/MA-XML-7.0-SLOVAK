@@ -68,4 +68,10 @@
         <item>Často používané</item>
         <item>Názov</item>
     </string-array>
+    <string-array name="traffic_saving_compress_level_string_array">
+        <item>Žiadny</item>
+        <item>Nízky</item>
+        <item>Stredný</item>
+        <item>Vysoký</item>
+    </string-array>
 </resources>
