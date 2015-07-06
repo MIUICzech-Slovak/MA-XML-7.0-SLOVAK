@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cube_ptr_pull_down">Pull Down</string>
-    <string name="cube_ptr_pull_down_to_refresh">Pull Down to Refresh</string>
-    <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
-    <string name="cube_ptr_refreshing">Updating...</string>
-    <string name="cube_ptr_refresh_complete">Updated.</string>
-    <string name="cube_ptr_last_update">last update: </string>
-    <string name="cube_ptr_seconds_ago"> seconds ago</string>
-    <string name="cube_ptr_minutes_ago"> minutes ago</string>
-    <string name="cube_ptr_hours_ago"> hours ago</string>
+    <string name="cube_ptr_pull_down">Potiahnite nadol</string>
+    <string name="cube_ptr_pull_down_to_refresh">Potiahnite nadol pre aktualizáciu</string>
+    <string name="cube_ptr_release_to_refresh">Pustite pre aktualizáciu</string>
+    <string name="cube_ptr_refreshing">Aktualizácia...</string>
+    <string name="cube_ptr_refresh_complete">Aktualizované.</string>
+    <string name="cube_ptr_last_update">naposledy: </string>
+    <string name="cube_ptr_seconds_ago"> s</string>
+    <string name="cube_ptr_minutes_ago"> min</string>
+    <string name="cube_ptr_hours_ago"> h</string>
     <string name="app_name">XiaomiVip</string>
     <string name="level">Level</string>
     <string name="level_exp_value" formatted="false">%d/%d</string>
@@ -24,11 +24,11 @@
     <string name="task_start">Start</string>
     <string name="task_take_award">Get awards</string>
     <string name="query_user_tasks_fail">"Can't get task info"</string>
-    <string name="my_award">My awards</string>
+    <string name="my_award">Moje ocenenia</string>
     <string name="validity">Expires on %s</string>
     <string name="expired">Expired</string>
     <string name="award_time">Collected on %s</string>
-    <string name="no_award">No awards</string>
+    <string name="no_award">Žiadne</string>
     <string name="query_level_fail">"Couldn't get info"</string>
     <string name="award_taken">Points collected</string>
     <string name="task_begin">In progress…</string>
