@@ -322,7 +322,7 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="whitelist_prefix_add_hint">Pridať všetky čísla s predvoľbou do výnimiek</string>
   <string name="wl_no_whitelist">Žiadne čísla</string>
   <string name="quiet">Ticho</string>
-  <string name="quiet_important_interruptions_mode">Tichý režim</string>
+  <string name="quiet_important_interruptions_mode">Povoliť len výnimky</string>
   <string name="quiet_mode">Tichý režim</string>
   <string name="quiet_off_mode">Bežný režim</string>
   <string name="quiet_group">Tichý režim</string>
