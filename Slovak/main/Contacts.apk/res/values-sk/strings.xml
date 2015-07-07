@@ -554,7 +554,7 @@ Chyba: \"%s\""</string>
   <string name="menu_new_group_action_bar">Nová skupina</string>
   <string name="menu_not_redirect_calls_to_vm">Hlasová schránka sa nepoužíva</string>
   <string name="menu_redirect_calls_to_vm">Presmerovať do hlasovej schránky</string>
-  <string name="menu_removeStar">Odstrániť z obľúbených</string>
+  <string name="menu_removeStar">Obľúbený</string>
   <string name="menu_search">Hľadať</string>
   <string name="menu_select_all">Vybrať všetko</string>
   <string name="menu_select_none">Odznačiť všetko</string>
@@ -671,7 +671,7 @@ Synchronizujte ich teraz."</string>
   <string name="option_delete_group">Vymazať</string>
   <string name="option_edit_contact">Upraviť</string>
   <string name="option_not_in_group">Odobrať</string>
-  <string name="option_not_star">Obľúbené</string>
+  <string name="option_not_star">Odobrať z obľúbených</string>
   <string name="option_rename_group">Premenovať</string>
   <string name="option_send_to_desktop">Odoslať na plochu</string>
   <string name="option_send_to_others">Odoslať do ostatných</string>
