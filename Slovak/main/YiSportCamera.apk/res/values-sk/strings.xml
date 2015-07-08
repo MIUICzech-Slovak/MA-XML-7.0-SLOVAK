@@ -462,7 +462,7 @@ telefónu"</string>
   <string name="tvVideoDownload">Stiahnuť</string>
   <string name="tvVideoSetting">Nastavenie videa</string>
   <string name="tv_burst">Dávka</string>
-  <string name="tv_normal">Normálne</string>
+  <string name="tv_normal">Fotografie</string>
   <string name="tv_timelapes">Time Lapse</string>
   <string name="tv_timer">Samospúšť</string>
   <string name="tv_timing_off">vyp</string>
@@ -572,8 +572,8 @@ Vložte SD kartu a skúste to znova."</string>
   <string name="share_picture">Zdieľať fotografiu</string>
   <string name="share_to">Zdieľať na</string>
   <string name="sharing">Zdieľanie prebieha na pozadí...</string>
-  <string name="tv_normal_record">Normálne</string>
-  <string name="tv_record_photo">Nahrávka + foto</string>
+  <string name="tv_normal_record">Video</string>
+  <string name="tv_record_photo">Video + foto</string>
   <string name="tv_timlapse_record">Timelapse</string>
   <string name="understand">OK</string>
   <string name="upgrade_at_once">Aktualizovať</string>
@@ -584,4 +584,7 @@ Vložte SD kartu a skúste to znova."</string>
   <string name="upgrade_tips_on_version">Odporúčame aktualizovať na poslednú verziu.</string>
   <string name="wechatcollect">Wechat Collect</string>
   <string name="wifi_connect_failed_directly">Reštartujte váš telefón alebo skontrolujte nastavenie Wi-Fi pripojenia.</string>
+  <string name="firmware_upgrade_failed_put_file_failed">Aktualizácia zlyhala, skúste to znova.</string>
+  <string name="recording_frame_not_allowed">Time-lapse video nie je podporované v tomto rozlíšení</string>
+  <string name="recording_sound_not_allowed">Nahrávanie zvuku a time-lapse videa nie je podporované v tomto rozlíšení</string>
 </resources>
