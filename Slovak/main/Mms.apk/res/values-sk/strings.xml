@@ -34,7 +34,7 @@
   <string name="attach_slideshow">Prezentácia</string>
   <string name="attach_sound">Audio</string>
   <string name="attach_subject">Predmet</string>
-  <string name="attach_take_photo">Odfotiť obrázok</string>
+  <string name="attach_take_photo">Odfotiť</string>
   <string name="attach_video">Videá</string>
   <string name="audio_download_failed">sťahovanie nahrávky zlyhalo</string>
   <string name="back_to_message_list">Zoznam správ</string>
@@ -161,7 +161,6 @@
   <string name="festival_never_remind">Viac sa nepýtať</string>
   <string name="festival_sms_category_count_format">(%s)</string>
   <string name="festival_sms_loading">Načítavanie...</string>
-  <string name="fetion_prefix">[Otvoriť]</string>
   <string name="file_create_time">Vytvorené:</string>
   <string name="file_share_message_description">Zdieľam s Vami súbory</string>
   <string name="file_size">Veľkosť:</string>
@@ -391,8 +390,8 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="priority_normal">Stredná</string>
   <string name="privacy_mode_hint">V režime Hosť nemožno odoslať správu</string>
   <string name="private_message">Súkromné Správy</string>
-  <string name="private_new_notification">Notifikácia novej súkr. správy</string>
-  <string name="private_protect">Ochrana súkromia</string>
+  <string name="private_new_notification">Notifikácia novej správy</string>
+  <string name="private_protect">Heslo</string>
   <string name="private_settings">Nastavenie súkromia</string>
   <string name="processing">Prebieha...</string>
   <string name="prvate_contact">Súkromný kontakt</string>
@@ -453,7 +452,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="select_local_video">Vybrať video</string>
   <string name="select_recipient">Príjemca</string>
   <string name="select_top_text">Text hore</string>
-  <string name="send">Poslať</string>
+  <string name="send">Odoslať</string>
   <string name="send_hms_editor_hints">Cloudová správa</string>
   <string name="send_message_dlg_check_hint">Pamätať si nastavenie</string>
   <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
@@ -462,7 +461,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="send_message_notification_tickerText">Device Management permission request</string>
   <string name="send_message_notification_title">Správa zariadení</string>
   <string name="send_signature_confirm_dialog_message">Nezadali ste žiaden text. Naozaj chcete takto správu odoslať?</string>
-  <string name="send_signature_confirm_dialog_title">Poslať podpis</string>
+  <string name="send_signature_confirm_dialog_title">Odoslať podpis</string>
   <string name="send_sms">Odoslať</string>
   <string name="send_to">"Komu: "</string>
   <string name="send_to_count">Správy: %1$s</string>
@@ -478,9 +477,9 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="sim_card1">SIM Karta 1</string>
   <string name="sim_card2">SIM Karta 2</string>
   <string name="sim_card_cloud">%s (Cloudová správa)</string>
-  <string name="sim_copy_to_phone_memory">Kopírovať do pamäti telefónu</string>
+  <string name="sim_copy_to_phone_memory">Kopírovať do pamäte telefónu</string>
   <string name="sim_delete">Vymazať</string>
-  <string name="sim_empty">Žiadne uložené správy na SIM karte.</string>
+  <string name="sim_empty">Žiadne správy na SIM karte.</string>
   <string name="sim_full_body">Odstrániť niektoré správy, aby bol priestor pre ďalšie.</string>
   <string name="sim_full_title">SIM karta je plná</string>
   <string name="sim_manage_messages_title">SMS na SIM karte</string>
@@ -549,7 +548,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="too_many_unsent_mms">Nemožno odoslať správu hneď. Existuje príliš mnoho neodoslaných mms správ.</string>
   <string name="try_to_send">Pokúsiť sa odoslať</string>
   <string name="type_attachment">príloha</string>
-  <string name="type_audio">audio</string>
+  <string name="type_audio">zvuk</string>
   <string name="type_picture">obrázok</string>
   <string name="type_to_compose_text_enter_to_send">Sem napíšte správu</string>
   <string name="type_to_compose_text_or_leave_blank">Zadajte text alebo nechajte prázdne</string>
@@ -583,5 +582,5 @@ Pokus: %s."</string>
   <string name="cloud_state_disabled">Synchr. s MiCloud je vypnutá</string>
   <string name="cloud_state_sync_finished">Synchr. s MiCloud</string>
   <string name="cloud_state_syncing">Synchr. s MiCloud...</string>
-  <string name="mipub_messaging_entry_title">Mi Messages</string>
+  <string name="mipub_messaging_entry_title">MiSprávy</string>
 </resources>
