@@ -3620,4 +3620,10 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="normal_smartcover_title">Nepriehľadný predný kryt</string>
   <string name="smallwindow_smartcover_title">Priehľadný predný kryt</string>
   <string name="config_charging_function_name">charging</string>
+  <string name="background_location_control_summary">Povoliť alebo zakázať aplikáciam ktoré sú spustené na pozadí prístup k vašej polohe</string>
+  <string name="background_location_control_title">Prístup k polohe na pozadí</string>
+  <string name="background_location_deselect_apps">Odznačiť všetky</string>
+  <string name="background_location_requests_summary">Povoliť aplikáciam spusteným na pozadí prístup k vašej polohe.</string>
+  <string name="background_location_requests_title">Povoliť polohu na pozadí</string>
+  <string name="background_location_select_apps">Vybrať všetky</string>
 </resources>
