@@ -1529,4 +1529,8 @@ Ostáva: "</string>
      <string name="webviewchromium_profiler_stopped_toast">Profilovač bol dokončený. Výsledky nájdete v súbore %1$s.</string>
      <string name="webviewchromium_time_picker_dialog_title">Nastaviť čas</string>
      <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
+     <string name="location_usage_restricted_body">Povoliť</string>
+     <string name="location_usage_restricted_title">Poloha na pozadí zakázaná</string>
+     <string name="permdesc_manageLocationPolicy">Povoliť aplikáciam spravovať vašu polohu a nastaviť pravidlá pre jednotlivé apl.</string>
+     <string name="permlab_manageLocationPolicy">Spravovať podmienky polohy</string>
 </resources>
