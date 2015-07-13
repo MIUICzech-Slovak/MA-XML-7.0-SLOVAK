@@ -27,7 +27,7 @@
   <string name="lockscreen_access_pattern_detected">Vzor kompletný</string>
   <string name="lockscreen_access_pattern_start">Vzor začatý</string>
   <string name="memory_clear_nothing_result">Pamäť RAM je čistá</string>
-  <string name="memory_clear_result">"Uvoľnené: %1$s \nDostupné: %2$s"</string>
+  <string name="memory_clear_result">"Uvoľnené: %1$sB \nDostupné: %2$sB"</string>
   <string name="paste">Vložiť</string>
   <string name="perm_send_push_dspt">Povoliť MiPush správy</string>
   <string name="perm_send_push_lab">Odoslať push správu</string>
