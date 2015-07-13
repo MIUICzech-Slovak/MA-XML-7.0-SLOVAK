@@ -948,5 +948,18 @@ Delta update size: %2$s"</string>
   <string name="attachment_open_SecurityException_title">Otvorenie súboru zlyhalo</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="ser_resp_err_map_serclosed_url_tag">Ako to vyriešiť?</string>
-  <string name="unzip_file_failed">Rozbalenie súboru zlyahlo!</string>
+  <string name="unzip_file_failed">Rozbalenie súboru zlyhalo!</string>
+  <string name="contact_edit_set_black_list_from">Vymazať všetky správy od tohto odosielateľa</string>
+  <string name="contact_edit_set_black_list_receive">Vymazať všetky správy týchto prijímateľov (zvyčajne skupiny)</string>
+  <string name="contact_edit_set_black_list_receive_summary">Pre/Kópia obsahuje tohto prijímateľa</string>
+  <string name="push_wps_better_confirm_download">Stiahnuť</string>
+  <string name="push_wps_better_confirm_exit">Otvoriť inou aplikáciou</string>
+  <string name="push_wps_better_confirm_message">WPS Office má lepšiu podporu pre tento typ dokumentu v prílohe</string>
+  <string name="push_wps_better_confirm_noshow_hint">Viac nezobrazovať</string>
+  <string name="push_wps_better_confirm_title">WPS Office</string>
+  <string name="push_wps_confirm_cancel">Zrušiť</string>
+  <string name="push_wps_confirm_download">Stiahnuť</string>
+  <string name="push_wps_confirm_message">Žiadna nainštalovaná aplikácia nepodporuje tento typ súboru v prílohe, odporúčame vám nainštalovať WPS Office</string>
+  <string name="push_wps_confirm_title">WPS Office</string>
+  <string name="push_wps_no_response_app">Žiadna aplikácia</string>
 </resources>

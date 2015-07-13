@@ -280,4 +280,11 @@
   <string name="app_being_restored_message">Apl. bude obnovená</string>
   <string name="deselect_all">Odznačiť všetko</string>
   <string name="select_all">Všetko</string>
+  <string name="app_already_exist">Aplikácia už existuje</string>
+  <string name="gadget_power_clear_button_label">Super Čistič</string>
+  <string name="recommend_apps_default_title">Prázdne</string>
+  <string name="recommend_apps_notice">Odporúčané apl.</string>
+  <string name="recommend_apps_switch_summary">Zobraziť odporúčané aplikácie v dolnej časti displeja.</string>
+  <string name="recommend_apps_switch_title">Odporúčané apl.</string>
+  <string name="recommend_apps_tips">Táto funkcia vyžaduje internetové pripojenie pre jej správne fungovanie. Pre zakázanie funkcie sa dotknite názvu tejto zložky.</string>
 </resources>

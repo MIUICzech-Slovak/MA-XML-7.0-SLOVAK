@@ -261,8 +261,7 @@ spoločne!"</string>
   <string name="face_albumset_empty">Žiadna osoba nebola rozpoznaná</string>
   <string name="face_albumset_loading_data">Načítavanie...</string>
   <string name="face_albumset_pending_enable_tip">Fotografie sa usporiadajú až po pripojení na Wi-Fi</string>
-  <string name="face_albumset_use_tip">"Vyhľadať osoby na fotografiách,
-uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
+  <string name="face_albumset_use_tip">Automaticky triediť fotografie podľa ľudí na nich.</string>
   <string name="face_move_dialog_title">Vyberte album</string>
   <string name="facelift">Zosvetlenie tváre</string>
   <string name="facetan">Stmavenie tváre</string>
@@ -707,4 +706,6 @@ uľahčí vám to prezeranie a spravovanie vašich fotografií"</string>
   <string name="is">Je to %s?</string>
   <string name="recommanded_face_abandon_tip">Odobrané z doporučených</string>
   <string name="recommanded_face_added_tip">Pridané do \"%s\"</string>
+  <string name="download_without_wifi_msg">Použitie mobilných dát pre stiahnutie fotografií môže navýšiť vaše mesačné poplatky.</string>
+  <string name="download_without_wifi_title">Využitie mobilných dát</string>
 </resources>

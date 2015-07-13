@@ -1810,7 +1810,7 @@ Vyberte váš operačný systém:"</string>
   <string name="music_hifi_summary">Znížiť hlasitosť a skreslenie a zvýšiť tým kvalitu prehrávanej hudby. Táto funkcia zvýši spotrebu batérie.</string>
   <string name="music_hifi_title">Hi-Fi audio</string>
   <string name="music_hifi_volume">Hlasitosť Hi-Fi</string>
-  <string name="music_mi_effect_summary">Vždy použiť Dirac HD Sound pri použití reproduktorov</string>
+  <string name="music_mi_effect_summary">Vždy použiť Dirac HD Sound pri použití slúchadiel</string>
   <string name="music_mi_effect_title">Dirac HD Sound</string>
   <string name="music_title_dolby_control">DOLBY</string>
   <string name="musicfx_title">Hudobné efekty</string>

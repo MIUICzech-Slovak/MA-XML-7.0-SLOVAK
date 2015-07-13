@@ -326,4 +326,12 @@ Niekedy tieto čísla môžu byť užitočné. Blokujte len čísla z ktorých u
   <string name="quiet_mode">Tichý režim</string>
   <string name="quiet_off_mode">Bežný režim</string>
   <string name="quiet_group">Tichý režim</string>
+  <string name="mark_agent_time_setting">Blokovať čísla predajcov nahlásené viackrát</string>
+  <string name="mark_fraud_time_setting">Blokovať obťažujúce čísla nahlásené viackrát</string>
+  <string name="mark_harass_time_setting">Blokovať obťažujúce čísla nahlásené viackrát</string>
+  <string name="mark_sell_time_setting">Blokovať čísla predajcov nahlásené viackrát</string>
+  <string name="mark_time_setting_dialog_title">Nastavenie počtu nahlásení</string>
+  <string name="mark_time_text">%d</string>
+  <string name="repeated_marked_number_summary">Neblokovať druhý hovor v rozpätí 3 minút z rovnakého čisla</string>
+  <string name="repeated_marked_number_title">Neblokovať opakujúce sa nahlásené volania</string>
 </resources>
