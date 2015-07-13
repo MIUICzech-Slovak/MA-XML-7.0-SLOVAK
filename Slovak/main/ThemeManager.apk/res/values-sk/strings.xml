@@ -349,7 +349,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="wallpaper_set_as_destop">Tapeta plochy</string>
   <string name="wallpaper_set_as_lockscreen">Nastaviť ako zámok obrazovky</string>
   <string name="wallpaper_settings">Nastavenie tapety</string>
-  <string name="resource_network_diagnostics">&lt;u&gt;Diagnostika siete&lt;/u&gt;</string>
+  <string name="resource_network_diagnostics">Diagnostika siete</string>
   <string name="resource_search_color">Vyberte farbu témy</string>
   <string name="resource_search_color_hint_black">Čierna</string>
   <string name="resource_search_color_hint_blue">Modrá</string>
