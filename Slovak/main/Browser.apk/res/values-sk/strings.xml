@@ -851,7 +851,6 @@ Chcete odísť z tejto stránky?"</string>
   <string name="contextmenu_webpage_capture">Uložiť ako screenshot</string>
   <string name="contextmenu_webpage_html">Uložiť ako HTML súbor</string>
   <string name="contextmenu_webpage_snapshot">Uložiť stránku</string>
-  <string name="copy_to_clipboard_failure_message">Kopírovanie do schránky zlyhalo</string>
   <string name="find_new_version">Dostupná aktualizácia</string>
   <string name="find_on_page_hint">Zadajte hľadaný výraz</string>
   <string name="license_activity_title">System WebView licenses</string>
