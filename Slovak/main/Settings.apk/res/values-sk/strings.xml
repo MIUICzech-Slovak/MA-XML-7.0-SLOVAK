@@ -1772,7 +1772,6 @@ Vyberte váš operačný systém:"</string>
   <string name="music_dirac_mode_piston_2">Xiaomi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Základné</string>
   <string name="music_dirac_mode_piston_standard">Xiaomi Piston-3</string>
-  <string name="music_dirac_mode_piston_youth">Xiaomi Piston-1</string>
   <string name="music_dolby_dialogue_enhancer">Vylepšenie dialógov</string>
   <string name="music_dolby_effects">Dolby efekt</string>
   <string name="music_dolby_eq_enter_alert_msg">Ekvalizér je možné použiť len v režime Dolby. Chcete povoliť?</string>
@@ -3629,5 +3628,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="dndm_vip_user_setting_title">Zoznam výnimiek</string>
   <string name="miui_data_usage_menu_metered">Mobilné hot-spoty</string>
   <string name="music_dirac_mode_headset">Mi Slúchadlá</string>
-  <string name="music_dirac_mode_piston_youth">Youth Edícia</string>
+  <string name="music_dirac_mode_piston_youth">Xiaomi Youth</string>
 </resources>
