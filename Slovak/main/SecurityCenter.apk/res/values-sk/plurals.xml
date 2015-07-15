@@ -25,8 +25,8 @@
         <item quantity="one">"%d apl. sa nespustí automaticky</item>
     </plurals>
     <plurals name="hints_apps_perm_count">
-        <item quantity="other">%d oprávnení</item>
-        <item quantity="one">%d oprávnení</item>
+        <item quantity="other">Povolení: %d</item>
+        <item quantity="one">Povolení: %d</item>
     </plurals>
     <plurals name="hints_permission_apps_count">
         <item quantity="other">%d apl.</item>
