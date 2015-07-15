@@ -841,7 +841,7 @@ Chcete odísť z tejto stránky?"</string>
   <string name="abc_action_bar_up_description">Nahor</string>
   <string name="abc_action_menu_overflow_description">Viac</string>
   <string name="abc_action_mode_done">Hotovo</string>
-  <string name="action_menu_text_add_bookmark">Záložka</string>
+  <string name="action_menu_text_add_bookmark">Pridať záložku</string>
   <string name="action_menu_text_bookmark_added">Záložka pridaná</string>
   <string name="action_menu_text_copy_url">Kopírovať URL</string>
   <string name="action_menu_text_create_qr_code">QR kód</string>
