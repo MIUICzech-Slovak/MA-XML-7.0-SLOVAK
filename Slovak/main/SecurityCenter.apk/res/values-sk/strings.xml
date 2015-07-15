@@ -506,7 +506,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="power_mode_internet">2G/3G</string>
   <string name="power_mode_keep_state">Nemeniť</string>
   <string name="power_mode_my_mode">Môj režim</string>
-  <string name="power_mode_my_mode_summary">Automaticky uložiť stav denného používania</string>
+  <string name="power_mode_my_mode_summary">Automaticky uložený stav denného používania</string>
   <string name="power_mode_screen_brightness">Jas</string>
   <string name="power_mode_screen_brightness_automatic">Automatický: %1$d%%</string>
   <string name="power_mode_screen_brightness_manual">Manuálny: %1$d%%</string>
