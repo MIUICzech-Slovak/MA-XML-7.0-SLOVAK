@@ -495,7 +495,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="power_mode_bluetooth">Bluetooth</string>
   <string name="power_mode_choose_summary_change">Niečo sa zmenilo v nastaveniach</string>
   <string name="power_mode_chooser_button_text">Použiť</string>
-  <string name="power_mode_cpu_state">Spotreba CPU</string>
+  <string name="power_mode_cpu_state">Výkon CPU</string>
   <string name="power_mode_cpu_state_balance">Vyvážený</string>
   <string name="power_mode_cpu_state_balance_desc">Zvýšiť výkon CPU len ak sa to vyžaduje</string>
   <string name="power_mode_cpu_state_performance">Výkonný</string>
