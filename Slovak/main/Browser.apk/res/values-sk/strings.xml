@@ -17,9 +17,9 @@
   <string name="account">Účet</string>
   <string name="account_prifix">Účet:</string>
   <string name="action">Prihlásiť</string>
-  <string name="action_menu_text_bandwidth">Šírka pásma</string>
-  <string name="action_menu_text_bandwidth_off">Šírka pásma/Vyp</string>
-  <string name="action_menu_text_bandwidth_on">Šírka pásma/Zap</string>
+  <string name="action_menu_text_bandwidth">Úspora dát</string>
+  <string name="action_menu_text_bandwidth_off">Úspora dát vyp.</string>
+  <string name="action_menu_text_bandwidth_on">Úspora dát zap.</string>
   <string name="action_menu_text_bookmark">Pridať záložku</string>
   <string name="action_menu_text_exit">Ukončiť</string>
   <string name="action_menu_text_fullscreen">Celá obrazovka</string>
