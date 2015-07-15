@@ -162,8 +162,8 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
-  <string name="download">Stiahnuté</string>
-  <string name="downloaded_empty">Prázdne</string>
-  <string name="downloading_empty">Prázdne</string>
+  <string name="download">Sťahovanie</string>
+  <string name="downloaded_empty">Žiadne</string>
+  <string name="downloading_empty">Žiadne</string>
   <string name="show_more">Viac (%s)</string>
 </resources>
