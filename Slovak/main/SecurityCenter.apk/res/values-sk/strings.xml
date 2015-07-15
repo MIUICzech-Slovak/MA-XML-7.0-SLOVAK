@@ -12,7 +12,7 @@
   <string name="activity_title_antivirus">AntiVírus</string>
   <string name="activity_title_apk">Balíčky</string>
   <string name="activity_title_apps_manager">Aplikácie</string>
-  <string name="activity_title_auto_start_manager">Správa Auto. spustenia</string>
+  <string name="activity_title_auto_start_manager">Správa autom. spustenia</string>
   <string name="activity_title_cache">Cache</string>
   <string name="activity_title_cache_data">Cache dát</string>
   <string name="activity_title_create_shortcut">Odkaz</string>
