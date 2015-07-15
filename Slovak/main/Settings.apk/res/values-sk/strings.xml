@@ -3629,4 +3629,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="miui_data_usage_menu_metered">Mobilné hot-spoty</string>
   <string name="music_dirac_mode_headset">Mi Slúchadlá</string>
   <string name="music_dirac_mode_piston_youth">Xiaomi Youth</string>
+  <string name="max_cpu6_info">"6 jadier "</string>
+  <string name="max_cpu8_info">"8 jadier "</string>
 </resources>
