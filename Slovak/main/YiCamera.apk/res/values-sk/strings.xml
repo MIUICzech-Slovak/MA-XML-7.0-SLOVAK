@@ -866,7 +866,6 @@ a čakajte na jeho načítanie"</string>
   <string name="alert_refresh_loading">Načítavanie...</string>
   <string name="alert_show">Dynamický alarm</string>
   <string name="alert_video">Video alarm</string>
-  <string name="button_voice_yes">Počul som hlasové upozornenie</string>
   <string name="camera_motion_detect_des">Len ak je zmena na zábere. Ušetriť tak miesto na SD karte.</string>
   <string name="camera_not_connection">Kamera je offline. Skontrolujte Wi-Fi pripojenie a napájanie kamery.</string>
   <string name="camera_reverse_des">Prevrátiť obraz kamery</string>
@@ -875,10 +874,10 @@ a čakajte na jeho načítanie"</string>
   <string name="camera_setting_alarm_tip">Upozorniť ak sa zmení niečo na zábere</string>
   <string name="camera_setting_camera_name">Názov kamery</string>
   <string name="camera_setting_firmware_version">Verzia FW</string>
-  <string name="camera_setting_foundation">Foundation</string>
+  <string name="camera_setting_foundation">Kamera</string>
   <string name="camera_setting_motion_detect">Záznam detekcie pohybu</string>
   <string name="camera_setting_reverse">Prevrátiť</string>
-  <string name="camera_setting_stats_light">Stavové svetlo</string>
+  <string name="camera_setting_stats_light">Stavová LED</string>
   <string name="camera_setting_storage_set">Úložisko</string>
   <string name="camera_setting_storage_situation">Stav SD karty</string>
   <string name="change_5Gwifi_hint">Momentálne nie je podporovaná 5GHz Wi-Fi pripojenie, použite 2.4GHz Wi-Fi sieť.</string>
@@ -888,7 +887,7 @@ a čakajte na jeho načítanie"</string>
   <string name="click_show_log">Zobraziť záznam</string>
   <string name="connection_reset_camera">Resetovať kameru</string>
   <string name="connection_router">Pripojenie na Router</string>
-  <string name="current_is_latest_version">The current is the latest version</string>
+  <string name="current_is_latest_version">Najnovšia verzia</string>
   <string name="device_not_exist">Zariadenie neexistuje</string>
   <string name="failure_load_video">Sťahovanie videa zlyhalo, skúste to znova.</string>
   <string name="format_success_wait_restart">Formátovanie je dokončené, počkajte kým sa kamera reštartuje.</string>
@@ -900,7 +899,6 @@ a čakajte na jeho načítanie"</string>
   <string name="no_server_network">Nie je možné pripojiť sa na server</string>
   <string name="no_wifi_network">Sieť je nedostupná, skúste to neskôr</string>
   <string name="not_support">Nie je podporované</string>
-  <string name="refresh">Obnoviť</string>
   <string name="reset_success">Reset dokončený</string>
   <string name="sdcard_format">Formátovať SD kartu</string>
   <string name="sdcard_format_fail">Nepodporovaný formát SD karty, vymeňte SD kartu.</string>
