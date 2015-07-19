@@ -637,10 +637,9 @@
   <string name="network_settings_forbidden">%s (zakázané)</string>
   <string name="network_settings_information">Informácia</string>
   <string name="network_settings_next">Ďalej</string>
-  <string name="network_settings_query_failed_message">Network query failed. Touch Cancel to use your preferred network or touch OK to retry.</string>
+  <string name="network_settings_query_failed_message">Žiadna sieť sa nenašla.</string>
   <string name="network_settings_sel_sub">Select Subscription</string>
-  <string name="network_settings_select_automatic_hint">"Can't register to the network you selected.
-Will use preferred network instead."</string>
+  <string name="network_settings_select_automatic_hint">Nebolo možné sa prihlásiť k vybranej sieti</string>
   <string name="network_settings_turn_off">Vypnúť</string>
   <string name="network_settings_warn_message">Použiť iba sieť manuálne vybranú.</string>
   <string name="network_unlock">Odblokovať</string>
