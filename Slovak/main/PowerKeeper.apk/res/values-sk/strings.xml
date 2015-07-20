@@ -12,7 +12,7 @@
     <string name="no_applications">Žiadne</string>
     <string name="add_applications">Vybrať aplikácie</string>
     <string name="add_apps_title">Aplikácie</string>
-    <string name="select_items">Vybraných: %d</string>
+    <string name="select_items">Vybrané: %d</string>
     <string name="settings_safetylegal_activity_loading">Načítavanie...</string>
     <string name="power_chooser_user_define_title">Nový režim</string>
     <string name="power_event_user_define_title">Žiadne úlohy</string>
@@ -109,9 +109,9 @@
     <string name="mode_settings">Nastavenia</string>
     <string name="power_hide_mode_title">Spravovať spotrebu batérie apl.</string>
     <string name="power_hide_mode_summary">Zakázať aplikáciam prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
-    <string name="low_power_auto_title">Ak je batéria menej ako 20%</string>
-    <string name="power_hide_mode_app_list_title">Vyberte aplikácie</string>
-    <string name="power_hide_mode_app_list_summary">Nastavenie apl.</string>
-    <string name="power_hide_mode_app_list_total">Aplikácií: %d</string>
+    <string name="low_power_auto_title">Ak má batéria menej ako 20%</string>
+    <string name="power_hide_mode_app_list_title">Vybrané aplikácie</string>
+    <string name="power_hide_mode_app_list_summary">Nastavenie aplikácií</string>
+    <string name="power_hide_mode_app_list_total">Aplikácie: %d</string>
     <string name="power_hide_mode_alert_message">Vybrané aplikácie nebudú mať prístup k Wi-Fi, mobilnému pripojeniu, GPS a nemusia pracovať správne.</string>
 </resources>
