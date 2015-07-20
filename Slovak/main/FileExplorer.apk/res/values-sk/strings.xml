@@ -357,10 +357,12 @@ Získali ste ďalších %1$s"</string>
   <string name="sdcard_available">Dostupné %1$s</string>
   <string name="sdcard_total">Celkovo %1$s</string>
   <string name="tab_more">Viac</string>
-  <string name="tab_source">APLIKÁCIE</string>
-  <string name="tab_storage">ÚLOŽISKO</string>
+  <string name="tab_source">Aplikácie</string>
+  <string name="tab_storage">Úložisko</string>
   <string name="title_more_source">Viac aplikácií</string>
   <string name="title_recent">Nedávne</string>
   <string name="wechat_video">Video v %s</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
+  <string name="operation_add_fav">Pridávanie do obľúbených...</string>
+  <string name="operation_del_fav">Odoberanie z obľúbených...</string>
 </resources>

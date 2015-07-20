@@ -287,4 +287,7 @@
   <string name="recommend_apps_switch_summary">Zobraziť odporúčané aplikácie v dolnej časti displeja.</string>
   <string name="recommend_apps_switch_title">Odporúčané apl.</string>
   <string name="recommend_apps_tips">Táto funkcia vyžaduje internetové pripojenie pre jej správne fungovanie. Pre zakázanie funkcie sa dotknite názvu tejto zložky.</string>
+  <string name="choose_theme">Téma</string>
+  <string name="default_theme_name">Predvolená</string>
+  <string name="wallpaper_settings_for_pad">Tapeta</string>
 </resources>

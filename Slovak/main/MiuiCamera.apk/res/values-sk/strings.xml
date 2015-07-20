@@ -603,4 +603,7 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
+  <string name="confirm_recording_fail_calling_alert">Počas hovoru nie je možné nahávať video.</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Iná aplikácia využíva mikrofón. Ukončite ju a skúste to znova.</string>
+  <string name="confirm_recording_fail_title">Chyba nahrávania</string>
 </resources>

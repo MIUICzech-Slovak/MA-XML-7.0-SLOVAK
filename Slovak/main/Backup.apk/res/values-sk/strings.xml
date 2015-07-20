@@ -149,7 +149,7 @@
   <string name="select_all">Vybrať všetko</string>
   <string name="select_backup_item">Zvoľte zálohu</string>
   <string name="service_stoped">Služba sa zastavila</string>
-  <string name="settings_summary">Dáta: telefón a nastavenie SMS</string>
+  <string name="settings_summary">Telefón a nastavenie SMS</string>
   <string name="sms_title">SMS</string>
   <string name="software_backup_info">Zálohovať aplikácie a ich dáta</string>
   <string name="start_backup">Spustiť zálohu</string>
@@ -226,4 +226,5 @@
   <string name="summary_err_restore_no_network">Nebolo možné sa pripojiť k sieti</string>
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
+  <string name="camera_summary">Nastavenie Fotoaparátu (nezálohuje fotografie)</string>
 </resources>

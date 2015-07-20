@@ -460,7 +460,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_wrong_vcode">Zadaný kód nie je správny</string>
   <string name="passport_xiaomi_account_dspt">Prihláste sa do MiCloud, Obchodu s témami a mnoho iných služieb Xiaomi s jednym účtom.</string>
   <string name="passport_xiaomi_account_sec_dspt"/>
-  <string name="passport_xiaomi_account_sec_dspt2"/>
+  <string name="passport_xiaomi_account_sec_dspt2">Pre prihlásenie sa k vášmu Xiaomi účtu je nutné internetové pripojenie, vyhľadať vaše zariadenie a povoliť MiCloud.</string>
   <string name="password">Zadajte heslo</string>
   <string name="payment_settings">Nastavenie platby</string>
   <string name="phone_activated">%s aktivované</string>
@@ -570,7 +570,7 @@ s "</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
   <string name="exceed_binded_phone_times_notice">Toto telefónne číslo je prepojené s viacerými Xiaomi účtami. Nie je možné pridať ďalší účet.</string>
-  <string name="account_vip_level">Vip level</string>
-  <string name="account_vip_task">Úloha</string>
+  <string name="account_vip_level">Účet</string>
+  <string name="account_vip_task">Postup</string>
   <string name="mi_pass">MiPass</string>
 </resources>

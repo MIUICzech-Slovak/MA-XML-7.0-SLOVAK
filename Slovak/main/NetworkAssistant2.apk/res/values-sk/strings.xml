@@ -546,4 +546,20 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_recommanded_open">Zapnúť</string>
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automaticky aktivovať úsporu mobilných dát.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;ak máte mesačný objem predplatených mobilných dát, deaktivujte úsporu mobilných dát pre jednotlivé aplikácie pre zníženie objemu prenesených dát.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aktivovať</string>
+  <string name="daily_limit_and_lock_screen">Denná spotreba dát a upozornenia</string>
+  <string name="lock_screen_warning_category">Upozornenie na zamykacej obrazovke</string>
+  <string name="lock_screen_warning_switch_summary">Zobraziť upozornenie na zamykacej obrazovke ak spotreba dát prekročí stanovenú hranicu</string>
+  <string name="lock_screen_warning_switch_title">Upozornenie na zamykacej obrazovke</string>
+  <string name="lock_screen_warning_value">Varovná hodnota spotreby dát</string>
+  <string name="network_speed_for_apps_close">Ukončiť</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Ukončiť túto aplikáciu?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">Systémovú aplikáciu nie je možné ukončiť.</string>
+  <string name="network_speed_for_apps_others">Ostatné</string>
+  <string name="network_speed_for_apps_title">Podrobnosti o rýchlosti pripojenia</string>
+  <string name="network_speed_for_apps_total">Rýchlosť pripojenia</string>
+  <string name="operator_setted_error_dialog_message">SIM ktorú používate je z %1$s. Táto poloha sa líši od nastavenej polohy (%2$s). Zmeniť polohu SIM karty na %3$s?"</string>
+  <string name="operator_setted_error_notify_message">Dotykom zmeníte polohu SIM.</string>
+  <string name="operator_setted_error_notify_title">Chyba SIM karty</string>
+  <string name="pref_roaming_setting_gategory">Dátový roaming</string>
+  <string name="traffic_saving_can_optimized">Optimalizovať</string>
 </resources>
