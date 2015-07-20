@@ -216,7 +216,7 @@
   <string name="create_upload_success">Informácie odoslané!</string>
   <string name="current_is_the_newest_version">Už máte najnovšiu verziu!</string>
   <string name="current_version_no">Súčasná verzia</string>
-  <string name="custom_alarm">Upraviť upozornenie</string>
+  <string name="custom_alarm">Upraviť čas</string>
   <string name="data_load_failed">Chyba</string>
   <string name="data_loading">Načítavanie...</string>
   <string name="data_not_receiver">Nie je možné prijať dáta</string>
