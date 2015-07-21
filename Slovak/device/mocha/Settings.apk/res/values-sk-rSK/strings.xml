@@ -3318,7 +3318,6 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="button_ok">OK</string>
   <string name="button_return">Späť</string>
   <string name="call_title">Zoznam hovorov</string>
-  <string name="cancel">Zrušiť</string>
   <string name="cancel_backup">Zrušiť zálohovanie</string>
   <string name="cancel_restore">Zrušiť obnovu</string>
   <string name="cloud_app_name">Záloha do MiCloud</string>
@@ -3341,7 +3340,6 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="data_no_enough_space">K dispozícii nie je dostatok miesta, uvoľníte miesto a skúste to znova</string>
   <string name="data_no_enough_space_message">Obnovenie môže zlyhať, uvoľnite miesto vo vnútornej pamäti a akciu opakujte</string>
   <string name="date_format">yyyy MM dd HH:mm:ss</string>
-  <string name="delete">Vymazať</string>
   <string name="delete_backup_process">Vymazávam zálohu, čakajte prosím...</string>
   <string name="delete_failed_backup_confirm">Táto záloha je poškodená a nedá sa z nej obnoviť</string>
   <string name="deselect_all">Odznačiť všetko</string>
@@ -3402,7 +3400,6 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="restore_progress">Obnovujem..</string>
   <string name="restore_report">Záznam z obnovy</string>
   <string name="restore_telephony_hit">(Poznámka: Proces obnovy systému bude potrebovať reštart telefónu)</string>
-  <string name="retry">Opakovať</string>
   <string name="reverse_all">Odznačiť všetko</string>
   <string name="sc_bad_request">Nesprávna požiadavka</string>
   <string name="sc_internal_server_error">Vnútorná chyba serveru</string>
@@ -3417,7 +3414,6 @@ Nastavenie zariadenia môže vyžadovať prenos významného množstva dát."</s
   <string name="sdcard_no_enough_space">Nedostatok miesta na SD karte</string>
   <string name="sdcard_no_enough_space_message">Zálohovanie môže byť neúspešné, uvoľnite miesto na SD karte a skúste to znova</string>
   <string name="sdcard_unmounted">SD karta nenájdená alebo odpojená!</string>
-  <string name="select_all">Vybrať všetko</string>
   <string name="select_backup_item">Zvoľte zálohu</string>
   <string name="service_stoped">Služba sa zastavila</string>
   <string name="settings_summary">Telefón a nastavenie SMS</string>
