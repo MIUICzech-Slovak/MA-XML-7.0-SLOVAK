@@ -334,4 +334,5 @@
   <string name="atmd_copyright_info">Online obsah poskytuje Ultimate Inc.</string>
   <string name="atmd_mail"/>
   <string name="atmd_tel"/>
+  <string name="not_vip">Prepáčte, nie ste VIP užívateľ.</string>
 </resources>
