@@ -320,4 +320,6 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
+  <string name="event_info_reminders_label_1">Upozornenie</string>
+  <string name="event_info_reminders_label_more">Upozornenie %d</string>
 </resources>

@@ -708,4 +708,9 @@ spoločne!"</string>
   <string name="recommanded_face_added_tip">Pridané do \"%s\"</string>
   <string name="download_without_wifi_msg">Použitie mobilných dát pre stiahnutie fotografií môže navýšiť vaše mesačné poplatky.</string>
   <string name="download_without_wifi_title">Využitie mobilných dát</string>
+  <string name="cloud_gallery_space_full_buy_more">Nie je možné synchronizovať nové fotografie do MiCloud. Pre synchronizáciu ďalších fotografií si zakúpte dodatočné miesto na úložisku.</string>
+  <string name="cloud_gallery_space_full_title">MiCloud je plný</string>
+  <string name="face_album_new_name_hint">Nový názov</string>
+  <string name="face_choose_tip">Vybrať z existujúceho albumu</string>
+  <string name="upgrade_micloud_space">Získať viac miesta</string>
 </resources>

@@ -95,4 +95,7 @@ Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
 Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">Nebolo možné odoslať aktivačnú SMS správu</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">Nie je možné rozpoznať telefónne číslo</string>
+  <string name="activate_feature_mx_and_voip">MiSprávy</string>
+  <string name="activate_popup_desc_voip_privacy">Ochrane súkromia</string>
+  <string name="activate_popup_desc_voip_privacy_prefix">". MIUI VOIP je poskytované weihui, prečítajte si o "</string>
 </resources>
