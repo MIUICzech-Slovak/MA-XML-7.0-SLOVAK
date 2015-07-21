@@ -586,6 +586,6 @@ Pokus: %s."</string>
   <string name="security_alert_desc_highlight">Nahlásiť toto číslo</string>
   <string name="mx_activate_dlg_title_ex">Aktivovať MiSprávy</string>
   <string name="mx_dspt_provision_ex">Odosielajte MiSprávy ostatným používateľom MIUI bez akýchkoľvek poplatkov.</string>
-  <string name="mx_dspt_provision_ex2">Pchrana súkromia</string>
+  <string name="mx_dspt_provision_ex2">Ochrana súkromia</string>
   <string name="mx_enable_ex">MiSprávy</string>
 </resources>
