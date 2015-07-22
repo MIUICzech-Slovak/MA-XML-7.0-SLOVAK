@@ -962,4 +962,9 @@ Delta update size: %2$s"</string>
   <string name="push_wps_confirm_message">Žiadna nainštalovaná aplikácia nepodporuje tento typ súboru v prílohe, odporúčame vám nainštalovať WPS Office</string>
   <string name="push_wps_confirm_title">WPS Office</string>
   <string name="push_wps_no_response_app">Žiadna aplikácia</string>
+  <string name="contextmenu_call">Hovor</string>
+  <string name="contextmenu_open">Otvoriť</string>
+  <string name="copied">Skopírované</string>
+  <string name="download_message_failed_for_too_large">Správa je príliš veľká na stiahnutie.</string>
+  <string name="print">Tlačiť</string>
 </resources>

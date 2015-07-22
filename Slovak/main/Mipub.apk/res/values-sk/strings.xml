@@ -225,4 +225,13 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
+  <string name="check_network">Nastavenie siete</string>
+  <string name="current_service_number">Nastavené číslo služby</string>
+  <string name="empty_mipub_list">Prázdne</string>
+  <string name="followed_accounts">Sledované účty</string>
+  <string name="menu_more_service">Viac</string>
+  <string name="mipub_message_block">Blokovať správy z %s</string>
+  <string name="mipub_message_block_already">Už je blokované</string>
+  <string name="mipub_message_receive">Odblokovať %s</string>
+  <string name="try_again">Znova</string>
 </resources>
