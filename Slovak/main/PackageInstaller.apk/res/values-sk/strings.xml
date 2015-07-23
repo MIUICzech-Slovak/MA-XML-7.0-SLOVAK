@@ -105,4 +105,9 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="virus_scan_install">" "Pokračovať" "</string>
   <string name="virus_scan_is_risk">Táto aplikácia je podozrivá!</string>
   <string name="virus_scan_is_virus">Táto aplikácia je VÍRUS!</string>
+  <string name="app_store_install_hint">Inštalovať</string>
+  <string name="app_store_installing_message">Inštalácia Xiaomi AppStore</string>
+  <string name="app_store_missing_message">Xiaomi AppStore nie je nainštalovaný na tomto zariadení.</string>
+  <string name="app_store_missing_title">Chýba Xiaomi AppStore</string>
+  <string name="reboot_time">Zariadenie bude reštartované...(%1$s)</string>
 </resources>

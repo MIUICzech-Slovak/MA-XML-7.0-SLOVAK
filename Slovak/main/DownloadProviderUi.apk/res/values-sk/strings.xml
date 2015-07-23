@@ -166,4 +166,9 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="downloaded_empty">Žiadne</string>
   <string name="downloading_empty">Žiadne</string>
   <string name="show_more">Viac (%s)</string>
+  <string name="DOWNLOAD_UNIT_BIT">B</string>
+  <string name="DOWNLOAD_UNIT_GB">GB</string>
+  <string name="DOWNLOAD_UNIT_KB">KB</string>
+  <string name="DOWNLOAD_UNIT_MB">MB</string>
+  <string name="DOWNLOAD_UNIT_TB">TB</string>
 </resources>
