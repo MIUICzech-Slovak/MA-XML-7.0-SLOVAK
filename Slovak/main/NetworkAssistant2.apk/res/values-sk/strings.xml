@@ -562,4 +562,5 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="operator_setted_error_notify_title">Chyba SIM karty</string>
   <string name="pref_roaming_setting_gategory">Dátový roaming</string>
   <string name="traffic_saving_can_optimized">Optimalizovať</string>
+  <string name="pref_title_diagnostics_show_float_notification">Plávajúce upozornenia</string>
 </resources>
