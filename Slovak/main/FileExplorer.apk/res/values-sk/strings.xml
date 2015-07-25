@@ -365,4 +365,9 @@ Získali ste ďalších %1$s"</string>
   <string name="year_month_day_format">dd MMM, yyyy</string>
   <string name="operation_add_fav">Pridávanie do obľúbených...</string>
   <string name="operation_del_fav">Odoberanie z obľúbených...</string>
+  <string name="file_name_invalid">"Názov súboru nesmie obsahovať tieto znaky: /\\:*?&lt;&gt;"</string>
+  <string name="folder_name_empty">Názov zložky nesmie byť prázdny</string>
+  <string name="name_empty">Musíte zadať názov.</string>
+  <string name="port_range">Port musí byť medzi 1024–65535</string>
+  <string name="rename_alert">Ak zmeníte príponu tohto súboru, nebudete môcť ho otvoriť.</string>
 </resources>
