@@ -368,7 +368,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="miui_content_web_search">Hľadať</string>
   <string name="miui_quicksearch_enable_pref_summary">Rýchle vyhľadávanie v oznamovacej lište</string>
   <string name="miui_quicksearch_enable_pref_title">Vyhľadávanie v lište</string>
-  <string name="miui_search_notification_message">Otvoriť rýchle vyhľadanie na internete</string>
+  <string name="miui_search_notification_message">Vyhľadať na internete</string>
   <string name="miui_search_notification_title">Rýchle vyhľadanie</string>
   <string name="miuichromium_error_page_diagnostic">Diagnostika siete</string>
   <string name="miuichromium_error_page_mobile">Mobilná sieť</string>
