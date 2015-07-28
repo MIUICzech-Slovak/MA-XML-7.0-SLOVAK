@@ -65,4 +65,68 @@
         <item quantity="few"> (%1$d položiek)</item>
         <item quantity="many"> (%1$d položiek)</item>
     </plurals>
+    <plurals name="search_head_hint_app">
+        <item quantity="other">Súbory (%2$d) apl. %1$s</item>
+        <item quantity="zero">Súbory (%2$d) apl. %1$s</item>
+        <item quantity="one">Súbory (%2$d) apl. %1$s</item>
+        <item quantity="two">Súbory (%2$d) apl. %1$s</item>
+        <item quantity="few">Súbory (%2$d) apl. %1$s</item>
+        <item quantity="many">Súbory (%2$d) apl. %1$s</item>
+    </plurals>
+    <plurals name="search_head_hint_file">
+        <item quantity="other">Súbory %1$s (%2$d)</item>
+        <item quantity="zero">Súbory %1$s (%2$d)</item>
+        <item quantity="one">Súbory %1$s (%2$d)</item>
+        <item quantity="two">Súbory %1$s (%2$d)</item>
+        <item quantity="few">Súbory %1$s (%2$d)</item>
+        <item quantity="many">Súbory %1$s (%2$d)</item>
+    </plurals>
+    <plurals name="search_head_hint_tag">
+        <item quantity="other">Súbory %1$s (%2$d)</item>
+        <item quantity="zero">Súbory %1$s (%2$d)</item>
+        <item quantity="one">Súbory %1$s (%2$d)</item>
+        <item quantity="two">Súbory %1$s (%2$d)</item>
+        <item quantity="few">Súbory %1$s (%2$d)</item>
+        <item quantity="many">Súbory %1$s (%2$d)</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">Pred %1$dmin</item>
+        <item quantity="zero">Pred %1$dmin</item>
+        <item quantity="one">Pred %1$dmin</item>
+        <item quantity="two">Pred %1$dmin</item>
+        <item quantity="few">Pred %1$dmin</item>
+        <item quantity="many">Pred %1$dmin</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">Pred %1$dh</item>
+        <item quantity="zero">Pred %1$dh</item>
+        <item quantity="one">Pred %1$dh</item>
+        <item quantity="two">Pred %1$dh</item>
+        <item quantity="few">Pred %1$dh</item>
+        <item quantity="many">Pred %1$dh</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">Pred %1$dd</item>
+        <item quantity="zero">Pred %1$dd</item>
+        <item quantity="one">Pred %1$dd</item>
+        <item quantity="two">Pred %1$dd</item>
+        <item quantity="few">Pred %1$dd</item>
+        <item quantity="many">Pred %1$dd</item>
+    </plurals>
+    <plurals name="found_new_files">
+        <item quantity="other">Nájdené nová súbory: %1$d</item>
+        <item quantity="zero">Nájdené nová súbory: %1$d</item>
+        <item quantity="one">Nájdené nová súbory: %1$d</item>
+        <item quantity="two">Nájdené nová súbory: %1$d</item>
+        <item quantity="few">Nájdené nová súbory: %1$d</item>
+        <item quantity="many">Nájdené nová súbory: %1$d</item>
+    </plurals>
+    <plurals name="file_notify_title">
+        <item quantity="other">Prijaté súbory (%1$d) apl. %2$s</item>
+        <item quantity="zero">Prijaté súbory (%1$d) apl. %2$s</item>
+        <item quantity="one">Prijaté súbory (%1$d) apl. %2$s</item>
+        <item quantity="two">Prijaté súbory (%1$d) apl. %2$s</item>
+        <item quantity="few">Prijaté súbory (%1$d) apl. %2$s</item>
+        <item quantity="many">Prijaté súbory (%1$d) apl. %2$s</item>
+    </plurals>
 </resources>

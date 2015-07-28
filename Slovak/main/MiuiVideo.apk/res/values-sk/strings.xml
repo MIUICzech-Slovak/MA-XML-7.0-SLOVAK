@@ -424,4 +424,5 @@
   <string name="youku">Youku</string>
   <string name="app_wifi_mode">Automaticky aktualizovať na Wi-Fi</string>
   <string name="app_wifi_mode_summary">Ak ste pripojený na Wi-Fi, automaticky aktualizovať na najnovšiu verziu.</string>
+  <string name="ads_ignore">Preskočiť</string>
 </resources>
