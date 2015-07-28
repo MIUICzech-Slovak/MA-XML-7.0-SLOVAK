@@ -114,12 +114,12 @@
         <item quantity="many">Pred %1$dd</item>
     </plurals>
     <plurals name="found_new_files">
-        <item quantity="other">Nájdené nová súbory: %1$d</item>
-        <item quantity="zero">Nájdené nová súbory: %1$d</item>
-        <item quantity="one">Nájdené nová súbory: %1$d</item>
-        <item quantity="two">Nájdené nová súbory: %1$d</item>
-        <item quantity="few">Nájdené nová súbory: %1$d</item>
-        <item quantity="many">Nájdené nová súbory: %1$d</item>
+        <item quantity="other">Nájdené nové súbory: %1$d</item>
+        <item quantity="zero">Nájdené nové súbory: %1$d</item>
+        <item quantity="one">Nájdené nové súbory: %1$d</item>
+        <item quantity="two">Nájdené nové súbory: %1$d</item>
+        <item quantity="few">Nájdené nové súbory: %1$d</item>
+        <item quantity="many">Nájdené nové súbory: %1$d</item>
     </plurals>
     <plurals name="file_notify_title">
         <item quantity="other">Prijaté súbory (%1$d) apl. %2$s</item>
