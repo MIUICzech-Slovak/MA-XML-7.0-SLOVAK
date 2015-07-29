@@ -52,5 +52,9 @@
     "bluetooth" : {
         "sensorWhiteListEnable" : true,
         "connectedBroadcastEnable" :true
+    },
+
+    "shoes" : {
+        "enable" : false
     }
 }
