@@ -524,4 +524,7 @@ Skontrolujte aj SPAM."</string>
   <string name="virtual_keyhboard_intro">Použiť virtuálnu klávesnicu telefónu</string>
   <string name="volume">﻿Hlasitosť</string>
   <string name="yes">Áno</string>
+  <string name="ir_device_amp">Zosilovač</string>
+  <string name="match_fail_frame">Párovanie %1$d zlyhalo</string>
+  <string name="mi_brand">Xiaomi</string>
 </resources>
