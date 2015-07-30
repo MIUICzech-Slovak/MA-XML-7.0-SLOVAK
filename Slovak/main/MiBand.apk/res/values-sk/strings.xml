@@ -922,7 +922,7 @@ Pokračujte!"</string>
   <string name="running_step_frequency">Krokov/min</string>
   <string name="running_stop">Zastaviť</string>
   <string name="running_stop_sport_confirm">Ukončiť?</string>
-  <string name="running_synchronous">Sunchronizovane</string>
+  <string name="running_synchronous">Synchronizovane</string>
   <string name="running_time_desc">Čas</string>
   <string name="running_today_null"/>
   <string name="running_unit_calorie">kcal</string>
