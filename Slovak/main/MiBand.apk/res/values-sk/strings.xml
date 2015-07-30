@@ -1613,14 +1613,15 @@ Nie je možné sa pripojiť"</string>
   <string name="lab_step_test">Test krokov</string>
   <string name="only_one_decimal">Nie je možné zadať viac ako 1 desatinné miesto</string>
   <string name="phone_app_notifi">Upozornenie aplikácií</string>
-  <string name="phone_app_notifi_access_service_tip">Aplikácia musí mať povolenie pre čítanie upozornení systému.</string>
+  <string name="phone_app_notifi_access_service_tip">Povoliť prístup k upozorneniam.</string>
   <string name="phone_app_notifi_all_apps">Všetky</string>
   <string name="phone_app_notifi_download_apps">Stiahnuté</string>
-  <string name="phone_app_notifi_enable">Povoliť upozornenia aplikácií.</string>
-  <string name="phone_app_notifi_limit_tip">Nie je možné vybrať viac ako 3 aplikácie</string>
+  <string name="phone_app_notifi_enable">Povoliť upozornenia aplikácií</string>
+  <string name="phone_app_notifi_limit_tip">Maximálne 3 aplikácie</string>
   <string name="phone_app_notifi_manager">Upozornenia</string>
   <string name="skip">Preskočiť</string>
   <string name="state_binded_nickname_weibo">Added Weibo Account %s</string>
   <string name="sync">Synchr.</string>
   <string name="weight_no_tips">Ešte ste sa neodvážili</string>
+  <string name="go_running">Behanie</string>
 </resources>
