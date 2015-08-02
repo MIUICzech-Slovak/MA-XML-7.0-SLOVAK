@@ -114,7 +114,9 @@
     <string name="power_hide_mode_app_list_summary">Nastavenie aplikácií</string>
     <string name="power_hide_mode_app_list_total">Aplikácie: %d</string>
     <string name="power_hide_mode_alert_message">Vybrané aplikácie nebudú mať prístup k Wi-Fi, mobilnému pripojeniu, GPS a nemusia pracovať správne.</string>
-	<string name="power_config_choose_apps">Vybrať aplikácie</string>
-	<string name="power_config_title">Nastavenie</string>
-	<string name="history_details_title">Podrobnosti histórie</string>
+    <string name="power_config_choose_apps">Vybrať aplikácie</string>
+    <string name="power_config_title">Nastavenie</string>
+    <string name="history_details_title">Podrobnosti histórie</string>
+    <string name="hints_loading_text">Načítavanie...</string>
+    <string name="empty_title_apps_container_list">Žiadne aplikácie</string>
 </resources>
