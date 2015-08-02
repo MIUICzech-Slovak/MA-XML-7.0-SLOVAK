@@ -3632,7 +3632,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="max_cpu6_info">"6 jadier "</string>
   <string name="max_cpu8_info">"8 jadier "</string>
   <string name="power_hide_mode_summary">Zakázať aplikáciam prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
-  <string name="power_hide_mode_title">Spotreba batérie aplikáciami</string>
+  <string name="power_hide_mode_title">Úspora batérie</string>
   <string name="screen_resolution_confirm">Potvrdiť a reštartovať</string>
   <string name="screen_resolution_summary">Nižšie rozlíšenie displeja zníži kvalitu zobrazenia, spotrebu batérie a zvýši výkon zariadenia. Zmeny sa aplikujú po reštarte zariadenia.</string>
   <string name="screen_resolution_switch">Zmeniť rozlíšenie displeja</string>

@@ -20,9 +20,9 @@
     <string name="power_mode_view_app_list_title">Aplikácie</string>
     <string name="power_mode_view_event_title">Úlohy</string>
     <string name="power_event_view_event_title">Pravidlá</string>
-    <string name="hide_mode">Spravovať spotrebu batérie apl.</string>
-    <string name="hide_mode_desc_title">Spravovať spotrebu batérie apl.</string>
-    <string name="hide_mode_desc">Zakázať aplikáciam prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
+    <string name="hide_mode">Úspora batérie</string>
+    <string name="hide_mode_desc_title">Úspora batérie</string>
+    <string name="hide_mode_desc">Zakázať aplikáciam prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie.</string>
     <string name="normal">Predvolený režim</string>
     <string name="reading">Čítací režim</string>
     <string name="media">Multimediálny režim</string>
@@ -50,7 +50,7 @@
     <string name="power_mode_cpu_state_low_desc">Uprednostniť výdrž batérie na úkor výkonu</string>
     <string name="power_customize_giveup_change">Zrušiť zmeny?</string>
     <string name="power_dialog_cancel">Zrušiť</string>
-    <string name="power_dialog_ok">OK</string>
+    <string name="power_dialog_ok">Uložiť</string>
     <string name="action_settings">Nastavenia</string>
     <string name="power_dialog_screen_brightness_title">Jas</string>
     <string name="power_dialog_power_keeper_enable">Povoliť Úsporu batérie?</string>
