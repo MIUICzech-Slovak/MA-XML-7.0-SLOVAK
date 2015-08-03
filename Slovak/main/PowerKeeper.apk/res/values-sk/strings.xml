@@ -34,7 +34,7 @@
     <string name="alter_message_delete">Vymazať?</string>
     <string name="alter_message_switch_mode">Zmeniť režimy?</string>
     <string name="alter_message_switch_mode_message">Ak zmeníte režimy, vaše predchádzajúce nastavenia nebudú viac použité pre túto aplikáciu.</string>
-    <string name="alter_message_open_hide_title">Spravovať spotrebu batérie apl.?</string>
+    <string name="alter_message_open_hide_title">Úspora batérie?</string>
     <string name="alter_message_open_hide_message">Vybrané aplikácie nebudú mať prístup k Wi-Fi, mobilnému pripojeniu, GPS a nemusia pracovať správne.</string>
     <string name="alter_message_abandon_title">Zrušiť zmeny?</string>
     <string name="power_configure_screen_brightness_enable">Nastaviť jas displeja</string>
@@ -107,7 +107,7 @@
     <string name="add_user_define_title">Nový profil</string>
     <string name="add_user_define_group_failed">Nebolo možné pridať nový profil</string>
     <string name="mode_settings">Nastavenia</string>
-    <string name="power_hide_mode_title">Spravovať spotrebu batérie apl.</string>
+    <string name="power_hide_mode_title">Úspora batérie</string>
     <string name="power_hide_mode_summary">Zakázať aplikáciam prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
     <string name="low_power_auto_title">Ak má batéria menej ako 20%</string>
     <string name="power_hide_mode_app_list_title">Vybrané aplikácie</string>
