@@ -198,4 +198,10 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
+  <string name="unbind_device_alert_cancel">Zrušiť</string>
+  <string name="unbind_device_alert_content">Bluetooth zariadenie %1$s nebolo pripojené už dlhšiu dobu. Jeho odpojenie môže zvýšiť výkon vášho zariadenia. Chcete ho odpojiť?</string>
+  <string name="unbind_device_alert_ok">OK</string>
+  <string name="unbind_device_alert_title">Odpojiť zariadenie</string>
+  <string name="notify_device_lose_connection_text">%1$s nebolo pripojené už dlhšiu dobu, dotykom ho odpojíte.</string>
+  <string name="notify_device_lose_connection_title">Zariadenie %1$s nie je pripojené</string>
 </resources>
