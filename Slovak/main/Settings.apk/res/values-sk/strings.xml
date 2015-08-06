@@ -875,7 +875,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="debug_monitoring_category">Monitorovanie</string>
   <string name="debug_view_attributes">Povoliť kontrolu atribútov zobrazenia</string>
   <string name="default_date_format">dd/MM/yyyy</string>
-  <string name="default_input_method">Vybrať predvolenú metódu vstupu</string>
+  <string name="default_input_method">Vybrať predvolenú klávesnicu</string>
   <string name="default_sound">Predvolený zvuk</string>
   <string name="default_usb_mode">Predvolené USB pripojenie</string>
   <string name="delete">Zmazať</string>
@@ -1174,7 +1174,7 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="font_size_preview_text">Toto je ukážkový text pre MIUI CZ SK ROM.</string>
   <string name="font_size_save">OK</string>
   <string name="font_size_small">Malé</string>
-  <string name="font_size_summary">Nastaviť veľkosť písma a rozloženia aplikácií ako Telefón, SMS, Kontakty pre zjednodušenie používania.</string>
+  <string name="font_size_summary">Nastaviť veľkosť písma aplikácií ako Telefón, SMS, Kontakty a Nastavenia.</string>
   <string name="font_size_summary1"/>
   <string name="font_size_summary2"/>
   <string name="force_hw_ui">Vykresľovanie pomocou GPU</string>
@@ -1292,7 +1292,7 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="incoming_call_breathing_light_color_title">Farba LED hovorov</string>
   <string name="incoming_call_breathing_light_freq_title">Frekv. blikania LED pri hovoroch</string>
   <string name="incoming_call_volume_title">Vyzváňací tón</string>
-  <string name="input_method">Metóda zadávania</string>
+  <string name="input_method">Klávesnica</string>
   <string name="input_method_selector">Ponuka metódy vstupu</string>
   <string name="input_method_selector_always_hide_title">Vždy skrývať</string>
   <string name="input_method_selector_always_hide_value">2</string>
@@ -2774,11 +2774,11 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="title_dolby_control">Dolby Digital Plus</string>
   <string name="title_font">Písmo</string>
   <string name="title_font2">Písmo</string>
-  <string name="title_font_current">Vybrať písmo</string>
-  <string name="title_font_current2">Vybrať písmo</string>
+  <string name="title_font_current">Písmo</string>
+  <string name="title_font_current2">Písmo</string>
   <string name="title_font_size">Veľkosť písma</string>
   <string name="title_hdmi_color_calibration">Nastavenie farieb</string>
-  <string name="title_layout_current">Použité rozloženie</string>
+  <string name="title_layout_current">Veľkosť písma</string>
   <string name="title_layout_current2">Veľkosť písma</string>
   <string name="title_local_resource">Lokálne zdroje</string>
   <string name="title_system_resource">Systémové zdroje</string>
