@@ -959,4 +959,8 @@ Ak ste zabudli svoj PIN kód, resetujte kameru a pripojte ju znova."</string>
 pre zmenu na HD kvalitu."</string>
   <string name="use_barcode_heard_taiwan">Počul som upozornenie</string>
   <string name="xiaomi_external_storage_unavailable">Úložisko nie je dostupné, skontrolujte SD kartu.</string>
+  <string name="alert_video_error">Nie je možné prehrať toto video</string>
+  <string name="delete_device">Odstrániť zariadenie</string>
+  <string name="sd_tip_text">"Po formátovaní SD karty časť jej kapacity bude použitá pre ukladanie systémových súborov, takže zobrazená kapacita môže byť menšia ako v skutočnosti."</string>
+  <string name="play_time">00:00</string>
 </resources>
