@@ -1624,4 +1624,7 @@ Nie je možné sa pripojiť"</string>
   <string name="sync">Synchr.</string>
   <string name="weight_no_tips">Ešte ste sa neodvážili</string>
   <string name="go_running">Behanie</string>
+  <string name="alarm_edit_complete">Upravené</string>
+  <string name="edit">Upraviť</string>
+  <string name="sdcarderror">Chyba SD karty</string>
 </resources>
