@@ -135,4 +135,12 @@ Svetlo sa vypne o %1$dmin"</string>
     <string name="main_screen_color">Farba</string>
     <string name="main_screen_sunshine">Slnečné svetlo</string>
     <string name="main_screen_flow">Dúha</string>
+  <string name="wake_up_setting_off">未开启</string>
+  <string name="wake_up_setting_on">已开启</string>
+  <string name="wake_up_sub_info">\"早安唤醒\"，启用后，灯光会在设定的\"起床时间\"前30分钟内逐渐变亮，让身体做好自然醒来的准备</string>
+  <string name="wake_up_time">起床时间 %1$s:%2$s</string>
+  <string name="wake_up_title">早安唤醒</string>
+  <string name="wake_up_turn_off">早安唤醒已经关闭</string>
+  <string name="wake_up_turn_on">早安唤醒已经开启</string>
+  <string name="alarm_progress">正在设置...</string>
 </resources>
