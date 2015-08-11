@@ -12,7 +12,7 @@
         <include android:id="@id/flieDownLoadTabBar" android:visibility="gone" layout="@layout/file_download_tab_bar" />
         <com.ants360.z13.widget.ExtendedViewPager android:id="@id/vpFileManage" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" android:overScrollMode="never" />
     </LinearLayout>
-    <RelativeLayout android:id="@id/rlBlockingCover" android:background="#8c000000" android:visibility="gone" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
-        <TextView android:textSize="14.0sp" android:textColor="@android:color/white" android:id="@id/tvInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/system_busy" android:layout_centerInParent="true" />
+    <RelativeLayout android:id="@id/rlBlockingCover" android:background="#8c000000" android:visibility="gone" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="48.0dip">
+        <TextView android:textSize="14.0sp" android:textColor="@android:color/white" android:id="@id/tvInfo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:text="@string/system_busy" android:layout_centerInParent="true" />
     </RelativeLayout>
 </FrameLayout>
