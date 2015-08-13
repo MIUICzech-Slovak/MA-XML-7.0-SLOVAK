@@ -1162,4 +1162,7 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="msim_disable_sim_card_summary_default_card">Táto karta je momentálne nastavená ako vaša predvolená SIM pre mobilné dáta. Ak ju zakážete, nebudete môcť uskutočniť hovory alebo využívať mobilné dáta. Môžete zakázať túto SIM kartu až po zvolení druhej SIM ako predvolenú pre mobilné dáta."</string>
   <string name="msim_disable_sim_card_summary_non_default_card">Nebudete môcť uskutočniť hovory alebo využívať mobilné dáta. Zakázať používanie %s SIM karty?</string>
   <string name="msim_disable_sim_card_title">Zakázať používanie SIM karty</string>
+  <string name="overseas_roaming_setting">Medzinárodný roaming</string>
+  <string name="incoming_video_show_pref_summary">Zobraziť video nastavené volajúcim. Pre aktivovanie tejto funkcie, povoľte Karty kontaktov.</string>
+  <string name="incoming_video_show_pref_title">Zobraziť video volajúceho</string>
 </resources>

@@ -22,4 +22,21 @@
         <item>Vyčistiť na pozadí</item>
         <item>Upozorniť po vyčistení</item>
     </string-array>
+	<string-array name="cache_clean_menu">
+        <item>Vyčistiť</item>
+        <item>Súbor</item>
+        <item>Výnimka</item>
+    </string-array>
+    <string-array name="apk_clean_menu">
+        <item>Vyčistiť</item>
+        <item>Súbor</item>
+        <item>Výnimka</item>
+        <item>Inštalovať</item>
+    </string-array>
+    <string-array name="app_clean_menu">
+        <item>Podrobnosti</item>
+        <item>Súbor</item>
+        <item>Zílohovať a odinštalovať</item>
+        <item>Odinštalovať</item>
+     </string-array>
 </resources>

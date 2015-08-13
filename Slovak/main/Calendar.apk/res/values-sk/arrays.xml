@@ -305,4 +305,11 @@
         <item>Čas</item>
         <item>Odpočítavanie</item>
     </string-array>
+   <string-array name="travel_reminder_minutes_labels">
+        <item>3h</item>
+        <item>4h</item>
+        <item>5h</item>
+        <item>6h</item>
+        <item>1 deň</item>
+    </string-array>
 </resources>
