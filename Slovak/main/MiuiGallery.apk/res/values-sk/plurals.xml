@@ -77,4 +77,32 @@
         <item quantity="other">" "&lt;Data> Vymazať &amp;lt;xliff:g id=ITEM>%1$d videí&amp;lt;/xliff:g> z %2$d albumov?&lt;/Data>" "</item>
         <item quantity="one">" "&lt;Data> Vymazať &amp;lt;xliff:g id=ITEM>%1$d video&amp;lt;/xliff:g> z %2$d albumov?&lt;/Data>" "</item>
     </plurals>
+    <plurals name="confirm_delete_image_from_many_albums">
+        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%1$d images&lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+        <item quantity="one">&lt;Data>Delete &lt;xliff:g id=ITEM>%1$d image&lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%d seconds</item>
+        <item quantity="one">1 second</item>
+    </plurals>
+    <plurals name="ignore_faces_alert_msg">
+        <item quantity="other">"Don't show these faces?"</item>
+        <item quantity="one">"Don't show this face?"</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d photos of %2$s to be added</item>
+        <item quantity="one">%1$d photo of %2$s to be added</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d photos of %2$s to be added</item>
+        <item quantity="one">%1$d photo of %2$s to be added</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_year">
+        <item quantity="other">"%1$d years "</item>
+        <item quantity="one">"%1$d year "</item>
+    </plurals>
+    <plurals name="baby_age_subtitle_month">
+        <item quantity="other">%1$d months</item>
+        <item quantity="one">%1$d month</item>
+    </plurals>
 </resources>

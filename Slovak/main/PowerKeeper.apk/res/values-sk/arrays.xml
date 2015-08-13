@@ -27,6 +27,7 @@
         <item>Poloha</item>
         <item>Upozornenie na prvú správu</item>
         <item>Upozornenie na zamykacej obrazovke</item>
+        <item>Zakázať dátové pripojenie na pozadí</item>
     </string-array>
     <string-array name="action_param_translate">
         <item>Žiadna činnosť</item>
@@ -38,6 +39,10 @@
         <item>Výkonný</item>
         <item>Povoliť</item>
         <item>Zakázať</item>
+        <item>Okamžite</item>
+        <item>Po 10 min</item>
+        <item>Po 30 min</item>
+        <item>Ak je vypnutý displej</item>
     </string-array>
     <string-array name="app_groups">
         <item>Vybrané</item>

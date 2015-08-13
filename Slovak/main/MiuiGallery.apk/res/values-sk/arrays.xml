@@ -8,4 +8,16 @@
         <item>1 hodina</item>
         <item>Bez limitu</item>
     </string-array>
+    <string-array name="baby_sexy">
+        <item>Chlapec</item>
+        <item>Dievča</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Otec</item>
+        <item>Matka</item>
+        <item>Otcov otec</item>
+        <item>Otcova matka</item>
+        <item>Mamin otec</item>
+        <item>Matkina matka</item>
+    </string-array>
 </resources>
