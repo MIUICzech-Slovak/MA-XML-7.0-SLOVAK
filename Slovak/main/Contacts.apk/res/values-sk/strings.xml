@@ -1236,7 +1236,8 @@ Karty kontaktu sú deaktivované"</string>
   <string name="contacts_in_call_show">"%s's video"</string>
   <string name="delete_call_log_message">Delete call history?</string>
   <string name="details_list_group_header_more_action">More</string>
-  <string name="details_list_group_header_other">Other</string>+  <string name="in_call_show">Video</string>
+  <string name="details_list_group_header_other">Other</string>
+  <string name="in_call_show">Video</string>
   <string name="in_call_show_camera_open_error">Error happens when opening camera, please retry</string>
   <string name="in_call_show_delete_message">Delete your video?</string>
   <string name="in_call_show_delete_title">Delete video?</string>
