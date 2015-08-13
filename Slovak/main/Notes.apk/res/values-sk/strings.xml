@@ -119,4 +119,7 @@ http://www.miuios.cz/rom
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
   <string name="dlg_info_creating_message">Vytváranie správy...</string>
   <string name="sync_tips">Dotykom synchr. poznámky s MiCloud.</string>
+  <string name="all_terms">%1$s a %2$s</string>
+  <string name="alert_title_delete">Vymazať poznámku</string>
+  <string name="alert_message_delete">Vymazať %1$s?</string>
 </resources>

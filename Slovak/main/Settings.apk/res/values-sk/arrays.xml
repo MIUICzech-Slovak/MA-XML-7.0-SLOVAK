@@ -45,6 +45,7 @@
         <item>Normálne</item>
         <item>Veľké</item>
         <item>Veľmi veľké</item>
+	<item>Obrovské</item>
     </string-array>
     <string-array name="tts_rate_entries">
         <item>Veľmi pomalá</item>
@@ -699,5 +700,15 @@ Postupujte podľa pokynov"</item>
     <string-array name="screen_resolution_entries">
         <item>Ultra jemné (2K)</item>
         <item>Normálne (720P)</item>
+    </string-array>
+    <string-array name="alarm_repeat_type">
+        <item>Každý deň</item>
+        <item>Víkend</item>
+        <item>Vybrať dni</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Každý deň</item>
+        <item>Víkend</item>
+        <item>Vybrať dni</item>
     </string-array>
 </resources>

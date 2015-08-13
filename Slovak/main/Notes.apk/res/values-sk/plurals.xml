@@ -17,4 +17,8 @@
         <item quantity="other">Zložiek: %1$s</item>
         <item quantity="one">Zložiek: %1$s</item>
     </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Nebolo synchr.: %1$s</item>
+        <item quantity="other">Nebolo synchr.: %1$s</item>
+    </plurals>
 </resources>

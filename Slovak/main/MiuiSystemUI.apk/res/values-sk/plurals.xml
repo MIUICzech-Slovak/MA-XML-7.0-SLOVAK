@@ -5,4 +5,8 @@
         <item quantity="other">Nedávne aplikácie: %d</item>
         <item quantity="one">1 nedávna aplikácia</item>
     </plurals>
+    <plurals name="disable_notification_confirm_title">
+        <item quantity="other">Blokovať: %d apl.</item>
+        <item quantity="one">Blokovať: %d apl.</item>
+    </plurals>
 </resources>

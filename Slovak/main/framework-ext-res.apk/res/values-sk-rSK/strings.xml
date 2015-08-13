@@ -81,4 +81,8 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznáme číslo</string>
+  <string name="handy_mode_enter_dlg_msg">Prepnúť do režimu ovládania jednou rukou?</string>
+  <string name="handy_mode_enter_dlg_title">Ovládanie jednou rukou</string>
+  <string name="fc_dialog_body">Zobrazte podrobnosti o chybe, skopírujte log a vložte na miuios.cz/rom pre jej ďalšiu analýzu.</string>
+  <string name="fc_dialog_jump_to_preview">Podrobnosti o chybe pre miuios.cz</string>
 </resources>

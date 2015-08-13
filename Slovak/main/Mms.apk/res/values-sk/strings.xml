@@ -588,4 +588,10 @@ Pokus: %s."</string>
   <string name="mx_dspt_provision_ex">Odosielajte MiSprávy ostatným používateľom MIUI bez akýchkoľvek poplatkov.</string>
   <string name="mx_dspt_provision_ex2">Ochrana súkromia</string>
   <string name="mx_enable_ex">MiSprávy</string>
+  <string name="msg_type_hint_mms_omit">MMS</string>
+  <string name="msg_type_hint_mx_omit">MiSpráva</string>
+  <string name="msg_type_hint_sms_omit">SMS</string>
+  <string name="pref_show_sms_template_in_summary">Automaticky rozpoznať OTP v SMS správe</string>
+  <string name="pref_time_auto_group_disabled_summary">Nie je podporované v nastavenej veľkosti písma</string>
+  <string name="title_show_sms_template_in">Kontrola SMS pre OTP</string>
 </resources>
