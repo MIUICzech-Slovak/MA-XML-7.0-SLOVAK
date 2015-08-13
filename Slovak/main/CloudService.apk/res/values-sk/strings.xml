@@ -373,4 +373,8 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
 Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="mx_dspt_provision_with_voip2">Ochrana súkromia</string>
   <string name="mx_voip_dspt">MiVoice</string>
-</resources>
+  <string name="micloud_detail_download_syncing">Sťahovanie %s</string>
+  <string name="micloud_detail_upload_syncing">Odosielanie %s</string>
+  <string name="pref_summary_sync_video_on_wifi_only">Synchronizovať video profil kontaktov len ak ste pripojený na Wi-Fi</string>
+  <string name="pref_title_sync_video_on_wifi_only">Synchr. video len cez Wi-Fi</string>
+ </resources>

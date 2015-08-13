@@ -65,4 +65,6 @@ Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa
      <string name="warning_tip_content">Nie ste pripojený na Wi-Fi sieť. Sťahovanie tohto súboru môže navýšiť vaše poplatky za mobilné dáta."</string>
      <string name="warning_tip_ok">Zastaviť</string>
      <string name="warning_tip_title">Využívanie mobilných dát</string>
+	 <string name="enter_garbage_clean">Vyčistiť interné úložisko.</string>
+     <string name="insufficient_space">Nie je dostatok voľného miesta na internom úložisku</string>
 </resources>

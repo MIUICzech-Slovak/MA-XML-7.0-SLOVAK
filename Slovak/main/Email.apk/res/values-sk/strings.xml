@@ -971,4 +971,7 @@ Delta update size: %2$s"</string>
   <string name="contextmenu_add">Pridať kontakt</string>
   <string name="contextmenu_create">Vytvoriť kontakt</string>
   <string name="contextmenu_edit">Upraviť kontakt</string>
+  <string name="bottom_bar_more_share">Zdieľať</string>
+  <string name="get_database_exception">Chyba databázy, vymažte dáta aplikácie Email v Nastaveniach.</string>
+  <string name="share_choose">Vyberte</string>
 </resources>

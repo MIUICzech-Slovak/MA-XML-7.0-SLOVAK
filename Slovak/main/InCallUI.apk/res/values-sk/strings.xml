@@ -708,4 +708,12 @@
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
   <string name="wild_prompt_str">Nahradiť zástupný znak znakom</string>
+  <string name="description_image_button_answer">Potiahnite nahor pre prijatie</string>
+  <string name="description_image_button_dialpad">Číselník</string>
+  <string name="description_image_button_hangup">Koniec</string>
+  <string name="description_image_button_message_enter">Potiahnite nahor pre odpoveď SMS</string>
+  <string name="description_image_button_message_exit">Skryť správy</string>
+  <string name="description_image_button_reject">Potiahnite nahor pre odmietnutie</string>
+  <string name="description_image_button_tools">Nastavenia</string>
+  <string name="miprofile_stranger_card">Stranger card</string>
 </resources>

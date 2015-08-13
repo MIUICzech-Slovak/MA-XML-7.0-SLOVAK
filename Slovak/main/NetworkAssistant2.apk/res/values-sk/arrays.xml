@@ -38,8 +38,8 @@
         <item>Celková spotreba dát</item>
     </string-array>
     <string-array name="traffic_setting_sms_template">
-        <item>Nastaviť vzorovú správu automaticky</item>
-        <item>Nastaviť vzorovú správu manuálne</item>
+        <item>Nastaviť automaticky</item>
+        <item>Nastaviť manuálne</item>
     </string-array>
     <string-array name="traffic_type">
         <item>využité 2G/3G\u0020</item>

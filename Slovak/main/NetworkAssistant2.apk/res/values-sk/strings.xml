@@ -138,8 +138,8 @@ For more info check the message you received from your service provider"</string
   <string name="load_fail">Nie je možné načítať</string>
   <string name="local_ip_exception_summary">Nepodarilo sa získať IP adresu. Odporúčame odoslať záznam o chybe cez aplikáciu Hlásenie chýb.</string>
   <string name="lock_screen_setting_summary">Upozornenie sa zobrazí až po stiahnutí viac ako 100KB</string>
-  <string name="lock_screen_traffic_guide_notification_summary">Mobilné dáta využité počas uzamknutia telefónu.</string>
-  <string name="lock_screen_traffic_guide_notification_title">Stiahnuté %s</string>
+  <string name="lock_screen_traffic_guide_notification_summary">%s stiahnuté počas uzamknutia</string>
+  <string name="lock_screen_traffic_guide_notification_title">Spravovať spotrebu dát</string>
   <string name="lock_screen_traffic_notify_body">Uzamknuté %2$s o %1$s. Stiahnuté %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Zakúpiť (Len v Číne)</string>
   <string name="lock_screen_traffic_warn_title">Spotreba dát počas vyp. displeja</string>
@@ -236,11 +236,6 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="none_mi_service_app_detail">Prázdne</string>
   <string name="notification_content_title">Využité %1$s počas uzamknutia</string>
   <string name="notification_title">%1$s-%2$s: %3$s využité</string>
-  <string name="notify_daily_data_usage_body">Dnes využité: %s.</string>
-  <string name="notify_daily_limit_body">Dnes využité: %s.</string>
-  <string name="notify_daily_limit_title">Nastavte denný limit mobilných dát</string>
-  <string name="notify_daily_limit_title_for_slotnum">Nastaviť denný limit pre %s</string>
-  <string name="notify_month_traffic_body">Tento mesiac využité: %s.</string>
   <string name="notify_setting_pkg_title">Nastavte mesačný limit mobilných dát</string>
   <string name="notify_setting_pkg_title_for_slotnum">Nastaviť mesačný limit pre %s</string>
   <string name="notify_weekly_pkg_body">Tento týždeň využité: %s.</string>
@@ -293,7 +288,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="pref_leisure_not_opened">Zakázané</string>
   <string name="pref_manual_adjust">Nastaviť štatistiku používania manuálne</string>
   <string name="pref_month_begin_date">Obnovenie dátového balíčku</string>
-  <string name="pref_month_first_day">Prvý deň v mesiaci</string>
+  <string name="pref_month_first_day">1</string>
   <string name="pref_more_traffic_settings">Ostatné nastavenia</string>
   <string name="pref_new_installed_preconfig_title">Predvolené nastavenie pre nové apl.</string>
   <string name="pref_open_adjust_traffic">"Synchronizovať vašu spotrebu dát s vaším operátorom"</string>
@@ -563,4 +558,15 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="pref_roaming_setting_gategory">Dátový roaming</string>
   <string name="traffic_saving_can_optimized">Optimalizovať</string>
   <string name="pref_title_diagnostics_show_float_notification">Plávajúce upozornenia</string>
+  <string name="traffic_setting_fragment_area_dual">%s Locale</string>
+  <string name="notify_daily_data_usage_body">Pre automatické obmedzenie využitých dát nastavte svoj mesačný limit.</string>
+  <string name="notify_daily_limit_body">Nastavte limit mobilných dát.</string>
+  <string name="notify_daily_limit_title">Dnes využité: %s</string>
+  <string name="notify_daily_limit_title_for_slotnum">%1$s využité %2$s dnes</string>
+  <string name="notify_month_traffic_body">Nastavte limit využitia mobilných dát pre zabránenie navýšenia vašich mesačných poplatkov.</string>
+  <string name="notify_month_traffic_title">Tento mesiac: %s</string>
+  <string name="notify_month_traffic_title_for_slotnum">%1$s využité %2$s tento mesiac</string>
+  <string name="notify_weekly_traffic_body">Pre automatické obmedzenie využitých dát nastavte svoj mesačný limit.</string>
+  <string name="notify_weekly_traffic_title">Tento týždeň: %s</string>
+  <string name="notify_weekly_traffic_title_for_slotnum">%1$s využité %2$s tento týždeň</string>
 </resources>
