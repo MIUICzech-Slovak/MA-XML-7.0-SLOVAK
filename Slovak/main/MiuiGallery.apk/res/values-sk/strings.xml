@@ -778,11 +778,11 @@ spoločne!"</string>
   <string name="relation_text_empty_alert">Pridať info o vzťahu</string>
   <string name="relation_text_family">Člen rodiny</string>
   <string name="relation_text_father">Otec</string>
-  <string name="relation_text_grandfather">Otcov otec</string>
-  <string name="relation_text_grandmother">Otcova matka</string>
-  <string name="relation_text_maternal_grandfather">Matkin otec</string>
-  <string name="relation_text_maternal_grandmother">Matkina matka</string>
-  <string name="relation_text_mother">Matka</string>
+  <string name="relation_text_grandfather">Dedko z otcovej strany</string>
+  <string name="relation_text_grandmother">Babka z otcovej strany</string>
+  <string name="relation_text_maternal_grandfather">Dedko z maminej strany</string>
+  <string name="relation_text_maternal_grandmother">Babka z maminej strany</string>
+  <string name="relation_text_mother">Mama</string>
   <string name="same_name_album_exist_and_toast">"Album s rovnakým názvom už existuje. Bol vytvorený názov '%s'."</string>
   <string name="send_invitation_fail">Nebolo možné odoslať pozvánku</string>
   <string name="set_as_baby_lock_wallpaper">Nastaviť ako tapetu zamykacej obrazovky</string>
