@@ -376,7 +376,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="lockscreen_magazine_summary">Získajte nové tapety priamo na vašu zamykaciu obrazovku</string>
   <string name="lockscreen_magazine_system_subscribe">Vybraných: %1$s</string>
   <string name="lockscreen_magazine_system_title">Predvolená</string>
-  <string name="lockscreen_magazine_title">Curated lock screens</string>
+  <string name="lockscreen_magazine_title">Balíček tapiet</string>
   <string name="theme_apply_failured">Nie je možné použiť tapetu pre zamykaciu obrazovku</string>
   <string name="theme_apply_success">Zamykacia obrazovka nastavená</string>
   <string name="theme_applying">Nastavovanie...</string>
