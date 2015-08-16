@@ -3670,4 +3670,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="status_bar_settings_notification_priority">Priorita</string>
   <string name="status_bar_settings_notification_priority_summary">Zobraziť upozornenia vždy ako prvé</string>
   <string name="theme_settings_title">Témy</string>
+  <string name="layout_size_exhuge">Obrovské</string>
 </resources>
