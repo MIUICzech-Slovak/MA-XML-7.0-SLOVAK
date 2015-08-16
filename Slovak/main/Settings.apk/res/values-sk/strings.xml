@@ -3657,7 +3657,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="dndm_wristband_detailed2">Vypnúť režim Nerušiť ak MiBand rozpozná, že ste sa prebudili hodinu pred koncom nastaveného času</string>
   <string name="every_day">Každý deň</string>
   <string name="font_size_exhuge">Extra veľké</string>
-  <string name="handy_mode_enter_ask">Opýtať sa predtým</string>
+  <string name="handy_mode_enter_ask">Vyžadovať potvrdenie</string>
   <string name="legal_workday">Pracovné dni</string>
   <string name="legal_workday_invalidate">Pon-Pia (bez sviatkov)</string>
   <string name="legal_workday_invalidate_message">Dotykom aktualizujete zoznam sviatkov.</string>
