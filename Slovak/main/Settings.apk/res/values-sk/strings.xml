@@ -2617,9 +2617,9 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_awaiting_tap">Klepnutím na značku začnete zápis...</string>
   <string name="status_awake_time">Doba mimo spánku</string>
   <string name="status_bar_and_notification_bar">Notification shade and status bar</string>
-  <string name="status_bar_app_disable_notification">Žiadne</string>
+  <string name="status_bar_app_disable_notification">Skryť upozornenia</string>
   <string name="status_bar_app_enable_on_keyguard_and_notificationBar">Zámok a roletka</string>
-  <string name="status_bar_app_enable_on_notificationBar">Roletka</string>
+  <string name="status_bar_app_enable_on_notificationBar">Zobraziť v roletka</string>
   <string name="status_bar_filter_item_description">Pre nastavenie upozornení choďte do Nastavenia &gt; Upozornenia &gt; Spravovať upozornenia</string>
   <string name="status_bar_filter_item_preview_image">Náhľad</string>
   <string name="status_bar_key_position_custom">Prispôsobiť pozíciu tlačidiel</string>
@@ -2645,7 +2645,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_bar_settings_notification_led">LED upozornenie</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk a vibrácie</string>
   <string name="status_bar_settings_show_carrier">Zobraziť názov operátora</string>
-  <string name="status_bar_settings_show_carrier_summary">Zobraziť len na uzamknutej obrazovke</string>
+  <string name="status_bar_settings_show_carrier_summary">Zobraziť len na uzamknutej obrazovke a v roletke</string>
   <string name="status_bar_settings_show_flow_info">Zobraziť info o spotrebe dát</string>
   <string name="status_bar_settings_show_home_message">Ikona aplikácie</string>
   <string name="status_bar_settings_show_keyguard_notification">Plávajúce upozornenia</string>
@@ -3671,4 +3671,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="status_bar_settings_notification_priority_summary">Zobraziť upozornenia vždy ako prvé</string>
   <string name="theme_settings_title">Témy</string>
   <string name="layout_size_exhuge">Obrovské</string>
+  <string name="advanced_text_layout">Povoliť rozšírené nastavenie rozloženia textu</string>
+  <string name="experience_optimization_category">Optimalizácia používania</string>
 </resources>
