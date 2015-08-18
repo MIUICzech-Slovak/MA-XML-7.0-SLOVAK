@@ -762,4 +762,5 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="boot_time_day_tomorrow">Zapnúť zajtra o %1$s</string>
   <string name="shutdown_time_day_tomorrow">Vypnúť zajtra o %1$s</string>
   <string name="btn_text_power_cleanup">Super Čistič</string>
+  <string name="history_details_title">Podrobnosti histórie</string>
 </resources>
