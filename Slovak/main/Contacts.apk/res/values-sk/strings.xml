@@ -768,7 +768,7 @@ Synchronizujte ich teraz."</string>
   <string name="private_num">Súkromné číslo</string>
   <string name="profile_display_name">Nastaviť môj profil</string>
   <string name="profile_name">Môj profil</string>
-  <string name="profile_name_photo">Ja</string>
+  <string name="profile_name_photo">Fotografia</string>
   <string name="pull_to_refresh_pull_label">Potiahnite pre obnovenie...</string>
   <string name="pull_to_refresh_refreshing_label">Načítavanie...</string>
   <string name="pull_to_refresh_release_label">Pustite pre obnovenie...</string>
@@ -1214,7 +1214,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="contact_detail_miprofile_binded_label">Pridané</string>
   <string name="contact_detail_miprofile_exchange_closed">"S týmto Xiaomi účtom nie je prepojené žiadne telefónné číslo
 Karty kontaktu sú deaktivované"</string>
-  <string name="contact_detail_miprofile_privacy_settings">Kontakty musia dostať povolenie pre zobrazenie vašej kontaktnej karty</string>
+  <string name="contact_detail_miprofile_privacy_settings">Požadovať povolenie pre zobrazenie</string>
   <string name="contact_detail_miprofile_request">Dotykom si vymeníte karty</string>
   <string name="contact_detail_miprofile_request_fail_toast">Požiadavku nebolo možné odoslať</string>
   <string name="contact_detail_miprofile_request_subtitle">Po potvrdení príjimateľom, profilová fotografia a informácie sa budú automaticky synchronizovať </string>
@@ -1222,7 +1222,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="contact_detail_miprofile_save">Dotykom získate kartu kontaktu</string>
   <string name="contact_detail_miprofile_save_fail_toast">Nebolo možné získať kartu kontaktu</string>
   <string name="contact_detail_miprofile_save_success_toast">Prijatá karta kontaktu</string>
-  <string name="contact_detail_miprofile_settings_header">Nastavenie výmeny</string>
+  <string name="contact_detail_miprofile_settings_header">Ďalšie nastavenia</string>
   <string name="contact_detail_miprofile_subtitle">Karty už boli vymenené</string>
   <string name="contact_detail_profile_switch_fail_network_toast">Nie je možne sa pripojiť k sieti</string>
   <string name="contact_detail_profile_switch_fail_toast">Nastala chyba na našom serveri</string>
@@ -1244,7 +1244,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="in_call_show_demo_present">Náhľad</string>
   <string name="in_call_show_guide_start_recording">Nahrať</string>
   <string name="in_call_show_long_press_to_record">Stlačte a podržte pre nahrávanie</string>
-  <string name="in_call_show_pick_video">Vybrať</string>
+  <string name="in_call_show_pick_video">Vybrať video</string>
   <string name="in_call_show_preview">Náhľad</string>
   <string name="in_call_show_recording">Nahrávanie...</string>
   <string name="in_call_show_reshoot">Znova</string>
@@ -1252,7 +1252,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="in_call_show_save_failed">Nebolo možné uložiť video</string>
   <string name="in_call_show_tap_to_show_demo">Dotykom zobrazíte náhľad</string>
   <string name="in_call_show_too_short">Príliš krátke video. Skúste nahrať dlhšie video.</string>
-  <string name="in_call_show_video_pick">Vybrať video</string>
+  <string name="in_call_show_video_pick">Vybrať</string>
   <string name="in_call_show_video_pick_filter">"Video musí byť menšie ako 3MB a kratšie ako 20 sekúnd. "</string>
   <string name="in_call_show_view_play_error">Pri prehrávaní videa nastala chyba.</string>
   <string name="miprofile_account_type">Xiaomi účet</string>
@@ -1262,13 +1262,13 @@ Karty kontaktu sú deaktivované"</string>
   <string name="miprofile_bind_account_alertdialog_message">Musíte pridať vaše telefónné číslo do Xiaomi účtu pre používanie tejto funkcie.</string>
   <string name="miprofile_bind_account_alertdialog_positive">Pridať číslo</string>
   <string name="miprofile_bind_account_alertdialog_title">Pridať telefónné číslo</string>
-  <string name="miprofile_edit_title">Upraviť kartu</string>
+  <string name="miprofile_edit_title">Upraviť profil</string>
   <string name="miprofile_error_accept_self">Nie je možné vymeniť si vlastnú kartu kontaktu</string>
   <string name="miprofile_error_no_miaccount">Prihláste sa do vášho Xiaomi účtu</string>
   <string name="miprofile_error_not_opened">Karty kontaktu sú vypnuté</string>
   <string name="miprofile_error_not_set">Vaša karta kontaktu nebolá synchronizovaná na server</string>
   <string name="miprofile_error_unknown">Neznáma chyba</string>
-  <string name="miprofile_name">Moja karta</string>
+  <string name="miprofile_name">Môj profil</string>
   <string name="miprofile_notice_text">Dotknite sa fotografie kontaktu</string>
   <string name="miprofile_request_agenda_date">%1$s si chce s vami vymeniť kartu kontaktu</string>
   <string name="miprofile_request_agenda_today">%1$s si chce s vami vymeniť kartu kontaktu</string>

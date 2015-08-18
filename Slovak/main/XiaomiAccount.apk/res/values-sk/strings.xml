@@ -48,7 +48,7 @@
   <string name="account_user_name_dialog_title">Zadajte užívateľské meno</string>
   <string name="account_user_phone">Telefónné číslo</string>
   <string name="account_user_recovery_phone">Telefón obnovy</string>
-  <string name="account_user_secure_info">Bezpečnostné info</string>
+  <string name="account_user_secure_info">Telefón a Email</string>
   <string name="account_user_using_facebook_avatar">Použiť obrázok z Facebooku</string>
   <string name="account_user_using_qq_avatar">Použiť obrázok z QQ</string>
   <string name="account_user_using_weibo_avatar">Použiť obrázok z Weibo</string>
@@ -573,4 +573,6 @@ s "</string>
   <string name="account_vip_level">Účet</string>
   <string name="account_vip_task">Postup</string>
   <string name="mi_pass">MiPass</string>
+  <string name="passport_account_identity_title">Overiť vašu identitu</string>
+  <string name="passport_send_too_many_code">Bolo zaslaných príliš mnoho overovacích kódov na toto číslo. Musíte počkať 24 hodín a skúste to znova.</string>
 </resources>

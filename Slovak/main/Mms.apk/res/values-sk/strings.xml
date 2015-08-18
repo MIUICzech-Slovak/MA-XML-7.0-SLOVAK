@@ -594,4 +594,5 @@ Pokus: %s."</string>
   <string name="pref_show_sms_template_in_summary">Automaticky rozpoznať OTP v SMS správe</string>
   <string name="pref_time_auto_group_disabled_summary">Nie je podporované v nastavenej veľkosti písma</string>
   <string name="title_show_sms_template_in">Kontrola SMS pre OTP</string>
+  <string name="exceed_message_text_limitation">Bol dosiahnutý limit správy.</string>
 </resources>

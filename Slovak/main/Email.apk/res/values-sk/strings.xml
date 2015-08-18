@@ -653,8 +653,7 @@ Kópia: %4$s
   <string name="outbox_alert_description_insufficient_storage_error">Nedostatok voľného miesta na serveri</string>
   <string name="outbox_alert_description_provision_error">Príčina: Chyba servera počas synchr. odchádzajúcej pošty</string>
   <string name="outbox_alert_description_reject_by_server">Odmietnuté %s</string>
-  <string name="outbox_alert_description_sent_failed">"Príčina: Veľkosť prílohy
-presahuje limit"</string>
+  <string name="outbox_alert_description_sent_failed">Veľkosť prílohy presahuje limit serveru.</string>
   <string name="outbox_alert_description_time_out">Chyba pripojenia</string>
   <string name="outbox_alert_duplicate_click">Čakajte, prebieha synchronizácia</string>
   <string name="outbox_alert_edit_resend">Upraviť a odoslať</string>
@@ -974,4 +973,7 @@ Delta update size: %2$s"</string>
   <string name="bottom_bar_more_share">Zdieľať</string>
   <string name="get_database_exception">Chyba databázy, vymažte dáta aplikácie Email v Nastaveniach.</string>
   <string name="share_choose">Vyberte</string>
+  <string name="account_setup_failed_too_many_partnerships">Prihlásenie zlyhalo, bol dosiahnutý maximálny počet pripojení na server.</string>
+  <string name="outbox_alert_description_email_size_error">Bola dosiahnutá maximálna veľkosť správy.</string>
+  <string name="outbox_alert_description_fail_authentication">Meno alebo heslo nie je správne.</string>
 </resources>
