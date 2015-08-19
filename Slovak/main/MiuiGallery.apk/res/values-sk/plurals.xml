@@ -74,35 +74,67 @@
         <item quantity="one">Vymazať %1$s album (celkom %2$s)?</item>
     </plurals>
     <plurals name="confirm_delete_video_from_many_albums">
-        <item quantity="other">" "&lt;Data> Vymazať &amp;lt;xliff:g id=ITEM>%1$d videí&amp;lt;/xliff:g> z %2$d albumov?&lt;/Data>" "</item>
-        <item quantity="one">" "&lt;Data> Vymazať &amp;lt;xliff:g id=ITEM>%1$d video&amp;lt;/xliff:g> z %2$d albumov?&lt;/Data>" "</item>
+        <item quantity="other">Vymazať videá (%1$d) z %2$d albumov?</item>
+        <item quantity="one">Vymazať video (%1$d) z %2$d albumov?</item>
     </plurals>
     <plurals name="confirm_delete_image_from_many_albums">
-        <item quantity="other">&lt;Data>Delete &lt;xliff:g id=ITEM>%1$d images&lt;/xliff:g> from %2$d albums?&lt;/Data></item>
-        <item quantity="one">&lt;Data>Delete &lt;xliff:g id=ITEM>%1$d image&lt;/xliff:g> from %2$d albums?&lt;/Data></item>
+        <item quantity="other">Vymazať obrázky (%1$d) z %2$d albumov?</item>
+        <item quantity="one">Vymazať obrázok (%1$d) z %2$d albumov?</item>
     </plurals>
     <plurals name="seconds">
-        <item quantity="other">%d seconds</item>
-        <item quantity="one">1 second</item>
+        <item quantity="other">%ds</item>
+        <item quantity="one">1s</item>
     </plurals>
     <plurals name="ignore_faces_alert_msg">
-        <item quantity="other">"Don't show these faces?"</item>
-        <item quantity="one">"Don't show this face?"</item>
+        <item quantity="other">Nezobrazovať týchto ľudí?</item>
+        <item quantity="one">Nezobrazovať tohto človeka?</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_old_pictures">
-        <item quantity="other">%1$d photos of %2$s to be added</item>
-        <item quantity="one">%1$d photo of %2$s to be added</item>
+        <item quantity="other">%1$d z %2$s</item>
+        <item quantity="one">%1$d z %2$s</item>
     </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
-        <item quantity="other">%1$d photos of %2$s to be added</item>
-        <item quantity="one">%1$d photo of %2$s to be added</item>
+        <item quantity="other">%1$d z %2$s</item>
+        <item quantity="one">%1$d z %2$s</item>
     </plurals>
     <plurals name="baby_age_subtitle_year">
-        <item quantity="other">"%1$d years "</item>
-        <item quantity="one">"%1$d year "</item>
+        <item quantity="other">"%1$d rokov "</item>
+        <item quantity="one">"%1$d rok "</item>
     </plurals>
     <plurals name="baby_age_subtitle_month">
-        <item quantity="other">%1$d months</item>
-        <item quantity="one">%1$d month</item>
+        <item quantity="other">%1$d mesiacov</item>
+        <item quantity="one">%1$d mesiac</item>
     </plurals>
+	<plurals name="confirm_delete_has_cloud_local_image_video_from_homepage">
+        <item quantity="other">Vybrané položky obsahujú fotografie alebo videá v MiCloud, vymazať (%s) zo zariadenia aj z MiCloud?</item>
+    </plurals>
+    <plurals name="confirm_delete_has_cloud_local_image_from_homepage">
+        <item quantity="other">Vybrané položky obsahujú fotografie v MiCloud, vymazať (%s) zo zariadenia aj z MiCloud?</item>
+        <item quantity="one">Vybraná položka obsahuje fotografiu v MiCloud, vymazať (%s) zo zariadenia aj z MiCloud??</item>
+    </plurals>
+<plurals name="confirm_delete_has_cloud_local_video_from_homepage">
+        <item quantity="other">Vybrané položky obsahujú videá v MiCloud, vymazať (%s) zo zariadenia aj z MiCloud?</item>
+        <item quantity="one">Vybraná položka obsahuje video v MiCloud, vymazať (%s) zo zariadenia aj z MiCloud??</item>
+    </plurals>
+ <plurals name="confirm_delete_has_cloud_image_video_from_homepage">
+        <item quantity="other">Vybrané položky obsahujú fotografie alebo videá v MiCloud, vymazať (%s) z MiCloud?</item>
+    </plurals>
+<plurals name="confirm_delete_has_cloud_image_from_homepage">
+        <item quantity="other">Vybrané položky sú fotografie v MiCloud, vymazať (%s) z MiCloud?</item>
+        <item quantity="one">Vybraná položka je fotografia v MiCloud, vymazať (%s) z MiCloud?</item>
+    </plurals>
+<plurals name="confirm_delete_has_cloud_video_from_homepage">
+        <item quantity="other">Vybrané položky sú videá v MiCloud, vymazať (%s) z MiCloud?</item>
+        <item quantity="one">Vybraná položka je video v MiCloud, vymazať (%s) z MiCloud?</item>
+    </plurals>
+<plurals name="confirm_delete_has_cloud_image_video">
+        <item quantity="other">Vymazať (%s) z tohto albumu?</item>
+    </plurals>
+<plurals name="confirm_delete_has_local_image_video">
+        <item quantity="other">Vymazať (%s)?</item>
+    </plurals>
+<plurals name="baby_age_subtitle_day">
+        <item quantity="other">%1$d dní</item>
+        <item quantity="one">%1$d deň</item>
+     </plurals>
 </resources>

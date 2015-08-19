@@ -35,6 +35,20 @@
         <item>1 týždeň</item>
         <item>2 týždne</item>
     </string-array>
+	<string-array name="miui_preferences_default_reminder_labels">
+        <item>Bez pripomenutia</item>
+        <item>0 minút</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>30 minút</item>
+        <item>1 hodina</item>
+        <item>12 hodín</item>
+        <item>1 deň</item>
+        <item>2 dni</item>
+        <item>1 týždeň</item>
+        <item>2 týždne</item>
+    </string-array>
     <integer-array name="reminder_minutes_values">
         <item>-1</item>
         <item>0</item>

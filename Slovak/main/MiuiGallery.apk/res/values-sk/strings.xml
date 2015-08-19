@@ -786,7 +786,9 @@ spoločne!"</string>
   <string name="same_name_album_exist_and_toast">"Album s rovnakým názvom už existuje. Bol vytvorený názov '%s'."</string>
   <string name="send_invitation_fail">Nebolo možné odoslať pozvánku</string>
   <string name="set_as_baby_lock_wallpaper">Nastaviť ako tapetu zamykacej obrazovky</string>
-  <string name="success_create_quick_icon_on_desk">Created successfully</string>
+  <string name="success_create_quick_icon_on_desk">Vytvorené</string>
   <string name="title_set_name">Nastaviť názov</string>
   <string name="you_are"/>
+  <string name="baby_album_sharers_page_title">Zdieľať s robinou</string>
+  <string name="view_baby_album">Zobraziť Detský album</string>
 </resources>

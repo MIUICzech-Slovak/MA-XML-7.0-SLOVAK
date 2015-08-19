@@ -34,7 +34,7 @@
   <string name="privacy_policy">Podmienky súkromia</string>
   <string name="provision_finish">OK</string>
   <string name="provision_finish_restart">Reštart</string>
-  <string name="provision_inputmethod_policy_description">"Zobraziť pre túto klávesnicu "</string>
+  <string name="provision_inputmethod_policy_description">"Zobraziť pre túto klávesnicu Podmienky súkromia"</string>
   <string name="provision_inputmethod_policy_description1">Podmienky súkromia</string>
   <string name="setting_locale">Nastavovanie krajiny...</string>
   <string name="shut_down">Vypnúť</string>

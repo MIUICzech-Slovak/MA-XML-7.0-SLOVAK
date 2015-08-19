@@ -258,7 +258,7 @@
   <string name="corporate_unlock_success">SIM Corporate unlock successful.</string>
   <string name="cursorError">Kurzor nemá správne dáta !!!</string>
   <string name="data_enable_summary">Aktivuje dátové prenosy prostredníctvom mobilnej siete</string>
-  <string name="data_enabled">Dátové prenosy</string>
+  <string name="data_enabled">Mobilné dáta</string>
   <string name="deactivate_all">Zrušiť všetko</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Predvolený zvuk (%1$s)</string>

@@ -1922,7 +1922,7 @@ Vyberte váš operačný systém:"</string>
   <string name="page_layout_2">Fotoaparát</string>
   <string name="page_layout_20">Správy</string>
   <string name="page_layout_21">816 kontaktov</string>
-  <string name="page_layout_22">Vlastný profil</string>
+  <string name="page_layout_22">Môj profil</string>
   <string name="page_layout_23">Moje skupiny</string>
   <string name="page_layout_24">OBĽÚBENÉ</string>
   <string name="page_layout_25">Bill Gates</string>
@@ -2305,11 +2305,11 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="screen_paper_mode_turn_off">Zakázané</string>
   <string name="screen_paper_mode_turn_on">Povolené</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_again">Viac sa nepýtať</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Súhlasím</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_agree">Povoliť</string>
   <string name="screen_paper_mode_update_white_pkg_list_privacy_summary">Pre aktualizáciu zoznamu aplikácií ktoré môžu používať čítací režim je nutné internetové pripojenie. Súhlasíte?</string>
-  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Podmienky používania</string>
+  <string name="screen_paper_mode_update_white_pkg_list_privacy_title">Internetové pripojenie</string>
   <string name="screen_paper_mode_update_white_pkg_list_summary">Aktualizovať zoznam aplikácií ktoré môžu používať čítací režim</string>
-  <string name="screen_paper_mode_update_white_pkg_list_title">Aktualizovať zoznam</string>
+  <string name="screen_paper_mode_update_white_pkg_list_title">Aktualizovať automaticky</string>
   <string name="screen_pinning_description">"Keď je funkcia pripnutie obrazovky zapnutá, môžete pomocou nej ponechať obrazovku zobrazenú, dokým ju neuvoľníte.
 
 Ako funkciu použiť:
@@ -3643,11 +3643,11 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">požaduje zapnúť Bluetooth a zviditeľniť vaše zariadenie pre iné zariadenia. Môžete to zmeniť v nastaveniach Bluetooth.</string>
   <string name="bluetooth_ask_enablement_detected">požaduje zapnutie Bluetooth.</string>
   <string name="cancel_action">Zrušiť</string>
-  <string name="children_mode_enable_title">Rodičovská kontrola</string>
+  <string name="children_mode_enable_title">Detský režim</string>
   <string name="children_mode_set_apps_title">Dostupné aplikácie</string>
-  <string name="children_mode_tips_off">Po povolení rodičovskej kontroly, stlačte tlačidlo Domov pre návrat na domovskú obrazovku</string>
-  <string name="children_mode_tips_on">Po vypnutí rodičovskej kontroly, stlačte tlačidlo Domov pre návrat na domovskú obrazovku</string>
-  <string name="children_mode_title">Rodičovská kontrola</string>
+  <string name="children_mode_tips_off">Po povolení detského režimu, stlačte tlačidlo Domov pre návrat na domovskú obrazovku</string>
+  <string name="children_mode_tips_on">Po vypnutí detského režimu, stlačte tlačidlo Domov pre návrat na domovskú obrazovku</string>
+  <string name="children_mode_title">Detský režim</string>
   <string name="confirm_action">OK</string>
   <string name="deny_sms_message">Zakázať odosielanie SMS správ</string>
   <string name="deny_sms_title">Zablokovať SMS</string>
@@ -3665,7 +3665,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="never">Nikdy</string>
   <string name="repeat">Opakovať</string>
   <string name="set_password_action">Nastaviť heslo</string>
-  <string name="set_password_message">Nastavte heslo pre deaktivovanie rodičovskej kontroly a odomknutie zariadenia</string>
+  <string name="set_password_message">Nastavte heslo pre deaktivovanie detského režimu a odomknutie zariadenia</string>
   <string name="set_password_title">Nastavte heslo</string>
   <string name="status_bar_settings_notification_priority">Priorita</string>
   <string name="status_bar_settings_notification_priority_summary">Zobraziť upozornenia vždy ako prvé</string>

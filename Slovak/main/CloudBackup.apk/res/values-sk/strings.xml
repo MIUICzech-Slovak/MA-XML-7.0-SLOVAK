@@ -74,4 +74,5 @@
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="about_to_recover">O obnove</string>
+  <string name="click_try_to_restore_again">Skúste to znova</string>
 </resources>
