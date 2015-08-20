@@ -529,7 +529,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="pref_traffic_saving_no_compress">Nekomprimované</string>
   <string name="pref_traffic_saving_pic_compress_level">Úroveň kompresie obrázkov</string>
   <string name="reach_daily_limit_value_body_open_traffic_saving">Povoliť úsporu dát.</string>
-  <string name="traffic_saving_button_mng">Spravovať aplikácie pre úsporu dát</string>
+  <string name="traffic_saving_button_mng">Aplikácie</string>
   <string name="traffic_saving_need_optimize">Môže byť optimalizované</string>
   <string name="traffic_saving_notification_button_start">Aktivovať</string>
   <string name="traffic_saving_one_key_optimize">Optimalizovať pre úsporu dát</string>
