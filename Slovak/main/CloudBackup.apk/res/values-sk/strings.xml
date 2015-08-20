@@ -2,7 +2,7 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="app_name">Záloha aplikácií​</string>
-  <string name="back_up_task_in_process">zálohovanie</string>
+  <string name="back_up_task_in_process">Zálohovanie...</string>
   <string name="back_up_task_unfinished">obnovenie nebolo dokončené</string>
   <string name="backing_up_to_micloud">Zálohovanie...</string>
   <string name="backup_fail">Zálohovanie nastavení zlyhalo</string>
@@ -25,9 +25,9 @@
   <string name="cloud_app_restore_error">Nebolo možné obnoviť</string>
   <string name="cloud_app_restore_success">Aplikácie obnovené</string>
   <string name="cloud_app_restore_wifi_prompt">Pre obnovenie aplikácií sa pripojte k Wi-Fi.</string>
-  <string name="cloud_back_up_task">zálohovanie</string>
+  <string name="cloud_back_up_task">Zálohovanie...</string>
   <string name="cloud_restore_from_other_device">prebieha obnovenie z %s, Vymazanie zálohy zruší obnovenie iného zariadenia. Chcete ju vymazať?</string>
-  <string name="cloud_restore_task">obnovenie</string>
+  <string name="cloud_restore_task">Obnovenie...</string>
   <string name="cloud_task_in_process">Prebieha %s! Vymazanie zálohy súčasného zariadenia zruší obnovenie iného zariadenia. Chcete ju vymazať?</string>
   <string name="customization">Upraviť</string>
   <string name="date_format">HH:mm:ss dd-MM-yyyy</string>
@@ -40,7 +40,7 @@
   <string name="device_delete_prompt">Vymazať zálohu %s?</string>
   <string name="device_xiaomi">MiPhone</string>
   <string name="dir_date_format">HHmmss_ddMMyyyy</string>
-  <string name="download_settings">Stiahnuť nastavenie plochy: %s%%</string>
+  <string name="download_settings">Sťahovanie nastavení plochy: %s%%</string>
   <string name="download_settings_fail">Sťahovanie nastavení zlyhalo</string>
   <string name="error_unknown">Nastala chyba</string>
   <string name="latest_backup_time_loading">Načítavanie...</string>
@@ -62,7 +62,7 @@
   <string name="recover_settings">Obnoviť nastavenie plochy</string>
   <string name="recover_settings_description">Nevypínajte vaše zariadenie</string>
   <string name="recovering">Obnovenie %s</string>
-  <string name="remove_task_in_process">mazanie</string>
+  <string name="remove_task_in_process">Mazanie...</string>
   <string name="remove_task_unfinished">mazanie nie je dokončené</string>
   <string name="restore_from_cloud">Obnoviť z MiCloud</string>
   <string name="restoreing_file_tile">Obnovovanie %d súborov</string>

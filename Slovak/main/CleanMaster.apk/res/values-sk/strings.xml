@@ -36,7 +36,7 @@
   <string name="button_text_install">Inštalovať</string>
   <string name="button_text_known">OK</string>
   <string name="button_text_uninstall">Odinštalovať</string>
-  <string name="button_text_uninstall_only">Odinšt.</string>
+  <string name="button_text_uninstall_only">Odinšt. %s</string>
   <string name="button_text_view_detail">Podrobnosti</string>
   <string name="button_text_view_file">Súbor</string>
   <string name="cache_title_empty_folder">Prázdna zložka (%d)</string>
@@ -240,4 +240,5 @@
   <string name="sc_allow_network_dialog_button">Povoliť</string>
   <string name="sc_allow_network_dialog_message">Povoliť tejto aplikácií pripojenie na internet pre kontrolu aktualizácií?</string>
   <string name="title_delete_clipboard">Obsah schránky</string>
+  <string name="mainbtn_text_quick_cleanup">Vyčistiť %s</string>
 </resources>
