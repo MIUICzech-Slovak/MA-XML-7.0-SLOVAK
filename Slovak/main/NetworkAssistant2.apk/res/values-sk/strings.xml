@@ -177,7 +177,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="main_toolbar_internet_by_pc_brige">Internet cez USB</string>
   <string name="main_toolbar_internet_by_wifi">Pripojenie cez Wi-Fi</string>
   <string name="main_toolbar_purchase">Navýšiť</string>
-  <string name="main_toolbar_saving">Kompresia</string>
+  <string name="main_toolbar_saving">Úspora dát</string>
   <string name="main_toolbar_statistic">Štatistiky</string>
   <string name="main_traffic_overlimit_text">Nad limit</string>
   <string name="main_traffic_remian_text">Ostáva</string>
