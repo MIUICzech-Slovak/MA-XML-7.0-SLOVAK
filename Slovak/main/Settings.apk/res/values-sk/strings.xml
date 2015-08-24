@@ -3669,6 +3669,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="advanced_text_layout">Povoliť rozšírené nastavenie rozloženia textu</string>
   <string name="experience_optimization_category">Optimalizácia</string>
   <string name="page_layout_32">Obchod Play</string>
-  <string name="pref_edge_handgrip">Edge handgrip</string>
+  <string name="pref_edge_handgrip">Edge controls</string>
   <string name="dndm_alarm_content_not_all">Všetko povolené</string>
 </resources>

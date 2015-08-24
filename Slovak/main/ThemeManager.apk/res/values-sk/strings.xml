@@ -340,7 +340,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="theme_yes">Áno</string>
   <string name="third_party_pickers_activity_title">Nastaviť %1$s</string>
   <string name="title_component">Upraviť tému</string>
-  <string name="title_system_resource">Lokálne zdroje</string>
+  <string name="title_system_resource">Stiahnuté</string>
   <string name="to_activate_the_account">Aktivovať Xiaomi účet.</string>
   <string name="wallpaper_crop">Orezať</string>
   <string name="wallpaper_decoded_error">Nepodarilo sa dešifrovať!</string>
@@ -369,7 +369,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="resource_select_audio_confirm_picker">Vybrať tento zvuk?</string>
   <string name="resource_select_alarm_audio_confirm">Vybrať tento zvuk upozornení?</string>
   <string name="theme_setting">Nastavenia</string>
-  <string name="choose_new_themes">Nové Témy</string>
+  <string name="choose_new_themes">Témy</string>
   <string name="present_local_themes">Stiahnuté</string>
   <string name="present_online_themes">Online</string>
   <string name="lockscreen_magazine_subscribe">Sledujúcich: %1$s</string>
