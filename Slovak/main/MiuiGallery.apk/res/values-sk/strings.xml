@@ -791,4 +791,9 @@ spoločne!"</string>
   <string name="you_are"/>
   <string name="baby_album_sharers_page_title">Zdieľať s robinou</string>
   <string name="view_baby_album">Zobraziť Detský album</string>
+  <string name="change_to_face_mode">Prepnúť na album ľudí</string>
+  <string name="change_to_photo_mode">Prepnúť na detský album</string>
+  <string name="create_baby_album_later_toast">Neskôr môžete vytvoriť detský album vpravo hore</string>
+  <string name="not_remind_any_more">Viac nezobrazovať</string>
+  <string name="operation_rename_baby">Zadajte názov dieťaťa</string>
 </resources>

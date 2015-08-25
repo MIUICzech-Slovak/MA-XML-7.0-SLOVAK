@@ -1226,7 +1226,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="contact_detail_miprofile_subtitle">Karty už boli vymenené</string>
   <string name="contact_detail_profile_switch_fail_network_toast">Nie je možne sa pripojiť k sieti</string>
   <string name="contact_detail_profile_switch_fail_toast">Nastala chyba na našom serveri</string>
-  <string name="contact_detail_profile_switch_off">Karty kontaktu sú deaktivované</string>
+  <string name="contact_detail_profile_switch_off">Deaktivovať karty kontaktu</string>
   <string name="contact_detail_profile_switch_off_fail_toast">Nebolo možné deaktivovať karty kontaktu</string>
   <string name="contact_detail_profile_switch_off_success_toast">Karty kontaktu sú vypnuté</string>
   <string name="contact_detail_profile_switch_on">Zobraziť profilovú fotografiu</string>

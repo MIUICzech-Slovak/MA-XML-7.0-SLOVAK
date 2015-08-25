@@ -85,7 +85,7 @@
   <string name="confirm_restore_positive">Obnoviť</string>
   <string name="confirm_restore_title">Obnoviť správy</string>
   <string name="confirm_send_mms">Jeden z príjemcov obsahuje emailovú adresu. Táto správa bude odoslaná ako MMS.</string>
-  <string name="context_menu_add_calendar">Zobraziť v Kalendári</string>
+  <string name="context_menu_add_calendar">Pridať do kalendára</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>
   <string name="context_menu_add_to_browser_favorite">Pridať do obľúbených v prehliadači</string>
   <string name="context_menu_browse_web">Webstránka</string>
