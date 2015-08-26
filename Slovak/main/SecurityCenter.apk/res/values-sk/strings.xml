@@ -763,4 +763,20 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="shutdown_time_day_tomorrow">Vypnúť zajtra o %1$s</string>
   <string name="btn_text_power_cleanup">Super Čistič</string>
   <string name="history_details_title">Podrobnosti histórie</string>
+  <string name="antivirus_choose_engine">Použiť databázu od %s</string>
+  <string name="antivirus_choose_engine_dialog_title">Vybrať databázu</string>
+  <string name="antivirus_choose_engine_disable_toast">Nie je možné zmeniť databázu ak prebieha kontrola vírusov</string>
+  <string name="antivirus_choose_engine_settings">Nastavenie vírusovej databázy</string>
+  <string name="antivirus_choose_engine_title">Databázy</string>
+  <string name="antivirus_more_engine_dialog_summary">Používanie viacerých vírusových databáz môže predĺžiť čas kontroly.</string>
+  <string name="antivirus_more_engine_dialog_title">Upozornenie</string>
+  <string name="antivirus_none_engine_dialog_ok">OK</string>
+  <string name="antivirus_none_engine_dialog_title">Vybrať databázu</string>
+  <string name="antivirus_privacy_dialog_cloudscan">Odoslať názvy apl. a podrobnosti</string>
+  <string name="antivirus_privacy_dialog_cloudscan_description">Odoslať a skontrolovať názvy aplikácií pomocou online databázy vírusov.</string>
+  <string name="antivirus_privacy_dialog_ok">OK</string>
+  <string name="antivirus_privacy_dialog_summary">Táto funkcia zašifruje a odošle ID vášho zariadenia do AVL a Tencent server (%s).</string>
+  <string name="antivirus_privacy_dialog_summary_link">zobraziť Podmienky používania</string>
+  <string name="antivirus_privacy_dialog_title">Podmienky používania</string>
+  <string name="descx_quick_scan_preparation">Načítavanie...</string>
 </resources>
