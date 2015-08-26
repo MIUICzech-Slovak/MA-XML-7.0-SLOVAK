@@ -387,6 +387,4 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="theme_provision_title">Vyberte si tému</string>
   <string name="theme_precast_create_notification_content">Zobraziť nové témy.</string>
   <string name="theme_precast_create_notification_title">Aktualizované na MIUI 7</string>
-  <string name="theme_precast_update_notification_content">Zobraziť nové témy.</string>
-  <string name="theme_precast_update_notification_title">Aktualizované témy MIUI 7</string>
 </resources>
