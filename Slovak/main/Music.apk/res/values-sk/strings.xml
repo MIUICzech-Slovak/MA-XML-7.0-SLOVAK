@@ -163,7 +163,7 @@
   <string name="higher_quality_music_summary">Streamovať a sťahovať hudbu vo vyššej kvalite</string>
   <string name="i_know">OK</string>
   <string name="i_know_it">OK</string>
-  <string name="impunity_declaration">Táto aplikácia vyžaduje pripojenie na internet pre správne fungovanie streamovaného obsahu.</string>
+  <string name="impunity_declaration">Táto aplikácia vyžaduje pripojenie na internet.</string>
   <string name="impunity_declaration_ignore">Viac sa nepýtať</string>
   <string name="impunity_declaration_negative_text">Ukončiť</string>
   <string name="impunity_declaration_positive_text">OK</string>
@@ -335,4 +335,7 @@
   <string name="atmd_mail"/>
   <string name="atmd_tel"/>
   <string name="not_vip">Prepáčte, nie ste VIP užívateľ.</string>
+  <string name="online_music_enabled_subtitle">Dotykom streamujte svoje obľúbené skladby.</string>
+  <string name="online_music_enabled_summary">Počúvajte a sťahujte vaše obľúbené skladby.</string>
+  <string name="online_music_enabled_title">Streamovanie zdarma</string>
 </resources>

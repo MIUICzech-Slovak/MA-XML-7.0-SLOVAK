@@ -569,9 +569,10 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="notify_weekly_traffic_body">Pre automatické obmedzenie využitých dát nastavte svoj mesačný limit.</string>
   <string name="notify_weekly_traffic_title">Tento týždeň: %s</string>
   <string name="notify_weekly_traffic_title_for_slotnum">%1$s využité %2$s tento týždeň</string>
-  <string name="restrictbackground_conflict_saving_msg">"Can't use Data saver when background data is restricted. Turn Data saver off and restrict background data?"</string>
-  <string name="saving_conflict_dialog_cancel">Cancel</string>
+  <string name="restrictbackground_conflict_saving_msg">Nie je možné použiť Úsporu dát ak su dáta na pozadí zakázané. Deaktivovať Úsporu dát a zakázať dáta na pozadí?</string>
+  <string name="saving_conflict_dialog_cancel">Zrušiť</string>
   <string name="saving_conflict_dialog_ok">OK</string>
-  <string name="saving_conflict_dialog_title">Attention</string>
-  <string name="saving_conflict_restrictbackground_msg">"Can't use Data saver when background data is restricted. Allow background data and turn Data saver on?"</string>
+  <string name="saving_conflict_dialog_title">Upozornenie</string>
+  <string name="saving_conflict_restrictbackground_msg">Nie je možné použiť Úsporu dát ak su dáta na pozadí zakázané. Povoliť dáta na pozadí a Úsporu dát?</string>
+  <string name="main_message_no_package_by_dual">Nastaviť limit dát pre %s</string>
 </resources>
