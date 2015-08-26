@@ -76,7 +76,7 @@ You can switch to GSM call"</string>
     <string name="net_connect_fails">"Can't connect the network, please check your network setting"</string>
     <string name="dialog_positive">Confirm</string>
     <string name="dialog_cancel">Cancel</string>
-    <string name="pref_screen_voip_call_setting_title">Voip call</string>
+    <string name="pref_screen_voip_call_setting_title">Voip hovor</string>
     <string name="pref_group_basic_setting_title">Basic setting</string>
     <string name="pref_key_enable_voip_title">Enable voip call</string>
     <string name="pref_key_cur_activated_number_title">Current activated number</string>
@@ -93,9 +93,9 @@ You can switch to GSM call"</string>
     <string name="engine_activate_successfully">Voip service was started successfully</string>
     <string name="sim_card_has_removed">"SIM card has removed, voip call won't be available"</string>
     <string name="cancel_activation">Cancel</string>
-    <string name="confirm_activation">Confirm activation</string>
-    <string name="voip_call_setting_summary">This service will use your phone number and contacts</string>
-    <string name="voip_call_intro_summary">You can chat with your friends totally free</string>
+    <string name="confirm_activation">Potvrdiť aktiváciu</string>
+    <string name="voip_call_setting_summary">Táto služba používa vaše telefónne číslo a kontakty</string>
+    <string name="voip_call_intro_summary">Môžete zdarma volať s vašimi priateľmi</string>
     <string name="cur_activated_number_tag">%s (Current activated number)</string>
     <string name="menu_bl_call_log">View blocked calls</string>
     <string name="menu_call">Dial</string>
