@@ -10,21 +10,21 @@
         <item>Sobota</item>
     </string-array>
     <string-array name="fw_ota_check">
-        <item>Checking   </item>
-        <item>Checking.  </item>
-        <item>Checking.. </item>
-        <item>Checking...</item>
+        <item>Kontrola   </item>
+        <item>Kontrola.  </item>
+        <item>Kontrola.. </item>
+        <item>Kontrola...</item>
     </string-array>
     <string-array name="fw_ota_prepare">
-        <item>Preparing   </item>
-        <item>Preparing.  </item>
-        <item>Preparing.. </item>
-        <item>Preparing...</item>
+        <item>Pripravovanie   </item>
+        <item>Pripravovanie.  </item>
+        <item>Pripravovanie.. </item>
+        <item>Pripravovanie...</item>
     </string-array>
     <string-array name="fw_ota_upgrade">
-        <item>Updating   </item>
-        <item>Updating.  </item>
-        <item>Updating.. </item>
-        <item>Updating...</item>
+        <item>Aktualizácia   </item>
+        <item>Aktualizácia.  </item>
+        <item>Aktualizácia.. </item>
+        <item>Aktualizácia...</item>
     </string-array>
 </resources>
