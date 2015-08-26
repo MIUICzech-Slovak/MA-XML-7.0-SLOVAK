@@ -135,12 +135,87 @@ Svetlo sa vypne o %1$dmin"</string>
     <string name="main_screen_color">Farba</string>
     <string name="main_screen_sunshine">Slnečné svetlo</string>
     <string name="main_screen_flow">Dúha</string>
-  <string name="wake_up_setting_off">未开启</string>
-  <string name="wake_up_setting_on">已开启</string>
-  <string name="wake_up_sub_info">\"早安唤醒\"，启用后，灯光会在设定的\"起床时间\"前30分钟内逐渐变亮，让身体做好自然醒来的准备</string>
-  <string name="wake_up_time">起床时间 %1$s:%2$s</string>
-  <string name="wake_up_title">早安唤醒</string>
-  <string name="wake_up_turn_off">早安唤醒已经关闭</string>
-  <string name="wake_up_turn_on">早安唤醒已经开启</string>
-  <string name="alarm_progress">正在设置...</string>
+  <string name="wake_up_setting_off">Off</string>
+  <string name="wake_up_setting_on">On</string>
+  <string name="wake_up_sub_info">The lamp will gently increase the brightness 30 minutes before the Wake-up time. Which will make your body ready for a pleasant morning</string>
+  <string name="wake_up_time">Wake Up time %1$s:%2$s</string>
+  <string name="wake_up_title">Wake-up Light</string>
+  <string name="wake_up_turn_off">Wake-up Light</string>
+  <string name="wake_up_turn_on">Wake-up Light</string>
+  <string name="alarm_progress">Setting…</string>
+  <string name="alarm_def_1_min">1分钟</string>
+  <string name="alarm_disable_off">OFF</string>
+  <string name="alarm_repeat_weekday">Weekday</string>
+  <string name="alarm_repeat_weekend">Weekend</string>
+  <string name="already_last_version">Software is up to date!</string>
+  <string name="auth_sub_text">While the lamp is blinking, press the scene button to complete the pairing.</string>
+  <string name="auth_title">Lamp found</string>
+  <string name="checking">Checking…</string>
+  <string name="color_flow_add">Add</string>
+  <string name="color_flow_camera">Camera</string>
+  <string name="color_flow_delete">Delete</string>
+  <string name="color_flow_picture">Photos</string>
+  <string name="color_flow_select_color">Colors</string>
+  <string name="color_flow_select_photo">Color Picker</string>
+  <string name="color_flow_settings">Settings</string>
+  <string name="common_dialog_input_empty">"You can't leave this empty!"</string>
+  <string name="common_dialog_input_rename">Name</string>
+  <string name="common_dialog_input_save">Save</string>
+  <string name="common_dialog_input_too_long">Too long!</string>
+  <string name="common_discard_changes">Discard changes?</string>
+  <string name="common_discard_confirm">Discard</string>
+  <string name="common_set_complete">Done</string>
+  <string name="confirm_disconnect">Disconnect the bluetooth?</string>
+  <string name="confirm_disconnect_btn_ok">Disconnect</string>
+  <string name="default_device_name">Yeelight Lamp</string>
+  <string name="delay_light_introduce">Long press the power button until lamp is blinking to activate the sleep timer</string>
+  <string name="delay_light_off">Off</string>
+  <string name="delay_light_time_text">Timer</string>
+  <string name="feedback">Feedback</string>
+  <string name="feedback_commit_success">Your feedback is submitted</string>
+  <string name="feedback_say_something"/>
+  <string name="feedback_sending">Sending...</string>
+  <string name="feedback_server_error">Server is busy, please try again later</string>
+  <string name="fw_ota_btn_start_now">Update Now</string>
+  <string name="fw_ota_confirm_failure">Server is busy, please try again later</string>
+  <string name="fw_ota_introduce_failed"/>
+  <string name="fw_release_note">Release Note</string>
+  <string name="fw_upgrade_release_note">"1.Night Mode improved
+2.Bug fixed
+3.Performance improved"</string>
+  <string name="guide_other_mode">"Try other modes
+ using same gesture"</string>
+  <string name="guide_right_left">"Swipe left or right
+ to change colors"</string>
+  <string name="guide_up_down">"Swipe up or down
+ to control the brightness"</string>
+  <string name="help_bt_open">Turn on bluetooth</string>
+  <string name="help_disconnect">Disconnect with other phones</string>
+  <string name="help_distance">Make sure the lamp is near to your phone</string>
+  <string name="help_fw_version">Firmware version:</string>
+  <string name="help_plugin">Re-plug power adapter</string>
+  <string name="help_sw_version">Software version:</string>
+  <string name="login_agreement1">By tapping sign up, you agree to our</string>
+  <string name="login_agreement2">Terms and Privacy Policy</string>
+  <string name="login_inprogress">Login…</string>
+  <string name="login_jump">Skip</string>
+  <string name="logout">Logout</string>
+  <string name="logout_confirm">是否注销当前用户?</string>
+  <string name="main_screen_switch_off">Power</string>
+  <string name="main_screen_switch_on">Power</string>
+  <string name="mi_band_add_failed">Pairing failed!</string>
+  <string name="mi_band_bind_connect_failed_retry">Failed! Try again</string>
+  <string name="mi_band_bind_failed">Connecting failed!</string>
+  <string name="mi_band_bind_shake">Mi Band vibrating?</string>
+  <string name="mi_band_bind_unbind_confirm_btn">Unpair</string>
+  <string name="mi_band_check_mi_health_exist">Please make sure Mi Fit is the lastest version</string>
+  <string name="mi_band_common_sub_title">Automatic turn off, after you full sleep</string>
+  <string name="mi_band_common_title">小米手环控制</string>
+  <string name="mi_band_confirm_upgrade">升级固件</string>
+  <string name="mi_band_connecting">Connecting…</string>
+  <string name="mi_band_low_version_notice">使用小米手环功能需要升级到最新固件</string>
+  <string name="mi_band_reopen_broadcast">This require Mi Band BLE Broadcast. Tap \"Ok\" to activate</string>
+  <string name="unable_bind_rebind">Pair a lamp</string>
+
+
 </resources>
