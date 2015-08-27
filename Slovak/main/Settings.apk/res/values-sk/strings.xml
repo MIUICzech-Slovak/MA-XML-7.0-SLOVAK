@@ -866,6 +866,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="date_and_time_settings_title_setup_wizard">Nastaviť dátum a čas</string>
   <string name="date_picker_title">Dátum</string>
   <string name="date_time_24hour">Použiť 24-hodinový formát</string>
+  <string name="date_time_24hour_title">24-hodinový formát</string>
   <string name="date_time_auto">Automatický dátum a čas</string>
   <string name="date_time_auto_summaryOff">Použiť čas zo siete</string>
   <string name="date_time_auto_summaryOn">Použiť čas zo siete</string>
@@ -994,7 +995,15 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">Úložisko USB sa nepodarilo odpojiť. Skúste to znova neskôr.</string>
   <string name="dlg_ok">OK</string>
+  <string name="dndm_alarm_content">Zvuky</string>
+  <string name="dndm_alarm_content_all">Povoliť všetko</string>
+  <string name="dndm_alarm_content_call">Hovory</string>
+  <string name="dndm_alarm_content_call_sms">Hovory a správy</string>
+  <string name="dndm_alarm_content_event">Upozornenia</string>
+  <string name="dndm_alarm_content_event_and_call">Upozornenia a hovory</string>
+  <string name="dndm_alarm_content_event_and_sms">Upozornenia a správy</string>
   <string name="dndm_alarm_content_not_all">Všetko povolené</string>
+  <string name="dndm_alarm_content_sms">Správy</string>
   <string name="dndm_auto_button_title">Naplánovať</string>
   <string name="dndm_auto_setting_group">Naplánovať aktiváciu</string>
   <string name="dndm_auto_time_setting">Nastavenie času</string>
@@ -3312,6 +3321,7 @@ sl. Wi‑Fi Assistant"</string>
   <string name="wifi_context_menu_connect">Pripojiť k Wi-Fi sieti</string>
   <string name="wifi_context_menu_forget">Zabudnúť sieť</string>
   <string name="wifi_datanetwork_switch_not_remind">Viac nezobrazovať</string>
+  <string name="wifi_dialog_remind_type_title">Mobilné dáta</string>
   <string name="wifi_disabled_generic">Vypnuté</string>
   <string name="wifi_disabled_help">Sieť nebola použitá z dôvodu zlého pripojenia. Toto nastavenie môžete vypnúť na obrazovke Nastavenia v časti Wi-Fi, položka ponuky Pokročilé.</string>
   <string name="wifi_disabled_network_failure">Bolo zabránené slabému pripojeniu</string>
@@ -3557,6 +3567,8 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="wifi_suspend_efficiency_title">Zlepšiť výkonnosť</string>
   <string name="wifi_suspend_optimizations">Optimalizácia Wi-Fi</string>
   <string name="wifi_suspend_optimizations_summary">Minimalizovať spotrebu batérie pri zapnutej sieti Wi-Fi</string>
+  <string name="wifi_switch_to_gsm_message">Spojenie s Wi-Fi bolo prerušené. Použiť mobilné dátové pripojenie?</string>
+  <string name="wifi_switch_to_gsm_title">Použiť GSM?</string>
   <string name="wifi_tether_checkbox_text">Prenosný hotspot Wi-Fi</string>
   <string name="wifi_tether_configure_ap_text">Konfigurácia hotspotu Wi-Fi</string>
   <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
@@ -3635,6 +3647,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="yes">Áno</string>
   <string name="yes_all_caps">ÁNO</string>
   <string name="zen_mode_alarm_info">Budíky sú vždy považované za prioritné vyrušenia</string>
+  <string name="zen_mode_alarm_use">Zvuky</string>
   <string name="zen_mode_automation_category">Automatizácia</string>
   <string name="zen_mode_default_option">Dokým túto funkciu nevypnete</string>
   <string name="zen_mode_downtime_category">Prestoje (iba prioritné vyrušenia)</string>
