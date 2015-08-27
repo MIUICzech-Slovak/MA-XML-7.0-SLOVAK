@@ -241,4 +241,7 @@
   <string name="sc_allow_network_dialog_message">Povoliť tejto aplikácií pripojenie na internet pre kontrolu aktualizácií?</string>
   <string name="title_delete_clipboard">Obsah schránky</string>
   <string name="mainbtn_text_quick_cleanup">Vyčistiť %s</string>
+  <string name="pref_summary_open_optimizer_memory_scan">Automaticky skontrolovať a vyčistiť RAM</string>
+  <string name="pref_title_open_optimizer_memory_scan">Čistenie RAM</string>
+  <string name="toast_select_white_need_remove">Vyberte položky na vyčistenie</string>
 </resources>

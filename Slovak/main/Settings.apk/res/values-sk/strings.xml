@@ -3671,4 +3671,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="page_layout_32">Obchod Play</string>
   <string name="pref_edge_handgrip">Edge controls</string>
   <string name="dndm_alarm_content_not_all">Všetko povolené</string>
+  <string name="music_dirac_mode_piston_color">Color Edition</string>
 </resources>
