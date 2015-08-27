@@ -3,6 +3,7 @@
 <resources>
   <string name="about_smart_antispam_summary">Rozpoznať inteligentne neznáme čísla</string>
   <string name="about_telephone_fraud">Vyvarovať sa obťažovaniu</string>
+  <string name="account_title">Profil</string>
   <string name="account_yellowpage_followed">Overené účty</string>
   <string name="agree">Súhlasím</string>
   <string name="all_numbers">Všetky čísla</string>
@@ -199,5 +200,4 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
-  <string name="account_title">Profil</string>
 </resources>

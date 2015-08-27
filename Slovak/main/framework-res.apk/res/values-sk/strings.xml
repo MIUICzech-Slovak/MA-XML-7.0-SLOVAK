@@ -247,7 +247,7 @@ pre %s."</string>
   <string name="factorytest_no_action">Nebol nájdený žiadny balíček umožňujúci test FACTORY_TEST.</string>
   <string name="factorytest_not_system">Test FACTORY_TEST je možné uskutočniť iba pri balíčkoch nainštalovaných v priečinku /system/app.</string>
   <string name="factorytest_reboot">Reštartovať</string>
-  <string name="fast_scroll_alphabet">" AÁÄBCČDĎDZDŽEÉFGHCHIÍJKLĽMNŇOÓÔPRŔSŠTŤUÚVWXYÝZŽ"</string>		
+  <string name="fast_scroll_alphabet">" AÁÄBCČDĎDZDŽEÉFGHCHIÍJKLĽMNŇOÓÔPRŔSŠTŤUÚVWXYÝZŽ"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Požiadavka zadaná pomocou kódu funkcie bola úspešne dokončená.</string>
   <string name="fcError">Problém s pripojením alebo neplatný kód funkcie.</string>
@@ -437,10 +437,13 @@ Skúste to znova o %d s."</string>
   <string name="launch_warning_title">Presmerovaná aplikácia</string>
   <string name="list_delimeter">", "</string>
   <string name="loading">Prebieha načítavanie...</string>
+  <string name="location_usage_restricted_body">Povoliť</string>
+  <string name="location_usage_restricted_title">Poloha na pozadí zakázaná</string>
   <string name="lockscreen_access_pattern_cell_added">Bunka bola pridaná</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostný vzor bol vymazaný</string>
   <string name="lockscreen_access_pattern_detected">Bezpečnostný vzor bol dokončený</string>
   <string name="lockscreen_access_pattern_start">Bezpečnostný vzor bol začatý</string>
+  <string name="lockscreen_airplane_mode_on">Režim Lietadlo</string>
   <string name="lockscreen_battery_short">%d %%</string>
   <string name="lockscreen_carrier_default">Žiadny signál</string>
   <string name="lockscreen_charged">Nabitá batéria</string>
@@ -479,6 +482,7 @@ Ak chcete získať inú kartu SIM, kontaktujte svojho operátora."</string>
   <string name="lockscreen_plugged_in">Prebieha nabíjanie, %d %%</string>
   <string name="lockscreen_return_to_call">Zavolať späť</string>
   <string name="lockscreen_screen_locked">Obrazovka je uzamknutá.</string>
+  <string name="lockscreen_sim_error_message_short">Chybná karta.</string>
   <string name="lockscreen_sim_locked_message">Karta SIM je uzamknutá.</string>
   <string name="lockscreen_sim_puk_locked_instructions">Prečítajte si Príručku používateľa alebo kontaktujte podporu zákazníka.</string>
   <string name="lockscreen_sim_puk_locked_message">Karta SIM je uzamknutá pomocou kódu PUK.</string>
@@ -768,6 +772,7 @@ Skúste to znova o %d s."</string>
   <string name="permdesc_manageCaCertificates">Umožňuje aplikácii inštalovať a odinštalovať certifikáty CA ako dôveryhodné poverenia.</string>
   <string name="permdesc_manageDeviceAdmins">Umožňuje držiteľovi pridať alebo odstrániť správcov aktívnych zariadení. Bežné aplikácie by toto povolenie nemali nikdy potrebovať.</string>
   <string name="permdesc_manageDocs">Umožňuje aplikácii spravovať ukladací priestor dokumentov.</string>
+  <string name="permdesc_manageLocationPolicy">Povoliť aplikáciam spravovať vašu polohu a nastaviť pravidlá pre jednotlivé apl.</string>
   <string name="permdesc_manageNetworkPolicy">Umožňuje aplikácii spravovať pravidlá siete a definovať pravidlá pre konkrétnu aplikáciu.</string>
   <string name="permdesc_manageUsb">Umožňuje aplikácii spravovať predvoľby a povolenia zariadení USB.</string>
   <string name="permdesc_manageUsers">Umožňuje aplikáciám spravovať používateľov v zariadení, vrátane vyhľadávania dopytov, vytvorenia a odstránenia.</string>
@@ -931,6 +936,8 @@ Skúste to znova o %d s."</string>
   <string name="permgrouplab_voicemail">Hlasová schránka</string>
   <string name="permgrouplab_wallpaper">Tapeta</string>
   <string name="permgrouplab_writeDictionary">Zápis do používateľského slovníka</string>
+  <string name="permission">Oprávnenie</string>
+  <string name="permission_remember_choice">Zapamätať</string>
   <string name="permission_request_notification_title">Vyžaduje sa povolenie</string>
   <string name="permission_request_notification_with_subtitle">"Vyžaduje sa oprávnenie
 pre účet %s"</string>
@@ -1046,6 +1053,7 @@ pre účet %s"</string>
   <string name="permlab_manageCaCertificates">spravovať dôveryhodné poverenia</string>
   <string name="permlab_manageDeviceAdmins">pridanie alebo odstránenie správcu zariadenia</string>
   <string name="permlab_manageDocs">správa ukladacieho priestoru dokumentov</string>
+  <string name="permlab_manageLocationPolicy">Spravovať podmienky polohy</string>
   <string name="permlab_manageNetworkPolicy">spravovať pravidlá siete</string>
   <string name="permlab_manageUsb">spravovať predvoľby a povolenia zariadení USB</string>
   <string name="permlab_manageUsers">správa používateľov</string>
@@ -1171,6 +1179,8 @@ pre účet %s"</string>
   <string name="phoneTypeWork">Práca</string>
   <string name="phoneTypeWorkMobile">Pracovný mobil</string>
   <string name="phoneTypeWorkPager">Pracovný pager</string>
+  <string name="pinpuk_attempts">"
+Ostáva: "</string>
   <string name="policydesc_disableCamera">Zakázať používanie všetkých fotoaparátov zariadenia.</string>
   <string name="policydesc_disableKeyguardFeatures">Zabrániť používaniu niektorých funkcií v zámke klávesov.</string>
   <string name="policydesc_encryptedStorage">Vyžadovať šifrovanie uložených údajov aplikácií.</string>
@@ -1204,7 +1214,9 @@ pre účet %s"</string>
   <string name="print_service_installed_message">Povoľte klepnutím</string>
   <string name="print_service_installed_title">Nainštalovaná služba: %s</string>
   <string name="progress_erasing">Prebieha vymazávanie ukladacieho priestoru USB...</string>
+  <string name="progress_nomediapresent">K dispozícii nie sú žiadne vymeniteľné médiá...</string>
   <string name="progress_unmounting">Prebieha odpájanie úložiska USB...</string>
+  <string name="quick_contacts_not_available">Nebola nájdená žiadna aplikácia, pomocou ktorej by bolo možné zobraziť tento kontakt.</string>
   <string name="reason_service_unavailable">Tlačová služba nie je povolená</string>
   <string name="reason_unknown">neznáme</string>
   <string name="reboot_confirm">Telefón sa reštartuje.</string>
@@ -1350,8 +1362,15 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="ssl_certificate">Certifikát zabezpečenia</string>
   <string name="ssl_certificate_is_valid">Certifikát je platný.</string>
   <string name="status_bar_notification_info_overflow">999+</string>
+  <string name="stk_cc_ss_to_dial">Požiadavka SS bola upravená na požiadavku DIAL.</string>
+  <string name="stk_cc_ss_to_ss">Požiadavka SS bola upravená na novú požiadavku SS.</string>
+  <string name="stk_cc_ss_to_ussd">Požiadavka SS bola upravená na požiadavku USSD.</string>
+  <string name="stk_cc_ussd_to_dial">Požiadavka USSD bola upravená na požiadavku DIAL.</string>
+  <string name="stk_cc_ussd_to_ss">Požiadavka USSD bola upravená na požiadavku SS.</string>
+  <string name="stk_cc_ussd_to_ussd">Požiadavka USSD bola upravená na novú požiadavku USSD.</string>
   <string name="storage_internal">Interné úložisko</string>
   <string name="storage_sd_card">Karta SD</string>
+  <string name="storage_uicc">Úložisko UICC</string>
   <string name="storage_usb">Ukladací priestor USB</string>
   <string name="submit">Odoslať</string>
   <string name="sync_binding_label">Synchronizovať</string>
@@ -1377,6 +1396,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="time_picker_increment_hour_button">Pridať hodinu</string>
   <string name="time_picker_increment_minute_button">Pridať minútu</string>
   <string name="time_picker_increment_set_pm_button">Nastaviť čas popoludní</string>
+  <string name="transient_navigation_confirmation_long">Potiahnite od hornej hrany pre zobrazenie lišty</string>
   <string name="turn_off_radio">Vypnúť bezdrôtové pripojenie</string>
   <string name="turn_on_radio">Zapnúť bezdrôtové pripojenie</string>
   <string name="tutorial_double_tap_to_zoom_message_short">Ovládacie prvky lupy zobrazíte dvojitým dotknutím</string>
@@ -1428,6 +1448,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="vpn_title_long">Aplikácia %s aktivovala VPN</string>
   <string name="wait">Čakajte</string>
   <string name="wallpaper_binding_label">Tapeta</string>
+  <string name="web_user_agent_target_content">"Mobile "</string>
   <string name="webpage_unresponsive">"Stránka nereaguje.
 
 Chcete ju zavrieť?"</string>
@@ -1445,14 +1466,24 @@ Chcete ju zavrieť?"</string>
   <string name="webviewchromium_accessibility_time_picker_second">Sekunda</string>
   <string name="webviewchromium_actionbar_share">Zdieľať</string>
   <string name="webviewchromium_actionbar_web_search">Vyhľadávanie na webe</string>
+  <string name="webviewchromium_color_picker_button_black">Čierna</string>
+  <string name="webviewchromium_color_picker_button_blue">Modrá</string>
   <string name="webviewchromium_color_picker_button_cancel">Zrušiť</string>
+  <string name="webviewchromium_color_picker_button_cyan">Azúrová</string>
+  <string name="webviewchromium_color_picker_button_green">Zelená</string>
+  <string name="webviewchromium_color_picker_button_magenta">Purpurová</string>
   <string name="webviewchromium_color_picker_button_more">Viac</string>
+  <string name="webviewchromium_color_picker_button_red">Červená</string>
   <string name="webviewchromium_color_picker_button_set">Nastaviť</string>
+  <string name="webviewchromium_color_picker_button_white">Biela</string>
+  <string name="webviewchromium_color_picker_button_yellow">Žltá</string>
   <string name="webviewchromium_color_picker_dialog_title">Vybrať farbu</string>
   <string name="webviewchromium_color_picker_hue">Odtieň</string>
   <string name="webviewchromium_color_picker_saturation">Sýtosť</string>
   <string name="webviewchromium_color_picker_value">Hodnota</string>
+  <string name="webviewchromium_copy_to_clipboard_failure_message">Kopírovanie do schránky zlyhalo</string>
   <string name="webviewchromium_date_picker_dialog_clear">Vymazať</string>
+  <string name="webviewchromium_date_picker_dialog_other_button_label">Iné</string>
   <string name="webviewchromium_date_picker_dialog_set">Nastaviť</string>
   <string name="webviewchromium_date_picker_dialog_title">Nastaviť dátum</string>
   <string name="webviewchromium_date_time_picker_dialog_title">Nastaviť dátum a čas</string>
@@ -1465,6 +1496,11 @@ Chcete ju zavrieť?"</string>
   <string name="webviewchromium_month_picker_dialog_title">Nastaviť mesiac</string>
   <string name="webviewchromium_opening_file_error">Otvorenie vybrat. súboru zlyhalo</string>
   <string name="webviewchromium_private_browsing_warning">Daná funkcia nie je v tejto verzii systému Android podporovaná.</string>
+  <string name="webviewchromium_profiler_error_toast">Spustenie profilovača zlyhalo</string>
+  <string name="webviewchromium_profiler_no_storage_toast">Profilovač nie je možné spustiť, pretože nie je pripravené externé úložisko</string>
+  <string name="webviewchromium_profiler_started_toast">Profilovač sa spustil</string>
+  <string name="webviewchromium_profiler_stopped_toast">Profilovač bol dokončený. Výsledky nájdete v súbore %1$s.</string>
+  <string name="webviewchromium_time_picker_dialog_title">Nastaviť čas</string>
   <string name="webviewchromium_week_picker_dialog_title">Nastaviť týždeň</string>
   <string name="week">týždeň</string>
   <string name="weeks">týždne</string>
@@ -1488,6 +1524,7 @@ Chcete ju zavrieť?"</string>
   <string name="wifi_p2p_show_pin_message">PIN:</string>
   <string name="wifi_p2p_to_message">Komu:</string>
   <string name="wifi_p2p_turnon_message">Spustiť priame pripojenie siete Wi-Fi. Táto možnosť vypne sieť Wi-Fi v režime klient alebo hotspot.</string>
+  <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
   <string name="wifi_watchdog_network_disabled">Nepodarilo sa pripojiť k sieti Wi-Fi</string>
   <string name="wifi_watchdog_network_disabled_detailed">" má nekvalitné internetové pripojenie."</string>
   <string name="wireless_display_route_description">Bezdrôtový displej</string>
@@ -1496,41 +1533,4 @@ Chcete ju zavrieť?"</string>
   <string name="year">rok</string>
   <string name="years">roky</string>
   <string name="yes">OK</string>
-     <string name="lockscreen_airplane_mode_on">Režim Lietadlo</string>
-     <string name="lockscreen_sim_error_message_short">Chybná karta.</string>
-     <string name="permission">Oprávnenie</string>
-     <string name="permission_remember_choice">Zapamätať</string>
-     <string name="pinpuk_attempts">"
-Ostáva: "</string>
-     <string name="progress_nomediapresent">K dispozícii nie sú žiadne vymeniteľné médiá...</string>
-     <string name="quick_contacts_not_available">Nebola nájdená žiadna aplikácia, pomocou ktorej by bolo možné zobraziť tento kontakt.</string>
-     <string name="stk_cc_ss_to_dial">Požiadavka SS bola upravená na požiadavku DIAL.</string>
-     <string name="stk_cc_ss_to_ss">Požiadavka SS bola upravená na novú požiadavku SS.</string>
-     <string name="stk_cc_ss_to_ussd">Požiadavka SS bola upravená na požiadavku USSD.</string>
-     <string name="stk_cc_ussd_to_dial">Požiadavka USSD bola upravená na požiadavku DIAL.</string>
-     <string name="stk_cc_ussd_to_ss">Požiadavka USSD bola upravená na požiadavku SS.</string>
-     <string name="stk_cc_ussd_to_ussd">Požiadavka USSD bola upravená na novú požiadavku USSD.</string>
-     <string name="storage_uicc">Úložisko UICC</string>
-     <string name="transient_navigation_confirmation_long">Potiahnite od hornej hrany pre zobrazenie lišty</string>
-     <string name="web_user_agent_target_content">"Mobile "</string>
-     <string name="webviewchromium_color_picker_button_black">Čierna</string>
-     <string name="webviewchromium_color_picker_button_blue">Modrá</string>
-     <string name="webviewchromium_color_picker_button_cyan">Azúrová</string>
-     <string name="webviewchromium_color_picker_button_green">Zelená</string>
-     <string name="webviewchromium_color_picker_button_magenta">Purpurová</string>
-     <string name="webviewchromium_color_picker_button_red">Červená</string>
-     <string name="webviewchromium_color_picker_button_white">Biela</string>
-     <string name="webviewchromium_color_picker_button_yellow">Žltá</string>
-     <string name="webviewchromium_copy_to_clipboard_failure_message">Kopírovanie do schránky zlyhalo</string>
-     <string name="webviewchromium_date_picker_dialog_other_button_label">Iné</string>
-     <string name="webviewchromium_profiler_error_toast">Spustenie profilovača zlyhalo</string>
-     <string name="webviewchromium_profiler_no_storage_toast">Profilovač nie je možné spustiť, pretože nie je pripravené externé úložisko</string>
-     <string name="webviewchromium_profiler_started_toast">Profilovač sa spustil</string>
-     <string name="webviewchromium_profiler_stopped_toast">Profilovač bol dokončený. Výsledky nájdete v súbore %1$s.</string>
-     <string name="webviewchromium_time_picker_dialog_title">Nastaviť čas</string>
-     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
-     <string name="location_usage_restricted_body">Povoliť</string>
-     <string name="location_usage_restricted_title">Poloha na pozadí zakázaná</string>
-     <string name="permdesc_manageLocationPolicy">Povoliť aplikáciam spravovať vašu polohu a nastaviť pravidlá pre jednotlivé apl.</string>
-     <string name="permlab_manageLocationPolicy">Spravovať podmienky polohy</string>
 </resources>

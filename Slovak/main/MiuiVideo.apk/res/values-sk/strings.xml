@@ -16,6 +16,7 @@
   <string name="adjust_position_prev_media_notice">Predchádzajúce</string>
   <string name="ads_control">Nastavenie reklamy</string>
   <string name="ads_control_desc">Zobraziť reklamu pri spustení aplikácie</string>
+  <string name="ads_ignore">Preskočiť</string>
   <string name="airkan_control_device_des">Môžete ovládať prehrávanie pomocou tlačidiel v dolnej časti</string>
   <string name="airkan_device_xiaomi_phone">Xiaomi</string>
   <string name="airkan_playing">hrajú</string>
@@ -35,6 +36,8 @@
   <string name="app_update_background">Aktualizovať aplikáciu na pozadí</string>
   <string name="app_upgrade_version">Nová verzia</string>
   <string name="app_version">Verzia aplikácie</string>
+  <string name="app_wifi_mode">Automaticky aktualizovať na Wi-Fi</string>
+  <string name="app_wifi_mode_summary">Ak ste pripojený na Wi-Fi, automaticky aktualizovať na najnovšiu verziu.</string>
   <string name="authenticated_failed">Prihlásenie zlyhalo</string>
   <string name="authenticating">Kontrola</string>
   <string name="authenticating_manually">Autorizácia zlyhala</string>
@@ -422,7 +425,4 @@
   <string name="xiaomi_user">Xiaomi užívateľ</string>
   <string name="yinyuetai">YinYueTai</string>
   <string name="youku">Youku</string>
-  <string name="app_wifi_mode">Automaticky aktualizovať na Wi-Fi</string>
-  <string name="app_wifi_mode_summary">Ak ste pripojený na Wi-Fi, automaticky aktualizovať na najnovšiu verziu.</string>
-  <string name="ads_ignore">Preskočiť</string>
 </resources>

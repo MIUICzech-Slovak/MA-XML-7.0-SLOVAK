@@ -22,7 +22,10 @@
   <string name="artist_name">Umelec</string>
   <string name="artist_search_title">Umelec</string>
   <string name="artist_view">Umelec</string>
+  <string name="atmd_copyright_info">Online obsah poskytuje Ultimate Inc.</string>
+  <string name="atmd_mail"/>
   <string name="atmd_music">Ultimate</string>
+  <string name="atmd_tel"/>
   <string name="audio_picker_title">Vyberte skladbu</string>
   <string name="auto_download_in_wifi">Žiadne internetové pripojenie</string>
   <string name="available_playlist_name_format">Nový playlist %d</string>
@@ -230,9 +233,13 @@
   <string name="normal_quality">Dobrá</string>
   <string name="not_login">Neprihlásený</string>
   <string name="not_selected">Zvoľte skladbu</string>
+  <string name="not_vip">Prepáčte, nie ste VIP užívateľ.</string>
   <string name="nowplaying_menu_item_delete">Vymazať</string>
   <string name="ok">OK</string>
   <string name="online_music">Online Hudba</string>
+  <string name="online_music_enabled_subtitle">Dotykom streamujte svoje obľúbené skladby.</string>
+  <string name="online_music_enabled_summary">Počúvajte a sťahujte vaše obľúbené skladby.</string>
+  <string name="online_music_enabled_title">Streamovanie zdarma</string>
   <string name="online_playlist_is_empty">Online playlist je prázdny!</string>
   <string name="only_online_can_select_quality">Kvalita môže byť zvolená len pre online skladby</string>
   <string name="order_process_fail">Nebolo možné overiť váš účet, skúste to znova neskôr.</string>
@@ -331,11 +338,4 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
-  <string name="atmd_copyright_info">Online obsah poskytuje Ultimate Inc.</string>
-  <string name="atmd_mail"/>
-  <string name="atmd_tel"/>
-  <string name="not_vip">Prepáčte, nie ste VIP užívateľ.</string>
-  <string name="online_music_enabled_subtitle">Dotykom streamujte svoje obľúbené skladby.</string>
-  <string name="online_music_enabled_summary">Počúvajte a sťahujte vaše obľúbené skladby.</string>
-  <string name="online_music_enabled_title">Streamovanie zdarma</string>
 </resources>

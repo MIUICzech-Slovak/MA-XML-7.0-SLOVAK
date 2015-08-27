@@ -163,16 +163,23 @@
   <string name="description_direction_up">Hore pre %s.</string>
   <string name="description_direction_up_left">Hore vľavo</string>
   <string name="description_direction_up_right">Hore vpravo</string>
+  <string name="description_image_button_answer">Potiahnite nahor pre prijatie</string>
+  <string name="description_image_button_dialpad">Číselník</string>
   <string name="description_image_button_eight">osem</string>
   <string name="description_image_button_five">päť</string>
   <string name="description_image_button_four">štyri</string>
+  <string name="description_image_button_hangup">Koniec</string>
+  <string name="description_image_button_message_enter">Potiahnite nahor pre odpoveď SMS</string>
+  <string name="description_image_button_message_exit">Skryť správy</string>
   <string name="description_image_button_nine">deväť</string>
   <string name="description_image_button_one">jeden</string>
   <string name="description_image_button_pound">libra</string>
+  <string name="description_image_button_reject">Potiahnite nahor pre odmietnutie</string>
   <string name="description_image_button_seven">sedem</string>
   <string name="description_image_button_six">šesť</string>
   <string name="description_image_button_star">hviezdička</string>
   <string name="description_image_button_three">tri</string>
+  <string name="description_image_button_tools">Nastavenia</string>
   <string name="description_image_button_two">dva</string>
   <string name="description_image_button_zero">nula</string>
   <string name="description_target_accept_upgrade_to_video_request">Prijať žiadosť o videohovor</string>
@@ -356,6 +363,7 @@
   <string name="messageCFU">Vždy použiť toto číslo</string>
   <string name="mhh_disable">Doktori, zdravie a nemocnice zakázané</string>
   <string name="mhh_enable">Doktori, zdravie a nemocnice povolené</string>
+  <string name="miprofile_stranger_card">Stranger card</string>
   <string name="mismatchPin">Zadané PINy sa nezhodujú. Opakujte pokus.</string>
   <string name="mismatchPin2">Zadané PIN2 sa nezhodujú. Opakujte pokus.</string>
   <string name="mobile_networks">Nastavenie mobilnej siete</string>
@@ -708,12 +716,4 @@
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
   <string name="wild_prompt_str">Nahradiť zástupný znak znakom</string>
-  <string name="description_image_button_answer">Potiahnite nahor pre prijatie</string>
-  <string name="description_image_button_dialpad">Číselník</string>
-  <string name="description_image_button_hangup">Koniec</string>
-  <string name="description_image_button_message_enter">Potiahnite nahor pre odpoveď SMS</string>
-  <string name="description_image_button_message_exit">Skryť správy</string>
-  <string name="description_image_button_reject">Potiahnite nahor pre odmietnutie</string>
-  <string name="description_image_button_tools">Nastavenia</string>
-  <string name="miprofile_stranger_card">Stranger card</string>
 </resources>

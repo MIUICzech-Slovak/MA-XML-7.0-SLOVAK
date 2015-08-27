@@ -38,7 +38,9 @@
   <string name="connect_internet_by_usbshare">Internet cez USB</string>
   <string name="connect_internet_by_wifi">Pripojenie cez Wi-Fi</string>
   <string name="current_network_state_not_need_diagnose">Všetko je v poriadku</string>
+  <string name="daily_limit_and_lock_screen">Denná spotreba dát a upozornenia</string>
   <string name="daily_limit_network_available_body">Zobraziť spotrebu dát.</string>
+  <string name="daily_limit_network_available_body_open_traffic_saving">Povoliť mobilné dáta.</string>
   <string name="daily_limit_over_message">Prekročili ste denný limit dát.</string>
   <string name="daily_pkg_traffic">Nastavte limit predplatených dát</string>
   <string name="data_network_blocked_notification_title">Žiadne dátové pripojenie</string>
@@ -143,6 +145,10 @@ For more info check the message you received from your service provider"</string
   <string name="lock_screen_traffic_notify_body">Uzamknuté %2$s o %1$s. Stiahnuté %3$s</string>
   <string name="lock_screen_traffic_purchase_textview">Zakúpiť (Len v Číne)</string>
   <string name="lock_screen_traffic_warn_title">Spotreba dát počas vyp. displeja</string>
+  <string name="lock_screen_warning_category">Upozornenie na zamykacej obrazovke</string>
+  <string name="lock_screen_warning_switch_summary">Zobraziť upozornenie na zamykacej obrazovke ak spotreba dát prekročí stanovenú hranicu</string>
+  <string name="lock_screen_warning_switch_title">Upozornenie na zamykacej obrazovke</string>
+  <string name="lock_screen_warning_value">Varovná hodnota spotreby dát</string>
   <string name="main_alert_message_month_limit_error">Zadaný limit nie je správny</string>
   <string name="main_alert_message_no_imsi">Nenašla sa žiadna SIM karta</string>
   <string name="main_alert_message_no_mobile_package">Limit mobilných dát nie je nastavený</string>
@@ -154,6 +160,7 @@ mobilné internetové pripojenie"</string>
   <string name="main_button_usage_adjust_manual">Zadajte využité dáta</string>
   <string name="main_button_usage_adjusting">Mení sa...</string>
   <string name="main_button_usage_package_setting">Zadajte využité dáta</string>
+  <string name="main_message_no_package_by_dual">Nastaviť limit dát pre %s</string>
   <string name="main_primary_message_traffic_cur_leisure">Spotreba dát mimo špičku</string>
   <string name="main_primary_message_traffic_cur_normal">Pod limitom dát</string>
   <string name="main_primary_message_traffic_cur_normal_overlimit">Prekročený limit dát</string>
@@ -230,20 +237,40 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
  1. Skontrolujte nastavenie mobilného dátového pripojenia s nastavením u vášho operátora. Skúste použiť inú SIM kartu.
  2. Ak používate dve SIM karty, skúste ich prehodiť v slotoch zariadenia.
  3. Skontrolujte či máte správne vloženú SIM kartu do zariadenia a nie je poškodená."</string>
+  <string name="network_speed_for_apps_close">Ukončiť</string>
+  <string name="network_speed_for_apps_close_app_dlg_msg">Ukončiť túto aplikáciu?</string>
+  <string name="network_speed_for_apps_close_system_app_dlg_msg">Systémovú aplikáciu nie je možné ukončiť.</string>
+  <string name="network_speed_for_apps_others">Ostatné</string>
+  <string name="network_speed_for_apps_title">Podrobnosti o rýchlosti pripojenia</string>
+  <string name="network_speed_for_apps_total">Rýchlosť pripojenia</string>
   <string name="networkchanged_exception_summary">Pripojenie k sieti bolo zmenené. Skontrolujte ho znova.</string>
   <string name="networkchanged_exception_title">Pripojenie zmenené</string>
   <string name="no_network_btn">Skúsiť znova</string>
   <string name="none_mi_service_app_detail">Prázdne</string>
   <string name="notification_content_title">Využité %1$s počas uzamknutia</string>
   <string name="notification_title">%1$s-%2$s: %3$s využité</string>
+  <string name="notify_daily_data_usage_body">Pre automatické obmedzenie využitých dát nastavte svoj mesačný limit.</string>
+  <string name="notify_daily_limit_body">Nastavte limit mobilných dát.</string>
+  <string name="notify_daily_limit_title">Dnes využité: %s</string>
+  <string name="notify_daily_limit_title_for_slotnum">%1$s využité %2$s dnes</string>
+  <string name="notify_daily_traffic_saving_title">%s dnes využitých</string>
+  <string name="notify_month_traffic_body">Nastavte limit využitia mobilných dát pre zabránenie navýšenia vašich mesačných poplatkov.</string>
+  <string name="notify_month_traffic_title">Tento mesiac: %s</string>
+  <string name="notify_month_traffic_title_for_slotnum">%1$s využité %2$s tento mesiac</string>
   <string name="notify_setting_pkg_title">Nastavte mesačný limit mobilných dát</string>
   <string name="notify_setting_pkg_title_for_slotnum">Nastaviť mesačný limit pre %s</string>
   <string name="notify_weekly_pkg_body">Tento týždeň využité: %s.</string>
+  <string name="notify_weekly_traffic_body">Pre automatické obmedzenie využitých dát nastavte svoj mesačný limit.</string>
+  <string name="notify_weekly_traffic_title">Tento týždeň: %s</string>
+  <string name="notify_weekly_traffic_title_for_slotnum">%1$s využité %2$s tento týždeň</string>
   <string name="ok_button">OK</string>
   <string name="online_chat">Chat</string>
   <string name="online_read">Text</string>
   <string name="online_songs">Hudba</string>
   <string name="open_now">Povoliť apl. používanie mobilných dát</string>
+  <string name="operator_setted_error_dialog_message">SIM ktorú používate je z %1$s. Táto poloha sa líši od nastavenej polohy (%2$s). Zmeniť polohu SIM karty na %3$s?"</string>
+  <string name="operator_setted_error_notify_message">Dotykom zmeníte polohu SIM.</string>
+  <string name="operator_setted_error_notify_title">Chyba SIM karty</string>
   <string name="other_exception_summary">Nemáte internetové pripojenie</string>
   <string name="other_exception_title">Kontrola ostatných chýb</string>
   <string name="pay_charge">Top-up</string>
@@ -298,6 +325,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="pref_package_traffic_settings">Limit mobilných dát</string>
   <string name="pref_pkg_begin_date">Deň obnovenia dátového balíčku</string>
   <string name="pref_roaming_daily_limit_setting">Denný limit dát pre roaming</string>
+  <string name="pref_roaming_setting_gategory">Dátový roaming</string>
   <string name="pref_setting_operators_message">Upraviť správu ktorú odosiela vaše zariadenie operátorovi pre kontrolu vašej spotreby dát</string>
   <string name="pref_show_mobile_traffic">Po odomknutí vášho zariadenia, zobraziť stav spotreby dát počas doby kedy bolo zariadenie uzamknuté (musí byť dlhšie ako 5 minút)</string>
   <string name="pref_special_traffic_exceed_limit">Upozorniť ma ak som dosiahol limit</string>
@@ -306,12 +334,16 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="pref_specified_traffic_settings">Nastavenie limitu dát</string>
   <string name="pref_title_declaration">Dôležité upozornenie</string>
   <string name="pref_title_diagnostics_dont_show_float_notification">Zobraziť upozornenia v roletke</string>
+  <string name="pref_title_diagnostics_show_float_notification">Plávajúce upozornenia</string>
   <string name="pref_title_mobile_traffic">Zobraziť spotrebu dát počas spánku</string>
   <string name="pref_title_network_diagnostics">Diagnostika siete</string>
   <string name="pref_title_over_traffic_limit_warning">Po prekročení</string>
   <string name="pref_title_traffic_limit_number">Objem</string>
   <string name="pref_title_traffic_speed_state">Zobraziť rýchlosť siete</string>
   <string name="pref_title_update_notification">Zobraziť spotrebu dát</string>
+  <string name="pref_traffic_saving_auto_add_whitelist">Obmädziť využívanie dát pre nové apl.</string>
+  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automaticky aktivovať úsporu mobilných dát pre nové nainštalované aplikácie</string>
+  <string name="pref_traffic_saving_compressed">Komprimované</string>
   <string name="pref_traffic_saving_issue">FAQ</string>
   <string name="pref_traffic_saving_issue_content">"
 &lt;b&gt;1. Sú moje dáta v bezpečí počas aktivovanej úspory dát?&lt;/b&gt;
@@ -322,8 +354,10 @@ Funkcia úspory dát nevyužíva žiadne vaše súkromné dáta.
 &lt;br /&gt;&lt;br /&gt;
 Úspora mobilných dát funguje len pri pripojení na 2G/3G siete. 
 Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa urýchli ich načítavanie. Hudba a videá sa nekomprimujú."</string>
+  <string name="pref_traffic_saving_no_compress">Nekomprimované</string>
   <string name="pref_traffic_saving_notify_switch">Upozornenie v lište</string>
   <string name="pref_traffic_saving_notify_switch_hint">Zobrazí informácie o úspore dát v notifikačnej lište</string>
+  <string name="pref_traffic_saving_pic_compress_level">Úroveň kompresie obrázkov</string>
   <string name="pref_traffic_saving_switch">Úspora dát</string>
   <string name="pref_traffic_saving_switch_hint">Úspora dát pomocou kompresie na serveri</string>
   <string name="pref_traffic_saving_title">Nastavenie úspory dát</string>
@@ -342,6 +376,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="protocol_exception_title">Diagnostika siete</string>
   <string name="protocol_loop_back_exception_summary">Test zlyhal. Odporúčame odoslať záznam o chybe cez aplikáciu Hlásenie chýb.</string>
   <string name="reach_daily_limit_value_body">Obmedzte vašu spotrebu mobilných dát.</string>
+  <string name="reach_daily_limit_value_body_open_traffic_saving">Povoliť úsporu dát.</string>
   <string name="reach_daily_limit_value_title">Dosiahli ste váš denný limit dát</string>
   <string name="read_number">86 článkov</string>
   <string name="read_unit">" článkov"</string>
@@ -349,6 +384,7 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="repair">Opraviť</string>
   <string name="repair_loading_text">Načítavanie..</string>
   <string name="replace_dns">Automaticky nahradiť</string>
+  <string name="restrictbackground_conflict_saving_msg">Nie je možné použiť Úsporu dát ak su dáta na pozadí zakázané. Deaktivovať Úsporu dát a zakázať dáta na pozadí?</string>
   <string name="right_precent">100%</string>
   <string name="roaming_limit_dialog_message">Dosiahnutý denný limit dát v roamingu.</string>
   <string name="roaming_limit_network_notification_body">Zobraziť dostupné siete</string>
@@ -359,6 +395,10 @@ Počas dátového prenosu sa text a obrázky komprimujú na serveri a tým sa ur
   <string name="roaming_start_body">Zobraziť výnimky dátového roamingu.</string>
   <string name="roaming_start_title">Medzinárodný roaming</string>
   <string name="root">Root práva</string>
+  <string name="saving_conflict_dialog_cancel">Zrušiť</string>
+  <string name="saving_conflict_dialog_ok">OK</string>
+  <string name="saving_conflict_dialog_title">Upozornenie</string>
+  <string name="saving_conflict_restrictbackground_msg">Nie je možné použiť Úsporu dát ak su dáta na pozadí zakázané. Povoliť dáta na pozadí a Úsporu dát?</string>
   <string name="sc_allow_network_dialog_message">Je nutné povoliť tejto aplikácií prístup k sieťovému pripojeniu.</string>
   <string name="sc_allow_network_dialog_tiltle">Nie je možné využívať úsporu dát</string>
   <string name="see_detail">Podrobnosti</string>
@@ -453,10 +493,12 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_protection_use_data">Dáta povolené</string>
   <string name="traffic_purchase_body">Tap to top up your balance.</string>
   <string name="traffic_purchse_suggestion">Navýšiť</string>
+  <string name="traffic_saving_button_mng">Aplikácie</string>
   <string name="traffic_saving_button_sorted">Rebríček</string>
   <string name="traffic_saving_button_sorted_chose_simcard">Vybrať najväčšie</string>
   <string name="traffic_saving_button_start">Aktivovať</string>
   <string name="traffic_saving_button_stop">Deaktivovať</string>
+  <string name="traffic_saving_can_optimized">Optimalizovať</string>
   <string name="traffic_saving_history_title">História úspory dát</string>
   <string name="traffic_saving_history_total_money">Usporená suma</string>
   <string name="traffic_saving_history_total_money_unit">¥</string>
@@ -470,8 +512,19 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_msg_month">Mesačná úspora</string>
   <string name="traffic_saving_msg_not_started">Vypnuté</string>
   <string name="traffic_saving_msg_today">Dnes</string>
+  <string name="traffic_saving_need_optimize">Môže byť optimalizované</string>
+  <string name="traffic_saving_notification_button_start">Aktivovať</string>
   <string name="traffic_saving_notify_start_content">Úspora za tento mesiac %s</string>
   <string name="traffic_saving_notify_start_title">Úspora dát</string>
+  <string name="traffic_saving_one_key_optimize">Optimalizovať pre úsporu dát</string>
+  <string name="traffic_saving_optimized">Optimalizované</string>
+  <string name="traffic_saving_pic_compress_orig">Originál</string>
+  <string name="traffic_saving_ratio">Ušetrené dáta %.2f%%</string>
+  <string name="traffic_saving_ratio_low">Nie je možné znížiť spotrebu mobilných dát</string>
+  <string name="traffic_saving_recommanded_close">Vypnúť</string>
+  <string name="traffic_saving_recommanded_open">Zapnúť</string>
+  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automaticky aktivovať úsporu mobilných dát.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;ak máte mesačný objem predplatených mobilných dát, deaktivujte úsporu mobilných dát pre jednotlivé aplikácie pre zníženie objemu prenesených dát.&lt;/font&gt;"</string>
+  <string name="traffic_saving_start_tip_title">Aktivovať</string>
   <string name="traffic_saving_tecsupport">Poskytuje Opera Max</string>
   <string name="traffic_saving_title">Úspora dát</string>
   <string name="traffic_saving_toast_start_mobile">Aktivovaná úspora dát</string>
@@ -493,6 +546,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_setting_extra_pkg_title">Ďalšie nastavenia</string>
   <string name="traffic_setting_extra_traffic_title">Ďalšie nastavenia</string>
   <string name="traffic_setting_fragment_area">Lokálne</string>
+  <string name="traffic_setting_fragment_area_dual">%s Locale</string>
   <string name="traffic_setting_fragment_brand">Brand</string>
   <string name="traffic_setting_fragment_button1_text">Zrušiť</string>
   <string name="traffic_setting_fragment_button2_text">Uložiť</string>
@@ -521,58 +575,4 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="wifi_exception_summary">Skontrolovať dostupné pripojenie Wi-Fi siete</string>
   <string name="wifi_exception_title">Kontrola Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
-  <string name="daily_limit_network_available_body_open_traffic_saving">Povoliť mobilné dáta.</string>
-  <string name="notify_daily_traffic_saving_title">%s dnes využitých</string>
-  <string name="pref_traffic_saving_auto_add_whitelist">Obmädziť využívanie dát pre nové apl.</string>
-  <string name="pref_traffic_saving_auto_add_whitelist_hint">Automaticky aktivovať úsporu mobilných dát pre nové nainštalované aplikácie</string>
-  <string name="pref_traffic_saving_compressed">Komprimované</string>
-  <string name="pref_traffic_saving_no_compress">Nekomprimované</string>
-  <string name="pref_traffic_saving_pic_compress_level">Úroveň kompresie obrázkov</string>
-  <string name="reach_daily_limit_value_body_open_traffic_saving">Povoliť úsporu dát.</string>
-  <string name="traffic_saving_button_mng">Aplikácie</string>
-  <string name="traffic_saving_need_optimize">Môže byť optimalizované</string>
-  <string name="traffic_saving_notification_button_start">Aktivovať</string>
-  <string name="traffic_saving_one_key_optimize">Optimalizovať pre úsporu dát</string>
-  <string name="traffic_saving_optimized">Optimalizované</string>
-  <string name="traffic_saving_pic_compress_orig">Originál</string>
-  <string name="traffic_saving_ratio">Ušetrené dáta %.2f%%</string>
-  <string name="traffic_saving_ratio_low">Nie je možné znížiť spotrebu mobilných dát</string>
-  <string name="traffic_saving_recommanded_close">Vypnúť</string>
-  <string name="traffic_saving_recommanded_open">Zapnúť</string>
-  <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automaticky aktivovať úsporu mobilných dát.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;ak máte mesačný objem predplatených mobilných dát, deaktivujte úsporu mobilných dát pre jednotlivé aplikácie pre zníženie objemu prenesených dát.&lt;/font&gt;"</string>
-  <string name="traffic_saving_start_tip_title">Aktivovať</string>
-  <string name="daily_limit_and_lock_screen">Denná spotreba dát a upozornenia</string>
-  <string name="lock_screen_warning_category">Upozornenie na zamykacej obrazovke</string>
-  <string name="lock_screen_warning_switch_summary">Zobraziť upozornenie na zamykacej obrazovke ak spotreba dát prekročí stanovenú hranicu</string>
-  <string name="lock_screen_warning_switch_title">Upozornenie na zamykacej obrazovke</string>
-  <string name="lock_screen_warning_value">Varovná hodnota spotreby dát</string>
-  <string name="network_speed_for_apps_close">Ukončiť</string>
-  <string name="network_speed_for_apps_close_app_dlg_msg">Ukončiť túto aplikáciu?</string>
-  <string name="network_speed_for_apps_close_system_app_dlg_msg">Systémovú aplikáciu nie je možné ukončiť.</string>
-  <string name="network_speed_for_apps_others">Ostatné</string>
-  <string name="network_speed_for_apps_title">Podrobnosti o rýchlosti pripojenia</string>
-  <string name="network_speed_for_apps_total">Rýchlosť pripojenia</string>
-  <string name="operator_setted_error_dialog_message">SIM ktorú používate je z %1$s. Táto poloha sa líši od nastavenej polohy (%2$s). Zmeniť polohu SIM karty na %3$s?"</string>
-  <string name="operator_setted_error_notify_message">Dotykom zmeníte polohu SIM.</string>
-  <string name="operator_setted_error_notify_title">Chyba SIM karty</string>
-  <string name="pref_roaming_setting_gategory">Dátový roaming</string>
-  <string name="traffic_saving_can_optimized">Optimalizovať</string>
-  <string name="pref_title_diagnostics_show_float_notification">Plávajúce upozornenia</string>
-  <string name="traffic_setting_fragment_area_dual">%s Locale</string>
-  <string name="notify_daily_data_usage_body">Pre automatické obmedzenie využitých dát nastavte svoj mesačný limit.</string>
-  <string name="notify_daily_limit_body">Nastavte limit mobilných dát.</string>
-  <string name="notify_daily_limit_title">Dnes využité: %s</string>
-  <string name="notify_daily_limit_title_for_slotnum">%1$s využité %2$s dnes</string>
-  <string name="notify_month_traffic_body">Nastavte limit využitia mobilných dát pre zabránenie navýšenia vašich mesačných poplatkov.</string>
-  <string name="notify_month_traffic_title">Tento mesiac: %s</string>
-  <string name="notify_month_traffic_title_for_slotnum">%1$s využité %2$s tento mesiac</string>
-  <string name="notify_weekly_traffic_body">Pre automatické obmedzenie využitých dát nastavte svoj mesačný limit.</string>
-  <string name="notify_weekly_traffic_title">Tento týždeň: %s</string>
-  <string name="notify_weekly_traffic_title_for_slotnum">%1$s využité %2$s tento týždeň</string>
-  <string name="restrictbackground_conflict_saving_msg">Nie je možné použiť Úsporu dát ak su dáta na pozadí zakázané. Deaktivovať Úsporu dát a zakázať dáta na pozadí?</string>
-  <string name="saving_conflict_dialog_cancel">Zrušiť</string>
-  <string name="saving_conflict_dialog_ok">OK</string>
-  <string name="saving_conflict_dialog_title">Upozornenie</string>
-  <string name="saving_conflict_restrictbackground_msg">Nie je možné použiť Úsporu dát ak su dáta na pozadí zakázané. Povoliť dáta na pozadí a Úsporu dát?</string>
-  <string name="main_message_no_package_by_dual">Nastaviť limit dát pre %s</string>
 </resources>

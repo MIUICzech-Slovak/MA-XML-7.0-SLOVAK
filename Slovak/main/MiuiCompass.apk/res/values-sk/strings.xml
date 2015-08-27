@@ -2,6 +2,10 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="altitude_title">Nadm. výška</string>
+  <string name="altitude_uncalibrate_cancel">Zrušiť</string>
+  <string name="altitude_uncalibrate_msg">Nie je možné kalibrovať nadmorskú výšku bez GPS alebo mobilného dátového pripojenia."</string>
+  <string name="altitude_uncalibrate_refresh">Znova</string>
+  <string name="altitude_uncalibrate_tip">Nie je možné kalibrovať nadmorskú výšku</string>
   <string name="altitude_unit">m</string>
   <string name="app_label">Kompas</string>
   <string name="calibrate_altitude">Kalibácia</string>
@@ -13,6 +17,7 @@
   <string name="calibrate_tip">Nakloňte vaše zariadenie a kotúľajte guličku po kruhu</string>
   <string name="calibrate_title">Kalibrovanie kompasu</string>
   <string name="cannot_get_location">--</string>
+  <string name="dialog_body_no_network">Nie je možné sa pripojiť k sieti</string>
   <string name="dialog_calibrat_altitude">Kalibrácia nadmorskej výšky...</string>
   <string name="dialog_title_no_network">Žiadne pripojenie</string>
   <string name="direction_east">V</string>
@@ -24,6 +29,8 @@
   <string name="direction_south_west">JZ</string>
   <string name="direction_west">Z</string>
   <string name="do_not_show_next_time">Viac nezobrazovať</string>
+  <string name="error_camera_unavailable">Ukončite všetky aplikácie ktoré využívajú fotoaparát.</string>
+  <string name="error_camera_unavailable_title">Fotoaparát nie je dostupný</string>
   <string name="first_using_dialog_message">Kompas používa vaše internetové pripojenie, fotoaparát a vašu polohu.</string>
   <string name="first_using_dialog_title">Podmienky používania</string>
   <string name="getting_location">Kalibrácia...</string>
@@ -49,11 +56,4 @@
   <string name="using_camera_confirm_message">Kompas využíva aj aplikáciu Fotoaparát.</string>
   <string name="using_camera_confirm_ok">OK</string>
   <string name="using_camera_confirm_title">Podmienky používania</string>
-  <string name="dialog_body_no_network">Nie je možné sa pripojiť k sieti</string>
-  <string name="error_camera_unavailable">Ukončite všetky aplikácie ktoré využívajú fotoaparát.</string>
-  <string name="error_camera_unavailable_title">Fotoaparát nie je dostupný</string>
-  <string name="altitude_uncalibrate_cancel">Zrušiť</string>
-  <string name="altitude_uncalibrate_msg">Nie je možné kalibrovať nadmorskú výšku bez GPS alebo mobilného dátového pripojenia."</string>
-  <string name="altitude_uncalibrate_refresh">Znova</string>
-  <string name="altitude_uncalibrate_tip">Nie je možné kalibrovať nadmorskú výšku</string>
 </resources>

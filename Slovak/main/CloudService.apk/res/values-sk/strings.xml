@@ -139,6 +139,7 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_check_sim_notify_title">Znova aktivovať MiCloud</string>
   <string name="micloud_check_sim_title">"Zrejme bola zmenená SIM karta. Prihláste sa
 do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
+  <string name="micloud_detail_download_syncing">Sťahovanie %s</string>
   <string name="micloud_detail_fail">Zlyhalo</string>
   <string name="micloud_detail_lastest">Synchr.</string>
   <string name="micloud_detail_pending">Čaká na synchr.</string>
@@ -146,6 +147,7 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_detail_preference_wlan">Synchr. na Wi-Fi</string>
   <string name="micloud_detail_success">Synchronizované</string>
   <string name="micloud_detail_syncing">Synchr...</string>
+  <string name="micloud_detail_upload_syncing">Odosielanie %s</string>
   <string name="micloud_detail_wlan">Nesynchr.: %d</string>
   <string name="micloud_detail_wlan_contact">Nesynchr.: %d obrázkov kontaktu</string>
   <string name="micloud_detail_wlan_mms">Nesynchr.: %d MMS</string>
@@ -266,9 +268,14 @@ Využité %s | Ostáva %s"</string>
 Túto službu môžete aktivovať alebo zakázať v Nastaveniach."</string>
   <string name="mx_dspt_provision_privacy">"Táto služba vyžaduje vaše telefónne číslo. Bude odoslaná medzinárodná SMS pre aktiváciu.
 Táto funkcia zašifruje a odošle vaše číslo na server Xiaomi."</string>
+  <string name="mx_dspt_provision_privacy_2_sim">"Táto funkcia vyžaduje vaše telefónne číslo. Váš operátor môže spoplatniť dve odoslané SMS správy pre aktivovanie tejto funkcie.
+
+Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="mx_dspt_provision_with_voip">Zavolať ostatným užívateľom MIUI zdarma cez internetové volanie. Túto službu môžete kedykoľvek deaktivovať na nastaveniach.</string>
+  <string name="mx_dspt_provision_with_voip2">Ochrana súkromia</string>
   <string name="mx_sub_dspt_provision">Cloud správy</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetové volanie</string>
+  <string name="mx_voip_dspt">MiVoice</string>
   <string name="next">Ďalej</string>
   <string name="noRemind">Nepripomínať</string>
   <string name="no_sim">Žiadna SIM karta</string>
@@ -280,9 +287,11 @@ Táto funkcia zašifruje a odošle vaše číslo na server Xiaomi."</string>
   <string name="phone_number_required_dspt_provision">"Táto služba vyžaduje vaše telefónne číslo. "</string>
   <string name="photo">Fotografií</string>
   <string name="pref_summary_sync_display_photo_on_wifi_only">Odporúča sa zapnúť, inak môže spotrebovať Vaše dáta</string>
+  <string name="pref_summary_sync_video_on_wifi_only">Synchronizovať video profil kontaktov len ak ste pripojený na Wi-Fi</string>
   <string name="pref_title_sync_contacts_title">Synch. kontakty</string>
   <string name="pref_title_sync_display_photo_on_wifi_only">Použiť iba Wi-Fi pre zobrazenie fotky</string>
   <string name="pref_title_sync_my_profile_title">Synchr. môj profil</string>
+  <string name="pref_title_sync_video_on_wifi_only">Synchr. video len cez Wi-Fi</string>
   <string name="privacy_policy">Podmienky súkromia</string>
   <string name="remind_later">Neskôr</string>
   <string name="restoreSync">Synchronizovať</string>
@@ -368,13 +377,4 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="mx_dspt_provision_privacy_2_sim">"Táto funkcia vyžaduje vaše telefónne číslo. Váš operátor môže spoplatniť dve odoslané SMS správy pre aktivovanie tejto funkcie.
-
-Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
-  <string name="mx_dspt_provision_with_voip2">Ochrana súkromia</string>
-  <string name="mx_voip_dspt">MiVoice</string>
-  <string name="micloud_detail_download_syncing">Sťahovanie %s</string>
-  <string name="micloud_detail_upload_syncing">Odosielanie %s</string>
-  <string name="pref_summary_sync_video_on_wifi_only">Synchronizovať video profil kontaktov len ak ste pripojený na Wi-Fi</string>
-  <string name="pref_title_sync_video_on_wifi_only">Synchr. video len cez Wi-Fi</string>
- </resources>
+</resources>

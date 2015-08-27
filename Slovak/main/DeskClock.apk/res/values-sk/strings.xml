@@ -28,6 +28,8 @@
   <string name="auto_silence_summary">Budík sa stíši po %d minútach</string>
   <string name="auto_silence_title">Auto-stíšenie</string>
   <string name="battery_charging_level">%d%%</string>
+  <string name="birthday_alarm">Upozornenie na narodeniny</string>
+  <string name="birthday_alarm_summary">Prehrať \"Happy Birthday\" namiesto predvoleného zvonenia ak máte narodeniny.</string>
   <string name="cancel">Ukončiť</string>
   <string name="close_alarm">Zavrieť budík</string>
   <string name="common_settings">Časté nastavenia</string>
@@ -122,6 +124,4 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="birthday_alarm">Upozornenie na narodeniny</string>
-  <string name="birthday_alarm_summary">Prehrať \"Happy Birthday\" namiesto predvoleného zvonenia ak máte narodeniny.</string>
 </resources>

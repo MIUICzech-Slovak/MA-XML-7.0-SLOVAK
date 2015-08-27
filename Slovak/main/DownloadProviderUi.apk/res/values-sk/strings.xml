@@ -1,6 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
+  <string name="DOWNLOAD_UNIT_BIT">B</string>
+  <string name="DOWNLOAD_UNIT_GB">GB</string>
+  <string name="DOWNLOAD_UNIT_KB">KB</string>
+  <string name="DOWNLOAD_UNIT_MB">MB</string>
+  <string name="DOWNLOAD_UNIT_TB">TB</string>
   <string name="Only_the_wifi">Efektívne len cez Wi-Fi</string>
   <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
   <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
@@ -43,6 +48,7 @@
   <string name="disable">Deaktivovať</string>
   <string name="display_expire_netiv1">Mesačne</string>
   <string name="doc_filter">Dokumenty</string>
+  <string name="download">Sťahovanie</string>
   <string name="download_complete">Stiahnuté</string>
   <string name="download_error">Neúspešné</string>
   <string name="download_error_insufficient_space">Nedostatok miesta</string>
@@ -74,6 +80,8 @@
   <string name="download_title_sorted_by_size">Prevzatia – zoradené podľa veľkosti</string>
   <string name="download_wait_connect">Čaká na pripojenie</string>
   <string name="download_when_network_connected">Wi-Fi + Mobilné dáta</string>
+  <string name="downloaded_empty">Žiadne</string>
+  <string name="downloading_empty">Žiadne</string>
   <string name="downloads_operating">Pracujem...</string>
   <string name="dredge_xunlei_account">Registrovať Xunlei účet</string>
   <string name="editmode_menu_delete">Vymazať</string>
@@ -143,6 +151,7 @@
   <string name="select_all">Vybrať všetko</string>
   <string name="select_operation_items">Prosím, vyberte položku operácie</string>
   <string name="selected_count">Vybrané: %1$d z %2$d</string>
+  <string name="show_more">Viac (%s)</string>
   <string name="toast_xunlei_engine_open">"Xunlei sťahovanie je aktivované.
 Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="turn_off_xunlei_message">Môže spôsobiť pomalšie sťahovanie dát.</string>
@@ -162,13 +171,4 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="xunlei_member_one_month">Xunlei member for one month(platinum)</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
-  <string name="download">Sťahovanie</string>
-  <string name="downloaded_empty">Žiadne</string>
-  <string name="downloading_empty">Žiadne</string>
-  <string name="show_more">Viac (%s)</string>
-  <string name="DOWNLOAD_UNIT_BIT">B</string>
-  <string name="DOWNLOAD_UNIT_GB">GB</string>
-  <string name="DOWNLOAD_UNIT_KB">KB</string>
-  <string name="DOWNLOAD_UNIT_MB">MB</string>
-  <string name="DOWNLOAD_UNIT_TB">TB</string>
 </resources>

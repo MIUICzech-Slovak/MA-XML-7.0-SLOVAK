@@ -105,6 +105,7 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
   <string name="advanced_security_title">Rozšírené</string>
   <string name="advanced_settings">Upresniť nastavenie</string>
   <string name="advanced_settings_summary">Povoliť ďalšie možnosti nastavení</string>
+  <string name="advanced_text_layout">Povoliť rozšírené nastavenie rozloženia textu</string>
   <string name="agps_roaming">A-GPS počas roaming</string>
   <string name="agps_roaming_dia">Využívanie A-GPS počas roamingu môže navýšiť vaše mesačné poplatky.</string>
   <string name="agps_roaming_dia_title">Použiť A-GPS počas roamingu</string>
@@ -253,6 +254,12 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
   <string name="background_data_dialog_message">Deaktivácia prenosu dát na pozadí šetrí batériu a znižuje objem prenesených dát. Niektoré aplikácie môžu napriek tomu dátové pripojenie na pozadí používať.</string>
   <string name="background_data_dialog_title">Deaktivovať dáta na pozadí?</string>
   <string name="background_data_summary">Aplikácie môžu kedykoľvek synchronizovať, odosielať a prijímať dáta.</string>
+  <string name="background_location_control_summary">Povoliť alebo zakázať aplikáciam ktoré sú spustené na pozadí prístup k vašej polohe</string>
+  <string name="background_location_control_title">Prístup k polohe na pozadí</string>
+  <string name="background_location_deselect_apps">Odznačiť všetky</string>
+  <string name="background_location_requests_summary">Povoliť aplikáciam spusteným na pozadí prístup k vašej polohe.</string>
+  <string name="background_location_requests_title">Povoliť polohu na pozadí</string>
+  <string name="background_location_select_apps">Vybrať všetky</string>
   <string name="background_process_stop_description">Toto je starý proces aplikácie, ktorý je spustený pre prípad, že bude znovu potrebný. Spravidla nie je dôvod ho zastavovať.</string>
   <string name="backup_configure_account_default_summary">Aktuálne nie sú zálohované dáta ukladané do žiadneho účtu.</string>
   <string name="backup_configure_account_title">Účet zálohy</string>
@@ -369,8 +376,11 @@ Správca môže sledovať a spravovať nastavenia, prístup, aplikácie a údaje
   <string name="bluetooth_ask_discovery">Aplikácia v telefóne chce nastaviť telefón do viditeľného režimu pre ostatné zariadenia Bluetooth na %1$d s. Povoliť?</string>
   <string name="bluetooth_ask_enablement">Aplikácia chce zapnúť pripojenie Bluetooth. Povoliť?</string>
   <string name="bluetooth_ask_enablement_and_discovery">Aplikácia v telefóne chce zapnúť pripojenie Bluetooth a nastaviť telefón do viditeľného režimu na %1$d s. Povoliť?</string>
+  <string name="bluetooth_ask_enablement_and_discovery_detected">" požaduje zapnúť Bluetooth a zviditeľniť vaše zariadenie na %1$d sekúnd."</string>
   <string name="bluetooth_ask_enablement_and_lasting_discovery">Aplikácia v telefóne chce zapnúť pripojenie Bluetooth a nastaviť telefón do viditeľného režimu. Povoliť?</string>
+  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" požaduje zapnúť Bluetooth a zviditeľniť vaše zariadenie pre iné zariadenia. Môžete to zmeniť v nastaveniach Bluetooth."</string>
   <string name="bluetooth_ask_enablement_and_start_broadcast">Aplikácia %1$s chce zapnúť funkciu Bluetooth a vysielanie prostredníctvom rozhrania Bluetooth, aby mohla komunikovať s ostatnými zariadeniami v blízkosti. Toto nastavenie môžete neskôr zmeniť v sekcii Nastavenia Bluetooth.</string>
+  <string name="bluetooth_ask_enablement_detected">" požaduje zapnutie Bluetooth."</string>
   <string name="bluetooth_ask_lasting_discovery">Aplikácia v telefóne chce trvalo nastaviť telefón do viditeľného režimu pre ostatné zariadenia Bluetooth. Povoliť?</string>
   <string name="bluetooth_ask_start_broadcast">Aplikácia %1$s chce zapnúť vysielanie prostredníctvom rozhrania Bluetooth, aby mohla komunikovať s ostatnými zariadeniami v blízkosti. Toto nastavenie môžete neskôr zmeniť v sekcii Nastavenia Bluetooth.</string>
   <string name="bluetooth_auto_connect">Automatické pripojenie</string>
@@ -605,6 +615,7 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="camera_key_action_title">MI tlačidlo</string>
   <string name="camera_key_action_toggle_title">Vyvolať prepínače</string>
   <string name="cancel">Zrušiť</string>
+  <string name="cancel_action">Zrušiť</string>
   <string name="cancel_alert">Zrušiť zmeny?</string>
   <string name="cancel_all_caps">ZRUŠIŤ</string>
   <string name="cancel_download_buton_text">Zrušiť</string>
@@ -645,6 +656,12 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="check_update">Skontrolovať aktualizácie</string>
   <string name="checkbox_notification_same_as_incoming_call">Použiť hlasitosť zvonenia aj pre notifikácie</string>
   <string name="checking_for_updates">Kontrola aktualizácií...</string>
+  <string name="children_mode_enable_title">Detský režim</string>
+  <string name="children_mode_set_apps_title">Dostupné aplikácie</string>
+  <string name="children_mode_tips_off">Po povolení detského režimu, stlačte tlačidlo Domov pre návrat na domovskú obrazovku</string>
+  <string name="children_mode_tips_on">Po vypnutí detského režimu, stlačte tlačidlo Domov pre návrat na domovskú obrazovku</string>
+  <string name="children_mode_title">Detský režim</string>
+  <string name="choose_smartcover_type">Vyberte typ krytu</string>
   <string name="choose_timezone">Vyberte časovú zónu</string>
   <string name="cleaner">Čistič</string>
   <string name="clear_activities">Vymazať predvolené nastavenie</string>
@@ -682,8 +699,10 @@ Vysielanie používa signály Bluetooth s nízkou spotrebou energie."</string>
   <string name="computing_size">Prebieha výpočet...</string>
   <string name="condition_provider_security_warning_summary">%1$s bude môcť pridávať podmienky ukončenia do režimu Nerušiť.</string>
   <string name="condition_provider_security_warning_title">Povoliť službu %1$s?</string>
+  <string name="config_charging_function_name">charging</string>
   <string name="config_list_label">Nastavené siete</string>
   <string name="configure_input_method">Nastaviť metódy vstupu</string>
+  <string name="confirm_action">OK</string>
   <string name="confirm_download_cancelation_dialog_message">Zrušiť sťahovanie?</string>
   <string name="confirm_erase">Potvrdiť vymazanie</string>
   <string name="confirm_new_backup_pw_prompt">Sem znovu zadajte aktuálne heslo pre úplné zálohy.</string>
@@ -880,6 +899,8 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="default_usb_mode">Predvolené USB pripojenie</string>
   <string name="delete">Zmazať</string>
   <string name="deny">Odmietnuť</string>
+  <string name="deny_sms_message">Zakázať odosielanie SMS správ</string>
+  <string name="deny_sms_title">Zablokovať SMS</string>
   <string name="details_subtitle">Podrobnosti používania</string>
   <string name="details_title">Podrobnosti používania</string>
   <string name="dev_settings_warning_message">Tieto nastavenia sú len pre vývojárske účely. Môžu spôsobiť nestabilitu systému.</string>
@@ -973,6 +994,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="dlg_error_unmount_title"/>
   <string name="dlg_error_usb_unmount_text">Úložisko USB sa nepodarilo odpojiť. Skúste to znova neskôr.</string>
   <string name="dlg_ok">OK</string>
+  <string name="dndm_alarm_content_not_all">Všetko povolené</string>
   <string name="dndm_auto_button_title">Naplánovať</string>
   <string name="dndm_auto_setting_group">Naplánovať aktiváciu</string>
   <string name="dndm_auto_time_setting">Nastavenie času</string>
@@ -995,6 +1017,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="dndm_twelve_hour_time_format">h:mm a</string>
   <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
   <string name="dndm_vip_call_button_title">Povoliť hovory z výnimiek</string>
+  <string name="dndm_vip_call_setting_detal">Vždy prijať hovory z výnimiek</string>
   <string name="dndm_vip_call_setting_title">Výnimky</string>
   <string name="dndm_vip_call_summary_contact">Všetky</string>
   <string name="dndm_vip_call_summary_custom">%d</string>
@@ -1003,6 +1026,10 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="dndm_vip_list_custom">Výnimky</string>
   <string name="dndm_vip_list_custom_group">Výnimky</string>
   <string name="dndm_vip_list_group">Zoznam výnimiek</string>
+  <string name="dndm_vip_user_setting_title">Zoznam výnimiek</string>
+  <string name="dndm_wristband">MiBand</string>
+  <string name="dndm_wristband_detailed">Prepnúť do režimu Nerušiť ak MiBand rozpozná, že spíte hodinu pred začiatkom nastaveného času</string>
+  <string name="dndm_wristband_detailed2">Vypnúť režim Nerušiť ak MiBand rozpozná, že ste sa prebudili hodinu pred koncom nastaveného času</string>
   <string name="do_not_disturb_mode">Režim Nerušiť</string>
   <string name="dock_audio_media_disabled">Všetky zvukové súbory</string>
   <string name="dock_audio_media_enabled">Iba zvukové médiá</string>
@@ -1136,6 +1163,8 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="error_mnc_not23">Pole MNC musí obsahovať 2 alebo 3 číslice.</string>
   <string name="error_name_empty">Pole Názov nesmie byť prázdne.</string>
   <string name="error_title"/>
+  <string name="every_day">Každý deň</string>
+  <string name="experience_optimization_category">Optimalizácia</string>
   <string name="experimental_preference">(Experimentálne)</string>
   <string name="external_code_size_label">Aplikácia úložiska USB</string>
   <string name="external_data_size_label">Dáta úložiska USB</string>
@@ -1166,6 +1195,7 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="fluency_mode_confirm_will_normal_mode_text">Zapnuté animácie a zvýšená spotreba RAM môže spôsobovať spomalenie systému na niektorých zariadeniach s 1GB RAM.</string>
   <string name="fluency_mode_enabled_name">Optimalizovať výkon</string>
   <string name="fluency_mode_summary">Vypnúť animácie systému a tým znížiť využívanie RAM</string>
+  <string name="font_size_exhuge">Extra veľké</string>
   <string name="font_size_huge">Obrovské</string>
   <string name="font_size_large">Veľké</string>
   <string name="font_size_medium">Stredné</string>
@@ -1242,6 +1272,7 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="gsm_to_wifi_connect_type_title">Mobilný-&gt;Wi-Fi</string>
   <string name="handy_mode">Ovládanie jednou rukou</string>
   <string name="handy_mode_enable">Ovládanie jednou rukou</string>
+  <string name="handy_mode_enter_ask">Vyžadovať potvrdenie</string>
   <string name="handy_mode_size">Veľkosť zmenšenia</string>
   <string name="handy_mode_tips">Posuňte prstom doľava alebo doprava zo stredného tlačidla DOMOV pre zmenšenie displeja.</string>
   <string name="haptic_feedback_enable_title">Pri dotyku vibrovať</string>
@@ -1396,6 +1427,10 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="led_pulse_summary">Pri novej notifikácii blikať LED</string>
   <string name="led_settings">LED</string>
   <string name="legal_information">Právne informácie</string>
+  <string name="legal_workday">Pracovné dni</string>
+  <string name="legal_workday_invalidate">Pon-Pia (bez sviatkov)</string>
+  <string name="legal_workday_invalidate_message">Dotykom aktualizujete zoznam sviatkov.</string>
+  <string name="legal_workday_message">(Preskočiť sviatky)</string>
   <string name="license_title">Licencia</string>
   <string name="lift_to_wake_title">Prebudiť zdvihnutím</string>
   <string name="line_breaking_summary">Optimalizovať zalamovanie textu</string>
@@ -1599,6 +1634,8 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="master_clear_progress_title">Prebieha vymazávanie</string>
   <string name="master_clear_summary">Vymaže všetky dáta v telefóne!</string>
   <string name="master_clear_title">Obnovenie predvolených dát</string>
+  <string name="max_cpu6_info">"6 jadier "</string>
+  <string name="max_cpu8_info">"8 jadier "</string>
   <string name="media_button">Tlačidlo Média</string>
   <string name="media_category">Médiá</string>
   <string name="media_feedback_enable_title">Vibrovať v rytme hudby</string>
@@ -1697,6 +1734,7 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="miui_allow_light">LED</string>
   <string name="miui_allow_music">Hudba</string>
   <string name="miui_allow_vibrate">Vibrácie</string>
+  <string name="miui_data_usage_menu_metered">Mobilné hot-spoty</string>
   <string name="miui_disturb_title">Vyrušovanie</string>
   <string name="miui_screensaver_show_time">Trvanie</string>
   <string name="miui_screensaver_show_time_select_title">Nastaviť trvanie prezentácie</string>
@@ -1761,13 +1799,16 @@ Vyberte váš operačný systém:"</string>
   <string name="music_dirac_mode_general">Obyčajné</string>
   <string name="music_dirac_mode_general_earbuds">Bežné slúchadlá</string>
   <string name="music_dirac_mode_general_inear">Bežné špunty</string>
+  <string name="music_dirac_mode_headset">Mi Slúchadlá</string>
   <string name="music_dirac_mode_in_ear">Xiaomi špunty</string>
   <string name="music_dirac_mode_off">Dirac vypnutý</string>
   <string name="music_dirac_mode_piston_1">Xiaomi Piston-1</string>
   <string name="music_dirac_mode_piston_100">Xiaomi Pistons</string>
   <string name="music_dirac_mode_piston_2">Xiaomi Piston-2</string>
   <string name="music_dirac_mode_piston_basic">Základné</string>
+  <string name="music_dirac_mode_piston_color">Color Edition</string>
   <string name="music_dirac_mode_piston_standard">Xiaomi Piston-3</string>
+  <string name="music_dirac_mode_piston_youth">Xiaomi Youth</string>
   <string name="music_dolby_dialogue_enhancer">Vylepšenie dialógov</string>
   <string name="music_dolby_effects">Dolby efekt</string>
   <string name="music_dolby_eq_enter_alert_msg">Ekvalizér je možné použiť len v režime Dolby. Chcete povoliť?</string>
@@ -1824,6 +1865,7 @@ Vyberte váš operačný systém:"</string>
   <string name="network_state_label">Stav siete:</string>
   <string name="networkid_label">ID siete:</string>
   <string name="networks">Výber oprátora</string>
+  <string name="never">Nikdy</string>
   <string name="new_backup_pw_prompt">Zadajte nové heslo pre zálohu</string>
   <string name="next_button_label">Ďalej</string>
   <string name="next_label">Ďalej</string>
@@ -1858,6 +1900,7 @@ Vyberte váš operačný systém:"</string>
   <string name="no_updates_warning2">"Pokoj! upozorníme Vás ak bude dostupná nová aktualizácia."</string>
   <string name="noise_suppression">Potlačenie hluku</string>
   <string name="normal_date_format">Regionálne (%s)</string>
+  <string name="normal_smartcover_title">Nepriehľadný predný kryt</string>
   <string name="not_installed">Nenainštalované</string>
   <string name="notification_app_settings_button">Nastavenia upozornení</string>
   <string name="notification_breathing_light_color_title">Farba LED upozornení</string>
@@ -1929,6 +1972,7 @@ Vyberte váš operačný systém:"</string>
   <string name="page_layout_3">Galéria</string>
   <string name="page_layout_30">Tim Cook</string>
   <string name="page_layout_31">Clark Kent</string>
+  <string name="page_layout_32">Obchod Play</string>
   <string name="page_layout_4">Hudba</string>
   <string name="page_layout_5">Video</string>
   <string name="page_layout_6">Aplikácie</string>
@@ -1983,6 +2027,8 @@ Vyberte váš operačný systém:"</string>
   <string name="power_discharge_remaining">Zostáva %1$s</string>
   <string name="power_discharging_duration">%1$d %% – zostáva cca. %2$s</string>
   <string name="power_flashlight">Svetlo</string>
+  <string name="power_hide_mode_summary">Zakázať aplikáciam prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
+  <string name="power_hide_mode_title">Úspora batérie</string>
   <string name="power_idle">V nečinnosti</string>
   <string name="power_mgr">Batéria</string>
   <string name="power_mode">Režim výkonu</string>
@@ -2001,6 +2047,7 @@ Vyberte váš operačný systém:"</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Osvetlenie tlačidiel</string>
   <string name="pref_button_light_summary">Menu, Domov a Späť tlačidlo</string>
+  <string name="pref_edge_handgrip">Edge controls</string>
   <string name="pref_operational_key">Ovládacie tlačidlo</string>
   <string name="pref_volume_wake_summary">Stlačením tlačidlá zosilniť/stlmiť prebudíte zariadenie. Určené pre zariadenia s ťažko dostupným zapínacím tlačidlom.</string>
   <string name="pref_volume_wake_title">Zobudiť telefón</string>
@@ -2198,6 +2245,7 @@ Vyberte váš operačný systém:"</string>
   <string name="remove_device_admin">Deaktivovať</string>
   <string name="remove_from_frequently_fragment">Odstrániť \"%s\" z častého nastavenia?</string>
   <string name="remove_managed_profile_label">Odstrániť pracovný profil</string>
+  <string name="repeat">Opakovať</string>
   <string name="repeat_title">Opakovať</string>
   <string name="reset_app_preferences">Obnoviť nastavenia aplikácie</string>
   <string name="reset_app_preferences_button">Obnoviť aplikácie</string>
@@ -2271,6 +2319,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="runningservices_settings_title">Spustené služby</string>
   <string name="scan_list_label">Nájdené:</string>
   <string name="screen">Displej</string>
+  <string name="screen_color_and_optimize">Farby a kontrast</string>
   <string name="screen_color_temperature">Teplota farieb</string>
   <string name="screen_color_temperature_and_saturation">Teplota a sýtosť farieb</string>
   <string name="screen_compatibility_label">Kompatibilita s obrazovkou</string>
@@ -2318,6 +2367,10 @@ Ako funkciu použiť:
 
 4. Klepnite na ikonu špendlíka."</string>
   <string name="screen_pinning_title">Pripnutie k obrazovke</string>
+  <string name="screen_resolution_confirm">Potvrdiť a reštartovať</string>
+  <string name="screen_resolution_summary">Nižšie rozlíšenie displeja zníži kvalitu zobrazenia, spotrebu batérie a zvýši výkon zariadenia. Zmeny sa aplikujú po reštarte zariadenia.</string>
+  <string name="screen_resolution_switch">Zmeniť rozlíšenie displeja</string>
+  <string name="screen_resolution_title">Rozlíšenie displeja</string>
   <string name="screen_saturation">Sýtosť farieb</string>
   <string name="screen_timeout">Vypnutie displeja</string>
   <string name="screen_timeout_summary">Po %1$s nečinnosti</string>
@@ -2443,6 +2496,9 @@ Ako funkciu použiť:
   <string name="service_stop">Zastaviť</string>
   <string name="service_stop_description">Táto služba bola spustená svojou aplikáciou. Pokiaľ ju zastavíte, môže dôjsť k zlyhaniu aplikácie.</string>
   <string name="services_subtitle">Služby</string>
+  <string name="set_password_action">Nastaviť heslo</string>
+  <string name="set_password_message">Nastavte heslo pre deaktivovanie detského režimu a odomknutie zariadenia</string>
+  <string name="set_password_title">Nastavte heslo</string>
   <string name="settings_backup">Nastavenie zálohovania</string>
   <string name="settings_backup_summary">Zálohovať moje nastavenie</string>
   <string name="settings_button">Nastavenie</string>
@@ -2571,6 +2627,7 @@ Ostáva:"</string>
   <string name="slot_name">SIM %d</string>
   <string name="slot_status_title">IMEI</string>
   <string name="small_font">Malé</string>
+  <string name="smallwindow_smartcover_title">Priehľadný predný kryt</string>
   <string name="smartcover_sensitive_title">Smartcover režim</string>
   <string name="sms_application_title">Predvolená aplikácia SMS</string>
   <string name="sms_change_default_dialog_text" formatted="false">Použiť aplikáciu %s namiesto %s ako aplikáciu pre SMS?</string>
@@ -2639,6 +2696,8 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_bar_settings_no_carrier">Žiadny</string>
   <string name="status_bar_settings_notification_bar">Roletka</string>
   <string name="status_bar_settings_notification_led">LED upozornenie</string>
+  <string name="status_bar_settings_notification_priority">Priorita</string>
+  <string name="status_bar_settings_notification_priority_summary">Zobraziť upozornenia vždy ako prvé</string>
   <string name="status_bar_settings_notification_sound_vibrate">Zvuk a vibrácie</string>
   <string name="status_bar_settings_show_carrier">Zobraziť názov operátora</string>
   <string name="status_bar_settings_show_carrier_summary">Zobraziť len na uzamknutej obrazovke a v roletke</string>
@@ -2763,6 +2822,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="tether_settings_title_wifi">Prenosný hotspot</string>
   <string name="tethering_help_button_text">Pomoc</string>
   <string name="tethering_settings_not_available">Nastavenia zdieľania dátového pripojenia nie sú dostupné pre tohto používateľa</string>
+  <string name="theme_settings_title">Témy</string>
   <string name="time_picker_title">Čas</string>
   <string name="time_zone_auto_stub">Vyberte Časovú zónu</string>
   <string name="timezone_settings">Časová zóna</string>
@@ -3291,6 +3351,7 @@ sl. Wi‑Fi Assistant"</string>
   <string name="wifi_eap_ca_cert">Certifikát CA</string>
   <string name="wifi_eap_identity">Identita</string>
   <string name="wifi_eap_method">Metóda EAP</string>
+  <string name="wifi_eap_sim_simcard">Vyberte SIM</string>
   <string name="wifi_eap_user_cert">Certifikát užívateľa</string>
   <string name="wifi_empty_list_user_restricted">Nemáte povolenie na zmenu siete Wi-Fi.</string>
   <string name="wifi_empty_list_wifi_off">Ak chcete zobraziť dostupné siete, zapnite Wi-Fi.</string>
@@ -3611,65 +3672,4 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
-  <string name="choose_smartcover_type">Vyberte typ krytu</string>
-  <string name="normal_smartcover_title">Nepriehľadný predný kryt</string>
-  <string name="smallwindow_smartcover_title">Priehľadný predný kryt</string>
-  <string name="config_charging_function_name">charging</string>
-  <string name="background_location_control_summary">Povoliť alebo zakázať aplikáciam ktoré sú spustené na pozadí prístup k vašej polohe</string>
-  <string name="background_location_control_title">Prístup k polohe na pozadí</string>
-  <string name="background_location_deselect_apps">Odznačiť všetky</string>
-  <string name="background_location_requests_summary">Povoliť aplikáciam spusteným na pozadí prístup k vašej polohe.</string>
-  <string name="background_location_requests_title">Povoliť polohu na pozadí</string>
-  <string name="background_location_select_apps">Vybrať všetky</string>
-  <string name="dndm_vip_user_setting_title">Zoznam výnimiek</string>
-  <string name="miui_data_usage_menu_metered">Mobilné hot-spoty</string>
-  <string name="music_dirac_mode_headset">Mi Slúchadlá</string>
-  <string name="music_dirac_mode_piston_youth">Xiaomi Youth</string>
-  <string name="max_cpu6_info">"6 jadier "</string>
-  <string name="max_cpu8_info">"8 jadier "</string>
-  <string name="power_hide_mode_summary">Zakázať aplikáciam prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
-  <string name="power_hide_mode_title">Úspora batérie</string>
-  <string name="screen_resolution_confirm">Potvrdiť a reštartovať</string>
-  <string name="screen_resolution_summary">Nižšie rozlíšenie displeja zníži kvalitu zobrazenia, spotrebu batérie a zvýši výkon zariadenia. Zmeny sa aplikujú po reštarte zariadenia.</string>
-  <string name="screen_resolution_switch">Zmeniť rozlíšenie displeja</string>
-  <string name="screen_resolution_title">Rozlíšenie displeja</string>
-  <string name="wifi_eap_sim_simcard">Vyberte SIM</string>
-  <string name="screen_color_and_optimize">Farby a kontrast</string>
-  <string name="bluetooth_ask_enablement_and_discovery_detected">" požaduje zapnúť Bluetooth a zviditeľniť vaše zariadenie na %1$d sekúnd."</string>
-  <string name="bluetooth_ask_enablement_and_lasting_discovery_detected">" požaduje zapnúť Bluetooth a zviditeľniť vaše zariadenie pre iné zariadenia. Môžete to zmeniť v nastaveniach Bluetooth."</string>
-  <string name="bluetooth_ask_enablement_detected">" požaduje zapnutie Bluetooth."</string>
-  <string name="cancel_action">Zrušiť</string>
-  <string name="children_mode_enable_title">Detský režim</string>
-  <string name="children_mode_set_apps_title">Dostupné aplikácie</string>
-  <string name="children_mode_tips_off">Po povolení detského režimu, stlačte tlačidlo Domov pre návrat na domovskú obrazovku</string>
-  <string name="children_mode_tips_on">Po vypnutí detského režimu, stlačte tlačidlo Domov pre návrat na domovskú obrazovku</string>
-  <string name="children_mode_title">Detský režim</string>
-  <string name="confirm_action">OK</string>
-  <string name="deny_sms_message">Zakázať odosielanie SMS správ</string>
-  <string name="deny_sms_title">Zablokovať SMS</string>
-  <string name="dndm_vip_call_setting_detal">Vždy prijať hovory z výnimiek</string>
-  <string name="dndm_wristband">MiBand</string>
-  <string name="dndm_wristband_detailed">Prepnúť do režimu Nerušiť ak MiBand rozpozná, že spíte hodinu pred začiatkom nastaveného času</string>
-  <string name="dndm_wristband_detailed2">Vypnúť režim Nerušiť ak MiBand rozpozná, že ste sa prebudili hodinu pred koncom nastaveného času</string>
-  <string name="every_day">Každý deň</string>
-  <string name="font_size_exhuge">Extra veľké</string>
-  <string name="handy_mode_enter_ask">Vyžadovať potvrdenie</string>
-  <string name="legal_workday">Pracovné dni</string>
-  <string name="legal_workday_invalidate">Pon-Pia (bez sviatkov)</string>
-  <string name="legal_workday_invalidate_message">Dotykom aktualizujete zoznam sviatkov.</string>
-  <string name="legal_workday_message">(Preskočiť sviatky)</string>
-  <string name="never">Nikdy</string>
-  <string name="repeat">Opakovať</string>
-  <string name="set_password_action">Nastaviť heslo</string>
-  <string name="set_password_message">Nastavte heslo pre deaktivovanie detského režimu a odomknutie zariadenia</string>
-  <string name="set_password_title">Nastavte heslo</string>
-  <string name="status_bar_settings_notification_priority">Priorita</string>
-  <string name="status_bar_settings_notification_priority_summary">Zobraziť upozornenia vždy ako prvé</string>
-  <string name="theme_settings_title">Témy</string>
-  <string name="advanced_text_layout">Povoliť rozšírené nastavenie rozloženia textu</string>
-  <string name="experience_optimization_category">Optimalizácia</string>
-  <string name="page_layout_32">Obchod Play</string>
-  <string name="pref_edge_handgrip">Edge controls</string>
-  <string name="dndm_alarm_content_not_all">Všetko povolené</string>
-  <string name="music_dirac_mode_piston_color">Color Edition</string>
 </resources>

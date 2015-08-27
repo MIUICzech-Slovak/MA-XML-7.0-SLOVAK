@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
+  <string name="about_to_recover">O obnove</string>
   <string name="app_name">Záloha aplikácií​</string>
   <string name="back_up_task_in_process">Zálohovanie...</string>
   <string name="back_up_task_unfinished">obnovenie nebolo dokončené</string>
@@ -13,6 +14,7 @@
   <string name="button_delete">Vymazať</string>
   <string name="button_next">Ďalej</string>
   <string name="cancel_recover_settings">Zrušiť</string>
+  <string name="click_try_to_restore_again">Skúste to znova</string>
   <string name="cloud_app_backup_success">Aplikácie zálohované</string>
   <string name="cloud_app_check_data">Kontrola MiCloud...</string>
   <string name="cloud_app_current_device">Súčasné zariadenie</string>
@@ -73,6 +75,4 @@
   <string name="start_recover">Obnoviť %s</string>
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="about_to_recover">O obnove</string>
-  <string name="click_try_to_restore_again">Skúste to znova</string>
 </resources>

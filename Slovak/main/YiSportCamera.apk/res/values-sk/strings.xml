@@ -12,6 +12,7 @@
   <string name="battery_lower_than_50_percent">Batéria má menej ako 50%, pred inštaláciou aktualizácie ju pripojte k nabíjačke</string>
   <string name="bluetooth">Bluetooth</string>
   <string name="bluetooth_setting">Nastavenia Bluetooth</string>
+  <string name="bluetooth_unbinding_timeout">Odpájanie Bluetooth ovládania zlyhalo</string>
   <string name="bonded_device">Pripojené zariadenia</string>
   <string name="brightbeau">Brightbeau</string>
   <string name="burst_complete">Dokončené.</string>
@@ -24,11 +25,25 @@
   <string name="buzzer_volume_high">Vysoká</string>
   <string name="buzzer_volume_low">Nízka</string>
   <string name="buzzer_volume_mute">Vypnuté</string>
+  <string name="camer_timelaps_off">VYP</string>
   <string name="camera_firmware_cancel">Zrušiť Firmware</string>
   <string name="camera_firmware_upgrade">Aktualizácia FW</string>
   <string name="camera_firmware_v">Verzia FW kamery</string>
   <string name="camera_start_fw_update">Aktualizácia</string>
   <string name="camera_start_usb_storage_mode">Kamera je prepnutá do USB režimu</string>
+  <string name="camera_timelaps_internal">Interval</string>
+  <string name="camera_timelaps_real_time">trvanie %s</string>
+  <string name="camera_timelaps_times">%sx</string>
+  <string name="camera_timelaps_video_length">Dĺžka videa</string>
+  <string name="camera_upgrade_help_content">"Bolo zistené zlyhanie poslednej aktualizácie, skúste nasledujúce tipy: 
+
+ 1. Nabite batériu kamery minimálne na 50% 
+ 2. Nevypínajte kameru alebo Wi-Fi počas aktualizácie 
+ 3. Kamera musí byť v blízkosti telefónu 
+ 4. Čakajte kým sa dokončí aktualizácia a kamera sa sama reštartuje 
+ 
+ Skúste aktualizovať manuálne cez PC/Mac 
+ Návod: http://www.xiaoyi.com/update/sports"</string>
   <string name="can_not_piv">Fotografovanie je dostupné len počas nahrávania.</string>
   <string name="can_not_piv_in_current_resolution">Súčasné rozlíšenie nie je podporované.</string>
   <string name="cancel">Zrušiť</string>
@@ -39,6 +54,37 @@
   <string name="check_image_to_login">Dotknite sa obrázka</string>
   <string name="check_new_version">Kontrola novej verzie...</string>
   <string name="cloud_photo_album">Cloud album</string>
+  <string name="common_android_wear_notification_needs_update_text">Niektorá aplikácia vyžaduje aktualizáciu aplikácie Android Wear.</string>
+  <string name="common_android_wear_update_text">Táto aplikácia bude fungovať až po aktualizácii aplikácie Android Wear.</string>
+  <string name="common_android_wear_update_title">Aktualizujte aplikáciu Android Wear</string>
+  <string name="common_google_play_services_enable_button">Povoliť služby Google Play</string>
+  <string name="common_google_play_services_enable_text">Táto aplikácia bude fungovať až po povolení služieb Google Play.</string>
+  <string name="common_google_play_services_enable_title">Povoliť služby Google Play</string>
+  <string name="common_google_play_services_error_notification_requested_by_msg">Vyžiadané aplikáciou %1$s</string>
+  <string name="common_google_play_services_install_button">Inštalovať služby Google Play</string>
+  <string name="common_google_play_services_install_text_phone">Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v telefóne nemáte.</string>
+  <string name="common_google_play_services_install_text_tablet">Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v tablete nemáte.</string>
+  <string name="common_google_play_services_install_title">Inštalovať služby Google Play</string>
+  <string name="common_google_play_services_invalid_account_text">Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet.</string>
+  <string name="common_google_play_services_invalid_account_title">Neplatný účet</string>
+  <string name="common_google_play_services_needs_enabling_title">Aplikácia vyžaduje povolenie služieb Google Play.</string>
+  <string name="common_google_play_services_network_error_text">Pripojenie k službám Google Play si vyžaduje dátové pripojenie.</string>
+  <string name="common_google_play_services_network_error_title">Chyba siete</string>
+  <string name="common_google_play_services_notification_needs_installation_title">Aplikácia vyžaduje inštaláciu služieb Google Play.</string>
+  <string name="common_google_play_services_notification_needs_update_title">Aplikácia vyžaduje aktualizáciu služieb Google Play.</string>
+  <string name="common_google_play_services_notification_ticker">Chyba služieb Google Play</string>
+  <string name="common_google_play_services_sign_in_failed_text">Pri prihlasovaní do určeného účtu sa vyskytla chyba. Zvoľte iný účet.</string>
+  <string name="common_google_play_services_sign_in_failed_title">Prihlásenie zlyhalo</string>
+  <string name="common_google_play_services_unknown_issue">Neznámy problém so službami Google Play.</string>
+  <string name="common_google_play_services_unsupported_text">Niektoré vaše aplikácie vyžadujú služby Google Play, ktoré vo vašom zariadení nie sú podporované. Ak potrebujete pomoc, kontaktujte výrobcu.</string>
+  <string name="common_google_play_services_unsupported_title">Služby Google Play</string>
+  <string name="common_google_play_services_update_button">Aktualizovať</string>
+  <string name="common_google_play_services_update_text">Túto aplikáciu bude možné spustiť až po aktualizácii služieb Google Play.</string>
+  <string name="common_google_play_services_update_title">Aktualizovať služby Google Play</string>
+  <string name="common_open_on_phone">Otvoriť na telefóne</string>
+  <string name="common_signin_button_text">Prihlásiť sa</string>
+  <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
+  <string name="commono_google_play_services_api_unavailable_text">Táto aplikácia potrebuje jednu alebo viac služieb Google Play, ktoré v súčasnosti nie sú k dispozícii. Obráťte sa na vývojára a získajte pomoc.</string>
   <string name="confirm">OK</string>
   <string name="connect_camera_first">Nenašli sa informácie o verzii FW, pripojte kameru.</string>
   <string name="connecting">Pripájanie...</string>
@@ -49,6 +95,7 @@
   <string name="date">Dátum</string>
   <string name="date_and_time">Dátum/Čas</string>
   <string name="date_style">XX YY</string>
+  <string name="day">dni</string>
   <string name="deepquit">Deepquit</string>
   <string name="delete_failed">Vymazanie zlyhalo.</string>
   <string name="delete_success">Vymazané!</string>
@@ -58,6 +105,7 @@
   <string name="disconnect_from_camera">Chcete odpojiť kameru? Akcia kamery nebude prerušená.</string>
   <string name="documentary">Dokumentárny</string>
   <string name="douban">Douban</string>
+  <string name="download_at_once">Stiahnuť</string>
   <string name="downloaded">Stiahnuté</string>
   <string name="downloading">Sťahovanie</string>
   <string name="dropbox">Dropbox</string>
@@ -65,6 +113,7 @@
   <string name="email">E-mail</string>
   <string name="evernote">Evernote</string>
   <string name="exit_cancle_download">Sťahovanie bude ukončené. Chcete pokračovať?</string>
+  <string name="exit_cancle_firmware_download">Ukončenie preruší sťahovanie súboru, chcete pokračovať?</string>
   <string name="facebook">Facebook</string>
   <string name="facebookmessenger">Facebook messenger</string>
   <string name="factory_reset_message">Chcete obnoviť továrne nastavenia?</string>
@@ -76,6 +125,7 @@
   <string name="faq_others">Ostatné</string>
   <string name="faq_photo_record">Nahrávanie</string>
   <string name="faq_sd_card">SD karta</string>
+  <string name="faq_title">Otázky užívateľov</string>
   <string name="feedback_contact_hint">Váš E-mail</string>
   <string name="feedback_content_hint">Ako môžeme zlepšiť naše služby?</string>
   <string name="file_add_to_download_quee">Pridané súbory na stiahnutie.</string>
@@ -87,21 +137,41 @@
   <string name="find_camera">Vyhľadať kameru</string>
   <string name="find_new_bluetooth_device">Vyhľadať nové zariadenie</string>
   <string name="find_new_sw">Dostupný nový firmware</string>
+  <string name="finish">Dokončiť</string>
+  <string name="firmware_btn_update">Obnoviť</string>
   <string name="firmware_download_failed">Sťahovanie zlyhalo.</string>
+  <string name="firmware_download_tip">Nie ste pripojený na Wi-Fi sieť. Sťahovanie Firmware cez mobilné dáta môže navýšiť vaše mesačné poplatky. Pokračovať?</string>
+  <string name="firmware_download_title">Sťahovanie Firmware</string>
+  <string name="firmware_downloaded">v%s stiahnutá</string>
+  <string name="firmware_downloading">Sťahovanie (%s%%)</string>
   <string name="firmware_downloading_message">Firmware už bol stiahnutý, chcete ho stiahnuť znova?</string>
   <string name="firmware_downloading_title">Sťahovanie firmware</string>
   <string name="firmware_in_downloading">Sťahovanie aktualizácie FW...</string>
+  <string name="firmware_only_downloaded">Stiahnuté</string>
+  <string name="firmware_paused">Zastaviť</string>
+  <string name="firmware_pausing">Zastavené (%s%%)</string>
+  <string name="firmware_tip_downloaded">Nový</string>
+  <string name="firmware_total_downloaded">%sMB Stiahnutých</string>
   <string name="firmware_update_info">Verzia FW</string>
+  <string name="firmware_upgrade_cautions">Počas aktualizácie kamera pípa. Zrýchlené pípanie znamená, že aktualizácia sa dokončila a kamera sa sama vypne.</string>
   <string name="firmware_upgrade_download_firmware">Sťahovanie aktualizácie FW...</string>
   <string name="firmware_upgrade_failed_no_space">SD karta má nedostatok voľného miesta.</string>
+  <string name="firmware_upgrade_failed_put_file_failed">Aktualizácia zlyhala, skúste to znova.</string>
+  <string name="firmware_upgrade_failed_sd_card_remove">"Žiadna SD karta.
+Vložte SD kartu a skúste to znova."</string>
   <string name="firmware_upgrade_failed_time_out">Spojenie bolo prerušené, nahrajte firmware znova.</string>
+  <string name="firmware_upgrade_failure">Odosielanie firmware zlyhalo!</string>
   <string name="firmware_upgrade_message">Chcete stiahnuť nový firmware?</string>
+  <string name="firmware_upgrade_progress">Odoslané: %d%%</string>
   <string name="firmware_upgrade_switch_wifi">Prepínanie Wi-Fi nastavení...</string>
   <string name="firmware_upgrade_tip">"Odosielanie firmware,
 nevzdiaľujte telefón od kamery."</string>
   <string name="firmware_upgrade_title">Nová verzia FW</string>
   <string name="firmware_version_synchronize_complete">Najnovšia verzia FW:</string>
+  <string name="firmware_without_network_tips">"Odporúčame vám aktualizovať na najnovšiu verziu firmware.
+Pripojte sa k Wi-Fi alebo mobilným dátam pre stiahnutie najnovšej verzie FW."</string>
   <string name="firware_upgrade_begin">Aktualizovať</string>
+  <string name="firware_upgrade_patient">Kamera sa aktualizuje, čakajte prosím..</string>
   <string name="firware_upgrade_succeeded">Gratulujeme</string>
   <string name="firware_upgrade_succeeded_tips">Firmware sa úspešne odoslal</string>
   <string name="flickr">Flickr</string>
@@ -126,6 +196,7 @@ Nájdite číslo SN, názov predvolenej Wi-Fi siete kamery."</string>
 Kamera sa automaticky reštartuje s prevoleným heslom
 camera1234567890"</string>
   <string name="home_camera_dialog_reset_title">Ako obnoviť predevolené nastavenia?</string>
+  <string name="hour">h</string>
   <string name="ib_back_contentdescription">Späť</string>
   <string name="ib_back_photo_show_contentdescription">Späť</string>
   <string name="ib_back_video_show_contentdescription">Späť</string>
@@ -146,6 +217,7 @@ camera1234567890"</string>
   <string name="in_quick_recording">Nahrávanie...</string>
   <string name="in_recording">Nahrávanie...</string>
   <string name="in_timelapes_capture">Časozberné video...</string>
+  <string name="in_timelapes_recording">Timelapse Nahrávanie...</string>
   <string name="in_timer">Časové nahrávanie</string>
   <string name="in_timer_capturing">Nahrávanie...</string>
   <string name="in_timeslape">Time lapse</string>
@@ -170,6 +242,9 @@ camera1234567890"</string>
   <string name="kakaotalk">KakaoTalk</string>
   <string name="kakaotalk_client_inavailable">KakaoTalk nie je nainštalovaný</string>
   <string name="keep_cont_pic">Pokračovať</string>
+  <string name="laiwang">Laiwang</string>
+  <string name="laiwang_client_inavailable">Laiwangs client not exists or the version is too low</string>
+  <string name="laiwangmoments">Laiwang Moments</string>
   <string name="latest_firmware_downloaded">Je dostupná nová verzia FW, pripojte kameru.</string>
   <string name="led_all_disable">Zakázať všetky</string>
   <string name="led_all_enable">Povoliť všetky</string>
@@ -177,6 +252,7 @@ camera1234567890"</string>
   <string name="line">Line</string>
   <string name="line_client_inavailable">Line nie je nainštalovaný</string>
   <string name="linkedin">LinkedIn</string>
+  <string name="list_friends">Priatelia na %s</string>
   <string name="list_item_download_file_textview_downloadedsize">0MB/0MB</string>
   <string name="list_item_download_file_textview_downloadedspeed">0KB/S</string>
   <string name="list_item_download_file_textview_filename">Klip 1</string>
@@ -200,16 +276,23 @@ camera1234567890"</string>
   <string name="miTalk">Mi Talk</string>
   <string name="mingdao">Mingdao</string>
   <string name="mingdao_share_content">Zdieľať</string>
+  <string name="minute">min</string>
+  <string name="minutes_10">10 minút</string>
+  <string name="minutes_3">3 minúty</string>
+  <string name="minutes_5">5 minút</string>
   <string name="modify_ssid">Upraviť Wi-Fi SSID</string>
   <string name="modify_wifi_password">Zmeniť heslo</string>
   <string name="mp4_format">MP4 formát</string>
+  <string name="multi_share">Photo Sharing</string>
   <string name="my_content">Lokálne videá</string>
   <string name="neteasemicroblog">Netease Microblog</string>
   <string name="network_disconnect">Sieť nie je dostupná</string>
   <string name="network_error">Sieť je nedostupná, skúste to znova!</string>
   <string name="network_switch_failed">Prepnutie Wi-Fi siete zlyhalo!</string>
+  <string name="new_firmware_downloaded">Pripojte kameru pre jej aktualizáciu</string>
   <string name="new_video">Nové video</string>
   <string name="next">Ďalej</string>
+  <string name="next_time">Neskôr</string>
   <string name="no_more_space">Nie je dostupné miesto na SD karte.</string>
   <string name="no_new_firmware_version">Máte najnovší firmware</string>
   <string name="no_new_version">Žiadna nová verzia</string>
@@ -219,6 +302,7 @@ camera1234567890"</string>
   <string name="none">Neznáme</string>
   <string name="normal_capture_complete">Zastaviť</string>
   <string name="normal_capture_start">Spustiť</string>
+  <string name="ok">OK</string>
   <string name="open_camera">Zapnite kameru</string>
   <string name="open_camera_message">Stlačte ON/OFF tlačidlo</string>
   <string name="open_url">Pripojiť sa</string>
@@ -267,7 +351,9 @@ camera1234567890"</string>
   <string name="prompt_video_download_message">Sťahovanie sa o chvíľu spustí, chcete pokračovať?</string>
   <string name="prompt_video_download_title">Stiahnuť</string>
   <string name="prompt_video_file_downloaded">Súbor už bol stiahnutý.</string>
+  <string name="prompt_video_file_downloading">Sťahovanie videa</string>
   <string name="prompt_video_file_isexist">Video súbor už existuje</string>
+  <string name="pull_to_refresh">Potiahnutím obnovíte</string>
   <string name="pull_to_refresh_footer_pull_label">Potiahnite nahor pre načítanie</string>
   <string name="pull_to_refresh_footer_refreshing_label">Načítavanie...</string>
   <string name="pull_to_refresh_footer_release_label">Pustite pre načítanie</string>
@@ -283,8 +369,11 @@ camera1234567890"</string>
   <string name="record_failed">Nahrávanie zlyhalo</string>
   <string name="record_start">Nahrať</string>
   <string name="record_stop">Zastaviť</string>
+  <string name="recording_frame_not_allowed">Time-lapse video nie je podporované v tomto rozlíšení</string>
   <string name="recording_sound_not_allowed">V súčasnom rozlíšení nie je podporované nahrávanie zvuku</string>
   <string name="redownload">Stiahnuť znova</string>
+  <string name="refreshing">Obnovenie...</string>
+  <string name="release_to_refresh">Pustite pre obnovenie</string>
   <string name="renren">Renren</string>
   <string name="resolution_sample">1920 X 1080 | 16:9 | 60fps</string>
   <string name="restart_device_immediately">Znovu pripojiť Wi-Fi po aktualizácií informácií o Wi-Fi. Chcete pokračovať?</string>
@@ -310,9 +399,11 @@ camera1234567890"</string>
   <string name="search_time_out">Kamera sa nenašla</string>
   <string name="searching">Vyhľadávanie kamery...</string>
   <string name="second">s</string>
+  <string name="select_a_friend">Vybete priateľa</string>
   <string name="select_camera">Vyberte kameru</string>
   <string name="select_cancle">Zrušiť</string>
   <string name="select_format">Vyberte formát</string>
+  <string name="select_one_plat_at_least">Vyberte sieť na zdieľanie</string>
   <string name="select_photo">Vyberte fotografiu</string>
   <string name="select_prompt">Vyberte fotografiu</string>
   <string name="select_wifi">Vyberte Wi-Fi pripojenie kamery</string>
@@ -375,10 +466,16 @@ camera1234567890"</string>
   <string name="setting_video_time_stamp">Časový vodoznak</string>
   <string name="setting_warp_enable">Korekcia šošovky</string>
   <string name="setting_wifi">Nastavenie Wi-Fi</string>
+  <string name="shake2share">Zatraste svojim telefónom!</string>
+  <string name="share">Zdieľať</string>
+  <string name="share_canceled">Operácia je zrušená</string>
+  <string name="share_completed">Operácia dokončená</string>
   <string name="share_failed">Zdieľanie zlyhalo</string>
   <string name="share_finish">Úspešne zdieľané! Chcete sa znovu pripojiť ku kamere?</string>
   <string name="share_my_video_message">Práve som nahral video. Pozrite sa!</string>
+  <string name="share_picture">Zdieľať fotografiu</string>
   <string name="share_sns_video_message">Zdieľam XXX video “YYYY”</string>
+  <string name="share_to">Zdieľať na</string>
   <string name="share_to_all">Zdieľať všetkým</string>
   <string name="share_to_group">Zdieľať skupine</string>
   <string name="share_to_mingdao">Zdieľať na Mingdao</string>
@@ -387,6 +484,7 @@ camera1234567890"</string>
   <string name="share_to_qzone">Zdieľať na QZone</string>
   <string name="share_to_qzone_default">Zdieľané z %s</string>
   <string name="share_video">Zdieľať</string>
+  <string name="sharing">Zdieľanie prebieha na pozadí...</string>
   <string name="shortmessage">Krátka správa</string>
   <string name="should_connect_to_outside_wifi">Aktualizácia firmware vyžaduje iné Wi-Fi pripojenie. Chcete odpojiť váš telefón od kamery?</string>
   <string name="show_password">Zobraziť heslo</string>
@@ -396,6 +494,7 @@ camera1234567890"</string>
   <string name="sns_caching_video">Načítavanie...(XX%)</string>
   <string name="sns_detail_video">Všetky videá</string>
   <string name="sns_found_photo">Populárne fotografie</string>
+  <string name="sns_guide_connect_camera">Pripojte kameru</string>
   <string name="sns_home_found">Online</string>
   <string name="sns_home_more">Viac</string>
   <string name="sns_home_my">Môj profil</string>
@@ -414,6 +513,7 @@ camera1234567890"</string>
   <string name="stop_record_first">Najskôr zastavte nahrávanie.</string>
   <string name="sure_to_cancel_firmware_upgrade">Chcete aktualizovať?</string>
   <string name="sure_to_delete">Chcete vymazať?</string>
+  <string name="switch_mode">Prepnúť režim</string>
   <string name="system_busy">Systém je zaneprázdnený</string>
   <string name="take_photo_failed">Zhotovenie snímky zlyhalo.</string>
   <string name="template">Predloha</string>
@@ -463,17 +563,27 @@ telefónu"</string>
   <string name="tvVideoSetting">Nastavenie videa</string>
   <string name="tv_burst">Dávka</string>
   <string name="tv_normal">Fotografie</string>
+  <string name="tv_normal_record">Video</string>
+  <string name="tv_record_photo">Video + foto</string>
   <string name="tv_timelapes">Time Lapse</string>
   <string name="tv_timer">Samospúšť</string>
   <string name="tv_timing_off">vyp</string>
+  <string name="tv_timlapse_record">Timelapse</string>
   <string name="twitter">Twitter</string>
   <string name="unable_to_delete_photo">Nie je možné vymazať fotografiu!</string>
   <string name="unbind_bluetooth_failed">Odpojenie zlyhalo!</string>
   <string name="unbind_bluetooth_succeeded">Odpojené!</string>
   <string name="unbind_bluetooth_unbinded">Nič sa nenašlo!</string>
+  <string name="understand">OK</string>
   <string name="unsurported_sw_version">Súčasná verzia nepodporuje časovanie záberu. Aktualizujte na najnovšiu verziu na adrese miuios.cz/sportcam</string>
   <string name="unsurrport_online_play">Súbor nepodporuje online prehrávanie</string>
   <string name="update_now">Chcete aktualizovať?</string>
+  <string name="upgrade_at_once">Aktualizovať</string>
+  <string name="upgrade_help">Pomoc</string>
+  <string name="upgrade_one_more">Znova</string>
+  <string name="upgrade_terminate_tip">Posledná aktualizácia zlyhala, pozrite si tipy ako aktualizovať.</string>
+  <string name="upgrade_tips_on_ready">Aktualizácia je pripravená, bude to trvať len pár minút.</string>
+  <string name="upgrade_tips_on_version">Odporúčame aktualizovať na poslednú verziu.</string>
   <string name="upload_failed">odosielanie zlyhalo, skúste to znova!</string>
   <string name="use_login_button">Použite tlačidlo pre prihlásenie</string>
   <string name="verion_name">Verzia</string>
@@ -506,6 +616,7 @@ telefónu"</string>
   <string name="website">http://www.mob.com</string>
   <string name="wechat">WeChat</string>
   <string name="wechat_client_inavailable">WeChat nie je nainštalovaný</string>
+  <string name="wechatcollect">Wechat Collect</string>
   <string name="wechatfavorite">Wechat Favorites</string>
   <string name="wechatmoments">Wechat Moments</string>
   <string name="weibo_oauth_regiseter">Prihlásenie</string>
@@ -514,6 +625,7 @@ telefónu"</string>
   <string name="whatsapp_client_inavailable">WhatsApp nie je nainštalovaný</string>
   <string name="wifi_authenticate_failed">Zadané heslo Wi-Fi siete nie je správne</string>
   <string name="wifi_connect_failed">Odpojené</string>
+  <string name="wifi_connect_failed_directly">Reštartujte váš telefón alebo skontrolujte nastavenie Wi-Fi pripojenia.</string>
   <string name="wifi_connect_failed_solution">Skontrolujte či váš telefón je pripojený ku kamere. Wi-Fi LED bude blikať.</string>
   <string name="wifi_invalidate_password">Wi-Fi heslo nie je správne.</string>
   <string name="wifi_password_hint">Predvolené 1234567890</string>
@@ -534,116 +646,4 @@ Veľkosť: %2$s"</string>
   <string name="yixin_client_inavailable">Yixin nie je nainštalovaný</string>
   <string name="yixinmoments">Yixin Moments</string>
   <string name="youdao">Youdao</string>
-  <string name="bluetooth_unbinding_timeout">Odpájanie Bluetooth ovládania zlyhalo</string>
-  <string name="camera_upgrade_help_content">"Bolo zistené zlyhanie poslednej aktualizácie, skúste nasledujúce tipy: 
-
- 1. Nabite batériu kamery minimálne na 50% 
- 2. Nevypínajte kameru alebo Wi-Fi počas aktualizácie 
- 3. Kamera musí byť v blízkosti telefónu 
- 4. Čakajte kým sa dokončí aktualizácia a kamera sa sama reštartuje 
- 
- Skúste aktualizovať manuálne cez PC/Mac 
- Návod: http://www.xiaoyi.com/update/sports"</string>
-  <string name="download_at_once">Stiahnuť</string>
-  <string name="finish">Dokončiť</string>
-  <string name="firmware_upgrade_cautions">Počas aktualizácie kamera pípa. Zrýchlené pípanie znamená, že aktualizácia sa dokončila a kamera sa sama vypne.</string>
-  <string name="firmware_upgrade_failed_sd_card_remove">"Žiadna SD karta.
-Vložte SD kartu a skúste to znova."</string>
-  <string name="firmware_upgrade_progress">Odoslané: %d%%</string>
-  <string name="firware_upgrade_patient">Kamera sa aktualizuje, čakajte prosím..</string>
-  <string name="in_timelapes_recording">Timelapse Nahrávanie...</string>
-  <string name="laiwang">Laiwang</string>
-  <string name="laiwang_client_inavailable">Laiwangs client not exists or the version is too low</string>
-  <string name="laiwangmoments">Laiwang Moments</string>
-  <string name="list_friends">Priatelia na %s</string>
-  <string name="multi_share">Photo Sharing</string>
-  <string name="next_time">Neskôr</string>
-  <string name="ok">OK</string>
-  <string name="prompt_video_file_downloading">Sťahovanie videa</string>
-  <string name="pull_to_refresh">Potiahnutím obnovíte</string>
-  <string name="refreshing">Obnovenie...</string>
-  <string name="release_to_refresh">Pustite pre obnovenie</string>
-  <string name="select_a_friend">Vybete priateľa</string>
-  <string name="select_one_plat_at_least">Vyberte sieť na zdieľanie</string>
-  <string name="shake2share">Zatraste svojim telefónom!</string>
-  <string name="share">Zdieľať</string>
-  <string name="share_canceled">Operácia je zrušená</string>
-  <string name="share_completed">Operácia dokončená</string>
-  <string name="share_picture">Zdieľať fotografiu</string>
-  <string name="share_to">Zdieľať na</string>
-  <string name="sharing">Zdieľanie prebieha na pozadí...</string>
-  <string name="tv_normal_record">Video</string>
-  <string name="tv_record_photo">Video + foto</string>
-  <string name="tv_timlapse_record">Timelapse</string>
-  <string name="understand">OK</string>
-  <string name="upgrade_at_once">Aktualizovať</string>
-  <string name="upgrade_help">Pomoc</string>
-  <string name="upgrade_one_more">Znova</string>
-  <string name="upgrade_terminate_tip">Posledná aktualizácia zlyhala, pozrite si tipy ako aktualizovať.</string>
-  <string name="upgrade_tips_on_ready">Aktualizácia je pripravená, bude to trvať len pár minút.</string>
-  <string name="upgrade_tips_on_version">Odporúčame aktualizovať na poslednú verziu.</string>
-  <string name="wechatcollect">Wechat Collect</string>
-  <string name="wifi_connect_failed_directly">Reštartujte váš telefón alebo skontrolujte nastavenie Wi-Fi pripojenia.</string>
-  <string name="firmware_upgrade_failed_put_file_failed">Aktualizácia zlyhala, skúste to znova.</string>
-  <string name="recording_frame_not_allowed">Time-lapse video nie je podporované v tomto rozlíšení</string>
-  <string name="exit_cancle_firmware_download">Ukončenie preruší sťahovanie súboru, chcete pokračovať?</string>
-  <string name="faq_title">Otázky užívateľov</string>
-  <string name="firmware_download_tip">Nie ste pripojený na Wi-Fi sieť. Sťahovanie Firmware cez mobilné dáta môže navýšiť vaše mesačné poplatky. Pokračovať?</string>
-  <string name="firmware_download_title">Sťahovanie Firmware</string>
-  <string name="firmware_downloaded">v%s stiahnutá</string>
-  <string name="firmware_downloading">Sťahovanie (%s%%)</string>
-  <string name="firmware_only_downloaded">Stiahnuté</string>
-  <string name="firmware_paused">Zastaviť</string>
-  <string name="firmware_pausing">Zastavené (%s%%)</string>
-  <string name="firmware_tip_downloaded">Nový</string>
-  <string name="firmware_total_downloaded">%sMB Stiahnutých</string>
-  <string name="firmware_upgrade_failure">Odosielanie firmware zlyhalo!</string>
-  <string name="minutes_10">10 minút</string>
-  <string name="minutes_3">3 minúty</string>
-  <string name="minutes_5">5 minút</string>
-  <string name="new_firmware_downloaded">Pripojte kameru pre jej aktualizáciu</string>
-  <string name="sns_guide_connect_camera">Pripojte kameru</string>
-  <string name="switch_mode">Prepnúť režim</string>
-  <string name="common_android_wear_notification_needs_update_text">Niektorá aplikácia vyžaduje aktualizáciu aplikácie Android Wear.</string>
-  <string name="common_android_wear_update_text">Táto aplikácia bude fungovať až po aktualizácii aplikácie Android Wear.</string>
-  <string name="common_android_wear_update_title">Aktualizujte aplikáciu Android Wear</string>
-  <string name="common_google_play_services_enable_button">Povoliť služby Google Play</string>
-  <string name="common_google_play_services_enable_text">Táto aplikácia bude fungovať až po povolení služieb Google Play.</string>
-  <string name="common_google_play_services_enable_title">Povoliť služby Google Play</string>
-  <string name="common_google_play_services_error_notification_requested_by_msg">Vyžiadané aplikáciou %1$s</string>
-  <string name="common_google_play_services_install_button">Inštalovať služby Google Play</string>
-  <string name="common_google_play_services_install_text_phone">Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v telefóne nemáte.</string>
-  <string name="common_google_play_services_install_text_tablet">Na spustenie tejto aplikácie sa vyžadujú služby Google Play, ktoré v tablete nemáte.</string>
-  <string name="common_google_play_services_install_title">Inštalovať služby Google Play</string>
-  <string name="common_google_play_services_invalid_account_text">Zadaný účet v tomto zariadení neexistuje. Vyberte iný účet.</string>
-  <string name="common_google_play_services_invalid_account_title">Neplatný účet</string>
-  <string name="common_google_play_services_needs_enabling_title">Aplikácia vyžaduje povolenie služieb Google Play.</string>
-  <string name="common_google_play_services_network_error_text">Pripojenie k službám Google Play si vyžaduje dátové pripojenie.</string>
-  <string name="common_google_play_services_network_error_title">Chyba siete</string>
-  <string name="common_google_play_services_notification_needs_installation_title">Aplikácia vyžaduje inštaláciu služieb Google Play.</string>
-  <string name="common_google_play_services_notification_needs_update_title">Aplikácia vyžaduje aktualizáciu služieb Google Play.</string>
-  <string name="common_google_play_services_notification_ticker">Chyba služieb Google Play</string>
-  <string name="common_google_play_services_sign_in_failed_text">Pri prihlasovaní do určeného účtu sa vyskytla chyba. Zvoľte iný účet.</string>
-  <string name="common_google_play_services_sign_in_failed_title">Prihlásenie zlyhalo</string>
-  <string name="common_google_play_services_unknown_issue">Neznámy problém so službami Google Play.</string>
-  <string name="common_google_play_services_unsupported_text">Niektoré vaše aplikácie vyžadujú služby Google Play, ktoré vo vašom zariadení nie sú podporované. Ak potrebujete pomoc, kontaktujte výrobcu.</string>
-  <string name="common_google_play_services_unsupported_title">Služby Google Play</string>
-  <string name="common_google_play_services_update_button">Aktualizovať</string>
-  <string name="common_google_play_services_update_text">Túto aplikáciu bude možné spustiť až po aktualizácii služieb Google Play.</string>
-  <string name="common_google_play_services_update_title">Aktualizovať služby Google Play</string>
-  <string name="common_open_on_phone">Otvoriť na telefóne</string>
-  <string name="common_signin_button_text">Prihlásiť sa</string>
-  <string name="common_signin_button_text_long">Prihlásiť sa do účtu Google</string>
-  <string name="commono_google_play_services_api_unavailable_text">Táto aplikácia potrebuje jednu alebo viac služieb Google Play, ktoré v súčasnosti nie sú k dispozícii. Obráťte sa na vývojára a získajte pomoc.</string>
-  <string name="camer_timelaps_off">VYP</string>
-  <string name="camera_timelaps_internal">Interval</string>
-  <string name="camera_timelaps_real_time">trvanie %s</string>
-  <string name="camera_timelaps_times">%sx</string>
-  <string name="camera_timelaps_video_length">Dĺžka videa</string>
-  <string name="day">dni</string>
-  <string name="firmware_btn_update">Obnoviť</string>
-  <string name="firmware_without_network_tips">"Odporúčame vám aktualizovať na najnovšiu verziu firmware.
-Pripojte sa k Wi-Fi alebo mobilným dátam pre stiahnutie najnovšej verzie FW."</string>
-  <string name="hour">h</string>
-  <string name="minute">min</string>
 </resources>

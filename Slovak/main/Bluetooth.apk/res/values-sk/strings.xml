@@ -122,6 +122,8 @@
   <string name="notification_sent">Zdieľanie Bluetooth: Súbor %1$s bol odoslaný</string>
   <string name="notification_sent_complete">100% hotovo</string>
   <string name="notification_sent_fail">Zdieľanie Bluetooth: Súbor %1$s nebol odoslaný</string>
+  <string name="notify_device_lose_connection_text">Dotykom odpojíte %1$s.</string>
+  <string name="notify_device_lose_connection_title">Zariadenie %1$s nie je pripojené</string>
   <string name="notify_server">Upozorniť server TCP</string>
   <string name="ok_button">OK</string>
   <string name="outbound_history_title">Odchádzajúce prenosy</string>
@@ -180,6 +182,10 @@
   <string name="transfer_menu_clear">Vymazať zo zoznamu</string>
   <string name="transfer_menu_clear_all">Vymazať zoznam</string>
   <string name="transfer_menu_open">Otvoriť</string>
+  <string name="unbind_device_alert_cancel">Zrušiť</string>
+  <string name="unbind_device_alert_content">Bluetooth zariadenie %1$s nie je pripojené. Jeho odpojenie môže zvýšiť výkon vášho zariadenia.</string>
+  <string name="unbind_device_alert_ok">OK</string>
+  <string name="unbind_device_alert_title">Odpojiť zariadenie</string>
   <string name="unknownName">Neznámy názov</string>
   <string name="unknownNumber">Neznáme</string>
   <string name="unknown_device">Neznáme zariadenie</string>
@@ -198,10 +204,4 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
-  <string name="unbind_device_alert_cancel">Zrušiť</string>
-  <string name="unbind_device_alert_content">Bluetooth zariadenie %1$s nie je pripojené. Jeho odpojenie môže zvýšiť výkon vášho zariadenia.</string>
-  <string name="unbind_device_alert_ok">OK</string>
-  <string name="unbind_device_alert_title">Odpojiť zariadenie</string>
-  <string name="notify_device_lose_connection_text">Dotykom odpojíte %1$s.</string>
-  <string name="notify_device_lose_connection_title">Zariadenie %1$s nie je pripojené</string>
 </resources>

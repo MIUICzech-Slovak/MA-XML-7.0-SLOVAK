@@ -42,6 +42,8 @@
   <string name="aqi_quality_index_unhealthy">AQI %1$s</string>
   <string name="button_abandon">Zrušiť zmeny</string>
   <string name="button_allow">Potvrdiť</string>
+  <string name="button_confirm">Povoliť</string>
+  <string name="button_exit">Ukončiť</string>
   <string name="button_not_allow">Zrušiť</string>
   <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
   <string name="deleting">Odstraňovanie...</string>
@@ -289,6 +291,4 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
-  <string name="button_confirm">Povoliť</string>
-  <string name="button_exit">Ukončiť</string>
 </resources>

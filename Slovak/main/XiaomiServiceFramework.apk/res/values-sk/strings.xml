@@ -7,8 +7,11 @@
   <string name="activate_feature_find_device">Vyhľadávanie zariadenia</string>
   <string name="activate_feature_mms_sync">SMS</string>
   <string name="activate_feature_mx">Cloud správy</string>
+  <string name="activate_feature_mx_and_voip">MiSprávy</string>
   <string name="activate_phone_failed_notif_title">Nie je možné aktivovať SIM kartu</string>
   <string name="activate_phone_failed_notif_title_msim">Nie je možné aktivovať SIM kartu %s</string>
+  <string name="activate_popup_confirm_all_gateway_failed_query_info">Znova</string>
+  <string name="activate_popup_confirm_all_gateway_failed_send_sms">Znova</string>
   <string name="activate_popup_confirm_failed_phone_error">Znova</string>
   <string name="activate_popup_confirm_failed_query_info">Znova</string>
   <string name="activate_popup_confirm_failed_receive_sms">Znova</string>
@@ -17,6 +20,10 @@
   <string name="activate_popup_confirm_upload_diagnosis_info">Odoslať</string>
   <string name="activate_popup_desc_2_intl_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašej SIM karty a funkcií ako %s</string>
   <string name="activate_popup_desc_2_sim_cards">2 medzinárodne SMS budú odoslané pre aktiváciu vašich 2 SIM kariet a funkcií ako %s</string>
+  <string name="activate_popup_desc_all_gateway_failed_query_info">"Nie je možné rozpoznať vaše telefónne číslo. Uistite sa, že vaša SIM karta je aktivovaná.
+Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
+  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Nebolo možné odoslať aktivačnú SMS správu. Uistite sa, že vaša SIM karta je aktivovaná.
+Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
   <string name="activate_popup_desc_failed_phone_error">Zadané číslo je nesprávne.</string>
   <string name="activate_popup_desc_failed_query_info">Nie je možné načítať vaše telefónne číslo. Uistite sa prosím, že je vložená SIM karta.</string>
   <string name="activate_popup_desc_failed_receive_sms">Skontrolujte zadané telefónne číslo a SIM kartu.</string>
@@ -36,7 +43,11 @@
   <string name="activate_popup_desc_sim_card">SMS bude odoslaná pre aktiváciu vašej SIM karty a funkcií ako %s</string>
   <string name="activate_popup_desc_sim_card_downlink">Zadajte číslo vašej SIM karty pre aktiváciu a funkcií ako %s</string>
   <string name="activate_popup_desc_upload_diagnosis_info">Nie je možné aktivovať SIM kartu. Zvážte odoslanie informácií pre diagnostikovanie problému. (Report ID: %s)</string>
+  <string name="activate_popup_desc_voip_privacy">Ochrane súkromia</string>
+  <string name="activate_popup_desc_voip_privacy_prefix">". MIUI VOIP je poskytované weihui, prečítajte si o "</string>
   <string name="activate_popup_link_diagnosis_detail">Ktoré súkromné dáta budú odoslané?</string>
+  <string name="activate_popup_title_all_gateway_failed_query_info">Nie je možné rozpoznať telefónne číslo</string>
+  <string name="activate_popup_title_all_gateway_failed_send_sms">Nebolo možné odoslať aktivačnú SMS správu</string>
   <string name="activate_popup_title_diagnosis_detail">Informácie o diagnostike</string>
   <string name="activate_popup_title_failed_phone_error">Nesprávne telefónne číslo</string>
   <string name="activate_popup_title_failed_query_info">Telefónne číslo sa nenašlo</string>
@@ -87,15 +98,4 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
-  <string name="activate_popup_confirm_all_gateway_failed_query_info">Znova</string>
-  <string name="activate_popup_confirm_all_gateway_failed_send_sms">Znova</string>
-  <string name="activate_popup_desc_all_gateway_failed_query_info">"Nie je možné rozpoznať vaše telefónne číslo. Uistite sa, že vaša SIM karta je aktivovaná.
-Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
-  <string name="activate_popup_desc_all_gateway_failed_send_sms">"Nebolo možné odoslať aktivačnú SMS správu. Uistite sa, že vaša SIM karta je aktivovaná.
-Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
-  <string name="activate_popup_title_all_gateway_failed_send_sms">Nebolo možné odoslať aktivačnú SMS správu</string>
-  <string name="activate_popup_title_all_gateway_failed_query_info">Nie je možné rozpoznať telefónne číslo</string>
-  <string name="activate_feature_mx_and_voip">MiSprávy</string>
-  <string name="activate_popup_desc_voip_privacy">Ochrane súkromia</string>
-  <string name="activate_popup_desc_voip_privacy_prefix">". MIUI VOIP je poskytované weihui, prečítajte si o "</string>
 </resources>

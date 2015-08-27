@@ -10,6 +10,8 @@
   <string name="caller_info_name_delimiter">" Alebo "</string>
   <string name="copy">Kopírovať</string>
   <string name="cut">Vystrihnúť</string>
+  <string name="fc_dialog_body">Zobrazte podrobnosti o chybe, skopírujte log a vložte na miuios.cz/rom pre jej ďalšiu analýzu.</string>
+  <string name="fc_dialog_jump_to_preview">Podrobnosti o chybe pre miuios.cz</string>
   <string name="first_back_long_press_message">"Prajete si, aby na ukončili aplikácie stlačením a podržaním tlačidla Späť? \nZapnete v Nastavenia&gt; Systém&gt; HW tlačidlá"</string>
   <string name="fm_record_smaple_prefix_miui">FM_Nahrávka</string>
   <string name="force_exit_message">Úspešne ukončená aplikácia \"%1$s\"</string>
@@ -18,6 +20,8 @@
   <string name="global_actions_reboot">Reštart</string>
   <string name="global_actions_shutdown">Vypnúť</string>
   <string name="global_actions_silent_mode">Tichý režim</string>
+  <string name="handy_mode_enter_dlg_msg">Prepnúť do režimu ovládania jednou rukou?</string>
+  <string name="handy_mode_enter_dlg_title">Ovládanie jednou rukou</string>
   <string name="handy_mode_summary">Dotykom na prázdne miesto ho ukončíte</string>
   <string name="handy_mode_title">Ovládanie jednou rukou</string>
   <string name="key_btn_ok">OK</string>
@@ -81,8 +85,4 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznáme číslo</string>
-  <string name="handy_mode_enter_dlg_msg">Prepnúť do režimu ovládania jednou rukou?</string>
-  <string name="handy_mode_enter_dlg_title">Ovládanie jednou rukou</string>
-  <string name="fc_dialog_body">Zobrazte podrobnosti o chybe, skopírujte log a vložte na miuios.cz/rom pre jej ďalšiu analýzu.</string>
-  <string name="fc_dialog_jump_to_preview">Podrobnosti o chybe pre miuios.cz</string>
 </resources>

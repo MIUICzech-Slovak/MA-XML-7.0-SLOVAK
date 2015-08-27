@@ -4,10 +4,13 @@
   <string name="app_label">Správca preberania</string>
   <string name="auto_restart_under_wifi">Wi-Fi automaticky stiahne tento súbor</string>
   <string name="button_cancel_download">Zrušiť</string>
+  <string name="button_download_now">Stiahnuť teraz</string>
   <string name="button_queue_for_wifi">Zoznam</string>
   <string name="button_start_now">Spustiť</string>
+  <string name="button_wait_for_wifi">Čakať</string>
   <string name="dialog_insufficient_space_on_cache">Nie je dostatok miesta na internom úložisku</string>
   <string name="dialog_insufficient_space_on_external">Nie je dostatok miesta na externom úložisku</string>
+  <string name="dialog_not_show_again">Viac sa nepýtať</string>
   <string name="download_error">Neúspešné</string>
   <string name="download_no_application_title">Nie je možné otvoriť súbor</string>
   <string name="download_percent">%d %%</string>
@@ -16,6 +19,8 @@
   <string name="download_running">Prebieha</string>
   <string name="download_running_percent">Prebieha, %d%%</string>
   <string name="download_unknown_title">Bez názvu</string>
+  <string name="enter_garbage_clean">Vyčistiť interné úložisko.</string>
+  <string name="insufficient_space">Nie je dostatok voľného miesta na internom úložisku</string>
   <string name="notif_text_engine_off">Prebieha sťahovanie...</string>
   <string name="notif_text_engine_on">Zrýchlenie... (len pre Čínu)</string>
   <string name="notif_title_file_size">Celkovo: %1$d</string>
@@ -48,8 +53,18 @@
   <string name="privacy_tip_content">"Use Xunlei Accelerator to speed up downloads? The URL of the download's host will uploaded to Xunlei's servers. Your Mi Account details will also be uploaded to check if you have any active subscriptions to this service."</string>
   <string name="privacy_tip_ok">OK</string>
   <string name="privacy_tip_title">Použiť Xunlei sťahovanie?</string>
+  <string name="recommended_file_more_in_mobile" formatted="false">Stiahnutie týchto %s súborov (%s) cez mobilné dáta môže navýšiť vaše mesačné poplatky.</string>
+  <string name="recommended_file_one_in_mobile">Stiahnutie tohto súború (%s) cez mobilné dáta môže navýšiť vaše mesačné poplatky.</string>
+  <string name="recommended_file_size_download_in_mobile" formatted="false">"Nie ste pripojený na Wi-Fi. %s
+
+Nie je možné zistiť veľkosť súboru. Pre stiahnutie tohto súboru cez mobilné dáta stlačte %s. Pre stiahnutie až na Wi-Fi sieti stlačte %s."</string>
+  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Nie je možné zistiť veľkosť súboru. Pre stiahnutie tohto súboru cez mobilné dáta stlačte %s. Pre stiahnutie až na Wi-Fi sieti stlačte %s."</string>
   <string name="root_downloads">Stiahnuté</string>
   <string name="task_already_exist">Úloha už existuje</string>
+  <string name="warning_tip_cancel">Stiahnúť</string>
+  <string name="warning_tip_content">Nie ste pripojený na Wi-Fi sieť. Sťahovanie tohto súboru môže navýšiť vaše poplatky za mobilné dáta."</string>
+  <string name="warning_tip_ok">Zastaviť</string>
+  <string name="warning_tip_title">Využívanie mobilných dát</string>
   <string name="wifi_recommended_body" formatted="false">"Sťahovanie cez mobilné dáta:
 
  %s（%s）
@@ -60,19 +75,4 @@
 
 Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa možnosti %s ."</string>
   <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>
-     <string name="dialog_not_show_again">Viac sa nepýtať</string>
-     <string name="warning_tip_cancel">Stiahnúť</string>
-     <string name="warning_tip_content">Nie ste pripojený na Wi-Fi sieť. Sťahovanie tohto súboru môže navýšiť vaše poplatky za mobilné dáta."</string>
-     <string name="warning_tip_ok">Zastaviť</string>
-     <string name="warning_tip_title">Využívanie mobilných dát</string>
-	 <string name="enter_garbage_clean">Vyčistiť interné úložisko.</string>
-     <string name="insufficient_space">Nie je dostatok voľného miesta na internom úložisku</string>
-	 <string name="button_download_now">Stiahnuť teraz</string>
-	 <string name="button_wait_for_wifi">Čakať</string>
-	 <string name="recommended_file_more_in_mobile" formatted="false">Stiahnutie týchto %s súborov (%s) cez mobilné dáta môže navýšiť vaše mesačné poplatky.</string>
-  <string name="recommended_file_one_in_mobile">Stiahnutie tohto súború (%s) cez mobilné dáta môže navýšiť vaše mesačné poplatky.</string>
-  <string name="recommended_file_size_download_in_mobile" formatted="false">"Nie ste pripojený na Wi-Fi. %s
-
-Nie je možné zistiť veľkosť súboru. Pre stiahnutie tohto súboru cez mobilné dáta stlačte %s. Pre stiahnutie až na Wi-Fi sieti stlačte %s."</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Nie je možné zistiť veľkosť súboru. Pre stiahnutie tohto súboru cez mobilné dáta stlačte %s. Pre stiahnutie až na Wi-Fi sieti stlačte %s."</string>
 </resources>

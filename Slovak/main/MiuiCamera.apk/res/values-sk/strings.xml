@@ -37,6 +37,8 @@ opustite na chvíľu náhľad"</string>
   <string name="camera_error_title">Chyba fotoaparátu</string>
   <string name="camera_label">Fotoaparát</string>
   <string name="camera_settings_label">Fotoaparát</string>
+  <string name="camera_snap_mode_title">Rýchle zhotovenie fotografie</string>
+  <string name="camera_snap_mode_title_detail">Zobraziť podrobnosti</string>
   <string name="can_not_play_video">Pre prehrávanie videa odblokujte obrazovku</string>
   <string name="cancel">Zrušiť</string>
   <string name="cannot_connect_camera_once">"Nie je možné pripojiť kameru, ukončite aplikáciu"</string>
@@ -51,6 +53,9 @@ opustite na chvíľu náhľad"</string>
   <string name="confirm_location_alert">Ukladanie polohy</string>
   <string name="confirm_location_message">Zariadenie môže zaznamenať vašu polohu vo fotografií. Chcete povoliť?</string>
   <string name="confirm_location_title">Zaznamenávanie polohy</string>
+  <string name="confirm_recording_fail_calling_alert">Počas hovoru nie je možné nahávať video.</string>
+  <string name="confirm_recording_fail_recorder_busy_alert">Iná aplikácia využíva mikrofón. Ukončite ju a skúste to znova.</string>
+  <string name="confirm_recording_fail_title">Chyba nahrávania</string>
   <string name="confirm_restore_message">Chcete obnoviť predvolené nastavenia?</string>
   <string name="confirm_restore_title">Obnoviť predvolené</string>
   <string name="connect_wifi">Pripojiť k tejto Wi-Fi</string>
@@ -253,6 +258,7 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_delay_capture_entry_3s">3s</string>
   <string name="pref_camera_delay_capture_entry_5s">5s</string>
   <string name="pref_camera_delay_capture_entry_audio">Zvukom</string>
+  <string name="pref_camera_delay_capture_entry_off">Vyp</string>
   <string name="pref_camera_delay_capture_title">Časovač</string>
   <string name="pref_camera_denoise_title">Odšumenie</string>
   <string name="pref_camera_exposuretime_entry_0.5">2s</string>
@@ -411,6 +417,8 @@ opustite na chvíľu náhľad"</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Vypnutá</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Zapnutá</string>
   <string name="pref_camera_skinToneEnhancement_title">Vylepšenie tónu pleti</string>
+  <string name="pref_camera_snap_enable_summary">Ak je vypnutý displej, stlačte a podržte tlačidlo hlasitosti nadol pre spustenie režimu rýchleho zhotovenia fotografie. Stlačte znova pre zhotovenie fotografie.</string>
+  <string name="pref_camera_snap_enable_title">Rýchle zhotovenie fotografie</string>
   <string name="pref_camera_sound_entry_off">Vyp</string>
   <string name="pref_camera_sound_entry_on">Zap</string>
   <string name="pref_camera_sound_title">Zvuk kamery</string>
@@ -603,12 +611,4 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="confirm_recording_fail_calling_alert">Počas hovoru nie je možné nahávať video.</string>
-  <string name="confirm_recording_fail_recorder_busy_alert">Iná aplikácia využíva mikrofón. Ukončite ju a skúste to znova.</string>
-  <string name="confirm_recording_fail_title">Chyba nahrávania</string>
-  <string name="pref_camera_delay_capture_entry_off">Vyp</string>
-  <string name="camera_snap_mode_title">Rýchle zhotovenie fotografie</string>
-  <string name="camera_snap_mode_title_detail">Zobraziť podrobnosti</string>
-  <string name="pref_camera_snap_enable_summary">Ak je vypnutý displej, stlačte a podržte tlačidlo hlasitosti nadol pre spustenie režimu rýchleho zhotovenia fotografie. Stlačte znova pre zhotovenie fotografie.</string>
-  <string name="pref_camera_snap_enable_title">Rýchle zhotovenie fotografie</string>
 </resources>

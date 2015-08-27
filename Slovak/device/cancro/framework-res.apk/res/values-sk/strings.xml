@@ -247,7 +247,7 @@ pre %s."</string>
   <string name="factorytest_no_action">Nebol nájdený žiadny balíček umožňujúci test FACTORY_TEST.</string>
   <string name="factorytest_not_system">Test FACTORY_TEST je možné uskutočniť iba pri balíčkoch nainštalovaných v priečinku /system/app.</string>
   <string name="factorytest_reboot">Reštartovať</string>
-  <string name="fast_scroll_alphabet">" AÁÄBCČDĎDZDŽEÉFGHCHIÍJKLĽMNŇOÓÔPRŔSŠTŤUÚVWXYÝZŽ"</string>		
+  <string name="fast_scroll_alphabet">" AÁÄBCČDĎDZDŽEÉFGHCHIÍJKLĽMNŇOÓÔPRŔSŠTŤUÚVWXYÝZŽ"</string>
   <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
   <string name="fcComplete">Požiadavka zadaná pomocou kódu funkcie bola úspešne dokončená.</string>
   <string name="fcError">Problém s pripojením alebo neplatný kód funkcie.</string>
