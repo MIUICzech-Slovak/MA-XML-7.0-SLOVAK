@@ -122,7 +122,7 @@
   <string name="paused_waiting_for_network">Čaká na pripojenie</string>
   <string name="paused_waiting_to_retry">Čaká na obnovenie</string>
   <string name="period_of_validity">Platnosť:</string>
-  <string name="pref_download_settings_title">Využitie mobilných dát</string>
+  <string name="pref_download_settings_title">Spotreba mobilných dát</string>
   <string name="pref_summary_any_bytes_popup">Sťahovať len cez Wi-Fi</string>
   <string name="pref_summary_enable_max_bytes_popup">"Pri sťahovaní dát pomocou mobilného internetu sa opýtať ak súbor presahuje povolený limit"</string>
   <string name="pref_summary_max_bytes_limit_format">Stiahnuť cez Wi-Fi ak je súbor väčší ako %s</string>
