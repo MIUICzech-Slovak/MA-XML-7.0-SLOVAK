@@ -186,7 +186,7 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="invalid_address">Zadaná cesta k súboru nie je platná</string>
   <string name="network_error">Nie je možné pripojiť sa k sieti</string>
   <string name="new_add">Nový</string>
-  <string name="pref_download_revert_default">Použiť predvolené umiestnenie</string>
+  <string name="pref_download_revert_default">Predvolené umiestnenie</string>
   <string name="pref_download_storage_path">Zložka pre sťahovanie</string>
   <string name="revert_default">Obnoviť</string>
   <string name="revert_download_path">Použiť predvolené umiestnenie?</string>
@@ -201,4 +201,10 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="storage_sd_card">SD karta</string>
   <string name="storage_usb">USB úložisko</string>
   <string name="version">Verzia %s</string>
+  <string name="downloaded">Sťahovanie dokončené</string>
+  <string name="downloading">Sťahovanie...</string>
+  <string name="install">Inštalovať</string>
+  <string name="installing">Inštalovanie...</string>
+  <string name="open">Otvoriť</string>
+  <string name="paused">Zastavené</string>
 </resources>
