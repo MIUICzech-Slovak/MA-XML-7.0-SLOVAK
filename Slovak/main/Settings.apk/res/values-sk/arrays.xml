@@ -705,4 +705,8 @@ Postupujte podľa pokynov"</item>
         <item>Víkend</item>
         <item>Vybrať dni</item>
     </string-array>
+    <string-array name="wifi_ssid_type_entries">
+        <item>Pripojiť automaticky</item>
+        <item>Pripojiť manuálne</item>
+    </string-array>    
 </resources>
