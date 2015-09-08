@@ -215,7 +215,7 @@
   <string name="match_ac_name_mode">Chladiť</string>
   <string name="match_ac_name_power">Vypnúť</string>
   <string name="match_brand_selection_des">Bežné značky: %1$s</string>
-  <string name="match_count_frame">Párovať %1$d ovládanie</string>
+  <string name="match_count_frame">Párovať %1$d/%2$d ovládanie</string>
   <string name="match_data">Kontrola dát</string>
   <string name="match_dataset_frame">%1$d/%2$d</string>
   <string name="match_dvd_intro_pause">Pause to launch DVD</string>
