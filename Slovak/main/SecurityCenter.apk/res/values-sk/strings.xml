@@ -381,7 +381,7 @@
   <string name="menu_text_networkassistants_danger">%s nad limit!</string>
   <string name="menu_text_networkassistants_remain">Spotreba dát</string>
   <string name="menu_text_power_manager">Správa výkonu</string>
-  <string name="menu_text_power_percent">%s batérie</string>
+  <string name="menu_text_power_percent">%s</string>
   <string name="msg_cleanup_db_update_checking">Kontrola...</string>
   <string name="msg_cleanup_db_update_time_unknown">Aktualizované: neznáme</string>
   <string name="msg_update_error_code_already_running">Aktualizácia</string>

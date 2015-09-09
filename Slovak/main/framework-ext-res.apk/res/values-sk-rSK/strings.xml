@@ -85,4 +85,6 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznáme číslo</string>
+  <string name="reboot_info_auto_boot">Vaše zariadenie sa zapne o %s ako ste to naplánovali</string>
+  <string name="reboot_info_shutdown_alarm">Vaše zariadenie zapne budík o %s</string>
 </resources>

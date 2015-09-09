@@ -357,7 +357,7 @@ Pre aktiváciu vášho účtu, kliknite na
 odkaz v správe ktorá prišla do vašej emailovej schránky.
 Skontrolujte aj SPAM."</string>
   <string name="passport_completed">Dokončiť</string>
-  <string name="passport_confirm">Potvrdiť</string>
+  <string name="passport_confirm">OK</string>
   <string name="passport_confirm_recycle_account">Áno</string>
   <string name="passport_delete_account">Odhlásiť sa</string>
   <string name="passport_dspt_provision">Prihláste sa do MiCloud, Obchodu s témami a mnoho iných služieb Xiaomi s jednym účtom.</string>
@@ -592,4 +592,6 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
++  <string name="passport_forget_password_no_underline">Zabudol som heslo</string>
++  <string name="passport_login_short">Prihlásiť sa</string>
 </resources>
