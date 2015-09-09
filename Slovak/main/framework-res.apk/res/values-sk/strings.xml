@@ -1554,7 +1554,7 @@ Dlhodobé počúvanie pri vysokej hlasitosti môže poškodiť váš sluch."</st
   <string name="volume_call">Hlasitosť hovoru</string>
   <string name="volume_icon_description_bluetooth">Bluetooth</string>
   <string name="volume_icon_description_incall">Hovory</string>
-  <string name="volume_icon_description_media">Média</string>
+  <string name="volume_icon_description_media">Médiá</string>
   <string name="volume_icon_description_notification">Upozornenia</string>
   <string name="volume_icon_description_ringer">Zvonenie</string>
   <string name="volume_music">Hlasitosť médií</string>
