@@ -592,6 +592,6 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
-+  <string name="passport_forget_password_no_underline">Zabudol som heslo</string>
-+  <string name="passport_login_short">Prihlásiť sa</string>
+  <string name="passport_forget_password_no_underline">Zabudol som heslo</string>
+  <string name="passport_login_short">Prihlásiť sa</string>
 </resources>
