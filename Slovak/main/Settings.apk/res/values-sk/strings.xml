@@ -3710,4 +3710,9 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="layout_size_large_text">Veľké</string>
   <string name="layout_size_huge_text">Extra veľké</string>
   <string name="layout_size_exhuge_text">XXL</string>
+  <string name="quiet">Ticho</string>
+  <string name="quiet_group">Tichý režim</string>
+  <string name="quiet_important_interruptions_mode">Povoliť len výnimky</string>
+  <string name="quiet_mode">Tichý režim</string>
+  <string name="quiet_off_mode">Bežný režim</string>
 </resources>
