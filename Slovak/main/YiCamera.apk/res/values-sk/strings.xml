@@ -963,4 +963,7 @@ a čakajte na jeho načítanie"</string>
   <string name="youku_oauth">Authorized by Youku</string>
   <string name="yunyi_km_eye">XiaoYi clairvoyant</string>
   <string name="yunyi_time_photo">XiaoYi TimePhoto</string>
+  <string name="camera_3g_network">Pripojenie ku kamere cez mobilné dáta môže navýšiť vaše poplatky</string>
+  <string name="camera_setting_video_alarm_subtitle">Zobraziť ukážku videa spolu s upozornením</string>
+  <string name="camera_setting_video_alarm_title">Povoliť video upozornenie</string>
 </resources>
