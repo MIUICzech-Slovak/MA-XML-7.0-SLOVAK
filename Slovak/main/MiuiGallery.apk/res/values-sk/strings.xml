@@ -803,4 +803,11 @@ spoločne!"</string>
   <string name="name_wrong">Toto nie je %s</string>
   <string name="need_to_turn_on_sync">Povoľte MiCloud</string>
   <string name="sync_ok">Synchr.</string>
+  <string name="highlight2">Jas</string>
+  <string name="number_of_uploading_finish">Všetky videá a fotografie boli odoslané na MiCloud</string>
+  <string name="file_finish">Synch. na MiCloud</string>
+  <string name="need_to_turn_on_network">Pripojte sa k sieti</string>
+  <string name="need_to_turn_on_wlan">Pripojte sa k Wi-Fi</string>
+  <string name="file_uploading">Synchronizuje sa...</string>
+  <string name="sync_cloud_space_full">MiCloud je plný</string>  
 </resources>
