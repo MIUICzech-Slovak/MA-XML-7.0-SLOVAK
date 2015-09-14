@@ -150,7 +150,7 @@
   <string name="notification_otg_trackball_out">Trackball je odpojený</string>
   <string name="notification_otg_unknow_in">OTG zariadenie je pripojené</string>
   <string name="notification_otg_unknow_out">OTG zariadenie je odpojené</string>
-  <string name="notification_template_text">" upozorňuje, dotykom ho zobrazíte."</string>
+  <string name="notification_template_text">Nové upozornenie. Zobrazíte dotykom.</string>
   <string name="reject_call">Odmietnutie</string>
   <string name="return_to_incall_screen">Stlačte pre návrat k hovoru</string>
   <string name="screen_button_disabled_message">Tlačidlá pod displejom sú vypnuté. Môžete ich zapnúť stlačením tlačidiel \"Domov\" a \"Zapínanie\"</string>

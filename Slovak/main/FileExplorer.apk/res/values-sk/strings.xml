@@ -444,4 +444,11 @@ Získali ste ďalších %1$s"</string>
   <string name="group_title_extra_new">Nové</string>
   <string name="notification_content_hint">Zobraziť</string>
   <string name="title_expire_video">Čoskoro skončí platnosť</string>
+  <string name="confirm_clean">Vyčistiť</string>
+  <string name="decompress_encrypted_rar_not_supported">3ífrovaný rar súbor nie je podporovaný.</string>
+  <string name="decompress_input_password">Zadajte heslo...</string>
+  <string name="decompress_password_error">Chybné heslo, skúste to znova...</string>
+  <string name="decompress_title">Rozbaliť</string>
+  <string name="storage_info_detail">Dostupné: %1$s | Celkom: %1$s</string>
+  <string name="title_select_volume">Vybrať</string>
 </resources>
