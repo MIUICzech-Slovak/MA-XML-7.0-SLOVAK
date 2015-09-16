@@ -354,13 +354,13 @@
   <string name="avail_services">Dostupné služby</string>
   <string name="chinese_female">Čínske speváčky</string>
   <string name="chinese_group">Čínske skupiny</string>
-  <string name="chinese_male">Činsky speváci</string>
+  <string name="chinese_male">Čínski speváci</string>
   <string name="cloud_enable">Synchronizovať s MiCloud</string>
   <string name="cloud_settings">Nastavenia synchronizácie</string>
   <string name="cp_info_first">Streamingovú službu poskytuje Ultimate Inc.</string>
   <string name="create_playlist_failure">"Zoznam skladieb nebol vytvorený"</string>
   <string name="current_services">Aktuálne služby</string>
-  <string name="desc_online_personal_radio">Presne pre Vás</string>
+  <string name="desc_online_personal_radio">Presne pre vás</string>
   <string name="dialog_title_delete_playlist">Vymazať zoznam skladieb</string>
   <string name="english_female">Európske a Americké speváčky</string>
   <string name="english_group">Európske a Americké skupiny</string>
