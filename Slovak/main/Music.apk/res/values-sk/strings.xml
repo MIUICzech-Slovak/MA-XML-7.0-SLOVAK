@@ -338,7 +338,6 @@
   <string name="use_traffic_toast">Disallows the use of pay-WLAN listen songs online. Change the settings if needed</string>
   <string name="valid_period">"Platné: "</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
-
   <string name="account_and_cloud">Účet</string>
   <string name="action_item_add_song">Pridať</string>
   <string name="action_item_cancel">Zrušiť</string>
@@ -356,7 +355,7 @@
   <string name="chinese_female">Čínske speváčky</string>
   <string name="chinese_group">Čínske skupiny</string>
   <string name="chinese_male">Činsky speváci</string>
-  <string name="cloud_enable">Synchronizovať s Mi Cloud</string>
+  <string name="cloud_enable">Synchronizovať s MiCloud</string>
   <string name="cloud_settings">Nastavenia synchronizácie</string>
   <string name="cp_info_first">Streamingovú službu poskytuje Ultimate Inc.</string>
   <string name="create_playlist_failure">"Zoznam skladieb nebol vytvorený"</string>
@@ -404,7 +403,7 @@
   <string name="miuishare_title_share">Zdieľať</string>
   <string name="miuishare_wechat_timeline_title">Časová os Wechat</string>
   <string name="miuishare_weibo_title">Weibo</string>
-  <string name="monthly_price">Mi Kredity</string>
+  <string name="monthly_price">MiKredity</string>
   <string name="more">Viac</string>
   <string name="more_online_artist">Viac</string>
   <string name="more_online_billboard">Viac</string>
@@ -443,15 +442,15 @@
   <string name="select_none">Zrušiť vybrať všetko</string>
   <string name="share_append_text">Od @小米音乐</string>
   <string name="share_chooser_title">Zdieľať</string>
-  <string name="share_description">Z Mi Music</string>
-  <string name="share_end_note">Z Mi Music</string>
-  <string name="share_text_list">Našiel som skvelý zoznam skladieb v Mi Music:</string>
-  <string name="share_text_song">Našiel som skvelú skladbu v Mi Music:</string>
+  <string name="share_description">Z MiMusic</string>
+  <string name="share_end_note">Z MiMusic</string>
+  <string name="share_text_list">Našiel som skvelý zoznam skladieb v MiMusic:</string>
+  <string name="share_text_song">Našiel som skvelú skladbu v MiMusic:</string>
   <string name="song_is_empty">Názov skladby nemôže byť prázdny.</string>
   <string name="song_unit">položky</string>
   <string name="start_to_download">Začať sťahovanie…</string>
-  <string name="sync_only_in_wifi">Synchronizovať iba cez WIFI</string>
-  <string name="sync_only_in_wifi_summary">Synchronizujte všetku Vašu hudbu na Vašich zariadeniach pomocou Mi Cloud. Používaním mobilných dát na synchronizáciu zvýši ich spotrebu. Ak sa dostanete nad ich limit, Váš operátor Vám môže zaúčtovať dodatočné poplatky.</string>
+  <string name="sync_only_in_wifi">Synchronizovať iba cez Wi-Fi</string>
+  <string name="sync_only_in_wifi_summary">Synchronizujte všetku vašu hudbu na Vašich zariadeniach pomocou MiCloud. Používaním mobilných dát na synchronizáciu zvýši ich spotrebu. Ak sa dostanete nad ich limit, váš operátor vám môže zaúčtovať dodatočné poplatky.</string>
   <string name="tab_album">Albumy</string>
   <string name="tab_artist">Interpréti</string>
   <string name="tab_chinese">Čína</string>
@@ -465,7 +464,7 @@
   <string name="title_online_recommend">Odporúčané zoznamy skladieb</string>
   <string name="title_online_release">Nový</string>
   <string name="title_online_song">Populárne skladby</string>
-  <string name="title_online_suggest">Mohlo by sa Vám páčiť</string>
+  <string name="title_online_suggest">Mohlo by sa vám páčiť</string>
   <string name="title_search_history">Prehľadávať históriu</string>
   <string name="title_search_hot">Horúce</string>
   <string name="too_freq">Príliš častá operácia</string>
@@ -473,7 +472,7 @@
   <string name="upgrade">Vylepšiť:</string>
   <string name="upgrade_services">Vylepšiť služby</string>
   <string name="upgrade_to">Vylepšiť na</string>
-  <string name="vip_expiration_message">"Po uplynutí Vášho VIP členstva budete môcť streamovať hudbu iba rýchlosťou 128Kbps. Kvôli právenym obmedzeniam, niektoré skladby nie sú dostupné k stiahnutiu."</string>
+  <string name="vip_expiration_message">"Po uplynutí vášho VIP členstva budete môcť streamovať hudbu iba rýchlosťou 128Kbps. Kvôli právenym obmedzeniam, niektoré skladby nie sú dostupné k stiahnutiu."</string>
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
 </resources>
