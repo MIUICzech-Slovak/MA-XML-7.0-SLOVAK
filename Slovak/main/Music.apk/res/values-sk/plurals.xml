@@ -50,35 +50,35 @@
         <item quantity="one">Pridané: %d</item>
     </plurals>
     <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">Delete%d playlists?</item>
-        <item quantity="one">Delete %d playlist?</item>
+        <item quantity="other">Vymazať playlist (%d)?</item>
+        <item quantity="one">Vymazať playlist (%d)?</item>
     </plurals>
     <plurals name="Nartists_count">
-        <item quantity="other">%d artists</item>
-        <item quantity="one">%d artist</item>
+        <item quantity="other">Umelci: %d</item>
+        <item quantity="one">Umelci: %d</item>
     </plurals>
     <plurals name="Ngroups_count">
-        <item quantity="other">%d bands</item>
-        <item quantity="one">%d band</item>
+        <item quantity="other">Skupiny: %d</item>
+        <item quantity="one">Skupiny: %d</item>
     </plurals>
     <plurals name="dialog_delete_descript">
-        <item quantity="other">Delete %d songs?</item>
-        <item quantity="one">Delete %d song?</item>
+        <item quantity="other">Vymazať skladby (%d)?</item>
+        <item quantity="one">Vymazať skladby (%d)?</item>
     </plurals>
     <plurals name="dialog_remove_descript">
-        <item quantity="other">Remove %d songs?</item>
-        <item quantity="one">Remove %d song?</item>
+        <item quantity="other">Odobrať skladby (%d)?</item>
+        <item quantity="one">Odobrať skladby (%d)?</item>
     </plurals>
     <plurals name="Nquit_warning">
-        <item quantity="other">Player will stop in %d minutes</item>
-        <item quantity="one">Player will stop in %d minute</item>
+        <item quantity="other">Prehrávač bude ukončený o %d min.</item>
+        <item quantity="one">Prehrávač bude ukončený o %d min.</item>
     </plurals>
     <plurals name="multichoice_title">
-        <item quantity="other">%d items selected</item>
-        <item quantity="one">%d item selected</item>
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
     </plurals>
     <plurals name="song_already_favorite">
-        <item quantity="other">Songs have been favorited.</item>
-        <item quantity="one">Song has been favorited.</item>
+        <item quantity="other">Skladby už boli označené.</item>
+        <item quantity="one">Skladby už boli označené.</item>
     </plurals>
 </resources>
