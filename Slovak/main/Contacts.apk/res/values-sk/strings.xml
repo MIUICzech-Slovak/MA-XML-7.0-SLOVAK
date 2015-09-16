@@ -1306,4 +1306,6 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v Zlatých stránkach</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="emergency_number_label">Núdzové číslo</string>
+  <string name="in_call_show_preview_reshoot">Znova</string>
 </resources>

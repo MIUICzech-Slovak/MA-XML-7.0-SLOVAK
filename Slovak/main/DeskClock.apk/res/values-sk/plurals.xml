@@ -32,4 +32,12 @@
         <item quantity="other">%1$ds</item>
         <item quantity="one">%1$ds</item>
     </plurals>
+	<plurals name="alarm_alert_snooze_set">
+        <item quantity="other">Stíšené o %d min.</item>
+        <item quantity="one">Stíšené o %d min.</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">Budík bude stíšený po %d min.</item>
+        <item quantity="one">Budík bude stíšený po %d min.</item>
+    </plurals>
 </resources>
