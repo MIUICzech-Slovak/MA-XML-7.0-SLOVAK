@@ -66,7 +66,7 @@
   <string name="clean_content_two">2 položky</string>
   <string name="clean_content_zero">Nič</string>
   <string name="confirm_auto_cleaner">OK</string>
-  <string name="deepclean_app_content">Odinštalovať aplikácie ktoré ste nepoužili viac ako 7 dní</string>
+  <string name="deepclean_app_content">Odinštalovať aplikácie ktoré ste nepoužili viac ako 30 dní</string>
   <string name="deepclean_cache_content">Vyčistiť dáta vytvorené aplikáciami</string>
   <string name="deepclean_cache_header_left">Cache: %d</string>
   <string name="deepclean_large_content">Vymazať súbory väčšie ako 10MB</string>
@@ -177,7 +177,7 @@
   <string name="pref_summary_garbage_cleanup_check_time">Vyberte interval upozornenia na odpad</string>
   <string name="pref_summary_garbage_process_mode">Upozornenie na automatické čistenie odpadu</string>
   <string name="pref_summary_open_optimizer_cloud_scan">Odoslať a skontrolovať neznáme názvy súborov s online databázou</string>
-  <string name="pref_summary_open_optimizer_memory_scan">Automaticky skontrolovať a vyčistiť RAM</string>
+  <string name="pref_summary_open_optimizer_memory_scan">Automaticky vybrať aplikácie na vyčistenie</string>
   <string name="pref_title_auto_clean_and_alert">Automatické čistenie</string>
   <string name="pref_title_auto_clean_content_choose">Vyčistiť</string>
   <string name="pref_title_auto_update_cleanup_db">Auto. aktualizácia</string>
