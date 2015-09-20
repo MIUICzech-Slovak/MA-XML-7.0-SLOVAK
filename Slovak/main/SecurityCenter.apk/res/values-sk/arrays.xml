@@ -65,9 +65,10 @@
         <item>Vlastné</item>
     </string-array>
     <string-array name="auto_memory_clean">
-        <item>o 1 minútu</item>
-        <item>o 5 minút</item>
-        <item>o 10 minút</item>
+        <item>o 1 min.</item>
+        <item>o 5 min.</item>
+        <item>o 10 min.</item>
+        <item>o 30 min.</item>
         <item>Nikdy</item>
     </string-array>
     <string-array name="preferred_app_entries">
