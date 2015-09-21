@@ -977,4 +977,8 @@ Delta update size: %2$s"</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
   <string name="attachment_list_search_hint">Vyhľadať v prílohách</string>
+  <string name="contact_in_filter_call_phone_str">Hovor: %s</string>
+  <string name="contact_in_filter_title">Prišlo od neho/nej.</string>
+  <string name="compose_attachment_number_limit">Maximálne môžete pripojiť 10 príloh!</string>
+  <string name="compose_picturesexceedlimits">Maximálne môžete vložiť 5 obrázkov!</string>
 </resources>
