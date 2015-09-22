@@ -643,11 +643,6 @@ Veľkosť: %2$s"</string>
   <string name="yixin_client_inavailable">Yixin nie je nainštalovaný</string>
   <string name="yixinmoments">Yixin Moments</string>
   <string name="youdao">Youdao</string>
-  <string name="camer_timelaps_off">OFF</string>
-  <string name="camera_timelaps_internal">Interval</string>
-  <string name="camera_timelaps_real_time">take %s</string>
-  <string name="camera_timelaps_times">%sx</string>
-  <string name="camera_timelaps_video_length">Video Length</string>
   <string name="check_camera_status">Detection Camera status</string>
   <string name="collection_nothing">No file</string>
   <string name="cube_ptr_hours_ago"> hours ago</string>
