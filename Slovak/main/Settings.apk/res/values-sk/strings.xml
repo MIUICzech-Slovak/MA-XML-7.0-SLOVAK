@@ -3715,4 +3715,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="quiet_important_interruptions_mode">Povoliť len výnimky</string>
   <string name="quiet_mode">Tichý režim</string>
   <string name="quiet_off_mode">Bežný režim</string>
+  <string name="preferred_app_settings_reset_button">Obnoviť</string>
 </resources>

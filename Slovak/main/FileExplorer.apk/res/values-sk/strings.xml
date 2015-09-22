@@ -451,4 +451,9 @@ Získali ste ďalších %1$s"</string>
   <string name="decompress_title">Rozbaliť</string>
   <string name="storage_info_detail">Dostupné: %1$s | Celkom: %1$s</string>
   <string name="title_select_volume">Vybrať</string>
+  <string name="data_consumption_cancel">Ukončiť</string>
+  <string name="data_consumption_checkbox_hint">Viac nezobrazovať</string>
+  <string name="data_consumption_confirm">OK</string>
+  <string name="data_consumption_message">Táto aplikácia využíva internetové pripojenie.</string>
+  <string name="data_consumption_title">Internetové pripojenie</string>
 </resources>

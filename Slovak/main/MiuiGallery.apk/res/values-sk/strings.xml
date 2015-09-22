@@ -817,4 +817,5 @@ spoločne!"</string>
   <string name="set_bg_file_exist_message">Zadaný názov už existuje</string>
   <string name="set_bg_picker_default_title">Nastaviť obal</string>
   <string name="set_bg_unknow_reasons">Neznáma chyba</string>
+  <string name="sync_battery_low">Slabá batéria</string>
 </resources>
