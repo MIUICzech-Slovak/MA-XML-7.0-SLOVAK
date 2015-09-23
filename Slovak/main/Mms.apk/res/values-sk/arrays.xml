@@ -63,4 +63,8 @@
         <item>1 deň</item>
         <item>Maximum</item>
     </string-array>
+    <string-array name="entries_date_type_rightvalue">
+        <item>Prijaté</item>
+        <item>Odoslané</item>
+    </string-array>
 </resources>
