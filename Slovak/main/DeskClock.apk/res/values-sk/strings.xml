@@ -98,6 +98,8 @@
   <string name="stopwatch_title">Stopky</string>
   <string name="system_time_setting">Nastaviť čas</string>
   <string name="time">Čas</string>
+  <string name="timer_alarm_alert_pad">%s</string>
+  <string name="timer_alarm_cancel_pad">Dotykom ukončíte vyzváňanie</string>
   <string name="timer_alert_alert_silenced">Časovač sa zastavil po %d minútach.</string>
   <string name="timer_continue">Pokračovať</string>
   <string name="timer_got_it">OK</string>
@@ -124,6 +126,4 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="timer_alarm_alert_pad">%s</string>
-  <string name="timer_alarm_cancel_pad">Dotykom ukončíte vyzváňanie</string>
 </resources>

@@ -50,10 +50,12 @@
   <string name="cancle_share_message">Ukončiť zdieľanie a pripojiť kameru.</string>
   <string name="cant_start_session_failed_solution">Súčasná kamera je pripojená k inému telefónu.</string>
   <string name="capture">Fotka</string>
+  <string name="check_camera_status">Detection Camera status</string>
   <string name="check_failed">Kontrola zlyhala, skontrolujte nastavenie siete.</string>
   <string name="check_image_to_login">Dotknite sa obrázka</string>
   <string name="check_new_version">Kontrola novej verzie...</string>
   <string name="cloud_photo_album">Cloud album</string>
+  <string name="collection_nothing">No file</string>
   <string name="common_android_wear_notification_needs_update_text">Niektorá aplikácia vyžaduje aktualizáciu aplikácie Android Wear.</string>
   <string name="common_android_wear_update_text">Táto aplikácia bude fungovať až po aktualizácii aplikácie Android Wear.</string>
   <string name="common_android_wear_update_title">Aktualizujte aplikáciu Android Wear</string>
@@ -86,6 +88,15 @@
   <string name="connect_camera_first">Nenašli sa informácie o verzii FW, pripojte kameru.</string>
   <string name="connecting">Pripájanie...</string>
   <string name="cont_pic">Dávka</string>
+  <string name="cube_ptr_hours_ago"> hours ago</string>
+  <string name="cube_ptr_last_update">last update: </string>
+  <string name="cube_ptr_minutes_ago"> minutes ago</string>
+  <string name="cube_ptr_pull_down">Pull Down</string>
+  <string name="cube_ptr_pull_down_to_refresh">Pull Down to Refresh</string>
+  <string name="cube_ptr_refresh_complete">Updated.</string>
+  <string name="cube_ptr_refreshing">Updating...</string>
+  <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
+  <string name="cube_ptr_seconds_ago"> seconds ago</string>
   <string name="current_file_already_downloaded">Súbor je už stiahnutý</string>
   <string name="current_file_is_downloading">Súbor sa už sťahuje</string>
   <string name="curvelevel">Krivka</string>
@@ -103,9 +114,13 @@
   <string name="documentary">Dokumentárny</string>
   <string name="douban">Douban</string>
   <string name="download_at_once">Stiahnuť</string>
+  <string name="download_firmware_log">Are you sure to download firmware log?</string>
+  <string name="download_firmware_log_failed">Failed to download firmware log file</string>
+  <string name="download_firmware_log_successed">Succeeded to download firmware log file</string>
   <string name="downloaded">Stiahnuté</string>
   <string name="downloading">Sťahovanie</string>
   <string name="dropbox">Dropbox</string>
+  <string name="dump_firmware_log_failed">Failed to dump firmware log file</string>
   <string name="effect">Efekty</string>
   <string name="email">E-mail</string>
   <string name="evernote">Evernote</string>
@@ -128,6 +143,7 @@
   <string name="file_add_to_download_quee">Pridané súbory na stiahnutie.</string>
   <string name="file_already_downloaded">Súbor už je stiahnutý.</string>
   <string name="file_down_load_manage">Sťahovanie</string>
+  <string name="file_download_failed">[Error code:%d] Failed to download</string>
   <string name="file_downloading">Ukončite sťahovanie pred odobraním súboru zo zoznamu.</string>
   <string name="file_is_downloading">Sťahovanie...</string>
   <string name="file_not_exist">Súbor neexistuje</string>
@@ -164,6 +180,7 @@ Vložte SD kartu a skúste to znova."</string>
   <string name="firmware_upgrade_tip">"Odosielanie firmware,
 nevzdiaľujte telefón od kamery."</string>
   <string name="firmware_upgrade_title">Nová verzia FW</string>
+  <string name="firmware_v">Firmware_V</string>
   <string name="firmware_version_synchronize_complete">Najnovšia verzia FW:</string>
   <string name="firmware_without_network_tips">"Odporúčame vám aktualizovať na najnovšiu verziu firmware.
 Pripojte sa k Wi-Fi alebo mobilným dátam pre stiahnutie najnovšej verzie FW."</string>
@@ -207,6 +224,7 @@ camera1234567890"</string>
   <string name="ib_video_play_contentdescription">Prehrať</string>
   <string name="ib_video_thumb_contentdescription">Náhľady</string>
   <string name="image_content">content</string>
+  <string name="image_loading">The file is loading, you can not share</string>
   <string name="in_burst">Dávka</string>
   <string name="in_burst_capture">Dávka...</string>
   <string name="in_caputring_not_surppor_change">Nahrávanie...</string>
@@ -242,6 +260,7 @@ camera1234567890"</string>
   <string name="laiwang">Laiwang</string>
   <string name="laiwang_client_inavailable">Laiwangs client not exists or the version is too low</string>
   <string name="laiwangmoments">Laiwang Moments</string>
+  <string name="last_update">Last update:</string>
   <string name="latest_firmware_downloaded">Je dostupná nová verzia FW, pripojte kameru.</string>
   <string name="led_all_disable">Zakázať všetky</string>
   <string name="led_all_enable">Povoliť všetky</string>
@@ -261,6 +280,7 @@ camera1234567890"</string>
   <string name="list_item_video_tvYear">0000</string>
   <string name="loading">Načítavanie...</string>
   <string name="loading_data">Načítavanie...</string>
+  <string name="login_failed">Login failed!</string>
   <string name="login_user_not_equal_to_system">Užívateľ sa nezhoduje s užívateľom MIUI!</string>
   <string name="loop_record">Nahrávanie slučky</string>
   <string name="low_level_sd_card">SD karty menšie ako 4GB nie sú podporované</string>
@@ -290,7 +310,9 @@ camera1234567890"</string>
   <string name="new_video">Nové video</string>
   <string name="next">Ďalej</string>
   <string name="next_time">Neskôr</string>
+  <string name="no_firmware_log_found">No firmware log file found, please download from the camera first</string>
   <string name="no_more_space">Nie je dostupné miesto na SD karte.</string>
+  <string name="no_network_connection">No network connection now, please share later</string>
   <string name="no_new_firmware_version">Máte najnovší firmware</string>
   <string name="no_new_version">Žiadna nová verzia</string>
   <string name="no_preview">Žiaden náhľad</string>
@@ -350,6 +372,7 @@ camera1234567890"</string>
   <string name="prompt_video_file_downloaded">Súbor už bol stiahnutý.</string>
   <string name="prompt_video_file_downloading">Sťahovanie videa</string>
   <string name="prompt_video_file_isexist">Video súbor už existuje</string>
+  <string name="prompt_video_uploading">Uploading, please wait</string>
   <string name="pull_to_refresh">Potiahnutím obnovíte</string>
   <string name="pull_to_refresh_footer_pull_label">Potiahnite nahor pre načítanie</string>
   <string name="pull_to_refresh_footer_refreshing_label">Načítavanie...</string>
@@ -362,6 +385,7 @@ camera1234567890"</string>
   <string name="quick_record_failed">Quick video nahrávanie zlyhalo.</string>
   <string name="quick_video">Quick video</string>
   <string name="qzone">QQ Zone</string>
+  <string name="qzone_client_inavailable">Qzone client not exists or the version is too low</string>
   <string name="record">Video</string>
   <string name="record_failed">Nahrávanie zlyhalo</string>
   <string name="record_start">Nahrať</string>
@@ -369,6 +393,7 @@ camera1234567890"</string>
   <string name="recording_frame_not_allowed">Time-lapse video nie je podporované v tomto rozlíšení</string>
   <string name="recording_sound_not_allowed">V súčasnom rozlíšení nie je podporované nahrávanie zvuku</string>
   <string name="redownload">Stiahnuť znova</string>
+  <string name="refresh_camera_photo_list">Refreshing the list, temporarily can not be deleted</string>
   <string name="refreshing">Obnovenie...</string>
   <string name="release_to_refresh">Pustite pre obnovenie</string>
   <string name="renren">Renren</string>
@@ -403,6 +428,7 @@ camera1234567890"</string>
   <string name="select_one_plat_at_least">Vyberte sieť na zdieľanie</string>
   <string name="select_photo">Vyberte fotografiu</string>
   <string name="select_prompt">Vyberte fotografiu</string>
+  <string name="select_video">Please select a video file</string>
   <string name="select_wifi">Vyberte Wi-Fi pripojenie kamery</string>
   <string name="selected_all">Vybrať všetko</string>
   <string name="selected_count_format">Vybraných: %d</string>
@@ -434,6 +460,7 @@ camera1234567890"</string>
   <string name="setting_emergency_file_backup">Záloha v núdzovej situácií</string>
   <string name="setting_failed">Aktualizácia nastavení zlyhala.</string>
   <string name="setting_feedback">Spätná väzba</string>
+  <string name="setting_firmware_log">Firmware Log</string>
   <string name="setting_firmware_update">Odoslať Firmware</string>
   <string name="setting_hw_version">Model</string>
   <string name="setting_led_mode">Režim LED</string>
@@ -467,6 +494,7 @@ camera1234567890"</string>
   <string name="share">Zdieľať</string>
   <string name="share_canceled">Operácia je zrušená</string>
   <string name="share_completed">Operácia dokončená</string>
+  <string name="share_content">Share from Yi camera</string>
   <string name="share_failed">Zdieľanie zlyhalo</string>
   <string name="share_finish">Úspešne zdieľané! Chcete sa znovu pripojiť ku kamere?</string>
   <string name="share_my_video_message">Práve som nahral video. Pozrite sa!</string>
@@ -486,6 +514,7 @@ camera1234567890"</string>
   <string name="should_connect_to_outside_wifi">Aktualizácia firmware vyžaduje iné Wi-Fi pripojenie. Chcete odpojiť váš telefón od kamery?</string>
   <string name="show_password">Zobraziť heslo</string>
   <string name="sinaweibo">Weibo</string>
+  <string name="sinaweibo_client_inavailable">Sina Weibo client not exists or the version is too low</string>
   <string name="single_pic">Normálne</string>
   <string name="skip">Preskočiť</string>
   <string name="sns_caching_video">Načítavanie...(XX%)</string>
@@ -501,6 +530,7 @@ camera1234567890"</string>
   <string name="sohumicroblog">Sohu Microblog</string>
   <string name="sohusuishenkan">Sohu Suishenkan</string>
   <string name="splash">splash page</string>
+  <string name="splendid_spots">Highlights</string>
   <string name="ssid_format_error">Názov Wi-Fi siete musí obsahovať 1–32 znakov.</string>
   <string name="ssid_is_empty">Zadajte SSID</string>
   <string name="standard_definition">SD</string>
@@ -525,8 +555,10 @@ camera1234567890"</string>
   <string name="timelapes_start">Začínanie...</string>
   <string name="timing_capture_complete">Dokončené!</string>
   <string name="timing_capture_start">Začínanie...</string>
+  <string name="title_activity_detail_grid_view">grid_view</string>
   <string name="title_cancle_share">Zrušiť</string>
   <string name="title_delete">Vymazať</string>
+  <string name="title_firmware_log">Firmware Log</string>
   <string name="title_sdcard">SD karta</string>
   <string name="title_share">Zdieľanie úspešne!</string>
   <string name="title_video_share">Zdieľať video</string>
@@ -543,6 +575,7 @@ pripojenia"</string>
   <string name="tvDownload">Stiahnuť</string>
   <string name="tvEdit">Upraviť</string>
   <string name="tvExpertSetting">Rozšírené</string>
+  <string name="tvGallery">Gallery</string>
   <string name="tvNoPhoto">Žiadne fotografie</string>
   <string name="tvNoVideo">Žiadne videá</string>
   <string name="tvPhoneBattery">"Batéria
@@ -557,6 +590,7 @@ telefónu"</string>
   <string name="tvVideo">Video</string>
   <string name="tvVideoDelete">Vymazať</string>
   <string name="tvVideoDownload">Stiahnuť</string>
+  <string name="tvVideoPintu">Puzzle</string>
   <string name="tvVideoSetting">Nastavenie videa</string>
   <string name="tv_burst">Dávka</string>
   <string name="tv_normal">Fotografie</string>
@@ -567,6 +601,7 @@ telefónu"</string>
   <string name="tv_timing_off">vyp</string>
   <string name="tv_timlapse_record">Timelapse</string>
   <string name="twitter">Twitter</string>
+  <string name="unable_share_more_file">You can not share multiple files</string>
   <string name="unable_to_delete_photo">Nie je možné vymazať fotografiu!</string>
   <string name="unbind_bluetooth_failed">Odpojenie zlyhalo!</string>
   <string name="unbind_bluetooth_succeeded">Odpojené!</string>
@@ -582,6 +617,10 @@ telefónu"</string>
   <string name="upgrade_tips_on_ready">Aktualizácia je pripravená, bude to trvať len pár minút.</string>
   <string name="upgrade_tips_on_version">Odporúčame aktualizovať na poslednú verziu.</string>
   <string name="upload_failed">odosielanie zlyhalo, skúste to znova!</string>
+  <string name="upload_firmware_log">Are you sure to upload firmware log?</string>
+  <string name="upload_firmware_log_failed">Failed to upload firmware log file</string>
+  <string name="upload_firmware_log_successed">Succeeded to upload firmware log file</string>
+  <string name="uploading">Uploading...</string>
   <string name="use_login_button">Použite tlačidlo pre prihlásenie</string>
   <string name="verion_name">Verzia</string>
   <string name="version">"Verzia "</string>
@@ -605,6 +644,7 @@ telefónu"</string>
   <string name="video_qulity_choose_prompt">Verzia videa</string>
   <string name="video_transition">Prechody</string>
   <string name="video_upload">Odosielanie videa</string>
+  <string name="video_uploading">Video uploading</string>
   <string name="videoquality_fine">Normálna</string>
   <string name="videoquality_normal">Nízka</string>
   <string name="videoquality_superfine">Vysoká</string>
@@ -643,44 +683,4 @@ Veľkosť: %2$s"</string>
   <string name="yixin_client_inavailable">Yixin nie je nainštalovaný</string>
   <string name="yixinmoments">Yixin Moments</string>
   <string name="youdao">Youdao</string>
-  <string name="check_camera_status">Detection Camera status</string>
-  <string name="collection_nothing">No file</string>
-  <string name="cube_ptr_hours_ago"> hours ago</string>
-  <string name="cube_ptr_last_update">last update: </string>
-  <string name="cube_ptr_minutes_ago"> minutes ago</string>
-  <string name="cube_ptr_pull_down">Pull Down</string>
-  <string name="cube_ptr_pull_down_to_refresh">Pull Down to Refresh</string>
-  <string name="cube_ptr_refresh_complete">Updated.</string>
-  <string name="cube_ptr_refreshing">Updating...</string>
-  <string name="cube_ptr_release_to_refresh">Release To Refresh</string>
-  <string name="cube_ptr_seconds_ago"> seconds ago</string>
-  <string name="download_firmware_log">Are you sure to download firmware log?</string>
-  <string name="download_firmware_log_failed">Failed to download firmware log file</string>
-  <string name="download_firmware_log_successed">Succeeded to download firmware log file</string>
-  <string name="dump_firmware_log_failed">Failed to dump firmware log file</string>
-  <string name="file_download_failed">[Error code:%d] Failed to download</string>
-  <string name="firmware_v">Firmware_V</string>
-  <string name="image_loading">The file is loading, you can not share</string>
-  <string name="last_update">Last update:</string>
-  <string name="login_failed">Login failed!</string>
-  <string name="no_firmware_log_found">No firmware log file found, please download from the camera first</string>
-  <string name="no_network_connection">No network connection now, please share later</string>
-  <string name="prompt_video_uploading">Uploading, please wait</string>
-  <string name="qzone_client_inavailable">Qzone client not exists or the version is too low</string>
-  <string name="refresh_camera_photo_list">Refreshing the list, temporarily can not be deleted</string>
-  <string name="select_video">Please select a video file</string>
-  <string name="setting_firmware_log">Firmware Log</string>
-  <string name="share_content">Share from Yi camera</string>
-  <string name="sinaweibo_client_inavailable">Sina Weibo client not exists or the version is too low</string>
-  <string name="splendid_spots">Highlights</string>
-  <string name="title_activity_detail_grid_view">grid_view</string>
-  <string name="title_firmware_log">Firmware Log</string>
-  <string name="tvGallery">Gallery</string>
-  <string name="tvVideoPintu">Puzzle</string>
-  <string name="unable_share_more_file">You can not share multiple files</string>
-  <string name="upload_firmware_log">Are you sure to upload firmware log?</string>
-  <string name="upload_firmware_log_failed">Failed to upload firmware log file</string>
-  <string name="upload_firmware_log_successed">Succeeded to upload firmware log file</string>
-  <string name="uploading">Uploading...</string>
-  <string name="video_uploading">Video uploading</string>
 </resources>

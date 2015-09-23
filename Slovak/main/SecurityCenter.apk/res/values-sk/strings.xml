@@ -283,6 +283,7 @@
   <string name="hints_latest_garbage_cleanup_yesterday">Posledná kontrola: Včera</string>
   <string name="hints_loading_text">Načítavanie...</string>
   <string name="hints_need_quick_scan">Vyžaduje sa kontrola</string>
+  <string name="hints_need_regular_scan">Kontrolovať zariadenie pravidelne</string>
   <string name="hints_no_info">Žiadne informácie</string>
   <string name="hints_permission_apps_count">%d apl.</string>
   <string name="hints_power_percent_title">Batérie</string>
@@ -779,5 +780,4 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
-  <string name="hints_need_regular_scan">Kontrolovať zariadenie pravidelne</string>
 </resources>

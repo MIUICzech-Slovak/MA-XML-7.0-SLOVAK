@@ -245,6 +245,7 @@
   <string name="attachment_decoding">Príloha je stiahnutá a prebieha jej kontrola. Čakajte prosím...</string>
   <string name="attachment_download_all">Stiahnuť všetko</string>
   <string name="attachment_image">Obrázok</string>
+  <string name="attachment_list_search_hint">Vyhľadať v prílohách</string>
   <string name="attachment_mgr_name">Príloha</string>
   <string name="attachment_not_exists">Príloha nie je dostupná!</string>
   <string name="attachment_not_found">Prílohu sa nepodarilo prevziať.</string>
@@ -310,7 +311,9 @@
   <string name="collapse_recipient_details">Zbaliť podrobnosti o príjemcovi</string>
   <string name="colon">:</string>
   <string name="compose">Napísať správu</string>
+  <string name="compose_attachment_number_limit">Maximálne môžete pripojiť 10 príloh!</string>
   <string name="compose_help_context">Text správy</string>
+  <string name="compose_picturesexceedlimits">Maximálne môžete vložiť 5 obrázkov!</string>
   <string name="compose_send">Odoslať</string>
   <string name="compose_sent">Odoslané</string>
   <string name="confirm">OK</string>
@@ -336,6 +339,8 @@
   <string name="contact_edit_set_vip">VIP</string>
   <string name="contact_edit_title_permission">Práva kontaktu</string>
   <string name="contact_edit_title_phone_contact">Zoznam kontaktov</string>
+  <string name="contact_in_filter_call_phone_str">Hovor: %s</string>
+  <string name="contact_in_filter_title">Prišlo od neho/nej.</string>
   <string name="contact_info_string">Zobraziť informácie kontaktu %1$s</string>
   <string name="contact_info_string_default">Zobraziť kontaktné informácie</string>
   <string name="contact_list_add_btn">Pridať</string>
@@ -976,9 +981,4 @@ Delta update size: %2$s"</string>
   <string name="yes">Áno</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="attachment_list_search_hint">Vyhľadať v prílohách</string>
-  <string name="contact_in_filter_call_phone_str">Hovor: %s</string>
-  <string name="contact_in_filter_title">Prišlo od neho/nej.</string>
-  <string name="compose_attachment_number_limit">Maximálne môžete pripojiť 10 príloh!</string>
-  <string name="compose_picturesexceedlimits">Maximálne môžete vložiť 5 obrázkov!</string>
 </resources>

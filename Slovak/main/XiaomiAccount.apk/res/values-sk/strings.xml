@@ -391,6 +391,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_failed_to_send_activate_email">Nie je možné odoslať aktivačný email</string>
   <string name="passport_find_password_on_web_msg">Navštívte account.mi.com pre obnovenie vášho hesla.</string>
   <string name="passport_forget_password">Zabudnuté heslo</string>
+  <string name="passport_forget_password_no_underline">Zabudol som heslo</string>
   <string name="passport_get_back_pwd">Obnoviť heslo</string>
   <string name="passport_get_verify_code">Získať kód</string>
   <string name="passport_getting_verify_code">Získavanie</string>
@@ -408,6 +409,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_login_instead_reg">Použiť toto číslo</string>
   <string name="passport_login_instead_reg_with_email">Použiť tento email</string>
   <string name="passport_login_notice">Prihlasovanie...</string>
+  <string name="passport_login_short">Prihlásiť sa</string>
   <string name="passport_login_title">Prihlásiť sa k Xiaomi účtu</string>
   <string name="passport_login_with_email_or_id">Prihlásiť sa emailovou adresou alebo Xiaomi ID</string>
   <string name="passport_next">Ďalej</string>
@@ -592,6 +594,4 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
-  <string name="passport_forget_password_no_underline">Zabudol som heslo</string>
-  <string name="passport_login_short">Prihlásiť sa</string>
 </resources>

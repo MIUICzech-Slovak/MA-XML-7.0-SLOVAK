@@ -288,6 +288,7 @@
   <string name="mx_auto_resend_mms_summary">Odoslať ako MMS ak Cloud správy nie sú dostupné. Bude spoplatnené vaším operátorom.</string>
   <string name="mx_auto_resend_sms">Odoslať ako SMS</string>
   <string name="mx_auto_resend_sms_summary">Odoslať ako SMS ak Cloud správy nie sú dostupné. Bude spoplatnené vaším operátorom.</string>
+  <string name="mx_b2c_message_desc">Upozornenie siete</string>
   <string name="mx_btn_enable">Povoliť</string>
   <string name="mx_btn_enable_now">Povoliť</string>
   <string name="mx_count_dspt">Odoslali ste %1$d SMS a %2$d MMS cez cloud</string>
@@ -601,5 +602,4 @@ Pokus: %s."</string>
   <string name="warning_show">Odoslať o %ds</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="mx_b2c_message_desc">Upozornenie siete</string>
 </resources>

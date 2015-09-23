@@ -84,6 +84,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="record_mark_point">Značky: %s</string>
   <string name="record_name_hour">.</string>
   <string name="record_picker_title">Zvoľte nahrávku</string>
+  <string name="record_quliaty_preference_title">Kvalita nahrávania</string>
   <string name="record_saving">Ukladanie...</string>
   <string name="recording">Nahrávam...</string>
   <string name="recording_stopped">Nahrávanie zastavené</string>
@@ -115,5 +116,4 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="record_quliaty_preference_title">Kvalita nahrávania</string>
 </resources>

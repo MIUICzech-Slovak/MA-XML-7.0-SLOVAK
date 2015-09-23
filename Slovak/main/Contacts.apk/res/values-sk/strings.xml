@@ -392,6 +392,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="email_mobile">E-mail na mobil</string>
   <string name="email_other">E-mail</string>
   <string name="email_work">E-mail do práce</string>
+  <string name="emergency_number_label">Núdzové číslo</string>
   <string name="emptyGroup">Žiadne kontakty v tejto skupine.</string>
   <string name="empty_divider_title"/>
   <string name="enter_contact_name">Napíšte meno osoby</string>
@@ -523,6 +524,7 @@ Chyba: \"%s\""</string>
   <string name="in_call_show_long_press_to_record">Stlačte a podržte pre nahrávanie</string>
   <string name="in_call_show_pick_video">Vybrať video</string>
   <string name="in_call_show_preview">Náhľad</string>
+  <string name="in_call_show_preview_reshoot">Znova</string>
   <string name="in_call_show_recording">Nahrávanie...</string>
   <string name="in_call_show_reshoot">Znova</string>
   <string name="in_call_show_save_completed">Video profilu uložené</string>
@@ -1306,6 +1308,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v Zlatých stránkach</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="emergency_number_label">Núdzové číslo</string>
-  <string name="in_call_show_preview_reshoot">Znova</string>
 </resources>
