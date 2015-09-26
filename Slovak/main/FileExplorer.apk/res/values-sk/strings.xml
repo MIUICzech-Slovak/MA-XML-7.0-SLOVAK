@@ -391,7 +391,7 @@ Získali ste ďalších %1$s"</string>
   <string name="stop_server">Ukončiť FTP</string>
   <string name="storage_info">Dostupné: %1$s</string>
   <string name="storage_info_detail_stable">Dostupné: %1$s | Celkom: %1$s</string>
-  <string name="storage_info_detail_stable">Dostupné: %1$s | Celkom: %2$s</string>
+  <string name="storage_info_detail">Dostupné: %1$s | Celkom: %2$s</string>
   <string name="storage_internal">Interné úložisko</string>
   <string name="storage_sd_card">SD karta</string>
   <string name="storage_usb">USB úložisko</string>
