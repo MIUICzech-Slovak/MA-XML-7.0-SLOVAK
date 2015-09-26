@@ -87,4 +87,5 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznáme číslo</string>
+  <string name="status_bar_toggle_midrop">MiDrop</string>
 </resources>
