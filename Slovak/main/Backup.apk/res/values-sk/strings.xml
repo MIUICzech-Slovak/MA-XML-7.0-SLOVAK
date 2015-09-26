@@ -228,7 +228,7 @@
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_router">MiRouter</string>
   <string name="xiaomi_router_location">MiRouter %s</string>
-  <string name="err_filesystem_mount">Nebolo možné získať prístup k úložisku na routra</string>
+  <string name="err_filesystem_mount">Nebolo možné získať prístup k úložisku routra</string>
   <string name="err_router_disconnected">Skontrolujte pripojenie routra a skúste to znova.</string>
   <string name="err_router_files_delete">Nebolo možné vymazať súbory na routri</string>
   <string name="state_mounting">Prístup na úložisko routra...</string>
