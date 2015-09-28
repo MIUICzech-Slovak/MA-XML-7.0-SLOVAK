@@ -55,10 +55,6 @@
   <string name="privacy_tip_title">Použiť Xunlei sťahovanie?</string>
   <string name="recommended_file_more_in_mobile" formatted="false">Stiahnutie týchto %s súborov (%s) cez mobilné dáta môže navýšiť vaše mesačné poplatky.</string>
   <string name="recommended_file_one_in_mobile">Stiahnutie tohto súború (%s) cez mobilné dáta môže navýšiť vaše mesačné poplatky.</string>
-  <string name="recommended_file_size_download_in_mobile" formatted="false">"Nie ste pripojený na Wi-Fi. %s
-
-Nie je možné zistiť veľkosť súboru. Pre stiahnutie tohto súboru cez mobilné dáta stlačte %s. Pre stiahnutie až na Wi-Fi sieti stlačte %s."</string>
-  <string name="recommended_no_file_size_download_in_mobile" formatted="false">"Nie je možné zistiť veľkosť súboru. Pre stiahnutie tohto súboru cez mobilné dáta stlačte %s. Pre stiahnutie až na Wi-Fi sieti stlačte %s."</string>
   <string name="root_downloads">Stiahnuté</string>
   <string name="task_already_exist">Úloha už existuje</string>
   <string name="warning_tip_cancel">Stiahnúť</string>
