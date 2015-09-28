@@ -576,4 +576,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="wifi_exception_summary">Skontrolovať dostupné pripojenie Wi-Fi siete</string>
   <string name="wifi_exception_title">Kontrola Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
+  <string name="package_change_notification_summary">Zistiť viac.</string>
+  <string name="package_change_notification_title">Nastaviť limit dát automaticky</string>
+  <string name="package_setted_error_notification_summary">Zobraziť podrobnosti o využití dát.</string>
+  <string name="package_setted_error_notification_titile">Nebolo možné nastaviť limit dát</string>
 </resources>

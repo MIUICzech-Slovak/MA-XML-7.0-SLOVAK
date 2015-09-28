@@ -75,4 +75,7 @@ Nie je možné zistiť veľkosť súboru. Pre stiahnutie tohto súboru cez mobil
 
 Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa možnosti %s ."</string>
   <string name="wifi_required_title">Preberaný súbor je pre sieť operátora príliš veľký</string>
+  <string name="mobile_recommended_title">Využitie mobilných dát</string>
+  <string name="recommended_file_size_download_in_mobile">Stiahnuť tento súbor %s cez mobilné dáta?</string>
+  <string name="recommended_no_file_size_download_in_mobile">Stiahnuť tento súbor cez mobilné dáta?</string>
 </resources>
