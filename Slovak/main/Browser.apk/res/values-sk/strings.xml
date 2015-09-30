@@ -882,4 +882,25 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
+  <string name="clear_most_visited">História</string>
+  <string name="homepage_delete_card_menu">Vymazať</string>
+  <string name="homepage_get_location">Získať polohu</string>
+  <string name="homepage_get_location_failed">Nebolo možné načítať vašu polohu, vyberte vaše mesto.</string>
+  <string name="homepage_more_cards">Viac kariet</string>
+  <string name="homepage_more_sites">Viac stránok</string>
+  <string name="homepage_search_hint">Vyhľadať</string>
+  <string name="homepage_top_card_menu">Top</string>
+  <string name="nav_bottom_bar_back">Naspäť</string>
+  <string name="nav_bottom_bar_close_all">Zatvoriť</string>
+  <string name="nav_bottom_bar_new_tab">Nová karta</string>
+  <string name="nav_screen_container_tab_incognito">Inkognito karta</string>
+  <string name="nav_screen_container_tab_normal">Bežná karta</string>
+  <string name="pref_category_hint">Kategória</string>
+  <string name="pref_enable_news">News Alerts</string>
+  <string name="pref_enable_novels">Novels Alerts</string>
+  <string name="pref_enable_videos">Videos Alerts</string>
+  <string name="pref_notifications_hint">Upozornenia</string>
+  <string name="pref_notifications_receive">Nové upozornenia</string>
+  <string name="pref_notifications_title">Upozornenia</string>
+  <string name="url_hint_from_search">Zadajte kľúčové slovo</string>
 </resources>
