@@ -8,7 +8,7 @@
 
 Povoliť teraz aj v budúcnosti?"</string>
   <string name="allow_source_dlg_title">Nový zdroj pre aplikácie</string>
-  <string name="app_name">Nástroj na inštaláciu balíčkov</string>
+  <string name="app_name">Inštalácia balíčku</string>
   <string name="app_not_found_dlg_text">Aplikáciu sa nepodarilo nájsť v zozname nainštalovaných aplikácií.</string>
   <string name="app_not_found_dlg_title">Aplikácia sa nenašla</string>
   <string name="app_store_install_hint">Inštalovať</string>
