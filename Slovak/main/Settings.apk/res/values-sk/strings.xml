@@ -2081,7 +2081,7 @@ Vyberte váš operačný systém:"</string>
   <string name="power_wifi">Wi-Fi</string>
   <string name="pref_button_light">Osvetlenie tlačidiel</string>
   <string name="pref_button_light_summary">Menu, Domov a Späť tlačidlo</string>
-  <string name="pref_edge_handgrip">Edge controls</string>
+  <string name="pref_edge_handgrip">Ovládanie na hrane</string>
   <string name="pref_operational_key">Ovládacie tlačidlo</string>
   <string name="pref_volume_wake_summary">Stlačením tlačidlá zosilniť/stlmiť prebudíte zariadenie. Určené pre zariadenia s ťažko dostupným zapínacím tlačidlom.</string>
   <string name="pref_volume_wake_title">Zobudiť telefón</string>
