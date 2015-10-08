@@ -3719,4 +3719,15 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="wifi_click_share_wlan">Zdieľať heslo k Wi-Fi</string>
   <string name="wakeup_for_keyguard_notification_title">Rozsvietiť displej</string>
   <string name="sound_vibrate_settings">Zvuky a vibrácie</string>
+  <string name="edge_mode_back">Naspäť</string>
+  <string name="edge_mode_back_summary">Dvojité poklepanie na hranu sa vráti o krok späť</string>
+  <string name="edge_mode_clean">Vyčistiť cache</string>
+  <string name="edge_mode_clean_summary">Prejdite naraz po oboch hranách pre vyčistenie systémovej cache</string>
+  <string name="edge_mode_guide_title">Dotknite sa zvýraznenej časti</string>
+  <string name="edge_mode_notification_summary">Zistiť viac.</string>
+  <string name="edge_mode_notification_title">Ovládanie na hrane</string>
+  <string name="edge_mode_photo">Zhotoviť fotografiu</string>
+  <string name="edge_mode_photo_summary">V aplikácií Fotoaparát dvojitýcm poklepaním na hranu zhotovíte fotografiu</string>
+  <string name="edge_mode_screenshot">Screenshot</string>
+  <string name="edge_mode_screenshot_summary">Dvojitým poklepaním na obe hrany zhotovíte screenshot</string>
 </resources>
