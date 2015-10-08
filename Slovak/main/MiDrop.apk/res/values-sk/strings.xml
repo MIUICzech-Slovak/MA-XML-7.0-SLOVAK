@@ -42,7 +42,7 @@
     <string name="receiver_video_file_current">Prijímanie %2$d​ od %1$s…</string>
     <string name="receiver_video_file_num">%2$d​ od %1$s</string>
     <string name="send_file_time_format_m">m:s</string>
-    <string name="send_file_time_format_s">s sekúnd</string>
+    <string name="send_file_time_format_s">s</string>
     <string name="sender_cancel">Neodoslať</string>
     <string name="sender_complete">Hotovo</string>
     <string name="sender_fail">Nebolo možné odoslať</string>
