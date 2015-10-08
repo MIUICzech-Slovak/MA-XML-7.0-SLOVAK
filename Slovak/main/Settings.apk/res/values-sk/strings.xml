@@ -3718,4 +3718,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
   <string name="wifi_click_share_wlan">Zdieľať heslo k Wi-Fi</string>
   <string name="wakeup_for_keyguard_notification_title">Rozsvietiť displej</string>
+  <string name="sound_vibrate_settings">Zvuky a vibrácie</string>
 </resources>
