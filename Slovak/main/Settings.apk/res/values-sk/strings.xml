@@ -3727,7 +3727,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="edge_mode_notification_summary">Zistiť viac.</string>
   <string name="edge_mode_notification_title">Ovládanie na hrane</string>
   <string name="edge_mode_photo">Zhotoviť fotografiu</string>
-  <string name="edge_mode_photo_summary">V aplikácií Fotoaparát dvojitýcm poklepaním na hranu zhotovíte fotografiu</string>
+  <string name="edge_mode_photo_summary">V aplikácií Fotoaparát dvojitým poklepaním na hranu zhotovíte fotografiu</string>
   <string name="edge_mode_screenshot">Screenshot</string>
   <string name="edge_mode_screenshot_summary">Dvojitým poklepaním na obe hrany zhotovíte screenshot</string>
 </resources>
