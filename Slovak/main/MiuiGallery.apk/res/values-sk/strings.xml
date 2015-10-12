@@ -818,4 +818,24 @@ spoločne!"</string>
   <string name="yes">Áno</string>
   <string name="you_are"/>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
+  <string name="baby_album_new_photo_remind">V albume dieťaťa sú nové fotografie.</string>
+  <string name="baby_album_no_share_user_tip">Žiadni sledovatelia</string>
+  <string name="byteShort">B</string>
+  <string name="cloud_full_tip_str">Nie je dostatok voľného miesta v MiCloud</string>
+  <string name="confirm_recommandation_face_is">Ste si istý, že je to %1$s? This face will be moved to \"%2$s\" album after confirmation.</string>
+  <string name="confirm_recommandation_face_not">Ste si istý, že to nie je %1$s?? This face will be moved to \"%2$s\" album after confirmation.</string>
+  <string name="confirm_recommandation_multiple_faces_are">Ste si istý, že sú to %1$s?? These faces will be moved to \"%2$s\" album after confirmation.</string>
+  <string name="confirm_recommandation_multiple_faces_not">Ste si istý, že to nie sú %1$s?? These faces will be moved to \"%2$s\" album after confirmation.</string>
+  <string name="edit_baby_info">Zobraziť informácie o dieťati</string>
+  <string name="error_link_has_expired">Platnosť odkazu vypšala</string>
+  <string name="fileSizeSuffix">%1$s%2$s</string>
+  <string name="gigabyteShort">GB</string>
+  <string name="kilobyteShort">KB</string>
+  <string name="megabyteShort">MB</string>
+  <string name="not_ask_any_more">Viac sa nepýtať ak stlačíte \"%s\"</string>
+  <string name="petabyteShort">PB</string>
+  <string name="terabyteShort">TB</string>
+  <string name="user_agreement">" Podmienky používania"</string>
+  <string name="user_policy">Ochrana súkromia</string>
+  <string name="view_baby_info">Upraviť inforácie o dieťati</string>
 </resources>

@@ -161,4 +161,8 @@
         <item quantity="other">Odosielanie videí a foto.: %1$d</item>
         <item quantity="one">Odosielanie videí a foto.: 1</item>
     </plurals>
+    <plurals name="baby_album_share_user_count_tip">
+        <item quantity="other">Sleduje: %1$d</item>
+        <item quantity="one">Sleduje: %1$d</item>
+    </plurals>	
 </resources>
