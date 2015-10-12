@@ -25,7 +25,7 @@
   <string name="full_screen_enter">Režim celej obrazovky</string>
   <string name="full_screen_exit">Ukončiť režim celej obrazovky</string>
   <string name="hide_mode">Úspora batérie</string>
-  <string name="hide_mode_desc">Zakázať aplikáciam prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie.</string>
+  <string name="hide_mode_desc">Zakázať aplikáciam počas vypnutého displeja prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie.</string>
   <string name="hide_mode_desc_title">Úspora batérie</string>
   <string name="high">Výkonný</string>
   <string name="hints_loading_text">Načítavanie...</string>
