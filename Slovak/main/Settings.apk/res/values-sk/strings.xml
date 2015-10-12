@@ -2061,7 +2061,7 @@ Vyberte váš operačný systém:"</string>
   <string name="power_discharge_remaining">Zostáva %1$s</string>
   <string name="power_discharging_duration">%1$d %% – zostáva cca. %2$s</string>
   <string name="power_flashlight">Svetlo</string>
-  <string name="power_hide_mode_summary">Zakázať aplikáciam prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
+  <string name="power_hide_mode_summary">Zakázať aplikáciam počas vypnutého displeja prístup k Wi-Fi, dátovému pripojeniu, GPS a ušetriť tak spotrebu batérie</string>
   <string name="power_hide_mode_title">Úspora batérie</string>
   <string name="power_idle">V nečinnosti</string>
   <string name="power_mgr">Batéria</string>
