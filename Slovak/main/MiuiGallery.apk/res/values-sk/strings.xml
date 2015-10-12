@@ -823,9 +823,9 @@ spoločne!"</string>
   <string name="byteShort">B</string>
   <string name="cloud_full_tip_str">Nie je dostatok voľného miesta v MiCloud</string>
   <string name="confirm_recommandation_face_is">Ste si istý, že je to %1$s? Táto osoba bude presunutá do albumu \"%2$s\".</string>
-  <string name="confirm_recommandation_face_not">Ste si istý, že to nie je %1$s?? Táto osoba bude presunutá do albumu \"%2$s\".</string>
-  <string name="confirm_recommandation_multiple_faces_are">Ste si istý, že sú to %1$s?? Tieto osoby budú presunuté do albumu \"%2$s\".</string>
-  <string name="confirm_recommandation_multiple_faces_not">Ste si istý, že to nie sú %1$s?? Tieto osoby budú presunuté do albumu \"%2$s\".</string>
+  <string name="confirm_recommandation_face_not">Ste si istý, že to nie je %1$s? Táto osoba bude presunutá do albumu \"%2$s\".</string>
+  <string name="confirm_recommandation_multiple_faces_are">Ste si istý, že sú to %1$s? Tieto osoby budú presunuté do albumu \"%2$s\".</string>
+  <string name="confirm_recommandation_multiple_faces_not">Ste si istý, že to nie sú %1$s? Tieto osoby budú presunuté do albumu \"%2$s\".</string>
   <string name="edit_baby_info">Zobraziť informácie o dieťati</string>
   <string name="error_link_has_expired">Platnosť odkazu vypšala</string>
   <string name="fileSizeSuffix">%1$s%2$s</string>
