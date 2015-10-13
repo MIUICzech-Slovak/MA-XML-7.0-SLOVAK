@@ -389,7 +389,7 @@ spoločne!"</string>
   <string name="immomo_camera">Immomo</string>
   <string name="import_complete">Import kompletný</string>
   <string name="import_fail">Import neúspešný</string>
-  <string name="impunity_declaration">Galéria vyžaduje pripojenie k internetu pre prístup k MiCloud službám. Chcete pokračovať?</string>
+  <string name="impunity_declaration">Používaním tejto služby súhlasíte s Xiaomi %1$s a %2$s. Galéria vyžaduje pripojenie k internetu pre prístup k MiCloud službám. Chcete pokračovať?</string>
   <string name="impunity_declaration_ignore">Viac sa nepýtať</string>
   <string name="impunity_declaration_positive_text">OK</string>
   <string name="impunity_declaration_settings">Upozorniť na pripojenie</string>
@@ -835,7 +835,7 @@ spoločne!"</string>
   <string name="not_ask_any_more">Viac sa nepýtať ak stlačíte \"%s\"</string>
   <string name="petabyteShort">PB</string>
   <string name="terabyteShort">TB</string>
-  <string name="user_agreement">" Podmienky používania"</string>
-  <string name="user_policy">Ochrana súkromia</string>
+  <string name="user_agreement">"Podmienkami používania"</string>
+  <string name="user_policy">Ochranou súkromia</string>
   <string name="view_baby_info">Upraviť inforácie o dieťati</string>
 </resources>
