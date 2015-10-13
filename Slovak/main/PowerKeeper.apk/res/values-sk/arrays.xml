@@ -49,4 +49,8 @@
         <item>Nevybrané</item>
         <item>Ostatné</item>
     </string-array>
+    <string-array name="hmode_app_groups">
+        <item>Vlastné</item>
+        <item>Odporúčané</item>
+    </string-array>
 </resources>
