@@ -328,8 +328,7 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="sync_dspt_entrance_provision_confirm_open">Použíť MiCloud</string>
   <string name="sync_dspt_entrance_provision_confirm_title">Nepoužívať MiCloud?</string>
   <string name="sync_dspt_entrance_provision_skip">Preskočiť</string>
-  <string name="sync_dspt_provision">"Synchr.
-Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo na "</string>
+  <string name="sync_dspt_provision">"Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo na "</string>
   <string name="sync_dspt_provision2">i.mi.com</string>
   <string name="sync_dspt_provision3">". Túto službu môžete aktivovať alebo zakázať v Nastaveniach."</string>
   <string name="sync_dspt_provision_title">Mi Cloud</string>
@@ -377,4 +376,5 @@ Synch. vaše fotografie, kontakty, poznámky medzi viacerými zariadeniami alebo
   <string name="xiaomi_account_type">com.xiaomi</string>
   <string name="xiaomi_cloud_service">Mi Cloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="sync_dspt_provision_header">Synchr.</string>
 </resources>

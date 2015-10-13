@@ -270,4 +270,5 @@
   <string name="vpn_text_long">Pripojiť k %s. Zobraziť podrobnosti.</string>
   <string name="vpn_title">VPN aktivované</string>
   <string name="vpn_title_long">Pripájanie k VPN cez %s</string>
+  <string name="task_access_locked_app_msg">Obsah aplikácie je ukrytý.</string>
 </resources>

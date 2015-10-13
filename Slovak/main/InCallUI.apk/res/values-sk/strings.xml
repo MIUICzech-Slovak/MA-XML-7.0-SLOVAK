@@ -716,4 +716,14 @@
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
   <string name="wild_prompt_str">Nahradiť zástupný znak znakom</string>
+  <string name="call_self">Nie je možné volať na vlastné číslo</string>
+  <string name="cancel_call">Ukončiť</string>
+  <string name="dial_with_gsm_phone">Bežný hovor</string>
+  <string name="network_error_message">Skúste uskutočniť bežný hovor. Bude spoplatnený vaším operátorom.</string>
+  <string name="network_error_title">Chyba siete</string>
+  <string name="no_balance_message">Not enough funds remaining in your top-up package. You can try to make a regular call instead.</string>
+  <string name="no_balance_title">Insufficient funds</string>
+  <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
+  <string name="not_support_title">Číslo nie je podporované</string>
+  <string name="purchase_now">Top up</string>
 </resources>

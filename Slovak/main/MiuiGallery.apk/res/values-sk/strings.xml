@@ -832,7 +832,7 @@ spoločne!"</string>
   <string name="gigabyteShort">GB</string>
   <string name="kilobyteShort">KB</string>
   <string name="megabyteShort">MB</string>
-  <string name="not_ask_any_more">Viac sa nepýtať ak stlačíte \"%s\"</string>
+  <string name="not_ask_any_more">Viac sa nepýtať na \"%s\"</string>
   <string name="petabyteShort">PB</string>
   <string name="terabyteShort">TB</string>
   <string name="user_agreement">"Podmienkami používania"</string>

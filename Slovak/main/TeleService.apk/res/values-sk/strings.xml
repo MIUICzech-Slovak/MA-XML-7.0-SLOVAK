@@ -1170,4 +1170,5 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="not_activate_sim_card_content_title">Telefón nebol aktivovaný</string>
   <string name="not_activate_sim_card_content_with_operator">"Refueling Package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
   <string name="error_type_account_inner">Chyba</string>
+  <string name="fdn_full">FDN neboli aktualizované, pretože zoznam je plný.</string>
 </resources>

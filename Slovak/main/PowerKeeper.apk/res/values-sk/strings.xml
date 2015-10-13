@@ -120,4 +120,20 @@
   <string name="still">Obrázky</string>
   <string name="ui">Štandard</string>
   <string name="user_define_mode">Názov</string>
+  <string name="app_frozen_app_list_summary">Nastavenie apl.</string>
+  <string name="app_list_title">Vyberte apl.</string>
+  <string name="config_custom_description">When you need to be less than expected, use a custom configuration</string>
+  <string name="config_custom_title">Vlastné</string>
+  <string name="config_suggest_description">For applications, use different power saving configurations</string>
+  <string name="config_suggest_title">MIUI Odporúčané</string>
+  <string name="keep_connect_description">Applications can use the network in the background</string>
+  <string name="keep_connect_title">Keep Conneted</string>
+  <string name="location_disable_description">Application in the background holding a brief location is available, and then prohibit the use of location</string>
+  <string name="location_disable_title">Zakázané</string>
+  <string name="location_enable_description">Applications can use the location service in the background</string>
+  <string name="location_enable_title">Povoliť</string>
+  <string name="location_mode_title">Poloha na pozadí</string>
+  <string name="network_mode_title">Sieť na pozadí</string>
+  <string name="quick_disconnect_description">Application in the background holding a brief network is available, and then prohibit the use of network</string>
+  <string name="quick_disconnect_title">Disconnected Immediately</string>
 </resources>
