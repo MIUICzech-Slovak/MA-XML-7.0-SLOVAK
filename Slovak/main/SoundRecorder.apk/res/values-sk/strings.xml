@@ -63,7 +63,6 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="record_back_pressed_hint">Dotknite sa znova pre ukončenie nahrávania</string>
   <string name="record_download">Stiahnuť z MiCloud</string>
   <string name="record_download_activity">Sťahovanie nahrávok</string>
-  <string name="record_download_complete">Dokončené</string>
   <string name="record_download_failed">Zlyhalo</string>
   <string name="record_download_manager">Správca sťahovania</string>
   <string name="record_download_msg">Prehrávky je možné prehrať až po ich stiahnutí.</string>
