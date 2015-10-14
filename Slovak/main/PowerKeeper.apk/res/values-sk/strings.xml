@@ -122,19 +122,19 @@
   <string name="user_define_mode">Názov</string>
   <string name="app_frozen_app_list_summary">Nastavenie apl.</string>
   <string name="app_list_title">Nastaviť obmedzenie aplikácií</string>
-  <string name="config_custom_description">When you need to be less than expected, use a custom configuration</string>
-  <string name="config_custom_title">Vlastné</string>
-  <string name="config_suggest_description">For applications, use different power saving configurations</string>
-  <string name="config_suggest_title">Odporúčané</string>
+  <string name="config_custom_description">Nastavenie vlastných pravidiel pre aplikáciu</string>
+  <string name="config_custom_title">Vlastné pravidlá</string>
+  <string name="config_suggest_description">Použiť odporúčané pravidla pre úsporu batérie</string>
+  <string name="config_suggest_title">Odporúčané pravidlá</string>
   <string name="keep_connect_description">Aplikácia môže používať sieť na pozadí</string>
   <string name="keep_connect_title">Ponechať pripojené</string>
-  <string name="location_disable_description">Application in the background holding a brief location is available, and then prohibit the use of location</string>
+  <string name="location_disable_description">Aplikácia nebude mať prístup k vašej polohe na pozadí</string>
   <string name="location_disable_title">Zakázané</string>
   <string name="location_enable_description">Aplikácia môže zisťovať vašu polohu na pozadí</string>
   <string name="location_enable_title">Povoliť</string>
   <string name="location_mode_title">Poloha na pozadí</string>
   <string name="network_mode_title">Sieť na pozadí</string>
-  <string name="quick_disconnect_description">Application in the background holding a brief network is available, and then prohibit the use of network</string>
+  <string name="quick_disconnect_description">Aplikácia nebude mať prístup k sieti na pozadí</string>
   <string name="quick_disconnect_title">Okamžite odpojiť</string>
-  <string name="config_mode_title">Nastavenie</string>
+  <string name="config_mode_title">Pravidlá</string>
 </resources>
