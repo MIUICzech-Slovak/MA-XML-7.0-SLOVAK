@@ -314,4 +314,5 @@ Nie je možné odoslať váš názor"</string>
   <string name="worst_update">Najhoršia aktualizácia</string>
   <string name="miui_summary_slogan">"  www.miuios.cz  "</string>
   <string name="miui_summary_updating">"  Aktualizácia...  "</string>
+  <string name="recovery_power_not_enough_msg_plugged">Batéria musí byť nabitá na viac ako 15%.</string>
 </resources>

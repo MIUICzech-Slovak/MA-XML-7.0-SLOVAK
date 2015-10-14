@@ -4,4 +4,12 @@
         <item quantity="other">Stiahnuté nahrávky: %d</item>
         <item quantity="one">Stiahnuté nahrávky: %d</item>
     </plurals>
+	<plurals name="local_records_count">
+        <item quantity="other">Položiek: %d</item>
+        <item quantity="one">Položiek: %d</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+        <item quantity="other">Nesynchr.: %d</item>
+        <item quantity="one">Nesynchr.: %d</item>
+    </plurals>
 </resources>

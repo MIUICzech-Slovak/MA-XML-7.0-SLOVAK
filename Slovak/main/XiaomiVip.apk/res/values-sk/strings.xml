@@ -57,4 +57,5 @@
   <string name="upgraded">Lv Up!</string>
   <string name="use">Use</string>
   <string name="validity">Expires on %s</string>
+  <string name="start_activity_error">Nie je možné spustiť apl.: %s</string>
 </resources>

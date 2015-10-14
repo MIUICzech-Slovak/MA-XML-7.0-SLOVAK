@@ -116,4 +116,11 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="cloud_record_open">Synchr. nahrávky</string>
+  <string name="cloud_record_tip">Syncchr. nahrávky s MiCloud.</string>
+  <string name="cloud_status_full_dialog_cancel">Neskôr</string>
+  <string name="cloud_status_full_dialog_msg">Vaše cloudové úložisko je plné.</string>
+  <string name="cloud_status_full_dialog_ok">Zakúpiť</string>
+  <string name="cloud_status_full_dialog_title">MiCloud úložisko je plné</string>
+  <string name="record_download_complete">Stiahnuté</string>
 </resources>

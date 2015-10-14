@@ -125,7 +125,7 @@
   <string name="config_custom_description">When you need to be less than expected, use a custom configuration</string>
   <string name="config_custom_title">Vlastné</string>
   <string name="config_suggest_description">For applications, use different power saving configurations</string>
-  <string name="config_suggest_title">MIUI Odporúčané</string>
+  <string name="config_suggest_title">Odporúčané</string>
   <string name="keep_connect_description">Aplikácia môže používať sieť na pozadí</string>
   <string name="keep_connect_title">Ponechať pripojené</string>
   <string name="location_disable_description">Application in the background holding a brief location is available, and then prohibit the use of location</string>
