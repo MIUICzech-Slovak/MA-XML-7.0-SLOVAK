@@ -838,4 +838,8 @@ spoločne!"</string>
   <string name="user_agreement">"Podmienkami používania"</string>
   <string name="user_policy">Ochranou súkromia</string>
   <string name="view_baby_info">Upraviť inforácie o dieťati</string>
+  <string name="buy_member_tip">stať sa členom.</string>
+  <string name="calculated_pictures_time_tip">Zoradené fotografie od %1$s do teraz. Ostatné fotografie budú zoradené postupne. Pre urýchlenie tohto procesu, %2$s</string>
+  <string name="calculated_pictures_time_tip_for_vip">Zoradené fotografie od %1$s do teraz. Ostatné fotografie budú zoradené čoskoro.</string>
+  <string name="view_queuing_status">Skontrolovať stav</string>
 </resources>

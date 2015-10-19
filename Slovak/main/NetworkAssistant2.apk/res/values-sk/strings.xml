@@ -582,4 +582,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="package_setted_error_notification_titile">Nebolo možné nastaviť limit dát</string>
   <string name="traffic_saving_notify_no_apps_saving">Žiadne apl. nevyužívajú úsporu dát</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Aktivujte úsporu mobilných dát.</string>
+  <string name="traffic_saving_detail">Podrobnosti</string>
+  <string name="traffic_saving_mobile_usage">Využitie dát</string>
+  <string name="traffic_saving_tecsupport_international">Poskytuje Opera Max</string>
+  <string name="traffic_saving_wifi_usage">Využitie Wi-Fi</string>
 </resources>

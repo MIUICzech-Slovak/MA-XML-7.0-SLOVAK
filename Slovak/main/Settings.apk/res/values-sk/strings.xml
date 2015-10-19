@@ -3730,4 +3730,35 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="edge_mode_photo_summary">V aplikácií Fotoaparát dvojitým poklepaním na hranu zhotovíte fotografiu</string>
   <string name="edge_mode_screenshot">Screenshot</string>
   <string name="edge_mode_screenshot_summary">Dvojitým poklepaním na obe hrany zhotovíte screenshot</string>
+  <string name="add_fingerprint_done_msg">Teraz môžete odomknúť vaše zariadenie vašim odtlačkom prsta.</string>
+  <string name="add_fingerprint_done_title">Hotovo!</string>
+  <string name="add_fingerprint_finished_button_text">Hotovo</string>
+  <string name="add_fingerprint_instruction_dialog_msg">"Pre pridanie odtlačku vášho prsta, položte váš prst na senzor.
+Uistite sa, že váš prst pokrýva vnútro senzora"</string>
+  <string name="add_fingerprint_instruction_msg">Odomknite vaše zariadenie alebo overte platbu vašim odtlačkom prsta</string>
+  <string name="add_fingerprint_instruction_title">Položte váš prst na senzor</string>
+  <string name="add_fingerprint_move_finger_title">Odoberte prst</string>
+  <string name="add_fingerprint_put_finger_edge_msg">Po pritlačení na senzor, odoberte prst a opakujte znova.</string>
+  <string name="add_fingerprint_put_finger_msg">Po pritlačení na senzor, odoberte prst a opakujte znova.</string>
+  <string name="add_fingerprint_put_finger_title">Priložte prst</string>
+  <string name="add_fingerprint_text">Pridať odtlačok</string>
+  <string name="add_fingerprint_toast_text">Položte váš prst na senzor</string>
+  <string name="apply_fingerprint_to_category_title">Nastaviť odtlačok pre...</string>
+  <string name="apply_password_to_category_title">Nastaviť heslo pre...</string>
+  <string name="delete_fingerprint_confirm_msg">Vymazať odtlačok?</string>
+  <string name="delete_fingerprint_text">Vymazať odtlačok</string>
+  <string name="delete_legacy_fingerprint">Vymazať</string>
+  <string name="delete_or_keep_legacy_passwords_confirm_msg">Vymazať uložený odtlačok?</string>
+  <string name="fingerprint_and_password_entrance_title">Heslo a odtlačok prsta</string>
+  <string name="fingerprint_identificating_msg">Vytváranie odtlačku...</string>
+  <string name="fingerprint_identify_input_password_msg">Zadajte heslo</string>
+  <string name="fingerprint_identify_try_again_msg">Nebolo možné vytvoriť odtlačok, skúste to znova.</string>
+  <string name="fingerprint_list_title">Odtlačok prsta</string>
+  <string name="information_dialog_button_text">OK</string>
+  <string name="keep_legacy_fingerprint">Ponechať</string>
+  <string name="max_fingerprint_number_reached">Nie je možné uložiť viac ako 5 odtlačkov prsta. Pre pridanie ďalšieho odtlačku musíte vymazať niektorý z už uložených.</string>
+  <string name="password_entrance_title">Heslo</string>
+  <string name="secure_keyguard_business_title">Heslo zámku displeja</string>
+  <string name="turn_off_common_password_confirm_msg">Heslo bude taktiež deaktivované.</string>
+  <string name="turn_on_security_lock">Pridať bezpečnostné heslo</string>
 </resources>
