@@ -92,4 +92,7 @@
   <string name="set_password_action">Nastaviť heslo</string>
   <string name="set_password_message">Nastaviť nové heslo?</string>
   <string name="set_password_title">Nastaviť heslo</string>
+  <string name="apply_password_action">Nastaviť heslo</string>
+  <string name="apply_password_confirm_dlg_msg">Vyžadovať heslo pre %s​?</string>
+  <string name="apply_password_confirm_dlg_title">Toto heslo bude použité pre %s</string>
 </resources>

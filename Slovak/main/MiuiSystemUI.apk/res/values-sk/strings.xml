@@ -155,8 +155,8 @@
   <string name="return_to_incall_screen">Stlačte pre návrat k hovoru</string>
   <string name="screen_button_disabled_message">Tlačidlá pod displejom sú vypnuté. Môžete ich zapnúť stlačením tlačidiel \"Domov\" a \"Zapínanie\"</string>
   <string name="screen_button_enabled_message">Tlačidlá pod displejom sú zapnuté</string>
-  <string name="screen_pinning_description">This keeps it in view until you unpin. Touch and hold Back and Overview at the same time to unpin.</string>
-  <string name="screen_pinning_description_accessible">This keeps it in view until you unpin. Touch and hold Overview to unpin.</string>
+    <string name="screen_pinning_description">"Ak je toto nastavenie zapnuté, môžete pomocou pripnutia k obrazovke zaistiť zobrazenie aktuálnej obrazovky, pokiaľ ju neuvoľníte. Podržte tlačidlo Domov a Zapínanie pre uvoľnenie."</string>
+  <string name="screen_pinning_description_accessible">Zobrazenie aktuálnej obrazovky, pokiaľ ju neuvoľníte. Podržte tlačidlo Domov a Zapínanie pre uvoľnenie.</string>
   <string name="screen_pinning_negative">Nie</string>
   <string name="screen_pinning_positive">OK</string>
   <string name="screen_pinning_title">Obrazovka je pripnutá</string>

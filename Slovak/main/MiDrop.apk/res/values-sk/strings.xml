@@ -79,4 +79,13 @@
     <string name="receiver_pic_file_current_single">Prijímanie %2$d​ od %1$s...</string>
     <string name="receiver_video_file_current_multi">Prijímanie %2$d​ od %1$s...</string>
     <string name="receiver_video_file_current_single">Prijímanie %2$d​ od %1$s...</string>
+	<string name="sender_reject_kick_off">Skúste to znova</string>
+	<string name="receiver_insufficient_storage">Nie je dostatok voľného miesta na úložisku</string>
+    <string name="receiver_insufficient_storage_cannot_send">Nie je možné odoslať: Nie je dostatok voľného miesta</string>
+	<string name="receiver_file_current">%2$d od %1$s…</string>
+	<string name="receiver_clean">Uvoľnite miesto na úložisku</string>
+	<string name="receiver_video_file_current">%2$d​ od %1$s...</string>
+	<string name="receiver_pic_file_current">%2$d​ od %1$s...</string>
+	<string name="receiver_audio_file_current">%2$d​ od %1$s...</string>
+	<string name="receiver_apk_file_current">%2$d​ od %1$s...</string>
 </resources>
