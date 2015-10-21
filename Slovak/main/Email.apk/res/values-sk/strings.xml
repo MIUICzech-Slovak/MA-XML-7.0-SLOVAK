@@ -469,8 +469,8 @@
   <string name="folder_synchronization_mail_settings">Nastavenie synchr. zložiek</string>
   <string name="forward">Poslať ďalej</string>
   <string name="forward_attachment">Poslať ďalej</string>
-  <string name="forward_attribution">---------- Preposlaná správa --------- Od: %1$s, Dátum: %2$s, Predmet: %3$s, Komu: %4$s,</string>
-  <string name="forward_attribution_no_headers">---------- Správa poslaná ďalej ----------</string>
+  <string name="forward_attribution">"---------- Správa poslaná ďalej --------- Od: %1$s Dátum: %2$s Predmet: %3$s Komu: %4$s"</string>
+  <string name="forward_attribution_no_headers">"---------- Správa poslaná ďalej ----------"</string>
   <string name="forward_download_failed_ticker">Nepodarilo sa poslať ďalej jednu alebo viac príloh.</string>
   <string name="forward_download_failed_title">Príloha nebola poslaná ďalej</string>
   <string name="from">Od</string>

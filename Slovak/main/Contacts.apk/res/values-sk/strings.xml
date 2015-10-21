@@ -401,7 +401,7 @@ Karty kontaktu sú deaktivované"</string>
   <string name="event_edit_field_hint_text">Dátum</string>
   <string name="export_sim_contact_finish">Export na SIM kartu je kompletný</string>
   <string name="export_sim_contact_finish_failure">Dokončené: %1$d Ostáva: %2$d</string>
-  <string name="export_sim_contact_finish_msg">%1$d prenesených | %2$d preskočených | %3$d ostáva</string>
+  <string name="export_sim_contact_finish_msg">%1$d prenesených | %2$d zdvojených | %3$d ostáva</string>
   <string name="export_sim_contact_finish_success">Skopírovaných %d kontaktov na SIM kartu</string>
   <string name="export_sim_contacts_dialog_message">Vaša SIM karta môže uložiť %d kontaktov. Chcete pokračovať?</string>
   <string name="export_to_sdcard">Exportovať na úložisko</string>

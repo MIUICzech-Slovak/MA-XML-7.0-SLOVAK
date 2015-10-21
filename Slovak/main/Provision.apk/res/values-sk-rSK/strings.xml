@@ -55,4 +55,8 @@
 Prihláste sa na www.miuios.cz :)"</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte</string>
+  <string name="desc_extra_fingerprint"/>
+  <string name="desc_fingerprint">Použiť váš odtlačok prsta pre odomknutie vášho zariadenia alebo prihlásenie sa.</string>
+  <string name="next_fingerprint">Ďalej</string>
+  <string name="title_fingerprint">Pridať odtlačok prsta</string>
 </resources>

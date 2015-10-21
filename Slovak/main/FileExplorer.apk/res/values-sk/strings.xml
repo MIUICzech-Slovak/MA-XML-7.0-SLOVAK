@@ -468,4 +468,56 @@ Získali ste ďalších %1$s"</string>
   <string name="storage_internal_description">Interné úložisko</string>
   <string name="storage_sd_card_description">SD karta</string>
   <string name="storage_usb_description">USB úložisko</string>
+  <string name="cancel_error">Nebolo možné odobrať, skúste to znova</string>
+  <string name="cancel_success">Odobrané, všetky súbory boli presunuté sdcard/fileexplorer/decryption</string>
+  <string name="decrypt">Odobrať zo súkromných</string>
+  <string name="decrypt_error">Nebolo možné odšifrovať</string>
+  <string name="decrypting">Dešifrovanie...</string>
+  <string name="delete_error">Nebolo možné vymazať súbory, skúste to znova</string>
+  <string name="dir_not_support">Táto zložka nemôže byť súkromná.</string>
+  <string name="encrypt_error">Nebolo možné vytvoriť súkromné súbory, skúste to znova</string>
+  <string name="encrypt_success">Všetky súbory sú súkromné</string>
+  <string name="encrypting">Šifrovanie...</string>
+  <string name="local_sticker_str">Stiahnuté</string>
+  <string name="make_private">Súkromné</string>
+  <string name="msg_set_password">Najskôr nastavte heslo</string>
+  <string name="network_spent_reminding">Otvorenie tejto stránky vyžaduje mobilné dátové pripojenie.</string>
+  <string name="network_spent_reminding_title">Dátové pripojenie</string>
+  <string name="new_function">O súkromných zložkách</string>
+  <string name="new_function_info">"Súkromná zložka je nová funkcia MIUI.
+Môžete zašifrovať vaše súbory
+a uložiť ich na bezpečnom mieste.
+
+Funkcia je dostupná pri stiahnutí hlavnej stránky."</string>
+  <string name="new_function_str">"WeChat stickers can now be collected automatically.
+Download them when you want
+and never miss the cool new ones!"</string>
+  <string name="new_function_title_str">About WeChat stickers</string>
+  <string name="no_local_sticker_tip">"Couldn't find downloaded stickers. Check out the stickers shared by Mi fans."</string>
+  <string name="no_network_str">Nebolo možné sa pripojiť k sieti. Skontrolujte vaše nasatvenia a skúste to znova.</string>
+  <string name="open_private_folder">Vytváranie súkromnej zložky...</string>
+  <string name="partial_cancel_successful">Nebolo možné odobrať niektoré súbory. Zvyšné súbory boli presunuté do sdcard/fileexplorer/decryption"</string>
+  <string name="partial_delete_failure">Nebolo možné vymazať niektoré súbory</string>
+  <string name="partial_encrypt_success">Nebolo možné zmeniť niektoré súbory na súkromné</string>
+  <string name="partial_repair_done">Niektoré súbory boli úspešne obnovené</string>
+  <string name="private_files">Súkromné</string>
+  <string name="private_folder">Súkromná zložka</string>
+  <string name="promot_enctypt_password">Zadajte heslo pre odomknutie</string>
+  <string name="repair_done">Obnovené</string>
+  <string name="repair_error">Nebolo možné obnoviť</string>
+  <string name="repair_file">Obnoviť šifrované súbory</string>
+  <string name="reset_password">Obnoviť heslo</string>
+  <string name="restoring">Obnovenie...</string>
+  <string name="shared_sticker_network_permission_tip">Nebolo možné sa pripojiť k sieti. Skontrolujte vaše nasatvenia a skúste to znova.</string>
+  <string name="shared_sticker_page_no_file">Nebolo možné sa pripojiť k sieti. Skontrolujte vaše nasatvenia a skúste to znova.</string>
+  <string name="shared_sticker_str">Shared by Mi fans</string>
+  <string name="shared_sticker_suffix">Sticker at %s</string>
+  <string name="shared_sticker_use_tip">"You can send the stickers you saved in WeChat dialogs just like you send images.
+(GIFs can be added to Custom in WeChat Stickers)."</string>
+  <string name="shared_sticker_use_tip_title">How to use stickers</string>
+  <string name="shared_str">Zdieľané %s</string>
+  <string name="transfer_done">Súbory presunuté.</string>
+  <string name="transfer_private_data">Presúvanie súkromných súborov z SD karty...</string>
+  <string name="user_not_login">Prihláste sa</string>
+  <string name="weixin_sticker_tag_str">WeChat stickers</string>
 </resources>
