@@ -250,10 +250,9 @@
   <string name="button_text_install_now">Install</string>
   <string name="buy_immediately">Buy</string>
   <string name="buy_traffic_pack">Buy more data</string>
-
   <string name="clear_bigfiles">Vymazať veľké súbory, duplikáty fotografií, a iné zbytočné súbory</string>
   <string name="clear_immediately">Vyčistiť</string>
-  <string name="clear_safe_notify">Security notification bar</string>
+  <string name="clear_safe_notify">Zobraziť panel v roletke</string>
   <string name="conn_of_function_safe">Sieťové pripojenie pre Optimalizáciu</string>
   <string name="connecting">Pripájanie...</string>
   <string name="download">Stiahnuť</string>
@@ -261,7 +260,7 @@
   <string name="empty">" "</string>
   <string name="garbage_clean_detail">Podrobnosti</string>
   <string name="garbage_cleanup_detail">Položiek: %1$d, Vyčistené: %2$s</string>
-  <string name="garbage_month">Vyťistené %s tento mesiac</string>
+  <string name="garbage_month">Vyčistené %s tento mesiac</string>
   <string name="go_to">Pokračovať</string>
   <string name="goto_set">Nastaviť</string>
   <string name="harass_detail">Blokované %1$d SMS a %2$d hovory</string>
@@ -271,7 +270,7 @@
   <string name="installing">Inštaluje sa</string>
   <string name="just_now">Teraz</string>
   <string name="login_immediately">Prihlásiť sa</string>
-  <string name="month_day_format">dd MMM</string>
+  <string name="month_day_format">dd. MMM</string>
   <string name="name_debuglog_dir">Bsp Debug Log</string>
   <string name="nb_clear_set">Vyčistiť ROM, zobraziť informácie o batérií a blokovaní v roletke.</string>
   <string name="net_assistant_detail">Využité: %1$s, Ušetrené: %2$s</string>
@@ -290,16 +289,16 @@
   <string name="pref_title_apps_check_time">Ako často kontrolovať</string>
   <string name="pref_title_apps_cleanup_size">​Ak veľkosť cache dosiahne</string>
   <string name="pref_title_auto_deepclean_and_alert">Upozornenie na nepoužívané apl.</string>
-  <string name="recommended">Odporáčané</string>
+  <string name="recommended">Odporúčané</string>
   <string name="safety_check_detail">%1$d položiek, získaných %2$d bodov</string>
-  <string name="safety_rank">Lepšie ako %d%% MIUI užívateľov v zmysle bezpeťnosti</string>
+  <string name="safety_rank">Lepšie ako %d%% MIUI užívateľov v zmysle bezpečnosti</string>
   <string name="set_immediately">Nastaviť</string>
   <string name="seton_immediately">Zapnúť</string>
   <string name="share">Zdieľať</string>
   <string name="start_install">Inštalovať</string>
   <string name="there_is_no">Všetko vyzerá byť v poriadku</string>
   <string name="tips_of_auto_launch_manage">Zakázať málo používaným aplikáciam automaticky sa spustiť na pozadí</string>
-  <string name="tips_of_cloud_service">Prihláste sa svojim Xiaomi účtom pre využívanie viac slúžieb</string>
+  <string name="tips_of_cloud_service">Prihláste sa svojim Xiaomi účtom pre využívanie viac služieb</string>
   <string name="tips_of_connect">Pripojte sa k internetu pre využívanie viac funkcií Optimalizácie</string>
   <string name="tips_of_garbage_cloud_scan">Vyhľadať skryté zbytočné súbory kontrolou cloudu</string>
   <string name="tips_of_garbage_data_set">Aktualizujte databázu čistenia pre nájdenie viac nepotrebných súborov</string>
