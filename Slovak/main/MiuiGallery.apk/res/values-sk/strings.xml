@@ -555,8 +555,8 @@ spoločne!"</string>
   <string name="paint_crop_cancel_context">Uložiť orezaný obrázok?</string>
   <string name="paint_crop_cancel_title">Zahodiť zmeny</string>
   <string name="paint_crop_tips">Pre čo najlepší obrázok, umiestnite jeho zaujímavú časť do stredu pomocou jeho zmenšenia a posúvania.</string>
-  <string name="paint_highlight">Zvýrazniť</string>
-  <string name="paint_highlight_cancel_context">Uložiť zvýraznený obrázok?</string>
+  <string name="paint_highlight">Pero</string>
+  <string name="paint_highlight_cancel_context">Uložiť upravený obrázok?</string>
   <string name="paint_highlight_cancel_title">Zrušiť zmeny</string>
   <string name="path">Cesta</string>
   <string name="people">Ľudia</string>
