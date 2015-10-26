@@ -126,8 +126,8 @@
   <string name="workday_alarm_clock">Pracovný deň</string>
   <string name="worldclock_empty_text">Žiadne svetové hodiny</string>
   <string name="worldclock_title">Hodiny</string>
-  <string name="skip_alarm_date_format">%1$s(%2$s)</string>
-  <string name="skip_alarm_once_hint">Turn off once on %s</string>
+  <string name="skip_alarm_date_format">%1$s (%2$s)</string>
+  <string name="skip_alarm_once_hint">Vypnúť len na %s</string>
   <string name="today">Dnes</string>
   <string name="tomorrow">Zajtra</string>
   <string name="turn_off_a_repeat_alarm">Vypnúť opakovanie budíka</string>
