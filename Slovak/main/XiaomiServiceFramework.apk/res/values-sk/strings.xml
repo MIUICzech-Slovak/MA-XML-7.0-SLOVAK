@@ -98,4 +98,7 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
+  <string name="activate_auto_sms_notification_desc_1_card">Odoslaná SMS pre aktivovanie \"Vyhľadania zariadenia\"</string>
+  <string name="activate_auto_sms_notification_desc_2_cards">Odoslaná SMS zo SIM karty %s pre aktiváciu \"Vyhľadania zariadenia\\"</string>
+  <string name="activate_auto_sms_notification_title">Aktivácia SIM karty</string>
 </resources>

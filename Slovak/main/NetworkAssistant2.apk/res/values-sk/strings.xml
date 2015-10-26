@@ -242,7 +242,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="network_speed_for_apps_close_app_dlg_msg">Ukončiť túto aplikáciu?</string>
   <string name="network_speed_for_apps_close_system_app_dlg_msg">Systémovú aplikáciu nie je možné ukončiť.</string>
   <string name="network_speed_for_apps_others">Ostatné</string>
-  <string name="network_speed_for_apps_title">Podrobnosti o rýchlosti pripojenia</string>
+  <string name="network_speed_for_apps_title">Pripojenie</string>
   <string name="network_speed_for_apps_total">Rýchlosť pripojenia</string>
   <string name="networkchanged_exception_summary">Pripojenie k sieti bolo zmenené. Skontrolujte ho znova.</string>
   <string name="networkchanged_exception_title">Pripojenie zmenené</string>

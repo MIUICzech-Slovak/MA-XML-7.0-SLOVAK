@@ -985,4 +985,13 @@ Delta update size: %2$s"</string>
   <string name="gmail_login_failed_non_proxy_title">Prístup k Gmail serveru zlyhal</string>
   <string name="gmail_server_authorization_deleted">Autorizácia prístupu zlyhala, skúste sa znova prihlásiť.</string>
   <string name="outbox_alert_description_fail_network">Chyba siete.</string>
+  <string name="att_download_failed_network_slow">Pomalé pripojenie, stiahnite neskôr.</string>
+  <string name="calendar_remind_dialog_title">Pripomenúť</string>
+  <string name="calendar_remind_gridview_month_later">O mesiac</string>
+  <string name="calendar_remind_gridview_nextweek">O týždeň</string>
+  <string name="calendar_remind_gridview_pick_date">Vybrať dátum</string>
+  <string name="calendar_remind_gridview_tomorrow">Zajtra</string>
+  <string name="calendar_remind_gridview_tonight">Večer</string>
+  <string name="calendar_remind_gridview_weekend">Víkend</string>
+  <string name="reply_add_bodycontent">Vložiť rýchlu odpoveď?</string>
 </resources>

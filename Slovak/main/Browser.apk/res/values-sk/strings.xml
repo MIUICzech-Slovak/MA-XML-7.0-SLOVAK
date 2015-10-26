@@ -908,4 +908,12 @@ Chcete odísť z tejto stránky?"</string>
   <string name="show_security_tip_dialog_title">Podmienky používania</string>
   <string name="show_weather_location_getter_tip_dialog_description">Služba pre predpoveď počasia potrebuje vašu polohu pre jej správne fungovanie.</string>
   <string name="miui_content_extent_select">Upraviť výber</string>
+  <string name="accept_cookies_confirm_message">Deaktivovanie tejto funkcie môže spôsobiť nesprávne fungovanie webstránok.</string>
+  <string name="enable_geolocation_confirm_message">Deaktivovanie tejto funkcie môže spôsobiť nesprávne fungovanie webstránok.</string>
+  <string name="positive_confirm_message">Deaktivovať</string>
+  <string name="remember_passwords_confirm_message">Deaktivovanie tejto funkcie môže ovplyvniť používanie.</string>
+  <string name="save_form_data_confirm_message">Deaktivovanie tejto funkcie môže ovplyvniť používanie.</string>
+  <string name="security_url_confirm_message">Deaktivovanie tejto funkcie môže spôsobiť bezpečnostné riziko.</string>
+  <string name="security_warnings_confirm_message">Deaktivovanie tejto funkcie môže spôsobiť bezpečnostné riziko.</string>
+  <string name="weather_location_confirm_message">Deaktivovanie tejto funkcie môže ovplyvniť používanie.</string>
 </resources>

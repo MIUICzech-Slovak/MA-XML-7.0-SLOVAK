@@ -780,4 +780,6 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
+  <string name="activity_title_network_speed_detail">Pripojenie</string>
+  <string name="btn_text_network_speed_detail">Pripojenie</string>
 </resources>
