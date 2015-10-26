@@ -57,4 +57,7 @@
   <string name="loading">Načítavanie...</string>
   <string name="search_history">História vyhľadávania</string>
   <string name="show_more">Viac</string>
+  <string name="xiaomi_suggest_base"/>
+  <string name="xiaomi_hot_query"/>
+  <string name="xiaomi_hint"/>
 </resources>
