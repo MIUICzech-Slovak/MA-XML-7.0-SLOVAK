@@ -1668,4 +1668,12 @@ Chcete ju zavrieť?"</string>
   <string name="years">roky</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Natrvalo</string>
+  <string name="lock_to_app_description">"Pripnutie obrazovky uzamkne obrazovku v jednom zobrazení.
+
+Ak ju chcete uvoľniť, súčasne klepnite na tlačidlá Domov a Zapínanie a podržte ich."</string>
+  <string name="lock_to_app_description_accessible">"Pripnutie obrazovky uzamkne obrazovku v jednom zobrazení.
+
+Ak ju chcete uvoľniť, klepnite na tlačidlo Domov a Zapínanie a podržte ho."</string>
+  <string name="lock_to_app_toast">Ak chcete uvoľniť túto obrazovku, súčasne klepnite na tlačidlá Domov a Zapínanie a podržte ich.</string>
+  <string name="lock_to_app_toast_accessible">Ak chcete uvoľniť túto obrazovku, klepnite na tlačidlo Domov a Zapínanie a podržte ho.</string>
 </resources>

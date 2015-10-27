@@ -7,4 +7,7 @@
   <string name="loading">Načítavanie...</string>
   <string name="mibi_license">Podmienky používania MiKreditov</string>
   <string name="policy_name">Podmienky: %s</string>
+  <string name="open_wifi_connect_summary">Zobraziť podrobnosti.</string>
+  <string name="open_wifi_connect_title">Pripojiť k %1$s</string>
+  <string name="permdesc_accessDrm">Povolí aplikácií prístup k DRM chránenému obsahu.</string>
 </resources>

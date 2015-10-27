@@ -101,4 +101,5 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="activate_auto_sms_notification_desc_1_card">Odoslaná SMS pre aktivovanie \"Vyhľadania zariadenia\"</string>
   <string name="activate_auto_sms_notification_desc_2_cards">Odoslaná SMS zo SIM karty %s pre aktiváciu \"Vyhľadania zariadenia\\"</string>
   <string name="activate_auto_sms_notification_title">Aktivácia SIM karty</string>
+   <string name="activate_popup_desc_find_device_postfix">Bude odoslaná aktivačná SMS ak zmeníte SIM kartu.</string>
 </resources>

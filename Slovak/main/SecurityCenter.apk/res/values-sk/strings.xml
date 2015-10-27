@@ -40,7 +40,7 @@
   <string name="activity_title_virus_detail">Podrobnosti o Víruse</string>
   <string name="activity_title_virus_settings">Nastavenia</string>
   <string name="activity_title_white_list">Výnimky</string>
-  <string name="antivirus_choose_engine">Použiť databázu od %s</string>
+  <string name="antivirus_choose_engine">%s</string>
   <string name="antivirus_choose_engine_dialog_title">Vybrať databázu</string>
   <string name="antivirus_choose_engine_disable_toast">Nie je možné zmeniť databázu ak prebieha kontrola vírusov</string>
   <string name="antivirus_choose_engine_settings">Nastavenie vírusovej databázy</string>
@@ -782,4 +782,20 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_title">Ignorované</string>
   <string name="activity_title_network_speed_detail">Pripojenie</string>
   <string name="btn_text_network_speed_detail">Pripojenie</string>
+  <string name="preferred_app_entries_browser">Prehliadač</string>
+  <string name="preferred_app_entries_camera">Fotoaparát</string>
+  <string name="preferred_app_entries_dial">Telefón</string>
+  <string name="preferred_app_entries_email">Email</string>
+  <string name="preferred_app_entries_gallery">Galéria</string>
+  <string name="preferred_app_entries_launcher">Launcher</string>
+  <string name="preferred_app_entries_messaging">Správy</string>
+  <string name="preferred_app_entries_music">Hudba</string>
+  <string name="security_scan_optimizing">Optimalizácia...</string>
+  <string name="summary_cloud_space_almost_full">Získať viac miesta na úložisku</string>
+  <string name="summary_cloud_space_full">Získajte viac miesta na úložisku a ďalšie funkcie</string>
+  <string name="summary_find_device">Vyhľadajte a zablokujte vaše zariadenie kdekoľvek na svete</string>
+  <string name="system_check_content_none">Bezpečné</string>
+  <string name="title_cloud_space_almost_full">Cloudové úložisko je takmer plné</string>
+  <string name="title_cloud_space_full">"Cloudové úložisko je plné, nie je možné synchronizovať"</string>
+  <string name="title_find_device">Povoliť Vyhľadanie zariadenia</string>
 </resources>
