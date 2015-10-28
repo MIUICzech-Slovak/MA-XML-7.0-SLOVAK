@@ -586,4 +586,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_mobile_usage">Využitie dát</string>
   <string name="traffic_saving_tecsupport_international">Poskytuje Opera Max</string>
   <string name="traffic_saving_wifi_usage">Využitie Wi-Fi</string>
+  <string name="firewall_restrict_android_dialog_content">Ak zakážete Androidu prístup k internetu, niektoré funkcie ako napr Wi-Fi hotspot nebudu fungovať správne.</string>
+  <string name="firewall_restrict_android_dialog_title">Upozornenie</string>
+  <string name="kilobyte_per_second">KB/s</string>
+  <string name="megabyte_per_second">MB/s</string>
 </resources>

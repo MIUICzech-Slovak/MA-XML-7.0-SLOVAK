@@ -523,4 +523,5 @@ and never miss the cool new ones!"</string>
   <string name="operation_other_apps">Otvoriť v inej aplikácií</string>
   <string name="pick_folder">Vybrať zložku</string>
   <string name="search_description">Vyhľadať všetky súbory v zariadení</string>
+  <string name="encrypt_prefix">SÚKROMNÁ</string>
 </resources>

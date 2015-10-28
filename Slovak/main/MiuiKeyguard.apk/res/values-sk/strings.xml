@@ -33,6 +33,7 @@ Deaktivujte režim Lietadlo."</string>
   <string name="invalid_confirm_pin_hint">PIN kód nesúhlasí</string>
   <string name="keyguard_torch_cover_text">Pre dlhšie svietenie stlačte tlačidlo zapínania.</string>
   <string name="lock_screen_date">EE, dd.MM.yyyy</string>
+  <string name="lock_screen_date_12">EE, dd.MM.</string>
   <string name="lockscreen_access_pattern_cell_added">Bunka bola pridaná</string>
   <string name="lockscreen_access_pattern_cleared">Bezpečnostný vzor bol vymazaný</string>
   <string name="lockscreen_access_pattern_detected">Bezpečnostný vzor bol dokončený</string>
