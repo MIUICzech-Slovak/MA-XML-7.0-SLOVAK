@@ -1032,7 +1032,7 @@ a čakajte na jeho načítanie"</string>
   <string name="video_out_time">Adresa videa nie je platná, obnovte zoznam.</string>
   <string name="video_play">Prehrávanie uloženého videa</string>
   <string name="video_play_error">Prehrávanie videa zlyhalo, skúste to znova!</string>
-  <string name="wait_orange_light">Čakajte na oranžovú LED na kamere a hlasov0 oznámenie \"Čakanie na pripojenie\"</string>
+  <string name="wait_orange_light">Čakajte na oranžovú LED na kamere a hlasové oznámenie \"Čakanie na pripojenie\"</string>
   <string name="webaccount_is_invaild">Užívateľské meno neexistuje, skúste to znova!</string>
   <string name="website_xiaoyi">Oficiálna webstránka</string>
   <string name="wechat">WeChat</string>
