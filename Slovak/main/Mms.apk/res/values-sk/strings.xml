@@ -517,7 +517,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="sp_category_all">Všetky správy služieb</string>
   <string name="sp_category_bank">Správy Banky</string>
   <string name="sp_category_title_prefix">%s</string>
-  <string name="sp_conversation_title">Notifikačné správy</string>
+  <string name="sp_conversation_title">Informačné správy</string>
   <string name="sp_mark_as_read">Označiť všetky správy ako prečítané?</string>
   <string name="sp_mark_as_read_progress">Označenie všetkých správ ako prečítané...</string>
   <string name="sp_mark_as_read_title">Označiť všetko ako prečítané</string>
