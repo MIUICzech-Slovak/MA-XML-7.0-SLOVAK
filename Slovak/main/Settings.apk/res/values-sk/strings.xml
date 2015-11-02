@@ -2743,7 +2743,7 @@ Umožňujú to dôveryhodné identifikačné údaje nainštalované vo vašom za
   <string name="status_bar_settings_show_carrier_summary">Zobraziť len na uzamknutej obrazovke a v roletke</string>
   <string name="status_bar_settings_show_flow_info">Zobraziť info o spotrebe dát</string>
   <string name="status_bar_settings_show_home_message">Ikona aplikácie</string>
-  <string name="status_bar_settings_show_keyguard_notification">Plávajúce upozornenia</string>
+  <string name="status_bar_settings_show_keyguard_notification">Zamykacia obrazovka</string>
   <string name="status_bar_settings_show_keyguard_notification_summary">Zobraziť upozornenia na zamykacej obrazovke a pri fullscreen aplikáciach</string>
   <string name="status_bar_settings_show_network_speed">Zobr. rýchlosť prenosu dát</string>
   <string name="status_bar_settings_show_notificationBar_notification">Zobraziť v roletke</string>
@@ -3763,4 +3763,11 @@ Uistite sa, že váš prst pokrýva vnútro senzora"</string>
   <string name="turn_on_security_lock">Pridať bezpečnostné heslo</string>
   <string name="search_virtual_sim">virtual sim</string>
   <string name="virtual_sim_search_title">Virtuálna SIM</string>
+  <string name="onekey_migrate">Transfer</string>
+  <string name="status_bar_app_des_separator">. </string>
+  <string name="status_bar_settings_show_floating_notification">Plávajúce upozornenia</string>
+  <string name="status_bar_settings_show_floating_notification_summary">Plávajúce upozornenia automaticky zmiznú po zobrazení sa v hornej časti displeja.</string>
+  <string name="status_bar_app_enable_floating">Plávajúce upozornenia</string>
+  <string name="status_bar_app_enable_keyguard">Zamykacia obrazovka</string>
+  <string name="status_bar_app_enable_message">Bubliny</string>
 </resources>

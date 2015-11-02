@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="trans_time_format_minute">
+        <item quantity="other">%dmin.</item>
+        <item quantity="one">%dmin.</item>
+    </plurals>
+    <plurals name="trans_time_format_hours">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+</resources>

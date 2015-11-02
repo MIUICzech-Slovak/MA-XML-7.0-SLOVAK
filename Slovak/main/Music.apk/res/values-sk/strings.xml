@@ -479,4 +479,8 @@
   <string name="repeat_current_notif">Opakuje sa aktuálna skladba.</string>
   <string name="shuffle_off_notif">Náhodné prehrávanie je vyp.</string>
   <string name="shuffle_on_notif">Náhodné prehrávanie je zap.</string>
+  <string name="already_download">Sťahovanie...</string>
+  <string name="download_complete">Sťahovanie dokončené</string>
+  <string name="download_complete_start_install">Sťahovanie dokončené, začína inštalácia...</string>
+  <string name="download_start">Spúšťanie sťahovania...</string>
 </resources>

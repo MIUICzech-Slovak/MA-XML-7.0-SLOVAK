@@ -844,4 +844,7 @@ spoločne!"</string>
   <string name="view_queuing_status">Skontrolovať stav</string>
   <string name="calculated_pictures_time_tip_for_no_vip">Zoradené fotografie od %1$s do teraz. Ostatné fotografie budú zoradené postupne.</string>
   <string name="app_name_edit_picture">Upraviť obrázok</string>
+  <string name="contact_tip">Kontakty</string>
+  <string name="input_a_name">Zadajte meno</string>
+  <string name="input_or_select_a_name">Zadajte alebo vyberte meno</string>
 </resources>
