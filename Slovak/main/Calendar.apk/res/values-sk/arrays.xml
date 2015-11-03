@@ -326,4 +326,10 @@
         <item>6h</item>
         <item>1 deň</item>
     </string-array>
+    <string-array name="repeat_frequency_spinner_plural">
+        <item>dní</item>
+        <item>týždne</item>
+        <item>mesiace</item>
+        <item>roky</item>
+    </string-array>
 </resources>

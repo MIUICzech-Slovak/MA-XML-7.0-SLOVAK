@@ -323,4 +323,5 @@
   <string name="virus_scan">Antivírus</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="mainbtn_text_quick_cleanup_default">Vyčistiť</string>
 </resources>
