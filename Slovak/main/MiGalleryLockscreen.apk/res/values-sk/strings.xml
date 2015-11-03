@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Galéria</string>
+    <string name="app_name">Galéria Tapiet</string>
     <string name="cancel">Ukončiť</string>
-    <string name="declaration">"Používaním tejto služby súhlasíte s Podmienkami použivania a Ochranou súkromia. Táto služba vyžaduje pripojenie na internet."</string>
+    <string name="declaration">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia. Táto služba vyžaduje pripojenie na internet."</string>
     <string name="declaration_title">Podmienky používania</string>
-    <string name="lockscreen_magazine_subscribe">%1$s followers</string>
+    <string name="lockscreen_magazine_subscribe">Užívateľov: %1$s</string>
     <string name="lockscreen_magazine_summary">Získajte nové tapety každý deň na vašu zamykaciu obrazovku.</string>
     <string name="lockscreen_magazine_system_subscribe">Tapety: %1$s</string>
     <string name="lockscreen_magazine_system_title">Predvolené</string>
