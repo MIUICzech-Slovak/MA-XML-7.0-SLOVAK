@@ -3763,8 +3763,8 @@ Uistite sa, že váš prst pokrýva vnútro senzora"</string>
   <string name="turn_on_security_lock">Pridať bezpečnostné heslo</string>
   <string name="search_virtual_sim">virtual sim</string>
   <string name="virtual_sim_search_title">Virtuálna SIM</string>
-  <string name="onekey_migrate">Transfer</string>
-  <string name="status_bar_app_des_separator">. </string>
+  <string name="onekey_migrate">Presun do nového zariadenia</string>
+  <string name="status_bar_app_des_separator">", "</string>
   <string name="status_bar_settings_show_floating_notification">Plávajúce upozornenia</string>
   <string name="status_bar_settings_show_floating_notification_summary">Plávajúce upozornenia automaticky zmiznú po zobrazení sa v hornej časti displeja.</string>
   <string name="status_bar_app_enable_floating">Plávajúce upozornenia</string>
