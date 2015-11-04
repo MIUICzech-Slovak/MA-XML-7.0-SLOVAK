@@ -945,4 +945,13 @@ Chcete odísť z tejto stránky?"</string>
   <string name="video_history_empty">História je prázdna</string>
   <string name="video_subtitle_prefix_message">Prehrané:</string>
   <string name="video_title_prefix_message">Offline:</string>
+  <string name="action_menu_current_version">Súčasná verzia</string>
+  <string name="current_version_pad">Tablet</string>
+  <string name="current_version_pc">PC</string>
+  <string name="current_version_phone">Telefón</string>
+  <string name="more_option">Ďalšie nastavenia</string>
+  <string name="pref_nav_mode_summary_pad">Tablet</string>
+  <string name="pref_nav_mode_summary_phone">Telefón</string>
+  <string name="pref_nav_mode_title">Režim zobrazenia</string>
+  <string name="unsecurity_url_toast">Táto webstránka nie je bezpečná</string>
 </resources>

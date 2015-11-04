@@ -1197,7 +1197,7 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="firmware_version">Android</string>
   <string name="floating_window_switch_label">Zobraziť vyskakovacie okno</string>
   <string name="floating_window_switch_label_disable">Skryť vyskakovacie okno</string>
-  <string name="fluency_mode">Optimalizovať výkon</string>
+  <string name="fluency_mode">Animácie systému</string>
   <string name="fluency_mode_confirm_and_reboot">Reštartovať</string>
   <string name="fluency_mode_confirm_title">Reštartovať?</string>
   <string name="fluency_mode_confirm_will_fluency_mode_text">Je nutné reštartovať vaše zariadenie pre aplikovanie týchto nastavení.</string>
@@ -1315,7 +1315,7 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="heavy_weight_stop_description">Túto aplikáciu nemôžete bezpečne ukončiť. Mohlo by dôjsť k strate časti vašej aktuálnej práce.</string>
   <string name="help_label">Pomoc</string>
   <string name="hidden_ssid_label">Skryté SSID:</string>
-  <string name="high_performance_notif_summary">Batéria sa bude vybíjať rýchlejšie</string>
+  <string name="high_performance_notif_summary">Zariadenie sa môže prehrievať pri náročnejších procesoch</string>
   <string name="high_performance_notif_title">Výkonný režim aktívny</string>
   <string name="high_performance_title">Spustili ste Benchmark test. Nastavte "Výkonný režim" pre dosiahnutie najlepších výsledkov.</string>
   <string name="history_details_title">Podrobnosti histórie</string>

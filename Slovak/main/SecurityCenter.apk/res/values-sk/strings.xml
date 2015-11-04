@@ -798,4 +798,8 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="title_cloud_space_almost_full">Cloudové úložisko je takmer plné</string>
   <string name="title_cloud_space_full">"Cloudové úložisko je plné, nie je možné synchronizovať"</string>
   <string name="title_find_device">Povoliť Vyhľadanie zariadenia</string>
+  <string name="hints_need_quick_clean">Vyhľadať a vymazať nebezpečné súbory</string>
+  <string name="menu_text_power_percent_title">Batéria %s</string>
+  <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
+  <string name="title_live_talk_purchase">Top up now</string>
 </resources>

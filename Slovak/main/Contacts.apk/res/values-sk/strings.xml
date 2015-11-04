@@ -495,7 +495,7 @@ Chyba: \"%s\""</string>
   <string name="import_to_xiaomi_account_progress_finish">Presun ukončený</string>
   <string name="import_to_xiaomi_account_progress_message">Presúvanie kontaktov...</string>
   <string name="import_to_xiaomi_account_progress_title">Presúvanie kontaktov na Xiaomi účet</string>
-  <string name="import_to_xiaomi_account_title">Presunúť kontakty na Xiaomi účet?</string>
+  <string name="import_to_xiaomi_account_title">Importovať kontakty na Xiaomi účet?</string>
   <string name="import_vcard_description">Importovať kontakty z SD karty</string>
   <string name="import_weibo_dialog_title">Import kontakty z sina weibo</string>
   <string name="import_weibo_error_no_matched_contacts">Done updating contacts: no matched contacts</string>
@@ -831,8 +831,8 @@ Synchronizujte ich teraz."</string>
   <string name="pref_key_sim_manage1">Nastaviť SIM 1</string>
   <string name="pref_key_sim_manage2">Nastaviť SIM 2</string>
   <string name="pref_summary_import_from_account">Kopírovanie kontaktov z Google a Exchange na účet Xiaomi</string>
-  <string name="pref_title_account_import">Kopírovanie z účtu</string>
-  <string name="pref_title_import_from_account">Kopírovanie na účet Xiaomi</string>
+  <string name="pref_title_account_import">Import kontaktov</string>
+  <string name="pref_title_import_from_account">Import na Xiaomi účet</string>
   <string name="preference_auto_ip_summary_disable">Nie je povolené</string>
   <string name="preference_auto_ip_summary_on">"IP operátora: %s"</string>
   <string name="preference_auto_ip_title">Auto IP</string>
