@@ -35,7 +35,7 @@
     </plurals>
     <plurals name="video_download_clear_info">
         <item quantity="other">Videá (%1$d) vymazané.</item>
-        <item quantity="one">Videá (%1$d) vymazanéy.</item>
+        <item quantity="one">Videá (%1$d) vymazané.</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
         <item quantity="other">Vymazať (%1$d) z histórie?</item>
