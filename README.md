@@ -1,7 +1,7 @@
-XML_MIUI-v6
+XML_MIUI-v7
 ===========
 
-MIUI-v6 translation for all supported devices. MIUI Translation: **ingbrzy**
+MIUI-v7 translation for all supported devices. MIUI Translation: **ingbrzy**
 
 
 MIUI China is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
