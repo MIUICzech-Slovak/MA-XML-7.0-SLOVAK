@@ -483,4 +483,6 @@
   <string name="download_complete">Sťahovanie dokončené</string>
   <string name="download_complete_start_install">Sťahovanie dokončené, začína inštalácia...</string>
   <string name="download_start">Spúšťanie sťahovania...</string>
+  <string name="action_item_hifi">Slúchadlá a efekty</string>
+  <string name="back_confirm">Stlačte znova pre prehrávanie na pozadí</string>
 </resources>

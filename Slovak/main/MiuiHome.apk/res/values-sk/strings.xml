@@ -254,11 +254,11 @@
   <string name="status_bar_toggle_vibrate">Vibrácie</string>
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
-  <string name="status_downloaded">stiahnuté</string>
-  <string name="status_downloading">sťahuje sa</string>
-  <string name="status_installing">inštaluje sa</string>
-  <string name="status_paused">pozastavené</string>
-  <string name="status_pending">čaká</string>
+  <string name="status_downloaded">Stiahnuté</string>
+  <string name="status_downloading">Sťahuje sa</string>
+  <string name="status_installing">Inštaluje sa</string>
+  <string name="status_paused">Pozastavené</string>
+  <string name="status_pending">Čaká</string>
   <string name="title_select_live_folder">Vybrať zložku</string>
   <string name="title_select_shortcut">Vybrať zástupcu</string>
   <string name="toggle_select_title">Zvoliť prepínač</string>
@@ -296,4 +296,5 @@
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="cant_edit_lock_screen">Nie je možné upraviť štýl zamykacej obrazovky.</string>
+  <string name="apply_negative_action">Nepoužiť</string>
 </resources>

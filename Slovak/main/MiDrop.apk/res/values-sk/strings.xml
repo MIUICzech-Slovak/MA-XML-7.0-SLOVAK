@@ -65,8 +65,8 @@
 	<string name="intro_midrop">MiDrop</string>
     <string name="intro_page1_text1">Zdieľajte súbory medzi Xiaomi zariadeniami</string>
     <string name="intro_page1_text2">Teraz je to jednoduchšie ako kedykoľvek predtým</string>
-    <string name="intro_page2_choose_files">Vyberte súbor a zvoľte \"Zdieľať\"</string>
-    <string name="intro_page2_click_to_send">Vyberte \"Zdieľať\"</string>
+    <string name="intro_page2_choose_files">Vyberte súbor a zvoľte \"Odoslať\"</string>
+    <string name="intro_page2_click_to_send">Vyberte \"Odoslať\"</string>
     <string name="intro_page3_choose_midrop">Vyberte \"MiDrop\"</string>
     <string name="intro_page3_choose_midrop2">Vyberte \"MiDrop\", a váš súbor bude okamžite odoslaný.</string>
 	<string name="receiver_apk_file_current_multi">Prijímanie %2$d​ od %1$s</string>

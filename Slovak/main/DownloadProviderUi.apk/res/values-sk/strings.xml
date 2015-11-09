@@ -237,4 +237,5 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="torrent_file_error">Nebolo možné načítať tento torrent</string>
   <string name="torrent_no_subfile">Žiadne súbory v torrente</string>
   <string name="xunlei_open_info">Use Xunlei Engine to open this type of link (required)?</string>
+  <string name="creat_task_success">Pridané do sťahovania</string>
 </resources>

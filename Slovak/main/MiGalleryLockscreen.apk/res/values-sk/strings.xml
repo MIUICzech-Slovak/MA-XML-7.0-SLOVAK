@@ -16,4 +16,10 @@
     <string name="theme_apply_failured">Nie je možné použiť tapetu zamykacej obrazovky</string>
     <string name="theme_apply_success">Tapeta nastavená</string>
     <string name="theme_applying">Nastavovanie...</string>
+	<string name="change_time">Zmeniť interval</string>
+    <string name="day">1 deň</string>
+    <string name="hour_1">1 hodina</string>
+    <string name="hour_3">3 hodiny</string>
+    <string name="setting_head">Nastavenia</string>
+    <string name="wlan_download">Iba cez Wi-Fi</string>
 </resources>

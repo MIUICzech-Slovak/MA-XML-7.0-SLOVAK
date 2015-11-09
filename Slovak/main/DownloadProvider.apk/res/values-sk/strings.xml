@@ -74,4 +74,8 @@ Ak chcete spustiť preberanie pri ďalšom pripojení k sieti Wi-Fi, dotknite sa
   <string name="mobile_recommended_title">Využitie mobilných dát</string>
   <string name="recommended_file_size_download_in_mobile">Stiahnuť tento súbor %s cez mobilné dáta?</string>
   <string name="recommended_no_file_size_download_in_mobile">Stiahnuť tento súbor cez mobilné dáta?</string>
+  <string name="download_apk_desktop_installing">Inštaluje sa</string>
+  <string name="download_apk_desktop_pause">Pozastavené</string>
+  <string name="download_apk_desktop_pending">V poradí</string>
+  <string name="download_apk_desktop_running">Sťahovanie</string>
 </resources>

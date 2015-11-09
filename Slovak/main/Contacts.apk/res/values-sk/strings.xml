@@ -1309,4 +1309,13 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
   <string name="more_call_logs">Ďalšie nahrávky nájdete na i.mi.com</string>
+  <string name="in_call_show_filter_brannan">Dawn</string>
+  <string name="in_call_show_filter_earlybird">Autumn</string>
+  <string name="in_call_show_filter_jstyle">Japanese</string>
+  <string name="in_call_show_filter_mono">Mono</string>
+  <string name="in_call_show_filter_nashvile">Indigo</string>
+  <string name="in_call_show_filter_none">Normal</string>
+  <string name="in_call_show_filter_process_error">Nastala chyba, skúste to znova.</string>
+  <string name="in_call_show_filter_processing">Spracovávanie...</string>
+  <string name="in_call_show_filter_vivid">Vivid</string>
 </resources>
