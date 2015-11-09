@@ -596,4 +596,7 @@ s "</string>
   <string name="wrong_vcode">Nesprávny kód</string>
   <string name="provision_skip_login">Preskočiť</string>
   <string name="account_limit_update_birthday">Prepáčte, nebolo možné spracovať vašu požiadavku.</string>
+  <string name="passport_login_check_find_device">Kontrola stavu vyhľadania zariadenia...</string>
+  <string name="passport_login_check_find_device_failed">Nebolo možné načítať stav. Skontrolujte internetové pripojenie.</string>
+  <string name="passport_login_find_device_bind">Toto zariadenie je prepojené s Xiaomi účtom (%s). Prihláste sa pre aktivovanie tohto zariadenia.</string>
 </resources>

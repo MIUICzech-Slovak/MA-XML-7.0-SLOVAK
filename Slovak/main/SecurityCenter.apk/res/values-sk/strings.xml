@@ -802,4 +802,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="menu_text_power_percent_title">Batéria %s</string>
   <string name="summary_live_talk_purchase">Just ¥ 0.05 per minute for domestic calls.</string>
   <string name="title_live_talk_purchase">Top up now</string>
+  <string name="activity_title_root_acquired">Povoliť práva ROOT</string>
+  <string name="activity_title_root_note">Čo sú to práva ROOT</string>
+  <string name="pm_root_success_notification_title">ROOT práva povolené</string>
 </resources>

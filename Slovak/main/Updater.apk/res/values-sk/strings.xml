@@ -315,4 +315,22 @@ Nie je možné odoslať váš názor"</string>
   <string name="miui_summary_slogan">"  www.miuios.cz  "</string>
   <string name="miui_summary_updating">"  Aktualizácia...  "</string>
   <string name="recovery_power_not_enough_msg_plugged">Batéria musí byť nabitá na viac ako 15%.</string>
+  <string name="download_failed">Sťahovanie zlyhalo</string>
+  <string name="pm_root_acquired_button">Práva ROOT</string>
+  <string name="pm_root_acquired_notification_title">Získavanie ROOT práv</string>
+  <string name="pm_root_acquired_rooting">Získavanie ROOT práv pre %s</string>
+  <string name="pm_root_checking">Kontrola informácií o systéme...</string>
+  <string name="pm_root_fail_button_retry">Znova</string>
+  <string name="pm_root_fail_msg">Táto aplikácia nemohla získať ROOT práva. Skúste to znova.</string>
+  <string name="pm_root_fail_service_busy">Počkajte kým sa vaše zariadenie aktualizuje a skúste to znova.</string>
+  <string name="pm_root_fail_title">Nebolo možné získať ROOT práva</string>
+  <string name="pm_root_notification_download_title">Sťahovanie</string>
+  <string name="pm_root_success_msg">Reštartujte vaše zariadenie pre dokončenie.</string>
+  <string name="pm_root_success_title">ROOT práva pvolené</string>
+  <string name="root_acquired">Povoliť ROOT práva</string>
+  <string name="root_agree_check_box_title">Rozumiem rizikám pri používaní ROOT práv</string>
+  <string name="root_dangerous_msg">Povolenie ROOT práv je extrémne nebezpečné a múže vystaviť riziku vaše osobné dáta. Súhlasíte s tým, že akekoľvek poškodenie zariadenia alebo strata dát spôsobená pridelením ROOT práv je na vašu zodpovednosť.</string>
+  <string name="set_network_root_msg">Pre získanie ROOT práv sa pripojte k Wi-Fi sieti.</string>
+  <string name="updater_service_busy_msg">Táto služba aktualizácie využíva ROOT práva pre prístup k systémovým súborom.</string>
+  <string name="updater_service_busy_title">Služba aktualizácie je zaneprázdnená</string>
 </resources>
