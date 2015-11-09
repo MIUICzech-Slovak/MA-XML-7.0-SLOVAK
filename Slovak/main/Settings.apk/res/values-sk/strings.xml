@@ -3775,9 +3775,9 @@ Uistite sa, že váš prst pokrýva vnútro senzora"</string>
   <string name="failed_to_check_find_device_status_content">Kontrola stavu zlyhala, skúste to znova neskôr.</string>
   <string name="failed_to_check_find_device_status_title">Kontrola stavu zlyhala</string>
   <string name="failed_to_shut_down_find_device_content">Nebolo možné deaktivovať vyhľadávanie zariadenia. Skúste to znova neskôr.</string>
-  <string name="failed_to_shut_down_find_device_title">Nebolo možné deaktivovať vyhľadávanie zariadneia</string>
+  <string name="failed_to_shut_down_find_device_title">Nebolo možné deaktivovať vyhľadávanie zariadenia</string>
   <string name="shut_down_find_device_failure_confirm">OK</string>
-  <string name="shut_down_find_device_network_failure_content">Nebolo možné deaktivovať vyhľadávanie zariadneia. Skontrolujte pripojenie na internet.</string>
+  <string name="shut_down_find_device_network_failure_content">Nebolo možné deaktivovať vyhľadávanie zariadenia. Skontrolujte pripojenie na internet.</string>
   <string name="shut_down_find_device_network_failure_title">Nebolo možné sa pripojiť na internet</string>
-  <string name="shuting_down_find_device">Deaktivácia vyhľadania zariadnia...</string>
+  <string name="shuting_down_find_device">Deaktivácia vyhľadania zariadenia...</string>
 </resources>
