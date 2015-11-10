@@ -235,4 +235,6 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
+  <string name="low_memory">low_memory!</string>
+  <string name="scan_result">výsledok</string>
 </resources>

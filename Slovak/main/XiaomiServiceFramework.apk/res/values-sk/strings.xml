@@ -102,4 +102,11 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="activate_auto_sms_notification_desc_2_cards">Odoslaná SMS zo SIM karty %s pre aktiváciu \"Vyhľadania zariadenia\\"</string>
   <string name="activate_auto_sms_notification_title">Aktivácia SIM karty</string>
    <string name="activate_popup_desc_find_device_postfix">Bude odoslaná aktivačná SMS ak zmeníte SIM kartu.</string>
+  <string name="activate_feature_register_xiaomi_account">Nastavenie Xiaomi účtu</string>
+  <string name="activate_feature_verify_mx_token">Overenie Xiaomi účtu</string>
+  <string name="activate_phone_cancel_notif_title">Aktivácia SIM karty zrušená</string>
+  <string name="activate_phone_cancel_notif_title_msim">Aktivácia SIM karty %s zrušená</string>
+  <string name="activate_phone_success_notif_title">SIM karta aktivovaná</string>
+  <string name="activate_phone_success_notif_title_msim">SIM karta %s aktivovaná</string>
+  <string name="activate_status_desc_completed_with_sms_sent">Odoslaná SMS pre aktiváciu SIM</string>
 </resources>
