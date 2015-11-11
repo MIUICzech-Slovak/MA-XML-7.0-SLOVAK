@@ -270,13 +270,13 @@
   <string name="grant_dialog_button_allow">Povoliť</string>
   <string name="grant_dialog_button_deny">Odmietnuť</string>
   <string name="location_settings">Nasatvenie polohy</string>
-  <string name="location_warning">%1$s je poskytovateľ slušieb polohy pre toto zariadenie. Prístup k polohe môžete zmeniť v nastaveniach.</string>
+  <string name="location_warning">%1$s je poskytovateľ služieb polohy pre toto zariadenie. Prístup k polohe môžete zmeniť v nastaveniach.</string>
   <string name="never_ask_again">Viac sa nepýtať</string>
   <string name="ok">OK</string>
   <string name="permission_group_title_charges_related">Platby</string>
   <string name="permission_group_title_media_related">Multimédia</string>
   <string name="permission_group_title_privacy_related">Súkromie</string>
-  <string name="permission_group_title_settings_related">Nasatvenie</string>
+  <string name="permission_group_title_settings_related">Nastavenie</string>
   <string name="permission_request_title">Požiadavka na oprávnenie</string>
   <string name="permission_warning_template">Povoliť %1$s pre %2$s ?</string>
   <string name="screen_overlay_button">Otvoriť nastavenia</string>
