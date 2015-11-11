@@ -274,4 +274,7 @@
   <string name="trans_waiting_ensurance">"Uistite sa, že staré zariadenie je zapnuté.
 a Prenos je povolený"</string>
   <string name="trans_waiting_for_sender">Čakanie na pripojenie starého zariadenia...</string>  
+  <string name="backup_empty_info_onpad">" Back up your data, settings, and apps"</string>
+  <string name="backup_hint_onpad">Keep your device powered on</string>
+  <string name="current_pad_location">Pad</string>
 </resources>

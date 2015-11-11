@@ -352,4 +352,9 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
+  <string name="internet_connection_notification">Upozornenie na internetové pripojenie</string>
+  <string name="internet_connection_notification_descrip">Zobraziť upozornenie na internetové pripojenie vždy pri spustení Kalendára</string>
+  <string name="notice_button_exit">Ukončiť</string>
+  <string name="notice_declaration_ignore">Viac sa nepýtať</string>
+  <string name="notice_title_agreement">Internetové pripojenie</string>
 </resources>
