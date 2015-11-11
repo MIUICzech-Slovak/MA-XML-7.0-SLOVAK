@@ -996,13 +996,13 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="dlg_error_usb_unmount_text">Úložisko USB sa nepodarilo odpojiť. Skúste to znova neskôr.</string>
   <string name="dlg_ok">OK</string>
   <string name="dndm_alarm_content">Zvuky</string>
-  <string name="dndm_alarm_content_all">Povoliť všetko</string>
+  <string name="dndm_alarm_content_all">Všetko povolené</string>
   <string name="dndm_alarm_content_call">Hovory</string>
   <string name="dndm_alarm_content_call_sms">Hovory a správy</string>
   <string name="dndm_alarm_content_event">Upozornenia</string>
   <string name="dndm_alarm_content_event_and_call">Upozornenia a hovory</string>
   <string name="dndm_alarm_content_event_and_sms">Upozornenia a správy</string>
-  <string name="dndm_alarm_content_not_all">Všetko povolené</string>
+  <string name="dndm_alarm_content_not_all">Všetko zakázané</string>
   <string name="dndm_alarm_content_sms">Správy</string>
   <string name="dndm_auto_button_title">Naplánovať</string>
   <string name="dndm_auto_setting_group">Naplánovať aktiváciu</string>
