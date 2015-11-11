@@ -122,4 +122,6 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítavanie...</string>
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
+  <string name="dlg_delete_message">Mazanie...</string>
+  <string name="pref_title_recover_help">Obnoviť poznámky</string>
 </resources>

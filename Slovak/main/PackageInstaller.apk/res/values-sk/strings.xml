@@ -123,4 +123,5 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="message_appstore_verify_ok">Aplikácia v Google play prešla kontrolou vírusov a iných škodlivých kódov.</string>
   <string name="message_security_scaning">Kontrola...</string>
   <string name="waiting_tip">Kontrola môže trvať aj 1min.</string>
+  <string name="message_install_in_market">Odporúčame inštalovať aplikáciu z Google Play</string>
 </resources>

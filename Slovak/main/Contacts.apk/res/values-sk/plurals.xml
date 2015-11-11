@@ -136,4 +136,8 @@
         <item quantity="other">Nesynchr. kontakty: %d</item>
         <item quantity="one">Nesynchr. kontakty: 1</item>
     </plurals>
+    <plurals name="voip_contacts_count">
+        <item quantity="other">Ľudí: %1$d</item>
+        <item quantity="one">Ľudí: %1$d</item>
+    </plurals>
 </resources>

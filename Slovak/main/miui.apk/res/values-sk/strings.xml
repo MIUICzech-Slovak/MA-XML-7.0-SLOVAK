@@ -331,4 +331,7 @@
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
+  <string name="hybrid_provider">Web stránka je poskytovaná %1$s .</string>
+  <string name="no_network">Nie je možné sa pripojiť k sieti</string>
+  <string name="webview_reload">znova</string>
 </resources>

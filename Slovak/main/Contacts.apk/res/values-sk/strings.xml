@@ -1320,4 +1320,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="in_call_show_filter_vivid">Vivid</string>
   <string name="contact_edit_save_error_empty">Kontakt je prázdny</string>
   <string name="create_voip_shortcut_success">Odkaz vytvorený</string>
+  <string name="import_from_onekey_migrate">Importovať s Prenosom</string>
 </resources>
