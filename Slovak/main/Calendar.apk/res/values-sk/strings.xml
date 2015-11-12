@@ -357,4 +357,5 @@
   <string name="notice_button_exit">Ukončiť</string>
   <string name="notice_declaration_ignore">Viac sa nepýtať</string>
   <string name="notice_title_agreement">Internetové pripojenie</string>
+  <string name="online_notice_message">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Niektoré funkcie vyžadujú internetové pripojenie.</string>
 </resources>

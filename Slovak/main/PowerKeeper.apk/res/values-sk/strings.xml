@@ -139,11 +139,11 @@
   <string name="config_mode_title">Pravidlá</string>
   <string name="app_list_total">%d apl.</string>
   <string name="power_config_disable_description">MIUI nebude obmedzovať aktivity na pozadí</string>
-  <string name="power_config_disable_title">Deaktivovať</string>
+  <string name="power_config_disable_title">Deaktivované</string>
   <string name="power_config_enhance_description">MIUI bude obmedzovať aktivity na pozadí</string>
   <string name="power_config_enhance_title">Úspora batérie</string>
   <string name="power_config_mode_title">Režim úspory</string>
-  <string name="power_config_normal_description">Podľa nastavenia MIUI obmedzí spustené aplikácie na pozadí</string>
+  <string name="power_config_normal_description">Podľa nastavenia, MIUI obmedzí spustené aplikácie na pozadí</string>
   <string name="power_config_normal_title">Normálne</string>
   <string name="power_config_ultimate_description">MIUI môže zmraziť aplikáciu na pozadí pre maximálnu výdrž batérie</string>
   <string name="power_config_ultimate_title">Agresívne obmedzenie</string>

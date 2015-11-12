@@ -3780,5 +3780,5 @@ Uistite sa, že váš prst pokrýva vnútro senzora"</string>
   <string name="shut_down_find_device_network_failure_content">Nebolo možné deaktivovať vyhľadávanie zariadenia. Skontrolujte pripojenie na internet.</string>
   <string name="shut_down_find_device_network_failure_title">Nebolo možné sa pripojiť na internet</string>
   <string name="shuting_down_find_device">Deaktivácia vyhľadania zariadenia...</string>
-  <string name="security_patch">Úroveň opráv zabezpečenia systému Android</string>
+  <string name="security_patch">Bezpečnostná záplata</string>
 </resources>
