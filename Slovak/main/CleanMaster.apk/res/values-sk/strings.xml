@@ -324,4 +324,9 @@
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
   <string name="mainbtn_text_quick_cleanup_default">Vyčistiť</string>
+  <string name="cached_garbage">Cache</string>
+  <string name="flow_rank_title">Využitie dát</string>
+  <string name="grabage_rank_title">Dnes vyčistené</string>
+  <string name="total_clean_text">Čisté</string>
+  <string name="unlike">Nie</string>
 </resources>

@@ -37,4 +37,12 @@
     <plurals name="million">
         <item quantity="other">Stiahnuté %1$d ľuďmi</item>
     </plurals>
+    <plurals name="view_num">
+        <item quantity="other">Zobrazené: %1$d</item>
+        <item quantity="zero">Zobrazené: %1$d</item>
+        <item quantity="one">Zobrazené: %1$d</item>
+        <item quantity="two">Zobrazené: %1$d</item>
+        <item quantity="few">Zobrazené: %1$d</item>
+        <item quantity="many">Zobrazené: %1$d</item>
+    </plurals>
 </resources>
