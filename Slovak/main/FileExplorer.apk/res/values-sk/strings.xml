@@ -544,4 +544,15 @@ and never miss the cool new ones!"</string>
   <string name="type_not_support">Tento súbor nie je podporovaný, skúste ho najskôr rozbaliť.</string>
   <string name="ui_main_toast_favorite_added">Označené</string>
   <string name="weixin_not_installed">WeChat nie je nainštalovaný</string>
+  <string name="clean_hint">Dotykom uvoľníte miesto</string>
+  <string name="create_shortcut_cancel">Nie ďakujem</string>
+  <string name="create_shortcut_checkbox_hint">Viac nezobrazovať</string>
+  <string name="create_shortcut_confirm">Vytvoriť</string>
+  <string name="create_shortcut_message">Využívate aplikáciu Súbory veľmi často. Chcete vytvoriť odkaz na domácej obrazovke?</string>
+  <string name="create_shortcut_success">Odkaz vytvorený</string>
+  <string name="create_shortcut_title">Vytvoriť odkaz</string>
+  <string name="menu_item_sort_by_added_time">Pridané</string>
+  <string name="private_toast_hint1">Dotykom pridáte do súkromných zložiek</string>
+  <string name="private_toast_hint2">Pre ukrytie súboru, podržte na ňom prst a pridajte ho do súkromnej zložky.</string>
+  <string name="private_toast_hint3">Potiahnite nadol pre prístup k súkromným zložkám</string>
 </resources>
