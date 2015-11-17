@@ -806,4 +806,5 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="activity_title_root_note">Čo sú to práva ROOT</string>
   <string name="pm_root_success_notification_title">ROOT práva povolené</string>
   <string name="prompt_input_time_illegal">Nie je možné zmeniť tento čas</string>
+  <string name="memory_check_content_none">Prázdne</string>
 </resources>
