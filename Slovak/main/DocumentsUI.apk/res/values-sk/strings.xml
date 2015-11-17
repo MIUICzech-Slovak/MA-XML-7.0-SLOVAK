@@ -17,11 +17,11 @@
   <string name="menu_open">Otvoriť</string>
   <string name="menu_save">Uložiť</string>
   <string name="menu_search">Hľadať</string>
-  <string name="menu_select">Vyberte adresár ^1</string>
+  <string name="menu_select">Vyberte adresár \"^1\"</string>
   <string name="menu_settings">Nastavenia</string>
   <string name="menu_share">Zdieľať</string>
   <string name="menu_sort">Zoradiť podľa</string>
-  <string name="mode_selected_count">Vybraté: %1$d</string>
+  <string name="mode_selected_count">Vybrané: %1$d</string>
   <string name="query_error">Zoznam dokumentov sa nepodarilo načítať</string>
   <string name="root_available_bytes">Voľné: %1$s</string>
   <string name="root_recent">Nedávne</string>
