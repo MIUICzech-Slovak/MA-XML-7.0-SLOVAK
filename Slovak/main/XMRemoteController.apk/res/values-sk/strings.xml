@@ -584,7 +584,7 @@ Skontrolujte aj SPAM."</string>
   <string name="match_count_tip_frame">Tlačidlá (%1$d/%2$d)</string>
   <string name="match_direction_default">Zariadenie reagovalo?</string>
   <string name="match_main_tip2_frame">Pustite ak zariadenie zareaguje</string>
-  <string name="match_main_tip_frame">Zamerajte na zariadenie a stlacte tlačidlo</string>
+  <string name="match_main_tip_frame">Zamerajte na zariadenie a stlačte tlačidlo</string>
   <string name="match_number_default">Zariadenie reagovalo?</string>
   <string name="match_tip_default">Zariadenie reagovalo?</string>
   <string name="match_tip_eject">Zariadenie reagovalo?</string>
