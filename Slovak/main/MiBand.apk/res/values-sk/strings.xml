@@ -1626,78 +1626,101 @@ Udržujte MiBand a telefón maximálne 5m od seba."</string>
   <string name="your_gender">Pohlavie</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Hmotnosť</string>
-  <string name="bracelet_disconnect_tips">手环连接已断开</string>
-  <string name="bracelet_disconnected">手环未连接</string>
-  <string name="cannot_heartrate">未绑定小米手环光感版</string>
-  <string name="heartrate">心率</string>
-  <string name="hr_item_date">MM月dd日 HH:mm</string>
-  <string name="jump_measure_guide">跳过</string>
-  <string name="lab_factory_average_pace_frequency">平均步频</string>
-  <string name="lab_factory_frequency_unit">步/分钟</string>
-  <string name="lab_factory_left_time">剩余时间</string>
-  <string name="lab_factory_pace_frequency_test">步频测试</string>
-  <string name="lab_factory_restart">重新开始</string>
-  <string name="lab_factory_rt_pace_frequency">实时步频</string>
-  <string name="lab_factory_shoes_not_connected">跑鞋未连接</string>
-  <string name="lab_factory_sport_monitor_shoes_offline_notice">Connect your shoes before you begin %s.</string>
-  <string name="lab_factory_start">开始</string>
-  <string name="lab_factory_time_label">秒倒计时</string>
-  <string name="label_countdown">秒后开始测量</string>
-  <string name="measure">测量心率</string>
-  <string name="measure_fail">测量失败</string>
-  <string name="measure_reminder">"测量时抬手臂至与胸同高，手环需避开手腕位置
-底部要紧贴皮肤，避免移动"</string>
-  <string name="measure_tips">请保持手环底部贴紧皮肤</string>
-  <string name="measuring">测量中</string>
-  <string name="no_measure_data">无测量信息</string>
-  <string name="no_measure_tips">不再提示</string>
-  <string name="open_bluetooth_tips">请保持蓝牙开启</string>
-  <string name="pre_hr_value">上次测量结果</string>
-  <string name="pre_measure">上次测量结果</string>
-  <string name="running_bracelet_not_connect">手环未连接</string>
-  <string name="running_help">帮助</string>
-  <string name="running_help_foot_people">谁适合尝试前脚掌着地</string>
-  <string name="running_help_foot_suggest1">保持自己的跑步习惯</string>
-  <string name="running_help_foot_suggest2">建议跑者保持习惯的着地方式，不轻易更改。中后掌着地者可穿着缓冲性更好的跑鞋，减少落地冲击。</string>
-  <string name="running_help_foot_suggest3">需要对膝盖进行针对性保护的跑者可尝试跑步中提高 前脚掌着地的比例，并按照以下跑法练习</string>
-  <string name="running_help_foot_suggest4">你可以这样跑</string>
-  <string name="running_help_foot_suggest5">落地点在身体正下方，膝盖略微弯曲； 身体微向前倾；</string>
-  <string name="running_help_foot_suggest6">感觉踩着风火轮，流畅轮转前进；</string>
-  <string name="running_help_foot_suggest7">提速时，提高步频，小步快跑；</string>
-  <string name="running_help_foot_suggest8">连接智能跑鞋，检测前脚掌着地</string>
-  <string name="running_help_foot_suggest9">"跑步前，开启蓝牙，连接手环；
-跑步中，保持蓝牙连接；"</string>
-  <string name="running_help_pace_freq">步频</string>
-  <string name="running_help_pace_freq_illustra">步频就是跑步时每分钟迈出的步数。</string>
-  <string name="running_help_pace_freq_label">什么是步频？</string>
-  <string name="running_help_pace_freq_suggest1">专注于提高步频</string>
-  <string name="running_help_pace_freq_suggest2">一般跑者为了提高速度会本能的增加步幅，但步幅的增加很容易造成肌肉损伤；有经验的跑者会选择增加步频来提高速度。</string>
-  <string name="running_help_pace_freq_suggest3">优秀的长跑运动员每分钟迈出180步，我们也建议以180的步频作为长跑练习的目标。</string>
-  <string name="running_help_pace_freq_suggest4">连接手环，检测步频</string>
-  <string name="running_help_pace_freq_suggest5">"跑步前，开启蓝牙，连接手环；
-跑步中，保持蓝牙连接；"</string>
-  <string name="running_help_pace_freq_target">目标步频</string>
-  <string name="running_help_pre_foot">前脚掌着地</string>
-  <string name="running_help_pre_mid_foot">前脚掌/中后掌着地</string>
-  <string name="running_help_pros_cons">二者的利弊</string>
-  <string name="running_help_slow_run">慢跑时，多数人自然状态是中后掌着地，只有小部分 人是前掌。随着跑步速度的提升，前掌着地比例会提 升。例如100米赛跑，基本都是前脚掌着地。。</string>
-  <string name="running_help_slow_run_suggest">慢跑时，多数人自然状态是中后掌着地，只有小部分 人是前掌。随着跑步速度的提升，前掌着地比例会提 升。例如100米赛跑，基本都是前脚掌着地。。二者各有利弊，中后掌着地时，脚跟受到落地冲击，对膝盖的冲击较大。而前掌着地对膝盖冲击较小，但是对跟腱和小腿肌肉素质要求较高。</string>
-  <string name="running_shoes_connected">已连接</string>
-  <string name="running_shoes_not_connect">跑鞋未连接</string>
-  <string name="running_shoes_not_connected">未连接</string>
-  <string name="running_tip_conn_shoes">跑鞋连接后，可显示步频</string>
-  <string name="running_tip_known">知道了</string>
-  <string name="running_tip_open_ble_content">手环连接后，可显示步频</string>
-  <string name="running_tip_open_ble_label">请开启蓝牙</string>
-  <string name="running_tip_use_bracelet_content">可检测实时步频</string>
-  <string name="running_tip_use_bracelet_label">使用手环后</string>
-  <string name="shoes_brand">李宁智能跑鞋</string>
-  <string name="shoes_not_binded">跑鞋未连接</string>
-  <string name="shoes_reminder">未连接跑鞋时，跑步无法记录前脚掌着地数据</string>
-  <string name="sleep_assist">睡眠辅助</string>
-  <string name="sleep_assist_info">入睡后每2分钟自动测量心率使睡眠监测更准确</string>
-  <string name="sleep_assist_tips">夜间周期性测量心率以提高睡眠检测精度（开启会降低续航时间）</string>
-  <string name="sleep_assist_title">心率辅助睡眠检测</string>
-  <string name="this_measure">本次测量结果</string>
-  <string name="unit_hr">次/分</string>
+
+
+  <string name="bracelet_disconnect_tips">MiBand odpojený</string>
+  <string name="bracelet_disconnected">MiBand nie je pripojený</string>
+  <string name="cannot_heartrate">MiBand so senzorom tepu nie je pripojený</string>
+  <string name="close_hr_check">Režim snímania tepu bol deaktivovaný</string>
+  <string name="devices_miband_hr_label">Snímač tepu</string>
+  <string name="hr_battery_low">Ostáva menej ako 10% batérie v MiBand</string>
+  <string name="hr_dialog_ble">Neodpájajte MiBand od vášho zariadenia</string>
+  <string name="hr_dialog_go">Spustiť</string>
+  <string name="hr_dialog_pace">Pripojte MiBand pre zobrazenie tepu</string>
+  <string name="hr_dialog_title">Sledujte zmenu tepu vášho srdca počas merania</string>
+  <string name="hr_dialog_wear">Utiahnite MiBand na ruke čo najviac pre presnejšie meranie</string>
+  <string name="hr_empty_data">--</string>
+  <string name="hr_item_date">dd.MM. HH:mm</string>
+  <string name="hr_not_wear_bracelet">Dajte si MiBand na ruku</string>
+  <string name="hr_tips1">"Zapnite Bluetooth a pripojte topánky pred behom.
+Počas behu nevypínajte Bluetooth."</string>
+  <string name="hr_tips10">Anaerobické cvičenie spaľuje viac cukru.</string>
+  <string name="hr_tips11">Ak bežíte pomalšie, vaše telo sa udržiava v aerobickom režime a spotrebuje viac tuku. Udržiavajte tep vášho srdca čo najnižie.</string>
+  <string name="hr_tips12">Aerobické cvičenie spotrebuje viac tuku.</string>
+  <string name="hr_tips2">Pripojte MiBand so senzorom tepu.</string>
+  <string name="hr_tips3">"Odporúča sa udržiavať tep srdca pod maximálnou úrovňou aerobického behu. Average Huami user is 25 years old, works a lot, and lacks physical activity. Maximum aerobic heart rate in this case would be 180-25-5=150 BPM. Thus, it's better to keep it at 140-150 BPM when running."</string>
+  <string name="hr_tips4">Breathe deeply to avoid possible damage and lose calories effectively.</string>
+  <string name="hr_tips5">"1. Basic heart rate = 180-Age (BPM).
+2. Adjust basic heart rate according to your current situation.
+a) If you've had major diseases lately, subtract 10.
+b) If you've had injuries, didn't feel well or lacked physical activity, subtract 5.
+c) If you've had 4 workout sessions per week for the last 2 years, add 5.
+Note: These instructions are valid for people between 16 and 65 years old."</string>
+  <string name="hr_tips6">Calculate maximum aerobic heart rate</string>
+  <string name="hr_tips7">Maximum aerobic heart rate varies for different people. Keep your actual heart rate slightly below maximum level to increase the effect of the workout and lose more calories.If your heart rate will be above maximum, your body will switch to anaerobic mode, thus consuming more sugar than fat.</string>
+  <string name="hr_tips8">Maximum aerobic heart rate</string>
+  <string name="hr_tips9">If you run faster, your body will switch to anaerobic mode, which requires consuming more sugar rather than fat.</string>
+  <string name="hr_unit_label">Heart rate (BPM)</string>
+  <string name="heartrate">Heart rate</string>
+  <string name="label_countdown">Preparing to measure…</string>
+  <string name="measure">Measure heart rate</string>
+  <string name="measure_fail">"Couldn't measure"</string>
+  <string name="measure_reminder">"Keep your wrist at your chest level
+and the sensor close to your skin"</string>
+  <string name="measure_tips">Keep band sensor close to your skin</string>
+  <string name="measuring">Measuring…</string>
+  <string name="no_measure_data">No results</string>
+  <string name="no_measure_tips">"Don't show again"</string>
+  <string name="open_bluetooth_tips">Keep Bluetooth on</string>
+  <string name="pre_hr_value">Previous result</string>
+  <string name="pre_measure">Previous result</string>
+  <string name="running_auto_pause">Paused</string>
+  <string name="running_auto_pause_desc">Pause automatically when session is interrupted</string>
+  <string name="running_average_speed">Average speed</string>
+  <string name="running_backgroud_notification">Running… Keep going!</string>
+  <string name="running_bracelet_not_connect">Band not connected</string>
+  <string name="running_btn_confirm">OK</string>
+  <string name="running_btn_continue">Back</string>
+    <string name="running_help_foot_people">Who can try landing on their forefeet when running?</string>
+  <string name="running_help_foot_suggest1">Stick to your own running habits</string>
+  <string name="running_help_foot_suggest2">"We don't recommend changing your running habits. If you choose to land on your midfeet and heels, wear shoes with better cushioning to reduce the impact of landing."</string>
+  <string name="running_help_foot_suggest3">When your knees require more protection, you can try landing on your forefeet more following the routine below.</string>
+  <string name="running_help_foot_suggest4">Try running like this</string>
+  <string name="running_help_foot_suggest5">Strike the ground right below you, keep your knees slightly bent, lean your body forward.</string>
+  <string name="running_help_foot_suggest6">Run as if you were rotating a hot wheel with your feet.</string>
+  <string name="running_help_foot_suggest7">Make smaller steps when you increase running speed.</string>
+  <string name="running_help_foot_suggest8">Connect running shoes and make sure you land on your forefeet.</string>
+  <string name="running_help_foot_suggest9">"Turn on Bluetooth and connect shoes before running.
+Keep Bluetooth on when running."</string>
+  <string name="running_help_pace_freq">Pace</string>
+  <string name="running_help_pace_freq_illustra">Pace is the number of steps you make per minute when running.</string>
+  <string name="running_help_pace_freq_label">"What's pace?"</string>
+  <string name="running_help_pace_freq_suggest1">Gaining speed</string>
+  <string name="running_help_pace_freq_suggest2">Runners usually increase their stride to gain speed. However, using this method can result in muscle damage. You can try to increase your pace to gain speed.</string>
+  <string name="running_help_pace_freq_suggest3">Long-distance runners usually make 180 steps per minute. We recommend using this value as your pace goal.</string>
+  <string name="running_help_pace_freq_suggest4">Connect Mi Band, make sure your pace is detected.</string>
+  <string name="running_help_pace_freq_suggest5">"Turn on Bluetooth and connect Mi Band before running.
+Keep Bluetooth on when running."</string>
+  <string name="running_help_pace_freq_target">Pace goal</string>
+  <string name="running_help_pre_foot">Landing on forefeet</string>
+  <string name="running_help_pre_mid_foot">Landing on forefeet/midfeet</string>
+  <string name="running_help_pros_cons">Pros and cons</string>
+  <string name="running_help_slow_run">When running slowly, most people would naturally land on their midfeet or heels. When the running speed increases, more people would strike the ground with their forefeet. For example, most sprinters choose to land on their forefeet when running.</string>
+  <string name="running_help_slow_run_suggest">Landing on your midfeet or heels strongly affects your knees. Striking the ground with your forefeet requires stronger calf muscles and Achilles tendons</string>
+  <string name="running_helper">Assistant</string>
+<string name="running_hr">Heart rate</string>
+  <string name="running_hr_check">Measure heart rate</string>
+  <string name="running_hr_disabled_tips">Turn on heart rate sensor in Settings</string>
+  <string name="running_hr_unit_desc">Heart rate (BPM)</string>
+  <string name="running_kg">Cal</string>
+  <string name="running_tip_hr_ble_content">Connect Mi Band to view heart rate</string>
+  <string name="running_tip_hr_bracelet_content">Heart rate data available</string>
+  <string name="running_tip_hr_bracelet_label">Use Mi Band Pulse</string>
+  <string name="running_tip_known">Got it</string>
+<string name="sleep_assist">Sleep assistant</string>
+  <string name="sleep_assist_info">Measure heart rate every 2 min after you fall asleep to make sleep data more accurate.</string>
+  <string name="sleep_assist_tips">Measure heart rate periodically after you fall asleep to make sleep data more accurate (may consume battery faster).</string>
+  <string name="sleep_assist_title">Sleep assistant</string>
+  <string name="this_measure">Current result</string>
+    <string name="unit_hr">BPM</string>
 </resources>
