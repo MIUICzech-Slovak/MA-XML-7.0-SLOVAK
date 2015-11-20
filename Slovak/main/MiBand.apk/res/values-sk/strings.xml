@@ -842,12 +842,6 @@ Pokračujte!"</string>
   <string name="runed">Zabehnuté</string>
   <string name="runner_unlogin_notice">Vaše dáta sa nesynchronizujú s MiCloud. Chcete sa prihlásiť?</string>
   <string name="running_altitude">Nadmorská výška</string>
-  <string name="running_auto_pause">Automaticky zastaviť</string>
-  <string name="running_auto_pause_desc">Automaticky zastaviť záznam trasy počas prestávky behu</string>
-  <string name="running_average_speed">Priemerne</string>
-  <string name="running_backgroud_notification">Behanie...</string>
-  <string name="running_btn_confirm">Áno</string>
-  <string name="running_btn_continue">Nie</string>
   <string name="running_btn_delete">Vymazať</string>
   <string name="running_btn_history">História</string>
   <string name="running_btn_save">Uložiť</string>
@@ -894,7 +888,6 @@ Pokračujte!"</string>
   <string name="running_gps_main_statistics_speed_disc_br">Rýchlosť (min/mile)</string>
   <string name="running_gps_poor_signal">Slabý signál GPS.</string>
   <string name="running_gps_turnon">Zapnúť</string>
-  <string name="running_helper">Sledovanie trasy</string>
   <string name="running_history">História</string>
   <string name="running_history_child_date_format">%1$d</string>
   <string name="running_history_date" formatted="false">%d/%d/%d</string>
@@ -915,7 +908,6 @@ Pokračujte!"</string>
   <string name="running_hour_min" formatted="false">%dh %dm</string>
   <string name="running_hour_min_sec" formatted="false">%dh %dm %ds</string>
   <string name="running_hour_sec" formatted="false">%dh %ds</string>
-  <string name="running_kg">kg</string>
   <string name="running_kilometer">km</string>
   <string name="running_kilometers">km</string>
   <string name="running_kilometers_per_hour">km/h</string>
