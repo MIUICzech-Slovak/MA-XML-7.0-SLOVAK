@@ -11,6 +11,12 @@
   <string name="button_start_now">Stiahnuť</string>
   <string name="call_record">Nahrávka hovoru (%d)</string>
   <string name="cloud_record">Nahrávka v Cloude (%d)</string>
+  <string name="cloud_record_open">Synchr. nahrávky</string>
+  <string name="cloud_record_tip">Syncchr. nahrávky s MiCloud.</string>
+  <string name="cloud_status_full_dialog_cancel">Neskôr</string>
+  <string name="cloud_status_full_dialog_msg">Vaše cloudové úložisko je plné.</string>
+  <string name="cloud_status_full_dialog_ok">Zakúpiť</string>
+  <string name="cloud_status_full_dialog_title">MiCloud úložisko je plné</string>
   <string name="data_connection_body">"Tip:
 Pri použití mobilných dát sa budú účtovať poplatky od operátora."</string>
   <string name="data_connection_button_text">OK</string>
@@ -63,6 +69,7 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
   <string name="record_back_pressed_hint">Dotknite sa znova pre ukončenie nahrávania</string>
   <string name="record_download">Stiahnuť z MiCloud</string>
   <string name="record_download_activity">Sťahovanie nahrávok</string>
+  <string name="record_download_complete">Stiahnuté</string>
   <string name="record_download_failed">Zlyhalo</string>
   <string name="record_download_manager">Správca sťahovania</string>
   <string name="record_download_msg">Prehrávky je možné prehrať až po ich stiahnutí.</string>
@@ -115,11 +122,4 @@ Pri použití mobilných dát sa budú účtovať poplatky od operátora."</stri
  Dotknite sa %s pre spustenie sťahovania po pripojení na Wi-Fi sieť."</string>
   <string name="wifi_recommended_title">Upozornenie na spotrebu dát</string>
   <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="cloud_record_open">Synchr. nahrávky</string>
-  <string name="cloud_record_tip">Syncchr. nahrávky s MiCloud.</string>
-  <string name="cloud_status_full_dialog_cancel">Neskôr</string>
-  <string name="cloud_status_full_dialog_msg">Vaše cloudové úložisko je plné.</string>
-  <string name="cloud_status_full_dialog_ok">Zakúpiť</string>
-  <string name="cloud_status_full_dialog_title">MiCloud úložisko je plné</string>
-  <string name="record_download_complete">Stiahnuté</string>
 </resources>

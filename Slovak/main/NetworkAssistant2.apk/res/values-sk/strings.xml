@@ -110,6 +110,8 @@ For more info check the message you received from your service provider"</string
   <string name="firewall_network_restrict_notify_message">Zmeniť nastavenia</string>
   <string name="firewall_network_restrict_notify_mobile">Mobilné dáta</string>
   <string name="firewall_network_restrict_notify_title">%1$s nemá povolené pripojenie k %2$s.</string>
+  <string name="firewall_restrict_android_dialog_content">Ak zakážete Androidu prístup k internetu, niektoré funkcie ako napr Wi-Fi hotspot nebudu fungovať správne.</string>
+  <string name="firewall_restrict_android_dialog_title">Upozornenie</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Medzinárodný roaming</string>
   <string name="firewall_rule_group_title_wifi">Wi-Fi</string>
@@ -136,6 +138,7 @@ For more info check the message you received from your service provider"</string
   <string name="international_roaming_setting">Medzinárodný roaming</string>
   <string name="international_roaming_whitelist_count">%d aplikácií má prístup k dátovému pripojeniu počas medzinárodného roamingu</string>
   <string name="ip_address_exception_summary">Nepodarilo sa získať IP adresu. Ak sa táto chyba opakuje, skúste nastaviť statickú IP adresu.</string>
+  <string name="kilobyte_per_second">KB/s</string>
   <string name="left_precent">60%</string>
   <string name="list_empty_text">Prázdne</string>
   <string name="load_fail">Nie je možné načítať</string>
@@ -194,6 +197,7 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="main_traffic_used_text">Využité</string>
   <string name="manual_input_free_traffic">Zadajte limit mobilných dát</string>
   <string name="manual_input_traffic">Zadajte využité dáta</string>
+  <string name="megabyte_per_second">MB/s</string>
   <string name="mi_service_app_detail">Podrobnosti o spotrebe dát</string>
   <string name="mi_service_framework">Mi Service Framework</string>
   <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
@@ -274,6 +278,10 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="operator_setted_error_notify_title">Chyba SIM karty</string>
   <string name="other_exception_summary">Nemáte internetové pripojenie</string>
   <string name="other_exception_title">Kontrola ostatných chýb</string>
+  <string name="package_change_notification_summary">Zistiť viac.</string>
+  <string name="package_change_notification_title">Nastaviť limit dát automaticky</string>
+  <string name="package_setted_error_notification_summary">Zobraziť podrobnosti o využití dát.</string>
+  <string name="package_setted_error_notification_titile">Nebolo možné nastaviť limit dát</string>
   <string name="pay_charge">Top-up</string>
   <string name="per_month_pkg_traffic_settings">Nastaviť limit mobilných dát</string>
   <string name="permission_exception_summary">Niektoré aplikácie nemajú povolenie na pripojenie k internetu</string>
@@ -500,6 +508,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_button_start">Aktivovať</string>
   <string name="traffic_saving_button_stop">Deaktivovať</string>
   <string name="traffic_saving_can_optimized">Optimalizovať</string>
+  <string name="traffic_saving_detail">Podrobnosti</string>
   <string name="traffic_saving_history_title">História úspory dát</string>
   <string name="traffic_saving_history_total_money">Usporená suma</string>
   <string name="traffic_saving_history_total_money_unit">¥</string>
@@ -510,11 +519,14 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_history_total_rate">Úspora</string>
   <string name="traffic_saving_history_total_rate_unit">%</string>
   <string name="traffic_saving_history_total_traffic">Usporené dáta</string>
+  <string name="traffic_saving_mobile_usage">Využitie dát</string>
   <string name="traffic_saving_msg_month">Mesačná úspora</string>
   <string name="traffic_saving_msg_not_started">Vypnuté</string>
   <string name="traffic_saving_msg_today">Dnes</string>
   <string name="traffic_saving_need_optimize">Môže byť optimalizované</string>
   <string name="traffic_saving_notification_button_start">Aktivovať</string>
+  <string name="traffic_saving_notify_no_apps_saving">Žiadne apl. nevyužívajú úsporu dát</string>
+  <string name="traffic_saving_notify_no_apps_saving_content">Aktivujte úsporu mobilných dát.</string>
   <string name="traffic_saving_notify_start_content">Úspora za tento mesiac %s</string>
   <string name="traffic_saving_notify_start_title">Úspora dát</string>
   <string name="traffic_saving_one_key_optimize">Optimalizovať pre úsporu dát</string>
@@ -527,6 +539,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_start_tip_context">"&lt;big&gt;&lt;font color='#7F000000'&gt;Automaticky aktivovať úsporu mobilných dát.&lt;/font&gt;&lt;/big&gt;&lt;br /&gt;&lt;br /&gt;&lt;font color='#FF000000'&gt;ak máte mesačný objem predplatených mobilných dát, deaktivujte úsporu mobilných dát pre jednotlivé aplikácie pre zníženie objemu prenesených dát.&lt;/font&gt;"</string>
   <string name="traffic_saving_start_tip_title">Aktivovať</string>
   <string name="traffic_saving_tecsupport">Poskytuje Opera Max</string>
+  <string name="traffic_saving_tecsupport_international">Poskytuje Opera Max</string>
   <string name="traffic_saving_title">Úspora dát</string>
   <string name="traffic_saving_toast_start_mobile">Aktivovaná úspora dát</string>
   <string name="traffic_saving_toast_start_none_mobile">Úspora dát sa spustí pri využívaní mobilných dát</string>
@@ -539,6 +552,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_whitelist_btn_removed">Aplikácia odobraná</string>
   <string name="traffic_saving_whitelist_count">Aplikácie bez aktívnej kompresie dát: %d</string>
   <string name="traffic_saving_whitelist_no_app">Žiadne aplikácie</string>
+  <string name="traffic_saving_wifi_usage">Využitie Wi-Fi</string>
   <string name="traffic_setting_app_count">%d apl</string>
   <string name="traffic_setting_completed">OK</string>
   <string name="traffic_setting_daily_limit_summary">Nastaviť limit spotreby dát</string>
@@ -576,18 +590,4 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="wifi_exception_summary">Skontrolovať dostupné pripojenie Wi-Fi siete</string>
   <string name="wifi_exception_title">Kontrola Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
-  <string name="package_change_notification_summary">Zistiť viac.</string>
-  <string name="package_change_notification_title">Nastaviť limit dát automaticky</string>
-  <string name="package_setted_error_notification_summary">Zobraziť podrobnosti o využití dát.</string>
-  <string name="package_setted_error_notification_titile">Nebolo možné nastaviť limit dát</string>
-  <string name="traffic_saving_notify_no_apps_saving">Žiadne apl. nevyužívajú úsporu dát</string>
-  <string name="traffic_saving_notify_no_apps_saving_content">Aktivujte úsporu mobilných dát.</string>
-  <string name="traffic_saving_detail">Podrobnosti</string>
-  <string name="traffic_saving_mobile_usage">Využitie dát</string>
-  <string name="traffic_saving_tecsupport_international">Poskytuje Opera Max</string>
-  <string name="traffic_saving_wifi_usage">Využitie Wi-Fi</string>
-  <string name="firewall_restrict_android_dialog_content">Ak zakážete Androidu prístup k internetu, niektoré funkcie ako napr Wi-Fi hotspot nebudu fungovať správne.</string>
-  <string name="firewall_restrict_android_dialog_title">Upozornenie</string>
-  <string name="kilobyte_per_second">KB/s</string>
-  <string name="megabyte_per_second">MB/s</string>
 </resources>

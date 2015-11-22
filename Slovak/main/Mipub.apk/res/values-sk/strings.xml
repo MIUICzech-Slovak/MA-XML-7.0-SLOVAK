@@ -85,6 +85,7 @@
   <string name="hms_uri_param_err">URL nesmie byť prázdna</string>
   <string name="invalid_conversation">Chybná konverzácia</string>
   <string name="left_cancel">Potiahnite doľava pre zrušenie</string>
+  <string name="low_memory">low_memory!</string>
   <string name="menu_add_black">Blokovať</string>
   <string name="menu_add_contact">Kontakt</string>
   <string name="menu_call">Hovor</string>
@@ -97,6 +98,9 @@
   <string name="menu_new_contact">Nový kontakt</string>
   <string name="menu_unlock">Odomknúť</string>
   <string name="menu_yellowpage">Zobraziť %s</string>
+  <string name="message_block_confirmation">Skutočne nechcete prijímať SMS správy?</string>
+  <string name="message_block_processing">Spracovávanie</string>
+  <string name="message_block_reminder">Pripomienka</string>
   <string name="message_failed">Neúspešné</string>
   <string name="message_pending">Odosielanie</string>
   <string name="message_readed">Prečítané</string>
@@ -187,6 +191,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="restore_blocked_message">Obnoviť správy</string>
   <string name="retrive_hms_tips">Načítavanie...</string>
   <string name="save">Uložiť</string>
+  <string name="scan_result">výsledok</string>
   <string name="search_empty">Žiadne výsledky</string>
   <string name="search_hint">Hľadať v správach</string>
   <string name="search_label">Správy</string>
@@ -235,9 +240,4 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="low_memory">low_memory!</string>
-  <string name="scan_result">výsledok</string>
-  <string name="message_block_confirmation">Skutočne nechcete prijímať SMS správy?</string>
-  <string name="message_block_processing">Spracovávanie</string>
-  <string name="message_block_reminder">Pripomienka</string>
 </resources>

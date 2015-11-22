@@ -150,6 +150,8 @@
   <string name="huangli_bad_type"/>
   <string name="huangli_good_type"/>
   <string name="huangli_label">Huang Li</string>
+  <string name="internet_connection_notification">Upozornenie na internetové pripojenie</string>
+  <string name="internet_connection_notification_descrip">Zobraziť upozornenie na internetové pripojenie vždy pri spustení Kalendára</string>
   <string name="jump_date">Skoč</string>
   <string name="jump_date_full">Skoč na dátum</string>
   <string name="label_recent_events">Nedávne udalosti</string>
@@ -193,9 +195,13 @@
   <string name="no_syncable_calendars">Žiadne kalendáre</string>
   <string name="no_title_label">(bez názvu)</string>
   <string name="not_synced">nie je synchronizovaný</string>
+  <string name="notice_button_exit">Ukončiť</string>
   <string name="notice_button_ok">Súhlasím</string>
+  <string name="notice_declaration_ignore">Viac sa nepýtať</string>
+  <string name="notice_title_agreement">Internetové pripojenie</string>
   <string name="notice_title_request">Upozornenie</string>
   <string name="online_calendar_activity_label">Prihlásiť</string>
+  <string name="online_notice_message">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Niektoré funkcie vyžadujú internetové pripojenie.</string>
   <string name="pengzu"/>
   <string name="prefDialogTitle_vibrateWhen">Vibrácie</string>
   <string name="pref_error_no_ringtone_select">Žiadne</string>
@@ -352,10 +358,4 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="internet_connection_notification">Upozornenie na internetové pripojenie</string>
-  <string name="internet_connection_notification_descrip">Zobraziť upozornenie na internetové pripojenie vždy pri spustení Kalendára</string>
-  <string name="notice_button_exit">Ukončiť</string>
-  <string name="notice_declaration_ignore">Viac sa nepýtať</string>
-  <string name="notice_title_agreement">Internetové pripojenie</string>
-  <string name="online_notice_message">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Niektoré funkcie vyžadujú internetové pripojenie.</string>
 </resources>

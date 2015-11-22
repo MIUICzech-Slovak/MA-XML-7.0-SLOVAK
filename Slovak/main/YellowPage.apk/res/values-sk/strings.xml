@@ -30,6 +30,7 @@
   <string name="correction">Upraviť</string>
   <string name="custom_mark_category">Vlastná</string>
   <string name="data_error">Prepáčte, služba je momentálne nedostupná. Skúste to opäť neskôr.</string>
+  <string name="data_error_show">Nastala chyba</string>
   <string name="delete">Vymazať</string>
   <string name="do_not_remind_me">Viac sa nepýtať</string>
   <string name="dont_enable">Zakázať</string>
@@ -200,5 +201,4 @@ Majte na pamäti, že žiadna banka alebo iné spoločnosti sa Vás nesmú pýta
   <string name="yellow_page_call_log_title">Zoznam hovorov</string>
   <string name="yellow_page_detail_title">Čo je to</string>
   <string name="yellow_page_website">Oficiálna stránka</string>
-  <string name="data_error_show">Nastala chyba</string>
 </resources>

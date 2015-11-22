@@ -14,6 +14,7 @@
   <string name="action_item_favorite">Obľúbené</string>
   <string name="action_item_follow">Sledovať</string>
   <string name="action_item_hide">Skryť</string>
+  <string name="action_item_hifi">Slúchadlá a efekty</string>
   <string name="action_item_multiple">Upraviť</string>
   <string name="action_item_play_all">Prehrať všetko</string>
   <string name="action_item_remove">Odstrániť</string>
@@ -29,6 +30,7 @@
   <string name="all_tracks_short">Všetko</string>
   <string name="allow_to_use_traffic_summary">Môže navýšiť vaše poplatky</string>
   <string name="allow_to_use_traffic_title">Povoliť sťahovanie skladieb cez mobilné dáta</string>
+  <string name="already_download">Sťahovanie...</string>
   <string name="artist">Interpréti</string>
   <string name="artist_is_empty">Meno interpréta nemôže byť prázdne.</string>
   <string name="artist_name">Umelec</string>
@@ -45,6 +47,7 @@
   <string name="available_playlist_name_format">Nový playlist %d</string>
   <string name="avoid_to_use_traffic_summary">Upozorniť na spotrebu dát</string>
   <string name="avoid_to_use_traffic_title">Použiť len Wi-Fi pre stream</string>
+  <string name="back_confirm">Stlačte znova pre ukončenie</string>
   <string name="baidu_music">Baidu Music</string>
   <string name="bill_list_fragment_title">Hitparády</string>
   <string name="bluetooth_device">Bluetooth zariadenie</string>
@@ -114,11 +117,14 @@
   <string name="download_auto_when_all_network">Sťahovať skladby cez mobilné dáta a Wi-Fi</string>
   <string name="download_auto_when_free_network">Sťahovať skladby len cez Wi-Fi</string>
   <string name="download_auto_when_free_network_summary">Ďalšie nastavenia pre obľúbené skladby</string>
+  <string name="download_complete">Sťahovanie dokončené</string>
+  <string name="download_complete_start_install">Sťahovanie dokončené, začína inštalácia...</string>
   <string name="download_completed">Stiahnuté</string>
   <string name="download_method">Stiahnuť</string>
   <string name="download_processing">Sťahovanie...</string>
   <string name="download_quality">Kvalita sťahovania</string>
   <string name="download_quality_summary">Ďalšie nastavenia pre stiahnuté skladby</string>
+  <string name="download_start">Spúšťanie sťahovania...</string>
   <string name="download_while_playing_summary">"Automaticky stiahnuť skladby ktoré ste počúvali online"</string>
   <string name="download_while_playing_title">Počúvať počas sťahovania</string>
   <string name="empty_page_no_album">Žiadne albumy.</string>
@@ -359,6 +365,8 @@
   <string name="renew">Obnoviť:</string>
   <string name="renew_1">Obnoviť</string>
   <string name="renew_period">Obdobie na obnovenie:</string>
+  <string name="repeat_all_notif">Opakujú sa všetky skladby.</string>
+  <string name="repeat_current_notif">Opakuje sa aktuálna skladba.</string>
   <string name="retry">Znova</string>
   <string name="ringtone_not_support">Formát nie je podporovaný.</string>
   <string name="search_album">Vyhľadať Album Online</string>
@@ -398,6 +406,8 @@
   <string name="share_end_note">Z MiMusic</string>
   <string name="share_text_list">Našiel som skvelý zoznam skladieb v MiMusic:</string>
   <string name="share_text_song">Našiel som skvelú skladbu v MiMusic:</string>
+  <string name="shuffle_off_notif">Náhodné prehrávanie je vyp.</string>
+  <string name="shuffle_on_notif">Náhodné prehrávanie je zap.</string>
   <string name="similar_songs">Podobné skladby</string>
   <string name="sleep_mode">Časovač</string>
   <string name="sleep_mode_canceled">Režim spánku zrušený</string>
@@ -475,14 +485,4 @@
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
-  <string name="repeat_all_notif">Opakujú sa všetky skladby.</string>
-  <string name="repeat_current_notif">Opakuje sa aktuálna skladba.</string>
-  <string name="shuffle_off_notif">Náhodné prehrávanie je vyp.</string>
-  <string name="shuffle_on_notif">Náhodné prehrávanie je zap.</string>
-  <string name="already_download">Sťahovanie...</string>
-  <string name="download_complete">Sťahovanie dokončené</string>
-  <string name="download_complete_start_install">Sťahovanie dokončené, začína inštalácia...</string>
-  <string name="download_start">Spúšťanie sťahovania...</string>
-  <string name="action_item_hifi">Slúchadlá a efekty</string>
-  <string name="back_confirm">Stlačte znova pre ukončenie</string>
 </resources>

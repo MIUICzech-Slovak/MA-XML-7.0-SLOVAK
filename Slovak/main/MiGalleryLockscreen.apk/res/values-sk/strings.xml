@@ -1,25 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-    <string name="app_name">Galéria Tapiet</string>
-    <string name="cancel">Ukončiť</string>
-    <string name="declaration">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia. Táto služba vyžaduje pripojenie na internet."</string>
-    <string name="declaration_title">Podmienky používania</string>
-    <string name="lockscreen_magazine_subscribe">Užívateľov: %1$s</string>
-    <string name="lockscreen_magazine_summary">Získajte nové tapety každý deň na vašu zamykaciu obrazovku.</string>
-    <string name="lockscreen_magazine_system_subscribe">Tapety: %1$s</string>
-    <string name="lockscreen_magazine_system_title">Predvolené</string>
-    <string name="lockscreen_magazine_title">Denná tapeta zamykacej obrazovky</string>
-    <string name="no_long_show">Viac nezobrazovať</string>
-    <string name="ok">OK</string>
-    <string name="resource_apply">Použiť</string>
-    <string name="resource_no_network_text">Nie je možné sa pripojiť k sieti.</string>
-    <string name="theme_apply_failured">Nie je možné použiť tapetu zamykacej obrazovky</string>
-    <string name="theme_apply_success">Tapeta nastavená</string>
-    <string name="theme_applying">Nastavovanie...</string>
-	<string name="change_time">Zmeniť interval</string>
-    <string name="day">1 deň</string>
-    <string name="hour_1">1 hodina</string>
-    <string name="hour_3">3 hodiny</string>
-    <string name="setting_head">Nastavenia</string>
-    <string name="wlan_download">Iba cez Wi-Fi</string>
+  <string name="app_name">Galéria Tapiet</string>
+  <string name="cancel">Ukončiť</string>
+  <string name="change_time">Zmeniť interval</string>
+  <string name="day">1 deň</string>
+  <string name="declaration">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia. Táto služba vyžaduje pripojenie na internet."</string>
+  <string name="declaration_title">Podmienky používania</string>
+  <string name="hour_1">1 hodina</string>
+  <string name="hour_3">3 hodiny</string>
+  <string name="lockscreen_magazine_subscribe">Užívateľov: %1$s</string>
+  <string name="lockscreen_magazine_summary">Získajte nové tapety každý deň na vašu zamykaciu obrazovku.</string>
+  <string name="lockscreen_magazine_system_subscribe">Tapety: %1$s</string>
+  <string name="lockscreen_magazine_system_title">Predvolené</string>
+  <string name="lockscreen_magazine_title">Denná tapeta zamykacej obrazovky</string>
+  <string name="no_long_show">Viac nezobrazovať</string>
+  <string name="ok">OK</string>
+  <string name="resource_apply">Použiť</string>
+  <string name="resource_no_network_text">Nie je možné sa pripojiť k sieti.</string>
+  <string name="setting_head">Nastavenia</string>
+  <string name="theme_apply_failured">Nie je možné použiť tapetu zamykacej obrazovky</string>
+  <string name="theme_apply_success">Tapeta nastavená</string>
+  <string name="theme_applying">Nastavovanie...</string>
+  <string name="wlan_download">Iba cez Wi-Fi</string>
 </resources>

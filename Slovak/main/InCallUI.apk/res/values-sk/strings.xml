@@ -92,12 +92,14 @@
   <string name="call_recording_notification_message_sd_unmounted">SD karta odobraná.</string>
   <string name="call_recording_notification_title">Hovor je nahraný</string>
   <string name="call_recording_notification_title_error">Nebolo možné nahrať hovor</string>
+  <string name="call_self">Nie je možné volať na vlastné číslo</string>
   <string name="call_settings">Nastavenie hovoru</string>
   <string name="call_title_redialing_with_times">Opakované %d krát</string>
   <string name="call_title_redialing_with_times_miui">Volané %d krát</string>
   <string name="caller_manage_header">Konferenčný hovor %s</string>
   <string name="calling_via_template">Volanie prostredníctvom %s</string>
   <string name="cancel">Zrušiť</string>
+  <string name="cancel_call">Ukončiť</string>
   <string name="card_title_call_ended">"Hovor ukončený "</string>
   <string name="card_title_callback_number">"Vaše číslo na spätné volanie
  %1$s"</string>
@@ -195,6 +197,7 @@
   <string name="dial_emergency_empty_error">Hovor nebol prepojený, vytočte číslo núdzového volania!</string>
   <string name="dial_emergency_error">Hovor nemožno spojiť, %s nie je číslo núdzového volania.</string>
   <string name="dial_pad_autocomplete">Automatické dopĺňanie číselníka</string>
+  <string name="dial_with_gsm_phone">Bežný hovor</string>
   <string name="dialerKeyboardHintText">Číslo vytočíte pomocou klávesnice.</string>
   <string name="disable">Vypnuté</string>
   <string name="disable_cfb_forbidden">Váš operátor neumožňuje deaktiváciu presmerovania, ak je telefón obsadený.</string>
@@ -382,11 +385,15 @@
   <string name="name">Meno</string>
   <string name="national_disable">Národné správy zakázané</string>
   <string name="national_enable">Národné správy povolené</string>
+  <string name="network_error_message">Skúste uskutočniť bežný hovor. Bude spoplatnený vaším operátorom.</string>
+  <string name="network_error_title">Chyba siete</string>
   <string name="network_message">Správa sietí</string>
   <string name="network_query_error">Vyhľadávanie sietí neúspešné.</string>
   <string name="networks">Dostupné siete</string>
   <string name="newPin2Label">Nový PIN2</string>
   <string name="newPinLabel">Nový PIN</string>
+  <string name="no_balance_message">Not enough funds remaining in your top-up package. You can try to make a regular call instead.</string>
+  <string name="no_balance_title">Insufficient funds</string>
   <string name="no_change">Neboli vykonané žiadne zmeny.</string>
   <string name="no_internet_available">Ak chcete volať cez internet, skontrolujte najskôr internetové pripojenie.</string>
   <string name="no_internet_available_title">Internetové pripojenie nedostupné</string>
@@ -401,6 +408,8 @@
   <string name="non_ivr_menu_view_menu">Zobraziť menu</string>
   <string name="not_a_valid_port">Číslo portu by malo byť od 1000 do 65534</string>
   <string name="not_allowed">Vaša karta SIM neumožňuje pripojenie do siete.</string>
+  <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
+  <string name="not_support_title">Číslo nie je podporované</string>
   <string name="not_voice_capable">Hlasové hovory nie sú podporované</string>
   <string name="notification_action_accept">Prijať</string>
   <string name="notification_action_answer_video">Video</string>
@@ -546,6 +555,7 @@
   <string name="puk2_requested">Heslo neplatné, SIM je uzamknutá! Zadajte PUK2.</string>
   <string name="puk_requested">Neplatné heslo, SIM je uzamknutá! Zadajte PUK2.</string>
   <string name="puk_unlocked">Karta SIM bola odblokovaná</string>
+  <string name="purchase_now">Top up</string>
   <string name="radio_off_error">Pred zobrazením nastavení zapnite telefónny modul.</string>
   <string name="reading_settings">Načítavam nastavenia...</string>
   <string name="regional_disable">Regionálne správy zakázané</string>
@@ -716,14 +726,4 @@
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
   <string name="wild_prompt_str">Nahradiť zástupný znak znakom</string>
-  <string name="call_self">Nie je možné volať na vlastné číslo</string>
-  <string name="cancel_call">Ukončiť</string>
-  <string name="dial_with_gsm_phone">Bežný hovor</string>
-  <string name="network_error_message">Skúste uskutočniť bežný hovor. Bude spoplatnený vaším operátorom.</string>
-  <string name="network_error_title">Chyba siete</string>
-  <string name="no_balance_message">Not enough funds remaining in your top-up package. You can try to make a regular call instead.</string>
-  <string name="no_balance_title">Insufficient funds</string>
-  <string name="not_support_message">"Top-up package currently doesn't support such numbers. You can try to make a regular call instead."</string>
-  <string name="not_support_title">Číslo nie je podporované</string>
-  <string name="purchase_now">Top up</string>
 </resources>

@@ -28,11 +28,13 @@
   <string name="backup_delete">Vymazať:</string>
   <string name="backup_empty">Žiadna záloha nebola nájdená</string>
   <string name="backup_empty_info">" Zálohujte svoje dáta, nastavenia a aplikácie"</string>
+  <string name="backup_empty_info_onpad">" Zálohujte vaše dáta, nastavenia a aplikácie"</string>
   <string name="backup_error">Chyba zálohy</string>
   <string name="backup_failed">Zálohovanie zlyhalo!</string>
   <string name="backup_file_error">Nastal problém so zálohou, operácia nie je dokončená.</string>
   <string name="backup_finished">Záloha dokončená</string>
   <string name="backup_hint">Nevypínajte a nereštartujte telefón!</string>
+  <string name="backup_hint_onpad">Nevypínajte vaše zariadenie</string>
   <string name="backup_is_running">Zálohovanie zariadenia</string>
   <string name="backup_items_app_tailer">x dáta aplikácií</string>
   <string name="backup_items_sysdata_tailer">x systémové dáta\u0020</string>
@@ -54,6 +56,7 @@
   <string name="cancel">Zrušiť</string>
   <string name="cancel_backup">Zrušiť zálohovanie</string>
   <string name="cancel_restore">Zrušiť obnovu</string>
+  <string name="click_to_view">Zobraziť</string>
   <string name="cloud_app_name">Záloha do MiCloud</string>
   <string name="cloud_backup_hint">Prihláste sa do bezpečnej zóny a obnovte zálohu</string>
   <string name="cloud_backup_login">Prihláste sa pomocou účtu Xiaomi</string>
@@ -70,6 +73,7 @@
   <string name="compute_delete_contact_info">Kontrola...</string>
   <string name="contact_title">Kontakty</string>
   <string name="current_account">Súčasný účet: %s</string>
+  <string name="current_pad_location">Tablet</string>
   <string name="current_phone_location">Telefón</string>
   <string name="current_sim">Súčasná SIM</string>
   <string name="custom_progress">%d položiek</string>
@@ -94,7 +98,10 @@
   <string name="enable_encrypt_xiaomi_account">Táto záloha bola šifrovaná %1$s, vymažte súčasný účet a prihláste sa na %2$s pre obnovenie Vašich dát.</string>
   <string name="err_authentication_failed">Chyba autorizácie</string>
   <string name="err_bakfile_broken">Nie je možné obnoviť túto zálohu.</string>
+  <string name="err_filesystem_mount">Nebolo možné získať prístup k úložisku routra</string>
   <string name="err_low_storage">Nie je dostatok miesta</string>
+  <string name="err_router_disconnected">Skontrolujte pripojenie routra a skúste to znova.</string>
+  <string name="err_router_files_delete">Nebolo možné vymazať súbory na routri</string>
   <string name="err_unknown">Neznáma chyba</string>
   <string name="err_version_too_old">Zálohovaný súbor je príliš starý.</string>
   <string name="err_version_unsupported">Verzia zálohy nie je podporovaná.</string>
@@ -105,6 +112,7 @@
   <string name="feature_title_call_log">História hovorov</string>
   <string name="feature_title_mms">MMS</string>
   <string name="file_uploading">Odosielanie...</string>
+  <string name="files_backup_info">Všetky súbory na SD karte (vrátane fotografií, hudby, videí, dát apl., atď.)</string>
   <string name="findlost_contact">Obnoviť vymazané kontakty</string>
   <string name="findlost_contact_online">Obnoviť vymazané kontakty z cloudu</string>
   <string name="guarded_mode_dialog_message">V režime Návštevník nie je možné vytvárať alebo obnovovať zálohy</string>
@@ -118,6 +126,7 @@
   <string name="local_no_backup">Žiadna lokálna záloha</string>
   <string name="local_restore_window_title">Obnova z SD karty</string>
   <string name="local_select_account_contact">Účty a kontakty</string>
+  <string name="local_select_files">SD karta</string>
   <string name="local_select_sysdata">Systém</string>
   <string name="local_select_userapp">Aplikácie</string>
   <string name="menu_patch_delete">Vymazať zálohy</string>
@@ -145,6 +154,7 @@
   <string name="prompt_writing">Ukladanie...</string>
   <string name="read_encrypt_fail">Čítanie šifrovania zlyhalo</string>
   <string name="refresh">Obnoviť</string>
+  <string name="remote_receive">Prijať</string>
   <string name="restore">Obnovenie</string>
   <string name="restore_backup">Obnoviť</string>
   <string name="restore_contact">Obnoviť kontakty</string>
@@ -185,6 +195,7 @@
   <string name="software_backup_info">Zálohovať aplikácie a ich dáta</string>
   <string name="start_backup">Spustiť zálohu</string>
   <string name="start_restore">Obnoviť</string>
+  <string name="state_mounting">Prístup na úložisko routra...</string>
   <string name="state_waiting">Čaká na zálohovanie...</string>
   <string name="succeed">Dokončené</string>
   <string name="summary_err_backup_encrypting">Prihláste sa do vášho Xiaomi účtu.</string>
@@ -221,21 +232,6 @@
   <string name="task_service_not_launched">Zálohovanie nie je spustené, čakajte prosím!</string>
   <string name="task_stopped_exception">Operácia bola zastavená</string>
   <string name="total_num">Celkovo: %d,</string>
-  <string name="unit_byte">B</string>
-  <string name="unit_piece">\u0020Položiek</string>
-  <string name="unknown_hint">Neznámy</string>
-  <string name="wifi_title">Wi-Fi nastavenia</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
-  <string name="xiaomi_router">MiRouter</string>
-  <string name="xiaomi_router_location">MiRouter %s</string>
-  <string name="err_filesystem_mount">Nebolo možné získať prístup k úložisku routra</string>
-  <string name="err_router_disconnected">Skontrolujte pripojenie routra a skúste to znova.</string>
-  <string name="err_router_files_delete">Nebolo možné vymazať súbory na routri</string>
-  <string name="state_mounting">Prístup na úložisko routra...</string>
-  <string name="click_to_view">Zobraziť</string>
-  <string name="files_backup_info">Všetky súbory na SD karte (vrátane fotografií, hudby, videí, dát apl., atď.)</string>
-  <string name="local_select_files">SD karta</string>
-  <string name="remote_receive">Prijať</string>
   <string name="trans_backingup">Zálohovanie...</string>
   <string name="trans_backingup_no_items">Synchr....</string>
   <string name="trans_cancel_confirm">Prebieha prenos, chcete ho zrušiť?</string>
@@ -273,8 +269,12 @@
   <string name="trans_time_remained">, pripravený o</string>
   <string name="trans_waiting_ensurance">"Uistite sa, že staré zariadenie je zapnuté.
 a Prenos je povolený"</string>
-  <string name="trans_waiting_for_sender">Čakanie na pripojenie starého zariadenia...</string>  
-  <string name="backup_empty_info_onpad">" Zálohujte vaše dáta, nastavenia a aplikácie"</string>
-  <string name="backup_hint_onpad">Nevypínajte vaše zariadenie</string>
-  <string name="current_pad_location">Tablet</string>
+  <string name="trans_waiting_for_sender">Čakanie na pripojenie starého zariadenia...</string>
+  <string name="unit_byte">B</string>
+  <string name="unit_piece">\u0020Položiek</string>
+  <string name="unknown_hint">Neznámy</string>
+  <string name="wifi_title">Wi-Fi nastavenia</string>
+  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="xiaomi_router">MiRouter</string>
+  <string name="xiaomi_router_location">MiRouter %s</string>
 </resources>

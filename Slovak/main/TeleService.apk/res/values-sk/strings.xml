@@ -398,6 +398,7 @@
   <string name="entertainment_news_settings">Správy z kultúry</string>
   <string name="eo_disable">Pracovné príležitosti zakázané</string>
   <string name="eo_enable">Pracovné príležitosti povolené</string>
+  <string name="error_type_account_inner">Chyba</string>
   <string name="error_updating_title">Chyba nastavenia hovorov</string>
   <string name="exception_error">Chyba siete alebo karty SIM.</string>
   <string name="exportAllcontatsFailed">Export všetkých kontaktov na SIM zlyhal !!!</string>
@@ -420,6 +421,7 @@
   <string name="fdn_enable_puk2_requested">Heslo je nesprávne. Zmeňte kód PIN2 a skúste to znova.</string>
   <string name="fdn_enabled">Fixné telefónne čísla sú zapnuté</string>
   <string name="fdn_failed">Operácia FDN zlyhala.</string>
+  <string name="fdn_full">FDN neboli aktualizované, pretože zoznam je plný.</string>
   <string name="fdn_invalid_number">Povolené telefónne číslo bolo aktualizované: Číslo nemôže byť dlhšie ako 20 číslic.</string>
   <string name="fdn_service_unavailable">FDN služba nie je dostupná.</string>
   <string name="fdn_summary">Obmedziť odchádzajúce hovory len na čísla v tomto zozname</string>
@@ -529,6 +531,7 @@
   <string name="list_language_dtitle">Jazyky</string>
   <string name="list_language_summary">Vyberte jazyk správ</string>
   <string name="list_language_title">Jazyk</string>
+  <string name="livetalk_provider">Poskytuje %1$s</string>
   <string name="load_networks_progress">Vyhľadávam...</string>
   <string name="local_disable">Miestne správy zakázané</string>
   <string name="local_enable">Miestne správy povolené</string>
@@ -670,8 +673,12 @@
   <string name="no_wifi_available">Pre volanie cez internet musíte byť pripojený pomocou Wi-Fi</string>
   <string name="no_wifi_available_title">Wi-Fi pripojenie nedostupné</string>
   <string name="not_a_valid_port">Číslo portu by malo byť od 1000 do 65534</string>
+  <string name="not_activate_sim_card_content_title">Telefón nebol aktivovaný</string>
+  <string name="not_activate_sim_card_content_with_operator">"Refueling Package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
   <string name="not_allowed">Vaša karta SIM neumožňuje pripojenie do siete.</string>
   <string name="not_change_default_data">Nemeniť</string>
+  <string name="not_sufficient_funds_content_title">Not Enough Funds</string>
+  <string name="not_supported_number_content_title">Nepodporované</string>
   <string name="not_voice_capable">Hlasový hovor nepodporovaný</string>
   <string name="notification_action_end_call">Ukončiť</string>
   <string name="notification_dialing">Vytáčanie</string>
@@ -1165,11 +1172,4 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="not_supported_number_content_title">Nepodporované</string>
-  <string name="not_sufficient_funds_content_title">Not Enough Funds</string>
-  <string name="not_activate_sim_card_content_title">Telefón nebol aktivovaný</string>
-  <string name="not_activate_sim_card_content_with_operator">"Refueling Package hasn't been verified for the SIM card %1$s(%2$s) you selected.Try using your regular SIM to make this call instead. Your carrier will charge you for this call."</string>
-  <string name="error_type_account_inner">Chyba</string>
-  <string name="fdn_full">FDN neboli aktualizované, pretože zoznam je plný.</string>
-  <string name="livetalk_provider">Poskytuje %1$s</string>
 </resources>

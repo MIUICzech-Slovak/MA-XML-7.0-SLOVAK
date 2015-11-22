@@ -23,6 +23,7 @@
   <string name="account_error_user_birthday">Dátum narodenia nie je správny</string>
   <string name="account_hint_text">Email (.com) alebo telefónne číslo</string>
   <string name="account_learn_more_title">Vytvoriť Xiaomi účet</string>
+  <string name="account_limit_update_birthday">Prepáčte, nebolo možné spracovať vašu požiadavku.</string>
   <string name="account_name">Účet: %1$s</string>
   <string name="account_no_set">Prázdne</string>
   <string name="account_none">Prázdne</string>
@@ -405,7 +406,10 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_license_host_unreachable">Nie je možné sa pripojiť k sieti. Túto stránku môžete zobraziť na %s.</string>
   <string name="passport_loading">Načítavanie...</string>
   <string name="passport_login">Prihlásiť sa</string>
+  <string name="passport_login_check_find_device">Kontrola stavu vyhľadania zariadenia...</string>
+  <string name="passport_login_check_find_device_failed">Nebolo možné načítať stav. Skontrolujte internetové pripojenie.</string>
   <string name="passport_login_failed">Nie je možné sa prihlásiť</string>
+  <string name="passport_login_find_device_bind">Toto zariadenie je prepojené s Xiaomi účtom (%s). Prihláste sa pre aktivovanie tohto zariadenia.</string>
   <string name="passport_login_instead_reg">Použiť toto číslo</string>
   <string name="passport_login_instead_reg_with_email">Použiť tento email</string>
   <string name="passport_login_notice">Prihlasovanie...</string>
@@ -499,6 +503,7 @@ Skontrolujte aj SPAM."</string>
   <string name="prev">Späť</string>
   <string name="privacy_policy">Podmienky súkromia</string>
   <string name="process_result">Výsledok Procesu:</string>
+  <string name="provision_skip_login">Preskočiť</string>
   <string name="qq">QQ</string>
   <string name="quick_login_dialog_step2_title">2-fázové overenie</string>
   <string name="quick_login_dialog_title">Overiť heslo</string>
@@ -594,9 +599,4 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
-  <string name="provision_skip_login">Preskočiť</string>
-  <string name="account_limit_update_birthday">Prepáčte, nebolo možné spracovať vašu požiadavku.</string>
-  <string name="passport_login_check_find_device">Kontrola stavu vyhľadania zariadenia...</string>
-  <string name="passport_login_check_find_device_failed">Nebolo možné načítať stav. Skontrolujte internetové pripojenie.</string>
-  <string name="passport_login_find_device_bind">Toto zariadenie je prepojené s Xiaomi účtom (%s). Prihláste sa pre aktivovanie tohto zariadenia.</string>
 </resources>

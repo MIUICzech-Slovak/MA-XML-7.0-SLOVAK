@@ -160,6 +160,7 @@
   <string name="friday">Piatok</string>
   <string name="friday_short">Pia</string>
   <string name="friday_shortest">P</string>
+  <string name="hybrid_provider">Web stránka je poskytovaná %1$s .</string>
   <string name="label">MIUI SDK</string>
   <string name="license_host_unreachable">"Nie je možné sa pripojiť k sieti. Pre zobrazenie týchto informácií choďte na %s."</string>
   <string name="loading">Načítavanie...</string>
@@ -209,6 +210,7 @@
   <string name="name">Meno</string>
   <string name="nickname">Prezývka</string>
   <string name="night">PM</string>
+  <string name="no_network">Nie je možné sa pripojiť k sieti</string>
   <string name="no_sim">Žiadna SIM karta</string>
   <string name="noon">PM</string>
   <string name="note">Poznámka</string>
@@ -327,11 +329,9 @@
   <string name="web_sso_login_fail">Musíte sa znova prihlásiť</string>
   <string name="web_sso_login_message">Prihlasovanie...</string>
   <string name="website">Web</string>
+  <string name="webview_reload">znova</string>
   <string name="wednesday">Streda</string>
   <string name="wednesday_short">Str</string>
   <string name="wednesday_shortest">S</string>
   <string name="yesterday">Včera</string>
-  <string name="hybrid_provider">Web stránka je poskytovaná %1$s .</string>
-  <string name="no_network">Nie je možné sa pripojiť k sieti</string>
-  <string name="webview_reload">znova</string>
 </resources>

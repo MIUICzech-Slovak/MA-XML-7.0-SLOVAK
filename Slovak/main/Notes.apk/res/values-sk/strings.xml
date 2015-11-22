@@ -23,6 +23,7 @@
   <string name="button_new_note">Nová poznámka</string>
   <string name="call_record_folder_name">Zoznam volaní</string>
   <string name="default_folder_name">Poznámky</string>
+  <string name="dlg_delete_message">Mazanie...</string>
   <string name="dlg_desc_confirm_alarm_silent">Budíky a upozornenia nebudú zvoniť v tichom režime ak je táto voľba vypnutá.</string>
   <string name="dlg_info_creating_message">Vytváranie správy...</string>
   <string name="dlg_title_confirm_alarm_silent">Chcete stíšiť budík v tichom režime?</string>
@@ -72,6 +73,7 @@
   <string name="pref_title_common">Časté nastavenia</string>
   <string name="pref_title_font_size">Veľkosť písma</string>
   <string name="pref_title_note_style">Typ poznámky</string>
+  <string name="pref_title_recover_help">Obnoviť poznámky</string>
   <string name="redo">Znovu</string>
   <string name="search">Poznámky</string>
   <string name="search_hint">Prehľadávanie poznámok</string>
@@ -122,6 +124,4 @@ http://www.miuios.cz/rom
   <string name="widget_content_loading">Načítavanie...</string>
   <string name="widget_havenot_content">Žiadna poznámka nie je vytvorená.</string>
   <string name="widget_under_privacy_mode">Režim Súkromie, nie je možné zobraziť obsah poznámky</string>
-  <string name="dlg_delete_message">Mazanie...</string>
-  <string name="pref_title_recover_help">Obnoviť poznámky</string>
 </resources>

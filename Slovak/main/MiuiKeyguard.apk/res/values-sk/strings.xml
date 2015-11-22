@@ -20,6 +20,9 @@
   <string name="find_device_turn_off_flight_mode">Deaktivovať režim Lietadlo</string>
   <string name="find_device_turn_off_flight_mode_instructions">"Vaše zariadenie bolo zablokované.
 Deaktivujte režim Lietadlo."</string>
+  <string name="fingerprint_not_identified_msg">Zadajte svoje heslo pre odomknutie.</string>
+  <string name="fingerprint_not_identified_title">Nie je možné rozpoznať odtlačok</string>
+  <string name="fingerprint_try_again_text">Znova</string>
   <string name="forget_password_string">Zabudol som heslo</string>
   <string name="incorrect_pincode">Nesprávny PIN</string>
   <string name="incorrect_pincode_remaining_attempts">Nesprávny PIN kód, ostávajúce pokusy: %d</string>
@@ -76,6 +79,7 @@ Deaktivujte režim Lietadlo."</string>
   <string name="screen_on_proximity_sensor_hint">Pre deaktivovanie tejto funkcie, stlačte súčasne tlačidlá Späť a Hlasitosť nahor.</string>
   <string name="screen_on_proximity_sensor_summary">"Nezakrývajte vrchnú časť zariadenia"</string>
   <string name="screen_on_proximity_sensor_title">Zabrániť náhodnému vytočeniu</string>
+  <string name="set_lock_wallpaper_failed">Žiadná nová tapeta</string>
   <string name="short_pincode_error_msg">Zadajte 4-8 znakov</string>
   <string name="short_pukcode_error_msg">Musíte zadať najmenej 8 čísel.</string>
   <string name="starting_camera_string">Spúšťanie fotoaparátu</string>
@@ -86,8 +90,4 @@ Deaktivujte režim Lietadlo."</string>
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
-  <string name="fingerprint_not_identified_msg">Zadajte svoje heslo pre odomknutie.</string>
-  <string name="fingerprint_not_identified_title">Nie je možné rozpoznať odtlačok</string>
-  <string name="fingerprint_try_again_text">Znova</string>
-  <string name="set_lock_wallpaper_failed">Žiadná nová tapeta</string>
 </resources>

@@ -4,6 +4,8 @@
   <string name="agree">Súhlasím</string>
   <string name="congratulation_label"/>
   <string name="congratulation_next">Spustiť MIUI</string>
+  <string name="desc_extra_fingerprint"/>
+  <string name="desc_fingerprint">Použiť váš odtlačok prsta pre odomknutie vášho zariadenia alebo prihlásenie sa.</string>
   <string name="disagree">Odmietnuť</string>
   <string name="ime_privacy_policy">Podmienky súkromia vybranej klávesnice</string>
   <string name="ime_privacy_policy_no_network">Nie je možné sa pripojiť k sieti. Prečítajte si podmienky súkromia pre túto klávesnicu na %s.</string>
@@ -21,6 +23,7 @@
   <string name="multisim_settings_title">Našli sa 2 SIM karty</string>
   <string name="network_access_warning">Pre aktiváciu zariadenia sa vyžaduje internetové pripojenie</string>
   <string name="next">Ďalej</string>
+  <string name="next_fingerprint">Ďalej</string>
   <string name="other_settings">Ďalšie nastavenia</string>
   <string name="other_settings_location">Prístup k polohe</string>
   <string name="other_settings_location_summary">Povoliť aplikáciam prístup k vašej polohe</string>
@@ -53,10 +56,7 @@
   <string name="terms_of_use_label">Musíte súhlasiť s Podmienkami používania a Podmienkami súkromia ak chcete používať MIUI.</string>
   <string name="title_congratulation">"Hotovo!
 Prihláste sa na www.miuios.cz :)"</string>
+  <string name="title_fingerprint">Pridať odtlačok prsta</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte</string>
-  <string name="desc_extra_fingerprint"/>
-  <string name="desc_fingerprint">Použiť váš odtlačok prsta pre odomknutie vášho zariadenia alebo prihlásenie sa.</string>
-  <string name="next_fingerprint">Ďalej</string>
-  <string name="title_fingerprint">Pridať odtlačok prsta</string>
 </resources>

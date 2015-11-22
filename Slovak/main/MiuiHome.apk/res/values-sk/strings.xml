@@ -28,6 +28,7 @@
   <string name="apply_as_lock_wallpaper_message">Nastaviť tapetu aj pre zámok?</string>
   <string name="apply_as_wallpaper">Plocha</string>
   <string name="apply_both">Plocha aj zámok</string>
+  <string name="apply_negative_action">Nepoužiť</string>
   <string name="aqi_quality_index_dangerous">Nebezpečné</string>
   <string name="aqi_quality_index_good">Dobré</string>
   <string name="aqi_quality_index_hazardous">Hazardné</string>
@@ -38,6 +39,7 @@
   <string name="buffering">Načítavanie...</string>
   <string name="cancel_action">Zrušiť</string>
   <string name="cancel_btn_label">Zrušiť</string>
+  <string name="cant_edit_lock_screen">Nie je možné upraviť štýl zamykacej obrazovky.</string>
   <string name="cant_remove_folder">Nie je možné vymazať zložky, ktoré nie sú prázdne</string>
   <string name="cant_remove_retained_app">Nie je možné vymazať aplikácie prispôsobené Vaším operátorom</string>
   <string name="cant_remove_system_app">Systémové aplikácie nie je možné odinštalovať</string>
@@ -295,6 +297,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="cant_edit_lock_screen">Nie je možné upraviť štýl zamykacej obrazovky.</string>
-  <string name="apply_negative_action">Nepoužiť</string>
 </resources>

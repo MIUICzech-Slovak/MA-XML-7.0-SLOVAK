@@ -4,6 +4,7 @@
   <string name="app_name">Vyhľadávanie</string>
   <string name="apps_search_activity"/>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
+  <string name="clear_history">Vymazať históriu</string>
   <string name="clear_shortcuts">Vymazať históriu v zariadení</string>
   <string name="clear_shortcuts_agree">Vymazať históriu</string>
   <string name="clear_shortcuts_disagree">"Nemazať zástupcov"</string>
@@ -28,11 +29,14 @@
   <string name="google_search_hint">Google hľadanie</string>
   <string name="google_search_label">Google</string>
   <string name="google_settings_category_title">Google Vyhľadávač</string>
+  <string name="hot_search">Často vyhľadávané</string>
+  <string name="loading">Načítavanie...</string>
   <string name="menu_help">Nápoveda</string>
   <string name="menu_settings">Nastavenie hľadania</string>
   <string name="recently_shortcut_label">Nedávne odkazy</string>
   <string name="remove_from_history">Odobrať z histórie hľadania</string>
   <string name="remove_from_history_failed">"Odobranie položky z histórie sa nepodarilo"</string>
+  <string name="search_history">História vyhľadávania</string>
   <string name="search_in_app_store">Vyhľadať v Google Play</string>
   <string name="search_in_web">Vyhľadať online</string>
   <string name="search_settings">Nastavenie hľadania</string>
@@ -47,17 +51,13 @@
   <string name="searchable_lable_video">Video</string>
   <string name="searchable_sources">Online</string>
   <string name="send_secret_code">Odoslať tajný kód</string>
+  <string name="show_more">Viac</string>
   <string name="system_search_category_title">Telefón</string>
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Skúste hovoriť:</string>
-  <string name="xiaomi_search_label">Výsledky</string>
-  <string name="clear_history">Vymazať históriu</string>
-  <string name="hot_search">Často vyhľadávané</string>
-  <string name="loading">Načítavanie...</string>
-  <string name="search_history">História vyhľadávania</string>
-  <string name="show_more">Viac</string>
-  <string name="xiaomi_suggest_base"/>
-  <string name="xiaomi_hot_query"/>
   <string name="xiaomi_hint"/>
+  <string name="xiaomi_hot_query"/>
+  <string name="xiaomi_search_label">Výsledky</string>
+  <string name="xiaomi_suggest_base"/>
 </resources>
