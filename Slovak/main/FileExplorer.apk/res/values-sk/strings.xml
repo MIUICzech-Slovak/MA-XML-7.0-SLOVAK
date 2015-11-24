@@ -552,7 +552,11 @@ Získali ste ďalších %1$s"</string>
   <string name="weixin_sticker_tag_str">WeChat stickers</string>
   <string name="wifi_state">Stav Wi-Fi</string>
   <string name="xiaomi_account">Xiaomi účet</string>
-  <string name="year_month_day_format">dd MMM, yyyy</string>
+  <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
+  <string name="add_private">Pridať súboru do súkromnej zložky</string>
+  <string name="encrypt_success_first_five">Úspešne zašifrované. Potiahnite nadol hlavnú stránku aplikácie Súbory pre ich zobrazenie.</string>
+  <string name="private_folder_no_file_hints">Podržte súbor alebo zložku pre ich ukrytie.</string>
+  <string name="private_folder_update">Aktualizovanie súkromných súborov</string>
 </resources>

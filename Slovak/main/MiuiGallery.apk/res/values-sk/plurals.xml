@@ -120,8 +120,8 @@
         <item quantity="other">Vybrané položky obsahujú fotografie alebo videá v MiCloud, vymazať (%s) z MiCloud?</item>
     </plurals>
 <plurals name="confirm_delete_has_cloud_image_from_homepage">
-        <item quantity="other">Vybrané položky sú fotografie v MiCloud, vymazať (%s) z MiCloud?</item>
-        <item quantity="one">Vybraná položka je fotografia v MiCloud, vymazať (%s) z MiCloud?</item>
+        <item quantity="other">Vymazať (%s) z MiCloud?</item>
+        <item quantity="one">Vymazať (%s) z MiCloud?</item>
     </plurals>
 <plurals name="confirm_delete_has_cloud_video_from_homepage">
         <item quantity="other">Vybrané položky sú videá v MiCloud, vymazať (%s) z MiCloud?</item>
