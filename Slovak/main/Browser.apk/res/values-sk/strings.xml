@@ -954,7 +954,7 @@ Chcete odísť z tejto stránky?"</string>
   <string name="webview_yesterday">Včera</string>
   <string name="webviewchromium_private_browsing_warning">Táto funkcia nie je podporovaná vašou verziou Androidu.</string>
   <string name="week_picker_dialog_title">Nastaviť týždeň</string>
-  <string name="action_menu_text_download">Spravovať sťahovania</string>
+  <string name="action_menu_text_download">Sťahovanie</string>
   <string name="delete_download">Vymazať</string>
   <string name="dialog_cannot_resume">Sťahovanie bolo prerušené</string>
   <string name="dialog_confirm_delete_checkbox_message">Vymazať súbor na internom úložisku</string>
@@ -974,7 +974,7 @@ Chcete odísť z tejto stránky?"</string>
   <string name="download_btn_select_none">Odznačiť všetko</string>
   <string name="download_completed">Stiahnuté</string>
   <string name="download_filter_all">Všetko</string>
-  <string name="download_filter_application">Apl</string>
+  <string name="download_filter_application">Aplikácie</string>
   <string name="download_filter_audio">Hudba</string>
   <string name="download_filter_image">Fotografie</string>
   <string name="download_filter_others">Ostatné</string>
@@ -982,8 +982,8 @@ Chcete odísť z tejto stránky?"</string>
   <string name="download_filter_video">Videá</string>
   <string name="download_in_process">Sťahovanie...</string>
   <string name="download_list_open_xl_ok">OK</string>
-  <string name="download_memory_info_avai">" dostupné %s|"</string>
-  <string name="download_memory_info_total">" celkom ​%s"</string>
+  <string name="download_memory_info_avai">"Dostupné %s|"</string>
+  <string name="download_memory_info_total">" Celkom ​%s"</string>
   <string name="download_no_application_title">Nebolo možné nájsť súbor. Bol presunutý alebo vymazaný?</string>
   <string name="download_status_failed">Nebolo možné stiahnuť</string>
   <string name="download_status_pending">V poradí</string>
