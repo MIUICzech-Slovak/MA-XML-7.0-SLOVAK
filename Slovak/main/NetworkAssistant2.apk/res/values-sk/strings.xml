@@ -110,7 +110,7 @@ For more info check the message you received from your service provider"</string
   <string name="firewall_network_restrict_notify_message">Zmeniť nastavenia</string>
   <string name="firewall_network_restrict_notify_mobile">Mobilné dáta</string>
   <string name="firewall_network_restrict_notify_title">%1$s nemá povolené pripojenie k %2$s.</string>
-  <string name="firewall_restrict_android_dialog_content">Ak zakážete Androidu prístup k internetu, niektoré funkcie ako napr Wi-Fi hotspot nebudu fungovať správne.</string>
+  <string name="firewall_restrict_android_dialog_content">Pre zaistenie správnej funkčnosti vášho systému, niektoré systémové aplikácie budú mať stále prístup k internetu. Tieto aplikácie budú využívať vaše mobilné pripojenie.</string>
   <string name="firewall_restrict_android_dialog_title">Upozornenie</string>
   <string name="firewall_rule_group_title_mobile">2G/3G</string>
   <string name="firewall_rule_group_title_roaming">Medzinárodný roaming</string>
@@ -525,7 +525,7 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="traffic_saving_msg_today">Dnes</string>
   <string name="traffic_saving_need_optimize">Môže byť optimalizované</string>
   <string name="traffic_saving_notification_button_start">Aktivovať</string>
-  <string name="traffic_saving_notify_no_apps_saving">Žiadne apl. nevyužívajú úsporu dát</string>
+  <string name="traffic_saving_notify_no_apps_saving">Ušetrite mobilné dáta</string>
   <string name="traffic_saving_notify_no_apps_saving_content">Aktivujte úsporu mobilných dát.</string>
   <string name="traffic_saving_notify_start_content">Úspora za tento mesiac %s</string>
   <string name="traffic_saving_notify_start_title">Úspora dát</string>
