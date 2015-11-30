@@ -89,9 +89,9 @@
   <string name="create_shortcut_cancel">Nie ďakujem</string>
   <string name="create_shortcut_checkbox_hint">Viac nezobrazovať</string>
   <string name="create_shortcut_confirm">Vytvoriť</string>
-  <string name="create_shortcut_message">Využívate aplikáciu Súbory veľmi často. Chcete vytvoriť odkaz na domácej obrazovke?</string>
+  <string name="create_shortcut_message">Vytvoriť odkaz na domácej ploche?</string>
   <string name="create_shortcut_success">Odkaz vytvorený</string>
-  <string name="create_shortcut_title">Vytvoriť odkaz</string>
+  <string name="create_shortcut_title">Vytvoriť odkaz?</string>
   <string name="cution">Tipy</string>
   <string name="data_capacity">Kapacita: %1$s</string>
   <string name="data_consumption_cancel">Ukončiť</string>
@@ -377,7 +377,7 @@ and never miss the cool new ones!"</string>
   <string name="partial_repair_done">Niektoré súbory boli úspešne obnovené</string>
   <string name="paused">Pozastavené</string>
   <string name="petabyteShort">PB</string>
-  <string name="phone">Telefón</string>
+  <string name="phone">Interné úložisko</string>
   <string name="pick_folder">Vybrať zložku</string>
   <string name="port_range">Port musí byť medzi 1024–65535</string>
   <string name="private_files">Súkromné</string>
@@ -555,8 +555,9 @@ Získali ste ďalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
-  <string name="add_private">Pridať súboru do súkromnej zložky</string>
+  <string name="add_private">Pridať súbor</string>
   <string name="encrypt_success_first_five">Úspešne zašifrované. Potiahnite nadol hlavnú stránku aplikácie Súbory pre ich zobrazenie.</string>
-  <string name="private_folder_no_file_hints">Podržte súbor alebo zložku pre ich ukrytie.</string>
+  <string name="private_folder_no_file_hints">Žiadne súkromné súbory.</string>
   <string name="private_folder_update">Aktualizovanie súkromných súborov</string>
+  <string name="backup_checkbox_msg">Vždy zálohovať a zobraziť upozornenia</string>
 </resources>

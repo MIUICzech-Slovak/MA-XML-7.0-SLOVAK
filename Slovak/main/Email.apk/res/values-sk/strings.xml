@@ -994,4 +994,7 @@ Delta update size: %2$s"</string>
   <string name="yes">Áno</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="contact_edit_set_black_list_filtering">Filtrovanie...</string>
+  <string name="contact_edit_set_black_list_title">Nastaviť zoznam blokovaných</string>
+  <string name="fail_get_email_message">Načítavanie správy zlyhalo.</string>
 </resources>
