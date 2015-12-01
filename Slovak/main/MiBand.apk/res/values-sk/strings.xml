@@ -473,11 +473,8 @@ Použite MiScale pre sledovanie hmotnosti vášho dieťaťa"</string>
   <string name="hr_not_wear_bracelet">Dajte si MiBand na ruku</string>
   <string name="hr_tips1">"Zapnite Bluetooth a pripojte topánky pred behom.
 Počas behu nevypínajte Bluetooth."</string>
-  <string name="hr_tips10">Anaerobické cvičenie spaľuje viac cukru.</string>
-  <string name="hr_tips11">Ak bežíte pomalšie, vaše telo sa udržiava v aerobickom režime a spotrebuje viac tuku. Udržiavajte pulz vášho srdca čo najnižie.</string>
   <string name="hr_tips12">Aerobické cvičenie spotrebuje viac tuku.</string>
   <string name="hr_tips2">Pripojte MiBand so senzorom pulzu.</string>
-  <string name="hr_tips3">"Odporúča sa udržiavať pulz srdca pod maximálnou úrovňou aerobického behu. Priemerný užívateľ MiBand má 25 rokov, pracuje veľa a má malo fyzickej aktivity. Maximálny pulz srdca v tomto prípade bude okolo 180-25-5=150 BPM. Takže pri behu je lepšie mať pulz okolo 140-150 BPM."</string>
   <string name="hr_tips4">Dýchajte zhlboka pre čo najefektívnejšie spaľovanie kalórií.</string>
   <string name="hr_tips5">"1. Základný pulz je = 180-Vek (BPM).
 2. Nastavte si optimálny pulz podľa vašej situácie.
@@ -1713,4 +1710,38 @@ Udržujte MiBand a telefón maximálne 5m od seba."</string>
   <string name="your_gender">Pohlavie</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Hmotnosť</string>
+  <string name="bind_heartrate">Pripojiť MiBand Pulz</string>
+  <string name="bind_heartrate_text">Pripojiť MiBand Pulz pre sledovanie vášho pulzu</string>
+  <string name="hr">Váš %s</string>
+  <string name="hr_btn">Necvičím</string>
+  <string name="hr_detail_description">Ľudia ktorí veľa cvičia majú zvyčajne nižší pulz. Bežné cvičenie a zdravý životný štýl zlepšujú činnosť vášho srdca.</string>
+  <string name="hr_detail_description1">Udržiavanie pulzu na tejto úrovni pomáha spaľovať viac tuku.</string>
+  <string name="hr_detail_fast">Váš pulz je rýchly</string>
+  <string name="hr_detail_normal">Váš pulz je normálny</string>
+  <string name="hr_detail_slow">Váš pulz je pomalý</string>
+  <string name="hr_detail_sports">Pulz je zvyčajne rýchlejší počas cvičenia</string>
+  <string name="hr_detail_title">Bežný pulz je: 60-100 bpm</string>
+  <string name="hr_detail_title1" formatted="false">"Ideálny pulz počas cvičenia je:
+60%-80% z maximálneho pulzu (220-vek)"</string>
+  <string name="hr_fast">Pulz je rýchly</string>
+  <string name="hr_in">"You're engaged in %s"</string>
+  <string name="hr_normal">Pulz je normálny</string>
+  <string name="hr_reminder">Upozornenie na pulz</string>
+  <string name="hr_slow">Pulz je nízky</string>
+  <string name="hr_sports">Fyzická aktivita</string>
+  <string name="hr_tips10">Ideálny pulz počas cvičenia pre rôzny vek</string>
+  <string name="hr_tips12" formatted="false">"Ideálny pulz počas cvičenia je:
+60%-80% z maximálneho aerobického pulzu (220-vek)"</string>
+  <string name="hr_tips3" formatted="false">Napr.: Jano má 20 rokov, jeho ideálny pulz počas cvičenia je 120-160 bpm (60%-80% z 200=220-20).</string>
+  <string name="lab_factory_left_time">Ostáva čas/s</string>
+  <string name="lab_factory_sport_monitor_shoes_offline_notice">Pripojte topánky</string>
+  <string name="lab_factory_time_label">Odpočítavanie/s</string>
+  <string name="label_remind">Ak váš pulz pôjde nad túto úroveň, MiBand dvakrát zavibruje.</string>
+  <string name="max_hr">Maximálny pulz</string>
+  <string name="measure_reminder">&lt;b&gt;"Pritlačte MiBand na vašu pokožku a nehýbte sa"</string>
+  <string name="measure_reminder_small">Držte vašu ruku v úrovni hrude počas merania</string>
+  <string name="no_heartrate">Nemám MiBand</string>
+  <string name="run_hr_instruct">(Asistent behu#)</string>
+  <string name="running_cancel">Zrušiť</string>
+  <string name="sport_setting">Nastavenie cvičenia</string>
 </resources>
