@@ -614,4 +614,16 @@ Pokus: %s."</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
+  <string name="mx_activate_status_desc_activating_now">Aktivovanie...</string>
+  <string name="mx_activate_status_desc_check_net_connection">Nebolo možné sa pripojiť k sieti</string>
+  <string name="mx_activate_status_desc_fail">Nebolo možné aktivovať Cloudové správy</string>
+  <string name="mx_activate_status_desc_prepare_sending_sms">Odosielanie aktivačnej SMS...</string>
+  <string name="mx_activate_status_desc_query_activte_info">Kontrola SIM karty...</string>
+  <string name="mx_activate_status_desc_request_activation_sms_phone_error">Zadané telefónné číslo je nesprávne</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">Nebolo možné aktivovať Cloudové správy</string>
+  <string name="mx_filter_message_from_stranger">Blokovať Cloudové správy z neznámych čísel</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">Stále bude možné prijímať bežné SMS správy z neznámych čísel. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach správ.</string>
+  <string name="mx_filter_message_from_stranger_dialog_title">Blokovať Cloudové správy z neznámych čísel</string>
+  <string name="mx_filter_message_from_stranger_summary">Stále bude možné prijímať bežné SMS správy z neznámych čísel</string>
+  <string name="pref_message_recovery_introduction_title">Obnoviť správu</string>
 </resources>

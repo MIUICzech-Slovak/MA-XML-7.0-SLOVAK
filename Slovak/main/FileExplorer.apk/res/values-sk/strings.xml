@@ -141,7 +141,7 @@
   <string name="enable_sd_card">Povoliť SD kartu</string>
   <string name="encrypt_error">Nebolo možné vytvoriť súkromné súbory, skúste to znova</string>
   <string name="encrypt_prefix">SÚKROMNÁ</string>
-  <string name="encrypt_success">Všetky súbory sú súkromné</string>
+  <string name="encrypt_success">Úspešne ukryté</string>
   <string name="encrypting">Šifrovanie...</string>
   <string name="error_filename_too_long">Názov súboru je príliš dlhý</string>
   <string name="error_info_cant_send_folder">Zložka nemôže byť presunutá</string>
