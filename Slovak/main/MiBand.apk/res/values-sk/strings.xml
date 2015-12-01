@@ -1738,7 +1738,6 @@ Udržujte MiBand a telefón maximálne 5m od seba."</string>
   <string name="lab_factory_time_label">Odpočítavanie/s</string>
   <string name="label_remind">Ak váš pulz pôjde nad túto úroveň, MiBand dvakrát zavibruje.</string>
   <string name="max_hr">Maximálny pulz</string>
-  <string name="measure_reminder">&lt;b&gt;"Pritlačte MiBand na vašu pokožku a nehýbte sa"</string>
   <string name="measure_reminder_small">Držte vašu ruku v úrovni hrude počas merania</string>
   <string name="no_heartrate">Nemám MiBand</string>
   <string name="run_hr_instruct">(Asistent behu#)</string>
