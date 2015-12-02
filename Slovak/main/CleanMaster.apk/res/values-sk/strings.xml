@@ -329,4 +329,10 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="deepclean_list_item_from_app">Obchod</string>
+  <string name="deepclean_list_item_from_dcim_thumbnails">Náhľady</string>
+  <string name="deepclean_list_item_from_download">Stiahnuté</string>
+  <string name="deepclean_list_item_from_gallery">Galéria</string>
+  <string name="deepclean_list_item_from_sdcard">SD Karta</string>
+  <string name="hints_deepclean_list_item_from">Od %s</string>
 </resources>

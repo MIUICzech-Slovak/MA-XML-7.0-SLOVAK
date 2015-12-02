@@ -3783,4 +3783,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="zone_auto_summaryOn">Použiť časové pásmo zo siete</string>
   <string name="zone_list_menu_sort_alphabetically">Zoradiť abecedne</string>
   <string name="zone_list_menu_sort_by_timezone">Zoradiť podľa časového pásma</string>
+  <string name="forget_password_button_text">Zabudnuté heslo</string>
+  <string name="resolver_settings_label">Zoradiť</string>
 </resources>

@@ -1322,4 +1322,13 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v Zlatých stránkach</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
+  <string name="callrecordview_item_op_video">Video</string>
+  <string name="callrecordview_menu_conference">Konferenčný hovor</string>
+  <string name="multi_number_menu_call">Hovor</string>
+  <string name="multi_number_menu_delete">Vymazať</string>
+  <string name="multi_number_menu_group">Nová skupina</string>
+  <string name="multi_number_menu_message">Správa</string>
+  <string name="multi_number_title">Konferenčný hovor</string>
+  <string name="select_done">Viac netreba vyberať</string>
+  <string name="video_call">Video hovor</string>
 </resources>

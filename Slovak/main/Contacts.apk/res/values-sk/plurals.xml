@@ -140,4 +140,8 @@
         <item quantity="other">Ľudí: %1$d</item>
         <item quantity="one">Ľudí: %1$d</item>
     </plurals>
+    <plurals name="number_of_items_available">
+        <item quantity="other">Ostáva: %1$d</item>
+        <item quantity="one">Ostáva: %1$d</item>
+    </plurals>
 </resources>
