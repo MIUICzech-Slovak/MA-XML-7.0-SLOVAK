@@ -28,7 +28,6 @@
         <item>Pridať súbor do výnimiek</item>
         <item>Pridať apl. do výnimiek</item>
     </string-array>
-    </string-array>
     <string-array name="apk_clean_menu">
         <item>Vyčistiť</item>
         <item>Súbor</item>
