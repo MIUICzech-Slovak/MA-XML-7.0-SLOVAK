@@ -473,7 +473,6 @@ Použite MiScale pre sledovanie hmotnosti vášho dieťaťa"</string>
   <string name="hr_not_wear_bracelet">Dajte si MiBand na ruku</string>
   <string name="hr_tips1">"Zapnite Bluetooth a pripojte topánky pred behom.
 Počas behu nevypínajte Bluetooth."</string>
-  <string name="hr_tips12">Aerobické cvičenie spotrebuje viac tuku.</string>
   <string name="hr_tips2">Pripojte MiBand so senzorom pulzu.</string>
   <string name="hr_tips4">Dýchajte zhlboka pre čo najefektívnejšie spaľovanie kalórií.</string>
   <string name="hr_tips5">"1. Základný pulz je = 180-Vek (BPM).
@@ -1738,7 +1737,6 @@ Udržujte MiBand a telefón maximálne 5m od seba."</string>
   <string name="lab_factory_time_label">Odpočítavanie/s</string>
   <string name="label_remind">Ak váš pulz pôjde nad túto úroveň, MiBand dvakrát zavibruje.</string>
   <string name="max_hr">Maximálny pulz</string>
-  <string name="measure_reminder">&lt;b&gt;"Pritlačte MiBand na vašu pokožku a nehýbte sa"</string>
   <string name="measure_reminder_small">Držte vašu ruku v úrovni hrude počas merania</string>
   <string name="no_heartrate">Nemám MiBand</string>
   <string name="run_hr_instruct">(Asistent behu#)</string>
