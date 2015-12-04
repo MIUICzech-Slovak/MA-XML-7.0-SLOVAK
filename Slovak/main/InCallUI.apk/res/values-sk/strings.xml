@@ -731,12 +731,10 @@
   <string name="card_title_upgrade_video_call_rejected_by_remote">Nebolo možné aktualizovať video</string>
   <string name="card_title_upgrade_video_call_requesting">Vyžaduje sa video</string>
   <string name="card_title_upgrade_video_call_timed_out">Nebolo možné aktualizovať video</string>
-  <string name="card_title_video_call">Video hovor</string>
   <string name="card_title_video_call_paused">Video pozastavené</string>
   <string name="conference_caller_info_name">"%1$s konferenčný hovor</string>
   <string name="conference_caller_name_me">Ja</string>
   <string name="incoming_answer_voice_text">Odpovedať hlasom</string>
-  <string name="notification_incoming_video_call">Prichádzajúci video hovor</string>
   <string name="onscreen_change_to_video">Video hovor</string>
   <string name="onscreen_change_to_voice">Hlasový hovor</string>
   <string name="onscreen_close_preview_camera">Zatvoriť kameru</string>
