@@ -211,14 +211,12 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="screen_overlay_button">Otvoriť nastavenia</string>
   <string name="screen_overlay_message">Ak chcete zmeniť nastavenie tohto povolenia, musíte najprv v časti Nastavenia &gt; Aplikácie vypnúť prekrytie obrazovky</string>
   <string name="screen_overlay_title">Bolo zistené prekrytie obrazovky</string>
-  <string name="status_bar_notification_info_overflow">999+</string>
   <string name="system_warning">Ak toto povolenie zamietnete, základné funkcie vášho zariadenia nemusia pracovať podľa očakávaní.</string>
-  <string name="uninstall_application_text_all_users">Chcete odinštalovať túto aplikáciu pre &lt;b&gt;v&amp;#353;etk&amp;#253;ch&lt;/b&gt; pou&amp;#382;&amp;#237;vate&amp;#318;ov? Aplik&amp;#225;cia a jej &amp;#250;daje sa odstr&amp;#225;nia z tohto zariadenia pre &lt;b&gt;v&amp;#353;etk&amp;#253;ch&lt;/b&gt; pou&amp;#382;&amp;#237;vate&amp;#318;ov.</string>
+  <string name="uninstall_application_text_all_users">Chcete odinštalovať túto aplikáciu pre všetkých používateľov? Aplikácia a jej údaje sa odstránia z tohto zariadenia pre všetkých používateľov.</string>
   <string name="uninstall_application_text_user">Chcete túto aplikáciu odinštalovať pre používateľa %1$s?</string>
   <string name="uninstall_blocked_device_owner">Túto aplikáciu vyžaduje správca vášho zariadenia a nie je ju možné odinštalovať.</string>
   <string name="uninstall_blocked_profile_owner">Táto aplikácia sa vyžaduje pre váš pracovný profil a nemôžete ju odinštalovať.</string>
  balík je aktívnym správcom zariadenia.</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Balíček nie je možné odinštalovať, pretože je aktívnym správcom zariadenia pre používateľa %1$s.</string>
-  <string name="uninstalling">Prebieha odinštalovanie...</string>
   <string name="unknown_apps_admin_dlg_text">Váš správca zakázal inštaláciu aplikácií z neznámych zdrojov.</string>
 </resources>
