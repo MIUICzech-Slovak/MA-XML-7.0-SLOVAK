@@ -1176,9 +1176,6 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="encryption_interstitial_message_pattern">"Ďalšiu ochranu tohto zariadenia zabezpečíte požadovaním vzoru pred spustením. Toto zariadenie nemôže prijímať hovory, správy ani upozornenia (vrátane budíkov), dokým sa nespustí. 
 
 Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</string>
-  <string name="encryption_interstitial_message_pin">"Ďalšiu ochranu tohto zariadenia zabezpečíte požadovaním kódu PIN pred spustením. Toto zariadenie nemôže prijímať hovory, správy ani upozornenia (vrátane budíkov), dokým sa nespustí. 
-
-Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</string>
   <string name="enforce_read_external_confirm_message">"Ak je USB úložisko chránené, aplikácie musia požadovať práva na prístup z externého úložiska. Niektoré aplikácie nemusia pracovať správne pokiaľ ich vývojár neupravil."</string>
   <string name="enforce_read_external_confirm_title">Chrániť USB úložisko?</string>
   <string name="enforce_read_external_summary">Aplikácie musia požadovať povolenie pre čítanie z USB úložiska</string>
@@ -3822,8 +3819,7 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="app_notification_peekable_summary">Umožniť aplikácii zdôrazniť určité upozornenia tak, že ich krátko zobrazí na aktuálnej obrazovke</string>
   <string name="app_notification_peekable_title">Povoliť nahliadnutie</string>
   <string name="app_notification_preferences">Nastavenia aplikácie</string>
-  <string name="app_notification_priority_summary">Umožniť aplikácii zobrazovať upozornenia, keď je režim Nerušiť nastavený na hodnotu Iba prioritné</string>
-    <string name="app_overlay_permission_preference">Povolenie na vykreslenie aplikácie navrchu</string>
+  <string name="app_overlay_permission_preference">Povolenie na vykreslenie aplikácie navrchu</string>
   <string name="app_permissions">Povolenia aplikácií</string>
   <string name="app_permissions_group_summary" formatted="false">Povolené: %d z %d aplikácií</string>
   <string name="app_permissions_summary" formatted="false">Ďalší prístup povolený %d z %d aplikácií</string>
@@ -3909,9 +3905,6 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="encryption_interstitial_message_pin_for_fingerprint">"Okrem odomknutia pomocou odtlačku prsta môžete toto zariadenie ochrániť aj vyžadovaním kódu PIN pred spustením. Na nespustenom zariadení nie je možné prijímať hovory, správy či upozornenia ani používať budíky.
 
 Umožňuje to ochrániť údaje v stratených alebo ukradnutých zariadeniach."</string>
-  <string name="enforce_read_external_confirm_message">"Keď je úložisko USB chránené, aplikácie musia pred čítaním údajov z externého úložiska požiadať o povolenie.
-
-Pri niektorých aplikáciách platí, že budú fungovať až vtedy, keď ich vývojári aktualizujú."</string>
   <string name="filter_all_apps">Všetky aplikácie</string>
   <string name="filter_enabled_apps">Povolené</string>
   <string name="filter_notif_blocked_apps">Blokované</string>

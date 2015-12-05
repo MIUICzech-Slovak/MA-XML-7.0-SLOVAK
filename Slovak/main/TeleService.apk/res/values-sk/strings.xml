@@ -1172,7 +1172,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="callFailed_cb_enabled">Pri zapnutom blokovaní hovorov nie je možné uskutočniť odchádzajúce hovory</string>
   <string name="callFailed_cdma_activation">SIM karta aktivovala vašu službu a aktualizovala možnosti roamingu vášho telefónu</string>
   <string name="call_barring_incoming">Presmerovanie prich. hovoru</string>
   <string name="call_barring_outgoing">Presmerovanie odch. hovoru</string>  
