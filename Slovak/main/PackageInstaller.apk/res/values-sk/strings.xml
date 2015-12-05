@@ -216,7 +216,6 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="uninstall_application_text_user">Chcete túto aplikáciu odinštalovať pre používateľa %1$s?</string>
   <string name="uninstall_blocked_device_owner">Túto aplikáciu vyžaduje správca vášho zariadenia a nie je ju možné odinštalovať.</string>
   <string name="uninstall_blocked_profile_owner">Táto aplikácia sa vyžaduje pre váš pracovný profil a nemôžete ju odinštalovať.</string>
- balík je aktívnym správcom zariadenia.</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Balíček nie je možné odinštalovať, pretože je aktívnym správcom zariadenia pre používateľa %1$s.</string>
   <string name="unknown_apps_admin_dlg_text">Váš správca zakázal inštaláciu aplikácií z neznámych zdrojov.</string>
 </resources>

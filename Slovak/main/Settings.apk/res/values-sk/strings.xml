@@ -4194,7 +4194,6 @@ Po naformátovaní bude úložisko ^1 fungovať iba v tomto zariadení.
     <string name="storage_wizard_format_confirm_public_body">"Táto akcia vyžaduje, aby úložisko ^1 bolo naformátované. 
 
 "Formátovaním vymažete všetky dáta v úložisku ^1. Ak chcete zabrániť strate dát, odporúčame ich zálohovať.</string>
-  <string name="storage_wizard_format_confirm_public_title">Formátovať ako prenosné úložisko</string>
   <string name="storage_wizard_format_confirm_title">Naformátovať ako inter. úložisko</string>
   <string name="storage_wizard_format_progress_body">Počas formátovania úložisko ^1 neodoberajte.</string>
   <string name="storage_wizard_format_progress_title">Formátuje sa úložisko ^1…</string>
@@ -4358,13 +4357,10 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_schedule_rule_enabled_toast">Automatické pravidlo bolo nastavené na Nerušiť v určitých časoch</string>
   <string name="zen_schedule_rule_type_name">Pravidlo pre časové obdobie</string>
-  <string name="zen_mode_events">Udalosti</string>		
     <string name="storage_wizard_format_confirm_public_title">Formátovať ako prenosné úložisko</string>		
-  <string name="nfc_payment_default">Predvolená platobná aplikácia</string>	
   <string name="encryption_interstitial_message_pin">"Ďalšiu ochranu tohto zariadenia zabezpečíte požadovaním kódu PIN pred spustením. Toto zariadenie nemôže prijímať hovory, správy ani upozornenia (vrátane budíkov), dokým sa nespustí. 		
 		
 Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</string>
-  <string name="nfc_payment_default_not_set">Nenastavené</string>		
   <string name="enforce_read_external_confirm_message">"Ak je USB úložisko chránené, aplikácie musia požadovať práva na prístup z externého úložiska. Niektoré aplikácie nemusia pracovať správne pokiaľ ich vývojár neupravil."</string>
   <string name="app_notification_priority_summary">Zobrazovať upozornenia v hornej časti zoznamu a povoliť ich aj v prípade, keď sú na zariadení nastavené iba prioritné vyrušenia</string>	
 </resources>
