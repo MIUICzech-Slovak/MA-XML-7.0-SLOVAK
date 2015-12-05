@@ -742,4 +742,5 @@
   <string name="picking_participant">Načítavanie kontaktu...</string>
   <string name="video_call_not_allowed_if_tty_enabled">Vypnite TTY režim</string>
   <string name="video_switch_to_voice_call_prompt">Prepnúť na hlasový hovor</string>
+  <string name="select_sim_hint">Nie je možné použiť SIM %2$d, ak sa používa SIM %1$d.</string>
 </resources>

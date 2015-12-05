@@ -26,9 +26,17 @@
   <string name="respond_via_sms_setting_summary"/>
   <string name="respond_via_sms_setting_title">Rýchle odpovede</string>
   <string name="respond_via_sms_setting_title_2">Upraviť rýchle odpovede</string>
-  <string name="telecommAppLabel">Telefón</string>
+  <string name="telecommAppLabel">Správa telefónnych hovorov</string>
   <string name="unknown">Neznáme</string>
   <string name="video_call_not_allowed_if_tty_enabled">Please disable TTY Mode to make video calls.</string>
   <string name="voice_report_incoming_call">Volanie</string>
   <string name="voice_report_unknown_num">Neznáme číslo</string>
+  <string name="change_default_dialer_dialog_title">Chcete zmeniť predvolenú aplikáciu vytáčania?</string>
+  <string name="change_default_dialer_no_previous_app_set_text">Chcete použiť aplikáciu %s ako predvolenú aplikáciu vytáčania?</string>
+  <string name="change_default_dialer_with_previous_app_set_text">Chcete použiť aplikáciu %1$s namiesto aplikácie %2$s ako predvolenú aplikáciu vytáčania?</string>
+  <string name="duplicate_video_call_not_allowed">Hovor momentálne nie je možné pridať.</string>
+  <string name="enable_account_preference_title">Telefónne účty</string>
+  <string name="outgoing_call_not_allowed_no_permission">V tejto aplikácii nie je možné uskutočňovať odchádzajúce hovory bez povolenia Telefón</string>
+  <string name="outgoing_call_not_allowed_user_restriction">Vlastník zariadenia povolil iba tiesňové volania</string>
+  <string name="userCallActivityLabel">Telefón</string>
 </resources>

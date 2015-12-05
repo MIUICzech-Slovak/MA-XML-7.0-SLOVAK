@@ -77,4 +77,58 @@
         <item quantity="other">%s apl. môže zobraziť upozornenia</item>
         <item quantity="one">1 apl. môže zobraziť upozornenia</item>
     </plurals>
+    <plurals name="security_settings_fingerprint_preference_summary">
+        <item quantity="other">Nastavenie %1$d odtlačkov</item>
+        <item quantity="one">Nastavenie %1$d odtlačku</item>
+        <item quantity="few">Nastavenie %1$d odtlačkov</item>
+        <item quantity="many">Nastavenie %1$d odtlačku</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_minute">
+        <item quantity="other">Zmena na možnosť Iba budíky platná %1$d minút (do %2$s)</item>
+        <item quantity="one">Zmena na možnosť Iba budíky platná minútu do %2$s</item>
+        <item quantity="few">Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
+        <item quantity="many">Zmena na možnosť Iba budíky platná %1$d minúty (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_summary_alarms_only_by_hour">
+        <item quantity="other">Zmena na možnosť Iba budíky platná %1$d hodín do %2$s</item>
+        <item quantity="one">Zmena na možnosť Iba budíky platná hodinu do %2$s</item>
+        <item quantity="few">Zmena na možnosť Iba budíky platná %1$d hodiny do %2$s</item>
+        <item quantity="many">Zmena na možnosť Iba budíky platná %1$d hodiny do %2$s</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">Bolo udelených %d povolení</item>
+        <item quantity="one">Bolo udelené %d povolenie</item>
+        <item quantity="few">Boli udelené %d povolenia</item>
+        <item quantity="many">Bolo udeleného %d povolenia</item>
+    </plurals>
+    <plurals name="runtime_permissions_summary">
+        <item quantity="other">%1$d udelených povolení z %2$d</item>
+        <item quantity="one">%1$d udelené povolenie z %2$d</item>
+        <item quantity="few">%1$d udelené povolenia z %2$d</item>
+        <item quantity="many">%1$d udeleného povolenia z %2$d</item>
+    </plurals>
+    <plurals name="runtime_permissions_additional_count">
+        <item quantity="other">%d ďalších povolení</item>
+        <item quantity="one">%d ďalšie povolenie</item>
+        <item quantity="few">%d ďalšie povolenia</item>
+        <item quantity="many">%d ďalšieho povolenia</item>
+    </plurals>
+    <plurals name="domain_urls_apps_summary">
+        <item quantity="other">%d aplikácií môže otvárať podporované odkazy</item>
+        <item quantity="one">1 aplikácia môže otvárať podporované odkazy</item>
+        <item quantity="few">%d aplikácie môžu otvárať podporované odkazy</item>
+        <item quantity="many">%d aplikácie môže otvárať podporované odkazy</item>
+    </plurals>
+    <plurals name="high_power_count">
+        <item quantity="other">%d aplikácií má povolené ignorovať optimalizáciu batérie</item>
+        <item quantity="one">Jedna aplikácia má povolené ignorovať optimalizáciu batérie</item>
+        <item quantity="few">%d aplikácie majú povolené ignorovať optimalizáciu batérie</item>
+        <item quantity="many">%d aplikácie má povolené ignorovať optimalizáciu batérie</item>
+    </plurals>
+    <plurals name="memory_usage_apps_summary">
+        <item quantity="other">%1$d aplikácií použilo pamäť za obdobie: %2$s</item>
+        <item quantity="one">1 aplikácia použila pamäť za obdobie: %2$s</item>
+        <item quantity="few">%1$d aplikácie použili pamäť za obdobie: %2$s</item>
+        <item quantity="many">%1$d aplikácie použilo pamäť za obdobie: %2$s</item>
+    </plurals>
 </resources>

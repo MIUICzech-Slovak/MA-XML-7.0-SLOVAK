@@ -1172,4 +1172,15 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="callFailed_cb_enabled">Pri zapnutom blokovaní hovorov nie je možné uskutočniť odchádzajúce hovory</string>
+  <string name="callFailed_cdma_activation">SIM karta aktivovala vašu službu a aktualizovala možnosti roamingu vášho telefónu</string>
+  <string name="call_barring_incoming">Presmerovanie prich. hovoru</string>
+  <string name="call_barring_outgoing">Presmerovanie odch. hovoru</string>  
+  <string name="call_forwarding_settings_with_label">Presmerovanie hovorov (%s)</string>
+  <string name="cb_psw_dont_match">Heslo sa nezhoduje</string>
+  <string name="cf_mobile_date">Please turn on mobile data and make sure that WLAN is off</string>
+  <string name="change_default_data_card">Default mobile data SIM</string>
+  <string name="change_default_data_card_summary">Looks like you changed SIM cards. Set this card as your default SIM for your mobile data connection?</string>
+  <string name="vibrate_after_connected_summary">Vibrate when answers</string>
+  <string name="vibrate_after_connected_title">Vibrating after connected</string>
 </resources>
