@@ -109,4 +109,8 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
+  <string name="activate_popup_confirm_error_device_id">Znova</string>
+  <string name="activate_popup_desc_error_device_id">Vytočte *#06# pre kontrolu IMEI</string>
+  <string name="activate_popup_title_error_device_id">Chybný IMEI</string>
+  <string name="activate_status_desc_device_id_error">Chybný IMEI</string>
 </resources>

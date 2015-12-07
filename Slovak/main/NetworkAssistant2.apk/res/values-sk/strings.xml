@@ -590,4 +590,13 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
   <string name="wifi_exception_summary">Skontrolovať dostupné pripojenie Wi-Fi siete</string>
   <string name="wifi_exception_title">Kontrola Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
+  <string name="traffic_alert_auto_modify_notification_sumarry">Mesačný balíček zmenený na %s.</string>
+  <string name="traffic_alert_auto_modify_notification_titile">Updated data plan</string>
+  <string name="traffic_alert_auto_modify_package_summary">"Automatically adjust data package according to the carrier's info"</string>
+  <string name="traffic_config_alert_auto_modify">Automaticky aktualizovať mesačný balíček</string>
+  <string name="traffic_config_alert_package">"
+Rolled over extra data"</string>
+  <string name="traffic_limit_error_alert_body">Your remaining data for this month (%1$s) is bigger than your monthly plan (%2$s). Mark extra data as top-up package?</string>
+  <string name="traffic_limit_error_alert_package">"
+Remaining data includes data that has been rolled over from the previous month."</string>
 </resources>
