@@ -23,14 +23,14 @@
         <item>Upozorniť po vyčistení</item>
     </string-array>
 	<string-array name="cache_clean_menu">
-        <item>Vyčistiť</item>
-        <item>Súbor</item>
+        <item>Vyčistiť tento súbor</item>
+        <item>Zobraziť umiestnenie súboru</item>
         <item>Pridať súbor do výnimiek</item>
         <item>Pridať apl. do výnimiek</item>
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Vyčistiť</item>
-        <item>Súbor</item>
+        <item>Zobraziť umiestnenie súboru</item>
         <item>Výnimka</item>
         <item>Inštalovať</item>
     </string-array>
@@ -49,8 +49,8 @@
         <item>Každých 30 dní</item>
     </string-array>
     <string-array name="trash_clean_menu">
-        <item>Vyčistiť</item>
-        <item>Súbor</item>
+        <item>Vyčistiť tento súbor</item>
+        <item>Zobraziť umiestnenie súboru</item>
         <item>Pridať súbor do výnimiek</item>
      </string-array>
 </resources>

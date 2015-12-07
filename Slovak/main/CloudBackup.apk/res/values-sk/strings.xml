@@ -2,11 +2,11 @@
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="about_to_recover">O obnove</string>
-  <string name="app_name">Záloha rozloženia plochy</string>
+  <string name="app_name">MiCloud záloha</string>
   <string name="back_up_task_in_process">Zálohovanie...</string>
   <string name="back_up_task_unfinished">obnovenie nebolo dokončené</string>
   <string name="backing_up_to_micloud">Zálohovanie...</string>
-  <string name="backup_fail">Zálohovanie nastavení zlyhalo</string>
+  <string name="backup_fail">Zálohovanie zlyhalo</string>
   <string name="backup_size">Veľkosť: %s</string>
   <string name="backup_success">Záloha dokončená</string>
   <string name="backup_to_cloud">Zálohovať</string>
@@ -74,5 +74,43 @@
   <string name="start_backup_to_micloud">Zálohovať aplikácie do MiCloud</string>
   <string name="start_recover">Obnoviť %s</string>
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
-  <string name="xiaomi_account_type">com.xiaomi</string>
+  <string name="as_new_device">Nahradiť predchádzajúce rozloženie plochy a nastavenia</string>
+  <string name="as_new_device_summary">Vymazať predchádzajúce zálohy v MiCloud</string>
+  <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
+  <string name="cloud_back_up_detail_discription">"Záloha bude odoslaná na MiCloud keď sa pripojíte na Wi-Fi: 
+*\u0009\u0009\u0009\u0009Rozloženie plochy 
+*\u0009\u0009\u0009\u0009Zvonenia, tapety a písmo 
+*\u0009\u0009\u0009\u0009Nastavenie budíka 
+*\u0009\u0009\u0009\u0009Nastavenie upozornení 
+*\u0009\u0009\u0009\u0009Nastavenie režimu Nerušiť 
+*\u0009\u0009\u0009\u0009Nastavenie MIUI a systému 
+Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiCloud."</string>
+  <string name="cloud_back_up_frequence_choice_title">Plánovanie zálohy</string>
+  <string name="cloud_back_up_frequence_long">Každých 7 dní</string>
+  <string name="cloud_back_up_frequence_short">Každý deň</string>
+  <string name="cloud_back_up_interval_long">7 dní</string>
+  <string name="cloud_back_up_interval_short">Každý deň</string>
+  <string name="cloud_back_up_no_network_warn">Nie je možné sa pripojiť k sieti</string>
+  <string name="cloud_back_up_ok_btn">OK</string>
+  <string name="cloud_back_up_opening">Načítavanie...</string>
+  <string name="cloud_back_up_share_activity_confirm">Navýšiť</string>
+  <string name="cloud_back_up_share_activity_discription">Získajte viac miesta na úložisku v MiCloud.</string>
+  <string name="cloud_back_up_share_activity_title">Navýšiť Xiaomi účet</string>
+  <string name="cloud_backup_detail_frequence">Plánovanie zálohy</string>
+  <string name="cloud_backup_detail_frequence_day">%1$s Záloha len raz</string>
+  <string name="cloud_backup_detail_manage">Spravovať zálohu</string>
+  <string name="cloud_backup_detail_manage_summary">%1$s Záloha, veľkosť: %2$s</string>
+  <string name="cloud_backup_detail_state">MiCloud záloha</string>
+  <string name="cloud_backup_detail_state_summary">Apl, Nastavenie plochy a systému</string>
+  <string name="cloud_backup_detail_time">, čas zálohy: %1$s</string>
+  <string name="confirm_restore">Obnoviť</string>
+  <string name="confirm_restore_summary">Nastavenie plochy bude obnovené a aplikácie sa stiahnu po pripojení na Wi-Fi sieť</string>
+  <string name="confirm_restore_title">Obnoviť</string>
+  <string name="query_restore_back_view">MiCloud záloha</string>
+  <string name="query_restore_description">Obnoviť nastavenie plochy a systémuRestore Home screen apps and settings using this backup. This will overwrite app data for duplicate apps already installed on this device. Apps not included in the backup will be moved to the last Home screen.</string>
+  <string name="query_restore_summary">Found a Mi Cloud backup for this device. Restore Home screen apps and settings or use it as a new device and erase previous Mi Cloud backups?</string>
+  <string name="restore_data_summary">This feature requires an internet connection.</string>
+  <string name="restore_from_this_device">Restore using this backup</string>
+  <string name="restore_home_screen_apps">Restore from Mi Cloud backup</string>
+  <string name="success_open_cloudbackup">Turned on backups for Home screen apps</string>
 </resources>
