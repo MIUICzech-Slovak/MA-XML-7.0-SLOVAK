@@ -348,7 +348,7 @@
   <string name="contact_edit_title_permission">Práva kontaktu</string>
   <string name="contact_edit_title_phone_contact">Zoznam kontaktov</string>
   <string name="contact_in_filter_call_phone_str">Hovor od %s</string>
-  <string name="contact_in_filter_title">" od tejto osoby."</string>
+  <string name="contact_in_filter_title">Odosielateľ</string>
   <string name="contact_info_string">Zobraziť informácie kontaktu %1$s</string>
   <string name="contact_info_string_default">Zobraziť kontaktné informácie</string>
   <string name="contact_list_add_btn">Pridať</string>
@@ -879,9 +879,9 @@ Kópia: %4$s
   <string name="ser_resp_err_map_certificate_validator_err">"Overenie certifikátu zlyhalo
 \u0009 (Skontrolujte, či je nastavená "Automatická synchronizácia")"</string>
   <string name="ser_resp_err_map_nouser">Užívateľ neexistuje</string>
-  <string name="ser_resp_err_map_or">Alebo</string>
+  <string name="ser_resp_err_map_or">%1$s alebo %2$s</string>
   <string name="ser_resp_err_map_pserr">Nesprávne meno alebo heslo</string>
-  <string name="ser_resp_err_map_serclosed">Služba ukončená</string>
+  <string name="ser_resp_err_map_serclosed">%s server nedostupný</string>
   <string name="ser_resp_err_map_serclosed_url_tag">Ako to vyriešiť?</string>
   <string name="ser_resp_err_map_ssl">"Skúste vybrať 'SSL/TLS (Akceptovať všetky certifikáty)' v 'Zabezpečení'"</string>
   <string name="set_network">Nastaviť sieť</string>
@@ -995,6 +995,19 @@ Delta update size: %2$s"</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
   <string name="contact_edit_set_black_list_filtering">Filtrovanie...</string>
-  <string name="contact_edit_set_black_list_title">Nastaviť zoznam blokovaných</string>
+  <string name="contact_edit_set_black_list_title">Pridať do blokovaných</string>
   <string name="fail_get_email_message">Načítavanie správy zlyhalo.</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Neznáma chyba.</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Ponechať pre</string>
+  <string name="del_account_questionnair_hint">Môžete nám povedať prečo chcete vymazať tento účet?</string>
+  <string name="dialog_change_sync_lookback">Správy prijaté pred %s budú vymazané. Dotykom to zmeníte.</string>
+  <string name="questionnair_body_invisibility">Správy sa nezobrazujú</string>
+  <string name="questionnair_confirm_delete">Vymazať</string>
+  <string name="questionnair_instability">Nestabilná aplikácia</string>
+  <string name="questionnair_not_send">Nie je možné odoslať správu</string>
+  <string name="questionnair_not_sync">Nestabilná synchronizácia</string>
+  <string name="questionnair_other_reasons">Iný dôvod</string>
+  <string name="questionnair_title">Vymazanie účtu</string>
+  <string name="questionnair_ui_not_pretty">Nepáči sa mi dizajn aplikácie</string>
+  <string name="questionnair_waste_resource">Vymazanie môže uvoľniť úložisko</string>
 </resources>

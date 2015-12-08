@@ -1182,4 +1182,16 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="change_default_data_card_summary">Looks like you changed SIM cards. Set this card as your default SIM for your mobile data connection?</string>
   <string name="vibrate_after_connected_summary">Vibrate when answers</string>
   <string name="vibrate_after_connected_title">Vibrating after connected</string>
+  <string name="active_phone_fail_nochoice">"Can't verify SIM card"</string>
+  <string name="active_phone_fail_toast">"Can't verify SIM card %1$s"</string>
+  <string name="active_phone_sim_absent">Insert SIM card now</string>
+  <string name="active_phone_success_nochoice">SIM card verified</string>
+  <string name="active_phone_success_toast">SIM card %1$s verified</string>
+  <string name="activing_simcard">Verifying SIM %1$d</string>
+  <string name="activing_simcard_alone">Verifying SIM</string>
+  <string name="area_code_preference_summary">Auto dial area code</string>
+  <string name="areacode_set_default">Default</string>
+  <string name="can_not_call_self">"Can't dial own number"</string>
+  <string name="default_area_code_setting">Default area code</string>
+  <string name="default_areacode">Default area code</string>
 </resources>

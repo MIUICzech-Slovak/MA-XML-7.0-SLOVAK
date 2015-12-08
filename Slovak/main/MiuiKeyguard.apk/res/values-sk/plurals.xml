@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="new_notifications_msg">
+        <item quantity="other">Nové upozornenia: %d</item>
+        <item quantity="one">Nové upozornenia: %d</item>
+    </plurals>
+</resources>

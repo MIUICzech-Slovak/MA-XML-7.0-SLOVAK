@@ -53,4 +53,12 @@
         <item>Veľký text</item>
         <item>Obrovský text</item>
     </string-array>
+    <string-array name="calendar_remind_string_array">
+        <item>Dnes večer</item>
+        <item>Zajtra</item>
+        <item>Víkend</item>
+        <item>Ďalší týždeň</item>
+        <item>Ďalší mesiac</item>
+        <item>Vybrať dátum</item>
+    </string-array>
 </resources>

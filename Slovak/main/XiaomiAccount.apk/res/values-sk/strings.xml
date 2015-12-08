@@ -599,4 +599,5 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
+  <string name="passport_xiaomi_account_sec_dspt2_vip">Pre prihlásenie sa k vášmu Xiaomi účtu je nutné internetové pripojenie, vyhľadať vaše zariadenie a povoliť MiCloud.</string>
 </resources>
