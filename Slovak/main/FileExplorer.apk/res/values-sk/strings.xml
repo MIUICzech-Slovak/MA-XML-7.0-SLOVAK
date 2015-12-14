@@ -563,4 +563,7 @@ Získali ste ďalších %1$s"</string>
   <string name="make_private_msg_1">Skryť tento súbor?</string>
   <string name="make_private_msg_2">Skryť tieto súbory?</string>
   <string name="make_private_msg_3">Všetky súbory v tejto zložke budú ukryté.</string>
+  <string name="compress_fail_unknown">Nebolo možné zbaliť. Nie je dostatok voľného miesta na úložisku alebo nastala neznáma chyba.</string>
+  <string name="move_icon_to_desktop_hint">Vytvorte odkaz na domácej ploche pre efektívnejšie využívanie aplikácie Súbory.</string>
+  <string name="move_to_confirm">Vytvoriť</string>
 </resources>

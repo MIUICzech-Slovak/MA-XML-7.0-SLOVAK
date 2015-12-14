@@ -4363,4 +4363,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
 Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</string>
   <string name="enforce_read_external_confirm_message">"Ak je USB úložisko chránené, aplikácie musia požadovať práva na prístup z externého úložiska. Niektoré aplikácie nemusia pracovať správne pokiaľ ich vývojár neupravil."</string>
   <string name="app_notification_priority_summary">Zobrazovať upozornenia v hornej časti zoznamu a povoliť ich aj v prípade, keď sú na zariadení nastavené iba prioritné vyrušenia</string>	
+  <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
+  <string name="print_enable">Povoliť tlač</string>
+  <string name="print_remind">Najskôr povoľte tlač</string>
 </resources>

@@ -28,7 +28,7 @@
         <item>Prach</item>
         <item>Hmla</item>
         <item>Mrznúci dážď</item>
-        <item>N/A</item>
+        <item></item>
     </string-array>
     <string-array name="weather_indexes_uv_level">
         <item>Nízky</item>
@@ -38,14 +38,14 @@
         <item>Veľmi vysoký</item>
     </string-array>
     <string-array name="wind_direction">
-        <item>Vietor S</item>
-        <item>Vietor SV</item>
-        <item>Vietor V</item>
-        <item>Vietor JV</item>
-        <item>Vietor J</item>
-        <item>Vietor JZ</item>
-        <item>Vietor Z</item>
-        <item>Vietor SZ</item>
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
     </string-array>
     <string-array name="moon_desc">
         <item>Nov</item>
@@ -57,5 +57,13 @@
         <item>Posledná štvrť</item>
         <item>Ubúdajúci kosáčik</item>
         <item>Zatmenie</item>
+    </string-array>
+    <string-array name="indices_sport">
+        <item>Vhodné</item>
+        <item>Nevhodné</item>
+    </string-array>
+    <string-array name="indices_car_wash">
+        <item>Vhodné</item>
+        <item>Nevhodné</item>
     </string-array>
 </resources>
