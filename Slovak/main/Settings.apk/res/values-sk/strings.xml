@@ -4366,4 +4366,8 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro</string>
   <string name="print_enable">Povoliť tlač</string>
   <string name="print_remind">Najskôr povoľte tlač</string>
+  <string name="cloud_backup_section_title">MiCloud záloha</string>
+  <string name="cloud_backup_settings_section_title">Zálohovať nastavenia</string>
+  <string name="cloud_restore_section_summary">Obnoviť apl, nastavenie plochy, a nastavenie systému</string>
+  <string name="cloud_restore_section_title">Obnoviť z MiCloud</string>
 </resources>
