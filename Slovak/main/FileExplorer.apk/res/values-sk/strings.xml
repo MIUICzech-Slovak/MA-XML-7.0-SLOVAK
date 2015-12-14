@@ -40,7 +40,7 @@
   <string name="cancel">Zrušiť</string>
   <string name="cancel_error">Nebolo možné odobrať, skúste to znova</string>
   <string name="cancel_operation">Zrušiť operáciu</string>
-  <string name="cancel_success">Odobrané, všetky súbory boli presunuté sdcard/fileexplorer/decryption</string>
+  <string name="cancel_success">Odobrané, všetky súbory boli presunuté do %s</string>
   <string name="cancelled_by_user">Operácia zrušená</string>
   <string name="category">Kategórie</string>
   <string name="category_all">Všetko</string>
@@ -371,7 +371,7 @@ and never miss the cool new ones!"</string>
   <string name="operation_show_sys">Zobraziť systémové súbory</string>
   <string name="operation_unfavorite">Odobrať z obľúbených</string>
   <string name="pan_settting">MiDrive nastavenia</string>
-  <string name="partial_cancel_successful">Nebolo možné odobrať niektoré súbory. Zvyšné súbory boli presunuté do sdcard/fileexplorer/decryption"</string>
+  <string name="partial_cancel_successful">Nebolo možné odobrať niektoré súbory. Zvyšné súbory boli presunuté do %s</string>
   <string name="partial_delete_failure">Nebolo možné vymazať niektoré súbory</string>
   <string name="partial_encrypt_success">Nebolo možné zmeniť niektoré súbory na súkromné</string>
   <string name="partial_repair_done">Niektoré súbory boli úspešne obnovené</string>
@@ -467,7 +467,7 @@ and never miss the cool new ones!"</string>
   <string name="show_message">Súbor nie je možné otvoriť bez jeho stiahnutia</string>
   <string name="sign_description">Podpisovanie...</string>
   <string name="signin_error">Žiadne pripojenie k sieti, skúste to neskôr.</string>
-  <string name="signin_success">"Ste podpísaný！
+  <string name="signin_success">"Ste podpísaný!
 Získali ste ďalších %1$s"</string>
   <string name="smb_loading">Načítavanie...</string>
   <string name="space_info">Kapacita: %1$s K dispozícii, Celkom: %2$s</string>

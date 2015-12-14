@@ -462,4 +462,5 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="header_cloud_backup_settings">Zálohovať a obnoviť</string>
   <string name="header_cloud_restore_summary">Obnoviť aplikácie, nastavenie plochy a systému zo zálohy z MiCloud</string>
   <string name="header_find_device_settings">Vyhľadať zariadenie</string>
+  <string name="cloud_restore_title">Obnoviť zo zálohy</string>
 </resources>

@@ -703,7 +703,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="summary_show_notification">Zobraziť ovládanie pre Optimalizáciu v notif. roletke.</string>
   <string name="summary_telecom_operator">Skontrolovať objem prenesených dát nameraný vašim operátorom.</string>
   <string name="summary_usb">Zabrániť vírusom cez USB pripojenie</string>
-  <string name="summary_virus">Nájdené vírusy: %2$d</string>
+  <string name="summary_virus">Odstráňte vírusy</string>
   <string name="summary_virus_cloudscan">Odoslať a porovnať neznáme názvy súborov s online databázou</string>
   <string name="summary_virus_update">Aktualizovať vírusovú databázu automaticky po pripojení na Wi-Fi</string>
   <string name="system_check_content">Nebezpečné: %1$d</string>
