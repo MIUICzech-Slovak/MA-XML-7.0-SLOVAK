@@ -291,10 +291,10 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
-  <string name="daily_forcast_drawer_on_bottom">Zatiahnuť</string>
+  <string name="daily_forcast_drawer_on_bottom">Skryť</string>
   <string name="daily_forcast_drawer_on_top">Zobraziť ostatné dni</string>
   <string name="daily_forcast_no_wind">Bezvetrie</string>
-  <string name="daily_forcast_weather_transfer">%1$s transfer %2$s</string>
+  <string name="daily_forcast_weather_transfer">%1$s. %2$s neskôr.</string>
   <string name="empty">" "</string>
   <string name="hourly_forcast_now">Teraz</string>
   <string name="indices_desc_feel">Pocitovo %1$s°C</string>
