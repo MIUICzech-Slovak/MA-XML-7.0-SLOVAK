@@ -66,4 +66,9 @@
         <item>Vhodné</item>
         <item>Nevhodné</item>
     </string-array>
+    <string-array name="indices_uv_level">
+        <item>Nízky</item>
+        <item>Stredný</item>
+        <item>Silný</item>
+    </string-array>    
 </resources>
