@@ -460,4 +460,6 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="header_cloud_restore_summary">Obnoviť aplikácie, nastavenie plochy a systému zo zálohy z MiCloud</string>
   <string name="header_find_device_settings">Vyhľadať zariadenie</string>
   <string name="cloud_restore_title">Obnoviť zo zálohy</string>
+  <string name="mx_dspt_provision_with_voip">Zavolať ostatným užívateľom MIUI zdarma cez internetové volanie. Túto službu môžete kedykoľvek deaktivovať na nastaveniach.</string>
+  <string name="mx_sub_dspt_provision_with_voip">Internetové volanie</string>
 </resources>
