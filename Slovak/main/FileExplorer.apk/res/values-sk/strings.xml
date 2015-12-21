@@ -442,9 +442,9 @@ and never miss the cool new ones!"</string>
   <string name="search_result_more">Viac</string>
   <string name="search_title">Hľadať dokumenty</string>
   <string name="search_title_hint">Hĺadať</string>
-  <string name="select_image">Vyberte fotografie</string>
-  <string name="select_music">Vyberte skladby</string>
-  <string name="select_video">Vyberte videá</string>
+  <string name="select_image">Fotografie</string>
+  <string name="select_music">Skladby</string>
+  <string name="select_video">Videá</string>
   <string name="send_to_midrive">MiDrive</string>
   <string name="send_to_midrive_failed_message">MiDrive nepodporuje tento typ súboru.</string>
   <string name="send_to_qq">Odoslať na QQ</string>

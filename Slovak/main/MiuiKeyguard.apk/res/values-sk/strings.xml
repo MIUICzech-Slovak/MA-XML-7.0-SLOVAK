@@ -21,7 +21,7 @@
   <string name="find_device_turn_off_flight_mode_instructions">"Vaše zariadenie bolo zablokované.
 Deaktivujte režim Lietadlo."</string>
   <string name="fingerprint_not_identified_msg">Zadajte svoje heslo pre odomknutie.</string>
-  <string name="fingerprint_not_identified_title">Nie je možné rozpoznať odtlačok</string>
+  <string name="fingerprint_not_identified_title">Zadajte svoje heslo</string>
   <string name="fingerprint_try_again_text">Znova</string>
   <string name="forget_password_string">Zabudol som heslo</string>
   <string name="incorrect_pincode">Nesprávny PIN</string>

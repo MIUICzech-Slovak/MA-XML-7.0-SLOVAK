@@ -626,4 +626,5 @@ Pokus: %s."</string>
   <string name="mx_filter_message_from_stranger_dialog_title">Blokovať Cloudové správy z neznámych čísel</string>
   <string name="mx_filter_message_from_stranger_summary">Stále bude možné prijímať bežné SMS správy z neznámych čísel</string>
   <string name="pref_message_recovery_introduction_title">Obnoviť správu</string>
+  <string name="select_message_send_sim">Vybrať SIM kartu</string>
 </resources>
