@@ -59,7 +59,7 @@ navštívte %s"</string>
   <string name="statusbar_notification_incoming_call">Prichádzajúci hovor</string>
   <string name="statusbar_notification_ongoning_call">Prebiehajúci hovor</string>
   <string name="unknown">Nastala neznáma chyba.</string>
-  <string name="user_agreement">Podmienky súkromia</string>
+  <string name="mx_dspt_provision">"Zobraziť Weihui Ochranu Súkromia"</string>
   <string name="voip_about">MiVoice</string>
   <string name="voip_about_gif_desc">Uskutočniť hovor cez MiVoice priamo z číselníka alebo kontaktu.</string>
   <string name="voip_about_net_desc">Volanie cez MiVoice spotrebuje menej ako 400KB dát za minútu.</string>
