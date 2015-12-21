@@ -24,7 +24,6 @@ navštívte %s"</string>
   <string name="mx_activate_dlg_title">Aktivovať MiVoice</string>
   <string name="mx_btn_enable_now">Aktivovať</string>
   <string name="mx_choose_sim_dlg_title">Vyberte telefónne číslo pre aktiváciu</string>
-  <string name="mx_dspt_provision">"Zobraziť Weihui Ochranu Súkromia"</string>
   <string name="mx_dspt_tips">Táto služba vyžaduje vaše telefónne číslo</string>
   <string name="net_connect_fails">Nemáte internetové pripojenie.</string>
   <string name="network_unavailable">Nebolo možné sa pripojiť k sieti.</string>
