@@ -45,7 +45,6 @@
   <string name="button_confirm">Povoliť</string>
   <string name="button_exit">Ukončiť</string>
   <string name="button_not_allow">Zrušiť</string>
-  <string name="data_source_time_fromat">"dd.MM.yyyy'T'HH:mm:ss"</string>
   <string name="deleting">Odstraňovanie...</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Dizajnér</string>
