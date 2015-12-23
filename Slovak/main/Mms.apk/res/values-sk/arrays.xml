@@ -67,4 +67,8 @@
         <item>Prijaté</item>
         <item>Odoslané</item>
     </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Synchr. všetky SMS</item>
+        <item>Synchr. SMS z vybraných SIM kariet</item>
+    </string-array>
 </resources>

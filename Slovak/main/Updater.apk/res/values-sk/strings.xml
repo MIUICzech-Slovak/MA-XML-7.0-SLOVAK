@@ -343,4 +343,6 @@ Nie je možné odoslať váš názor"</string>
   <string name="confirm_local_package_wipe_btn">Vymazať a aktualizovať</string>
   <string name="confirm_local_package_wipe_msg">Vaše užívateľské dáta budú vymazané. Uistite sa, že máte zálohované všetky dôležité dáta predtým ako spustite inštaláciu.</string>
   <string name="confirm_local_package_wipe_title">Vymazať dáta?</string>
+  <string name="notification_fail_msg">Skúste stiahnuť celú ROM z miuios.cz/rom</string>
+  <string name="notification_restart">Aktualizovať znova</string>
 </resources>

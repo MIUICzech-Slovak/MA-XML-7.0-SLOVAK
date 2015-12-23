@@ -92,4 +92,5 @@ Deaktivujte režim Lietadlo."</string>
   <string name="wrong_password">Nesprávne heslo</string>
   <string name="invalid_sim_pin_hint">Zadajte PIN ktorý je 4 až 8 čísel</string>
   <string name="invalid_sim_puk_hint">PUK kód by mal byť 8 čísel alebo viac</string>
+  <string name="input_password_after_boot_msg">Po reštarte zariadenia, budete musieť zadať heslo.</string>
 </resources>
