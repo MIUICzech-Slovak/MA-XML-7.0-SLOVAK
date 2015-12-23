@@ -358,4 +358,17 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
+  <string name="birthday_event_description_a_week_ago">Pred týždňom</string>
+  <string name="birthday_event_description_a_week_later">O týždeň neskôr</string>
+  <string name="birthday_event_description_day_after_tomorrow">Pozajtra</string>
+  <string name="birthday_event_description_day_before_yesterday">Predvčerom</string>
+  <string name="birthday_event_description_days_ago">Pred %1$s dňami</string>
+  <string name="birthday_event_description_days_later">O %1$s dní neskôr</string>
+  <string name="birthday_event_description_default">"%1$s %2$s%3$s%4$s"</string>
+  <string name="birthday_event_description_special">"%1$s je %2$s %3$s%4$s%5$s"</string>
+  <string name="birthday_event_description_today">Dnes</string>
+  <string name="birthday_event_description_tomorrow">Zajtra</string>
+  <string name="birthday_event_description_yesterday">Včera</string>
+  <string name="birthday_notification_text_days_later">%1$s dní do %4$s (%5$s)</string>
+  <string name="birthday_notification_title_days_later">%1$s %2$s bude.</string>
 </resources>

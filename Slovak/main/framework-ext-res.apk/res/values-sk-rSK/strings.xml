@@ -103,4 +103,8 @@
   <string name="status_bar_toggle_wifi">Wi-Fi</string>
   <string name="status_bar_toggle_wifi_ap">Hot-spot</string>
   <string name="unknown_caller">Neznáme číslo</string>
+  <string name="fp_nav_center_action_choose_dlg_msg">Môžete sa vrátiť na domácu plochu podržaním tlačidla Domov. Môžete si nastaviť návrat na domácu plochu len stlačením tlačidla Domov. Túto funkciu si viete nastaviť v Nastavenia &gt; Ďalšie nastavenia &gt; Tlačidlá.</string>
+  <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nie ďakujem</string>
+  <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Upraviť</string>
+  <string name="fp_nav_center_action_choose_dlg_title">Upraviť tlačidlo Domov</string>
 </resources>

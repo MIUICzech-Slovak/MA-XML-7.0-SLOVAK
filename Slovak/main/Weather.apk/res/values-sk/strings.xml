@@ -317,4 +317,6 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="sunrise">Východ slnka</string>
   <string name="sunset">Západ slnka</string>
   <string name="title_share_link">Zdieľať URL</string>
+  <string name="information_manager_information">Informácie o počasí</string>
+  <string name="information_manager_wlan">Načítať len na Wi-Fi</string>
 </resources>

@@ -600,4 +600,13 @@ s "</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
   <string name="passport_xiaomi_account_sec_dspt2_vip">Pre prihlásenie sa k vášmu Xiaomi účtu je nutné internetové pripojenie, vyhľadať vaše zariadenie a povoliť MiCloud.</string>
+  <string name="activate_email_notice">Váš účet musíte aktivovať do 24 hodín</string>
+  <string name="change_activate_email">Zmeniť emailovú adresu</string>
+  <string name="confirm_activate_email">Overené</string>
+  <string name="input_email_address_notice">Táto adresa bude použitá pre overenie vášho účtu</string>
+  <string name="resend_active_email">Odoslať znova</string>
+  <string name="resend_email_reach_limit_message">Vyžiadali ste si priveľa overovacích emailov. Skontrolujte zložku SPAM vo vašej emailovej schránke.</string>
+  <string name="resend_email_reach_limit_title">Nebolo možné odoslať email</string>
+  <string name="resend_email_success">Email znova odoslaný</string>
+  <string name="send_email_activate_message">Overovací email odoslaný</string>
 </resources>

@@ -598,4 +598,8 @@ Your carrier's accounting shows you've used %1$s of your peak-time data this mon
 Rolled over extra data"</string>
   <string name="traffic_limit_error_alert_package">"
 Remaining data includes data that has been rolled over from the previous month."</string>
+  <string name="sim_location_error_dialog_message">SIM ktorú používate je z %1$s. Táto poloha SIM karty sa nezhoduje s polohou ktorú ste nastavili manuálne (%2$s). Zmeniť polohu SIM karty na %3$s?</string>
+  <string name="sim_location_error_notify_message">Dotykom zmeníte polohu SIM karty.</string>
+  <string name="sim_location_error_notify_title">Chyba SIM karty</string>
+  <string name="traffic_setting_fragment_loacation_alert_nomore">Viac nezobrazovať</string>
 </resources>
