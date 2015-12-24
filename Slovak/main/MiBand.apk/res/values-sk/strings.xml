@@ -966,7 +966,6 @@ Pokračujte!"</string>
   <string name="running_distance_detail">%.2fkm</string>
   <string name="running_distance_unit">Vzdialenosť (km)</string>
   <string name="running_distance_mile_unit">Vzdialenosť (mi)</string>
-  <string name="running_distance_unit">Vzdialenosť (km)</string>
   <string name="running_end_time">Koniec</string>
   <string name="running_failed_to_get_history_neterror">Nie je možné sa pripojiť k sieti</string>
   <string name="running_gallery">Galéria</string>
@@ -1082,7 +1081,6 @@ Keep Bluetooth on when running."</string>
   <string name="running_prompt_per_kilometer" formatted="false">Zabehli ste %skm. Spálili ste %s. Tempo je %s.%s</string>
   <string name="running_real_time_pace">Tempo (km)</string>
   <string name="running_real_time_mile_pace">Tempo (min/mi)</string>
-  <string name="running_real_time_pace">Tempo (min/km)</string>
   <string name="running_resume">Pokračovať</string>
   <string name="running_sec">%ds</string>
   <string name="running_set_dist">Upozornenie na vzdialenosť</string>
