@@ -149,7 +149,7 @@
   <string name="hints_latest_garbage_cleanup_never">Nikdy nečistené</string>
   <string name="hints_latest_garbage_cleanup_today">Posledná kontrola: Dnes</string>
   <string name="hints_latest_garbage_cleanup_yesterday">Posledná kontrola: Včera</string>
-  <string name="hints_list_item_clean">Ponechať</string>
+  <string name="hints_list_item_clean">Vyčistiť</string>
   <string name="hints_list_item_keep">Ponechať</string>
   <string name="hints_list_item_lock">Ponechať</string>
   <string name="hints_list_item_unlock">Ponechať</string>
@@ -317,7 +317,7 @@
   <string name="toast_selecte_group_restore_succeed">Fotografie obnovené</string>
   <string name="toast_uninstall_success">Odinštalované</string>
   <string name="total_clean">Celkovo vyčistené: %s</string>
-  <string name="total_clean_text">Čisté</string>
+  <string name="total_clean_text">Vyčistené</string>
   <string name="traffic_top">TOP 5 apl. s najväčšou spotrebou dát</string>
   <string name="unlike">Nie</string>
   <string name="virus_scan">Antivírus</string>
