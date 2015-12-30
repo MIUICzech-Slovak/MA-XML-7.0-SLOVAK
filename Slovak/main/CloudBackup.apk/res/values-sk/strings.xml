@@ -41,7 +41,7 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="cloud_back_up_frequence_short">Každý deň</string>
   <string name="cloud_back_up_interval_long">7 dní</string>
   <string name="cloud_back_up_interval_short">Každý deň</string>
-  <string name="cloud_back_up_no_network_warn">Nie je možné sa pripojiť k sieti</string>
+  <string name="cloud_back_up_no_network_warn">Nie je možné sa pripojiť k Wi-Fi</string>
   <string name="cloud_back_up_ok_btn">OK</string>
   <string name="cloud_back_up_opening">Načítavanie...</string>
   <string name="cloud_back_up_share_activity_confirm">Navýšiť</string>

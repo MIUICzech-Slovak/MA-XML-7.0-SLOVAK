@@ -156,7 +156,7 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_check_sim_title">"Zrejme bola zmenená SIM karta. Prihláste sa
 do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_confusion_account_hint">Zmeny ktoré urobíte v tomto zariadení sa budú synchronizovať do všetkých vašich zariadení. Pre ochránenie vášho účtu odporúčame deaktivovať synchr. pre ostatné zariadenia ak ich nepoužívate.</string>
-  <string name="micloud_confusion_account_name">"Xiaomi účet ID: "</string>
+  <string name="micloud_confusion_account_name">"Účet: "</string>
   <string name="micloud_confusion_account_notify_text">Váš Xiaomi účet bol zmenený z iného zariadenia.</string>
   <string name="micloud_confusion_account_notify_title">Overiť účet</string>
   <string name="micloud_confusion_account_question">Patrí vám Xiaomi účet %s?</string>
@@ -461,4 +461,14 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="header_find_device_settings">Vyhľadať zariadenie</string>
   <string name="cloud_restore_title">Obnoviť zo zálohy</string>
   <string name="mx_sub_dspt_provision_with_voip">Internetové volanie</string>
+  <string name="micloud_main_message_not_synced">%s nesynchr.</string>
+  <string name="micloud_main_title_not_synced">Nesynchr.</string>
+  <string name="micloud_notif_content_battery_low">Batéria je príliš slabá.</string>
+  <string name="micloud_notif_content_master_depend_wifi">Pripojte sa na Wi-Fi sieť.</string>
+  <string name="micloud_notif_content_memory_low">Nie je dostatok miesta na úložisku.</string>
+  <string name="micloud_notif_content_sync_with_off">Dotykom synchr. vaše zariadenie.</string>
+  <string name="micloud_notif_title_battery_low">Nie je možné synchr. s MiCloud</string>
+  <string name="micloud_notif_title_master_depend_wifi">Nie je možné synchr. s MiCloud</string>
+  <string name="micloud_notif_title_memory_low">Nie je možné synchr. s MiCloud</string>
+  <string name="micloud_notif_title_sync_with_off">Synchr. s MiCloud</string>
 </resources>

@@ -1007,4 +1007,7 @@ Chcete odísť z tejto stránky?"</string>
   <string name="unknown_title">Neznámy</string>
   <string name="go_supermarket_button">Choď</string>
   <string name="go_supermarket_title">Viac apl., rýchlejšie a menej dát v Google Play</string>
+  <string name="pull_to_refresh_pull_label">Potiahnite pre obnovenie...</string>
+  <string name="pull_to_refresh_refreshing_label">Načítavanie...</string>
+  <string name="pull_to_refresh_release_label">Pustite pre obnovenie</string>
 </resources>

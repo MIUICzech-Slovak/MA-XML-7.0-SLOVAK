@@ -1010,4 +1010,12 @@ Delta update size: %2$s"</string>
   <string name="questionnair_title">Vymazanie účtu</string>
   <string name="questionnair_ui_not_pretty">Nepáči sa mi dizajn aplikácie</string>
   <string name="questionnair_waste_resource">Vymazanie môže uvoľniť úložisko</string>
+  <string name="account_setup_failed_dlg_bar_title">Tipy na prihlásenie %s</string>
+  <string name="account_setup_failed_dlg_error_code">Chyba: %s</string>
+  <string name="account_setup_failed_dlg_todo1">Nastavte účet tak ako je nižšie alebo sa prihláste cez Exchange.</string>
+  <string name="account_setup_failed_dlg_todo2">Nastavte účet tak ako je nižšie.</string>
+  <string name="email_netease">NetEase Mail</string>
+  <string name="email_qq">QQ Mail</string>
+  <string name="email_sina">Sina Mail</string>
+  <string name="try_exchange_login">Skúste sa prihlásiť s Exchange</string>
 </resources>

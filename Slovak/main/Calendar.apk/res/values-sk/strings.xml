@@ -371,4 +371,13 @@
   <string name="birthday_event_description_yesterday">Včera</string>
   <string name="birthday_notification_text_days_later">%1$s dní do %4$s (%5$s)</string>
   <string name="birthday_notification_title_days_later">%1$s %2$s bude.</string>
+  <string name="network_not_available">Nie je možné pripojiť sa k sieti</string>
+  <string name="no_network_btn">Skúsiť znova</string>
+  <string name="user_notice_button_exit">Ukončiť</string>
+  <string name="user_notice_button_ok">OK</string>
+  <string name="user_notice_declaration_ignore">Viac nezobrazovať</string>
+  <string name="user_notice_message">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Niektoré funkcie vyžadujú internetové pripojenie, vašu polohu a prístup ku kontaktom pre ich správne fungovanie.</string>
+  <string name="user_notice_title">Upozornenie</string>
+  <string name="user_notification">Upozornenie</string>
+  <string name="user_notification_descrip">Zobraziť upozornenie pri každom otvorení kalendára</string>
 </resources>
