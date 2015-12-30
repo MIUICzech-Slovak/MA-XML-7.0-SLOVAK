@@ -1196,4 +1196,6 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="default_areacode">Default area code</string>
   <string name="network_unconnected_message_livetalk">Chyba siete. Skúste uskutočniť hovor. Bude to zmenené vašim operátorom.</string>
   <string name="network_unconnected_title">Chyba siete</string>
+  <string name="volte_switch_summary">Použiť VoLTE pre zlepšenie kvality hlasu</string>
+  <string name="volte_switch_title">VoLTE povolené</string>
 </resources>
