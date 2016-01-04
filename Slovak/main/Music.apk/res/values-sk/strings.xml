@@ -485,4 +485,14 @@
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
+  <string name="current_version">Súčasná verzia</string>
+  <string name="notification_des_next_song">ďalšia skladba: %s</string>
+  <string name="notification_des_no_song">Pustite si nejakú hudbu.</string>
+  <string name="notification_headset_custom">Zrušiť</string>
+  <string name="notification_headset_info">Zobraziť nastavenia.</string>
+  <string name="notification_headset_settings">Pripojené slúchadlá</string>
+  <string name="notification_title_no_song">Zistite čo ostatní počúvajú!</string>
+  <string name="settings_notification_text">Zobraziť ovládanie hudby v roletke</string>
+  <string name="settings_notification_title">Widget v roletke</string>
+  <string name="version_info">Verzia</string>
 </resources>

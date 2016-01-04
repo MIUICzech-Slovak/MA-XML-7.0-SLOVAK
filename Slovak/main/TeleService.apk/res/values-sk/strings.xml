@@ -1198,4 +1198,11 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="network_unconnected_title">Chyba siete</string>
   <string name="volte_switch_summary">Použiť VoLTE pre zlepšenie kvality hlasu</string>
   <string name="volte_switch_title">Povoliť VoLTE</string>
+  <string name="can_not_use_for_not_data_sim">(Nie je možné použiť: Musí byť nastavená ako predvolená pre dáta SIM)</string>
+  <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card (except in roaming)."</string>
+  <string name="cdma_alert_title">UIM card must be default</string>
+  <string name="config_default_data_sim">Nastavenia</string>
+  <string name="got_it">OK</string>
+  <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
+  <string name="sim_card_activate">Overenie SIM</string>
 </resources>
