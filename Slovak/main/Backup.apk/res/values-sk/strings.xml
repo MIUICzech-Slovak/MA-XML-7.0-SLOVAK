@@ -266,7 +266,7 @@
 Čakanie na pripojenie starého zariadenia..."</string>
   <string name="trans_sending_completed">Dáta sú odoslané</string>
   <string name="trans_time_format_second">menej ako 1min.</string>
-  <string name="trans_time_remained">, pripravený o</string>
+  <string name="trans_time_remained">", pripravený o "</string>
   <string name="trans_waiting_ensurance">"Uistite sa, že staré zariadenie je zapnuté.
 a Prenos je povolený"</string>
   <string name="trans_waiting_for_sender">Čakanie na pripojenie starého zariadenia...</string>
