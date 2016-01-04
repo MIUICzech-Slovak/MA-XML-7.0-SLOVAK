@@ -245,7 +245,7 @@
   <string name="trans_device_disconnected">Zariadenie odpojené</string>
   <string name="trans_main_tutor">Presuňte kontakty, históriu hovorov, správy, nastavenie plochy, aplikácie, nastavenia, atď. do nového zariadenia.</string>
   <string name="trans_my_device">Moje zariadenie</string>
-  <string name="trans_one_key_migrate">Prenos</string>
+  <string name="trans_one_key_migrate">Prenos dát</string>
   <string name="trans_progress_subdescript_br_receiver">Prijímanie %s</string>
   <string name="trans_progress_subdescript_br_sender">Zálohovanie %s</string>
   <string name="trans_progress_subdescript_transing_receiver">Prijímanie %s</string>
@@ -254,7 +254,7 @@
   <string name="trans_progress_subdescript_transingsd_sender">Odosielanie súborov...</string>
   <string name="trans_progress_subdescript_waiting">Čakanie na prijímanie %s</string>
   <string name="trans_receiver">Som príjemca</string>
-  <string name="trans_receiving_completed">Prijaté dáta</string>
+  <string name="trans_receiving_completed">Dáta boli prenesené</string>
   <string name="trans_restoring">Obnovenie...</string>
   <string name="trans_restoring_no_items">Synchr. položiek</string>
   <string name="trans_select_device_receive">Vyberte zariadenie pre prijatie dát.</string>
