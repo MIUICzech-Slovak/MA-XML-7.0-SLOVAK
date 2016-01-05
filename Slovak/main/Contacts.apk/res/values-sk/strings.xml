@@ -1343,4 +1343,18 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="miprofile_nick_name_edit_dialog_message">Prezývka sa zobrazí pri volaní a info o kontakte</string>
   <string name="miprofile_nick_name_edit_dialog_title">Upraviť prezývku</string>
   <string name="phone_number_too_long_toast">Číslo je príliš dlhé</string>
+  <string name="miprofile_contact_add">Pridať</string>
+  <string name="miprofile_contact_added">Pridané</string>
+  <string name="miprofile_contact_header">Kontakty s kartou kontaktu</string>
+  <string name="miprofile_contact_meaasge">Lokálne kontakty</string>
+  <string name="miprofile_contact_verifying">Overovanie</string>
+  <string name="miprofile_find_miprofile_title">Pridať profil</string>
+  <string name="miprofile_find_profile_batch_add">Pridať všetky profily</string>
+  <string name="miprofile_find_profile_batch_finish">Dokončené</string>
+  <string name="miprofile_find_profile_batch_request_failed">Pridanie profilu zlyhalo</string>
+  <string name="miprofile_find_profile_loading">Načítavanie...</string>
+  <string name="miprofile_find_profile_no_recommend">Žiaden odporúčaný profil</string>
+  <string name="miprofile_find_profile_subtitle">Pridajte fotografiu a viac info</string>
+  <string name="miprofile_finding_label">Karty kontaktov</string>
+  <string name="miprofile_request_header">Žiadosti na výmenu (platnosť skončí po týždni)</string>
 </resources>

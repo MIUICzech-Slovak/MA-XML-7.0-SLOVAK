@@ -630,5 +630,5 @@ Pokus: %s."</string>
   <string name="card_insert_to_contact">Importovať kontakt</string>
   <string name="found_wild_messages_guide_sync_not_started">Synchr. ešte nezačala</string>
   <string name="wild_msg_processing">Spracovávanie...</string>
-  <string name="wild_msg_title">Povoliť synchr. cloudu</string>
+  <string name="wild_msg_title">Vyberte tel. číslo pre synchr.</string>
 </resources>
