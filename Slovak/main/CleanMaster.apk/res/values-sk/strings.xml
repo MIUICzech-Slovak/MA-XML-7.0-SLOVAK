@@ -267,8 +267,8 @@
   <string name="similar_image_title">Vymazať podobné fotografie</string>
   <string name="start_install">Inštalovať</string>
   <string name="summary_auto_cleaner">Vyčistiť systém automaticky každé 3 dni?</string>
-  <string name="summary_delete_cache">Niektoré aplikácie vyžaduju tieto dáta pre ich správnu funkciu.</string>
-  <string name="summary_delete_large_file">Niektoré veľké súbory môžu byť využívané aplikáciami v offline režime (napr. mapy, atď.). Uistite sa, že ich nepotrebujete.</string>
+  <string name="summary_delete_cache">Vymazať cache vybraných aplikácií?</string>
+  <string name="summary_delete_large_file">Vymazzať tieto súbory natrvalo?</string>
   <string name="summary_optimizer">Odoslať a skontrolovať neznáme názvy súborov s online databázou</string>
   <string name="text_optimizer">Použiť online databázu</string>
   <string name="there_is_no">Všetko vyzerá byť v poriadku</string>
@@ -284,9 +284,9 @@
   <string name="tips_of_traffic_pack_threshold">"Buy more data when you're about to reach your traffic limit"</string>
   <string name="tips_of_virus_scan">Skontrolujte svoje zariadenie na prítomnosť vírusov pre vašu bezpečnosť</string>
   <string name="title_auto_cleaner">Automaticky vyčistiť?</string>
-  <string name="title_delete_cache">Vymazať cache?</string>
+  <string name="title_delete_cache">Vymazať cache</string>
   <string name="title_delete_clipboard">Obsah schránky</string>
-  <string name="title_delete_large_file">Vymazať tieto súbory?</string>
+  <string name="title_delete_large_file">Vymazať veľké súbory</string>
   <string name="title_of_auto_launch_manage">Autoštart</string>
   <string name="title_of_cloud_service">Cloudové služby</string>
   <string name="title_of_garbage_cloud_scan">Kontrola cloudu</string>
@@ -360,4 +360,22 @@
   <string name="label_preserve_the_best_image">Uložiť ostrejšiu fotografiu</string>
   <string name="see_more">Viac</string>
   <string name="sponsored">Sponzorované</string>
+  <string name="activity_title_deep_apk">Vymazať APK</string>
+  <string name="activity_title_video">Vymazať videá</string>
+  <string name="deepclean_apk_content">vymazať APK alebo nepotrebné aplikácie</string>
+  <string name="deepclean_apk_summary_empty">Všetko vyzerá byť v poriadku, žiadne APK na vymazanie</string>
+  <string name="deepclean_apk_version_error">Neznáme</string>
+  <string name="deepclean_video_content">Vymazať prehrané alebo nepotrebné videá</string>
+  <string name="deepclean_video_summary_empty">Všetko vyzerá byť OK</string>
+  <string name="empty_title_video">Žiadne videá na vymazanie​</string>
+  <string name="hints_cache_msd_desc">Vymazanie aktualizačných súborov aplikácií neovplyvní ich fungovanie</string>
+  <string name="hints_cache_msd_title">Aktualizačný súbor</string>
+  <string name="hints_installed_app_fewer">Zriedka použité</string>
+  <string name="hints_installed_app_near">Nedávno použité</string>
+  <string name="hints_installed_app_never">Nikdy nepoužité</string>
+  <string name="hints_video_camera">Nahrané videá</string>
+  <string name="hints_video_download">Stiahnuté videá</string>
+  <string name="summary_delete_apk">Vymazať vybrané APK?</string>
+  <string name="summary_delete_video">Vymazať vybrané videá?</string>
+  <string name="title_delete_deepclean">Vymazať</string>
 </resources>

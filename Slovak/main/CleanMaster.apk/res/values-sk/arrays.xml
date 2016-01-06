@@ -30,9 +30,9 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>Vyčistiť</item>
+        <item>Inštalovať</item>
         <item>Zobraziť umiestnenie súboru</item>
         <item>Výnimka</item>
-        <item>Inštalovať</item>
     </string-array>
     <string-array name="app_clean_menu">
         <item>Podrobnosti</item>
@@ -53,4 +53,9 @@
         <item>Zobraziť umiestnenie súboru</item>
         <item>Pridať súbor do výnimiek</item>
      </string-array>
+    <string-array name="video_clean_menu">
+        <item>Vyčistiť tento súbor</item>
+        <item>Otvoriť</item>
+        <item>Pridať súbor do výnimiek</item>
+    </string-array>
 </resources>

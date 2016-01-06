@@ -4372,4 +4372,5 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="cloud_restore_section_title">Obnoviť z MiCloud</string>
   <string name="convenience_key_category_title">Convenience key</string>
   <string name="fp_nav_center_back_to_home_title">Stlačte tlačidlo Domov pre návrat na domácu plochu</string>
+  <string name="fingerprint_identify_msg">Skenovanie odtlačku prsta...</string>
 </resources>

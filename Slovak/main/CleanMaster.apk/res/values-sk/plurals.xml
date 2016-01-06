@@ -61,4 +61,12 @@
         <item quantity="other">Nájdených %d fotografií, môžete vymazať duplikáty</item>
         <item quantity="one">Nájdená %d fotografia, môžete vymazať duplikáty</item>
     </plurals>
+    <plurals name="deepclean_apk_summary">
+        <item quantity="other">Nájdených %d APK, môžete vymazať zbytočné súbory.</item>
+        <item quantity="one">Nájdená %d APK, môžete ju vymazať.</item>
+    </plurals>
+    <plurals name="deepclean_video_summary">
+        <item quantity="other">Nájdených %d videí, môžete vymazať zbytočné súbory.​</item>
+        <item quantity="one">Nájdené %d video, môžete ho vymazať.</item>
+    </plurals>
 </resources>

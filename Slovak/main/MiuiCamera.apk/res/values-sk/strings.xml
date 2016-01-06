@@ -622,4 +622,5 @@ opustite na chvíľu náhľad"</string>
   <string name="accessibility_countdown">tlačidlo odpočítavania</string>
   <string name="accessibility_peak">Tlačidlo Focus-Peak</string>
   <string name="pref_camera_age_watermark_title">Zobraziť vek a pohlavie</string>
+  <string name="pref_camera_snap_toast_when_volume_can_wake_screen">Nie je možné použiť \"Rýchle zhotovenie fotografie\" ak sa používajú tlačidlá hlasitosti na prebudenie displeja.</string>
 </resources>
