@@ -615,7 +615,7 @@ opustite na chvíľu náhľad"</string>
   <string name="wifi_security">Zabezpečenie:</string>
   <string name="wifi_ssid">SSID:</string>
   <string name="wifi_warning">Pred pripojením sa uistite, že táto Wi-Fi sieť je bezpečná</string>
-  <string name="pref_camera_snap_entry_off">Off</string>
+  <string name="pref_camera_snap_entry_off">Vypnuté</string>
   <string name="pref_camera_snap_entry_take_movie">Počas vypnutého displeja stlačte a podržte tlačidlo hlasitosti nadol pre natáčanie videa. Pustite tlačidlo pre zastavenie natáčania.</string>
   <string name="pref_camera_snap_entry_take_picture">Počas vypnutého displeja stlačte a podržte tlačidlo hlasitosti nadol pre dávkové snímanie fotografií. Pustite tlačidlo pre zastavenie.</string>
   <string name="accessibility_audio_shutter_bg">tlačidlo spúšte zvukom</string>
