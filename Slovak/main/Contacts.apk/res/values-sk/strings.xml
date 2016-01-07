@@ -683,7 +683,7 @@ Chyba: \"%s\""</string>
   <string name="miprofile_request_time_expired_deleted">Žiadosti staršie ako 1 týždeň budú automaticky vymazané.</string>
   <string name="miprofile_save_alertdialog_message">Vaša karta bude automaticky odoslaná tomuto kontaktu.</string>
   <string name="miprofile_save_alertdialog_title">Karta kontaktu prijatá</string>
-  <string name="miprofile_switch_off_alertdialog_message">Nebude možné si vymeniž vašu kartu kontaktu s ostatnými MIUI užívateľmi. Vaše kontakty nebudú vidieť vaše profilové video.</string>
+  <string name="miprofile_switch_off_alertdialog_message">Nebude možné si vymeniť vašu kartu kontaktu s ostatnými MIUI užívateľmi. Vaše kontakty nebudú vidieť vaše profilové video.</string>
   <string name="miprofile_switch_on_alertdialog_message">Vymeňte si karty kontaktu pre zobrazenie aktuálnej profilovej fotogarfie.</string>
   <string name="miprofile_switch_on_alertdialog_positive">Zapnúť</string>
   <string name="miprofile_switch_on_alertdialog_title">Aktualizácia profilovej fotografie</string>
