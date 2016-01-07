@@ -4357,7 +4357,7 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="zen_mode_summary_combination">%1$s: %2$s</string>
   <string name="zen_schedule_rule_enabled_toast">Automatické pravidlo bolo nastavené na Nerušiť v určitých časoch</string>
   <string name="zen_schedule_rule_type_name">Pravidlo pre časové obdobie</string>
-    <string name="storage_wizard_format_confirm_public_title">Formátovať ako prenosné úložisko</string>		
+  <string name="storage_wizard_format_confirm_public_title">Formátovať ako prenosné úložisko</string>		
   <string name="encryption_interstitial_message_pin">"Ďalšiu ochranu tohto zariadenia zabezpečíte požadovaním kódu PIN pred spustením. Toto zariadenie nemôže prijímať hovory, správy ani upozornenia (vrátane budíkov), dokým sa nespustí. 		
 		
 Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</string>
@@ -4372,4 +4372,12 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="cloud_restore_section_title">Obnoviť z MiCloud</string>
   <string name="convenience_key_category_title">Convenience key</string>
   <string name="fp_nav_center_back_to_home_title">Stlačte tlačidlo Domov pre návrat na domácu plochu</string>
+  <string name="close_miui_optimization_title">Deaktivovať optimalizáciu MIUI</string>
+  <string name="close_miui_optimization_warning_message">Vaše zariadenie sa reštartuje pre aplikovanie týchto zmien. Poznámka: Deaktivovanie optimalizácie systému MIUI zmení rozloženie a ostatné vizuálne stránky MIUI.</string>
+  <string name="miui_experience_optimization">Aktivovať optimalizáciu MIUI</string>
+  <string name="open_miui_optimization_title">Aktivovať optimalizáciu MIUI</string>
+  <string name="open_miui_optimization_warning_message">Vaše zariadenie sa reštartuje pre aplikovanie týchto zmien</string>
+  <string name="optimization_cancel">Zrušiť</string>
+  <string name="optimization_close">Deaktivovať a reštartovať</string>
+  <string name="optimization_open">Aktivovať</string>
 </resources>
