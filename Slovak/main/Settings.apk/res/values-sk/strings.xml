@@ -4380,5 +4380,5 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="optimization_cancel">Zrušiť</string>
   <string name="optimization_close">Deaktivovať a reštartovať</string>
   <string name="optimization_open">Aktivovať</string>
-  <string name="battery_light_title">Battery light</string>
+  <string name="battery_light_title">LED nabíjania</string>
 </resources>
