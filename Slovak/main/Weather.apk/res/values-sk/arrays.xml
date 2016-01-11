@@ -70,5 +70,30 @@
         <item>Nízky</item>
         <item>Stredný</item>
         <item>Silný</item>
-    </string-array>    
+    </string-array>   
+    <string-array name="hot_city">
+        <item>Bratislava</item>
+        <item>Košice</item>
+        <item>Prešov</item>
+        <item>Žilina</item>
+        <item>Banská Bystrica</item>
+        <item>Humenné</item>
+        <item>Pezinok</item>
+        <item>Poprad</item>
+        <item>Trebišov</item>
+        <item>Stropkov</item>
+        <item>Štrbské pleso</item>
+        <item>Lučenec</item>
+        <item>Chopok</item>
+        <item>Prievidza</item>
+        <item>Dudince</item>
+        <item>Nitra</item>
+        <item>Trnava</item>
+        <item>Piešťany</item>
+        <item>Hurbanovo</item>
+        <item>Lomnický štít</item>
+        <item>Sliač</item>
+        <item>Telgárt</item>
+        <item>Liptovský Mikuláš</item>
+    </string-array>	
 </resources>

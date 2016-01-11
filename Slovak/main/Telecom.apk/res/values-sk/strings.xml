@@ -40,4 +40,5 @@
   <string name="outgoing_call_not_allowed_user_restriction">Vlastník zariadenia povolil iba tiesňové volania</string>
   <string name="userCallActivityLabel">Telefón</string>
   <string name="notification_missedCall_call_back_miui">Hovor</string>
+  <string name="can_not_dial_while_vt_prompt">Nie je možné vytočiť počas video hovoru</string>
 </resources>

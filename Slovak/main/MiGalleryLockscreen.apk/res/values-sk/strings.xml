@@ -5,7 +5,7 @@
   <string name="cancel">Ukončiť</string>
   <string name="change_time">Zmeniť interval</string>
   <string name="day">1 deň</string>
-  <string name="declaration">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia. Táto služba vyžaduje pripojenie na internet."</string>
+  <string name="declaration"/>
   <string name="declaration_title">Podmienky používania</string>
   <string name="hour_1">1 hodina</string>
   <string name="hour_3">3 hodiny</string>
@@ -23,4 +23,5 @@
   <string name="theme_apply_success">Tapeta nastavená</string>
   <string name="theme_applying">Nastavovanie...</string>
   <string name="wlan_download">Iba cez Wi-Fi</string>
+  <string name="summary">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia. Táto služba vyžaduje pripojenie na internet."</string>
 </resources>
