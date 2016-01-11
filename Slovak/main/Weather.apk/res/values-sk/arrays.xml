@@ -73,27 +73,27 @@
     </string-array>   
     <string-array name="hot_city">
         <item>Bratislava</item>
-        <item>Košice</item>
-        <item>Prešov</item>
-        <item>Žilina</item>
-        <item>Banská Bystrica</item>
-        <item>Humenné</item>
+        <item>Kosice</item>
+        <item>Presov</item>
+        <item>Zilina</item>
+        <item>Banska Bystrica</item>
+        <item>Humenne</item>
         <item>Pezinok</item>
         <item>Poprad</item>
-        <item>Trebišov</item>
+        <item>Trebisov</item>
         <item>Stropkov</item>
-        <item>Štrbské pleso</item>
-        <item>Lučenec</item>
+        <item>Strbské pleso</item>
+        <item>Lucenec</item>
         <item>Chopok</item>
         <item>Prievidza</item>
         <item>Dudince</item>
         <item>Nitra</item>
         <item>Trnava</item>
-        <item>Piešťany</item>
+        <item>Piestany</item>
         <item>Hurbanovo</item>
-        <item>Lomnický štít</item>
-        <item>Sliač</item>
-        <item>Telgárt</item>
-        <item>Liptovský Mikuláš</item>
+        <item>Lomnicky stit</item>
+        <item>Sliac</item>
+        <item>Telgart</item>
+        <item>Liptovsky Mikulas</item>
     </string-array>	
 </resources>
