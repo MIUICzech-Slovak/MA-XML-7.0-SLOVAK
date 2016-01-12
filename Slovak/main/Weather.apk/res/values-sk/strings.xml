@@ -300,7 +300,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="indices_desc_humidity">Vlhkosť %1$s%%</string>
   <string name="indices_desc_pressure">%1$shPa</string>
   <string name="indices_no_restriction">Žiadne</string>
-  <string name="indices_title_Precip1hr">Predpoveď 1hr</string>
+  <string name="indices_title_Precip1hr">Zrážky</string>
   <string name="indices_title_car_wash">Umývanie auta</string>
   <string name="indices_title_feel">Pocitovo</string>
   <string name="indices_title_humidity">Vlhkosť</string>
