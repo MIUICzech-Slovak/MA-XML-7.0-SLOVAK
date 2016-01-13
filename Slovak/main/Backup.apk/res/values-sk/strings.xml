@@ -246,12 +246,12 @@
   <string name="trans_main_tutor">Presuňte kontakty, históriu hovorov, správy, nastavenie plochy, aplikácie, nastavenia, atď. do nového zariadenia.</string>
   <string name="trans_my_device">Moje zariadenie</string>
   <string name="trans_one_key_migrate">Prenos dát</string>
-  <string name="trans_progress_subdescript_br_receiver">Prijímanie %s</string>
-  <string name="trans_progress_subdescript_br_sender">Zálohovanie %s</string>
-  <string name="trans_progress_subdescript_transing_receiver">Prijímanie %s</string>
+  <string name="trans_progress_subdescript_br_receiver">Obnovenie %1$s, %2$s dokončené</string>
+  <string name="trans_progress_subdescript_br_sender">Zálohovanie %1$s, %2$s dokončené</string>
+  <string name="trans_progress_subdescript_transing_receiver">Prijímanie %1$s, %2$s dokončené</string>
   <string name="trans_progress_subdescript_transing_sender">Odosielanie %s</string>
-  <string name="trans_progress_subdescript_transingsd_receiver">Prijímanie súborov...</string>
-  <string name="trans_progress_subdescript_transingsd_sender">Odosielanie súborov...</string>
+  <string name="trans_progress_subdescript_transingsd_receiver">Prijímanie súborov, %s dokončené</string>
+  <string name="trans_progress_subdescript_transingsd_sender">Odosielanie súborov, %s dokončené</string>
   <string name="trans_progress_subdescript_waiting">Čakanie na prijímanie %s</string>
   <string name="trans_receiver">Som príjemca</string>
   <string name="trans_receiving_completed">Dáta boli prenesené</string>
@@ -291,4 +291,29 @@ a stlačte [Som odosielateľ]"</string>
   <string name="trans_scan_invalid_qrcode">Chybný QR kód</string>
   <string name="trans_scan_qr_code_tips">Načítajte QR kód novým zariadením</string>
   <string name="trans_show_qr_code_tips">Načítajte QR kód starým zariadením</string>
+   <string name="button_send">Odoslať</string>
+  <string name="local_select_audio">Hudba</string>
+  <string name="local_select_doc">Dokumenty</string>
+  <string name="local_select_image">Obrázky</string>
+  <string name="local_select_video">Videá</string>
+  <string name="size_byte">B</string>
+  <string name="size_giga_byte">GB</string>
+  <string name="size_kilo_byte">KB</string>
+  <string name="size_mega_byte">MB</string>
+  <string name="trans_operate_func_one">Metóda A</string>
+  <string name="trans_operate_func_two">Metóda B</string>
+  <string name="trans_receiver_time_remained">"%s ostáva. Skontrolujte stav batérie.
+Nevypínajte Hotspot. Držte obe zariadenia v blízkosti."</string>
+  <string name="trans_select_data">Vyberte dáta</string>
+  <string name="trans_select_data_no_space">"%s dostupné na novom zariadení
+Vyberte súbory znova pre uvoľnenie úložiska"</string>
+  <string name="trans_select_data_tips">"Vyberte súbory na prenesenie
+Rovnaké súbory na novom zariadení budú prepísané"</string>
+  <string name="trans_sender_time_remained">"%s ostáva. Skontrolujte stav batérie.
+Nevypínajte Wi-Fi. Držte obe zariadenia v blízkosti."</string>
+  <string name="trans_show_qr_code_label">Pripojte staré zariadenie</string>
+  <string name="trans_time_spent">"
+Čas trvania %s"</string>
+ <string name="trans_wait_trans_data">"Pripojte sa k starému zariadeniu.
+Čakanie na prenos..."</string>
 </resources>

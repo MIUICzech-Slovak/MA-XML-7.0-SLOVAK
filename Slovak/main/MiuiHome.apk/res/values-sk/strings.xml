@@ -298,4 +298,7 @@
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
   <string name="apply_as_lockwallpaper_action">Zámok obrazovky</string>
+  <string name="add_screen">Pridať tlačidlo plochy</string>
+  <string name="delete_screen">Vymazať tlačidlo plochy</string>
+  <string name="screen_number">Plocha: %d</string>
 </resources>
