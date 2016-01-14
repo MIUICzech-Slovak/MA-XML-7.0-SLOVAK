@@ -441,7 +441,7 @@ Použite MiScale pre sledovanie hmotnosti vášho dieťaťa"</string>
   <string name="health_link">HealthLink</string>
   <string name="health_provider_desc">Personal health and fitness services</string>
   <string name="heartrate">Pulz</string>
-  <string name="heartrate_version">HeartRate version</string>
+  <string name="heartrate_version">HeartRate verzia</string>
   <string name="heavier_than_goal">%1$s viac ako váš cieľ</string>
   <string name="height_less_than_100">Nie je možné analyzovať telo s výškou menej ako 100cm</string>
   <string name="hello_world">Hello world!</string>
@@ -1381,7 +1381,7 @@ Logo upwards"</string>
   <string name="skip">Preskočiť</string>
   <string name="sleep_assist">Asistent spánku</string>
   <string name="sleep_assist_info">Merať pulz každé 2 min počas spánku pre čo najpresnejšie sledovanie vášho spánku.</string>
-  <string name="sleep_assist_tips">MErať pulz nepretržite počas spánku pre čo najpresnejšie sledovanie vášho spánku. (zvýši sa spotreba batérie).</string>
+  <string name="sleep_assist_tips">Merať pulz nepretržite počas spánku pre presné sledovanie vášho spánku. (zvýši sa spotreba batérie).</string>
   <string name="sleep_assist_title">Asistent spánku</string>
   <string name="smaller_than_normal_with_value">Pod štandardom %1$s</string>
   <string name="smart_alarm_clock">Inteligentný budík</string>
