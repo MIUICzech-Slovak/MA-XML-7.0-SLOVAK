@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
+<resources>
+    <string-array name="reminder_methods_labels">
+        <item>Notifikácia</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>    
+    <string-array name="reminder_minutes_labels">
+        <item>0 minút</item>
+	    <item>1 minúta</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>20 minút</item>
+        <item>25 minút</item>
+        <item>30 minút</item>
+        <item>45 minút</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>3 hodiny</item>
+        <item>12 hodín</item>
+        <item>24 hodín</item>
+        <item>2 dni</item>
+        <item>1 týždeň</item>
+    </string-array>
+	<string-array name="preferences_default_reminder_labels">
+        <item>Žiadne</item>
+	    <item>0 minut</item>        
+	    <item>1 minúta</item>
+        <item>5 minút</item>
+        <item>10 minút</item>
+        <item>15 minút</item>
+        <item>20 minút</item>
+        <item>25 minút</item>
+        <item>30 minút</item>
+        <item>45 minút</item>
+        <item>1 hodina</item>
+        <item>2 hodiny</item>
+        <item>3 hodiny</item>
+        <item>12 hodín</item>
+        <item>24 hodín</item>
+        <item>2 dni</item>
+        <item>1 týždeň</item>
+    </string-array>
+	<string-array name="preferences_week_start_day_labels">
+        <item>Podľa jazyka</item>
+        <item>Sobota</item>
+        <item>Nedeľa</item>
+        <item>Pondelok</item>
+    </string-array>
+    <string-array name="availability">
+        <item>Zaneprázdnený</item>
+        <item>Dostupný</item>
+        <item>Možno</item>
+    </string-array>
+    <string-array name="visibility">
+        <item>Predvolené</item>
+        <item>Súkromné</item>
+        <item>Verejné</item>
+    </string-array>
+    <string-array name="ordinal_labels">
+        <item>prvý</item>
+        <item>druhý</item>
+        <item>tretí</item>
+        <item>štvrtý</item>
+        <item>posledný</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Bez odpovede</item>
+        <item>Áno</item>
+        <item>Možno</item>
+        <item>Nie</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Len táto udalosť</item>
+        <item>Táto a ďalšie udalosti</item>
+        <item>Všetky udalosti</item>
+    </string-array>
+    <string-array name="delete_repeating_labels_no_selected">
+        <item>Táto a ďalšie udalosti</item>
+        <item>Všetky udalosti</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Len táto udalosť</item>
+        <item>Všetky nasledujúce udalosti</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>Deň</item>
+        <item>Týždeň</item>
+        <item>Mesiac</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Len ak odmietnutá</item>
+        <item>Ak odmietnutá alebo neodpovedaná</item>
+    </string-array>
+   <string-array name="repeat_by_nth_sun">
+        <item>každú prvú Nedeľu</item>
+        <item>každú druhú Nedeľu</item>
+        <item>každú tretiu Nedeľu</item>
+        <item>každú štvrtú Nedeľu</item>
+        <item>každú poslednú Nedeľu</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>každý prvý Pondelok</item>
+        <item>každý druhý Pondelok</item>
+        <item>každý tretí Pondelok</item>
+        <item>každý štvrtý Pondelok</item>
+        <item>každý posledný Pondelok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>každý prvý Utorok</item>
+        <item>každý druhý Utorok</item>
+        <item>každý tretí Utorok</item>
+        <item>každý štvrtý Utorok</item>
+        <item>každý posledný Utorok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>každú prvú Stredu</item>
+        <item>každú druhú Stredu</item>
+        <item>každú tretiu Stredu</item>
+        <item>každú štvrtú Stredu</item>
+        <item>každú poslednú Stredu</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>každý prvý Štvrtok</item>
+        <item>každý druhý Štvrtok</item>
+        <item>každý tretí Štvrtok</item>
+        <item>každý štvrtý Štvrtok</item>
+        <item>každý posledný Štvrtok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>každý prvý Piatok</item>
+        <item>každý druhý Piatok</item>
+        <item>každý tretí Piatok</item>
+        <item>každý štvrtý Piatok</item>
+        <item>každý posledný Piatok</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>každú prvú Sobotu</item>
+        <item>každú druhú Sobotu</item>
+        <item>každú tretiu Sobotu</item>
+        <item>každú štvrtú Sobotu</item>
+        <item>každú poslednú Sobotu</item>
+    </string-array>
+    <string-array name="quick_response_defaults">
+        <item>Budem chvíľu meškať.</item>
+        <item>Budem tam o 10 min.</item>
+        <item>Začnite bezomna.</item>
+        <item>"Prepač ale nestíham, Naplánujeme na budúce."</item>
+    </string-array>
+</resources>
