@@ -24,4 +24,5 @@
   <string name="theme_applying">Nastavovanie...</string>
   <string name="wlan_download">Iba cez Wi-Fi</string>
   <string name="summary">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia."</string>
+  <string name="at_least_one">Vyberte aspoň jednu kategóriu</string>
 </resources>
