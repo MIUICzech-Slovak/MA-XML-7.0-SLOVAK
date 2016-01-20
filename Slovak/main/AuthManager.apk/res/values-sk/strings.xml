@@ -282,4 +282,8 @@
   <string name="screen_overlay_button">Otvoriť nastavenia</string>
   <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
   <string name="screen_overlay_title">Screen overlay detected</string>
+  <string name="HIPS_Perm_install_shortcut">Odkazy na domácej ploche</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">Pridať odkaz na domácu plochu</string>
+  <string name="HIPS_Perm_process_nfc">NFC</string>
+  <string name="HIPS_Perm_process_nfc_Desc">Prístup k NFC</string>
 </resources>

@@ -364,8 +364,8 @@
   <string name="birthday_event_description_day_before_yesterday">Predvčerom</string>
   <string name="birthday_event_description_days_ago">Pred %1$s dňami</string>
   <string name="birthday_event_description_days_later">O %1$s dní neskôr</string>
-  <string name="birthday_event_description_default">"%1$s %2$s%3$s%4$s"</string>
-  <string name="birthday_event_description_special">"%1$s je %2$s %3$s%4$s%5$s"</string>
+  <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
+  <string name="birthday_event_description_special">"%1$s je %2$s %3$s %4$s %5$s"</string>
   <string name="birthday_event_description_today">Dnes</string>
   <string name="birthday_event_description_tomorrow">Zajtra</string>
   <string name="birthday_event_description_yesterday">Včera</string>

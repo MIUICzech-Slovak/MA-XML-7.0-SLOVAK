@@ -1357,4 +1357,5 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="miprofile_find_profile_subtitle">Pridajte fotografiu a viac info</string>
   <string name="miprofile_finding_label">Karty kontaktov</string>
   <string name="miprofile_request_header">Žiadosti na výmenu (platnosť skončí po týždni)</string>
+  <string name="back_view_description">Ísť naspäť</string>
 </resources>
