@@ -4272,12 +4272,12 @@ Zvážte použitie rýchlejšieho zariadenia (^1) s lepšou výkonnosťou."</str
   <string name="usb_use">Použiť rozhranie USB na</string>
   <string name="usb_use_MIDI">pripojenie zariadenia MIDI,</string>
   <string name="usb_use_charging_only">Iba na nabíjanie</string>
-  <string name="usb_use_file_transfers">prenos súborov (MTP),</string>
-  <string name="usb_use_photo_transfers">prenos fotiek (PTP).</string>
+  <string name="usb_use_file_transfers">Prenos súborov (MTP)</string>
+  <string name="usb_use_photo_transfers">Prenos fotografií (PTP)</string>
   <string name="user_add_max_count">Môžete pridať až %1$d používateľov</string>
   <string name="user_enable_calling_and_sms_confirm_message">S týmto používateľom sa bude zdieľať história hovorov a správ SMS.</string>
   <string name="user_enable_calling_and_sms_confirm_title">Zapnúť telefonické hovory a správy SMS?</string>
-    <string name="volte_provisioned_flag_off">Vypnite poskytovaný príznak VoLTE</string>
+  <string name="volte_provisioned_flag_off">Vypnite poskytovaný príznak VoLTE</string>
   <string name="volte_provisioned_flag_on">Zapnite poskytovaný príznak VoLTE</string>
   <string name="vpn_disconnect">Odpojiť</string>
   <string name="vpn_disconnect_confirm">Odpojte tento profil VPN.</string>
