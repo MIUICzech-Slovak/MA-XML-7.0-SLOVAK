@@ -25,4 +25,7 @@
   <string name="wlan_download">Iba cez Wi-Fi</string>
   <string name="summary">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia."</string>
   <string name="at_least_one">Vyberte aspoň jednu kategóriu</string>
+  <string name="declaration_lockscreen_title">Povoliť dennú tapetu zamyk. obr.</string>
+  <string name="ok_lockscreen">OK</string>
+  <string name="ok_network">Súhlasím</string>
 </resources>
