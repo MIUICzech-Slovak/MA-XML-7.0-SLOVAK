@@ -301,4 +301,5 @@
   <string name="add_screen">Pridať tlačidlo plochy</string>
   <string name="delete_screen">Vymazať tlačidlo plochy</string>
   <string name="screen_number">Plocha: %d</string>
+  <string name="apply">Apply</string>
 </resources>
