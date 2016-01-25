@@ -2259,6 +2259,7 @@ Vyberte váš operačný systém:"</string>
   <string name="quiet_important_interruptions_mode">Povoliť len výnimky</string>
   <string name="quiet_mode">Tichý režim</string>
   <string name="quiet_off_mode">Bežný režim</string>
+  <string name="quiet_no_interruptions_mode">Stíšíť všetko</string>
   <string name="radioInfo_cid">CID</string>
   <string name="radioInfo_data_connected">Pripojené</string>
   <string name="radioInfo_data_connecting">Pripájanie</string>
@@ -4382,4 +4383,5 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="optimization_open">Aktivovať</string>
   <string name="battery_light_title">LED nabíjania</string>
   <string name="free_xiaomi_wifi_connect_summary">Pripojiť sa k %1$s.</string>
+  <string name="battery_light_summary">LED pri nabíjaní</string>
 </resources>
