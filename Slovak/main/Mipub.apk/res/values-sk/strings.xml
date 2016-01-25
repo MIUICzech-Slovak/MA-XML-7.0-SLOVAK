@@ -74,10 +74,10 @@
   <string name="festival_never_remind">Viac nezobrazovať</string>
   <string name="festival_sms_loading">Načítavanie...</string>
   <string name="fetion_prefix">[Fetion]</string>
-  <string name="file_create_time">Vytvorené:</string>
-  <string name="file_size">Veľkosť:</string>
-  <string name="file_title">Názov:</string>
-  <string name="file_width_height">Veľkosť:</string>
+  <string name="file_create_time">"Vytvorené: "</string>
+  <string name="file_size">"Veľkosť: "</string>
+  <string name="file_title">"Názov: "</string>
+  <string name="file_width_height">"Veľkosť: "</string>
   <string name="follow_finished">Sledovanie čísla</string>
   <string name="follow_forbidden">Nie je možné sledovať toto číslo</string>
   <string name="followed_accounts">Sledované účty</string>

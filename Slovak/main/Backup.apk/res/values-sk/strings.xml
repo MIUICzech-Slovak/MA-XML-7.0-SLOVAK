@@ -235,7 +235,7 @@
   <string name="trans_backingup">Zálohovanie...</string>
   <string name="trans_backingup_no_items">Synchr....</string>
   <string name="trans_cancel_confirm">Prebieha prenos, chcete ho zastaviť?</string>
-  <string name="trans_cancelling">Ukončenie</string>
+  <string name="trans_cancelling">Ukončenie...</string>
   <string name="trans_connect_failed_toast">Nebolo možné sa pripojiť</string>
   <string name="trans_connecting_toast">Pripájanie...</string>
   <string name="trans_detail_category_account">Účty a kontakty</string>
@@ -302,15 +302,17 @@ a stlačte [Som odosielateľ]"</string>
   <string name="size_mega_byte">MB</string>
   <string name="trans_operate_func_one">Metóda A</string>
   <string name="trans_operate_func_two">Metóda B</string>
-  <string name="trans_receiver_time_remained">"%s ostáva. Skontrolujte stav batérie.
-Nevypínajte Wi-Fi. Držte obe zariadenia v blízkosti."</string>
+  <string name="trans_receiver_time_remained">"%s ostáva. 
+  Nevypínajte Wi-Fi. 
+  Držte obe zariadenia v blízkosti."</string>
   <string name="trans_select_data">Vyberte dáta na prenos</string>
   <string name="trans_select_data_no_space">"%s dostupné na novom zariadení
 Vyberte súbory znova pre uvoľnenie úložiska"</string>
   <string name="trans_select_data_tips">"Vyberte súbory na prenesenie
 Rovnaké súbory na novom zariadení budú prepísané"</string>
   <string name="trans_sender_time_remained">"%s ostáva.
-Nevypínajte Wi-Fi. Držte obe zariadenia v blízkosti."</string>
+  Nevypínajte Wi-Fi. 
+  Držte obe zariadenia v blízkosti."</string>
   <string name="trans_show_qr_code_label">Pripojte staré zariadenie</string>
   <string name="trans_time_spent">"
 Čas trvania: %s"</string>

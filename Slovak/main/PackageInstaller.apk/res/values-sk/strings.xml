@@ -115,7 +115,8 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="uninstall_update_title">Odinštalovať aktualizáciu</string>
   <string name="uninstalling">Prebieha odinštalovanie...</string>
   <string name="unknown">Neznáme</string>
-  <string name="unknown_apps_dlg_text">Telefón je z dôvodu zabezpečenia nastavený tak, aby blokoval inštalácie aplikácií z neznámych zdrojov.</string>
+  <string name="unknown_apps_dlg_text">Telefón je z dôvodu zabezpečenia nastavený tak, aby blokoval inštalácie aplikácií z neznámych zdrojov. Môžete to kedykoľvek zmeniť v Nastaveniach.</string>
+  <string name="unknown_apps_dlg_text1">"Telefón je z dôvodu zabezpečenia nastavený tak, aby blokoval inštalácie aplikácií z neznámych zdrojov. Môžete to kedykoľvek zmeniť v "</string>
   <string name="unknown_apps_dlg_title">Inštalácia bola zablokovaná</string>
   <string name="unknown_installer">Neznámy inštalátor</string>
   <string name="virus_scan_caller_unknown">Neznámy</string>
@@ -218,4 +219,6 @@ Všetky predchádzajúce používateľské údaje budú uložené."</string>
   <string name="uninstall_blocked_profile_owner">Táto aplikácia sa vyžaduje pre váš pracovný profil a nemôžete ju odinštalovať.</string>
   <string name="uninstall_failed_device_policy_manager_of_user">Balíček nie je možné odinštalovať, pretože je aktívnym správcom zariadenia pre používateľa %1$s.</string>
   <string name="unknown_apps_admin_dlg_text">Váš správca zakázal inštaláciu aplikácií z neznámych zdrojov.</string>
+  <string name="unknown_apps_dlg_text2">\"Nastaveniach\"</string>
+  <string name="unknown_apps_dlg_text3">.</string>
 </resources>
