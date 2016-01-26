@@ -3403,7 +3403,7 @@ sl. Wi‑Fi Assistant"</string>
   <string name="wifi_avoid_poor_network_detection_summary">Použiť iba siete s dobrým pripojením k internetu</string>
   <string name="wifi_cancel">Zrušiť</string>
   <string name="wifi_certificate">Certifikát</string>
-  <string name="wifi_click_share_wlan">Zdieľať heslo k Wi-Fi</string>
+  <string name="wifi_click_share_wlan">Pripojené - Zdieľať heslo k Wi-Fi</string>
   <string name="wifi_config_info">Wi-Fi konfig</string>
   <string name="wifi_configured_ap_list">Zoznam zapamätaných AP</string>
   <string name="wifi_connect">Pripojiť</string>
