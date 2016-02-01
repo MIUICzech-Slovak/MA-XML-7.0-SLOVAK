@@ -62,5 +62,5 @@
   <string name="xiaomi_suggest_base"/>
   <string name="default_hint">Vyhľadať Aplikácie, Hudbu, Video...</string>
   <string name="baidu_search_url">http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</string>
-  <string name="baidu_suggest_base">http://suggestqueries.google.com/complete/search?q=ob&client=toolbar</string>
+  <string name="baidu_suggest_base">http://suggestqueries.google.com/complete/search?q=ob&amp;client=toolbar</string>
 </resources>
