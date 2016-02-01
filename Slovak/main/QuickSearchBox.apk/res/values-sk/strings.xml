@@ -61,4 +61,6 @@
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base"/>
   <string name="default_hint">Vyhľadať Aplikácie, Hudbu, Video...</string>
+  <string name="baidu_search_url">http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</string>
+  <string name="baidu_suggest_base"/>
 </resources>
