@@ -61,6 +61,9 @@
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base"/>
   <string name="default_hint">Vyhľadať Aplikácie, Hudbu, Video...</string>
-  <string name="baidu_search_url">http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</string>
-  <string name="baidu_suggest_base">http://suggestqueries.google.com/complete/search?q=ob&amp;client=toolbar</string>
+  <string name="baidu_search_url">http://www.google.com/search?q=%s</string>
+  <string name="baidu_suggest_base"/>
+  <string name="connect_and_retry">Pripojte sa na internet a skúste to znova</string>
+  <string name="network_unavailable">Žiadne internetové pripojenie</string>
+  <string name="web_search_results">Vyhľadávanie na internete</string>
 </resources>

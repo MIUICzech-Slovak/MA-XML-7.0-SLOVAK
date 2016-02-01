@@ -609,4 +609,8 @@ s "</string>
   <string name="resend_email_reach_limit_title">Nebolo možné odoslať email</string>
   <string name="resend_email_success">Email znova odoslaný</string>
   <string name="send_email_activate_message">Overovací email odoslaný</string>
+  <string name="agree_add_continue">Súhlasím</string>
+  <string name="exit">Zatvoriť</string>
+  <string name="internet_statement_message">Súhlasíte s používaním internetového pripojenia touto aplikáciou?</string>
+  <string name="internet_statement_title">Podmienky používania</string>
 </resources>
