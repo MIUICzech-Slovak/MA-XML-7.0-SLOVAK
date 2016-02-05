@@ -62,8 +62,6 @@
   <string name="category_0">Aplikácie</string>
   <string name="category_1">Systém</string>
   <string name="category_2">Tlačidlá</string>
-  <string name="category_app">Aplikácie</string>
-  <string name="category_system_settings">Systém</string>
   <string name="chooser_dust_cap">MiKey (Režim prachovka)</string>
   <string name="clean_memory">Pamäť vyčistená</string>
   <string name="click_count_union">krát</string>
@@ -121,7 +119,6 @@ na konci zoznamu"</string>
   <string name="delete_confirm">Vymazať?</string>
   <string name="delete_gesture">Vymazať nastavenie tlačidla?</string>
   <string name="device_not_recognized">Pripojené zariadenie nie je rozpoznané. Skúste to znova.</string>
-  <string name="dialog_content_mad_click">Neprerušované klikanie:</string>
   <string name="dialog_title_disable_mikey_sprite">Vypnúť MiKey Wizard?</string>
   <string name="dialog_title_mad_click">Poznámka</string>
   <string name="disable_mad_click">Zakázaný šialený režim</string>
@@ -157,6 +154,9 @@ na konci zoznamu"</string>
   <string name="front_camera">Predný fotoaparát</string>
   <string name="goto_update">Aktualizácia</string>
   <string name="hint_long_press_del">Dlhým podržaním odstránite</string>
+  <string name="hint_mikey_after_link">Kliknite sem pre zobrazenie programu v MiKey</string>
+  <string name="hint_mikey_before_link">Nedá sa použiť</string>
+  <string name="hint_mikey_during_link">MiKey v rámci programu</string>
   <string name="hint_mikey_sprite">"Umiestnite MiKey Wizard kdekoľvek 
 a stlačením MiKey simulujete dotyk na vybranom mieste. 
 Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</string>
@@ -166,12 +166,17 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="key_direction_right">Vpravo</string>
   <string name="key_direction_up">Nahor</string>
   <string name="know_it">OK</string>
-  <string name="long_click">Dlhé stlačenie</string>
+  <string name="madclick_toast">Kliknite</string>
+  <string name="madclick_toast_illigal">Zadajte čísla</string>
+  <string name="madclick_toast_max">Menej ako 10000</string>
+  <string name="madclick_toast_min">Viac ako 0</string>
   <string name="message_photo_end">Fotografia uložená</string>
   <string name="mikey_sprite_toggle_title">Otvoriť MiKey Wizard</string>
   <string name="name">Meno:</string>
   <string name="nickname">Prezývka:</string>
   <string name="no_usage">...</string>
+  <string name="not_support_android_m">"Android 6.0 
+nie je podporovaný!"</string>
   <string name="note">Poznámka:</string>
   <string name="notification_control_play">Prehrať</string>
   <string name="notification_control_stop">Zastaviť</string>
@@ -216,6 +221,23 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="select_vol">Zvoľte tlačidlo hlasitosti</string>
   <string name="setting_buy">Kúpiť MiKey</string>
   <string name="setting_feedback">Spätná väzba</string>
+  <string name="setting_inner_call_desc">Stlačenie: Prijatie / ukončenie hovoru</string>
+  <string name="setting_inner_call_title">Hovor</string>
+  <string name="setting_inner_camera_desc">"Stlačenie: Fotografie
+Dlhé stlačenie: Video"</string>
+  <string name="setting_inner_camera_title">Fotoaparát</string>
+  <string name="setting_inner_im_desc">"目前支持:微信、米聊
+在语音聊天的页面下
+长按:发送语音"</string>
+  <string name="setting_inner_im_title">聊天软件</string>
+  <string name="setting_inner_reader_desc">"目前支持:豆瓣阅读、kindle、小米小说、多看
+单击:下一页
+双击:上一页"</string>
+  <string name="setting_inner_reader_title">阅读软件</string>
+  <string name="setting_inner_sprite">程序内米键</string>
+  <string name="setting_inner_sprite_desc">"程序内米键不能与米键精灵同时使用!
+程序内米键能够在进入某个程序后，智能识别核心操作，比如拍照的快门、读书软件的翻页等，然后通过米键来实现"</string>
+  <string name="setting_inner_sprite_title">程序内米键</string>
   <string name="setting_instant_photo_desc">Pred zhotovením fotografie, fotoaparát zaostrí</string>
   <string name="setting_instant_photo_text">Zaostriť pred fotografiou</string>
   <string name="setting_keeplive_desc">Táto možnosť povolí aplikácií bežať na pozadí a rýchlo reagovať na vaše príkazy. To však môže zvýšiť spotrebu batérie</string>
@@ -226,6 +248,7 @@ Počas používania MiKey Wizard sú ostatné funkcie MiKey nedostupné."</strin
   <string name="setting_silent_mode_default">Režim slúchadiel (vybrať MiKey)</string>
   <string name="setting_silent_mode_desc">"Ak chcete zapojiť slúchadlá, zvoľte režim slúchadiel a odpojte MiKey. Inak nebude správne fungovať zvukový výstup."</string>
   <string name="setting_silent_mode_dust_cap">Režim záslepky</string>
+  <string name="setting_speed_max_time">1000</string>
   <string name="setting_speed_desc">Rýchlosť kliknutí tlačidlom</string>
   <string name="setting_speed_quick">Rýchlo</string>
   <string name="setting_speed_slow">Pomaly</string>
@@ -237,16 +260,6 @@ Podržte prst na už existujúcej pre jej nahradenie alebo vymazanie"</string>
   <string name="setting_vibrate_desc">Pre oznámenie vykonania funkcie telefón zavibruje</string>
   <string name="setting_vibrate_text">Vibračná odozva</string>
   <string name="settings">Nastavenia</string>
-  <string name="short_click_1">1x</string>
-  <string name="short_click_10">10x</string>
-  <string name="short_click_2">2x</string>
-  <string name="short_click_3">3x</string>
-  <string name="short_click_4">4x</string>
-  <string name="short_click_5">5x</string>
-  <string name="short_click_6">6x</string>
-  <string name="short_click_7">7x</string>
-  <string name="short_click_8">8x</string>
-  <string name="short_click_9">9x</string>
   <string name="showSlip">Zobraziť v roletke</string>
   <string name="silent_mode_tip_main">Tichý režim aktivovaný</string>
   <string name="silent_mode_tip_sub"/>
