@@ -86,7 +86,6 @@
   <string name="alert_refresh_loading">Načítavanie...</string>
   <string name="alert_title">Upozornenia na aktivitu</string>
   <string name="alert_refresh_update_header_text">Pull to refresh</string>
-  <string name="alert_title">Activity Alerts</string>
   <string name="alert_video">Video</string>
   <string name="alert_video_delete">Vymazať video?</string>
   <string name="app_name">YiCamera</string>
@@ -232,7 +231,6 @@ Night Vision is activated."</string>
   <string name="change_wifi_hint">Momentálne nie je podporovaná 5GHz Wi-Fi pripojenie, použite 2.4GHz Wi-Fi sieť.</string>
   <string name="change_connect_type">Zmeniť na iný spôsob</string>
   <string name="change_device_name">Názov kamery</string>
-  <string name="change_wifi_hint">Zmeňte Wi-Fi sieť</string>
   <string name="check_new_version">Skontrolovať aktualizácie</string>
   <string name="checked_stranger">Zistený pohyb</string>
   <string name="choose_config_type">Nastavenie</string>
@@ -665,7 +663,6 @@ Place the camera close to the router
   <string name="wifi_setting_wifi_title">Pripojiť cez Wi-Fi</string>
   <string name="winexperience_ensure_format_tfcard_info">"Sure to format Micro SD card?
 (Camera will be restarted!)"</string>
-  <string name="winexperience_ensure_format_tfcard_info">Formátovať SD kartu? (Kamera sa reštartuje)</string>
   <string name="winexperience_shouldupdate_gotoupdate_immediately">Aktualizovať</string>
   <string name="xiaomi_login">Xiaomi účet</string>
   <string name="yi_user_agreement">I have read and agree to the &lt;u&gt;&lt;a href="agreement://123"&gt;Terms of Use&lt;/a&gt;&lt;/u&gt;</string>
