@@ -164,7 +164,7 @@
   <string name="day">dni</string>
   <string name="days_ago">dňami</string>
   <string name="deepquit">B&amp;W</string>
-  <string name="delete_community_notifi_remind">Odstráaniť všetky upozornenia?</string>
+  <string name="delete_community_notifi_remind">Odstrániť všetky upozornenia?</string>
   <string name="delete_community_remind">Vymazať?</string>
   <string name="delete_failed">Vymazanie zlyhalo.</string>
   <string name="descr_image">Snímok</string>
@@ -244,10 +244,10 @@ Pripojte sa k Wi-Fi alebo mobilným dátam pre stiahnutie najnovšej verzie FW."
   <string name="fullscreen_burst_hint">"Náhľady nie sú podporované v režime dávkového snímania"</string>
   <string name="fullscreen_hint">Stlačte tlačidlo hlasitosti pre odfotenie</string>
   <string name="fullscreen_quit">Odísť</string>
-  <string name="fullscreen_timelapse_hint">"áhľady nie sú podporované v časozbernom režime"</string>
+  <string name="fullscreen_timelapse_hint">"Náhľady nie sú podporované v časozbernom režime"</string>
   <string name="generate_GIF">GIF</string>
   <string name="generate_MP4">MP4</string>
-  <string name="get_latest_firmeware_info">Kontrola firmwaru...</string>
+  <string name="get_latest_firmeware_info">Kontrola firmware...</string>
   <string name="get_sd_card_info_failed">Chyba načítavania SD karty.</string>
   <string name="get_setting">Načítavanie...</string>
   <string name="gif_format">GIF</string>
@@ -261,7 +261,7 @@ Nájdite číslo SN, názov predvolenej Wi-Fi siete kamery."</string>
   <string name="home_camera_dialog_reset_content">"Stlačte a podržte naraz tlačidlo zapínania a Wi-Fi.
 Kamera sa automaticky reštartuje s predvoleným heslom
 1234567890"</string>
-  <string name="home_camera_dialog_reset_title">Ako obnoviť predevolené nastavenia?</string>
+  <string name="home_camera_dialog_reset_title">Ako obnoviť predvolené nastavenia?</string>
   <string name="hour">h</string>
   <string name="hours_ago">hodinami</string>
   <string name="image_loading">Súbor sa načítava, ešte ho nemôžete zdieľať</string>
@@ -303,7 +303,7 @@ Kamera sa automaticky reštartuje s predvoleným heslom
   <string name="me">Ja</string>
   <string name="media_detail_bursting_stats">Dávkové snímky (%d)</string>
   <string name="media_detail_timelapse_stats">Časozberné snímky (%d)</string>
-  <string name="media_detail_video_photo_stats">Video-Foto (%d items)</string>
+  <string name="media_detail_video_photo_stats">Video-Foto (%d)</string>
   <string name="media_file_multiselect_count">Vybraných: %d</string>
   <string name="menu_report">Nahlásiť</string>
   <string name="menu_switch">Zmeniť</string>
@@ -342,7 +342,7 @@ Kamera sa automaticky reštartuje s predvoleným heslom
   <string name="open_camera2_message3">Stlačte červené tlačidlo na zapnutie vyhľadávania</string>
   <string name="open_camera2_wifi1">Zapnúť</string>
   <string name="open_camera2_wifi2">Zapnúť Wi-Fi</string>
-  <string name="open_camera2_wifi3">Stlačite červené tlačidlo</string>
+  <string name="open_camera2_wifi3">Stlačte červené tlačidlo</string>
   <string name="open_camera_message">Stlačte ON/OFF tlačidlo</string>
   <string name="open_wifi">Zapnite Wi-Fi</string>
   <string name="open_wifi2">Ťuknite na červené tlačidlo</string>
@@ -470,13 +470,13 @@ Kamera sa automaticky reštartuje s predvoleným heslom
   <string name="select_format">Vyberte formát</string>
   <string name="select_photo">Vyberte fotografiu</string>
   <string name="select_wifi">Vyberte Wi-Fi pripojenie kamery</string>
-  <string name="send_commend">Send</string>
+  <string name="send_commend">Odoslať</string>
   <string name="send_feedback_fail">Odosielanie zlyhalo.</string>
   <string name="send_feedback_success">Ďakujeme!</string>
   <string name="sepia">Sepia</string>
   <string name="set_auto">Auto</string>
   <string name="set_camera_clock_message">Chcete nastaviť váš čas na telefóne?</string>
-  <string name="set_camera_clock_title">Hodiny kamery</string>
+  <string name="set_camera_clock_title">Čas kamery</string>
   <string name="set_failed">Aktualizácia nastavení zlyhala.</string>
   <string name="set_off">VYP</string>
   <string name="set_on">ZAP</string>
@@ -674,9 +674,10 @@ telefónu"</string>
   <string name="wifi_failure_message">"V Android verzii M môže byť problém s pripojením kamery, chcete pripojiť wifi kamery cez systémové nastavenia?"</string>
   <string name="wifi_invalidate_password">Wi-Fi heslo nie je správne.</string>
   <string name="wifi_scan_faild">Pripojenie zlyhalo.</string>
-  <string name="wifi_scan_faild_solution">Skúste to znova keď bliká Wi-Fi LED.</string>
+  <string name="wifi_scan_faild_solution">"Vyhľadávanie zlyhalo, 
+uistite sa, že ste povolili prístup k sieti a polohe."</string>
   <string name="wifi_scan_faild_solution_6.0">"
-Alebo skôste povoliť GPS."</string>
+Alebo pripojte sa k Wi-Fi ktorá začína s YDXJ."</string>
   <string name="wifi_set_success">Wi-Fi info aktualizované, znovu pripojte kameru.</string>
   <string name="wifi_set_title">Nastavenia Wi-Fi</string>
   <string name="wrap_enable">Korekcia šošovky</string>
