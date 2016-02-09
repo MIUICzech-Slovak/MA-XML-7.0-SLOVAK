@@ -184,8 +184,8 @@ Resetujte kameru"</string>
   <string name="camera_setting_day_night_subtitle">"Toto nastavenie nadobudne účinnosť až po 
 zapnutí nočného videnia."</string>
   <string name="camera_setting_day_night_title">IR svetlo nočného videnia</string>
-  <string name="camera_setting_decode_subtitle">Use hardware chip to decode video, improve performance</string>
-  <string name="camera_setting_decode_title">Hardware Decode</string>
+  <string name="camera_setting_decode_subtitle">Použiť hardwarový čip na dekódovanie videa, zlepší sa výkon</string>
+  <string name="camera_setting_decode_title">Hardwarové dekódovanie</string>
   <string name="camera_setting_device_timezone">Časová zóna</string>
   <string name="camera_setting_firmware_version">Súčasná verzia</string>
   <string name="camera_setting_foundation">Základné</string>
@@ -213,8 +213,8 @@ zapnutí nočného videnia."</string>
   <string name="camera_setting_title">Nastavenie kamery</string>
   <string name="camera_setting_video_alarm_subtitle">Odoslať video upozornenia</string>
   <string name="camera_setting_video_alarm_title">Povoliť video alarm</string>
-  <string name="camera_setting_weixin_alarm_public_cancel_subtitle">Unfollow and no longer use YI Home official account services</string>
-  <string name="camera_setting_weixin_alarm_public_cancel_title">Unfollow</string>
+  <string name="camera_setting_weixin_alarm_public_cancel_subtitle">Prestať sledovať a viac nepoužívať služby oficiálneho účtu YI Home</string>
+  <string name="camera_setting_weixin_alarm_public_cancel_title">Nesledovať</string>
   <string name="camera_setting_weixin_alarm_public_change_subtitle">Switch to another WeChat account to receive notifications</string>
   <string name="camera_setting_weixin_alarm_public_change_title">Switch WeChat account</string>
   <string name="camera_setting_weixin_alarm_public_des">Binded</string>
@@ -283,7 +283,7 @@ zapnutí nočného videnia."</string>
   <string name="connect_app_version_scan_ok_content">Táto aplikácia je rovnakej verzie ako vaša smart kamera. Prosím skontrolujte iné nastavenia</string>
   <string name="connect_app_version_scan_ok_title">Vhodná aplikácia</string>
   <string name="connect_app_version_scan_title">Naskenujte QR kód pre skontrolovanie</string>
-  <string name="connect_distribute_server">Pripájanie na CDN servre</string>
+  <string name="connect_distribute_server">Pripájanie na CDN servery</string>
   <string name="connect_error_app">Verzia aplikácie a kamery sa nezhoduje?</string>
   <string name="connect_hear_voice_prompt">Stlačte Ďalej ak bol QR kód načítaný</string>
   <string name="connect_test_server_rate">Kontrola kvality pripojenia</string>
@@ -312,9 +312,9 @@ Copyright © 2014-2015 XiaoYi. All Rights Reserved."</string>
   <string name="device_added_by_other2">Táto kamera bola pripojená k inému účtu</string>
   <string name="device_no_sdcard">V kamere nie je žiadna SD karta, nie je možné zobraziť históriu videa</string>
   <string name="device_not_exist">Zariadenie neexistuje</string>
-  <string name="device_not_found">Invalid uid</string>
-  <string name="devshare_accept_add_success">Device was successfully added</string>
-  <string name="devshare_accept_button">Accept Invitation</string>
+  <string name="device_not_found">Nesprávne UID</string>
+  <string name="devshare_accept_add_success">Zariadenie úspešne pridané</string>
+  <string name="devshare_accept_button">Prijať pozvánku</string>
   <string name="devshare_accept_desc">You can now connect with your family through real-time video and two-way audio anytime and anywhere. Press Accept Invitation to start.</string>
   <string name="devshare_accept_device_existed">Device has already been added</string>
   <string name="devshare_accept_from">Invitation from &lt;font color=#0097ff&gt;%1$s&lt;/font&gt; Received</string>
@@ -521,8 +521,8 @@ pre zmenu na HD kvalitu."</string>
   <string name="save_photo_msg">Screenshot bol uložený do albumu.</string>
   <string name="save_success">Uložené do albumu</string>
   <string name="save_video_msg">Video bolo uložené do albumu.</string>
-  <string name="sd_tip_text">"The space on the SD card may seem less than the actual size of the SD card because a portion of the card is used for system files. 
-If you want to use the entire space, you can reformat the card on a computer with disk management tools."</string>
+  <string name="sd_tip_text">"Priestor na SD karte sa môže zdať menší ako jej reálna veľkosť, pretože časť karty sa používa pre systémové súbory. 
+Ak chcete využiť celý priestor, môžete kartu naformátovať na počítači pomocou nástrojov na správu diskov."</string>
   <string name="sdcard_format">Formátovať SD kartu</string>
   <string name="sdcard_format_fail">Nepodporovaný formát SD karty, vymeňte SD kartu.</string>
   <string name="sdcard_in_formatting">Formátuje sa</string>
@@ -551,7 +551,7 @@ If you want to use the entire space, you can reformat the card on a computer wit
   <string name="sure_logout">Chcete sa odhlásiť?</string>
   <string name="sure_to_camera_upgrade">Aktualizácia firmware kamery trvá okolo 4-5 minút. Uistite sa, že sa kamera neodpojí od siete počas aktualizácie firmware!</string>
   <string name="sure_to_delete_device">Vymazať video?</string>
-  <string name="sure_to_reboot_upgrade">download complete, the camera will auto reboot and upgrade immediately, please wait in patient</string>
+  <string name="sure_to_reboot_upgrade">sťahovanie dokončené, kamera sa automaticky reštartuje a hneď aktualizuje, prosím počkajte</string>
   <string name="sure_to_reboot_upgrade_tf">Sťahovanie dokončené, kamera sa aktualizuje a reštartuje</string>
   <string name="sync_log">Odoslať záznamy systému</string>
   <string name="tab_camera">Kamera</string>
@@ -571,15 +571,15 @@ If you want to use the entire space, you can reformat the card on a computer wit
   <string name="title_camera_config_scan">Načítať QR Kód</string>
   <string name="toast_do_not_support_sdk">Nie je podporované v tejto verzii zariadenia</string>
   <string name="traffic_statistics">Spotreba dát</string>
-  <string name="traffic_statistics_delete">All network traffic data would be deleted and cannot be recovered. Continue?</string>
-  <string name="traffic_statistics_flow_hint">"Viewing camera with APP will utilize network connections, if you're using cellphone network, it might consume your ISP plans or cause DATA expenses."</string>
+  <string name="traffic_statistics_delete">Celá štatistika prenesených dát bude vymazaná a nebude sa dať obnoviť. Pokračovať?</string>
+  <string name="traffic_statistics_flow_hint">"Sledovanie kamery s aplikáciou využíva sieťové pripojenie. Ak používate dátovú sieť, môže to spotrebovať váš dátový balíček alebo navýšiť poplatky."</string>
   <string name="traffic_statistics_net_flow">Mobilná sieť</string>
   <string name="traffic_statistics_time">Od %1$s (Posledných 15 dní)</string>
   <string name="traffic_statistics_wifi_flow">Wi-Fi sieť</string>
   <string name="txtUID">Číslo</string>
   <string name="umeng_common_action_cancel">Zrušiť</string>
   <string name="umeng_common_action_continue">Pokračovať</string>
-  <string name="umeng_common_action_info_exist">The app is already in downloading list.</string>
+  <string name="umeng_common_action_info_exist">Aplikácia už je v zozname preberaní.</string>
   <string name="umeng_common_action_pause">Zastaviť</string>
   <string name="umeng_common_download_failed">Sťahovanie zlyhalo!</string>
   <string name="umeng_common_download_finish">Sťahovanie dokončené.</string>
