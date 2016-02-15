@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
-  <string name="app_name">Galéria Tapiet</string>
+  <string name="app_name">Denná tapeta</string>
   <string name="cancel">Ukončiť</string>
   <string name="change_time">Zmeniť interval</string>
   <string name="day">1 deň</string>
@@ -22,10 +22,13 @@
   <string name="theme_apply_failured">Nie je možné použiť tapetu zamykacej obrazovky</string>
   <string name="theme_apply_success">Tapeta nastavená</string>
   <string name="theme_applying">Nastavovanie...</string>
-  <string name="wlan_download">Iba cez Wi-Fi</string>
+  <string name="wlan_download">Stiahnuť len cez Wi-Fi</string>
   <string name="summary">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia."</string>
   <string name="at_least_one">Vyberte aspoň jednu kategóriu</string>
   <string name="declaration_lockscreen_title">Povoliť dennú tapetu zamyk. obr.</string>
   <string name="ok_lockscreen">OK</string>
   <string name="ok_network">Súhlasím</string>
+  <string name="summary_international">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia. Aplikácia využíva dátové pripojenie."</string>
+  <string name="ok_international">OK</string>
+  <string name="cancel_international">Zrušiť</string>
 </resources>
