@@ -31,4 +31,5 @@
   <string name="summary_international">"Používaním tejto služby súhlasíte s Podmienkami používania a Ochranou súkromia. Aplikácia využíva dátové pripojenie."</string>
   <string name="ok_international">OK</string>
   <string name="cancel_international">Zrušiť</string>
+  <string name="wlan_download_cn">Stiahnuť len cez Wi-Fi</string>
 </resources>

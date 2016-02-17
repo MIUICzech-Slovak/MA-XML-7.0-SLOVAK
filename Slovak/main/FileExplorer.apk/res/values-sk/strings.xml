@@ -625,4 +625,5 @@ Získali ste ďalších %1$s"</string>
   <string name="video_play_failed">Neznáma chyba</string>
   <string name="video_releasing">Nahrávanie...</string>
   <string name="video_replay">Prehrať znova</string>
+  <string name="need_read_storage_permission">Aplikácia súbory vyžaduje povolenie pre prístup k úložisku.</string>
 </resources>

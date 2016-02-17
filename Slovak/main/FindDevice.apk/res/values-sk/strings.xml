@@ -48,4 +48,13 @@ Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
   <string name="lock_msg_phone">Kontaktné informácie: %s</string>
   <string name="find_device_crash">Vyhľadávanie bolo neočakávane ukončné</string>
   <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
+  <string name="unlock_help">"Neodpájajte sa od siete
+Uistite sa, že ste vložili správnu SIM kartu, a nie ste pripojený k nestabilnej Wi-Fi sieti
+
+Zabudli ste heslo?
+Choďte na id.mi.com pre obnovenie hesla
+
+Iné dôvody:
+Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</string>
+  <string name="unlock_help_title">Pomoc s odblokovaním:</string>
 </resources>
