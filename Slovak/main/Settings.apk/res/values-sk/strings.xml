@@ -4384,4 +4384,10 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="battery_light_title">LED nabíjania</string>
   <string name="free_xiaomi_wifi_connect_summary">Pripojiť sa k %1$s.</string>
   <string name="battery_light_summary">LED pri nabíjaní</string>
+  <string name="crypt_keeper_conditions">Šifrovanie môže trvať viac ako hodinu. Musíte začať s plne nabitou batériou a pripojenou nabíjačkou počas celého procesu. Ak tento proces prerušíte, prídete o svoje dáta.</string>
+  <string name="crypt_keeper_conditions_title">O zašifrovaní vášho zariadenia</string>
+  <string name="crypt_keeper_content">Môžete zašifrovať vaše účty, nastavenia, stiahnuté aplikácie a ich dáta, médiá, a ostatné súbory.</string>
+  <string name="crypt_keeper_content_title">Šifrovať zariadenie</string>
+  <string name="crypt_keeper_decrypt_methods">Po zašifrovaní vášho zariadenia a máte nastavený zámok gestom alebo heslom, budete ho musieť zadať vždy pre dešifrovanie zariadenia po každom spustení. Iný spôsob ako dešifrovať vaše zariadenie je len pomocou Factory reset a všetky vaše dáta budú vymazané.</string>
+  <string name="crypt_keeper_decrypt_methods_title">Dešifrovanie vášho zariadenia</string>
 </resources>
