@@ -66,7 +66,7 @@
   <string name="account_settings_policies">Pravidlá zabezpečenia</string>
   <string name="account_settings_retry_label">Synchronizovať</string>
   <string name="account_settings_retry_summary">Ak chcete tento účet synchronizovať, dotknite sa tu</string>
-  <string name="account_settings_ringtone">Zvoliť tón zvonenia</string>
+  <string name="account_settings_ringtone">Zvuk oznámenia</string>
   <string name="account_settings_servers">Nastavenia servera</string>
   <string name="account_settings_summary">Frekvencia synchronizácie, oznámení atď.</string>
   <string name="account_settings_sync_calendar_enable">Synchronizovať kalendár</string>
@@ -77,7 +77,7 @@
   <string name="account_settings_sync_email_summary">Synchr. e-mail pre tento účet</string>
   <string name="account_settings_unsupported_label">Nepodporované pravidlá</string>
   <string name="account_settings_unsupported_summary">Žiadne</string>
-  <string name="account_settings_using_ringtone">Zvonenie</string>
+  <string name="account_settings_using_ringtone">Prehrať zvuk</string>
   <string name="account_settings_vibrate_when_label">Vibrovať</string>
   <string name="account_setup_account_type_headline">Typ účtu</string>
   <string name="account_setup_account_type_instructions">O aký typ účtu ide?</string>
