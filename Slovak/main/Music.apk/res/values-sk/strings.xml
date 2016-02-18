@@ -486,7 +486,7 @@
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
   <string name="current_version">Súčasná verzia</string>
-  <string name="notification_des_next_song">ďalšia skladba: %s</string>
+  <string name="notification_des_next_song">Nasleduje: %s</string>
   <string name="notification_des_no_song">Pustite si nejakú hudbu.</string>
   <string name="notification_headset_custom">Zrušiť</string>
   <string name="notification_headset_info">Zobraziť nastavenia.</string>
