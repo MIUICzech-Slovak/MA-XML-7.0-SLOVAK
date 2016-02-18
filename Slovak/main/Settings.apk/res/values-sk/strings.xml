@@ -4390,4 +4390,17 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="crypt_keeper_content_title">Šifrovať zariadenie</string>
   <string name="crypt_keeper_decrypt_methods">Po zašifrovaní vášho zariadenia a máte nastavený zámok gestom alebo heslom, budete ho musieť zadať vždy pre dešifrovanie zariadenia po každom spustení. Iný spôsob ako dešifrovať vaše zariadenie je len pomocou Factory reset a všetky vaše dáta budú vymazané.</string>
   <string name="crypt_keeper_decrypt_methods_title">Dešifrovanie vášho zariadenia</string>
+  <string name="bootloader">Fastboot režim</string>
+  <string name="bootloader_apply_step_1">Spustiť Fastboot režim?</string>
+  <string name="bootloader_apply_step_2">Ak je vaše zariadenie v režime Fastboot a pripojené k PC</string>
+  <string name="bootloader_apply_step_3">vaše dáta (napr. heslá, správy) môžu byť dostupné bez vášho súhlasu.</string>
+  <string name="bootloader_apply_step_4">Môže to spôsobiť stratu vašich dát alebo nenávratné poškodenie vášho zariadenia.</string>
+  <string name="bootloader_apply_step_5">Uistite sa, že viete ako používať režim Fastboot.</string>
+  <string name="bootloader_apply_title">Dôležité upozornenie</string>
+  <string name="bootloader_summary">Inštalácia cez USB (Fastboot)</string>
+  <string name="button_text_accept">Prijať</string>
+  <string name="button_text_accept_timer">Prijať (%d)</string>
+  <string name="button_text_next_step">Ďalej</string>
+  <string name="button_text_next_step_timer">Ďalej (%d)</string>
+  <string name="button_text_reject">Odmietnuť</string>
 </resources>
