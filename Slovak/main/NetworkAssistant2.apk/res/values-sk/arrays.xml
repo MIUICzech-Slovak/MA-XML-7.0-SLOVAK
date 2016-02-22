@@ -74,4 +74,14 @@
         <item>Stredná</item>
         <item>Vysoká</item>
     </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+         <item>"Tento týždeň: "</item>
+         <item>"Dnes: "</item>
+         <item>"Tento mesiac: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+         <item>"Tento týždeň "</item>
+         <item>"Dnes "</item>
+         <item>"Tento mesiac "</item>
+     </string-array>
 </resources>
