@@ -13,8 +13,8 @@
   <string name="find_device_error_account_sys_timeout">Nebolo možné sa pripojiť k Xiaomi účtu.</string>
   <string name="find_device_error_network">Skontrolujte dátové pripojenie a skúste to znova.</string>
   <string name="find_device_error_password_changed">Heslo k vášmu účtu bolo zmenené.</string>
-  <string name="find_device_error_server">Chyba servera</string>
-  <string name="find_device_error_unknown">Neznáma chyba.</string>
+  <string name="find_device_error_server">Chyba servera (%s)</string>
+  <string name="find_device_error_unknown">Neznáma chyba (%s)</string>
   <string name="find_device_noise_title">Vyhľadanie zariadenia zvukom</string>
   <string name="find_device_notice_p1">Choďte na</string>
   <string name="find_device_notice_p2">i.mi.com</string>
@@ -57,4 +57,5 @@ Choďte na id.mi.com pre obnovenie hesla
 Iné dôvody:
 Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</string>
   <string name="unlock_help_title">Pomoc s odblokovaním:</string>
+  <string name="find_device_error_account_unknown_error">Chyba Xiaomi účtu (%s)</string>
 </resources>
