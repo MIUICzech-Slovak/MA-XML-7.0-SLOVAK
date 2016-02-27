@@ -709,4 +709,14 @@ a čakajte na jeho načítanie"</string>
   <string name="yi_user_sign_in">Prihlásiť sa</string>
   <string name="yi_user_sign_up">Registrovať sa</string>
   <string name="yi_user_sign_up_title">Registrovať sa v YI</string>
+  <string name="alert_calendar_friday">Pia</string>
+  <string name="alert_calendar_monday">Pon</string>
+  <string name="alert_calendar_saturday">Sob</string>
+  <string name="alert_calendar_sunday">Ned</string>
+  <string name="alert_calendar_thursday">Štv</string>
+  <string name="alert_calendar_tuesday">Uto</string>
+  <string name="alert_calendar_wednesday">Str</string>
+  <string name="camera_setting_beep_mode_fail">Uloženie nastavení zlyhalo, skúste to znova.</string>
+  <string name="camera_setting_speaker_adjust_fail">Uloženie nastavení zlyhalo, skúste to znova.</string>
+  <string name="my_camera_H21">YI Home Camera 1080P</string>
 </resources>
