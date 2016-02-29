@@ -316,6 +316,19 @@ Rovnaké súbory na novom zariadení budú prepísané"</string>
   <string name="trans_show_qr_code_label">Pripojte staré zariadenie</string>
   <string name="trans_time_spent">"
 Čas trvania: %s"</string>
- <string name="trans_wait_trans_data">"Pripojte sa k starému zariadeniu.
+  <string name="trans_wait_trans_data">"Pripojte sa k starému zariadeniu.
 Čakanie na prenos..."</string>
+  <string name="trans_calculating">Výpočet...</string>
+  <string name="trans_calculating_app_sd_size">Výpočet veľkosti dát na odoslanie, %s skenovaných</string>
+  <string name="trans_calculating_base_size">Výpočet veľkosti aplikácií</string>
+  <string name="trans_connect_failed_message">Pripojenie zlyhalo, skúste to znova alebo reštartujte. Na druhom zariadení choďte do Nastavenia &gt; Ďalšie nastavenia &gt; Presun do nového zariadenia, Stlačte [Som odosielateľ], alebo spustite presun znova po reštarte</string>
+  <string name="trans_connect_failed_title">Pripojenie zlyhalo</string>
+  <string name="trans_native_no_space">"Toto zariadenie nemá dostatok voľného miesta
+Uvoľnite minimálne %s"</string>
+  <string name="trans_please_waiting">Čakajte prosím...</string>
+  <string name="trans_progress_subdescript_transingsddata_receiver">Prijímanie dát z SD karty %1$s, %2$s dokončené</string>
+  <string name="trans_progress_subdescript_transingsddata_sender">Odosielanie dát z SD karty %1$s, %2$s dokončené</string>
+  <string name="trans_retry">Znova</string>
+  <string name="trans_start_failed_message">Spustenie zlyhalo, skúste to znova alebo reštartujte</string>
+  <string name="trans_start_failed_title">Spustenie zlyhalo</string>
 </resources>
