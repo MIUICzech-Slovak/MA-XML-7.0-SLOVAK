@@ -1028,4 +1028,5 @@ Chcete odísť z tejto stránky?"</string>
   <string name="secureaccess_cancel">Ignorovať</string>
   <string name="switch_proxy_dialog_msg">"Bolo zistené napadnutie vašej siete. Použite MIUI aplikáciu Optimalizácia alebo to nahláste vášmu operátorovi."</string>
   <string name="switch_proxy_dialog_title">Napadnutie siete</string>
+  <string name="pref_accessibility">Prispôsobenie</string>
 </resources>

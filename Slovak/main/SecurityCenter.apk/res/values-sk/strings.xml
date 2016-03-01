@@ -809,4 +809,10 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_title">Ignorované</string>
   <string name="confirm_reject_all_permission">Zakázať všetkým aplikáciam používať túto funkciu?</string>
   <string name="reject_all">Zakázať všetky</string>
+  <string name="pm_auto_start_basic_services_lock">Zamknúť</string>
+  <string name="pm_auto_start_basic_services_unlock">Odomknúť</string>
+  <string name="pm_auto_start_by_basic_services">Základné služby</string>
+  <string name="pm_auto_start_by_other_services">Skúste vypnúť tieto služby</string>
+  <string name="pm_auto_start_by_system">Spustenie apl.</string>
+  <string name="pm_auto_start_proc_is_running">Spustené</string>
 </resources>
