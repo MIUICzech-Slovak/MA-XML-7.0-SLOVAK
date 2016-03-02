@@ -62,10 +62,10 @@
   <string name="xiaomi_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="default_hint">Vyhľadať Aplikácie, Hudbu, Video...</string>
   <string name="baidu_search_url">http://www.google.com/search?q=%s</string>
-  <string name="baidu_search_url_from_default">https://www.google.de/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_input">https://www.google.de/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_launcher">https://www.google.de/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_systemui">https://www.google.de/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_default">https://www.google.sk/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_input">https://www.google.sk/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://www.google.sk/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://www.google.sk/search?q=%s&amp;tn=ins</string>
   <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="connect_and_retry">Pripojte sa na internet a skúste to znova</string>
   <string name="network_unavailable">Žiadne internetové pripojenie</string>
