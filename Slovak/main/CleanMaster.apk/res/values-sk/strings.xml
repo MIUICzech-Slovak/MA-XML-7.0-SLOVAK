@@ -380,4 +380,6 @@
   <string name="title_delete_deepclean">Vymazať</string>
   <string name="information_setting">Nastavenie noviniek</string>
   <string name="load_only_under_wlan">Načítať novinky len na Wi-Fi</string>
+  <string name="dialog_msg_stop_scan">Zastaviť kontrolu pred dokončením?</string>
+  <string name="dialog_title_stop_scan">Zastaviť kontrolu</string>
 </resources>

@@ -4404,4 +4404,10 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="button_text_next_step_timer">Ďalej (%d)</string>
   <string name="button_text_reject">Odmietnuť</string>
   <string name="settings_forbidden_message">Toto nastavenie je deaktivované</string>
+  <string name="auto_disable_screenbuttons_ask">Opýtať sa</string>
+  <string name="auto_disable_screenbuttons_auto">Vždy deaktivovať</string>
+  <string name="auto_disable_screenbuttons_cancel">Zrušiť</string>
+  <string name="auto_disable_screenbuttons_no">Nikdy nedeaktivovať</string>
+  <string name="auto_disable_screenbuttons_summary">Automaticky deaktivovať navigačné tlačidlá pod displejom ak sú spustené vybrané aplikácie. Dvojitým poklepaním na akékoľvek tlačidlo ich aktivujete späť.</string>
+  <string name="auto_disable_screenbuttons_title">Automaticky deaktivovať navigačné tlačidlá</string>
 </resources>

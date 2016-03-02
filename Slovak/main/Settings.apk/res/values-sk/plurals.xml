@@ -131,4 +131,12 @@
         <item quantity="few">%1$d aplikácie použili pamäť za obdobie: %2$s</item>
         <item quantity="many">%1$d aplikácie použilo pamäť za obdobie: %2$s</item>
     </plurals>
+    <plurals name="auto_disable_screenbuttons_enabled_header_title">
+        <item quantity="other">Vždy deaktivovať pre %d apl.</item>
+        <item quantity="one">Vždy deaktivovať pre 1 apl.</item>
+    </plurals>
+    <plurals name="auto_disable_screenbuttons_disabled_header_title">
+        <item quantity="other">Nikdy deaktivovať pre %d apl.</item>
+        <item quantity="one">Mikdy deaktivovať pre 1 apl.</item>
+    </plurals>	
 </resources>

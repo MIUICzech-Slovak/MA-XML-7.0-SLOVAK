@@ -107,4 +107,11 @@
   <string name="fp_nav_center_action_choose_dlg_negative_btn_text">Nie ďakujem</string>
   <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Upraviť</string>
   <string name="fp_nav_center_action_choose_dlg_title">Upraviť tlačidlo Domov</string>
+  <string name="auto_disable_screenbuttons_disable_toast_text">Tlačidlá pod displejom sú deaktivované. Dvojitým poklepaním na akékoľvek tlačidlo ich aktivujete späť</string>
+  <string name="auto_disable_screenbuttons_enable_toast_text">Tlačidlá pod displejom sú aktivované</string>
+  <string name="auto_disable_screenbuttons_float_text">Dotknite sa pre deaktivovanie tlačidiel</string>
+  <string name="auto_disable_screenbuttons_prompts_message">Dvojitým poklepaním na tlačidlo ho aktivujete.</string>
+  <string name="auto_disable_screenbuttons_prompts_not_show_again">Viac krát nezobrazovať</string>
+  <string name="auto_disable_screenbuttons_prompts_ok">Ok</string>
+  <string name="auto_disable_screenbuttons_prompts_title">Automaticky deaktivovať tlačidlá pod displejom</string>
 </resources>
