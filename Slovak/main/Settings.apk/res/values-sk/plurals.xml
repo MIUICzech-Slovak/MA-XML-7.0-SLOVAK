@@ -136,7 +136,7 @@
         <item quantity="one">Vždy deaktivovať pre 1 apl.</item>
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
-        <item quantity="other">Nikdy deaktivovať pre %d apl.</item>
-        <item quantity="one">Mikdy deaktivovať pre 1 apl.</item>
+        <item quantity="other">Nedeaktivovať pre %d apl.</item>
+        <item quantity="one">Nedeaktivovať pre 1 apl.</item>
     </plurals>	
 </resources>
