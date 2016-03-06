@@ -35,9 +35,6 @@
         <item>Výnimka</item>
     </string-array>
     <string-array name="app_clean_menu">
-        <item>Podrobnosti</item>
-        <item>Súbor</item>
-        <item>Zálohovať a odinštalovať</item>
         <item>Odinštalovať</item>
      </string-array>
     <string-array name="empty_floder_clean_menu">
