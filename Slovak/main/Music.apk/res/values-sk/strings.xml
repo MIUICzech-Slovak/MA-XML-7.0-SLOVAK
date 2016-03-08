@@ -495,4 +495,9 @@
   <string name="settings_notification_text">Zobraziť ovládanie hudby v roletke</string>
   <string name="settings_notification_title">Widget v roletke</string>
   <string name="version_info">Verzia</string>
+  <string name="add_to_last_of_playlist">Pridať na koniec playlistu.</string>
+  <string name="latest_song">História prehrávania (%d).</string>
+  <string name="play_next">Prehrať ďalšiu.</string>
+  <string name="remove_from_nowplaying">Odobrať z playlistu.</string>
+  <string name="save_to_playlist">Uložiť ako playlist.</string>
 </resources>

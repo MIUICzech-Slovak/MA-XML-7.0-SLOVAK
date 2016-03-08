@@ -280,4 +280,5 @@ d. MMMM"</string>
   <string name="managed_profile_foreground_toast">Používate pracovný profil</string>
   <string name="account_info">Neprihlásený</string>
   <string name="notification_header_title">Upozornenia</string>
+  <string name="notification_hidden_text">Obsah je skrytý</string>
 </resources>

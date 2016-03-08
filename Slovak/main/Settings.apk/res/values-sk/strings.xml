@@ -4410,4 +4410,5 @@ Pomáha to chrániť údaje na stratených alebo ukradnutých zariadeniach."</st
   <string name="auto_disable_screenbuttons_no">Nikdy nedeaktivovať</string>
   <string name="auto_disable_screenbuttons_summary">Automaticky deaktivovať navigačné tlačidlá pod displejom ak sú spustené vybrané aplikácie. Dvojitým poklepaním na akékoľvek tlačidlo ich aktivujete späť.</string>
   <string name="auto_disable_screenbuttons_title">Automaticky deaktivovať navigačné tlačidlá</string>
+  <string name="screen_color_and_optimize_disabled">Nie je možné upraviť teplotu farieb v režime čítania.</string>
 </resources>

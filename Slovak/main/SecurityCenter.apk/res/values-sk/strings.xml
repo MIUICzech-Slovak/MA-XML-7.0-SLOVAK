@@ -815,4 +815,17 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="pm_auto_start_by_other_services">Skúste vypnúť tieto služby</string>
   <string name="pm_auto_start_by_system">Spustenie apl.</string>
   <string name="pm_auto_start_proc_is_running">Spustené</string>
+  <string name="app_install_intercept">Blokovať inštaláciu</string>
+  <string name="continue_install">Inštalovať</string>
+  <string name="empty_app">Žiadne aplikácie</string>
+  <string name="install_title">Inštalovať pomocou PC</string>
+  <string name="monitor_requests_from_pc">Spravovať inštaláciu aplikácií cez PC</string>
+  <string name="pc_install_manager">Správca inštalácií</string>
+  <string name="pc_to_phone_install">Blokovaná inštalácia apl. %s z PC</string>
+  <string name="pm_remember_choice">Viac nezobrazovať</string>
+  <string name="recently_reject_message">Zakázaná inštalácia %1$s a %2$d iných apl.</string>
+  <string name="recently_reject_message_one">Zakázaných %1$s inštalácií</string>
+  <string name="usb_install_desc">Inštalovať túto aplikáciu cez PC?</string>
+  <string name="reject_countdown">Zakázať (%d)</string>
+  <string name="reject_usb_install">Zakázaný prístup k inštalácií týchto apl. cez PC</string>
 </resources>

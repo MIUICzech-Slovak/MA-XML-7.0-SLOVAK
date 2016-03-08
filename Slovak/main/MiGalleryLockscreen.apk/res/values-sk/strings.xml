@@ -32,4 +32,6 @@
   <string name="ok_international">OK</string>
   <string name="cancel_international">Zrušiť</string>
   <string name="wlan_download_cn">Stiahnuť len cez Wi-Fi</string>
+  <string name="auto_interval">Auto</string>
+  <string name="minutes_15">15 minút</string>
 </resources>
