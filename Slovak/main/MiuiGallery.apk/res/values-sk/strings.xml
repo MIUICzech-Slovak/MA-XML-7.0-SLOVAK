@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Import">Import</string>
   <string name="abandon">Zahodiť</string>
@@ -552,6 +551,7 @@ spoločne!"</string>
   <string name="open_sync_title">Vyžaduje sa Synchronizácia</string>
   <string name="operation_add_picture">Vybrať obrázky</string>
   <string name="operation_add_secret">Pridať do tajného albumu</string>
+  <string name="operation_add_secret_button">Ukryť</string>
   <string name="operation_delete_confirm_message_folder">"Zložky a súbory v nich budú vymazané.
 "</string>
   <string name="operation_failed">Operácia zlyhala.</string>
@@ -559,7 +559,9 @@ spoločne!"</string>
   <string name="operation_in_process">Spracovávanie...</string>
   <string name="operation_refresh">Obnoviť</string>
   <string name="operation_remove_from_face_album">Odstrániť osobu</string>
+  <string name="operation_remove_from_face_album_button">Odobrať</string>
   <string name="operation_remove_secret">Odobrať tajné</string>
+  <string name="operation_remove_secret_button">Odkryť</string>
   <string name="operation_rename">Premenovať</string>
   <string name="operation_rename_baby">Zadajte meno dieťaťa</string>
   <string name="operation_set_as_screensaver">Nastaviť ako šetrič displeja</string>
@@ -847,7 +849,4 @@ spoločne!"</string>
   <string name="yes">Áno</string>
   <string name="you_are"/>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
-  <string name="operation_add_secret_button">Ukryť</string>
-  <string name="operation_remove_from_face_album_button">Odobrať</string>
-  <string name="operation_remove_secret_button">Odkryť</string>
 </resources>
