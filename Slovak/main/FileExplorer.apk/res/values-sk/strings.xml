@@ -204,8 +204,8 @@
   <string name="kp_category_txt">Text</string>
   <string name="kuaipan_cloud_photo">MiDrive fotografie</string>
   <string name="kuaipan_create_shortcut_success">Odkaz vytvorený</string>
-  <string name="kuaipan_data_formater_with_year">d.M.YYYY</string>
-  <string name="kuaipan_data_formater_without_year">d.M.</string>
+  <string name="kuaipan_data_formater_with_year">dd.MM.YYYY</string>
+  <string name="kuaipan_data_formater_without_year">dd.MM.</string>
   <string name="kuaipan_delete_guide_des">Vymazať užívateľský manuál?</string>
   <string name="kuaipan_delete_success">Vymazané</string>
   <string name="kuaipan_info">Súbory v Cloude</string>
@@ -411,7 +411,7 @@ and never miss the cool new ones!"</string>
   <string name="sdcard_available">Dostupné %1$s</string>
   <string name="sdcard_total">Celkovo %1$s</string>
   <string name="search_activity_hint">Zadajte slovo</string>
-  <string name="search_app">Zdroj</string>
+  <string name="search_app">Apl. a zložky</string>
   <string name="search_app_more">Viac</string>
   <string name="search_category">Typ</string>
   <string name="search_description">Vyhľadať všetky súbory v zariadení</string>
@@ -428,7 +428,7 @@ and never miss the cool new ones!"</string>
   <string name="search_keyword_buy">Nákup</string>
   <string name="search_keyword_game">Hra</string>
   <string name="search_keyword_im">Chat</string>
-  <string name="search_keyword_messge">Express</string>
+  <string name="search_keyword_messge">Správy</string>
   <string name="search_keyword_news">Správy</string>
   <string name="search_keyword_wallet">Peňaženka</string>
   <string name="search_result">Výsledky</string>
@@ -503,7 +503,7 @@ Získali ste ďalších %1$s"</string>
   <string name="title_expire_video">Čoskoro skončí platnosť</string>
   <string name="title_more_source">Viac aplikácií</string>
   <string name="title_recent">Nedávne</string>
-  <string name="title_select_volume">Vybrať</string>
+  <string name="title_select_volume">Vybrať zložku</string>
   <string name="toast_file_not_can_read">Súbor je poškodený.</string>
   <string name="tools">Nástroje</string>
   <string name="trans_task">Prenos po sieti</string>
@@ -559,7 +559,7 @@ Získali ste ďalších %1$s"</string>
   <string name="encrypt_success_first_five">Úspešne zašifrované. Potiahnite nadol hlavnú stránku aplikácie Súbory pre ich zobrazenie.</string>
   <string name="private_folder_no_file_hints">Žiadne súkromné súbory.</string>
   <string name="private_folder_update">Aktualizovanie súkromných súborov</string>
-  <string name="backup_checkbox_msg">Vždy zálohovať a zobraziť upozornenia</string>
+  <string name="backup_checkbox_msg">Automaticky zálohovať</string>
   <string name="make_private_msg_1">Skryť tento súbor?</string>
   <string name="make_private_msg_2">Skryť tieto súbory?</string>
   <string name="make_private_msg_3">Všetky súbory v tejto zložke budú ukryté.</string>
@@ -571,7 +571,7 @@ Získali ste ďalších %1$s"</string>
   <string name="category_midrive">MiDrive</string>
   <string name="click_to_switch_volume">Dotykom sem prepnete medzi interným úložiskom a SD kartou</string>
   <string name="copy_to">Kopírovať do...</string>
-  <string name="decrypt_to">Odšifrovať a uložiť do...</string>
+  <string name="decrypt_to">Odšifrovať</string>
   <string name="disk_available">"Dostupné: "</string>
   <string name="disk_total">"Celkovo: "</string>
   <string name="email_platform">Email</string>
@@ -580,7 +580,7 @@ Získali ste ďalších %1$s"</string>
   <string name="found_usb">USB úložisko pripojené</string>
   <string name="good_tip">Výborne!</string>
   <string name="homepage_tab_category">Kategórie</string>
-  <string name="homepage_tab_file_view">Telefón</string>
+  <string name="homepage_tab_file_view">Úložisko</string>
   <string name="homepage_tab_recent">Nedávne</string>
   <string name="kuaipan_logged_in">Prihlásený</string>
   <string name="kuaipan_not_logged_in">Neprihlásený</string>
@@ -614,7 +614,7 @@ Získali ste ďalších %1$s"</string>
   <string name="rlv_last_loading_time">Obnovené naposledy: %1$s</string>
   <string name="share_to">Zdieľať...</string>
   <string name="subtitle_report_video">Od %1$s</string>
-  <string name="tab_common_app">Aplikácie</string>
+  <string name="tab_common_app">Aplikácie a zložky</string>
   <string name="tab_local_video">Lokálne</string>
   <string name="tab_remote_video">Populárne</string>
   <string name="tag_weixin_video">Malé videá</string>
