@@ -358,7 +358,6 @@ spoločne!"</string>
   <string name="download_without_wifi_msg">Použitie mobilných dát pre stiahnutie fotografií môže navýšiť vaše mesačné poplatky.</string>
   <string name="download_without_wifi_title">Využitie mobilných dát</string>
   <string name="download_tip">Download</string>
-  <string name="download_without_wifi_msg">"Using your mobile data connection to download photos will increase your data usage. If you go over your plan's data limit, your carrier could charge you additional fees."</string>
   <string name="duotone">Duo-tone</string>
   <string name="duration">Trvanie</string>
   <string name="early_bird">Earlybird</string>
@@ -413,7 +412,6 @@ spoločne!"</string>
   <string name="face_albumset_loading_data">Načítavanie...</string>
   <string name="face_albumset_pending_enable_tip">Fotografie sa usporiadajú až po pripojení na Wi-Fi</string>
   <string name="face_albumset_use_tip">Automaticky triediť fotografie podľa ľudí na nich.</string>
-  <string name="face_albumset_loading_data">Loading data…</string>
   <string name="face_choose_tip">Vybrať z existujúceho albumu</string>
   <string name="face_move_dialog_title">Vyberte album</string>
   <string name="facelift">Zosvetlenie tváre</string>
@@ -611,7 +609,6 @@ spoločne!"</string>
   <string name="mtgif">MTGIF</string>
   <string name="mtxx">MTXX</string>
   <string name="multiface_crop_help">Vyber plochu pre začatie.</string>
-  <string name="must_pick_file">Vyber obrázok</string>
   <string name="name_wrong">Toto nie je %s</string>
   <string name="need_to_turn_on_network">Pripojte sa k sieti</string>
   <string name="need_to_turn_on_sync">Povoľte MiCloud</string>
@@ -709,7 +706,6 @@ spoločne!"</string>
   <string name="pet_album_display_name">Fotografie zvieraťa</string>
   <string name="people_page_label">Face</string>
   <string name="people_page_unname">Unnamed</string>
-  <string name="pet_album_display_name">Pet photos</string>
   <string name="petabyteShort">PB</string>
   <string name="phone_number_empty_alert">Pridať telefónné číslo</string>
   <string name="photo_page_always_rotate">Automaticky otočiť</string>
