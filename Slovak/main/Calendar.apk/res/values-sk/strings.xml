@@ -382,4 +382,6 @@
   <string name="user_notification_descrip">Zobraziť upozornenie pri každom otvorení kalendára</string>
   <string name="download">Stiahnuť</string>
   <string name="set_as_wallpaper">Nastaviť ako tapetu</string>
+  <string name="event_info_from">z</string>
+  <string name="event_title">Názov</string>
 </resources>
