@@ -92,4 +92,7 @@
   <string name="show_cmas_opt_out_title">Zobraziť dialógové okno na zrušenie</string>
   <string name="sms_cb_settings">Nastavenia správ Cell Broadcast</string>
   <string name="view_details_title">Podrobnosti upozornenia</string>
+  <string name="category_india_settings_title">Nastavenia pre Indiu</string>
+  <string name="enable_channel_60_alerts_summary">Kanál 60 sa v Indii používa pre aktuálne informácie o oblasti</string>
+  <string name="enable_channel_60_alerts_title">Zobraziť vysielanie kanála 60</string>
 </resources>
