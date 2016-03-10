@@ -651,7 +651,6 @@ spoločne!"</string>
   <string name="operation_add_secret">Pridať do tajného albumu</string>
   <string name="operation_delete">Vymazať</string>
    <string name="operation_detail">Podrobnosti</string>
-  <string name="operation_disable_auto_upload">Disable autoBackup</string>
    <string name="operation_download">Stiahnuť fotografiu (%s)</string>
    <string name="operation_edit">Upraviť</string>
    <string name="operation_disable_auto_upload">Vypnúť automatické zálohovanie</string>
