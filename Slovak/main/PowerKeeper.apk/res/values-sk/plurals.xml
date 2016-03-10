@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_config_ultimate_on_count">
+        <item quantity="other">Ešte %1$d krokov od prepnutia do Ultimate režimu</item>
+        <item quantity="one">Ešte %1$d krokov od prepnutia do Ultimate režimu</item>
+    </plurals>
+    <plurals name="power_config_ultimate_off_count">
+        <item quantity="other">Ešte %1$d krokov od vypnutia Ultimate režimu</item>
+        <item quantity="one">Ešte %1$d krokov od vypnutia Ultimate režimu</item>
+    </plurals>
+    <plurals name="power_config_ultimate_unlock_count">
+        <item quantity="other">Dokončite %1$d krokov pre odblokovanie všetkých položiek</item>
+        <item quantity="one">Dokončite %1$d krokov pre odblokovanie všetkých položiek</item>
+    </plurals>
+</resources>
