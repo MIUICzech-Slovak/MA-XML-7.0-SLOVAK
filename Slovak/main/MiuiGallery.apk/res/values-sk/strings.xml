@@ -66,7 +66,7 @@
   <string name="album_others_share_info_format">Od %s</string>
   <string name="album_owner_share">Moje zdieľanie</string>
   <string name="album_page_empty">Prázdne</string>
-  <string name="album_page_label">Album</string>
+  <string name="album_page_label">Albumy</string>
   <string name="album_quota_fulfiled">"Nie je možné vytvoriť album. Počet albumov presiahol limit."</string>
   <string name="album_screenshot_name">Screenshot</string>
   <string name="album_setting_show_in_photo_tab_success">Tento album už je na domovskej obrazovke</string>
@@ -247,7 +247,7 @@ spoločne!"</string>
   <string name="cloudfolder_loading_data">(Načítavanie...)</string>
   <string name="cloudfolder_name_cannot_empty">Zadajte názov zložky.</string>
   <string name="cloudfolder_name_reserved">Tento názov zložky už nie je možné použiť.</string>
-  <string name="collaps_people">Skladanie viac ľudí</string>
+  <string name="collaps_people">Menej ľudí</string>
   <string name="comfirm_delete_current_album">Vymazať tento album?</string>
   <string name="comma">, </string>
   <string name="confirm">OK</string>
@@ -340,6 +340,7 @@ spoločne!"</string>
   <string name="deny">Odmietnuť</string>
   <string name="description">Popis</string>
   <string name="deselect_all">Odznačiť</string>
+  <string name="detail_title">Podrobnosti</string>
   <string name="details">Detaily</string>
   <string name="details_sharer">Zdieľané od</string>
   <string name="details_title">%1$d z %2$d:</string>
@@ -394,7 +395,7 @@ spoločne!"</string>
   <string name="exit_share_in_process">Ukončovanie...</string>
   <string name="exit_share_successfully">Úspešné ukončenie albumu %1$s</string>
   <string name="exit_video_play">Ukončiť</string>
-  <string name="expand_people">Rozširujem viac ľudí</string>
+  <string name="expand_people">Viac ľudí</string>
   <string name="exposure_time">Expozičný čas</string>
   <string name="external_sd_card">SD karta</string>
   <string name="external_sdcard_root">Hlavná zložka externej SD karty</string>
@@ -567,7 +568,7 @@ spoločne!"</string>
   <string name="manual">Manuál</string>
   <string name="me">Ja</string>
   <string name="megabyteShort">MB</string>
-  <string name="menu_album_new_album">New album</string>
+  <string name="menu_album_new_album">Nový album</string>
   <string name="menu_item_sort">Triediť</string>
   <string name="menu_item_sort_date">Dátum</string>
   <string name="menu_item_sort_date_asc">Vzostupne podľa dátumu</string>
@@ -1027,4 +1028,6 @@ spoločne!"</string>
   <string name="yes">Áno</string>
   <string name="you_are"/>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
+  <string name="show_hidden_album_title">Zobraziť skryté albumy</string>
+  <string name="browse_category_title">Prehliadať</string>
 </resources>
