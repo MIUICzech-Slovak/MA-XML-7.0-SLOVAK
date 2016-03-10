@@ -165,4 +165,28 @@
         <item quantity="other">Sleduje: %1$d</item>
         <item quantity="one">Sleduje: %1$d</item>
     </plurals>	
+    <plurals name="age_year">
+        <item quantity="other">%d rokov</item>
+        <item quantity="one">%d rok</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d mesiacov</item>
+        <item quantity="one">%d mesiac</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d dní</item>
+        <item quantity="one">%d deň</item>
+      </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d celkom)</item>
+        <item quantity="one">(%d celkom)</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d fotografií</item>
+        <item quantity="one">%d fotografia</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">Vymazať %1$d položiek %2$s?</item>
+        <item quantity="one">Vymazať %1$d položku %2$s?</item>
+    </plurals>
 </resources>
