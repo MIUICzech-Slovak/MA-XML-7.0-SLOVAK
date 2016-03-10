@@ -499,4 +499,7 @@
   <string name="vip_expiration_title">VIP členstvo čoskoro vyprší</string>
   <string name="vip_recommend_title">Získať vyššiu kvalitu hudby</string>
   <string name="vip_required">Prepáčte, vyžadované VIP členstvo</string>
+  <string name="more_settings">Viac nastavení</string>
+  <string name="more_settings_summary">Nastavenie sťahovania, spánku, mobilných dát atď.</string>
+  <string name="settings">Nastavenia</string>
 </resources>
