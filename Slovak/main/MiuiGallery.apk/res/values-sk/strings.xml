@@ -651,7 +651,7 @@ spoločne!"</string>
   <string name="open_sync_title">Vyžaduje sa Synchronizácia</string>
   <string name="operation_add_album">Pridať do albumu</string>
   <string name="operation_add_picture">Vybrať obrázky</string>
-  <string name="operation_add_secret">Pridať do tajného albumu</string>
+  <string name="operation_add_secret">Tajný albumu</string>
   <string name="operation_add_secret_button">Ukryť</string>
   <string name="operation_delete">Vymazať</string>
   <string name="operation_delete_confirm_message_folder">"Zložky a súbory v nich budú vymazané.
@@ -831,7 +831,7 @@ spoločne!"</string>
   <string name="script">skript</string>
   <string name="sd_not_available">SD karta nie je vložená alebo je nedostupná</string>
   <string name="sdcard_root">Hlavná zložka SD karty</string>
-  <string name="seconds">sekúnd</string>
+  <string name="seconds">s</string>
   <string name="secret_album_display_name">Vybrať album</string>
   <string name="secret_reason_space_full">Album v MiCloud je plný</string>
   <string name="secret_reason_too_large">Súbor je príliš veľký</string>
