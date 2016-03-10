@@ -22,7 +22,7 @@
   <string name="background">Aplikácia je na pozadí</string>
   <string name="config_custom_description">Nastavenie vlastných pravidiel pre aplikáciu</string>
   <string name="config_custom_title">Vlastné pravidlá</string>
-  <string name="config_description">MIUI môže identifikovať aplikácie so špecifickými procesmi na pozadí (napr.: navigácie, WhatsApp, Hangouts, Viber...), a použiť úsporu batérie spôsobom ktorý neovplivní ich činnosť."</string>
+  <string name="config_description">MIUI môže identifikovať aplikácie so špecifickými procesmi na pozadí (napr.: navigácie, WhatsApp, Hangouts, Viber...), a použiť úsporu batérie spôsobom ktorý neovplyvní ich činnosť."</string>
   <string name="config_mode_title">Nastavenia na pozadí</string>
   <string name="config_no_restrict_description">Úspora batérie neobmedzuje aktivity aplikácií</string>
   <string name="config_no_restrict_title">Žiadne obmedzenia</string>
