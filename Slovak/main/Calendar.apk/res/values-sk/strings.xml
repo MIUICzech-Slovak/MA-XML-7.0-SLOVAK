@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="accessibility_add_attendee">Pridať účastníka</string>
   <string name="accessibility_add_reminder">Pridať upozornenie</string>
@@ -44,13 +43,26 @@
   <string name="attendees_label">Hostia</string>
   <string name="birthday_calendar_display_name">Upozornenie na narodeniny</string>
   <string name="birthday_event_description">Dnes má %4$s %1$s!</string>
+  <string name="birthday_event_description_a_week_ago">Pred týždňom</string>
+  <string name="birthday_event_description_a_week_later">O týždeň neskôr</string>
+  <string name="birthday_event_description_day_after_tomorrow">Pozajtra</string>
+  <string name="birthday_event_description_day_before_yesterday">Predvčerom</string>
+  <string name="birthday_event_description_days_ago">Pred %1$s dňami</string>
+  <string name="birthday_event_description_days_later">O %1$s dní neskôr</string>
+  <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
   <string name="birthday_event_description_detail_leap"/>
   <string name="birthday_event_description_detail_smart"/>
+  <string name="birthday_event_description_special">"%1$s je %2$s %3$s %4$s %5$s"</string>
+  <string name="birthday_event_description_today">Dnes</string>
+  <string name="birthday_event_description_tomorrow">Zajtra</string>
+  <string name="birthday_event_description_yesterday">Včera</string>
   <string name="birthday_metric"/>
   <string name="birthday_notification_age_term"/>
+  <string name="birthday_notification_text_days_later">%1$s dní do %4$s (%5$s)</string>
   <string name="birthday_notification_text_three_days_later">Za 3 dni má %4$s (%3$s)!</string>
   <string name="birthday_notification_text_three_days_later_with_activity">Kúpte kvety alebo tortu pre TA</string>
   <string name="birthday_notification_text_today">Nezabudnite zablahoželať!</string>
+  <string name="birthday_notification_title_days_later">%1$s %2$s bude.</string>
   <string name="birthday_notification_title_three_days_later">%1$s bude mať %2$s</string>
   <string name="birthday_notification_title_today">%1$s má %3$s</string>
   <string name="birthday_notification_type_term_lunar"/>
@@ -96,6 +108,7 @@
   <string name="do_not_check">Nekontrolovať -&gt;</string>
   <string name="does_not_repeat">Jednorazová udalosť</string>
   <string name="done">Ďalej</string>
+  <string name="download">Stiahnuť</string>
   <string name="edit_event_all_day_label">Celý deň</string>
   <string name="edit_event_calendar_label">Kalendár</string>
   <string name="edit_event_confirm_message">Zrušiť zmeny v udalosti?</string>
@@ -122,6 +135,7 @@
   <string name="event_hide_more">Skryť</string>
   <string name="event_info_descrip">"Poznámka: "</string>
   <string name="event_info_end">"Koniec: "</string>
+  <string name="event_info_from">z</string>
   <string name="event_info_organizer">Organizátor:</string>
   <string name="event_info_reminders_label">Pripomienka</string>
   <string name="event_info_reminders_label_1">Upozornenie</string>
@@ -134,6 +148,7 @@
   <string name="event_lunar_month"/>
   <string name="event_not_found">Udalosť sa nenašla.</string>
   <string name="event_show_more">Viac</string>
+  <string name="event_title">Názov</string>
   <string name="event_view">Zobraziť udalosť</string>
   <string name="every_weekday">Každý pracovný deň (po–pia)</string>
   <string name="exist_calendar">Kalendár už existuje</string>
@@ -187,11 +202,13 @@
   <string name="monthly_on_day_count" formatted="false">Mesačne (vždy %1$s %2$s)</string>
   <string name="more_string">Ešte %1$s...</string>
   <string name="movable_list_header_label">Popis</string>
+  <string name="network_not_available">Nie je možné pripojiť sa k sieti</string>
   <string name="new_event_dialog_label">Nová udalosť</string>
   <string name="new_event_dialog_option">Nová udalosť</string>
   <string name="no_calendars_found">Pred pridaním udalosti je nutné pridať do zariadenia aspoň jeden účet s kalendárom a zobraziť ho. Ak chcete pridať účet, stlačte tlačidlo Pridať účet (ak ste účet práve pridali, počkajte na dokončenie synchronizácie a skúste to znova). Alebo sa dotknite tlačidla Zrušiť a skontrolujte, či je zobrazený aspoň jeden kalendár.</string>
   <string name="no_local_calendar">Žiaden lokálny kalendár</string>
   <string name="no_network">Nie je dostupné internetové pripojenie</string>
+  <string name="no_network_btn">Skúsiť znova</string>
   <string name="no_syncable_calendars">Žiadne kalendáre</string>
   <string name="no_title_label">(bez názvu)</string>
   <string name="not_synced">nie je synchronizovaný</string>
@@ -283,6 +300,7 @@
   <string name="select_synced_calendars_button">Kalendáre, ktoré sa majú synchronizovať</string>
   <string name="select_synced_calendars_title">Kalendáre, ktoré sa majú synchronizovať</string>
   <string name="select_visible_calendars_title">Kalendáre, ktoré sa majú zobraziť</string>
+  <string name="set_as_wallpaper">Nastaviť ako tapetu</string>
   <string name="show_all_lunar">Lunárny (Čína)</string>
   <string name="show_almanac">Almanach (Čína)</string>
   <string name="show_controls">Zobraziť ovládacie prvky</string>
@@ -338,6 +356,13 @@
   <string name="travel_seat_number_text">Seat</string>
   <string name="travel_train_number_text">Train</string>
   <string name="travel_train_station">Train station</string>
+  <string name="user_notice_button_exit">Ukončiť</string>
+  <string name="user_notice_button_ok">OK</string>
+  <string name="user_notice_declaration_ignore">Viac nezobrazovať</string>
+  <string name="user_notice_message">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Niektoré funkcie vyžadujú internetové pripojenie, vašu polohu a prístup ku kontaktom pre ich správne fungovanie.</string>
+  <string name="user_notice_title">Upozornenie</string>
+  <string name="user_notification">Upozornenie</string>
+  <string name="user_notification_descrip">Zobraziť upozornenie pri každom otvorení kalendára</string>
   <string name="view_all_matches">Zobraziť všetko</string>
   <string name="view_event_calendar_label">Kalendár:</string>
   <string name="view_event_organizer_label">Organizátor:</string>
@@ -358,30 +383,4 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="zhushen"/>
-  <string name="birthday_event_description_a_week_ago">Pred týždňom</string>
-  <string name="birthday_event_description_a_week_later">O týždeň neskôr</string>
-  <string name="birthday_event_description_day_after_tomorrow">Pozajtra</string>
-  <string name="birthday_event_description_day_before_yesterday">Predvčerom</string>
-  <string name="birthday_event_description_days_ago">Pred %1$s dňami</string>
-  <string name="birthday_event_description_days_later">O %1$s dní neskôr</string>
-  <string name="birthday_event_description_default">"%1$s %2$s %3$s %4$s"</string>
-  <string name="birthday_event_description_special">"%1$s je %2$s %3$s %4$s %5$s"</string>
-  <string name="birthday_event_description_today">Dnes</string>
-  <string name="birthday_event_description_tomorrow">Zajtra</string>
-  <string name="birthday_event_description_yesterday">Včera</string>
-  <string name="birthday_notification_text_days_later">%1$s dní do %4$s (%5$s)</string>
-  <string name="birthday_notification_title_days_later">%1$s %2$s bude.</string>
-  <string name="network_not_available">Nie je možné pripojiť sa k sieti</string>
-  <string name="no_network_btn">Skúsiť znova</string>
-  <string name="user_notice_button_exit">Ukončiť</string>
-  <string name="user_notice_button_ok">OK</string>
-  <string name="user_notice_declaration_ignore">Viac nezobrazovať</string>
-  <string name="user_notice_message">Používaním tejto aplikácie súhlasíte s Xiaomi %1$s a %2$s. Niektoré funkcie vyžadujú internetové pripojenie, vašu polohu a prístup ku kontaktom pre ich správne fungovanie.</string>
-  <string name="user_notice_title">Upozornenie</string>
-  <string name="user_notification">Upozornenie</string>
-  <string name="user_notification_descrip">Zobraziť upozornenie pri každom otvorení kalendára</string>
-  <string name="download">Stiahnuť</string>
-  <string name="set_as_wallpaper">Nastaviť ako tapetu</string>
-  <string name="event_info_from">z</string>
-  <string name="event_title">Názov</string>
 </resources>

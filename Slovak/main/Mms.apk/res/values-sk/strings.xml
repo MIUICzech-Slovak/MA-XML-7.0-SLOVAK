@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="action_firewall_setting">Čierna listina</string>
   <string name="activity_not_found">Program pre zobrazenie prílohy sa nenašiel</string>
@@ -55,6 +54,7 @@
   <string name="cannot_resend_audio">Nie je možné odoslať nahrávku</string>
   <string name="cannot_send_message">Správu nie je možné odoslať</string>
   <string name="cannot_send_message_reason">Správa nemá platných príjemcov.</string>
+  <string name="card_insert_to_contact">Importovať kontakt</string>
   <string name="change_duration_activity">Zmena doby trvania</string>
   <string name="check_all">Vybrať všetko</string>
   <string name="chenghu_disable_mms">Editácia MMS adries je neplatná</string>
@@ -180,6 +180,7 @@
   <string name="found_wild_messages">Správy z týchto čísiel boli nájdené vo vašom MiCloud účte:%s Chcete ich stiahnuť?</string>
   <string name="found_wild_messages_guide_cloud_desc">Pre synchr. správ z MiCloud sa prihláste svojim Xiaomi účtom a povoľte synchronizáciu SMS.</string>
   <string name="found_wild_messages_guide_settings_desc">Synchr. SMS správy z MiCould v nastaveniach SMS.</string>
+  <string name="found_wild_messages_guide_sync_not_started">Synchr. ešte nezačala</string>
   <string name="found_wild_messages_title">Synchr. SMS správy z MiCloud</string>
   <string name="from_label">"Od: "</string>
   <string name="group_message">Skupinová správa</string>
@@ -283,6 +284,13 @@
   <string name="mx_activate_int_hint_sim_change">Bola zmenená SIM karta. Vyžaduje sa odoslanie medzinárodnej SMS pre opätovnú aktiváciu Cloud správ. Chcete ich aktivovať teraz?</string>
   <string name="mx_activate_int_popup_msg">Správy umožňujú užívateľom MIUI odosielať správy medzi sebou bez použitia mobilných dát.</string>
   <string name="mx_activate_popup_msg">Cloud správy umožňujú užívateľom MIUI odosielať správy medzi sebou bez použitia mobilných dát.</string>
+  <string name="mx_activate_status_desc_activating_now">Aktivovanie...</string>
+  <string name="mx_activate_status_desc_check_net_connection">Nebolo možné sa pripojiť k sieti</string>
+  <string name="mx_activate_status_desc_fail">Nebolo možné aktivovať Cloudové správy</string>
+  <string name="mx_activate_status_desc_prepare_sending_sms">Odosielanie aktivačnej SMS...</string>
+  <string name="mx_activate_status_desc_query_activte_info">Kontrola SIM karty...</string>
+  <string name="mx_activate_status_desc_request_activation_sms_phone_error">Zadané telefónné číslo je nesprávne</string>
+  <string name="mx_activate_status_desc_wait_for_sms_fail">Nebolo možné aktivovať Cloudové správy</string>
   <string name="mx_activate_user_agreement_p1">"Používaním tejto služby súhlasíte s "</string>
   <string name="mx_activation_done">Cloud správy sú povolené</string>
   <string name="mx_and_voip_enable">MiSprávy</string>
@@ -307,6 +315,10 @@
   <string name="mx_enable_ex">MiSprávy</string>
   <string name="mx_enable_int_popup_msg">Cloud správy Vám umožnia posielať SMS správy zdarma medzi používateľmi MIUI. Pre aktiváciu sa odošle medzinárodná SMS správa ktorá bude spoplatnená podľa cenníka Vášho operátora.</string>
   <string name="mx_enable_popup_msg">Cloud správy Vám umožňujú odosielať sms cez MIUI. Vyžaduje sa odoslanie bežnej SMS správy pre ich aktiváciu. Chcete pokračovať?</string>
+  <string name="mx_filter_message_from_stranger">Blokovať Cloudové správy z neznámych čísel</string>
+  <string name="mx_filter_message_from_stranger_dialog_desc">Stále bude možné prijímať bežné SMS správy z neznámych čísel. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach správ.</string>
+  <string name="mx_filter_message_from_stranger_dialog_title">Blokovať Cloudové správy z neznámych čísel</string>
+  <string name="mx_filter_message_from_stranger_summary">Stále bude možné prijímať bežné SMS správy z neznámych čísel</string>
   <string name="mx_int_warning_notice">Pre aktiváciu Cloud správ sa odošle medzinárodná správa ktorá bude spoplatnená Vaším operátorom</string>
   <string name="mx_msg">Cloud Správa</string>
   <string name="mx_offline">Offline</string>
@@ -355,6 +367,7 @@
   <string name="pref_edit_smsc_address">Číslo SMS centra (SMSC)</string>
   <string name="pref_forward_title">Preposlať</string>
   <string name="pref_key_mx_feedback">Odoslať report</string>
+  <string name="pref_message_recovery_introduction_title">Obnoviť správu</string>
   <string name="pref_messages_to_save">Nastaviť počet správ pre uloženie</string>
   <string name="pref_mms_settings_title">Nastavenie správ (MMS)</string>
   <string name="pref_notification_settings_title">Nastavenie oznamovania</string>
@@ -480,6 +493,7 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="select_link_title">Vybrať akciu</string>
   <string name="select_local_audio">Vybrať zvuk</string>
   <string name="select_local_video">Vybrať video</string>
+  <string name="select_message_send_sim">Vybrať SIM kartu</string>
   <string name="select_recipient">Príjemca</string>
   <string name="select_top_text">Text hore</string>
   <string name="send">Odoslať</string>
@@ -611,24 +625,9 @@ Pokus: %s."</string>
   <string name="voip_enable_popup_msg2">Privacy Policy</string>
   <string name="wap_push_title">"[WAP Push] "</string>
   <string name="warning_show">Odoslať o %ds</string>
+  <string name="wild_msg_processing">Spracovávanie...</string>
+  <string name="wild_msg_title">Vyberte tel. číslo pre synchr.</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yellowpage_recommend_msg">Vyskúšajte cloudové SMS správy</string>
   <string name="yes">OK</string>
-  <string name="mx_activate_status_desc_activating_now">Aktivovanie...</string>
-  <string name="mx_activate_status_desc_check_net_connection">Nebolo možné sa pripojiť k sieti</string>
-  <string name="mx_activate_status_desc_fail">Nebolo možné aktivovať Cloudové správy</string>
-  <string name="mx_activate_status_desc_prepare_sending_sms">Odosielanie aktivačnej SMS...</string>
-  <string name="mx_activate_status_desc_query_activte_info">Kontrola SIM karty...</string>
-  <string name="mx_activate_status_desc_request_activation_sms_phone_error">Zadané telefónné číslo je nesprávne</string>
-  <string name="mx_activate_status_desc_wait_for_sms_fail">Nebolo možné aktivovať Cloudové správy</string>
-  <string name="mx_filter_message_from_stranger">Blokovať Cloudové správy z neznámych čísel</string>
-  <string name="mx_filter_message_from_stranger_dialog_desc">Stále bude možné prijímať bežné SMS správy z neznámych čísel. Toto nastavenie môžete kedykoľvek zmeniť v nastaveniach správ.</string>
-  <string name="mx_filter_message_from_stranger_dialog_title">Blokovať Cloudové správy z neznámych čísel</string>
-  <string name="mx_filter_message_from_stranger_summary">Stále bude možné prijímať bežné SMS správy z neznámych čísel</string>
-  <string name="pref_message_recovery_introduction_title">Obnoviť správu</string>
-  <string name="select_message_send_sim">Vybrať SIM kartu</string>
-  <string name="card_insert_to_contact">Importovať kontakt</string>
-  <string name="found_wild_messages_guide_sync_not_started">Synchr. ešte nezačala</string>
-  <string name="wild_msg_processing">Spracovávanie...</string>
-  <string name="wild_msg_title">Vyberte tel. číslo pre synchr.</string>
 </resources>

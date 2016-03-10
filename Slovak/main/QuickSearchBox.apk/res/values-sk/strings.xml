@@ -1,8 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="app_name">Vyhľadávanie</string>
   <string name="apps_search_activity"/>
+  <string name="baidu_search_url">http://www.google.com/search?q=%s</string>
+  <string name="baidu_search_url_from_default">https://www.google.sk/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_input">https://www.google.sk/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_launcher">https://www.google.sk/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_search_url_from_systemui">https://www.google.sk/search?q=%s&amp;tn=ins</string>
+  <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
   <string name="browser_search_component">com.android.browser/.BookmarkSearch</string>
   <string name="clear_history">Vymazať históriu</string>
   <string name="clear_shortcuts">Vymazať históriu v zariadení</string>
@@ -10,6 +15,7 @@
   <string name="clear_shortcuts_disagree">"Nemazať zástupcov"</string>
   <string name="clear_shortcuts_prompt">"Vymaže históriu nedávno vybraných návrhov pre obsah a aplikácie v tomto zariadení.(Pro vymazanie histórie prehliadača použite Nastavenie v aplikácií Prehliadač.)"</string>
   <string name="clear_shortcuts_summary">Vymazať históriu najčastejších zvolených návrhov</string>
+  <string name="connect_and_retry">Pripojte sa na internet a skúste to znova</string>
   <string name="corpus_description_apps">Mená nainštalovaných aplikácií</string>
   <string name="corpus_description_web">Vyhľadávanie na internete, v záložkách a v histórií prehliadača</string>
   <string name="corpus_hint_apps">Hľadať aplikácie</string>
@@ -22,6 +28,7 @@
   <string name="cta_declaration_negative_text">Ukončiť</string>
   <string name="cta_declaration_positive_text">OK</string>
   <string name="cta_declaration_title">Podmienky používania</string>
+  <string name="default_hint">Vyhľadať Aplikácie, Hudbu, Video...</string>
   <string name="default_search_domain">.google.com</string>
   <string name="device_settings_category_title">Vyhľadávanie zariadení</string>
   <string name="google_app_label">Google hľadanie</string>
@@ -33,6 +40,7 @@
   <string name="loading">Načítavanie...</string>
   <string name="menu_help">Nápoveda</string>
   <string name="menu_settings">Nastavenie hľadania</string>
+  <string name="network_unavailable">Žiadne internetové pripojenie</string>
   <string name="recently_shortcut_label">Nedávne odkazy</string>
   <string name="remove_from_history">Odobrať z histórie hľadania</string>
   <string name="remove_from_history_failed">"Odobranie položky z histórie sa nepodarilo"</string>
@@ -56,18 +64,9 @@
   <string name="voice_search_hint_quotation_end">\"</string>
   <string name="voice_search_hint_quotation_start">\"</string>
   <string name="voice_search_hint_title">Skúste hovoriť:</string>
+  <string name="web_search_results">Vyhľadávanie na internete</string>
   <string name="xiaomi_hint"/>
   <string name="xiaomi_hot_query"/>
   <string name="xiaomi_search_label">Výsledky</string>
   <string name="xiaomi_suggest_base">http://www.google.com/m?hl=%1$s</string>
-  <string name="default_hint">Vyhľadať Aplikácie, Hudbu, Video...</string>
-  <string name="baidu_search_url">http://www.google.com/search?q=%s</string>
-  <string name="baidu_search_url_from_default">https://www.google.sk/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_input">https://www.google.sk/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_launcher">https://www.google.sk/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_search_url_from_systemui">https://www.google.sk/search?q=%s&amp;tn=ins</string>
-  <string name="baidu_suggest_base">http://www.google.com/m?hl=%1$s</string>
-  <string name="connect_and_retry">Pripojte sa na internet a skúste to znova</string>
-  <string name="network_unavailable">Žiadne internetové pripojenie</string>
-  <string name="web_search_results">Vyhľadávanie na internete</string>
 </resources>

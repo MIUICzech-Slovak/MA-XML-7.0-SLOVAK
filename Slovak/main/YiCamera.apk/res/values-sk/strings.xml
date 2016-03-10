@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="UMAppUpdate">Aktualizácia aplikácie</string>
   <string name="UMBreak_Network">Aktualizácia zlyhala. Skontrolujte nastavenie siete.</string>
@@ -38,8 +37,8 @@
   <string name="action_settings">Nastavenia</string>
   <string name="agreement_agree">Súhlasím</string>
   <string name="agreement_cancel">Zrušiť</string>
-  <string name="agreement_content_usa">Používaním kamery súhlasíte s《&lt;u&gt;&lt;a href="agreement://123"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&lt;/u&gt;&amp;#12299;&amp;#26041;&amp;#21487;&amp;#20351;&amp;#29992;&amp;#65292;&amp;#20026;&amp;#20102;&amp;#33021;&amp;#22815;&amp;#19982;&amp;#23567;&amp;#34433;&amp;#26234;&amp;#33021;&amp;#35774;&amp;#22791;&amp;#36830;&amp;#25509;&amp;#65292;&amp;#23567;&amp;#34433;&amp;#26234;&amp;#33021;&amp;#25668;&amp;#20687;&amp;#26426;&amp;#26381;&amp;#21153;&amp;#22312;&amp;#20351;&amp;#29992;&amp;#20013;&amp;#38656;&amp;#35201;&amp;#20351;&amp;#29992;&amp;#36830;&amp;#25509;&amp;#32593;&amp;#32476;&amp;#12289;&amp;#23450;&amp;#20301;&amp;#21450;&amp;#31227;&amp;#21160;&amp;#32593;&amp;#32476;&amp;#65292;&amp;#24744;&amp;#26159;&amp;#21542;&amp;#21516;&amp;#24847;&amp;#65311;</string>
   <string name="agreement_content_title">Podmienky používania</string>
+  <string name="agreement_content_usa">Používaním kamery súhlasíte s《&lt;u&gt;&lt;a href="agreement://123"&gt;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&lt;/a&gt;&lt;/u&gt;&amp;#12299;&amp;#26041;&amp;#21487;&amp;#20351;&amp;#29992;&amp;#65292;&amp;#20026;&amp;#20102;&amp;#33021;&amp;#22815;&amp;#19982;&amp;#23567;&amp;#34433;&amp;#26234;&amp;#33021;&amp;#35774;&amp;#22791;&amp;#36830;&amp;#25509;&amp;#65292;&amp;#23567;&amp;#34433;&amp;#26234;&amp;#33021;&amp;#25668;&amp;#20687;&amp;#26426;&amp;#26381;&amp;#21153;&amp;#22312;&amp;#20351;&amp;#29992;&amp;#20013;&amp;#38656;&amp;#35201;&amp;#20351;&amp;#29992;&amp;#36830;&amp;#25509;&amp;#32593;&amp;#32476;&amp;#12289;&amp;#23450;&amp;#20301;&amp;#21450;&amp;#31227;&amp;#21160;&amp;#32593;&amp;#32476;&amp;#65292;&amp;#24744;&amp;#26159;&amp;#21542;&amp;#21516;&amp;#24847;&amp;#65311;</string>
   <string name="agreement_posi_btn">Súhlasím</string>
   <string name="agreement_title">Podmienky používania</string>
   <string name="alarm_region_set_failure">Nastavenie regiónu aktivity neúspešné.</string>
@@ -68,6 +67,13 @@
   <string name="alert_all_camera">Všetky kamery</string>
   <string name="alert_all_choose">Všetko</string>
   <string name="alert_all_dynamic">Všetky aktivity</string>
+  <string name="alert_calendar_friday">Pia</string>
+  <string name="alert_calendar_monday">Pon</string>
+  <string name="alert_calendar_saturday">Sob</string>
+  <string name="alert_calendar_sunday">Ned</string>
+  <string name="alert_calendar_thursday">Štv</string>
+  <string name="alert_calendar_tuesday">Uto</string>
+  <string name="alert_calendar_wednesday">Str</string>
   <string name="alert_choosed_all">Vybrané všetko</string>
   <string name="alert_choosed_item">%1$d vybrané</string>
   <string name="alert_delete">Vymazať %1$d správy?</string>
@@ -84,8 +90,8 @@
   <string name="alert_refresh_header">Potiahnite nadol pre nasledujúci deň</string>
   <string name="alert_refresh_load">Pustite pre načítanie</string>
   <string name="alert_refresh_loading">Načítavanie...</string>
-  <string name="alert_title">Upozornenia na aktivitu</string>
   <string name="alert_refresh_update_header_text">Potiahnutím obnovíte</string>
+  <string name="alert_title">Upozornenia na aktivitu</string>
   <string name="alert_video">Video</string>
   <string name="alert_video_delete">Vymazať video?</string>
   <string name="app_name">YiCamera</string>
@@ -180,6 +186,7 @@ Resetujte kameru"</string>
   <string name="camera_setting_alarm_setting">Upozornenie na pohyb</string>
   <string name="camera_setting_alarm_setting_des">Nastavenie obsahu upozornenia</string>
   <string name="camera_setting_alarm_tip">Upozorniť ak sa zmení niečo na zábere</string>
+  <string name="camera_setting_beep_mode_fail">Uloženie nastavení zlyhalo, skúste to znova.</string>
   <string name="camera_setting_camera_name">Názov kamery</string>
   <string name="camera_setting_day_night_subtitle">"Toto nastavenie nadobudne účinnosť až po 
 zapnutí nočného videnia."</string>
@@ -206,6 +213,7 @@ zapnutí nočného videnia."</string>
   <string name="camera_setting_resolution_title">HD nastavenia</string>
   <string name="camera_setting_reverse">Otočenie obrazu</string>
   <string name="camera_setting_sensitivity_alarm_title">Úroveň citlivosti</string>
+  <string name="camera_setting_speaker_adjust_fail">Uloženie nastavení zlyhalo, skúste to znova.</string>
   <string name="camera_setting_stats_light">Stavová LED</string>
   <string name="camera_setting_storage_set">Úložisko</string>
   <string name="camera_setting_storage_situation">Stav Micro SD karty</string>
@@ -228,9 +236,9 @@ zapnutí nočného videnia."</string>
   <string name="camera_view_password_error">Chyba hesla pripojenia kamery.</string>
   <string name="camera_wifi_config">Wi-Fi sieť kamery</string>
   <string name="cancel">Zrušiť</string>
-  <string name="change_wifi_hint">Momentálne nie je podporovaná 5GHz Wi-Fi pripojenie, použite 2.4GHz Wi-Fi sieť.</string>
   <string name="change_connect_type">Zmeniť na iný spôsob</string>
   <string name="change_device_name">Názov kamery</string>
+  <string name="change_wifi_hint">Momentálne nie je podporovaná 5GHz Wi-Fi pripojenie, použite 2.4GHz Wi-Fi sieť.</string>
   <string name="check_new_version">Skontrolovať aktualizácie</string>
   <string name="checked_stranger">Zistený pohyb</string>
   <string name="choose_config_type">Nastavenie</string>
@@ -353,8 +361,8 @@ Step 2. Press the QR Code icon in the upper right corner and have your friends s
   <string name="devshare_title_share">Share</string>
   <string name="dogfood_message">Not among the beta users or outdated version, please use official release or contact the Xiaoyi staff.</string>
   <string name="downloading">Sťahovanie...</string>
-  <string name="enter_album">Zobraziť album</string>
   <string name="email">Email</string>
+  <string name="enter_album">Zobraziť album</string>
   <string name="exit_app">Stlačte znova pre ukončenie</string>
   <string name="facebook_login">Prihlásiť cez Facebook</string>
   <string name="fail_to_get_new_version">Failed to access latest version</string>
@@ -421,6 +429,7 @@ Step 2. Press the QR Code icon in the upper right corner and have your friends s
   <string name="menu_faq">FAQ</string>
   <string name="middle">Stredné</string>
   <string name="my_camera">Moja kamera</string>
+  <string name="my_camera_H21">YI Home Camera 1080P</string>
   <string name="my_return">Návrat</string>
   <string name="net_bad_tip">Pripojenie nie je stabilné, nahrávanie videa môže byť nekvalitné.</string>
   <string name="network_info_IP">IP Adresa</string>
@@ -533,8 +542,8 @@ Ak chcete využiť celý priestor, môžete kartu naformátovať na počítači 
   <string name="sdcard_slow">SD karta je veľmi pomalá</string>
   <string name="sdcard_small">Kapacita SD karty nie je dostačujúca</string>
   <string name="search_camera">Vyhľadať kameru</string>
-  <string name="seek_zoom_tip">Časovú os môžete približovať a oddiaľovať pohybom ako na obrázku</string>
   <string name="seek_move_tip">Časovú os môžete približovať po nastavení posledného videa na značku</string>
+  <string name="seek_zoom_tip">Časovú os môžete približovať a oddiaľovať pohybom ako na obrázku</string>
   <string name="sense_drag">Nastavte ťahaním posuvníka</string>
   <string name="sense_high">Alarm sa spustí ak sa zachytí aj nepatrná aktivita</string>
   <string name="sense_low">Alarm sa spustí iba ak sa zachytí významná aktivita</string>
@@ -709,14 +718,4 @@ a čakajte na jeho načítanie"</string>
   <string name="yi_user_sign_in">Prihlásiť sa</string>
   <string name="yi_user_sign_up">Registrovať sa</string>
   <string name="yi_user_sign_up_title">Registrovať sa v YI</string>
-  <string name="alert_calendar_friday">Pia</string>
-  <string name="alert_calendar_monday">Pon</string>
-  <string name="alert_calendar_saturday">Sob</string>
-  <string name="alert_calendar_sunday">Ned</string>
-  <string name="alert_calendar_thursday">Štv</string>
-  <string name="alert_calendar_tuesday">Uto</string>
-  <string name="alert_calendar_wednesday">Str</string>
-  <string name="camera_setting_beep_mode_fail">Uloženie nastavení zlyhalo, skúste to znova.</string>
-  <string name="camera_setting_speaker_adjust_fail">Uloženie nastavení zlyhalo, skúste to znova.</string>
-  <string name="my_camera_H21">YI Home Camera 1080P</string>
 </resources>

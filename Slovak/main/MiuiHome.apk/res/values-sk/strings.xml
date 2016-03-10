@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="activity_not_found">Aplikácia nie je v telefóne nainštalovaná.</string>
+  <string name="add_screen">Pridať tlačidlo plochy</string>
   <string name="app_already_exist">Aplikácia už existuje</string>
   <string name="app_being_backup_message">Zálohuje sa.</string>
   <string name="app_being_restored_message">Apl. bude obnovená</string>
@@ -22,10 +22,12 @@
   <string name="app_category_tools">Nástroje</string>
   <string name="app_category_travel">Cestovanie</string>
   <string name="application_name">MIUI Launcher</string>
+  <string name="apply">Použiť</string>
   <string name="apply_action">Použíť</string>
   <string name="apply_as_lock_screen">Zámok</string>
   <string name="apply_as_lock_wallpaper">Použiť</string>
   <string name="apply_as_lock_wallpaper_message">Nastaviť tapetu aj pre zámok?</string>
+  <string name="apply_as_lockwallpaper_action">Zámok obrazovky</string>
   <string name="apply_as_wallpaper">Plocha</string>
   <string name="apply_both">Plocha aj zámok</string>
   <string name="apply_negative_action">Nepoužiť</string>
@@ -62,6 +64,7 @@
   <string name="default_name">Predvolené</string>
   <string name="default_theme_name">Predvolená</string>
   <string name="delete">Vymazať</string>
+  <string name="delete_screen">Vymazať tlačidlo plochy</string>
   <string name="delete_wallpaper_message">Vymazať tapetu (%1$d)?</string>
   <string name="delete_wallpapers_message">Vymazať tapety (%1$d)?</string>
   <string name="deselect_all">Odznačiť všetko</string>
@@ -146,6 +149,8 @@
   <string name="is_setting_wallpaper_message">Nastavovanie tapety...</string>
   <string name="is_setting_wallpaper_toast">Nastavovanie tapety...</string>
   <string name="is_system_wallpaper_message">Nie je možné vymazať systémové súbory</string>
+  <string name="like">Páči sa</string>
+  <string name="liked">Páči sa</string>
   <string name="loading_desktop">Načítavanie launcheru...</string>
   <string name="loading_wallpaper">Načítavanie...</string>
   <string name="local_wallpaper">Lokálne</string>
@@ -209,13 +214,16 @@
   <string name="resource_select">Zvoliť</string>
   <string name="screen_button_disabled_message">Tlačidlá pod displejom sú deaktivované. Môžete ich aktivovať stlačením \"Domov\" a \"Zapínanie\"</string>
   <string name="screen_button_enabled_message">Tlačidlá pod displejom sú aktivované</string>
+  <string name="screen_number">Plocha: %d</string>
   <string name="screen_rotation_freeze_message">Rotácia obrazovky je uzamknutá v horizontálnej polohe</string>
   <string name="scroll_tip_format_when_announce_accessibility">Strana %1$d, %2$d aplikácií</string>
   <string name="select_all">Všetko</string>
   <string name="select_frame">Rámček</string>
   <string name="select_photo">Fotka</string>
   <string name="setting_wallpaper_tip">Posuňte alebo zväčšite</string>
+  <string name="settings">Nastavenia</string>
   <string name="settings_shortcut">Skratky</string>
+  <string name="share">Zdieľať</string>
   <string name="sharedUserId"/>
   <string name="show_all">Zobraziť všetko</string>
   <string name="sort_by_abc">Radiť podľa názvu</string>
@@ -297,13 +305,4 @@
   <string name="widget_favorite_contacts_style">Rozmer</string>
   <string name="widget_gadget_player">Hudba</string>
   <string name="widget_global_search">Vyhľadávanie</string>
-  <string name="apply_as_lockwallpaper_action">Zámok obrazovky</string>
-  <string name="add_screen">Pridať tlačidlo plochy</string>
-  <string name="delete_screen">Vymazať tlačidlo plochy</string>
-  <string name="screen_number">Plocha: %d</string>
-  <string name="apply">Použiť</string>
-  <string name="like">Páči sa</string>
-  <string name="liked">Páči sa</string>
-  <string name="settings">Nastavenia</string>
-  <string name="share">Zdieľať</string>
 </resources>

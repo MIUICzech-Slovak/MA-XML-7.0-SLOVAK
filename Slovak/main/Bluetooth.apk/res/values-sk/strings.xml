@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="ErrorTooManyRequests">Spracúva sa príliš veľa žiadostí. Opakujte akciu neskôr.</string>
   <string name="ack_record">Záznam ACK</string>
@@ -21,9 +20,22 @@
   <string name="bluetooth_disconnected">Odpojené</string>
   <string name="bluetooth_disconnecting">Odpájanie...</string>
   <string name="bluetooth_in_airplane_mode">V režime Lietadlo</string>
+  <string name="bluetooth_map_settings_app_icon">Ikona aplikácie</string>
+  <string name="bluetooth_map_settings_cancel">Zrušiť</string>
+  <string name="bluetooth_map_settings_count">Počet zostávajúcich slotov:</string>
+  <string name="bluetooth_map_settings_intro">Vyberte účty, ktoré chcete zdieľať prostredníctvom rozhrania Bluetooth. Počas pripájania budete musieť aj tak prijať akékoľvek prístupy k účtom.</string>
+  <string name="bluetooth_map_settings_no_account_slots_left">Účet sa nedá vybrať. Nie sú k dispozícii žiadne ďalšie sloty.</string>
+  <string name="bluetooth_map_settings_save">Uložiť</string>
+  <string name="bluetooth_map_settings_title">Nastavenia zdieľania správ prostredníctvom rozhrania Bluetooth</string>
   <string name="bluetooth_preference_connected_devices">Pripojené zariadenia</string>
   <string name="bluetooth_preference_found_devices">Dostupné zariadenia</string>
   <string name="bluetooth_preference_scan_title">Vyhľadať zariadenie</string>
+  <string name="bluetooth_sap_notif_disconnect_button">Odpojiť</string>
+  <string name="bluetooth_sap_notif_disconnecting">Čaká sa na odpojenie klienta</string>
+  <string name="bluetooth_sap_notif_force_disconnect_button">Vynútiť odpojenie</string>
+  <string name="bluetooth_sap_notif_message">Chcete požiadať klienta, aby sa odpojil?</string>
+  <string name="bluetooth_sap_notif_ticker">Prístup k SIM karte prostredníctvom rozhrania Bluetooth</string>
+  <string name="bluetooth_sap_notif_title">Prístup k SIM karte prostredníctvom rozhrania Bluetooth</string>
   <string name="bluetooth_search_for_devices">Hľadanie zariadení</string>
   <string name="bt_advanced_settings">Viac nastavení Bluetooth</string>
   <string name="bt_enable_cancel">Zrušiť</string>
@@ -204,17 +216,4 @@
   <string name="upload_succ_line5">Súbor bol odoslaný</string>
   <string name="upload_succ_ok">OK</string>
   <string name="upload_success">%1$s Odosielanie dokončené.</string>
-  <string name="bluetooth_sap_notif_title">Prístup k SIM karte prostredníctvom rozhrania Bluetooth</string>
-  <string name="bluetooth_sap_notif_ticker">Prístup k SIM karte prostredníctvom rozhrania Bluetooth</string>
-  <string name="bluetooth_sap_notif_message">Chcete požiadať klienta, aby sa odpojil?</string>
-  <string name="bluetooth_sap_notif_disconnecting">Čaká sa na odpojenie klienta</string>
-  <string name="bluetooth_sap_notif_disconnect_button">Odpojiť</string>
-  <string name="bluetooth_sap_notif_force_disconnect_button">Vynútiť odpojenie</string>
-  <string name="bluetooth_map_settings_save">Uložiť</string>
-  <string name="bluetooth_map_settings_cancel">Zrušiť</string>
-  <string name="bluetooth_map_settings_intro">Vyberte účty, ktoré chcete zdieľať prostredníctvom rozhrania Bluetooth. Počas pripájania budete musieť aj tak prijať akékoľvek prístupy k účtom.</string>
-  <string name="bluetooth_map_settings_count">Počet zostávajúcich slotov:</string>
-  <string name="bluetooth_map_settings_app_icon">Ikona aplikácie</string>
-  <string name="bluetooth_map_settings_title">Nastavenia zdieľania správ prostredníctvom rozhrania Bluetooth</string>
-  <string name="bluetooth_map_settings_no_account_slots_left">Účet sa nedá vybrať. Nie sú k dispozícii žiadne ďalšie sloty.</string>
 </resources>

@@ -1,16 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="activate_xiaomi_account">Aktivovať toto zariadenia</string>
   <string name="app_name">Vyhľadať zariadenie</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Nebolo možné odblokovať. %s.</string>
+  <string name="default_lock_msg_words">Ahoj! Stratil som alebo mi bol ukradnutý tento telefón. Prosím vráťte mi ho. Ďakujem!</string>
+  <string name="default_lock_msg_words_with_phone">Ahoj! Stratil som alebo mi bol ukradnutý tento telefón. Prosím vráťte mi ho. Ďakujem!</string>
+  <string name="device_lost">Toto zariadenie bolo stratené alebo odcudzené</string>
   <string name="disable_find_device_error">Nebolo možné deaktivovať vyhľadávanie zariadenia. %1$s</string>
   <string name="disable_find_device_success">Vyhľadanie zariadenia je deaktivované.</string>
   <string name="enable_find_device_error">Nebolo možné aktivovať vyhľadávanie zariadenia. %1$s</string>
   <string name="enable_find_device_success">Vyhľadanie zariadenia je aktivované.</string>
   <string name="find_device">Vyhľadať zariadenie</string>
+  <string name="find_device_crash">Vyhľadávanie bolo neočakávane ukončné</string>
   <string name="find_device_error_account_sys_timeout">Nebolo možné sa pripojiť k Xiaomi účtu.</string>
+  <string name="find_device_error_account_unknown_error">Chyba Xiaomi účtu (%s)</string>
   <string name="find_device_error_network">Skontrolujte dátové pripojenie a skúste to znova.</string>
   <string name="find_device_error_password_changed">Heslo k vášmu účtu bolo zmenené.</string>
   <string name="find_device_error_server">Chyba servera (%s)</string>
@@ -21,8 +25,10 @@
   <string name="find_device_notice_p3">" pre vyhľadanie, zablokovanie, alebo obnovu vášho zariadenia.
 Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
   <string name="find_device_stop_noise">Stlačte OK pre vypnutie</string>
+  <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
   <string name="find_device_success_title">Vyhľadať zariadenie</string>
   <string name="i_know">OK</string>
+  <string name="lock_msg_phone">Kontaktné informácie: %s</string>
   <string name="login_failed">Nebolo možné sa prihlásiť</string>
   <string name="password">Heslo</string>
   <string name="phone_locked">Toto zariadenie je zrejme prepojené s iným Xiaomi účtom (%s). Prihláste sa pre aktivovanie tohto zariadenia.</string>
@@ -39,15 +45,6 @@ Ak zmeníte SIM kartu, automaticky sa odošle SMS pre jej aktiváciu."</string>
   <string name="unlock_error_ssl_hand_shake">Nebolo možné sa pripojiť k serveru, skúste nastaviť čas a dátum manuálne.</string>
   <string name="unlock_error_unknown">Nebolo možné sa prihlásiť</string>
   <string name="unlock_error_user_name">Chybné užívateľske meno</string>
-  <string name="unlock_wrong_captcha">Zadaný kód nie je správny</string>
-  <string name="unlocking">Aktivovanie...</string>
-  <string name="verify_password_failed">Nebolo možné overiť Xiaomi účet. %s.</string>
-  <string name="default_lock_msg_words">Ahoj! Stratil som alebo mi bol ukradnutý tento telefón. Prosím vráťte mi ho. Ďakujem!</string>
-  <string name="default_lock_msg_words_with_phone">Ahoj! Stratil som alebo mi bol ukradnutý tento telefón. Prosím vráťte mi ho. Ďakujem!</string>
-  <string name="device_lost">Toto zariadenie bolo stratené alebo odcudzené</string>
-  <string name="lock_msg_phone">Kontaktné informácie: %s</string>
-  <string name="find_device_crash">Vyhľadávanie bolo neočakávane ukončné</string>
-  <string name="find_device_storage_corrupted">Find Device storage corrupted. Your device is unsafe now.</string>
   <string name="unlock_help">"Neodpájajte sa od siete
 Uistite sa, že ste vložili správnu SIM kartu, a nie ste pripojený k nestabilnej Wi-Fi sieti
 
@@ -57,5 +54,7 @@ Choďte na id.mi.com pre obnovenie hesla
 Iné dôvody:
 Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</string>
   <string name="unlock_help_title">Pomoc s odblokovaním:</string>
-  <string name="find_device_error_account_unknown_error">Chyba Xiaomi účtu (%s)</string>
+  <string name="unlock_wrong_captcha">Zadaný kód nie je správny</string>
+  <string name="unlocking">Aktivovanie...</string>
+  <string name="verify_password_failed">Nebolo možné overiť Xiaomi účet. %s.</string>
 </resources>

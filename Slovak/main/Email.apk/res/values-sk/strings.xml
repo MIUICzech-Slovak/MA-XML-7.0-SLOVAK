@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Folders">Zložky</string>
   <string name="SMTP_independent_verification_text">SMTP independent verification</string>
@@ -110,15 +109,20 @@
   <string name="account_setup_failed_dlg_auth_message">Používateľské meno alebo heslo je nesprávne.</string>
   <string name="account_setup_failed_dlg_auth_message_fmt">"Prihlásenie zlyhalo.
 (%s)"</string>
+  <string name="account_setup_failed_dlg_bar_title">Tipy na prihlásenie %s</string>
   <string name="account_setup_failed_dlg_certificate_message">Nepodarilo sa bezpečne pripojiť k serveru.</string>
   <string name="account_setup_failed_dlg_certificate_message_fmt">"Nepodarilo sa bezpečne pripojiť k serveru.
 (%s)"</string>
   <string name="account_setup_failed_dlg_device_locked">Vaša adresa bola zablokovaná zámkom zariadenia</string>
   <string name="account_setup_failed_dlg_edit_details_action">Upraviť podrobnosti</string>
+  <string name="account_setup_failed_dlg_error_code">Chyba: %s</string>
   <string name="account_setup_failed_dlg_server_message">Nepodarilo sa pripojiť k serveru.</string>
   <string name="account_setup_failed_dlg_server_message_fmt">"Nepodarilo sa pripojiť k serveru.
 (%s)"</string>
   <string name="account_setup_failed_dlg_title">Nepodarilo sa dokončiť</string>
+  <string name="account_setup_failed_dlg_todo1">Nastavte účet tak ako je nižšie alebo sa prihláste cez Exchange.</string>
+  <string name="account_setup_failed_dlg_todo2">Nastavte účet tak ako je nižšie.</string>
+  <string name="account_setup_failed_dlg_unknown_auth_message">Neznáma chyba.</string>
   <string name="account_setup_failed_ioerror">Pripojenie k serveru sa nepodarilo otvoriť.</string>
   <string name="account_setup_failed_protocol_unsupported">Zadali ste nesprávnu adresu servera alebo server vyžaduje verziu protokolu, ktorú aplikácia E-mail nepodporuje.</string>
   <string name="account_setup_failed_security">Pripojenie k serveru sa nepodarilo otvoriť kvôli chybe zabezpečenia.</string>
@@ -175,6 +179,7 @@
   <string name="account_setup_options_mail_window_auto">Automaticky</string>
   <string name="account_setup_options_mail_window_default">Použiť predv. nast. účtu</string>
   <string name="account_setup_options_mail_window_label">Počet dní na synchronizáciu</string>
+  <string name="account_setup_options_mail_window_label_imap_or_pop3">Ponechať pre</string>
   <string name="account_setup_options_notify_label">Upozorniť ma na príchod e-mailu</string>
   <string name="account_setup_options_sync_calendar_label">Synchronizovať kalendár z tohto účtu</string>
   <string name="account_setup_options_sync_contacts_label">Synchronizovať kontakty z tohto účtu</string>
@@ -316,6 +321,7 @@
   <string name="clear_display_images_whitelist_dialog_title">Chcete vymazať schválenia obrázkov?</string>
   <string name="clear_display_images_whitelist_title">Vymazať schválenia obrázkov</string>
   <string name="click_download_all_content">[ Dotykom načítate správu ]</string>
+  <string name="click_to_reload">Dotknite sa displeja pre obnovenie</string>
   <string name="collapse_recipient_details">Zbaliť podrobnosti o príjemcovi</string>
   <string name="colon">:</string>
   <string name="compose">Napísať správu</string>
@@ -338,9 +344,11 @@
   <string name="confirm_send_title">Chcete túto správu odoslať?</string>
   <string name="contact_content_provider">Contact Content Provider</string>
   <string name="contact_edit_set_black_list">Čierna listina</string>
+  <string name="contact_edit_set_black_list_filtering">Filtrovanie...</string>
   <string name="contact_edit_set_black_list_from">Vymazať všetky správy od tohto odosielateľa</string>
   <string name="contact_edit_set_black_list_receive">Vymazať všetky správy týchto prijímateľov (zvyčajne skupiny)</string>
   <string name="contact_edit_set_black_list_receive_summary">Pre/Kópia obsahuje tohto prijímateľa</string>
+  <string name="contact_edit_set_black_list_title">Pridať do blokovaných</string>
   <string name="contact_edit_set_phone_contact">Upraviť kontakt</string>
   <string name="contact_edit_set_pop_up_tips">Upozornenia</string>
   <string name="contact_edit_set_unread_top">Zobraziť najskôr neprečítané správy</string>
@@ -392,6 +400,7 @@
   <string name="default_">PREDVOLENÉ</string>
   <string name="default_setup">PREDVOLENÉ NASTAVENIA</string>
   <string name="default_signature">Odoslané z MIUI</string>
+  <string name="del_account_questionnair_hint">Môžete nám povedať prečo chcete vymazať tento účet?</string>
   <string name="delete">Odstrániť</string>
   <string name="delete_conversation_hint_message">Vymazané %2$s (%1$d)</string>
   <string name="deleted">Odstránené</string>
@@ -404,6 +413,7 @@
   <string name="dialog_account_auto_sync_setting_no_open">Synchr. je vypnutá, nie je možné prijať nové správy.</string>
   <string name="dialog_auto_download_failed">Nie je možné dokočiť sťahovanie</string>
   <string name="dialog_auto_sync_setting_no_open">Synchr. je vypnutá, nie je možné prijať nové správy.</string>
+  <string name="dialog_change_sync_lookback">Správy prijaté pred %s budú vymazané. Dotykom to zmeníte.</string>
   <string name="dialog_gmail_proxy_server_is_error">Gmail proxy server error.</string>
   <string name="dialog_insufficient_space_for_single_account_on_internal">Nie je dostatok voľného miesta pre %s.</string>
   <string name="dialog_insufficient_space_on_external">Nie je dostatok voľného miesta pre stiahnutie prílohy.</string>
@@ -440,6 +450,9 @@
   <string name="drawer_close">Zavrieť priečinok s navigáciou</string>
   <string name="drawer_open">Otvoriť priečinok s navigáciou</string>
   <string name="edit_quick_response_dialog">Rýchla odpoveď</string>
+  <string name="email_netease">NetEase Mail</string>
+  <string name="email_qq">QQ Mail</string>
+  <string name="email_sina">Sina Mail</string>
   <string name="empty_account_tip">Účet sa nenašiel</string>
   <string name="empty_email_tip">Nie je možné odoslať prázdny email</string>
   <string name="empty_spam">Vyprázdniť priečinok s nevyžiadanou poštou</string>
@@ -453,6 +466,7 @@
   <string name="exchange_name">Firemný</string>
   <string name="exchange_name_alternate">Microsoft Exchange ActiveSync</string>
   <string name="expand_recipient_details">Rozbaliť podrobnosti o príjemcovi</string>
+  <string name="fail_get_email_message">Načítavanie správy zlyhalo.</string>
   <string name="failed">Obrázok sa nepodarilo načítať</string>
   <string name="feedback">Odoslať spätnú väzbu</string>
   <string name="feedback_body">Informácie o spätnej väzbe</string>
@@ -521,6 +535,18 @@
   <string name="imap_password_error">Heslo pre server prichádzajúcej pošty nie je správne</string>
   <string name="inbox_folders_heading">Doručená pošta</string>
   <string name="info">Informácie</string>
+  <string name="info_actionbar_normal_detail">Podrobnosti</string>
+  <string name="info_actionbar_subscribe">Subscribe line</string>
+  <string name="info_item_from">Od: </string>
+  <string name="info_item_hide">Skryť</string>
+  <string name="info_loading">Načítavanie...</string>
+  <string name="info_name_title">Novinky</string>
+  <string name="info_no_message">Žiadne správy!</string>
+  <string name="info_no_more_message">Viac nemáme</string>
+  <string name="info_switch_summary">Open Inbox top NEWS</string>
+  <string name="info_switch_title">Inbox NEWS</string>
+  <string name="info_sync_error">Chyba synchr., skúste to znova.</string>
+  <string name="information_subscribe_first_intro">This is the first time you use the 「Subscribe」 , please select some of the tags that you are interested in so that we can make a recommendation to you only for your content~</string>
   <string name="inline_picture_deleted">Prebieha sťahovanie obrázka...</string>
   <string name="inline_picture_download_complete">vložený obrázok stiahnutý</string>
   <string name="input_password_prompt">Zadajte heslo:</string>
@@ -588,6 +614,7 @@
   <string name="menu_att_mgr_order_size">Podľa veľkosti</string>
   <string name="menu_change_folders">Zmeniť priečinky</string>
   <string name="menu_compose">Napísať správu</string>
+  <string name="menu_discovery">Discovery</string>
   <string name="menu_folder_options">Možnosti synchronizácie</string>
   <string name="menu_manage_folders">Nastavenia priečinka</string>
   <string name="menu_move_to">Presunúť do</string>
@@ -642,8 +669,11 @@ Kópia: %4$s
   <string name="multiple_new_message_notification_item">%1$s"   %2$s"</string>
   <string name="mute">Ignorovať</string>
   <string name="name_or_number_is_error">Chybné meno alebo heslo</string>
+  <string name="net_check_title">Nebolo možné sa pripojiť k sieti. Skontrolujte nastavenia siete.</string>
   <string name="network_error">Bez pripojenia</string>
   <string name="network_not_available">Sieť je nedostupná, skúste to znova neskôr</string>
+  <string name="network_try_again">Skontrolujte nastavenia siete</string>
+  <string name="network_unavailable">Sieť je nedostupná</string>
   <string name="new_incoming_messages_one">Nová správa od %s. Zobraziť.</string>
   <string name="new_messages">Počet nových správ: %1$d</string>
   <string name="next_action">Ďalej</string>
@@ -783,6 +813,7 @@ Kópia: %4$s
   <string name="provider_note_live">Len niektoré účty Plus majú prístup prostredníctvom protokolu POP, ktorý umožňuje pripojenie tohto programu. Ak sa nemôžete prihlásiť so správnou e-mailovou adresou a heslom, pravdepodobne nemáte platený účet „Plus“. Ak chcete pristupovať k týmto e-mailovým účtom, urobte tak prostredníctvom webového prehliadača.</string>
   <string name="provider_note_t_online">Pred nastavením tohto e-mailového účtu navštívte webové stránky T-Online a vytvorte heslo pre e-mailový prístup POP3.</string>
   <string name="pull_to_refresh">Potiahnutím obnovíte</string>
+  <string name="pull_up_to_load_more">Load on get more</string>
   <string name="push_wps_better_confirm_download">Stiahnuť</string>
   <string name="push_wps_better_confirm_exit">Otvoriť inou aplikáciou</string>
   <string name="push_wps_better_confirm_message">WPS Office má lepšiu podporu pre tento typ dokumentu v prílohe</string>
@@ -793,6 +824,15 @@ Kópia: %4$s
   <string name="push_wps_confirm_message">Žiadna nainštalovaná aplikácia nepodporuje tento typ súboru v prílohe, odporúčame vám nainštalovať WPS Office</string>
   <string name="push_wps_confirm_title">WPS Office</string>
   <string name="push_wps_no_response_app">Žiadna aplikácia</string>
+  <string name="questionnair_body_invisibility">Správy sa nezobrazujú</string>
+  <string name="questionnair_confirm_delete">Vymazať</string>
+  <string name="questionnair_instability">Nestabilná aplikácia</string>
+  <string name="questionnair_not_send">Nie je možné odoslať správu</string>
+  <string name="questionnair_not_sync">Nestabilná synchronizácia</string>
+  <string name="questionnair_other_reasons">Iný dôvod</string>
+  <string name="questionnair_title">Vymazanie účtu</string>
+  <string name="questionnair_ui_not_pretty">Nepáči sa mi dizajn aplikácie</string>
+  <string name="questionnair_waste_resource">Vymazanie môže uvoľniť úložisko</string>
   <string name="quick_1">Ďakujeme!</string>
   <string name="quick_2">To znie dobre!</string>
   <string name="quick_3">Prečítam si to neskôr a dám vám vedieť.</string>
@@ -868,6 +908,7 @@ Kópia: %4$s
   <string name="security_unsupported_ticker_fmt">Účet „%s“ sa nedá synchronizovať z dôvodu požiadaviek zabezpečenia.</string>
   <string name="select_attachment_type">Vyberte prílohu</string>
   <string name="select_no_file">Nie je vybraná príloha pre zdieľanie</string>
+  <string name="selected_lable">Vybrané</string>
   <string name="send">Poslať</string>
   <string name="send_att_title">Upozornenie</string>
   <string name="send_failed">Správa nebola odoslaná.</string>
@@ -941,6 +982,7 @@ Kópia: %4$s
   <string name="trigger_refresh_char">u</string>
   <string name="trigger_save_char">s</string>
   <string name="trigger_y_char">y</string>
+  <string name="try_exchange_login">Skúste sa prihlásiť s Exchange</string>
   <string name="tryrefreshing">Skúste obnoviť...</string>
   <string name="turn_auto_sync_on_dialog_body">Zmeny, ktoré vykonáte vo všetkých aplikáciách a účtoch, budú synchronizované medzi webom, ďalšími zariadeniami a zariadením %1$s.</string>
   <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnúť</string>
@@ -948,6 +990,7 @@ Kópia: %4$s
   <string name="undo"/>
   <string name="unread_from_someone">Od [%s]</string>
   <string name="unread_string">konverzácia nebola prečítaná</string>
+  <string name="unselected_lable">Viac</string>
   <string name="unsent_messages_in_outbox">Počet neodoslaných správ v priečinku %2$s: %1$s</string>
   <string name="unzip_file_failed">Rozbalenie súboru zlyhalo!</string>
   <string name="updated_at">Naposledy: %1$s</string>
@@ -994,48 +1037,4 @@ Delta update size: %2$s"</string>
   <string name="yes">Áno</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
-  <string name="contact_edit_set_black_list_filtering">Filtrovanie...</string>
-  <string name="contact_edit_set_black_list_title">Pridať do blokovaných</string>
-  <string name="fail_get_email_message">Načítavanie správy zlyhalo.</string>
-  <string name="account_setup_failed_dlg_unknown_auth_message">Neznáma chyba.</string>
-  <string name="account_setup_options_mail_window_label_imap_or_pop3">Ponechať pre</string>
-  <string name="del_account_questionnair_hint">Môžete nám povedať prečo chcete vymazať tento účet?</string>
-  <string name="dialog_change_sync_lookback">Správy prijaté pred %s budú vymazané. Dotykom to zmeníte.</string>
-  <string name="questionnair_body_invisibility">Správy sa nezobrazujú</string>
-  <string name="questionnair_confirm_delete">Vymazať</string>
-  <string name="questionnair_instability">Nestabilná aplikácia</string>
-  <string name="questionnair_not_send">Nie je možné odoslať správu</string>
-  <string name="questionnair_not_sync">Nestabilná synchronizácia</string>
-  <string name="questionnair_other_reasons">Iný dôvod</string>
-  <string name="questionnair_title">Vymazanie účtu</string>
-  <string name="questionnair_ui_not_pretty">Nepáči sa mi dizajn aplikácie</string>
-  <string name="questionnair_waste_resource">Vymazanie môže uvoľniť úložisko</string>
-  <string name="account_setup_failed_dlg_bar_title">Tipy na prihlásenie %s</string>
-  <string name="account_setup_failed_dlg_error_code">Chyba: %s</string>
-  <string name="account_setup_failed_dlg_todo1">Nastavte účet tak ako je nižšie alebo sa prihláste cez Exchange.</string>
-  <string name="account_setup_failed_dlg_todo2">Nastavte účet tak ako je nižšie.</string>
-  <string name="email_netease">NetEase Mail</string>
-  <string name="email_qq">QQ Mail</string>
-  <string name="email_sina">Sina Mail</string>
-  <string name="try_exchange_login">Skúste sa prihlásiť s Exchange</string>
-  <string name="click_to_reload">Dotknite sa displeja pre obnovenie</string>
-  <string name="info_actionbar_normal_detail">Podrobnosti</string>
-  <string name="info_actionbar_subscribe">Subscribe line</string>
-  <string name="info_item_from">Od: </string>
-  <string name="info_item_hide">Skryť</string>
-  <string name="info_loading">Načítavanie...</string>
-  <string name="info_name_title">Novinky</string>
-  <string name="info_no_message">Žiadne správy!</string>
-  <string name="info_no_more_message">Viac nemáme</string>
-  <string name="info_switch_summary">Open Inbox top NEWS</string>
-  <string name="info_switch_title">Inbox NEWS</string>
-  <string name="info_sync_error">Chyba synchr., skúste to znova.</string>
-  <string name="information_subscribe_first_intro">This is the first time you use the 「Subscribe」 , please select some of the tags that you are interested in so that we can make a recommendation to you only for your content~</string>
-  <string name="menu_discovery">Discovery</string>
-  <string name="net_check_title">Nebolo možné sa pripojiť k sieti. Skontrolujte nastavenia siete.</string>
-  <string name="network_try_again">Skontrolujte nastavenia siete</string>
-  <string name="network_unavailable">Sieť je nedostupná</string>
-  <string name="pull_up_to_load_more">Load on get more</string>
-  <string name="selected_lable">Vybrané</string>
-  <string name="unselected_lable">Viac</string>
 </resources>

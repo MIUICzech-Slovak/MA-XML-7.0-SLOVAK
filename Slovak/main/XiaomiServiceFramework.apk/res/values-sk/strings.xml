@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="accept">OK</string>
   <string name="activate">Aktivovať</string>
@@ -13,6 +12,12 @@
   <string name="activate_feature_mx_and_voip">MiSprávy</string>
   <string name="activate_feature_register_xiaomi_account">Nastavenie Xiaomi účtu</string>
   <string name="activate_feature_verify_mx_token">Overenie Xiaomi účtu</string>
+  <string name="activate_history_cancelled">zrušené</string>
+  <string name="activate_history_multisim_overview">Aktivácia pre SIM kartu %3$d %1$s. Spustené \"%2$s\".</string>
+  <string name="activate_history_overview">Aktivácia pre SIM kartu %1$s. Spustené \"%2$s\".</string>
+  <string name="activate_history_sms">SMS bola odoslaná počas aktivácie.</string>
+  <string name="activate_history_success">úspešné</string>
+  <string name="activate_history_title">Aktivácia SIM karty</string>
   <string name="activate_phone_cancel_notif_title">Aktivácia SIM karty zrušená</string>
   <string name="activate_phone_cancel_notif_title_msim">Aktivácia SIM karty %s zrušená</string>
   <string name="activate_phone_failed_notif_title">Nie je možné aktivovať SIM kartu</string>
@@ -21,6 +26,7 @@
   <string name="activate_phone_success_notif_title_msim">SIM karta %s aktivovaná</string>
   <string name="activate_popup_confirm_all_gateway_failed_query_info">Znova</string>
   <string name="activate_popup_confirm_all_gateway_failed_send_sms">Znova</string>
+  <string name="activate_popup_confirm_error_device_id">Znova</string>
   <string name="activate_popup_confirm_failed_phone_error">Znova</string>
   <string name="activate_popup_confirm_failed_query_info">Znova</string>
   <string name="activate_popup_confirm_failed_receive_sms">Znova</string>
@@ -33,6 +39,7 @@
 Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
   <string name="activate_popup_desc_all_gateway_failed_send_sms">"Nebolo možné odoslať aktivačnú SMS správu. Uistite sa, že vaša SIM karta je aktivovaná.
 Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
+  <string name="activate_popup_desc_error_device_id">Vytočte *#06# pre kontrolu IMEI</string>
   <string name="activate_popup_desc_failed_phone_error">Zadané číslo je nesprávne.</string>
   <string name="activate_popup_desc_failed_query_info">Nie je možné načítať vaše telefónne číslo. Uistite sa prosím, že je vložená SIM karta.</string>
   <string name="activate_popup_desc_failed_receive_sms">Skontrolujte zadané telefónne číslo a SIM kartu.</string>
@@ -59,6 +66,7 @@ Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
   <string name="activate_popup_title_all_gateway_failed_query_info">Nie je možné rozpoznať telefónne číslo</string>
   <string name="activate_popup_title_all_gateway_failed_send_sms">Nebolo možné odoslať aktivačnú SMS správu</string>
   <string name="activate_popup_title_diagnosis_detail">Informácie o diagnostike</string>
+  <string name="activate_popup_title_error_device_id">Chybný IMEI</string>
   <string name="activate_popup_title_failed_phone_error">Nesprávne telefónne číslo</string>
   <string name="activate_popup_title_failed_query_info">Telefónne číslo sa nenašlo</string>
   <string name="activate_popup_title_failed_receive_sms">Bez odpovede</string>
@@ -74,6 +82,7 @@ Zadajte vaše telefónne číslo novej SIM karty pre aktiváciu %s"</string>
   <string name="activate_status_desc_checking_xiaomi_account">Kontrola Xiaomi účtu na serveri</string>
   <string name="activate_status_desc_checking_xiaomi_account_server_error">Vyskytla sa chyba servera počas kontroly Xiaomi účtu</string>
   <string name="activate_status_desc_completed_with_sms_sent">Odoslaná SMS pre aktiváciu SIM</string>
+  <string name="activate_status_desc_device_id_error">Chybný IMEI</string>
   <string name="activate_status_desc_failed_getting_gateway">Načítavanie SMS brány zlyhalo</string>
   <string name="activate_status_desc_getting_gateway">Načítavanie SMS brány</string>
   <string name="activate_status_desc_getting_sim_info">Načítavanie informácií o SIM karty</string>
@@ -109,14 +118,4 @@ ID zariadenia musí byť platný IMEI alebo MAC adresa. Bez platného ID nebudú
   <string name="sync_notification_title_format">Synchronizácia: %1$s</string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmsf_activate_info">XMSF info</string>
-  <string name="activate_popup_confirm_error_device_id">Znova</string>
-  <string name="activate_popup_desc_error_device_id">Vytočte *#06# pre kontrolu IMEI</string>
-  <string name="activate_popup_title_error_device_id">Chybný IMEI</string>
-  <string name="activate_status_desc_device_id_error">Chybný IMEI</string>
-  <string name="activate_history_cancelled">zrušené</string>
-  <string name="activate_history_multisim_overview">Aktivácia pre SIM kartu %3$d %1$s. Spustené \"%2$s\".</string>
-  <string name="activate_history_overview">Aktivácia pre SIM kartu %1$s. Spustené \"%2$s\".</string>
-  <string name="activate_history_sms">SMS bola odoslaná počas aktivácie.</string>
-  <string name="activate_history_success">úspešné</string>
-  <string name="activate_history_title">Aktivácia SIM karty</string>
 </resources>

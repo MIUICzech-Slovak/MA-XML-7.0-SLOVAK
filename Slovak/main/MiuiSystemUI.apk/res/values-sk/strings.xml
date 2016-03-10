@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="accessibility_airplane_mode">Lietadlo</string>
   <string name="accessibility_back">Späť</string>
@@ -21,6 +20,7 @@
   <string name="accessibility_data_three_bars">Dáta tri čiarky.</string>
   <string name="accessibility_data_two_bars">Dáta dve čiarky.</string>
   <string name="accessibility_home">Domov</string>
+  <string name="accessibility_managed_profile">Pracovný profil</string>
   <string name="accessibility_menu">Menu</string>
   <string name="accessibility_no_data">Žiadne dátové pripojenie.</string>
   <string name="accessibility_no_phone">Žiadny signál.</string>
@@ -45,6 +45,7 @@
   <string name="accessibility_wimax_signal_full">WiMAX plný signál.</string>
   <string name="accessibility_wimax_three_bars">WiMAX tri čiarky.</string>
   <string name="accessibility_wimax_two_bars">WiMAX dve čiarky.</string>
+  <string name="account_info">Neprihlásený</string>
   <string name="activate_usb_message">Vložte SIM kartu pre aktivovanie tejto funkcie</string>
   <string name="activate_usb_title">Aktivovať USB</string>
   <string name="always_use_accessory">Použiť ako predvolené pre toto USB príslušenstvo</string>
@@ -120,6 +121,7 @@
   <string name="kilobyte_per_second">KB/s</string>
   <string name="label_view">Zobraziť</string>
   <string name="lockscreen_carrier_default">Žiaden signál</string>
+  <string name="managed_profile_foreground_toast">Používate pracovný profil</string>
   <string name="mdb_entering">Pristupovanie k MDB</string>
   <string name="mdb_restore_cancel">Zrušiť</string>
   <string name="mdb_restore_info1">"Obnoví dáta Vášho telefónu"</string>
@@ -134,6 +136,8 @@
   <string name="mount_storage">Áno</string>
   <string name="network_speed_suffix">%1$s%2$s</string>
   <string name="no_notification_tips">Žiadne upozornenia</string>
+  <string name="notification_header_title">Upozornenia</string>
+  <string name="notification_hidden_text">Obsah je skrytý</string>
   <string name="notification_otg_gamestick_in">Herný ovládač je pripojený</string>
   <string name="notification_otg_gamestick_out">Herný ovládač je odpojený</string>
   <string name="notification_otg_keyboard_in">Klávesnica je pripojená</string>
@@ -276,9 +280,4 @@ d. MMMM"</string>
   <string name="vpn_text_long">Pripojiť k %s. Zobraziť podrobnosti.</string>
   <string name="vpn_title">VPN aktivované</string>
   <string name="vpn_title_long">Pripájanie k VPN cez %s</string>
-  <string name="accessibility_managed_profile">Pracovný profil</string>
-  <string name="managed_profile_foreground_toast">Používate pracovný profil</string>
-  <string name="account_info">Neprihlásený</string>
-  <string name="notification_header_title">Upozornenia</string>
-  <string name="notification_hidden_text">Obsah je skrytý</string>
 </resources>

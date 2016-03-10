@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="activity_not_found_uri">Pre túto akciu sa nenašiel program</string>
   <string name="add_attachment">Príloha</string>
@@ -237,8 +236,8 @@ Nahláste chyby a odošlite Váš názor priamo do Xiaomi."</string>
   <string name="view">Zobraziť</string>
   <string name="view_hms_attachment_fail">Sťahovanie obrázku zlyhalo.</string>
   <string name="view_hms_details">Podrobnosti</string>
+  <string name="view_hms_details_download">Stiahnuť</string>
   <string name="view_message_details">Zobraziť podrobnosti správy</string>
   <string name="xiaomi_service_number">Číslo služby</string>
   <string name="yes">OK</string>
-  <string name="view_hms_details_download">Stiahnuť</string>
 </resources>

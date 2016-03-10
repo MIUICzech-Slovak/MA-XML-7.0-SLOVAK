@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="account_unactivated">Účet nie je aktivovaný.</string>
   <string name="act_aqi_src_port">"%1$s%2$s  %3$s"</string>
@@ -45,6 +44,10 @@
   <string name="button_confirm">Povoliť</string>
   <string name="button_exit">Ukončiť</string>
   <string name="button_not_allow">Zrušiť</string>
+  <string name="daily_forcast_drawer_on_bottom">Skryť</string>
+  <string name="daily_forcast_drawer_on_top">Zobraziť ostatné dni</string>
+  <string name="daily_forcast_no_wind">Bezvetrie</string>
+  <string name="daily_forcast_weather_transfer">%1$s. %2$s neskôr.</string>
   <string name="deleting">Odstraňovanie...</string>
   <string name="description_author">Autor</string>
   <string name="description_designer">Dizajnér</string>
@@ -58,10 +61,28 @@
   <string name="download_failed">Sťahovanie zlyhalo</string>
   <string name="download_preview_failed">Načítavanie náhľadu zlyhalo</string>
   <string name="edit_city">Upraviť</string>
+  <string name="empty">" "</string>
   <string name="fail_to_add_account">Pridávanie účtu zlyhalo.</string>
   <string name="first_start_network_msg">Pre načítanie informácií o počasí a polohe je nutné internetové pripojenie.</string>
   <string name="first_start_network_title">Upozornenie na pripojenie</string>
   <string name="gps_hint">Súčasná poloha</string>
+  <string name="hourly_forcast_now">Teraz</string>
+  <string name="indices_desc_feel">Pocitovo %1$s°C</string>
+  <string name="indices_desc_humidity">Vlhkosť %1$s%%</string>
+  <string name="indices_desc_pressure">%1$shPa</string>
+  <string name="indices_no_restriction">Žiadne</string>
+  <string name="indices_title_Precip1hr">Zrážky</string>
+  <string name="indices_title_car_wash">Umývanie auta</string>
+  <string name="indices_title_feel">Pocitovo</string>
+  <string name="indices_title_humidity">Vlhkosť</string>
+  <string name="indices_title_pressure">Tlak</string>
+  <string name="indices_title_restriction">Car limit</string>
+  <string name="indices_title_sport">Šport</string>
+  <string name="indices_title_uv">UV Index</string>
+  <string name="indices_title_visibility">Viditeľnosť</string>
+  <string name="information_manager">Načítať len cez Wi-Fi</string>
+  <string name="information_manager_information">Informácie o počasí</string>
+  <string name="information_manager_wlan">Načítať len na Wi-Fi</string>
   <string name="international_detail_menu_title">Podrobnosti</string>
   <string name="loading">Načítavanie...</string>
   <string name="loading_resource_detail_fail">Nie je dostupné mimo Čínu!</string>
@@ -73,9 +94,12 @@
   <string name="menu_add">Pridať mestá</string>
   <string name="menu_location">Mestá</string>
   <string name="menu_more">Podrobnosti</string>
+  <string name="network_not_available">Nebolo možné sa pripojiť k sieti</string>
   <string name="network_unavailable">Žiadna sieť</string>
+  <string name="no_network_btn">Skúsiť znova</string>
   <string name="online_no_network">Sieť je nedostupná</string>
   <string name="online_search_hint">Vyhľadať online informácie</string>
+  <string name="open_browser">Otvoriť v Prehliadačí</string>
   <string name="payment_info">MiKredity</string>
   <string name="purchased_list">Zakúpené témy</string>
   <string name="purchased_list_format">Zakúpené %1$s</string>
@@ -256,6 +280,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="sdcard_not_mounted_dialog_message">"Vložte SD kartu.
 "</string>
   <string name="sdcard_not_mounted_dialog_title">Žiadna SD karta</string>
+  <string name="share">Zdieľať</string>
   <string name="share_btn_cancel">Zrušiť</string>
   <string name="share_btn_confirm">Zdieľať</string>
   <string name="share_button">Zdieľať</string>
@@ -266,6 +291,9 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="share_weather_desc_alert">%1$s%2$s</string>
   <string name="share_weather_desc_split">", "</string>
   <string name="share_weather_save_pic_fail">Nie je možné zhotoviť screenshot</string>
+  <string name="sunrise">Východ slnka</string>
+  <string name="sunset">Západ slnka</string>
+  <string name="title_share_link">Zdieľať URL</string>
   <string name="to_activate_the_account">Aktivovať Xiaomi účet.</string>
   <string name="view_aqi_main_no_data">N/A</string>
   <string name="view_aqi_pm25_format">PM2.5: %1$s</string>
@@ -290,33 +318,4 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="weather_unit">°</string>
   <string name="weather_unit_middle">~</string>
   <string name="weather_unit_with_c">°C</string>
-  <string name="daily_forcast_drawer_on_bottom">Skryť</string>
-  <string name="daily_forcast_drawer_on_top">Zobraziť ostatné dni</string>
-  <string name="daily_forcast_no_wind">Bezvetrie</string>
-  <string name="daily_forcast_weather_transfer">%1$s. %2$s neskôr.</string>
-  <string name="empty">" "</string>
-  <string name="hourly_forcast_now">Teraz</string>
-  <string name="indices_desc_feel">Pocitovo %1$s°C</string>
-  <string name="indices_desc_humidity">Vlhkosť %1$s%%</string>
-  <string name="indices_desc_pressure">%1$shPa</string>
-  <string name="indices_no_restriction">Žiadne</string>
-  <string name="indices_title_Precip1hr">Zrážky</string>
-  <string name="indices_title_car_wash">Umývanie auta</string>
-  <string name="indices_title_feel">Pocitovo</string>
-  <string name="indices_title_humidity">Vlhkosť</string>
-  <string name="indices_title_pressure">Tlak</string>
-  <string name="indices_title_restriction">Car limit</string>
-  <string name="indices_title_sport">Šport</string>
-  <string name="indices_title_uv">UV Index</string>
-  <string name="indices_title_visibility">Viditeľnosť</string>
-  <string name="information_manager">Načítať len cez Wi-Fi</string>
-  <string name="network_not_available">Nebolo možné sa pripojiť k sieti</string>
-  <string name="no_network_btn">Skúsiť znova</string>
-  <string name="open_browser">Otvoriť v Prehliadačí</string>
-  <string name="share">Zdieľať</string>
-  <string name="sunrise">Východ slnka</string>
-  <string name="sunset">Západ slnka</string>
-  <string name="title_share_link">Zdieľať URL</string>
-  <string name="information_manager_information">Informácie o počasí</string>
-  <string name="information_manager_wlan">Načítať len na Wi-Fi</string>
 </resources>

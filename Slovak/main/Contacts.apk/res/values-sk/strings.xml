@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="accessibility_calllog_detail">Zoznam hovorov</string>
   <string name="account_container_title">V tomto účte</string>
@@ -44,6 +43,7 @@
   <string name="audio_chat">Audio chat</string>
   <string name="auto_nickname">Auto</string>
   <string name="auto_set_nickname">Auto</string>
+  <string name="back_view_description">Ísť naspäť</string>
   <string name="batch_delete">Hromadné mazanie kontaktov</string>
   <string name="batch_delete_msg">"Chcete vymazať %d kontaktov?
  
@@ -107,8 +107,10 @@
   <string name="callrecordview_item_op_time_rejected">Odmietnuté</string>
   <string name="callrecordview_item_op_time_short_incoming">"Prichádzajúce: "</string>
   <string name="callrecordview_item_op_time_short_outgoing">"Odchádzajúce: "</string>
+  <string name="callrecordview_item_op_video">Video</string>
   <string name="callrecordview_menu_add_call_note">Pridať poznámku</string>
   <string name="callrecordview_menu_batch_delete">Vybrať záznam na vymazanie</string>
+  <string name="callrecordview_menu_conference">Konferenčný hovor</string>
   <string name="callrecordview_menu_delete">Vymazať zoznam hovorov</string>
   <string name="callrecordview_menu_delete_accepted">Vymazať prijaté</string>
   <string name="callrecordview_menu_delete_all">Vymazať</string>
@@ -626,6 +628,7 @@ Chyba: \"%s\""</string>
   <string name="menu_import_export">Import/Export</string>
   <string name="menu_joinAggregate">Spojiť</string>
   <string name="menu_newContact">Nový kontakt</string>
+  <string name="menu_newContactButton">Pridať</string>
   <string name="menu_new_contact_action_bar">Nový kontakt</string>
   <string name="menu_new_favorite_action_bar">Obľúbený kontakt</string>
   <string name="menu_new_group_action_bar">Nová skupina</string>
@@ -654,13 +657,30 @@ Chyba: \"%s\""</string>
   <string name="miprofile_bind_account_alertdialog_message">Musíte pridať vaše telefónné číslo do Xiaomi účtu pre používanie tejto funkcie.</string>
   <string name="miprofile_bind_account_alertdialog_positive">Pridať číslo</string>
   <string name="miprofile_bind_account_alertdialog_title">Pridať telefónné číslo</string>
+  <string name="miprofile_contact_add">Pridať</string>
+  <string name="miprofile_contact_added">Pridané</string>
+  <string name="miprofile_contact_header">Kontakty s kartou kontaktu</string>
+  <string name="miprofile_contact_meaasge">Lokálne kontakty</string>
+  <string name="miprofile_contact_verifying">Overovanie</string>
   <string name="miprofile_edit_title">Upraviť profil</string>
   <string name="miprofile_error_accept_self">Nie je možné vymeniť si vlastnú kartu kontaktu</string>
   <string name="miprofile_error_no_miaccount">Prihláste sa do vášho Xiaomi účtu</string>
   <string name="miprofile_error_not_opened">Vypnúť karty kontaktu</string>
   <string name="miprofile_error_not_set">Vaša karta kontaktu nebolá synchronizovaná na server</string>
   <string name="miprofile_error_unknown">Neznáma chyba</string>
+  <string name="miprofile_find_miprofile_title">Pridať profil</string>
+  <string name="miprofile_find_profile_batch_add">Pridať všetky profily</string>
+  <string name="miprofile_find_profile_batch_finish">Dokončené</string>
+  <string name="miprofile_find_profile_batch_request_failed">Pridanie profilu zlyhalo</string>
+  <string name="miprofile_find_profile_loading">Načítavanie...</string>
+  <string name="miprofile_find_profile_no_recommend">Žiaden odporúčaný profil</string>
+  <string name="miprofile_find_profile_subtitle">Pridajte fotografiu a viac info</string>
+  <string name="miprofile_finding_label">Karty kontaktov</string>
   <string name="miprofile_name">Môj profil</string>
+  <string name="miprofile_nick_name_divider">"  |  "</string>
+  <string name="miprofile_nick_name_edit_dialog_hint">Zadajte prezývku</string>
+  <string name="miprofile_nick_name_edit_dialog_message">Prezývka sa zobrazí pri volaní a info o kontakte</string>
+  <string name="miprofile_nick_name_edit_dialog_title">Upraviť prezývku</string>
   <string name="miprofile_notice_text">Dotknite sa fotografie kontaktu</string>
   <string name="miprofile_request_agenda_date">%1$s si chce s vami vymeniť kartu kontaktu</string>
   <string name="miprofile_request_agenda_today">%1$s si chce s vami vymeniť kartu kontaktu</string>
@@ -675,6 +695,7 @@ Chyba: \"%s\""</string>
   <string name="miprofile_request_deleted">Karta je vymazaná</string>
   <string name="miprofile_request_empty_request">Žiadne žiadosti o výmenu</string>
   <string name="miprofile_request_exchange_title">Žiadosť o kartu kontaktu</string>
+  <string name="miprofile_request_header">Žiadosti na výmenu (platnosť skončí po týždni)</string>
   <string name="miprofile_request_menu_clear_request">Vymazať históriu</string>
   <string name="miprofile_request_message">%1$s ľudí si chce s vami vymeniť kartu kontaktu</string>
   <string name="miprofile_request_notification_message">Príjmite pre zobrazenie profilovej fotografie a viac informácií</string>
@@ -690,6 +711,11 @@ Chyba: \"%s\""</string>
   <string name="missing_name">Skupiny</string>
   <string name="more_call_logs">Ďalšie nahrávky nájdete na i.mi.com</string>
   <string name="move_and_resize">Posuň merítko</string>
+  <string name="multi_number_menu_call">Hovor</string>
+  <string name="multi_number_menu_delete">Vymazať</string>
+  <string name="multi_number_menu_group">Nová skupina</string>
+  <string name="multi_number_menu_message">Správa</string>
+  <string name="multi_number_title">Konferenčný hovor</string>
   <string name="multipleContactDeleteConfirmation">Vymazaním tohto kontaktu vymažete informácie z viacerých účtov.</string>
   <string name="multipleContactDeleteConfirmationDetail">Vymazanie \"%s\" vymaže údaje z viacerých účtov.</string>
   <string name="my_in_call_show">Moje video</string>
@@ -773,6 +799,7 @@ Synchronizujte ich teraz."</string>
   <string name="no_contacts_dialog_title">Kontakt sa nenašiel</string>
   <string name="no_contacts_selected">Žiaden vybraný kontakt.</string>
   <string name="no_sdcard_message">Žiadne úložisko sa nenašlo.</string>
+  <string name="no_voip_contacts">Žiadne MiVoice kontakty</string>
   <string name="non_phone_add_to_contacts">Pridať do kontaktov</string>
   <string name="non_phone_caption">Telefónne číslo</string>
   <string name="non_phone_close">Zavrieť</string>
@@ -806,6 +833,7 @@ Synchronizujte ich teraz."</string>
   <string name="percentage">%s%%</string>
   <string name="phoneLabelsGroup">Telefón</string>
   <string name="phone_info_divider">"  |  "</string>
+  <string name="phone_number_too_long_toast">Číslo je príliš dlhé</string>
   <string name="phone_primary">Primárny</string>
   <string name="photoPickerNotFoundText">V telefóne nie sú k dispozícii žiadne obrázky.</string>
   <string name="photo_fragment">Fotografia</string>
@@ -1128,6 +1156,7 @@ ale obsah ktorý hľadáte nie je dostupný vo Vašej krajine."</string>
   <string name="searching_vcard_message">Vyhľadávanie dát karty vCard na karte SD</string>
   <string name="select_all">Vybrať všetko</string>
   <string name="select_device">Zvoľte zariadenie na pripojenie</string>
+  <string name="select_done">Viac netreba vyberať</string>
   <string name="select_groups">Zvoliť skupinu</string>
   <string name="select_new_photo_from_photo_package">Vybrať novú fotografiu z balíčka</string>
   <string name="select_none">Nič nie je vybrané, operácia je neplatná</string>
@@ -1274,6 +1303,7 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="vcard_import_will_start_message">Súbor %s bude za okamžik importovaný.</string>
   <string name="vcard_import_will_start_message_with_default_name">Súbor bude za okamžik importovaný.</string>
   <string name="vcard_unknown_filename">neznámy kontakt</string>
+  <string name="video_call">Video hovor</string>
   <string name="video_chat">Video chat</string>
   <string name="viewContactDesription">Zobraziť kontakty</string>
   <string name="viewContactTitle">Detaily kontaktu</string>
@@ -1294,6 +1324,13 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="voicemail_status_configure_voicemail">Nastaviť hlasovú schránku.</string>
   <string name="voicemail_status_messages_waiting"> Nepodarilo sa pripojiť k hlasovej schránke. Sú dostupné nové hlasové správy.</string>
   <string name="voicemail_status_voicemail_not_available">Nepodarilo sa pripojiť k serveru s hlasovou schránkou.</string>
+  <string name="voip_audio_description">Uskutočniť VoIP hovor</string>
+  <string name="voip_contact_label">MiVoice</string>
+  <string name="voip_contacts_entry">MiVoice</string>
+  <string name="voip_loading_contact">Načítavanie...</string>
+  <string name="voip_name">MiVoice</string>
+  <string name="voip_recommend_msg">Použiť MiVoice</string>
+  <string name="voip_shortcut_name">MiVoice</string>
   <string name="websiteLabelsGroup">WWW stránka</string>
   <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
   <string name="wipe_data">Vymazať dáta</string>
@@ -1322,42 +1359,4 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="yellowpage_search_the_yellowpage">Vyhľadať v Zlatých stránkach</string>
   <string name="yellowpage_user_profile">Profil</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
-  <string name="callrecordview_item_op_video">Video</string>
-  <string name="callrecordview_menu_conference">Konferenčný hovor</string>
-  <string name="multi_number_menu_call">Hovor</string>
-  <string name="multi_number_menu_delete">Vymazať</string>
-  <string name="multi_number_menu_group">Nová skupina</string>
-  <string name="multi_number_menu_message">Správa</string>
-  <string name="multi_number_title">Konferenčný hovor</string>
-  <string name="select_done">Viac netreba vyberať</string>
-  <string name="video_call">Video hovor</string>
-  <string name="no_voip_contacts">Žiadne MiVoice kontakty</string>
-  <string name="voip_contact_label">MiVoice</string>
-  <string name="voip_contacts_entry">MiVoice</string>
-  <string name="voip_loading_contact">Načítavanie...</string>
-  <string name="voip_name">MiVoice</string>
-  <string name="voip_recommend_msg">Použiť MiVoice</string>
-  <string name="voip_shortcut_name">MiVoice</string>
-  <string name="miprofile_nick_name_divider">"  |  "</string>
-  <string name="miprofile_nick_name_edit_dialog_hint">Zadajte prezývku</string>
-  <string name="miprofile_nick_name_edit_dialog_message">Prezývka sa zobrazí pri volaní a info o kontakte</string>
-  <string name="miprofile_nick_name_edit_dialog_title">Upraviť prezývku</string>
-  <string name="phone_number_too_long_toast">Číslo je príliš dlhé</string>
-  <string name="miprofile_contact_add">Pridať</string>
-  <string name="miprofile_contact_added">Pridané</string>
-  <string name="miprofile_contact_header">Kontakty s kartou kontaktu</string>
-  <string name="miprofile_contact_meaasge">Lokálne kontakty</string>
-  <string name="miprofile_contact_verifying">Overovanie</string>
-  <string name="miprofile_find_miprofile_title">Pridať profil</string>
-  <string name="miprofile_find_profile_batch_add">Pridať všetky profily</string>
-  <string name="miprofile_find_profile_batch_finish">Dokončené</string>
-  <string name="miprofile_find_profile_batch_request_failed">Pridanie profilu zlyhalo</string>
-  <string name="miprofile_find_profile_loading">Načítavanie...</string>
-  <string name="miprofile_find_profile_no_recommend">Žiaden odporúčaný profil</string>
-  <string name="miprofile_find_profile_subtitle">Pridajte fotografiu a viac info</string>
-  <string name="miprofile_finding_label">Karty kontaktov</string>
-  <string name="miprofile_request_header">Žiadosti na výmenu (platnosť skončí po týždni)</string>
-  <string name="back_view_description">Ísť naspäť</string>
-  <string name="menu_newContactButton">Pridať</string>
-  <string name="voip_audio_description">Uskutočniť VoIP hovor</string>
 </resources>

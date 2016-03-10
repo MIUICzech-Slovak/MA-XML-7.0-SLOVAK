@@ -953,9 +953,9 @@ Pokračujte!"</string>
   <string name="running_delete_track_item_confirm">Záznamy nemôžu byť uložené.</string>
   <string name="running_detail_cal_desc">Kalórie</string>
   <string name="running_detail_forefoot_desc">Chodidlá</string>
-  <string name="running_detail_pace_desc_br">Tempo (min/mi)</string>
   <string name="running_detail_menu_share_title">Zdieľať</string>
   <string name="running_detail_pace_desc">Min/Km</string>
+  <string name="running_detail_pace_desc_br">Tempo (min/mi)</string>
   <string name="running_detail_speed_desc">Km/H</string>
   <string name="running_detail_speed_desc_br">Rýchlosť (mi/h)</string>
   <string name="running_detail_step_frequency_desc">Frekv. krokov</string>
@@ -964,8 +964,8 @@ Pokračujte!"</string>
   <string name="running_distance">Vzialenosť</string>
   <string name="running_distance_desc">Kilometov</string>
   <string name="running_distance_detail">%.2fkm</string>
-  <string name="running_distance_unit">Vzdialenosť (km)</string>
   <string name="running_distance_mile_unit">Vzdialenosť (mi)</string>
+  <string name="running_distance_unit">Vzdialenosť (km)</string>
   <string name="running_end_time">Koniec</string>
   <string name="running_failed_to_get_history_neterror">Nie je možné sa pripojiť k sieti</string>
   <string name="running_gallery">Galéria</string>
@@ -1039,9 +1039,9 @@ Keep Bluetooth on when running."</string>
   <string name="running_label_hint">Zadajte názov</string>
   <string name="running_lable_avg_hr">Priemerný pulz (BPM)</string>
   <string name="running_lable_km_slowest">Najpomalšie Km slowest</string>
-  <string name="running_lable_miles_fastest">Najrýchlejšie Km</string>
   <string name="running_lable_mile_fastest">Fastest mile</string>
   <string name="running_lable_mile_slowest">Slowest mile</string>
+  <string name="running_lable_miles_fastest">Najrýchlejšie Km</string>
   <string name="running_lable_pace">Priemerné tempo (min)</string>
   <string name="running_long_press_to_pause">Zastaviť</string>
   <string name="running_main_avoid_use_indoor">Nepoužívajte vo vnútri budovy</string>
@@ -1079,8 +1079,8 @@ Keep Bluetooth on when running."</string>
   <string name="running_prompt_come_on">Go!!</string>
   <string name="running_prompt_great">Výborne!!</string>
   <string name="running_prompt_per_kilometer" formatted="false">Zabehli ste %skm. Spálili ste %s. Tempo je %s.%s</string>
-  <string name="running_real_time_pace">Tempo (km)</string>
   <string name="running_real_time_mile_pace">Tempo (min/mi)</string>
+  <string name="running_real_time_pace">Tempo (km)</string>
   <string name="running_resume">Pokračovať</string>
   <string name="running_sec">%ds</string>
   <string name="running_set_dist">Upozornenie na vzdialenosť</string>
@@ -1768,4 +1768,3 @@ Udržujte MiBand a telefón maximálne 5m od seba."</string>
   <string name="your_height">Výška</string>
   <string name="your_weight">Hmotnosť</string>
 </resources>
-

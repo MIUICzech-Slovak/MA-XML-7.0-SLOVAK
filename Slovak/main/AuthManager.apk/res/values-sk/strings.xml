@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Dashboard_App">Aplikácie</string>
   <string name="Dashboard_HIPS_Disable_Content">Vypnutie zastaví sledovanie požiadaviek od aplikácií. Tým pádom MIUI prestane chrániť Vašu bezpečnosť a súkromie. Určite chcete sledovanie vypnúť?</string>
@@ -221,6 +220,10 @@
   <string name="HIPS_Perm_add_voicemail_Desc">Pridať hlasové správy</string>
   <string name="HIPS_Perm_get_accounts">Prístup k účtom v zariadení</string>
   <string name="HIPS_Perm_get_accounts_Desc">Prístup k všetkým účtom uloženým v zariadení</string>
+  <string name="HIPS_Perm_install_shortcut">Odkazy na domácej ploche</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">Pridať odkaz na domácu plochu</string>
+  <string name="HIPS_Perm_process_nfc">NFC</string>
+  <string name="HIPS_Perm_process_nfc_Desc">Prístup k NFC</string>
   <string name="HIPS_Perm_process_outgoing_calls">Prístup k apl. Telefón</string>
   <string name="HIPS_Perm_process_outgoing_calls_Desc">Sledovať a ukončiť hovory</string>
   <string name="HIPS_Perm_use_sip">Video služby</string>
@@ -282,8 +285,4 @@
   <string name="screen_overlay_button">Otvoriť nastavenia</string>
   <string name="screen_overlay_message">To change this permission setting, you first have to turn off the screen overlay from Settings &gt; Apps</string>
   <string name="screen_overlay_title">Screen overlay detected</string>
-  <string name="HIPS_Perm_install_shortcut">Odkazy na domácej ploche</string>
-  <string name="HIPS_Perm_install_shortcut_Desc">Pridať odkaz na domácu plochu</string>
-  <string name="HIPS_Perm_process_nfc">NFC</string>
-  <string name="HIPS_Perm_process_nfc_Desc">Prístup k NFC</string>
 </resources>

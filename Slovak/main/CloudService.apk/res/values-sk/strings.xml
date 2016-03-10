@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="access_denied">Prístup zamietnutý</string>
   <string name="account">Účet</string>
@@ -52,9 +51,13 @@ To get more storage space, visit mi.com/micloud."</string>
 Naposledy: %2$s"</string>
   <string name="cloud_back_up_open_info_no_backuptime">Zálohovať vaše aplikácie každých %1$s ak ste pripojený na Wi-Fi</string>
   <string name="cloud_back_up_remove_success">Záloha vymazaná</string>
+  <string name="cloud_back_up_summary">Zálohovať ak je pripojenie cez Wi-Fi</string>
   <string name="cloud_back_up_title">Zálohovať zariadenie</string>
   <string name="cloud_backup_dialog_title">Zálohovať do MiCloud</string>
+  <string name="cloud_backup_have_data">Nájdená záloha v MiCloud</string>
+  <string name="cloud_backup_select_recover">Vybrať zálohu z MiCloud</string>
   <string name="cloud_find_device">Nájsť zariadenie</string>
+  <string name="cloud_restore_title">Obnoviť zo zálohy</string>
   <string name="cloud_space_upgrade_message">Stlačte pre získanie %s GB miesta tento mesiac</string>
   <string name="cloud_space_upgrade_no_quota_info">Nesprávne dáta, skúste to znova</string>
   <string name="cloud_space_upgrade_title">Získajte viac priestoru v Cloude!</string>
@@ -126,7 +129,10 @@ Ak zmeníte SIM kartu, odošle sa SMS pre aktiváciu tejto služby."</string>
   <string name="google_cloud">Google Drive</string>
   <string name="google_cloud_eng">Google Drive</string>
   <string name="google_cloud_price">Okolo RMB 143 / rok</string>
+  <string name="header_cloud_backup_settings">Zálohovať a obnoviť</string>
+  <string name="header_cloud_restore_summary">Obnoviť aplikácie, nastavenie plochy a systému zo zálohy z MiCloud</string>
   <string name="header_data_and_synchronization">Dáta a synchr.</string>
+  <string name="header_find_device_settings">Vyhľadať zariadenie</string>
   <string name="header_other_settings">Ostatné</string>
   <string name="i_know">OK</string>
   <string name="input_password_hint">Zadajte heslo</string>
@@ -242,6 +248,7 @@ do vášho Xiaomi účtu pre znovu aktivovanie MiCloud."</string>
   <string name="micloud_main_last_sync_time">Synchr.: %s</string>
   <string name="micloud_main_memory_low_message">Pre synchr. vymažte niečo z MiCloud.</string>
   <string name="micloud_main_memory_low_title">Nie je dostatok voľného miesta</string>
+  <string name="micloud_main_message_not_synced">%s nesynchr.</string>
   <string name="micloud_main_network_abnormal">Nie je možné sa pripojiť k sieti</string>
   <string name="micloud_main_network_error">Sieť je nedostupná. Skontrolujte vaše nastavenia a skúste to znova.</string>
   <string name="micloud_main_set_internet">Sieť</string>
@@ -266,6 +273,7 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_main_synced_data_count">Synchr.: %d</string>
   <string name="micloud_main_syncing">Synchronizuje sa...</string>
   <string name="micloud_main_title_master_sync_off">Auto-synchr. je vypnutá</string>
+  <string name="micloud_main_title_not_synced">Nesynchr.</string>
   <string name="micloud_main_title_sync_fail">Nie je možné synchr.</string>
   <string name="micloud_main_title_sync_off">Synchr. vypnutá</string>
   <string name="micloud_main_title_sync_on_wifi">Použiť W-Fi</string>
@@ -287,8 +295,18 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_member_webload_fail_toast_4xx">Stránku nebolo možné načítať</string>
   <string name="micloud_member_webload_fail_toast_5xx">Chyba servera</string>
   <string name="micloud_more">Zistiť viac</string>
+  <string name="micloud_notif_content_battery_low">Batéria je príliš slabá.</string>
+  <string name="micloud_notif_content_clipboard_push">Môžete to vložiť kdekoľvek.</string>
   <string name="micloud_notif_content_depend_wifi">Pripojte sa k Wi-Fi pre synchr.</string>
+  <string name="micloud_notif_content_master_depend_wifi">Pripojte sa na Wi-Fi sieť.</string>
+  <string name="micloud_notif_content_memory_low">Nie je dostatok miesta na úložisku.</string>
+  <string name="micloud_notif_content_sync_with_off">Dotykom synchr. vaše zariadenie.</string>
+  <string name="micloud_notif_title_battery_low">Nie je možné synchr. s MiCloud</string>
+  <string name="micloud_notif_title_clipboard_push">Obsah bol skopírovaný do schránky</string>
   <string name="micloud_notif_title_depend_wifi">%d čaká an synchr.</string>
+  <string name="micloud_notif_title_master_depend_wifi">Nie je možné synchr. s MiCloud</string>
+  <string name="micloud_notif_title_memory_low">Nie je možné synchr. s MiCloud</string>
+  <string name="micloud_notif_title_sync_with_off">Synchr. s MiCloud</string>
   <string name="micloud_other_product_price">Cena ostatných produktov:</string>
   <string name="micloud_proceed">Pokračovať</string>
   <string name="micloud_sec_dspt">a zdieľať dáta s priateľmi.</string>
@@ -352,6 +370,7 @@ Táto funkcia zašifruje a odošle vaše číslo na server Xiaomi."</string>
 Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="mx_dspt_provision_privacy_no_sim">Táto funkcia vyžaduje vaše telefónné číslo. Keď vložíte SIM kartu do telefónu, bude odoslaná SMS pre aktiváciu tejto služby.</string>
   <string name="mx_sub_dspt_provision">Cloud správy</string>
+  <string name="mx_sub_dspt_provision_with_voip">Internetové volanie</string>
   <string name="mx_voip_dspt">MiVoice</string>
   <string name="next">Ďalej</string>
   <string name="noRemind">Nepripomínať</string>
@@ -387,6 +406,9 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="sina_token_expired_warning">Weibo account has expired: Please rebind</string>
   <string name="sina_token_invalid_warning">Weibo account is invalid: Please rebind</string>
   <string name="sms">SMS</string>
+  <string name="soundrecorder_sync_only_in_wifi">Synchr. len cez Wi-Fi</string>
+  <string name="soundrecorder_sync_only_in_wifi_summary">Záznamník nebude využívať mobilné dáta pre zálohovanie nahrávok</string>
+  <string name="soundrecorder_sync_records">Synchr. s MiCloud</string>
   <string name="space">Kapacita</string>
   <string name="start_micloud">Začať</string>
   <string name="storage">Úložisko</string>
@@ -453,27 +475,4 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
-  <string name="cloud_back_up_summary">Zálohovať ak je pripojenie cez Wi-Fi</string>
-  <string name="cloud_backup_have_data">Nájdená záloha v MiCloud</string>
-  <string name="cloud_backup_select_recover">Vybrať zálohu z MiCloud</string>
-  <string name="header_cloud_backup_settings">Zálohovať a obnoviť</string>
-  <string name="header_cloud_restore_summary">Obnoviť aplikácie, nastavenie plochy a systému zo zálohy z MiCloud</string>
-  <string name="header_find_device_settings">Vyhľadať zariadenie</string>
-  <string name="cloud_restore_title">Obnoviť zo zálohy</string>
-  <string name="mx_sub_dspt_provision_with_voip">Internetové volanie</string>
-  <string name="micloud_main_message_not_synced">%s nesynchr.</string>
-  <string name="micloud_main_title_not_synced">Nesynchr.</string>
-  <string name="micloud_notif_content_battery_low">Batéria je príliš slabá.</string>
-  <string name="micloud_notif_content_master_depend_wifi">Pripojte sa na Wi-Fi sieť.</string>
-  <string name="micloud_notif_content_memory_low">Nie je dostatok miesta na úložisku.</string>
-  <string name="micloud_notif_content_sync_with_off">Dotykom synchr. vaše zariadenie.</string>
-  <string name="micloud_notif_title_battery_low">Nie je možné synchr. s MiCloud</string>
-  <string name="micloud_notif_title_master_depend_wifi">Nie je možné synchr. s MiCloud</string>
-  <string name="micloud_notif_title_memory_low">Nie je možné synchr. s MiCloud</string>
-  <string name="micloud_notif_title_sync_with_off">Synchr. s MiCloud</string>
-  <string name="soundrecorder_sync_only_in_wifi">Synchr. len cez Wi-Fi</string>
-  <string name="soundrecorder_sync_only_in_wifi_summary">Záznamník nebude využívať mobilné dáta pre zálohovanie nahrávok</string>
-  <string name="soundrecorder_sync_records">Synchr. s MiCloud</string>
-  <string name="micloud_notif_content_clipboard_push">Môžete to vložiť kdekoľvek.</string>
-  <string name="micloud_notif_title_clipboard_push">Obsah bol skopírovaný do schránky</string>
 </resources>

@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="SMS_and_MMS">SMS a MMS</string>
   <string name="Settings_title_anti_spam">Nastavenie Antispamu</string>
@@ -64,6 +63,7 @@
   <string name="apk_status_install">Nainštalované</string>
   <string name="apk_status_installed_old">Stará verzia</string>
   <string name="apk_status_uninstalled">Nenainštalované</string>
+  <string name="app_install_intercept">Blokovať inštaláciu</string>
   <string name="app_name_securitycenter">Optimalizácia</string>
   <string name="app_not_installed_toast">Aplikácia nie je nainštalovaná.</string>
   <string name="apps_sort_type_item_size">Veľkosť</string>
@@ -172,6 +172,8 @@
   <string name="cmcc_app_check_dialog_positive">Reštartovať</string>
   <string name="cmcc_app_check_dialog_title">Systém je opravený</string>
   <string name="confirm_auto_cleaner">OK</string>
+  <string name="confirm_reject_all_permission">Zakázať všetkým aplikáciam používať túto funkciu?</string>
+  <string name="continue_install">Inštalovať</string>
   <string name="cta_button_text_agree">OK</string>
   <string name="cta_button_text_cancel">Zrušiť</string>
   <string name="cta_checkbox_title">Viac sa nepýtať</string>
@@ -211,6 +213,7 @@
   <string name="dialog_title_load_cleanup_engine_error">Chyba</string>
   <string name="dialog_title_stop_virus_scan">Zastaviť skenovanie</string>
   <string name="dialog_title_uninstall_apps">Odinštalovať</string>
+  <string name="empty_app">Žiadne aplikácie</string>
   <string name="empty_title_ad">Žiadne reklamné súbory</string>
   <string name="empty_title_apk">Žiadne inštalačné .apk súbory</string>
   <string name="empty_title_auto_start_list">Žiadne aplikácie</string>
@@ -321,6 +324,7 @@
   <string name="hints_virus_scan_result_descx">táto aplikácia je riziková pre vašu bezpečnosť</string>
   <string name="history_details_title">Podrobnosti histórie</string>
   <string name="info_and_call">Hovory a správy</string>
+  <string name="install_title">Inštalovať pomocou USB</string>
   <string name="item_app_permission">Povolenia aplikácií</string>
   <string name="item_dev_mode">Možnosti pre vývojárov</string>
   <string name="item_garbage_size_1000m">1GB</string>
@@ -390,6 +394,7 @@
   <string name="menu_text_power_manager">Správa výkonu</string>
   <string name="menu_text_power_percent">%s</string>
   <string name="menu_text_power_percent_title">Batéria %s</string>
+  <string name="monitor_requests_from_pc">Spravovať inštaláciu aplikácií cez USB</string>
   <string name="msg_cleanup_db_update_checking">Kontrola...</string>
   <string name="msg_cleanup_db_update_time_unknown">Aktualizované: neznáme</string>
   <string name="msg_update_error_code_already_running">Aktualizácia</string>
@@ -412,6 +417,8 @@
   <string name="ok">OK</string>
   <string name="optimizecenter_data_support"/>
   <string name="packages_subtitle">Zahrnuté balíčky</string>
+  <string name="pc_install_manager">Správca inštalácií</string>
+  <string name="pc_to_phone_install">Blokovaná inštalácia apl. %s z USB</string>
   <string name="percentage">%d%%</string>
   <string name="permission_action_accept">Povoliť</string>
   <string name="permission_action_prompt">Opýtať sa</string>
@@ -428,6 +435,13 @@
   <string name="permission_send_sms_descx">Odoslať SMS a MMS správy</string>
   <string name="permission_with_SMS_and_MMS">Povolenia pre SMS a MMS</string>
   <string name="permission_with_call_and_contact">Povolenia týkajúce sa hovorov, kontaktov a zoznamu hovorov.</string>
+  <string name="pm_auto_start_basic_services_lock">Zamknúť</string>
+  <string name="pm_auto_start_basic_services_unlock">Odomknúť</string>
+  <string name="pm_auto_start_by_basic_services">Základné služby</string>
+  <string name="pm_auto_start_by_other_services">Skúste vypnúť tieto služby</string>
+  <string name="pm_auto_start_by_system">Spustenie apl.</string>
+  <string name="pm_auto_start_proc_is_running">Spustené</string>
+  <string name="pm_remember_choice">Viac nezobrazovať</string>
   <string name="pm_root_success_notification_title">ROOT práva povolené</string>
   <string name="positive_confirm">OK</string>
   <string name="power_20s_enter_mode">Režim %2$s o %1$d sekúnd</string>
@@ -643,6 +657,11 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="protection_category_dangerous_title">Riziká (%d)</string>
   <string name="protection_category_recommend_title">Odporúča sa (%d)</string>
   <string name="protection_category_security_title">Bezpečné (%d)</string>
+  <string name="recently_reject_message">Zakázaná inštalácia %1$s a %2$d iných apl.</string>
+  <string name="recently_reject_message_one">Zakázaných %1$s inštalácií</string>
+  <string name="reject_all">Zakázať všetky</string>
+  <string name="reject_countdown">Zakázať (%d)</string>
+  <string name="reject_usb_install">Zakázaný prístup k inštalácií týchto apl. cez USB</string>
   <string name="risk_list_header_title">Podozrivá aplikácia: %d</string>
   <string name="root_apply_step_1">Povoliť %s práva ROOT?</string>
   <string name="root_apply_step_2">Povolenie práv ROOT môže spôsobiť nestabilitu vášho zariadenia.</string>
@@ -800,6 +819,7 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="usage_type_video">Video</string>
   <string name="usage_type_wake_lock">Zakázať režim spánku</string>
   <string name="usage_type_wifi_running">Pripojenie Wi-Fi aktívne</string>
+  <string name="usb_install_desc">Inštalovať túto aplikáciu cez USB?</string>
   <string name="virus_list_header_title">Nájdený vírus: %d!</string>
   <string name="white_list_ad_header">Reklama: %d</string>
   <string name="white_list_apk_header">Inštalačné apk: %d</string>
@@ -807,25 +827,4 @@ Vaše zariadenie sa prepne po obnove batérie do tohto režimu. Pred vymazaním 
   <string name="white_list_large_file_header">Veľké súbory: %d</string>
   <string name="white_list_residual_header">Zostatky: %d</string>
   <string name="white_list_title">Ignorované</string>
-  <string name="confirm_reject_all_permission">Zakázať všetkým aplikáciam používať túto funkciu?</string>
-  <string name="reject_all">Zakázať všetky</string>
-  <string name="pm_auto_start_basic_services_lock">Zamknúť</string>
-  <string name="pm_auto_start_basic_services_unlock">Odomknúť</string>
-  <string name="pm_auto_start_by_basic_services">Základné služby</string>
-  <string name="pm_auto_start_by_other_services">Skúste vypnúť tieto služby</string>
-  <string name="pm_auto_start_by_system">Spustenie apl.</string>
-  <string name="pm_auto_start_proc_is_running">Spustené</string>
-  <string name="app_install_intercept">Blokovať inštaláciu</string>
-  <string name="continue_install">Inštalovať</string>
-  <string name="empty_app">Žiadne aplikácie</string>
-  <string name="install_title">Inštalovať pomocou USB</string>
-  <string name="monitor_requests_from_pc">Spravovať inštaláciu aplikácií cez USB</string>
-  <string name="pc_install_manager">Správca inštalácií</string>
-  <string name="pc_to_phone_install">Blokovaná inštalácia apl. %s z USB</string>
-  <string name="pm_remember_choice">Viac nezobrazovať</string>
-  <string name="recently_reject_message">Zakázaná inštalácia %1$s a %2$d iných apl.</string>
-  <string name="recently_reject_message_one">Zakázaných %1$s inštalácií</string>
-  <string name="usb_install_desc">Inštalovať túto aplikáciu cez USB?</string>
-  <string name="reject_countdown">Zakázať (%d)</string>
-  <string name="reject_usb_install">Zakázaný prístup k inštalácií týchto apl. cez USB</string>
 </resources>

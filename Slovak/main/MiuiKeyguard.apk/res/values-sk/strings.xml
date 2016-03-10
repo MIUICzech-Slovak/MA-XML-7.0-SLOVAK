@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth zariadenie je príliš ďaleko.</string>
   <string name="click_to_enter_text">Dotykom otvoríte</string>
@@ -28,12 +27,15 @@ Deaktivujte režim Lietadlo."</string>
   <string name="incorrect_pincode_remaining_attempts">Nesprávny PIN kód, ostávajúce pokusy: %d</string>
   <string name="incorrect_pukcode">Nesprávny PUK</string>
   <string name="incorrect_pukcode_remaining_attempts">Nesprávny PUK kód, ostávajúce pokusy: %d</string>
+  <string name="input_password_after_boot_msg">Po reštarte zariadenia, budete musieť zadať heslo.</string>
   <string name="input_password_hint_text">Zadajte heslo</string>
   <string name="input_pin_code">PIN</string>
   <string name="input_pin_code_to_unlock">Zadajte PIN pre odomknutie</string>
   <string name="input_puk_code">Zadajte PUK</string>
   <string name="input_puk_code_to_unlock">Zadajte PUK kód pre odblokovanie zariadenia</string>
   <string name="invalid_confirm_pin_hint">PIN kód nesúhlasí</string>
+  <string name="invalid_sim_pin_hint">Zadajte PIN ktorý je 4 až 8 čísel</string>
+  <string name="invalid_sim_puk_hint">PUK kód by mal byť 8 čísel alebo viac</string>
   <string name="keyguard_torch_cover_text">Pre dlhšie svietenie stlačte tlačidlo zapínania.</string>
   <string name="lock_screen_date">EE, dd.MM.yyyy</string>
   <string name="lock_screen_date_12">EE, dd.MM.</string>
@@ -90,7 +92,4 @@ Deaktivujte režim Lietadlo."</string>
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
-  <string name="invalid_sim_pin_hint">Zadajte PIN ktorý je 4 až 8 čísel</string>
-  <string name="invalid_sim_puk_hint">PUK kód by mal byť 8 čísel alebo viac</string>
-  <string name="input_password_after_boot_msg">Po reštarte zariadenia, budete musieť zadať heslo.</string>
 </resources>

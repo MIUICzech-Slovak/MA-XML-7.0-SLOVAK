@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="DOWNLOAD_UNIT_BIT">B</string>
   <string name="DOWNLOAD_UNIT_GB">GB</string>
@@ -211,6 +210,7 @@
   <string name="subbt_wait">ˇV poradí...</string>
   <string name="task_detail">Úlohy</string>
   <string name="task_detail_notfound_confirm">OK</string>
+  <string name="third_web_title">Stiahnuť</string>
   <string name="title_tips">Upozornenie</string>
   <string name="title_unbind_xunlei">Odobrať Xunlei účet</string>
   <string name="toast_xunlei_engine_open">"Xunlei sťahovanie je aktivované.
@@ -225,6 +225,8 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="valid_in_this_month">Platné len pre tento mesiac</string>
   <string name="version">Verzia %s</string>
   <string name="vip_auto_speedup">Xunlei members to accelerate directly</string>
+  <string name="web_dialog_cancel">Zrušiť</string>
+  <string name="web_dialog_confirm">OK</string>
   <string name="xiaomi_account_not_exist_message">Tento Xiaomi účet neexistuje</string>
   <string name="xunlei_account_has_unbind_message">Xunlei účet odobraný</string>
   <string name="xunlei_brand">Poskytuje Xunlei</string>
@@ -238,7 +240,4 @@ Táto funkcia nie je mimo Čínu odporúčaná"</string>
   <string name="xunlei_open_info">Stiahnuť tento súbor cez MIUI správcu sťahovania?</string>
   <string name="xunlei_speed_service">Xunlei sťahovanie</string>
   <string name="xunlei_switch">Xunlei sťahovanie</string>
-  <string name="third_web_title">Stiahnuť</string>
-  <string name="web_dialog_cancel">Zrušiť</string>
-  <string name="web_dialog_confirm">OK</string>  
 </resources>

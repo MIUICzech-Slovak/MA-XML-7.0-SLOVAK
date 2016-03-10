@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="accept_modify_call_request_prompt">Prijať požiadavku na zmenu volania?</string>
   <string name="accessibility_bluetooth_headset_selected">Vybrané bluetooth slúchadlo</string>
@@ -75,12 +74,14 @@
   <string name="callFailed_unobtainable_number">Chybné číslo</string>
   <string name="callFailed_userBusy">Linka je obsadená.</string>
   <string name="callUnanswered_forwarded">Hovor je presmerovaný</string>
+  <string name="call_contacts_deny_permission_msg">Zakázali ste prístup ku kontaktom, nie je možné zobraziť informácie o kontakte.</string>
   <string name="call_description_recording">Nahrávanie...</string>
   <string name="call_extension_conference_mode">Konferencia</string>
   <string name="call_forwarding_settings">Presmerovanie hovorov</string>
   <string name="call_lost">Hovor bol stratený.</string>
   <string name="call_record_button_label">Nahrávanie %s</string>
   <string name="call_record_wait_label">Čakanie</string>
+  <string name="call_recording_deny_permission_msg">Zakázali ste oprávnenie nahrávať.</string>
   <string name="call_recording_error_low_storage">Nie je dostatok miesta: vaša SD karta je plná</string>
   <string name="call_recording_error_privacy">Nie je možné nahrávať v režime Návštevník</string>
   <string name="call_recording_error_sd_access">Nie je možný prístup na SD kartu</string>
@@ -111,13 +112,19 @@
   <string name="card_title_in_call">Počas hovoru</string>
   <string name="card_title_in_call_short">Hovor</string>
   <string name="card_title_incoming_call">Prichádzajúci hovor</string>
+  <string name="card_title_incoming_conference_call">Prichádzajúci konferenčný hovor</string>
   <string name="card_title_my_phone_number">Moje číslo je %s</string>
   <string name="card_title_on_hold">"Pridržaný hovor "</string>
   <string name="card_title_redialing">Nový pokus o vytáčanie</string>
   <string name="card_title_threeway_call">Trojcestný hovor</string>
+  <string name="card_title_upgrade_video_call_error">Nebolo možné aktualizovať video</string>
+  <string name="card_title_upgrade_video_call_rejected_by_remote">Nebolo možné aktualizovať video</string>
+  <string name="card_title_upgrade_video_call_requesting">Vyžaduje sa video</string>
+  <string name="card_title_upgrade_video_call_timed_out">Nebolo možné aktualizovať video</string>
   <string name="card_title_video_call">Video hovor</string>
   <string name="card_title_video_call_connecting">Pripájanie videa</string>
   <string name="card_title_video_call_error">Nie je možné pripojiť video hovor</string>
+  <string name="card_title_video_call_paused">Video pozastavené</string>
   <string name="card_title_video_call_requesting">Žiada sa video</string>
   <string name="cb_sms_settings">Nastavenie SMS Cell Broadcast</string>
   <string name="cdma_activate_device">Aktivované zariadenie</string>
@@ -140,6 +147,9 @@
   <string name="confCall">Konferenčný hovor</string>
   <string name="conference_call_description" formatted="false">%s,%s atď. celkovo %s</string>
   <string name="conference_call_number">Ľudí: %s</string>
+  <string name="conference_call_single_description" formatted="false">%s atď. celkom %s</string>
+  <string name="conference_caller_info_name">"%1$s konferenčný hovor</string>
+  <string name="conference_caller_name_me">Ja</string>
   <string name="confirmPin2Label">Potvrdiť nový PIN2</string>
   <string name="confirmPinLabel">Potvrdiť nový PIN</string>
   <string name="connect_later">K tejto sieti sa nedá momentálne pripojiť. Skúste to neskôr.</string>
@@ -303,6 +313,7 @@
   <string name="incall_error_supp_service_transfer">Hovor nie je možné presunúť.</string>
   <string name="incall_error_supp_service_unknown">Nepodporovaná služba.</string>
   <string name="incall_status_dialed_mmi">Spustenie sekvencie MMI...</string>
+  <string name="incoming_answer_voice_text">Odpovedať hlasom</string>
   <string name="incoming_call_forwarded_title">Presmerovaný prichádzajúci hovor</string>
   <string name="incoming_via_template">Prichádzajúce cez %s</string>
   <string name="international_disable">Medzinárodné správy zakázané</string>
@@ -469,6 +480,9 @@
   <string name="onscreen_audio_mode_speaker">Reproduktor</string>
   <string name="onscreen_audio_switch_mode">Prepnúť zvuk</string>
   <string name="onscreen_call_record">Nahrať</string>
+  <string name="onscreen_change_to_video">Video hovor</string>
+  <string name="onscreen_change_to_voice">Hlasový hovor</string>
+  <string name="onscreen_close_preview_camera">Zatvoriť kameru</string>
   <string name="onscreen_dialer">Klávesnica</string>
   <string name="onscreen_end_call_text">Ukončiť</string>
   <string name="onscreen_hold_text">Podržať</string>
@@ -476,6 +490,7 @@
   <string name="onscreen_merge_calls_text">Spojiť hovory</string>
   <string name="onscreen_mute_text">Stíšiť</string>
   <string name="onscreen_note_text">Poznámka</string>
+  <string name="onscreen_rcs_text">Správy</string>
   <string name="onscreen_send_flash_text">Flash</string>
   <string name="onscreen_speaker_text">Reproduktor</string>
   <string name="onscreen_swap_calls_text">Prepnúť</string>
@@ -519,6 +534,7 @@
   <string name="phone_info_divider">" ｜ "</string>
   <string name="pick_outgoing_call_phone_type">Uskutočniť hovor</string>
   <string name="pick_outgoing_sip_phone">Účet hovoru cez internet:</string>
+  <string name="picking_participant">Načítavanie kontaktu...</string>
   <string name="pin2_changed">Kód PIN2 bol úspešne zmenený.</string>
   <string name="pin2_invalid">Povolené telefónne číslo nebolo aktualizované: Zadali ste nesprávny kód PIN.</string>
   <string name="pin2_or_fdn_invalid">"FDN nebolo aktualizované. PIN2 nesprávny, alebo telefónne číslo bolo zamietnuté."</string>
@@ -609,6 +625,7 @@
   <string name="selectContact">Vybrať kontakt</string>
   <string name="select_account_dialog_title">Vyberte účet</string>
   <string name="select_automatically">Vybrať automaticky</string>
+  <string name="select_sim_hint">Nie je možné použiť SIM %2$d, ak sa používa SIM %1$d.</string>
   <string name="select_voice_call_sim">Vyberte SIM kartu</string>
   <string name="send_button">Odoslať</string>
   <string name="send_keepalive">SendKeepAlive</string>
@@ -706,6 +723,8 @@
   <string name="upgrade_vt_tx_prompt">Would you like to upgrade the call to video transmit only call?</string>
   <string name="username_title">Meno užívateľa</string>
   <string name="vibrate_on_ring_title">Vibrovať pri zvonení</string>
+  <string name="video_call_not_allowed_if_tty_enabled">Vypnite TTY režim</string>
+  <string name="video_switch_to_voice_call_prompt">Prepnúť na hlasový hovor</string>
   <string name="vm_change_failed">"Zmena čísla hlasovej schránky neúspešná. \nAk sa problém opakuje, obráťte sa na svojho operátora."</string>
   <string name="vm_changed">Číslo hlasovej schránky bolo zmenené.</string>
   <string name="voice_privacy">Ochrana súkromia hlasovej pošty</string>
@@ -726,24 +745,4 @@
 "</string>
   <string name="waiting_close_airplane_mode">Čakanie na ukončenie režimu Lietadlo...</string>
   <string name="wild_prompt_str">Nahradiť zástupný znak znakom</string>
-  <string name="card_title_incoming_conference_call">Prichádzajúci konferenčný hovor</string>
-  <string name="card_title_upgrade_video_call_error">Nebolo možné aktualizovať video</string>
-  <string name="card_title_upgrade_video_call_rejected_by_remote">Nebolo možné aktualizovať video</string>
-  <string name="card_title_upgrade_video_call_requesting">Vyžaduje sa video</string>
-  <string name="card_title_upgrade_video_call_timed_out">Nebolo možné aktualizovať video</string>
-  <string name="card_title_video_call_paused">Video pozastavené</string>
-  <string name="conference_caller_info_name">"%1$s konferenčný hovor</string>
-  <string name="conference_caller_name_me">Ja</string>
-  <string name="incoming_answer_voice_text">Odpovedať hlasom</string>
-  <string name="onscreen_change_to_video">Video hovor</string>
-  <string name="onscreen_change_to_voice">Hlasový hovor</string>
-  <string name="onscreen_close_preview_camera">Zatvoriť kameru</string>
-  <string name="onscreen_rcs_text">Správy</string>
-  <string name="picking_participant">Načítavanie kontaktu...</string>
-  <string name="video_call_not_allowed_if_tty_enabled">Vypnite TTY režim</string>
-  <string name="video_switch_to_voice_call_prompt">Prepnúť na hlasový hovor</string>
-  <string name="select_sim_hint">Nie je možné použiť SIM %2$d, ak sa používa SIM %1$d.</string>
-  <string name="conference_call_single_description" formatted="false">%s atď. celkom %s</string>
-  <string name="call_contacts_deny_permission_msg">Zakázali ste prístup ku kontaktom, nie je možné zobraziť informácie o kontakte.</string>
-  <string name="call_recording_deny_permission_msg">Zakázali ste oprávnenie nahrávať.</string>
 </resources>

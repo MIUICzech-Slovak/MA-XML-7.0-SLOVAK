@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="action_bar_delete">Vymazať</string>
   <string name="action_settings">Nastavenia</string>
@@ -23,18 +22,30 @@
   <string name="background">Aplikácia je na pozadí</string>
   <string name="config_custom_description">Nastavenie vlastných pravidiel pre aplikáciu</string>
   <string name="config_custom_title">Vlastné pravidlá</string>
-  <string name="config_mode_title">Pravidlá</string>
-  <string name="config_suggest_description">Použiť odporúčané pravidla pre úsporu batérie</string>
-  <string name="config_suggest_title">Odporúčané pravidlá</string>
+  <string name="config_description">MIUI môže identifikovať aplikácie so špecifickými procesmi na pozadí (napr.: navigácie, WhatsApp, Hangouts, Viber...), a použiť úsporu batérie spôsobom ktorý neovplivní ich činnosť."</string>
+  <string name="config_mode_title">Nastavenia na pozadí</string>
+  <string name="config_no_restrict_description">Úspora batérie neobmedzuje aktivity aplikácií</string>
+  <string name="config_no_restrict_title">Žiadne obmedzenia</string>
+  <string name="config_restrict_function_description">Niektoré funkcie (napr.: push správy a oznámenia) môžu byť ovplyvnené ale aplikácie nebudú ukončené.</string>
+  <string name="config_restrict_function_title">Zakázať aplikácie na pozadí</string>
+  <string name="config_restrict_running_description">Aplikácie budú ukončené pre úsporu batérie</string>
+  <string name="config_restrict_running_title">Zakázať činnosť na pozadí</string>
+  <string name="config_suggest_description">Identifikovať aplikácie a aktivity pre ponechanie spustených dôležitých procesov.</string>
+  <string name="config_suggest_suffix_title">MIUI úspora (odporúčané)</string>
+  <string name="config_suggest_title">MIUI úspora batérie</string>
   <string name="disabled">Vyp</string>
   <string name="empty_title_apps_container_list">Žiadne aplikácie</string>
   <string name="error_filename_too_long">Zadaný názov je príliš dlhý.</string>
   <string name="foreground_change">Aplikácia je spustená v popredí</string>
+  <string name="fragment_nonesys_listempty">Žiadne aplikácie</string>
+  <string name="fragment_tab_title_nonsys">Nainštalované apl.</string>
+  <string name="fragment_tab_title_sys">Systémové apl.</string>
   <string name="full_screen_enter">Režim celej obrazovky</string>
   <string name="full_screen_exit">Ukončiť režim celej obrazovky</string>
   <string name="hide_mode">Úspora batérie</string>
   <string name="hide_mode_desc">"Ak je aplikácia spustená na pozadí, jej procesy budú sledované pre čo najvyššiu úsporu batérie. Dátové pripojenie, prístup k polohe, Rádio, Budíky, atď. môžu byť touto funkciou ovplyvnené."</string>
   <string name="hide_mode_desc_title">Úspora batérie</string>
+  <string name="hide_mode_ultimate_desc">Ultimate režim je aktívny. Aplikácie na pozadí budú zmrazené. Deaktivujte úsporu batérie pre ukončenie Ultimate režimu.</string>
   <string name="high">Výkonný</string>
   <string name="hints_loading_text">Načítavanie...</string>
   <string name="history_details_title">Podrobnosti histórie</string>
@@ -71,6 +82,8 @@
   <string name="power_config_app_full_screen_title">Na celú obrazovku</string>
   <string name="power_config_app_launch_title">Na popredí</string>
   <string name="power_config_apps">Úspora batérie na pozadí</string>
+  <string name="power_config_bg_data_delay_time_dialog_title">Vyberte čas pre obmedzenie dát na pozadí</string>
+  <string name="power_config_bg_data_delay_time_title">Obmedziť dáta na pozadí</string>
   <string name="power_config_choose_apps">Vybrať aplikácie</string>
   <string name="power_config_confirm_event_delete">Vymazať toto nastavenie?</string>
   <string name="power_config_cpu_freq_dialog_title">Frekvencia CPU</string>
@@ -101,7 +114,10 @@
   <string name="power_config_select_apps_title">Aplikácie</string>
   <string name="power_config_title">Nastavenie</string>
   <string name="power_config_ultimate_description">MIUI zmrazí aplikáciu na pozadí pre maximálnu výdrž batérie</string>
+  <string name="power_config_ultimate_off_already">Ultimate režim vypnutý</string>
+  <string name="power_config_ultimate_on_already">Ultimate režim zapnutý</string>
   <string name="power_config_ultimate_title">Agresívne obmedzenie</string>
+  <string name="power_config_ultimate_unlock_already">Všetky položky odomknuté</string>
   <string name="power_configure_screen_brightness_enable">Nastaviť jas displeja</string>
   <string name="power_customize_giveup_change">Zrušiť zmeny?</string>
   <string name="power_dialog_cancel">Zrušiť</string>
@@ -135,6 +151,7 @@
   <string name="power_optimize_activity_profile_file_error">Chyba Úspory batérie</string>
   <string name="quick_disconnect_description">Aplikácia nebude mať prístup k sieti na pozadí</string>
   <string name="quick_disconnect_title">Odpojiť</string>
+  <string name="ragment_sys_listempty">Žiadne aplikácie</string>
   <string name="reading">Čítací režim</string>
   <string name="screen_off">Displej Vyp.</string>
   <string name="screen_off_10_min">Displej vypnutý viac ako 10 minút</string>
@@ -148,25 +165,4 @@
   <string name="still">Obrázky</string>
   <string name="ui">Štandard</string>
   <string name="user_define_mode">Názov</string>
-  <string name="config_restrict_function_title">Zakázať aplikácie na pozadí</string>
-  <string name="config_restrict_running_description">Aplikácie budú ukončené pre úsporu batérie</string>
-  <string name="config_restrict_running_title">Zakázať činnosť na pozadí</string>
-  <string name="config_suggest_description">Identifikovať aplikácie a aktivity pre ponechanie spustených dôležitých procesov.</string>
-  <string name="config_suggest_suffix_title">MIUI úspora (odporúčané)</string>
-  <string name="config_suggest_title">MIUI úspora batérie</string>
-  <string name="config_description">MIUI môže identifikovať aplikácie so špecifickými procesmi na pozadí (napr.: navigácie, WhatsApp, Hangouts, Viber...), a použiť úsporu batérie spôsobom ktorý neovplivní ich činnosť."</string>
-  <string name="config_mode_title">Nastavenia na pozadí</string>
-  <string name="config_no_restrict_description">Úspora batérie neobmedzuje aktivity aplikácií</string>
-  <string name="config_no_restrict_title">Žiadne obmedzenia</string>
-  <string name="config_restrict_function_description">Niektoré funkcie (napr.: push správy a oznámenia) môžu byť ovplyvnené ale aplikácie nebudú ukončené.</string>
-  <string name="fragment_nonesys_listempty">Žiadne aplikácie</string>
-  <string name="fragment_tab_title_nonsys">Nainštalované apl.</string>
-  <string name="fragment_tab_title_sys">Systémové apl.</string>
-  <string name="hide_mode_ultimate_desc">Ultimate režim je aktívny. Aplikácie na pozadí budú zmrazené. Deaktivujte úsporu batérie pre ukončenie Ultimate režimu.</string>
-  <string name="power_config_bg_data_delay_time_dialog_title">Vyberte čas pre obmedzenie dát na pozadí</string>
-  <string name="power_config_bg_data_delay_time_title">Obmedziť dáta na pozadí</string>
-  <string name="power_config_ultimate_off_already">Ultimate režim vypnutý</string>
-  <string name="power_config_ultimate_on_already">Ultimate režim zapnutý</string>
-  <string name="power_config_ultimate_unlock_already">Všetky položky odomknuté</string>
-  <string name="ragment_sys_listempty">Žiadne aplikácie</string>
 </resources>

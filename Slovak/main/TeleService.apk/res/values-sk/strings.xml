@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="Result_title">Kontakt na SIM karte</string>
+  <string name="active_phone_fail_nochoice">"Can't verify SIM card"</string>
+  <string name="active_phone_fail_toast">"Can't verify SIM card %1$s"</string>
+  <string name="active_phone_sim_absent">Insert SIM card now</string>
+  <string name="active_phone_success_nochoice">SIM card verified</string>
+  <string name="active_phone_success_toast">SIM card %1$s verified</string>
+  <string name="activing_simcard">Verifying SIM %1$d</string>
+  <string name="activing_simcard_alone">Verifying SIM</string>
   <string name="add">Pridať</string>
   <string name="addSimEntries">Pridať kontakt SIM</string>
   <string name="add_fdn_contact">Pridať povolené telefónne číslo</string>
@@ -34,6 +40,8 @@
   <string name="answer_state_setting_title">Prichádzajúci hovor</string>
   <string name="antispam_notification_title">Neznáme číslo</string>
   <string name="apn_settings">Prístupové body (APN)</string>
+  <string name="area_code_preference_summary">Auto dial area code</string>
+  <string name="areacode_set_default">Default</string>
   <string name="atr_disable">Oblastné náhľady dopravy zakázané</string>
   <string name="atr_enable">Oblastné náhľady dopravy povolené</string>
   <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -89,6 +97,7 @@
   <string name="bad_puk2">Zadaný PUK2 je neplatný. Skúste znova.</string>
   <string name="bf_news_settings">Business and Financial News</string>
   <string name="callFailed_cb_enabled">Ak je zapnuté blokovanie hovorov, nie je možné uskutočňovať odchádzajúce hovory.</string>
+  <string name="callFailed_cdma_activation">SIM karta aktivovala vašu službu a aktualizovala možnosti roamingu vášho telefónu</string>
   <string name="callFailed_congestion">Sieť je zaneprázdnená</string>
   <string name="callFailed_dialToDial">DIAL request modified to DIAL with different number.</string>
   <string name="callFailed_dialToSs">DIAL request modified to SS request.</string>
@@ -112,10 +121,13 @@
   <string name="callFailed_unobtainable_number">Neplatné číslo</string>
   <string name="callFailed_userBusy">Linka je obsadená</string>
   <string name="callUnanswered_forwarded">Hovor neprijatý a presmerovaný</string>
+  <string name="call_barring_incoming">Presmerovanie prich. hovoru</string>
+  <string name="call_barring_outgoing">Presmerovanie odch. hovoru</string>
   <string name="call_barring_sum">Nastavenie blokovania hlasových hovorov</string>
   <string name="call_description_recording">Nahrávanie hovoru...</string>
   <string name="call_forwarding_number_hint">Zadajte prosím číslo pre presmerovanie</string>
   <string name="call_forwarding_settings">Presmerovanie hovorov</string>
+  <string name="call_forwarding_settings_with_label">Presmerovanie hovorov (%s)</string>
   <string name="call_ind_services">Call Independent Services</string>
   <string name="call_record_add_numbers">Pridať čísla</string>
   <string name="call_record_auto_always">Všetky čísla</string>
@@ -156,6 +168,7 @@
   <string name="callind_multi_sim">Zvoliť Podpis</string>
   <string name="calling_via_template">Volanie cez %s</string>
   <string name="callwait_open_hint">\"Čakajúci hovor\" je služba poskytovaná operátorom. Ak sa zobrazí \"Chybný MMI kód\", obráťte sa na svojho operátora.</string>
+  <string name="can_not_call_self">"Can't dial own number"</string>
   <string name="can_not_use_for_not_data_sim">(Nie je možné použiť: Musí byť nastavená ako predvolená SIM pre dáta)</string>
   <string name="cancel">Zrušiť</string>
   <string name="cancel_call">Zrušiť</string>
@@ -191,6 +204,7 @@
   <string name="carrier_settings"/>
   <string name="carrier_settings_menu"/>
   <string name="carrier_settings_title">Nastavenie operátora</string>
+  <string name="cb_psw_dont_match">Heslo sa nezhoduje</string>
   <string name="cb_sms_settings">Nastavenie SMS Cell Broadcast</string>
   <string name="cdma_activate_device">Aktivované zariadenie</string>
   <string name="cdma_alert_message">"If you select another card as your default for mobile data, you won't be able to use your China Telecom UIM card."</string>
@@ -210,6 +224,7 @@
   <string name="cell_bc_sms_enable">SMS Cell Broadcast povolený</string>
   <string name="cell_broadcast_settings">Núdzové vysielanie</string>
   <string name="cell_broadcast_sms">SMS Cell Broadcast</string>
+  <string name="cf_mobile_date">Please turn on mobile data and make sure that WLAN is off</string>
   <string name="cfb_title">Presmerovať pokiaľ je obsadené</string>
   <string name="cfnrc_title">Presmerovať pokiaľ som nedostupný</string>
   <string name="cfnrc_title_cta">Presmerovať ak som nedostupný</string>
@@ -219,6 +234,8 @@
   <string name="change_default_data">Zmeniť</string>
   <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
   <string name="change_default_data_alert_title">Karta UIM musí byť ako predvolená</string>
+  <string name="change_default_data_card">Default mobile data SIM</string>
+  <string name="change_default_data_card_summary">Looks like you changed SIM cards. Set this card as your default SIM for your mobile data connection?</string>
   <string name="change_num">Aktualizovať</string>
   <string name="change_password">Zmeniť heslo blokovania hovorov</string>
   <string name="change_pin">Zmeniť kód PIN</string>
@@ -260,6 +277,8 @@
   <string name="data_enable_summary">Aktivuje dátové prenosy prostredníctvom mobilnej siete</string>
   <string name="data_enabled">Mobilné dáta</string>
   <string name="deactivate_all">Zrušiť všetko</string>
+  <string name="default_area_code_setting">Default area code</string>
+  <string name="default_areacode">Default area code</string>
   <string name="default_call_type">CSVoice</string>
   <string name="default_notification_description">Predvolený zvuk (%1$s)</string>
   <string name="default_port">5060</string>
@@ -533,6 +552,7 @@
   <string name="list_language_title">Jazyk</string>
   <string name="livetalk_provider">Poskytuje %1$s</string>
   <string name="load_networks_progress">Vyhľadávam...</string>
+  <string name="loading_order">Načítavanie...</string>
   <string name="local_disable">Miestne správy zakázané</string>
   <string name="local_enable">Miestne správy povolené</string>
   <string name="local_weather_disable">Miestne počasie zakázané</string>
@@ -651,6 +671,8 @@
   <string name="network_settings_select_automatic_hint">Nebolo možné sa prihlásiť k vybranej sieti</string>
   <string name="network_settings_turn_off">Vypnúť</string>
   <string name="network_settings_warn_message">Použiť iba sieť manuálne vybranú.</string>
+  <string name="network_unconnected_message_livetalk">Chyba siete. Skúste uskutočniť hovor. Bude to zmenené vašim operátorom.</string>
+  <string name="network_unconnected_title">Chyba siete</string>
   <string name="network_unlock">Odblokovať</string>
   <string name="networks">Sieťoví operátori</string>
   <string name="networks_title">Sieťoví operátori</string>
@@ -989,6 +1011,8 @@ Počet zostávajúcich pokusov: %d."</string>
   <string name="simContacts_emptyLoading">Čítanie z karty SIM...</string>
   <string name="simContacts_title">Správa kontaktov na SIM karte</string>
   <string name="sim_absent">Chýba</string>
+  <string name="sim_card_activate">Overenie SIM</string>
+  <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
   <string name="sim_cards_network_mode_changed_summary">Zobraziť nastavenia SMS a Hovoru.</string>
   <string name="sim_cards_network_mode_changed_title">Zistená nová SIM karta</string>
   <string name="sim_contact_name">Meno</string>
@@ -1133,6 +1157,8 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="username_title">Meno užívateľa</string>
   <string name="ussdRunning">Kód USSD je spustený...</string>
   <string name="ussd_dialog_sep">----------</string>
+  <string name="vibrate_after_connected_summary">Vibrate when answers</string>
+  <string name="vibrate_after_connected_title">Vibrating after connected</string>
   <string name="vibrate_on_ring_title">Vibrovať pri zvonení</string>
   <string name="vm_change_failed">"Zmena čísla hlasovej schránky neúspešná. \nAk sa problém opakuje, obráťte sa na svojho operátora."</string>
   <string name="vm_changed">Číslo hlasovej schránky bolo zmenené.</string>
@@ -1154,6 +1180,8 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="voicemail_settings_number_label">Číslo hlasovej schránky</string>
   <string name="voicemail_settings_number_title">Číslo hlasovej schránky</string>
   <string name="voip_setting">VOIP nastavenia</string>
+  <string name="volte_switch_summary">Použiť VoLTE pre zlepšenie kvality hlasu</string>
+  <string name="volte_switch_title">Povoliť VoLTE</string>
   <string name="wait_prompt_str">"Odoslať tieto tóny?
 "</string>
   <string name="wifi_calling_call_assistant">Asistent hovoru</string>
@@ -1172,33 +1200,4 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
-  <string name="callFailed_cdma_activation">SIM karta aktivovala vašu službu a aktualizovala možnosti roamingu vášho telefónu</string>
-  <string name="call_barring_incoming">Presmerovanie prich. hovoru</string>
-  <string name="call_barring_outgoing">Presmerovanie odch. hovoru</string>  
-  <string name="call_forwarding_settings_with_label">Presmerovanie hovorov (%s)</string>
-  <string name="cb_psw_dont_match">Heslo sa nezhoduje</string>
-  <string name="cf_mobile_date">Please turn on mobile data and make sure that WLAN is off</string>
-  <string name="change_default_data_card">Default mobile data SIM</string>
-  <string name="change_default_data_card_summary">Looks like you changed SIM cards. Set this card as your default SIM for your mobile data connection?</string>
-  <string name="vibrate_after_connected_summary">Vibrate when answers</string>
-  <string name="vibrate_after_connected_title">Vibrating after connected</string>
-  <string name="active_phone_fail_nochoice">"Can't verify SIM card"</string>
-  <string name="active_phone_fail_toast">"Can't verify SIM card %1$s"</string>
-  <string name="active_phone_sim_absent">Insert SIM card now</string>
-  <string name="active_phone_success_nochoice">SIM card verified</string>
-  <string name="active_phone_success_toast">SIM card %1$s verified</string>
-  <string name="activing_simcard">Verifying SIM %1$d</string>
-  <string name="activing_simcard_alone">Verifying SIM</string>
-  <string name="area_code_preference_summary">Auto dial area code</string>
-  <string name="areacode_set_default">Default</string>
-  <string name="can_not_call_self">"Can't dial own number"</string>
-  <string name="default_area_code_setting">Default area code</string>
-  <string name="default_areacode">Default area code</string>
-  <string name="network_unconnected_message_livetalk">Chyba siete. Skúste uskutočniť hovor. Bude to zmenené vašim operátorom.</string>
-  <string name="network_unconnected_title">Chyba siete</string>
-  <string name="volte_switch_summary">Použiť VoLTE pre zlepšenie kvality hlasu</string>
-  <string name="volte_switch_title">Povoliť VoLTE</string>
-  <string name="sim_card_summary_no_sim_card">Vložte SIM kartu</string>
-  <string name="sim_card_activate">Overenie SIM</string>
-  <string name="loading_order">Načítavanie...</string>
 </resources>

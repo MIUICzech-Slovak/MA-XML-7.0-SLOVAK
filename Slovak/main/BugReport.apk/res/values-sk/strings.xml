@@ -1,5 +1,4 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<!--This Slovak translation is licenced under www.creativecommons.org/licenses/by-nc-nd/3.0/deed.en by MIUI CZ&SK www.miuios.cz-->
 <resources>
   <string name="action_cancel">Zrušiť</string>
   <string name="action_confirm">Vybrať</string>
@@ -69,6 +68,7 @@
   <string name="loading_apps">Vytváranie zoznamu...</string>
   <string name="loading_hot_problem">Načítavanie...</string>
   <string name="loading_problem_list">Načítavanie zoznamu...</string>
+  <string name="logo_title">Centrum hlásenia Chýb</string>
   <string name="menu_attach_screenshot">Pripojiť screenshot</string>
   <string name="menu_copy">Kopírovať</string>
   <string name="menu_discard">Zrušiť</string>
@@ -143,5 +143,4 @@
   <string name="wlan_unavailable_dialog_button_sent">Odoslať okamžite</string>
   <string name="wlan_unavailable_dialog_content">Odošle sa %s cez 2G/3G dáta, stlačte OK na odoslanie cez sieť Wi-Fi</string>
   <string name="wlan_unavailable_dialog_title">Wi-Fi nedostupná</string>
-  <string name="logo_title">Centrum hlásenia Chýb</string>
 </resources>
