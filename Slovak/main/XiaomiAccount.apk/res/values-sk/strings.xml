@@ -613,4 +613,6 @@ s "</string>
   <string name="wrong_captcha">Nesprávny captcha kód</string>
   <string name="wrong_phone_number_format">Nesprávny formát telefónneho čísla</string>
   <string name="wrong_vcode">Nesprávny kód</string>
+  <string name="passport_imei_permission_denied_message">"Vyžadujeme prístup k IMEI vášho zariadenia. Xiaomi účet využíva IMEI pre identifikáciu zariadenia na ktoré ste prihlásený pre zabezpečenie vášho účtu."</string>
+  <string name="passport_imei_permission_denied_title">Prístup k IMEI</string>
 </resources>

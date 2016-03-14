@@ -381,4 +381,6 @@
   <string name="white_list_title">Ignorované</string>
   <string name="year_month_day_format">dd. MMM, yyyy</string>
   <string name="yesterday">Včera</string>
+  <string name="recommend_news">Recommended sources</string>
+  <string name="recommend_the_following">Take the following actions to get the most out of your device</string>
 </resources>

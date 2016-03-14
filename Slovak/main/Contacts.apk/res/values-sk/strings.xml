@@ -477,7 +477,7 @@ Chyba: \"%s\""</string>
   <string name="ic_menu_back">Späť</string>
   <string name="ic_menu_done">Hotovo</string>
   <string name="imLabelsGroup">IM</string>
-  <string name="imei">IMEI</string>
+  <string name="imei">"IMEI: "</string>
   <string name="imei_invalid">Nesprávne IMEI</string>
   <string name="import_all_sim_entries_miui">Importovanie všetkých kontaktov</string>
   <string name="import_all_vcard_string">Importovať všetky vizitky</string>
@@ -594,7 +594,7 @@ Chyba: \"%s\""</string>
   <string name="map_home">Zobraziť adresu domov</string>
   <string name="map_other">Zobraziť adresu</string>
   <string name="map_work">Zobraziť pracovnú adresu</string>
-  <string name="meid">MEID</string>
+  <string name="meid">"MEID: "</string>
   <string name="meid_invalid">Nesprávne MEID</string>
   <string name="menu_accounts">Účty</string>
   <string name="menu_addStar">Obľúbený</string>
