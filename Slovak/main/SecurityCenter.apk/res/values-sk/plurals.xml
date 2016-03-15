@@ -40,4 +40,45 @@
         <item quantity="other">%d apl. nemá práva ROOT</item>
         <item quantity="one">%d apl. nemá práva ROOT</item>
     </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Heslo musí obsahovať minimálne %d písmen.</item>
+        <item quantity="one">"Heslo musí obsahovať minimálne 1 písmeno."</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Heslo musí obsahovať minimálne %d malých písmen.</item>
+        <item quantity="one">Heslo musí obsahovať minimálne 1 malé písmeno.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Heslo musí obsahovať minimálne %d veľkých písmen</item>
+        <item quantity="one">Heslo musí obsahovať minimálne 1 veľké písmeno</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Heslo musí obsahovať minimálne %d čísel.</item>
+        <item quantity="one">Heslo musí obsahovať minimálne 1 číslo.</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Heslo musí obsahovať minimálne %d špeciálnych symbolov.</item>
+        <item quantity="one">Heslo musí obsahovať minimálne 1 špeciálny symbol</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Heslo musí obsahovať minimálne %d symbolov okrem písmen.</item>
+        <item quantity="one">Heslo musí obsahovať minimálne 1 symbol okrem písmena.</item>
+    </plurals>
+    <plurals name="number_locked">
+        <item quantity="other">Zamknutých apl.: %d</item>
+        <item quantity="one">Zamknutých apl.: %d</item>
+    </plurals>
+    <plurals name="number_to_lock">
+        <item quantity="other">Nezamknutých apl.: %d</item>
+        <item quantity="one">Nezamknutých apl.: %d</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">Vyhľadať medzi %d apl.</item>
+        <item quantity="one">Vyhľadať medzi %d apl.</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">Nájdených: %d</item>
+        <item quantity="zero">>Nájdených: 0</item>
+        <item quantity="one">>Nájdených: %d</item>
+    </plurals>	
 </resources>

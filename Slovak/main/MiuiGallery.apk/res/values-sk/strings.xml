@@ -1030,4 +1030,16 @@ spoločne!"</string>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
   <string name="show_hidden_album_title">Zobraziť skryté albumy</string>
   <string name="browse_category_title">Prehliadať</string>
+  <string name="baby_album_needs_auto_backup_tip">Detský album nemôže deaktivovať automatickú zálohu</string>
+  <string name="camera_needs_auto_backup_tip">Album fotografií by mal byť zálohovaný</string>
+  <string name="cloud_guide_auto_backup_title">Vyberte album ktorý sa má zálohovať na MiCloud</string>
+  <string name="cloud_guide_welcome_title">MiCloud</string>
+  <string name="enable_face_album_title">Zoradiť podľa ľudí</string>
+  <string name="enable_micloud_service">Začnite používať MiCloud</string>
+  <string name="gallery_sync_disable_toast">Synchr. galérie nie povolená</string>
+  <string name="introduce">Zálohujte fotografie a videá automaticky</string>
+  <string name="next">Ďalej</string>
+  <string name="slim_after_backuped_summary_with_size">Nahradiť fotografie v plnom rozlíšení v zariadení, optimalizovanými náhľadmi ak sú zálohované do MiCloud. Fotografie v plnom rozlíšení sú uložené v MiCloud. Môže to ušetriť až %1$s.</string>
+  <string name="to_enable_gallery_sync_dialog_message">Najskôr povoľte synchr. galérie</string>
+  <string name="welcome">Vitajte v MiCloud</string>
 </resources>

@@ -189,4 +189,8 @@
         <item quantity="other">Vymazať %1$d položiek %2$s?</item>
         <item quantity="one">Vymazať %1$d položku %2$s?</item>
     </plurals>
+   <plurals name="album_count_and_size">
+        <item quantity="other">%1$d položiek | %2$s</item>
+        <item quantity="one">%1$d položiek | %2$s</item>
+    </plurals>
 </resources>
