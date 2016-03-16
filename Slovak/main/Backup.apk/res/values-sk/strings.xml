@@ -264,8 +264,7 @@ Uvoľnite minimálne %s"</string>
   <string name="trans_one_key_migrate">Prenos dát</string>
   <string name="trans_operate_func_one">Metóda A</string>
   <string name="trans_operate_func_two">Metóda B</string>
-  <string name="trans_operate_new_phone_tips">"Načítajte QR kód novým zariadením.
-Choďte do Nastavenia &gt; Ďalšie nastavenia &gt; Presun do nového zariadenia a 
+  <string name="trans_operate_new_phone_tips">"Choďte do Nastavenia &gt; Ďalšie nastavenia &gt; Presun do nového zariadenia a 
 Stlačte [Som príjemca] pre vytvorenie QR kódu"</string>
   <string name="trans_operate_old_phone_tips1">"Metóda A
 1. Nainštalujte aktuálnu verziu MIUI

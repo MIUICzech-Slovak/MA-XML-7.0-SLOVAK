@@ -81,4 +81,48 @@
         <item quantity="zero">>Nájdených: 0</item>
         <item quantity="one">>Nájdených: %d</item>
     </plurals>	
+    <plurals name="hints_install_apps_interval">
+        <item quantity="other">Použíté pred %d dňami</item>
+        <item quantity="one">Použité včera</item>
+    </plurals>
+    <plurals name="search_app_count_txt">
+        <item quantity="other">Vyhľadať %d apl.</item>
+        <item quantity="one">Vyhľadať %d apl.</item>
+    </plurals>
+    <plurals name="hints_roaming_enable_title">
+        <item quantity="other">Aplikácie (%d) môžu použiť mobilné dáta</item>
+        <item quantity="one">Aplikácie (%d) môžu použiť mobilné dáta</item>
+    </plurals>
+    <plurals name="hints_roaming_disable_title">
+        <item quantity="other">Aplikácie (%d) nemôžu použiť mobilné dáta</item>
+        <item quantity="one">Aplikácie (%d) nemôžu použiť mobilné dáta</item>
+    </plurals>
+    <plurals name="hints_roaming_found_app_count_title">
+        <item quantity="other">Nájdených: %d</item>
+        <item quantity="one">Nájdených: %d</item>
+    </plurals>
+    <plurals name="hints_traffic_enable_title">
+        <item quantity="other">Spotreba dát sa nesleduje pre %d apl.</item>
+        <item quantity="one">Spotreba dát sa nesleduje pre %d apl.</item>
+    </plurals>
+    <plurals name="hints_traffic_disable_title">
+        <item quantity="other">Spotreba dát sa sleduje pre %d apl.</item>
+        <item quantity="one">Spotreba dát sa sleduje pre %d apl.</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_enable_title">
+        <item quantity="other">%d apl. používa úsporu dát</item>
+        <item quantity="one">%d apl. používa úsporu dát</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_disable_title">
+        <item quantity="other">%d apl. nepoužíva úsporu dát</item>
+        <item quantity="one">%d apl. nepoužíva úsporu dát</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_optimized">
+        <item quantity="other">%d apl. môže byť optimalizovaných</item>
+        <item quantity="one">%d apl. môže byť optimalizovaná</item>
+    </plurals>
+    <plurals name="hints_traffic_saving_need_optimize">
+        <item quantity="other">%d apl. môže byť optimalizovaných</item>
+        <item quantity="one">%d apl. môže byť optimalizovaná</item>
+    </plurals>
 </resources>

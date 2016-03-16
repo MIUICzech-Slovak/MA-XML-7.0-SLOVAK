@@ -113,4 +113,5 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="wait_icon_download">Sťahovanie ikony aplikácie</string>
   <string name="cloud_backup_have_data">Nájdená záloha v MiCloud</string>
   <string name="cloud_backup_select_recover">Vybrať zálohu z MiCloud</string>
+  <string name="backup_finished_notification_content">Zálohované aplikácie, nastavenia, atď.</string>
 </resources>

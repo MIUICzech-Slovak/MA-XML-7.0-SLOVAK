@@ -276,9 +276,9 @@ spoločne!"</string>
   <string name="confirm_merge_many_face_albums">" "Spojiť tento album s %s?" "</string>
   <string name="confirm_not_face">Nie táto osoba</string>
   <string name="confirm_recommandation_face_is">Ste si istý, že je to %1$s? Táto osoba bude presunutá do albumu \"%2$s\".</string>
-  <string name="confirm_recommandation_face_not">Ste si istý, že to nie je %1$s? Táto osoba bude presunutá do albumu \"%2$s\".</string>
+  <string name="confirm_recommandation_face_not">Ste si istý, že to nie je %1$s?</string>
   <string name="confirm_recommandation_multiple_faces_are">Ste si istý, že sú to %1$s? Tieto osoby budú presunuté do albumu \"%2$s\".</string>
-  <string name="confirm_recommandation_multiple_faces_not">Ste si istý, že to nie sú %1$s? Tieto osoby budú presunuté do albumu \"%2$s\".</string>
+  <string name="confirm_recommandation_multiple_faces_not">Ste si istý, že to nie sú %1$s?</string>
   <string name="contact_photo">Obrázok kontaktu</string>
   <string name="contact_tip">Kontakty</string>
   <string name="context_menu_add_contact">Pridať do kontaktov</string>

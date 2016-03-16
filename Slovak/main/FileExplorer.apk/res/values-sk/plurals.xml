@@ -138,11 +138,19 @@
         <item quantity="many">(%1$d)</item>
     </plurals>	
     <plurals name="remote_video_update">
-        <item quantity="other">Nájdené videá: %1$d</item>
-        <item quantity="zero">Nájdené videá: %1$d</item>
-        <item quantity="one">Nájdené videá: %1$d</item>
-        <item quantity="two">Nájdené videá: %1$d</item>
-        <item quantity="few">Nájdené videá: %1$d</item>
-        <item quantity="many">Nájdené videá: %1$d</item>
+        <item quantity="other">Nájdené videá: %1$s</item>
+        <item quantity="zero">Nájdené videá: %1$s</item>
+        <item quantity="one">Nájdené videá: %1$s</item>
+        <item quantity="two">Nájdené videá: %1$s</item>
+        <item quantity="few">Nájdené videá: %1$s</item>
+        <item quantity="many">Nájdené videá: %1$s</item>
     </plurals>
+    <plurals name="video_ad_download_tip">
+        <item quantity="other"> Stiahnutia</item>
+        <item quantity="zero"> Stiahnutia</item>
+        <item quantity="one"> Stiahnutia</item>
+        <item quantity="two"> Stiahnutia</item>
+        <item quantity="few"> Stiahnutia</item>
+        <item quantity="many"> Stiahnutia</item>
+     </plurals>
 </resources>
