@@ -1025,8 +1025,6 @@ For more info check the message you received from your service provider"</string
   <string name="gateway_exception_summary2">Pripojenie k serveru zlyhalo</string>
   <string name="gateway_exception_title">Kontrola routeru</string>
   <string name="hints_input_roaming_daily_limit">Zadajte denný limit mobilných dát</string>
-  <string name="hints_install_apps_new">Nikdy nepoužité</string>
-  <string name="hints_install_apps_today">Dnes použité</string>
   <string name="input_aviable_traffic">Nastaviť limit spotreby dát</string>
   <string name="input_traffic_pkg">Zadajte využité dáta</string>
   <string name="input_used_hint">Zadajte využité dáta</string>
@@ -1185,8 +1183,6 @@ Mimo špičku: %1$s ostáva | %2$s využité"</string>
   <string name="permit_running_network">Povoliť dáta na pozadí</string>
   <string name="person_hotpot">Mobilné hot-spoty</string>
   <string name="pkg_traffic">Nastaviť limit mobilných dát</string>
-  <string name="power_save_on_time_end_time_summary">Do</string>
-  <string name="power_save_on_time_start_time_summary">Od</string>
   <string name="pref_about">O aplikácií</string>
   <string name="pref_about_traffic_title">Nastavenie spotreby dát</string>
   <string name="pref_add_traffic_pkg">Dodatočne zakúpené dáta</string>
