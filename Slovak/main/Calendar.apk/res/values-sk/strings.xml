@@ -383,7 +383,7 @@
   <string name="yearly">Ročne (%s)</string>
   <string name="yearly_plain">Ročne</string>
   <string name="event_subscirbe_detail_title">Podrobnosti</string>
-  <string name="data_notice_online_large_image">订阅日历页面的图片较大，为帮助您节省流量，已经设置为“仅在WLAN下同步订阅日历大图”。</string>
+  <string name="data_notice_online_large_image">Sťahovať fotografie do kalendára iba cez Wi-Fi</string>
   <string name="data_notice_change_settings">Nastavenia</string>
   <string name="data_notice_continue_confirm">Pokračovať</string>
   <string name="zhushen"/>
