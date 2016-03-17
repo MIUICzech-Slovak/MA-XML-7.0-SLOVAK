@@ -2139,7 +2139,7 @@ Vyberte váš operačný systém:"</string>
   <string name="music_dolby_mode_movie">Film</string>
   <string name="music_dolby_mode_music">Hudba</string>
   <string name="music_dolby_mode_off">Vyp.</string>
-  <string name="music_dolby_preset_select">Vyberte inteligentný režim Ekvaalizéru</string>
+  <string name="music_dolby_preset_select">Vyberte inteligentný režim Ekvalizéru</string>
   <string name="music_dolby_surround_virtualizer">Surround Virtualizer</string>
   <string name="music_dolby_volume_leveler">Úroveň hlasitosti</string>
   <string name="music_equalizer">Ekvalizér</string>
