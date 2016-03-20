@@ -552,6 +552,7 @@ spoločne!"</string>
   <string name="loading_gif">Sťahujem gif...</string>
   <string name="loading_gif_thumbnail">Sťahujem gif náhľad…</string>
   <string name="loading_image">Sťahovanie obrázku...</string>
+  <string name="loading_image_thumbnail">Sťahovanie náhľadov...</string>
   <string name="loading_members">Načítavanie členov...</string>
   <string name="loading_suspend">Sťahovanie pozastavené: Bude obnovené keď sa pripojíte na Wi-Fi.</string>
   <string name="loading_thumbnail">Sťahovanie náhľadov...</string>
