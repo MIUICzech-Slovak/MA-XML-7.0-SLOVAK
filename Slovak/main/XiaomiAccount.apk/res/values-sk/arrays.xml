@@ -20,26 +20,26 @@
     </string-array>
     <string-array name="question_no1">
         <item>Rodina</item>
-        <item>Rodné meno babky z matkinej strany</item>
-        <item>Rodné meno dedka z matkinej strany</item>
-        <item>Rodné meno babky z otcovej strany</item>
-        <item>Rodné meno dedka z otcovej strany</item>
-        <item>Narodeniny otca</item>
-        <item>Narodeniny matky</item>
+        <item>Rodné meno babky z matkinej strany?</item>
+        <item>Rodné meno dedka z matkinej strany?</item>
+        <item>Rodné meno babky z otcovej strany?</item>
+        <item>Rodné meno dedka z otcovej strany?</item>
+        <item>Narodeniny otca?</item>
+        <item>Narodeniny matky?</item>
         <item>Aký je vekový rozdieľ medzi vašimi rodičmi?</item>
     </string-array>
     <string-array name="question_no2">
         <item>Škola</item>
         <item>Ako sa volá váš triedny učiteľ na základnej škole?</item>
         <item>Ako sa volá váš triedny učiteľ na strednej škole?</item>
-        <item>Aké je vaše osobné číslo na internáte</item>
+        <item>Aké je vaše osobné číslo na internáte?</item>
         <item>Ako sa volá váš spolubývajúci na internáte?</item>
-        <item>Ako sa volá správca internátu?"</item>
+        <item>Ako sa volá správca internátu?</item>
     </string-array>
     <string-array name="question_no3">
         <item>Osobné</item>
         <item>Ako vás volajú vaši rodičia?</item>
-        <item>Posledných 6 číslic vášho pasu</item>
+        <item>Posledných 6 číslic vášho pasu?</item>
         <item>V ktorej pôrodnici ste sa narodili?</item>
         <item>Ako sa volá váš najlepší priateľ?</item>
     </string-array>
@@ -47,7 +47,7 @@
         <item>Prvýkrát</item>
         <item>Ako sa volalo vaše prvé domáce zvieratko?</item>
         <item>Ako sa volal/a vaša prvá partnerka/partner?</item>
-        <item>Ako sa volala prvá firma v ktorej ste pracovali</item>
+        <item>Ako sa volala prvá firma v ktorej ste pracovali?</item>
     </string-array>
     <string-array name="question_no5">
         <item>Manželstvo</item>
