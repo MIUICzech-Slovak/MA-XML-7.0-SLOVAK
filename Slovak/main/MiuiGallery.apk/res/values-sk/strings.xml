@@ -1043,4 +1043,9 @@ spoločne!"</string>
   <string name="slim_after_backuped_summary_with_size">Nahradiť fotografie v plnom rozlíšení v zariadení, optimalizovanými náhľadmi ak sú zálohované do MiCloud. Fotografie v plnom rozlíšení sú uložené v MiCloud. Môže to ušetriť až %1$s.</string>
   <string name="to_enable_gallery_sync_dialog_message">Najskôr povoľte synchr. galérie</string>
   <string name="welcome">Vitajte v MiCloud</string>
+  <string name="face_album_empty_syncing">Synchr. dát</string>
+  <string name="face_album_empty_syncing_when_connect_wifi">Dáta o ľuďoch sa budú synchr. len na Wi-Fi</string>
+  <string name="orientation_lock_tip">Orientácia uzamknutá</string>
+  <string name="orientation_unlock_tip">Autom. rotácia povolená</string>
+  <string name="set_face_image">Nastaviť novú osobu</string>
 </resources>

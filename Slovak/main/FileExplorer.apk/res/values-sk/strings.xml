@@ -629,4 +629,6 @@ Získali ste ďalších %1$s"</string>
   <string name="year_month_day_format">dd. MMM. yyyy</string>
   <string name="yes">Áno</string>
   <string name="yesterday">Včera</string>
+  <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /MIUI/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skuste to znova.</string>
+  <string name="extended_storage_file_can_not_open">Nebolo možné otvoriť súbor. Skopírujte súbor na interné úložisko.</string>
 </resources>

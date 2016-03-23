@@ -92,4 +92,5 @@ Deaktivujte režim Lietadlo."</string>
   <string name="unlockscreen_recharge_completed">Batéria nabitá</string>
   <string name="unlockscreen_recharging_message">Nabíjanie %d%%</string>
   <string name="wrong_password">Nesprávne heslo</string>
+  <string name="fingerprint_lockout_msg">Počkajte 1 minútu a skúste znova odomknúť odtlačkom prsta.</string>
 </resources>

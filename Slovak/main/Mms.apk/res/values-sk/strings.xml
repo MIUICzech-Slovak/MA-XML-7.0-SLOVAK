@@ -632,4 +632,5 @@ Pokus: %s."</string>
   <string name="yes">OK</string>
   <string name="call_sender">Volať odosielateľa</string>
   <string name="show_sender">Zobraziť info o odosielateľovi</string>
+  <string name="pref_cell_broadcast">Cell Broadcasts</string>
 </resources>
