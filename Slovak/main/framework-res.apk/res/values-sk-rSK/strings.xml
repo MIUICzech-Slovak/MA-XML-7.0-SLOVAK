@@ -1673,4 +1673,7 @@ Chcete ju zavrieť?"</string>
   <string name="years">roky</string>
   <string name="yes">OK</string>
   <string name="zen_mode_forever">Natrvalo</string>
+  <string name="tethered_notification_multi_device_message">Pripojených: %1$s</string>
+  <string name="tethered_notification_no_device_message">Nikto nie je pripojený</string>
+  <string name="tethered_notification_one_device_message">Pripojených: %1$s</string>
 </resources>
