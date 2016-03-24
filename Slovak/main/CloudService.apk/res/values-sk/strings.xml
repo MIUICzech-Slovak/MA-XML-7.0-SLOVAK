@@ -475,4 +475,9 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="wipe_data_dialog_msg_separator">, </string>
   <string name="xiaomi_cloud_service">MiCloud</string>
   <string name="xmpp_server_addr"/>
+  <string name="account_related">Zariadenie je prepojené s Xiaomi účtom (%s). Pripojte sa k sieti pre overenie zariadenia.</string>
+  <string name="activate_finddevice">Pripojte sa k sieti pre aktivovanie zariadenia</string>
+  <string name="connect_network">Pripojte sa k Wi-Fi alebo vložte SIM kartu</string>
+  <string name="connect_wlan">Pripojte sa k Wi-Fi</string>
+  <string name="detect_sim_card">Vyhľadať SIM kartu</string>
 </resources>
