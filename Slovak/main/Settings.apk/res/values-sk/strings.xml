@@ -4510,4 +4510,6 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="search_xiaomi_account">Mi Account</string>
   <string name="ac_enable_summary">Pre otvorenie aplikácií bude požadované heslo</string>
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Zmeňte pozíciu vášho prsta</string>
+  <string name="device_cpu6_info">"6 jadier "</string>
+  <string name="max_cpu4_info">"4 jadrá "</string>
 </resources>

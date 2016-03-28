@@ -631,4 +631,6 @@ Získali ste ďalších %1$s"</string>
   <string name="yesterday">Včera</string>
   <string name="error_contains_sharer_path">Nie je možné dešifrovať súbory v zložke /MIUI/Gallery/cloud/sharer. Presuňte súbory do iného priečinka a skuste to znova.</string>
   <string name="extended_storage_file_can_not_open">Nebolo možné otvoriť súbor. Skopírujte súbor na interné úložisko.</string>
+  <string name="request_timeout">Požiadavka siete neodpovedá</string>
+  <string name="server_error">Chyba servera, skúste to znova. (Chyba %s)</string>
 </resources>

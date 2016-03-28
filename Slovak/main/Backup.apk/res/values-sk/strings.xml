@@ -343,4 +343,7 @@ Size: %2$s"</string>
   <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
 Delta update size: %2$s"</string>
   <string name="xiaomi_update_dialog_title">Dostupná nová verzia!</string>
+  <string name="user_notice_declaration_ignore">Viac nezobrazovať</string>
+  <string name="user_notice_message">Niektoré funkcie vyžadujú pripojenie na internet pre ich správne fungovanie.</string>
+  <string name="user_notice_title">Upozornenie</string>
 </resources>
