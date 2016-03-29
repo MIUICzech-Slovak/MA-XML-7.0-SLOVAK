@@ -72,4 +72,9 @@
         <item>Pondelok až Piatok</item>
         <item>Vlastné</item>
     </string-array>
+    <string-array name="stat_volume_button_behaviors">
+        <item>Žiadna</item>
+        <item>Odložiť budík</item>
+        <item>Vypnúť budík</item>
+    </string-array>
 </resources>

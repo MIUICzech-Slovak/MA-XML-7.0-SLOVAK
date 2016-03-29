@@ -134,4 +134,11 @@
   <string name="legal_off_day">Dni voľna</string>
   <string name="legal_off_day_message">" (Budík je vypnutý počas dní voľna)"</string>
   <string name="oneshot_alarm">Vymazať budík po vypnutí</string>
+  <string name="stat_repeat_everyday">Každý deň</string>
+  <string name="stat_repeat_legal_off_day">Sviatky</string>
+  <string name="stat_repeat_legal_workday">Pracovné dni</string>
+  <string name="stat_repeat_none">Nikdy</string>
+  <string name="stat_repeat_self_define">Vlastné</string>
+  <string name="stat_repeat_weekdays">Pon-Pia</string>
+  <string name="stat_repeat_weekends">Víkend</string>
 </resources>

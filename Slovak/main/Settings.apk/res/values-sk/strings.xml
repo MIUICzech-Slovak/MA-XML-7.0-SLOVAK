@@ -4512,4 +4512,5 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="add_fingerprint_similar_fingerprint_input_error_msg">Zmeňte pozíciu vášho prsta</string>
   <string name="device_cpu6_info">"6 jadier "</string>
   <string name="max_cpu4_info">"4 jadrá "</string>
+  <string name="add_fingerprint_failed_retry_text">Nebolo možné pridať odtlačok prsta, skúste to znova.</string>
 </resources>
