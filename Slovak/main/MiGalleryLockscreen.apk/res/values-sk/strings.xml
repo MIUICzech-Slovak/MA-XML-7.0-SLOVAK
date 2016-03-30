@@ -41,7 +41,7 @@
   <string name="sst_require_one_category_hint">Vyberte aspoň jednu kategóriu</string>
   <string name="sst_sti_desc">Nastavte interval pre zmenu tapety</string>
   <string name="sst_sti_title">Interval pre zmenu tapety</string>
-  <string name="sst_subscribe_title">Subscribe</string>
-  <string name="sst_wifi_only_desc">Suggest disable to save metered mobile connection charge</string>
-  <string name="sst_wifi_only_title">Enable Download Picture with Metered Mobile Connection</string>
+  <string name="sst_subscribe_title">Kategória</string>
+  <string name="sst_wifi_only_desc">Môže navýšiť vaše poplatky</string>
+  <string name="sst_wifi_only_title">Stiahnuť cez mobilné dáta</string>
 </resources>
