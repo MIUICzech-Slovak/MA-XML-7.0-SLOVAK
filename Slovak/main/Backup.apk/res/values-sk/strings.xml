@@ -346,4 +346,8 @@ Delta update size: %2$s"</string>
   <string name="user_notice_declaration_ignore">Viac nezobrazovať</string>
   <string name="user_notice_message">Niektoré funkcie vyžadujú pripojenie na internet pre ich správne fungovanie.</string>
   <string name="user_notice_title">Upozornenie</string>
+  <string name="guarded_mode_dialog_backup_message">Záloha nie je povolená v režime Návštevník.</string>
+  <string name="guarded_mode_dialog_transfer_message">Prenos nie je povolený v režime Návštevník.</string>
+  <string name="multi_user_mode_dialog_message">"Can't use Mi Mover in Multi-user mode. Turn off Multi-user mode to continue."</string>
+  <string name="multi_user_mode_dialog_title">"You're in Multi-user mode"</string>
 </resources>

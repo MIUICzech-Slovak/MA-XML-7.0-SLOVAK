@@ -1494,4 +1494,8 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="wifi_exception_summary">Skontrolovať dostupné pripojenie Wi-Fi siete</string>
   <string name="wifi_exception_title">Kontrola Wi-Fi</string>
   <string name="wifi_network_blocked_notification_title">Žiadne dátové pripojenie</string>
+  <string name="lockscreen_access_pattern_cell_added">Bunka pridaná</string>
+  <string name="lockscreen_access_pattern_cleared">Vzor vymazaný</string>
+  <string name="lockscreen_access_pattern_detected">Vzor dokončený</string>
+  <string name="lockscreen_access_pattern_start">Vzor začína</string>
 </resources>

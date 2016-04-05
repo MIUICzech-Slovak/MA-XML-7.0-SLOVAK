@@ -383,4 +383,11 @@
   <string name="yesterday">Včera</string>
   <string name="recommend_news">Recommended sources</string>
   <string name="recommend_the_following">Take the following actions to get the most out of your device</string>
+  <string name="long_click_dialog_summary">Dlhým podržaním pridáte do výnimiek.</string>
+  <string name="long_click_dialog_title">Oznámenie</string>
+  <string name="news_change">Zmeniť</string>
+  <string name="pref_section_auto_clean_and_alert">Vyčistiť automaticky</string>
+  <string name="pref_summary_auto_deepclean_and_alert">Upozornenie nepoužívaných apl.</string>
+  <string name="tips_of_app_manage">Odinštalujte nepoužívané aplikácie a ušetrite tak miesto na úložisku</string>
+  <string name="title_of_app_manage">Apl.</string>
 </resources>
