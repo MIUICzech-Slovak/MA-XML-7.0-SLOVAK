@@ -1048,4 +1048,22 @@ spoločne!"</string>
   <string name="orientation_lock_tip">Orientácia uzamknutá</string>
   <string name="orientation_unlock_tip">Autom. rotácia povolená</string>
   <string name="set_face_image">Nastaviť novú osobu</string>
+
+  <string name="auto_backup_introduce">Automaticky zálohovať fotografie a videá (Xiaomi účet je nutný)</string>
+  <string name="cloud_guide_slim_text">Zálohovať automaticky. Ušetrite viac ako 90% na úložisku pomocou zmenšenia.</string>
+  <string name="cloud_guide_slim_title">Povoľte zmenšenie albumu a ušetrite %1$s</string>
+  <string name="cloud_guide_welcome_title">MiCloud</string>
+  <string name="enable_slim_title">Povoliť zmenšenie albumu</string>
+  <string name="login_and_enable_service">Prihláste sa a používajte MiCloud</string>
+  <string name="share">Zdieľať</string>
+  <string name="slim_introduce">Nahradiť fotografie a videa na internom úložisku v plnom rozlíšení za náhľady po ich zálohovaní na MiCloud. V plnom rozlíšení budú i naďalej dostupné na MiCloud. Ušetrite tak viac ako 90% miesta na internom úložisku.</string>
+  <string name="slim_introduce_with_specific_size">Nahradiť fotografie a videa na internom úložisku v plnom rozlíšení za náhľady po ich zálohovaní na MiCloud. V plnom rozlíšení budú i naďalej dostupné na MiCloud. Ušetrite tak viac ako %1$s miesta na internom úložisku.</string>
+  <string name="slim_now">Zmenšiť teraz</string>
+  <string name="slim_result_size">ušetrené %1$s</string>
+  <string name="slim_result_title">Úspešne zmenšené</string>
+  <string name="slim_tip_msg">Albumy budú zmenšené automaticky po pripojení na Wi-Fi. Fotografie a videá v plnom rozlíšení stiahnete kliknutím na \"Stiahnuť\" v menu.</string>
+  <string name="slim_tip_title">Zmenšenie</string>
+  <string name="slimming">Zmenšenie...</string>
+  <string name="welcome_to_micloud">Vitajte v MiCloud</string>
+  <string name="welcome_to_slim">Vitajte v zmenšení albumu</string>
 </resources>

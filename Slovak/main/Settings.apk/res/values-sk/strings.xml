@@ -4513,4 +4513,12 @@ Nastavenie telefónu môže vyžadovať prenos významného množstva dát."</st
   <string name="device_cpu6_info">"6 jadier "</string>
   <string name="max_cpu4_info">"4 jadrá "</string>
   <string name="add_fingerprint_failed_retry_text">Nebolo možné pridať odtlačok prsta, skúste to znova.</string>
+  <string name="aaid_info">"
+Advertising identifier is a permanent ID unique to your device. Vendors use it to select advertising content that will be more useful to you.
+
+If you choose not to use personalized ads, the amount of advertising won't be reduced, but the amount of ads useful to you will decrease significantly."</string>
+  <string name="ad_service">Ad services</string>
+  <string name="confirm_reset_aaid">OK</string>
+  <string name="reset_aaid">Reset advertising identifier</string>
+  <string name="use_personalized_ad_service">Personalized ads</string>
 </resources>
