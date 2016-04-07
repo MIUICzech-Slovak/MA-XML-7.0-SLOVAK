@@ -4,7 +4,7 @@
   <string name="app_name">Vyhľadať zariadenie</string>
   <string name="captcha">Captcha</string>
   <string name="change_find_device_status_failed">Nebolo možné odblokovať. %s.</string>
-  <string name="default_lock_msg_words">Ahoj! Stratil som alebo mi bol ukradnutý tento telefón. Prosím vráťte mi ho. Ďakujem!</string>
+  <string name="default_lock_msg_words">Toto zariadenie je prepojené s Xiaomi účtom. Prihláste sa pre odblokovanie tohto zariadenia.</string>
   <string name="default_lock_msg_words_with_phone">Ahoj! Stratil som alebo mi bol ukradnutý tento telefón. Prosím vráťte mi ho. Ďakujem!</string>
   <string name="device_lost">Toto zariadenie bolo stratené alebo odcudzené</string>
   <string name="disable_find_device_error">Nebolo možné deaktivovať vyhľadávanie zariadenia. %1$s</string>
@@ -75,4 +75,5 @@ Prihláste sa na i.mi.com a skúste odblokovať vaše zariadenie odtiaľ"</strin
   <string name="unlock_error_passport_sdk_timeout">SDK Xiaomi účtu neodpovedá</string>
   <string name="unlock_error_wrong_vcode">Zadaný kód nie je správny</string>
   <string name="verifing_account">Overovanie hesla...</string>
+  <string name="device_locked">Toto zariadenie je zablokované</string>
 </resources>

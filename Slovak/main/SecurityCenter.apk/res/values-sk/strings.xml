@@ -1501,4 +1501,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="pm_auto_start_by_other">Vyvolaný štart</string>
   <string name="pm_auto_start_by_other_app">Povoliť aplikácií spustenie inou aplikáciou</string>
   <string name="pm_auto_start_by_system_event">Povoliť apl. automatické spustenie</string>
+  <string name="roaming_allow_network_dialog_title">Povoliť roaming pre mobilné dáta?</string>
 </resources>

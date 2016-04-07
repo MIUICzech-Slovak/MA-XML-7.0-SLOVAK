@@ -164,4 +164,9 @@
          <item>"Dnes "</item>
          <item>"Tento mesiac "</item>
      </string-array>
+    <string-array name="roaming_network_type">
+        <item>Vždy</item>
+        <item>Len pre výnimky</item>
+        <item>Nikdy</item>
+    </string-array>
 </resources>
