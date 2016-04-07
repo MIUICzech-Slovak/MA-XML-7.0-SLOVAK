@@ -1065,4 +1065,6 @@ spoločne!"</string>
   <string name="slimming">Zmenšenie...</string>
   <string name="welcome_to_micloud">Vitajte v MiCloud</string>
   <string name="welcome_to_slim">Vitajte v zmenšení albumu</string>
+  <string name="cloud_guide_login_title">Zálohujte fotografie a videá automaticky</string>
+  <string name="micloud_introduce">Zálohujte fotografie a videá automaticky na váš Xiaomi účet</string>
 </resources>
