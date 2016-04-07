@@ -272,7 +272,7 @@ Server je momentálne nedostupný, skúste to opäť neskôr
   <string name="menu_list_name">Menu</string>
   <string name="mi_router_label">MiRouter</string>
   <string name="midrop_msg_1">Povoľte MiDrop na druhom zariadení</string>
-  <string name="midrop_msg_2">Ak je povolený MiDrop, múžete vyhľadať zariadenie a odoslať súbory</string>
+  <string name="midrop_msg_2">Ak je povolený MiDrop, môžete vyhľadať zariadenie a odoslať súbory</string>
   <string name="midrop_send_files">Vyberte súbory na odoslanie</string>
   <string name="migrate_announcement_msg">Ak už máte účet, môžete ho prepojiť v nastaveniach</string>
   <string name="migrate_announcement_title">Migrácia účtu</string>
@@ -501,7 +501,7 @@ and never miss the cool new ones!"</string>
   <string name="search_result_hint7">(%d)</string>
   <string name="search_result_more">Viac</string>
   <string name="search_title">Hľadať dokumenty</string>
-  <string name="search_title_hint">Hĺadať</string>
+  <string name="search_title_hint">Hľadať</string>
   <string name="select_image">Fotografie</string>
   <string name="select_music">Skladby</string>
   <string name="select_video">Videá</string>
