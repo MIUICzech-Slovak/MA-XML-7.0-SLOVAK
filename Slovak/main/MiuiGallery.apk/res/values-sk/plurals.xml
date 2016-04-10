@@ -193,4 +193,12 @@
         <item quantity="other">%1$d položiek | %2$s</item>
         <item quantity="one">%1$d položiek | %2$s</item>
     </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">Vymazať %1$d fotografie %2$s?</item>
+        <item quantity="one">Vymazať túto fotografiu %2$s?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">Vymazať %1$d videá %2$s?</item>
+        <item quantity="one">Vymazať toto video %2$s?</item>
+    </plurals>    
 </resources>
