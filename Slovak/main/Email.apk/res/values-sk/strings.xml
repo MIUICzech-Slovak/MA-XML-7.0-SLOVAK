@@ -1037,4 +1037,7 @@ Delta update size: %2$s"</string>
   <string name="yes">Áno</string>
   <string name="you_are_in_mobile_network">Používate mobilné dátové pripojenie.</string>
   <string name="zip_viewer_no_file">Žiadne súbory!</string>
+  <string name="att_download_failed_permission_denied">Nemá povolenie pre prístup na externé úložisko</string>
+  <string name="download_whole_email">Stiahnuť celú správu</string>
+  <string name="mailbox_name_display_ad">Reklamy a upozornenia</string>
 </resources>
