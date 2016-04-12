@@ -901,7 +901,7 @@ Ak chcete ďalej používať svoj telefón, musíte obnoviť jeho továrenské n
   <string name="cryptkeeper_wrong_pin">Nesprávny kód PIN</string>
   <string name="current_backup_pw_prompt">Sem zadajte aktuálne heslo pre úplné zálohy.</string>
   <string name="current_input_method">Predvolené</string>
-  <string name="current_screen_lock">Aktuálna zámka obrazovky</string>
+  <string name="current_screen_lock">Aktuálny zámok obrazovky</string>
   <string name="current_use_ese">Používanie rozšírených bezpečnostných prvkov</string>
   <string name="current_use_uicc_se">Using secure element on SIM card</string>
   <string name="daltonizer_mode_deuteranomaly">Deuteranomália (červená-zelená)</string>
@@ -1120,7 +1120,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="disable_service_title">Zastaviť %1$s?</string>
   <string name="disable_text">Zakázať</string>
   <string name="disabled">Zakázané</string>
-  <string name="disabled_because_no_backup_security">Pred použitím musíte najskôr nastaviť zámku obrazovky</string>
+  <string name="disabled_because_no_backup_security">Pred použitím musíte najskôr nastaviť zámok obrazovky</string>
   <string name="disconnect">disconnect</string>
   <string name="display_auto_rotate_rotate">Otáčať obsah obrazovky</string>
   <string name="display_auto_rotate_stay_in_current">Ponechať obrazovku v súčasnej orentácii</string>
@@ -1285,7 +1285,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="enable_quick_setting">Zobraziť v Rýchlych nastaveniach</string>
   <string name="enable_quickboot_summary">Prepnúť zariadenie do QuickBoot režimu namiesto bežného vypnutia</string>
   <string name="enable_quickboot_title">Povoliť QuickBoot režim</string>
-  <string name="enable_service_encryption_warning">Ak zapnete službu %1$s, vaše zariadenie nepoužije zámku obrazovky na zvýšenie miery šifrovania údajov.</string>
+  <string name="enable_service_encryption_warning">Ak zapnete službu %1$s, vaše zariadenie nepoužije zámok obrazovky na zvýšenie miery šifrovania údajov.</string>
   <string name="enable_service_password_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoje heslo.</string>
   <string name="enable_service_pattern_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoj vzor.</string>
   <string name="enable_service_pin_reason">Keďže zapnutie služby %1$s ovplyvňuje šifrovanie údajov, musíte potvrdiť svoj kód PIN.</string>
@@ -2836,7 +2836,7 @@ Ako funkciu použiť:
   <string name="se_route_ese">Vstavané zabezpečenie</string>
   <string name="se_route_uicc">Zabezpečenie na SIM karte</string>
   <string name="secure_keyguard_business_title">Heslo zámku displeja</string>
-  <string name="secure_lock_encryption_warning">Keďže ste zapli služby dostupnosti, vaše zariadenie nepoužije zámku obrazovky na zvýšenie miery šifrovania údajov.</string>
+  <string name="secure_lock_encryption_warning">Keďže ste zapli služby dostupnosti, vaše zariadenie nepoužije zámok obrazovky na zvýšenie miery šifrovania údajov.</string>
   <string name="security_enable_widgets_disabled_summary">Zakázané správcom</string>
   <string name="security_enable_widgets_title">Povoliť miniaplik.</string>
   <string name="security_keyguard_category_name">Zámok</string>
@@ -2852,7 +2852,7 @@ Ako funkciu použiť:
   <string name="security_settings_fingerprint_enroll_dialog_name_label">Meno</string>
   <string name="security_settings_fingerprint_enroll_dialog_ok">OK</string>
   <string name="security_settings_fingerprint_enroll_disclaimer">Okrem odomknutia svojho telefónu môžete pomocou odtlačku autorizovať nákupy a prístup aplikácií. &lt;annotation id="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt;</string>
-  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Zámka obrazovky bola deaktivovaná. Stále však môžete pomocou svojho odtlačku autorizovať nákupy a prístup aplikácií. &lt;annotation id="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt;</string>
+  <string name="security_settings_fingerprint_enroll_disclaimer_lockscreen_disabled">Zámok obrazovky bol deaktivovaný. Stále však môžete pomocou svojho odtlačku autorizovať nákupy a prístup aplikácií. &lt;annotation id="url"&gt;&amp;#270;al&amp;#353;ie inform&amp;#225;cie&lt;/annotation&gt;</string>
   <string name="security_settings_fingerprint_enroll_done">Hotovo</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_content_description">Ilustrácia zariadenia a umiestnenia senzoru odtlačku prsta</string>
   <string name="security_settings_fingerprint_enroll_find_sensor_message">Nájdite snímač odtlačkov prstov na zadnej strane telefónu.</string>
@@ -2867,12 +2867,12 @@ Ako funkciu použiť:
   <string name="security_settings_fingerprint_enroll_introduction_title">Odomknúť odtlačkom</string>
   <string name="security_settings_fingerprint_enroll_lift_touch_again">Nadvihnite prst, potom sa opäť dotknite senzora</string>
   <string name="security_settings_fingerprint_enroll_onboard_message">Na to, aby ste mohli používať odtlačok prsta na odomknutie obrazovky alebo potvrdenie nákupov, musíte:</string>
-  <string name="security_settings_fingerprint_enroll_onboard_message_1">Nastavte záložnú zámku obrazovky</string>
+  <string name="security_settings_fingerprint_enroll_onboard_message_1">Nastavte záložný zámok obrazovky</string>
   <string name="security_settings_fingerprint_enroll_onboard_message_2">pridať odtlačok prsta.</string>
   <string name="security_settings_fingerprint_enroll_onboard_title">Nastavenie odtlačku</string>
   <string name="security_settings_fingerprint_enroll_repeat_message">Pohýbte zľahka prstom, aby ste pridali všetky odlišné časti vášho odtlačku</string>
   <string name="security_settings_fingerprint_enroll_repeat_title">Skvelé! Zopakujte to</string>
-  <string name="security_settings_fingerprint_enroll_setup_screen_lock">Nastaviť zámku obrazovky</string>
+  <string name="security_settings_fingerprint_enroll_setup_screen_lock">Nastaviť zámok obrazovky</string>
   <string name="security_settings_fingerprint_enroll_start_message">Priložte prst k senzoru a zdvihnite ho, keď zacítite vibráciu.</string>
   <string name="security_settings_fingerprint_enroll_start_title">Začíname!</string>
   <string name="security_settings_fingerprint_enroll_touch_dialog_message">Použite senzor odtlačku prsta na zariadení.</string>
@@ -3805,7 +3805,7 @@ Ktorýkoľvek používateľ môže akceptovať aktualizované povolenia aplikác
   <string name="volume_restore_alert">Všetky nastavenia hlasitosti budú obnovené na predvolené hodnoty, chcete pokračovať?</string>
   <string name="volume_ring_description">Zvonenie a oznámenia</string>
   <string name="volume_ring_mute">Stĺmiť zvonenie a oznámenia</string>
-  <string name="volume_system_description">Systémová hlasitosť pre uzávierku fotoaparátu, zámku obrazovky a ďalšie systémové notifikácie</string>
+  <string name="volume_system_description">Systémová hlasitosť pre uzávierku fotoaparátu, zámok obrazovky a ďalšie systémové notifikácie</string>
   <string name="volume_voice_description">Hlas</string>
   <string name="vpn_cancel">Zrušiť</string>
   <string name="vpn_configure">Nastaviť VPN</string>
