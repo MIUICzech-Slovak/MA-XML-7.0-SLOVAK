@@ -319,7 +319,7 @@ spoločne!"</string>
   <string name="delete_files_and_folders">Chcete vymazať tieto súbory (%1$d) a zložky (%2$d)?</string>
   <string name="delete_finish_format">%d zmazané</string>
   <string name="delete_folder">Chcete vymazať tieto zložky (%1$d)?</string>
-  <string name="delete_from_album">Od \"%s\" albumu na všetkých zariadeniach</string>
+  <string name="delete_from_album">z \"%s\" albumu na všetkých zariadeniach</string>
   <string name="delete_from_album_no_account">z \"%s\" albumu</string>
   <string name="delete_from_all_devices">Zo všetkých zariadení</string>
   <string name="delete_from_devices">Všetky zariadenia, ktoré sa automaticky synchronizujú</string>

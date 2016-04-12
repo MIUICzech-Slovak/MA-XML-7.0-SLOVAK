@@ -271,7 +271,7 @@
   <string name="grant_confirm_question">Chcete povoliť nasledujúce oprávnenia? Získa prístup k:</string>
   <string name="grant_dialog_button_allow">Povoliť</string>
   <string name="grant_dialog_button_deny">Odmietnuť</string>
-  <string name="location_settings">Nasatvenie polohy</string>
+  <string name="location_settings">Nastavenie polohy</string>
   <string name="location_warning">%1$s je poskytovateľ služieb polohy pre toto zariadenie. Prístup k polohe môžete zmeniť v nastaveniach.</string>
   <string name="never_ask_again">Viac sa nepýtať</string>
   <string name="ok">OK</string>

@@ -88,7 +88,7 @@
   <string name="nonsystemapp_description">Popis chyby</string>
   <string name="packaging_dialog_content">Generuje sa report, čakajte prosím...</string>
   <string name="plus_one_submit_dialog_content">Váš názor a záznam o chybe budú odoslané na Xiaomi server.</string>
-  <string name="plus_one_submit_dialog_not_show_again">Zapamätať nasatvenie</string>
+  <string name="plus_one_submit_dialog_not_show_again">Zapamätať nastavenie</string>
   <string name="power_consuming_problem1">Zvýšená spotreba energie po poslednej aktualizácií</string>
   <string name="power_consuming_problem2">Používanie tejto aplikácie zvyšuje spotrebu energie</string>
   <string name="power_consuming_problem3">Vysoká spotreba energie počas nečinnosti zariadenia</string>

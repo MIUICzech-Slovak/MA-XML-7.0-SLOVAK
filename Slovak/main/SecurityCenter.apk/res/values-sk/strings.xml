@@ -894,7 +894,8 @@ alebo zadajte heslo"</string>
   <string name="showpattern">Zobraziť vzor</string>
   <string name="suggest_app_tolock">Odporúčania</string>
   <string name="system_application">Systémové apl</string>
-  <string name="system_info_remind">Pridajte zámok pre zabránenie neoprávneného používania vašich aplikácií</string>
+  <string name="system_info_remind">"Pridajte zámok pre zabránenie
+neoprávneného používania vašich aplikácií"</string>
   <string name="text_lock_info">Zadajte vzor odblokovania</string>
   <string name="third_application">Nainštalované aplikácie</string>
   <string name="toast_lockscreen_glogin_empty_password">Vyžaduje sa heslo</string>

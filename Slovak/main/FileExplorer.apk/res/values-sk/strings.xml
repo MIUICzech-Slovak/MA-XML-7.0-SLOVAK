@@ -140,8 +140,8 @@
   <string name="dir_not_support">Táto zložka nemôže byť súkromná.</string>
   <string name="directory_info_divider">"  |  "</string>
   <string name="directory_no_item">Prázdna zložka</string>
-  <string name="disk_available">"Dostupné: "</string>
-  <string name="disk_total">"Celkovo: "</string>
+  <string name="disk_available">Dostupné</string>
+  <string name="disk_total">Celkovo</string>
   <string name="dlg_error_unmount_text">"Nie je možné odobrať USB úložisko. Skúste to znova."</string>
   <string name="download_failed">Sťahovanie zlyhalo!</string>
   <string name="download_link_completed">Zdieľam %1$s cez MiDrive. Kliknite na linku nižšie: </string>

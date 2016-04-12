@@ -27,10 +27,10 @@
   <string name="apply_as_lock_screen">Zámok</string>
   <string name="apply_as_lock_wallpaper">Použiť</string>
   <string name="apply_as_lock_wallpaper_message">Nastaviť tapetu aj pre zámok?</string>
-  <string name="apply_as_lockwallpaper_action">Zámok obrazovky</string>
+  <string name="apply_as_lockwallpaper_action">Áno</string>
   <string name="apply_as_wallpaper">Plocha</string>
   <string name="apply_both">Plocha aj zámok</string>
-  <string name="apply_negative_action">Nepoužiť</string>
+  <string name="apply_negative_action">Nie</string>
   <string name="aqi_quality_index_dangerous">Nebezpečné</string>
   <string name="aqi_quality_index_good">Dobré</string>
   <string name="aqi_quality_index_hazardous">Hazardné</string>

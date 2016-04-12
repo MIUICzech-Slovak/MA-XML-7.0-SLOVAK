@@ -31,9 +31,9 @@
   <string name="cloud_app_restore_wifi_prompt">Pre obnovenie aplikácií sa pripojte k Wi-Fi.</string>
   <string name="cloud_back_up_date_format">HH:mm dd.MM.yyyy</string>
   <string name="cloud_back_up_detail_discription">"Záloha bude odoslaná na MiCloud keď sa pripojíte na Wi-Fi: 
-*\u0009\u0009\u0009\u0009Apl, Rozloženie plochy, a tapety 
-*\u0009\u0009\u0009\u0009Budíky, hodiny, a nastavenie času 
-*\u0009\u0009\u0009\u0009Nasatvenie upozornení 
+*\u0009\u0009\u0009\u0009Apl, Rozloženie plochy a tapety 
+*\u0009\u0009\u0009\u0009Budíky, hodiny a nastavenie času 
+*\u0009\u0009\u0009\u0009Nastavenie upozornení 
 *\u0009\u0009\u0009\u0009Nastavenie systému a MIUI 
 Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiCloud."</string>
   <string name="cloud_back_up_frequence_choice_title">Plánovanie zálohy</string>
