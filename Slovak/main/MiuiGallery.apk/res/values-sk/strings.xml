@@ -1048,7 +1048,6 @@ spoločne!"</string>
   <string name="orientation_lock_tip">Orientácia uzamknutá</string>
   <string name="orientation_unlock_tip">Autom. rotácia povolená</string>
   <string name="set_face_image">Nastaviť novú osobu</string>
-
   <string name="auto_backup_introduce">Automaticky zálohovať fotografie a videá (Xiaomi účet je nutný)</string>
   <string name="cloud_guide_slim_text">Zálohovať automaticky. Ušetrite viac ako 90% na úložisku pomocou zmenšenia.</string>
   <string name="cloud_guide_slim_title">Povoľte zmenšenie albumu a ušetrite %1$s</string>
@@ -1067,6 +1066,4 @@ spoločne!"</string>
   <string name="welcome_to_slim">Vitajte v zmenšení albumu</string>
   <string name="cloud_guide_login_title">Zálohujte fotografie a videá automaticky</string>
   <string name="micloud_introduce">Zálohujte fotografie a videá automaticky na váš Xiaomi účet</string>
-  <string name="flash_off">Bez blesku</string>
-  <string name="flash_on">S bleskom</string>
 </resources>
