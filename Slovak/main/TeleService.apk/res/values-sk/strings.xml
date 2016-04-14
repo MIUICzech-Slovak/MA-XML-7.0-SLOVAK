@@ -1200,4 +1200,8 @@ Počet dní do začiatku ďalšieho obdobia: %2$d (%3$s)"</string>
   <string name="xdivert_setting">X-Divert Nastavenia</string>
   <string name="xdivert_summary">CFNRc Nastavenia</string>
   <string name="xdivert_title">X-Divert</string>
+  <string name="roaming_notification_title">Roaming je aktívny</string>
+  <string name="roaming_notification_content">Môžete pridať automaticky kód krajiny.</string>
+  <string name="telocation_country_code_enabled_message">Pridať kód krajiny pri volaní pre pohodlnejšie volanie domov.</string>
+  <string name="telocation_country_code_enabled_title">Pridať kód krajiny pri volaní</string>  
 </resources>
