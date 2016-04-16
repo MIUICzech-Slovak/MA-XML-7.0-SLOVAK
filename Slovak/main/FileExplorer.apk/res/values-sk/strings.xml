@@ -224,7 +224,7 @@
   <string name="kp_category_txt">Text</string>
   <string name="kuaipan_cloud_photo">MiDrive fotografie</string>
   <string name="kuaipan_create_shortcut_success">Odkaz vytvorený</string>
-  <string name="kuaipan_data_formater_with_year">dd.MM.YYYY</string>
+  <string name="kuaipan_data_formater_with_year">dd.MM.yyyy</string>
   <string name="kuaipan_data_formater_without_year">dd.MM.</string>
   <string name="kuaipan_delete_guide_des">Vymazať užívateľský manuál?</string>
   <string name="kuaipan_delete_success">Vymazané</string>
