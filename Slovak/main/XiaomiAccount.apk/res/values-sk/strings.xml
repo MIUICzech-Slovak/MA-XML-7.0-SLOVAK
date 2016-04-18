@@ -237,7 +237,6 @@ Zadajte overovací kód v emailovej správe"</string>
   <string name="getting_verify_code">Získavanie</string>
   <string name="header_data_and_synchronization">Dáta a synchronizácia</string>
   <string name="hide_mibi_info">Suma MiKreditov je ukrytá</string>
-  <string name="i_know">OK</string>
   <string name="input_captcha_hint">Zadajte kód z obrázka</string>
   <string name="input_email_address_notice">Táto adresa bude použitá pre overenie vášho účtu</string>
   <string name="input_password_hint">Vložte heslo</string>
