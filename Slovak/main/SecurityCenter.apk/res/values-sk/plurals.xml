@@ -125,4 +125,8 @@
         <item quantity="other">%d apl. môže byť optimalizovaných</item>
         <item quantity="one">%d apl. môže byť optimalizovaná</item>
     </plurals>
+    <plurals name="notification_apps">
+        <item quantity="other">%d apl. obsahuje ohrozenie súkromia</item>
+        <item quantity="one">%d apl. obsahuje ohrozenie súkromia</item>
+    </plurals>
 </resources>

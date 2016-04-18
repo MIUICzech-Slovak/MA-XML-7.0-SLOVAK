@@ -389,4 +389,10 @@
   <string name="pref_summary_auto_deepclean_and_alert">Upozornenie nepoužívaných apl.</string>
   <string name="tips_of_app_manage">Odinštalujte nepoužívané aplikácie a ušetrite tak miesto na úložisku</string>
   <string name="title_of_app_manage">Apl.</string>
+  <string name="dialog_msg_esc_cleanmaster">Zastaviť prebiehajúcu kontrolu?</string>
+  <string name="dialog_title_esc_cleanmaster">Ukončiť Čistič</string>
+  <string name="optimizecenter_data_support_cm">Poskytuje Clean Master</string>
+  <string name="optimizecenter_data_support_tc">Poskytuje Tencent</string>
+  <string name="pref_category_title_engine_settings">Nastavenie databázy čistenia</string>
+  <string name="pref_title_choose_engine">Databázy</string>
 </resources>

@@ -1072,6 +1072,7 @@ Toto nastavenie ovplyvní všetkých používateľov tohto telefónu."</string>
   <string name="device_cpu2_info">"2 jadrá "</string>
   <string name="device_cpu4_info">"4 jadrá "</string>
   <string name="device_cpu8_info">"8 jadier "</string>
+  <string name="device_cpu10_info">"10 jadier "</string>
   <string name="device_edit_title">Zmeniť názov zariadenia</string>
   <string name="device_feedback">Odoslať názor o tomto zariadení</string>
   <string name="device_info_default">Neznáme</string>
