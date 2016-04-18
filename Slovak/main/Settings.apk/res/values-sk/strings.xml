@@ -4522,6 +4522,6 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="reset_aaid">Reset advertising identifier</string>
   <string name="use_personalized_ad_service">Personalized ads</string>
   <string name="fingerprint_removal_failed">Nebolo možné odstrániť odtlačok prsta, skúste to znova.</string>
-  <string name="wifi_enable_data_and_wifi_roam">Povoliť dátový roaming</string>
+  <string name="wifi_enable_data_and_wifi_roam">Wi-Fi Asistent</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Prepnúť na mobilné dáta ak Wi-Fi nemá prístup na internet.</string>
 </resources>
