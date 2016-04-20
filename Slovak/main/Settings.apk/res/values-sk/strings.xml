@@ -4526,4 +4526,20 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="wifi_enable_data_and_wifi_roam">Wi-Fi Asistent</string>
   <string name="wifi_enable_data_and_wifi_roam_summary">Prepnúť na mobilné dáta ak Wi-Fi nemá prístup na internet.</string>
   <string name="lock_secure_after_timeout_click_me_to_change_text">Zmeniť</string>
+  <string name="security_encryption_alert_dialog_info_first">"Nastavte heslo pre povolenie tejto funkcie. Pri každom spustení bude nutné zadať heslo zamykacej obrazovky pre dešifrovanie zariadenia."</string>
+  <string name="security_encryption_alert_dialog_title_first">Najskôr nastavte heslo</string>
+  <string name="security_encryption_attention_1">Budík nebude môcť spustiť zariadenie ak je vypnuté.</string>
+  <string name="security_encryption_attention_2">Pri každom spustení bude nutné zadať heslo zamykacej obrazovky pre dešifrovanie zariadenia. Reštartovanie bude trvať dlhšie ako obyčajne.</string>
+  <string name="security_encryption_attention_3">Budete musieť nastaviť nové heslo.</string>
+  <string name="security_encryption_attention_4">Uistite sa, že si budete pamätať vaše heslo, inak bude nutné kompletné vymazanie zariadenia.</string>
+  <string name="security_encryption_attention_info">Môžete zašifrovať účty, nastavenia, stiahnuté aplikácie a ich dáta, média, a ostatné súbory.</string>
+  <string name="security_encryption_attention_symbol">•</string>
+  <string name="security_encryption_attention_title">Dôležité upozornenie</string>
+  <string name="security_encryption_close_dialog_info">Ak nezašifrujete svoje zariadenie, niektoré Google služby môžu byť nedostupné (napr. Google NFC Platby).</string>
+  <string name="security_encryption_close_dialog_title">Vrátiť na predvolené zabezpečenie</string>
+  <string name="security_encryption_diaglog_continue">Ďalej</string>
+  <string name="security_encryption_is_used">Zap.</string>
+  <string name="security_encryption_title">Zašifrovať zariadenie</string>
+  <string name="erase_sd_data">Formátovať SD kartu</string>
+  <string name="erase_sd_data_description">Formátovanie vymaže všetky súbory na SD karte</string>  
 </resources>
