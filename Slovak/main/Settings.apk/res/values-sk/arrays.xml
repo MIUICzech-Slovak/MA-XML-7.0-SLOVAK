@@ -672,13 +672,19 @@ Postupujte podľa pokynov"</item>
         <item>Zakázať</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
-        <item>okamžite</item>
-        <item>1 minúte</item>
+        <item>Okamžite</item>
+        <item>30 sekúnd</item>
+        <item>1 minúta</item>
         <item>2 minútach</item>
         <item>5 minútach</item>
-        <item>15 minútach</item>
-        <item>30 minútach</item>
     </string-array>
+    <string-array name="lock_screen_secure_after_timeout_values">
+        <item>0</item>
+        <item>30000</item>
+        <item>60000</item>
+        <item>120000</item>
+        <item>300000</item>
+    </string-array>    
     <string-array name="fluency_mode_entries">
         <item>Vypnúť animácie systému</item>
         <item>Povoliť animácie systému</item>
