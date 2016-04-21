@@ -395,4 +395,7 @@
   <string name="optimizecenter_data_support_tc">Poskytuje Tencent</string>
   <string name="pref_category_title_engine_settings">Nastavenie databázy čistenia</string>
   <string name="pref_title_choose_engine">Databázy</string>
+  <string name="dialog_msg_add_white_list_error">Súbor nepodporuje pridanie do výnimiek</string>
+  <string name="dialog_ok_add_white_list_error">Rozumiem</string>
+  <string name="dialog_title_add_white_list_error">Upozornenie</string>
 </resources>
