@@ -905,4 +905,8 @@ Postupujte podľa pokynov"</item>
         <item>ZM</item>
         <item>ZW</item>
     </string-array>    
+    <string-array name="screen_key_position_action">
+        <item>Menu tlačidlo vľavo, Späť vpravo</item>
+        <item>Späť tlačidlo vľavo, Menu vpravo</item>
+    </string-array>
 </resources>
