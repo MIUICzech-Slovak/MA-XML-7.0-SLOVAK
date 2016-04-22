@@ -1443,7 +1443,7 @@ Umožňuje to ochrániť údaje v stratených alebo ukradnutých zariadeniach."<
   <string name="forget_password_button_text">Zabudnuté heslo</string>
   <string name="forget_wifi_message">Môžete vypnúť automatické pripojenie k sieti a možno budete musieť pri opätovnom pripojení znova zadávať heslo.</string>
   <string name="found_new_version">Dostupná aktualizácia</string>
-  <string name="fp_nav_center_back_to_home_title">Stlačte tlačidlo Domov pre návrat na domácu plochu</string>
+  <string name="fp_nav_center_back_to_home_title">Dotykom na tlačidlo Domov sa vrátiť na domácu plochu</string>
   <string name="free_memory">Voľné</string>
   <string name="free_wifi_agreement_remind_never">"Don't show again"</string>
   <string name="free_wifi_confirm">Potvrdiť</string>
