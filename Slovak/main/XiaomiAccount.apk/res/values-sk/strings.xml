@@ -180,7 +180,7 @@
   <string name="confirm_unbind">Odpojiť?</string>
   <string name="continue_action">Pokračovať</string>
   <string name="data_keep_in_device">Ponechať v mojom zariadení</string>
-  <string name="data_wipe_from_device">Vymazať z môjho zariadení</string>
+  <string name="data_wipe_from_device">Vymazať z môjho zariadenia</string>
   <string name="delete_action">Vymazať</string>
   <string name="delete_device_btn">Odobrať</string>
   <string name="delete_device_failed">Nie je možné odobrať zariadenie</string>
