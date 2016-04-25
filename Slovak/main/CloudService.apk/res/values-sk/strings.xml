@@ -276,7 +276,7 @@ Stlačte tlačidlo Nastavenia pre viac možností"</string>
   <string name="micloud_main_title_not_synced">Nesynchr.</string>
   <string name="micloud_main_title_sync_fail">Nie je možné synchr.</string>
   <string name="micloud_main_title_sync_off">Synchr. vypnutá</string>
-  <string name="micloud_main_title_sync_on_wifi">Použiť W-Fi</string>
+  <string name="micloud_main_title_sync_on_wifi">Použiť Wi-Fi</string>
   <string name="micloud_main_update_space">Aktualizovať kapacitu</string>
   <string name="micloud_main_wlan_sync_data_count">Synchr. sa cez Wi-Fi: %d</string>
   <string name="micloud_member">MiCloud členstvo</string>
