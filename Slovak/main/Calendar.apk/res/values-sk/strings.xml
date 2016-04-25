@@ -62,7 +62,7 @@
   <string name="birthday_notification_text_three_days_later">Za 3 dni má %4$s (%3$s)!</string>
   <string name="birthday_notification_text_three_days_later_with_activity">Kúpte kvety alebo tortu pre TA</string>
   <string name="birthday_notification_text_today">Nezabudnite zablahoželať!</string>
-  <string name="birthday_notification_title_days_later">%1$s %2$s bude.</string>
+  <string name="birthday_notification_title_days_later">%1$s bude mať %2$s</string>
   <string name="birthday_notification_title_three_days_later">%1$s bude mať %2$s</string>
   <string name="birthday_notification_title_today">%1$s má %3$s</string>
   <string name="birthday_notification_type_term_lunar"/>
