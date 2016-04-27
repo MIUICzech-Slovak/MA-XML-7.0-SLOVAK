@@ -1066,4 +1066,7 @@ spoločne!"</string>
   <string name="welcome_to_slim">Vitajte v zmenšení albumu</string>
   <string name="cloud_guide_login_title">Zálohujte fotografie a videá automaticky</string>
   <string name="micloud_introduce">Zálohujte fotografie a videá automaticky na váš Xiaomi účet</string>
+  <string name="adding">Pridávanie</string>
+  <string name="delete_to_trash_tips">Môžete zobraziť nedávno vymazané fotky z koša v nastaveniach</string>
+  <string name="video_edit_file_not_exits_tip">Najskôr musíte stiahnuť video</string>
 </resources>
