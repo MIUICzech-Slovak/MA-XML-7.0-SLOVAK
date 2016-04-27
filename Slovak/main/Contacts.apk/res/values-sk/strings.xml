@@ -1361,4 +1361,9 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="zero_items_selected">Nič nie je vybrané</string>
   <string name="unable_get_device_id">Nie je možné získať IMEI</string>
   <string name="missing_required_permission">Deaktivovali ste potrebné povolenia.</string>
+  <string name="export_to_storage">Exportovať na úložisko</string>
+  <string name="storage_internal_description">Interné úložisko</string>
+  <string name="storage_sd_card">SD karta</string>
+  <string name="storage_sd_card_description">SD karta</string>
+  <string name="storage_usb_description">USB úložisko</string>
 </resources>
