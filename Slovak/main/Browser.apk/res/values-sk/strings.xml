@@ -799,7 +799,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="search_dianping">Cate</string>
   <string name="search_easou">Easou</string>
   <string name="search_google">Google</string>
-  <string name="search_hint">Hľadať alebo adresa URL</string>
+  <string name="search_hint">Vyhľadať alebo zadajte URL adresu</string>
   <string name="search_label">Prehliadač</string>
   <string name="search_s139">139</string>
   <string name="search_settings_description">Záložky a história prehliadania</string>
@@ -902,7 +902,7 @@ Chcete opustiť túto web stránku?"</string>
   <string name="url_copy_done">Adresa je skopírovaná</string>
   <string name="url_find_on_page_result">Zobraziť v prehliadači</string>
   <string name="url_find_on_page_result_item">Zobraziť celý text pre \"%s\"</string>
-  <string name="url_hint">Hľadať alebo zadať URL</string>
+  <string name="url_hint">Vyhľadať alebo zadajte URL adresu</string>
   <string name="url_hint_from_search">Zadajte kľúčové slovo</string>
   <string name="url_opened_in_background">Otvoriť v karte na pozadí</string>
   <string name="url_suggest_indicator_bookmark">Záložky/História</string>
