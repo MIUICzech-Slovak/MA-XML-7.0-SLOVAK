@@ -3048,7 +3048,7 @@ Ostáva:"</string>
   <string name="sim_setup_wizard_title">SIM karty</string>
   <string name="sim_slot_empty">SIM karta je prázdna</string>
   <string name="sim_status_summary">Informácie týkajúce sa SIM karty</string>
-  <string name="sim_status_title">stav SIM</string>
+  <string name="sim_status_title">Stav SIM</string>
   <string name="simulate_color_space">Simulácia far. priestoru</string>
   <string name="skip_label">Preskočiť</string>
   <string name="skip_lock_screen_confirm_msg">Pre zamykaciu obrazovku nebudú dostupné: Upozornenia, fotoaparát potiahnutím doprava a číselník potiahnutím doľava.</string>
