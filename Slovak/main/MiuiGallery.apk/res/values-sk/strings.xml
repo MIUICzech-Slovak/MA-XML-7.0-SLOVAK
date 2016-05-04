@@ -1069,4 +1069,8 @@ spoločne!"</string>
   <string name="adding">Pridávanie</string>
   <string name="delete_to_trash_tips">Môžete zobraziť nedávno vymazané fotky z koša v nastaveniach</string>
   <string name="video_edit_file_not_exits_tip">Najskôr musíte stiahnuť video</string>
+  <string name="other_album">Ostatné albumy</string>
+  <string name="auto_upload_enable_toast_long_press_menu">Automatická záloha je povolená</string>
+  <string name="auto_upload_disable_toast_long_press_menu">Automatická záloha je vypnutá</string>
+  <string name="auto_upload_disable_tip">Automatická záloha je vypnutá</string>
 </resources>
