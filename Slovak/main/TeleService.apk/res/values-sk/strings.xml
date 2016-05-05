@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="Result_title">Kontakt na SIM karte</string>
-  <string name="active_phone_fail_nochoice">"Can't verify SIM card"</string>
-  <string name="active_phone_fail_toast">"Can't verify SIM card %1$s"</string>
-  <string name="active_phone_sim_absent">Insert SIM card now</string>
-  <string name="active_phone_success_nochoice">SIM card verified</string>
-  <string name="active_phone_success_toast">SIM card %1$s verified</string>
-  <string name="activing_simcard">Verifying SIM %1$d</string>
-  <string name="activing_simcard_alone">Verifying SIM</string>
+  <string name="active_phone_fail_nochoice">Nebolo možné overiť SIM kartu</string>
+  <string name="active_phone_fail_toast">Nebolo možné overiť SIM kartu %1$s</string>
+  <string name="active_phone_sim_absent">Vložte SIM kartu</string>
+  <string name="active_phone_success_nochoice">SIM karta je overená</string>
+  <string name="active_phone_success_toast">SIM karta %1$s je overená</string>
+  <string name="activing_simcard">Overovanie SIM %1$d</string>
+  <string name="activing_simcard_alone">Overovanie SIM</string>
   <string name="add">Pridať</string>
   <string name="addSimEntries">Pridať kontakt SIM</string>
   <string name="add_fdn_contact">Pridať povolené telefónne číslo</string>
@@ -234,8 +234,8 @@
   <string name="change_default_data">Zmeniť</string>
   <string name="change_default_data_alert_message">"You won't be able to use your China Telecom UIM card."</string>
   <string name="change_default_data_alert_title">Karta UIM musí byť ako predvolená</string>
-  <string name="change_default_data_card">Default mobile data SIM</string>
-  <string name="change_default_data_card_summary">Looks like you changed SIM cards. Set this card as your default SIM for your mobile data connection?</string>
+  <string name="change_default_data_card">Prevolená SIM pre dáta</string>
+  <string name="change_default_data_card_summary">Vyzerá to, že ste zmenili SIM karty. Nastaviť túto SIM kartu ako predvolenú pre mobilné dáta?</string>
   <string name="change_num">Aktualizovať</string>
   <string name="change_password">Zmeniť heslo blokovania hovorov</string>
   <string name="change_pin">Zmeniť kód PIN</string>
