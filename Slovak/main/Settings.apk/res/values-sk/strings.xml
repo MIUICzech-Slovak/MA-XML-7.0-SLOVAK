@@ -4544,4 +4544,5 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="erase_sd_data_description">Formátovanie vymaže všetky súbory na SD karte</string>  
   <string name="screen_key_position">Navigačné tlačidlá</string>
   <string name="key_position_cat">Rozloženie tlačidiel</string>
+  <string name="dial_application_title">Volanie</string>
 </resources>
