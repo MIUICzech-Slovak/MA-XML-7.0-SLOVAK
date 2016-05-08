@@ -652,7 +652,7 @@ spoločne!"</string>
   <string name="open_sync_title">Vyžaduje sa Synchronizácia</string>
   <string name="operation_add_album">Pridať do albumu</string>
   <string name="operation_add_picture">Vybrať obrázky</string>
-  <string name="operation_add_secret">Tajný albumu</string>
+  <string name="operation_add_secret">Tajný album</string>
   <string name="operation_add_secret_button">Ukryť</string>
   <string name="operation_delete">Vymazať</string>
   <string name="operation_delete_confirm_message_folder">"Zložky a súbory v nich budú vymazané.
