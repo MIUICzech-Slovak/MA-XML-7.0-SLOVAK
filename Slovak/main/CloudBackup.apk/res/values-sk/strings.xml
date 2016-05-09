@@ -49,12 +49,12 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="cloud_back_up_share_activity_title">Navýšiť Xiaomi účet</string>
   <string name="cloud_back_up_task">Zálohovanie...</string>
   <string name="cloud_backup_detail_frequence">Plánovanie zálohy</string>
-  <string name="cloud_backup_detail_frequence_day">%1$s Záloha len raz</string>
+  <string name="cloud_backup_detail_frequence_day">Zálohovať raz %1$s</string>
   <string name="cloud_backup_detail_manage">Spravovať zálohu</string>
   <string name="cloud_backup_detail_manage_summary">%1$s Záloha, veľkosť: %2$s</string>
   <string name="cloud_backup_detail_state">MiCloud záloha</string>
   <string name="cloud_backup_detail_state_summary">Apl, Nastavenie plochy a systému</string>
-  <string name="cloud_backup_detail_time">, čas zálohy: %1$s</string>
+  <string name="cloud_backup_detail_time">Zálohované: %1$s</string>
   <string name="cloud_restore_from_other_device">prebieha obnovenie z %s, Vymazanie zálohy zruší obnovenie iného zariadenia. Chcete ju vymazať?</string>
   <string name="cloud_restore_task">Obnovenie...</string>
   <string name="cloud_task_in_process">Prebieha %s! Vymazanie zálohy súčasného zariadenia zruší obnovenie iného zariadenia. Chcete ju vymazať?</string>
@@ -114,4 +114,7 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="cloud_backup_have_data">Nájdená záloha v MiCloud</string>
   <string name="cloud_backup_select_recover">Vybrať zálohu z MiCloud</string>
   <string name="backup_finished_notification_content">Zálohované aplikácie, nastavenia, atď.</string>
+  <string name="backup_now">Zálohovať teraz</string>
+  <string name="backup_successfully">Úspešne zálohované</string>
+  <string name="restore_task_unfinished">Obnovenie aplikácií, skúste to neskôr</string>
 </resources>

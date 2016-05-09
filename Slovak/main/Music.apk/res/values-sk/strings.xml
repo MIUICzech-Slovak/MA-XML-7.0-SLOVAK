@@ -503,4 +503,5 @@
   <string name="more_settings_summary">Nastavenie sťahovania, spánku, mobilných dát atď.</string>
   <string name="settings">Nastavenia</string>
   <string name="toast_cancel_play">Prehrávanie zrušené</string>
+  <string name="desktop_lyric_lock_toast">Uzamknuté. Použite Mini Prehrávač v lište pre odblokovanie</string>
 </resources>

@@ -1509,4 +1509,5 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="ac_enable_title">Povoliť zámok apl.</string>
   <string name="after_the_lock_screen">Aplikácia je zamknutá spolu s telefónom. Môžete zmeniť spôsob uzamknutia v nastaveniach zámku apl.</string>
   <string name="lock_mode_title">Nastavenie uzamknutia</string>
+  <string name="activity_title_other_permission_manager">Ostatné povolenia</string>
 </resources>

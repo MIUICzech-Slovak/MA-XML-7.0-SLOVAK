@@ -1073,4 +1073,6 @@ spoločne!"</string>
   <string name="auto_upload_enable_toast_long_press_menu">Automatická záloha je povolená</string>
   <string name="auto_upload_disable_toast_long_press_menu">Automatická záloha je vypnutá</string>
   <string name="auto_upload_disable_tip">Automatická záloha je vypnutá</string>
+  <string name="more_album_hint">,atď</string>
+  <string name="runtime_permission_ungranted">Galéria bude ukončená, pretože nedostala povolenia.</string>
 </resources>
