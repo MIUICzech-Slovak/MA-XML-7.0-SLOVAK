@@ -65,16 +65,6 @@
         <item>Väčší</item>
         <item>Veľký</item>
     </string-array>
-	<string-array name="search_bar_search_engines_rCN">
-       <item>google</item>
-       <item>yahoo</item>
-       <item>bing</item>
-    </string-array>
-    <string-array name="search_engines_rCN">
-       <item>google</item>
-       <item>yahoo</item>
-       <item>bing</item>
-    </string-array>
 	<string-array name="pref_nav_mode_summary">
         <item>Telefón</item>
         <item>Tablet</item>
