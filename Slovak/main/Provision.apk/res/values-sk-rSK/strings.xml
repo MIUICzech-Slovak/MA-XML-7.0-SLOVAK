@@ -59,4 +59,10 @@ Prihláste sa na www.miuios.cz :)"</string>
   <string name="user_agreement">Podmienky používania</string>
   <string name="welcome">Vitajte</string>
   <string name="desc_international_fingerprint">Použite odtlačok prsta na odomknutie vášho zariadenia alebo prihlásenie.</string>
+  <string name="alert_dialog_btn_close">Zakázať</string>
+  <string name="alert_dialog_btn_open">Zrušiť</string>
+  <string name="alert_dialog_msg">"Niektoré dôležité funkcie a služby MIUI nebudú fungovať správne bez týchto povolení (napr. nebude možné zobraziť informácie o kontakte poťas hovoru). Ak zakážete tieto povolenia, MIUI aplikácie sa budú dožadovať o jednotlivé povolenia keď ich budú potrebovať."</string>
+  <string name="alert_dialog_title">Niektoré služby nnebudú fungovať správne...</string>
+  <string name="other_settings_permission">Povolenie pre MIUI služby</string>
+  <string name="other_settings_permission_summary">Dajte MiCloud, Telefónu, a ostatným dôležitým funkciám a službám povolenia ktoré potrebujú pre ich správne fungovanie</string>
 </resources>
