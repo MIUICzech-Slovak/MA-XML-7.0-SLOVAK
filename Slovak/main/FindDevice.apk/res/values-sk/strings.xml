@@ -12,7 +12,7 @@
   <string name="enable_find_device_error">Nebolo možné aktivovať vyhľadávanie zariadenia. %1$s</string>
   <string name="enable_find_device_success">Vyhľadanie zariadenia je aktivované.</string>
   <string name="find_device">Vyhľadať zariadenie</string>
-  <string name="find_device_crash">Vyhľadávanie bolo neočakávane ukončné</string>
+  <string name="find_device_crash">Vyhľadávanie bolo neočakávane ukončené</string>
   <string name="find_device_error_account_sys_timeout">Nebolo možné sa pripojiť k Xiaomi účtu.</string>
   <string name="find_device_error_account_unknown_error">Chyba Xiaomi účtu (%s)</string>
   <string name="find_device_error_network">Skontrolujte dátové pripojenie a skúste to znova.</string>
