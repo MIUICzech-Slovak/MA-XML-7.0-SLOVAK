@@ -1366,4 +1366,11 @@ Zvoľte jednu z nasledujúcich možností:</string>
   <string name="storage_sd_card">SD karta</string>
   <string name="storage_sd_card_description">SD karta</string>
   <string name="storage_usb_description">USB úložisko</string>
+  <string name="hybrid_check_network">Nastavenie siete</string>
+  <string name="hybrid_data_error">Nastala chyba</string>
+  <string name="hybrid_locating_fail">Nebolo možné vyhľadať vašu polohu</string>
+  <string name="hybrid_network_unavaliable">Nebolo možné sa pripojiť k sieti</string>
+  <string name="hybrid_service_unavailiable">Služba je nedostupná</string>
+  <string name="hybrid_try_again">Skúsiť znova</string>
+  <string name="preference_key_trash_bin_title">Prehliadať zálohované kontakty ktoré boli nedávno vymazané</string>
 </resources>

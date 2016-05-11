@@ -1505,9 +1505,12 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="roaming_allow_network_dialog_title">Povoliť roaming pre mobilné dáta?</string>
   <string name="summary_app_lock_disable">Zamknite aplikácie pre ochranu vášho súkromia</string>
   <string name="title_app_lock_disable">Zámok apl.</string>
-  <string name="notification_item">Nastaviť zámok apl.</string>
+  <string name="notification_item">Zabezpečte vaše aplikácie</string>
   <string name="ac_enable_title">Povoliť zámok apl.</string>
   <string name="after_the_lock_screen">Aplikácia je zamknutá spolu s telefónom. Môžete zmeniť spôsob uzamknutia v nastaveniach zámku apl.</string>
   <string name="lock_mode_title">Nastavenie uzamknutia</string>
   <string name="activity_title_other_permission_manager">Ostatné povolenia</string>
+  <string name="ac_firstUseApplock_subTitle">Použite zámok aplikácií pre ochranu vášho súkromia</string>
+  <string name="ac_firstUseApplock_title">Vyžadovať heslo pre otvorenie aplikácií</string>
+  <string name="notification_subtitle">Povoliť Zámok aplikácií</string>
 </resources>

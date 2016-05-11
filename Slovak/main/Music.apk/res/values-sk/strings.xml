@@ -504,4 +504,8 @@
   <string name="settings">Nastavenia</string>
   <string name="toast_cancel_play">Prehrávanie zrušené</string>
   <string name="desktop_lyric_lock_toast">Uzamknuté. Použite Mini Prehrávač v lište pre odblokovanie</string>
+  <string name="permission_declaration_message">Povoľte prístup k úložisku v aplikácií Optimazlizácia &gt; Povolenia &gt; Správa povolení &gt; Úložisko &gt; Hudba pre správne fungovanie aplikácie.</string>
+  <string name="permission_declaration_negative_text">Neskôr</string>
+  <string name="permission_declaration_positive_text">Ísť do app Optimalizácia</string>
+  <string name="permission_declaration_title">Povoliť</string>
 </resources>
