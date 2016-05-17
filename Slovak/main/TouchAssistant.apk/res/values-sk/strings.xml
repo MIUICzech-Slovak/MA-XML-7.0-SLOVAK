@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dotykový Asistent</string>
+    <string name="app_not_installed">Nie je nainštalovaný</string>
+    <string name="applications">Aplikácie</string>
+    <string name="category_others">Ostatné</string>
+    <string name="category_setting">Nastavenia</string>
+    <string name="customize_entries">Upraviť funkcie</string>
+    <string name="enable_touch_assistant">Povoliť Dotykového Asistenta</string>
+    <string name="function_settings">Nastavenie funkcií</string>
+    <string name="hide_touch_assistant">Automaticky skryť</string>
+    <string name="hide_touch_assistant_intro">Skryť asistenta v niektorých aplikáciách.</string>
+    <string name="name_alipay_payment_code">Alipay quick pay</string>
+    <string name="name_alipay_scan">Alipay scan code</string>
+    <string name="name_kill_processes">Čistenie RAM</string>
+    <string name="name_music_next_song">Ďalšia skladba</string>
+    <string name="name_music_prev_song">Predchádzajúca skladba</string>
+    <string name="name_music_toggle">Spustiť/Pozastaviť skladbu</string>
+    <string name="name_payment_code">Quick pay</string>
+    <string name="name_press_back_key">Späť</string>
+    <string name="name_press_home_key">Domov</string>
+    <string name="name_press_menu_key">Menu</string>
+    <string name="name_quick_lock">Uzamknúť</string>
+    <string name="name_quick_search">Vyhľadávanie</string>
+    <string name="name_scan_to_pay">Scan to pay</string>
+    <string name="name_screenshot">Screenshot</string>
+    <string name="name_wechat_payment_code">Wechat quick pay</string>
+    <string name="name_wechat_scan">Wechat scan code</string>
+    <string name="pay_entry_dialog_title_select">Vyberte aplikáciu</string>
+    <string name="pay_entry_dialog_title_setting">Set app checked to enable</string>
+    <string name="pref_category_others">Ostatné</string>
+    <string name="pref_category_quick_pay">Quick Pay</string>
+    <string name="pref_category_quick_settings">Rýchle Nastavenia</string>
+    <string name="pref_category_system">Nastavenia systému</string>
+    <string name="restore_default">Obnoviť na predvolené</string>
+    <string name="restore_intro">Obnoviť na predvolené nastavenia, čo zahrňuje funkcie a ostatné. Vaše dáta v telefóne nebudú vymazané.</string>
+</resources>
