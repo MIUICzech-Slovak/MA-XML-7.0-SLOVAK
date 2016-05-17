@@ -1932,6 +1932,7 @@ Na tomto zariadení sú prítomní ďalší používatelia.
   <string name="master_clear_title">Obnovenie predvolených dát</string>
   <string name="max_cpu6_info">"6 jadier "</string>
   <string name="max_cpu8_info">"8 jadier "</string>
+  <string name="max_cpu10_info">"10 jadier "</string>
   <string name="max_fingerprint_number_reached">Nie je možné uložiť viac ako 5 odtlačkov prsta. Pre pridanie ďalšieho odtlačku musíte vymazať niektorý z už uložených.</string>
   <string name="maximum_memory_use">Maximálne využitie pamäte</string>
   <string name="media_button">Tlačidlo Média</string>
@@ -2226,7 +2227,7 @@ Vyberte váš operačný systém:"</string>
   <string name="no_default_apps">Žiadne predvol. aplikácie</string>
   <string name="no_device_admins">Nie je k dispozícií žiadny správca zariadenia</string>
   <string name="no_internet_access_remember">Nabudúce sa na túto sieť nepýtať</string>
-  <string name="no_internet_access_text">Táto sieť nemá prístup k internetu. Chcete k nej zostať pripojený/-á?</string>
+  <string name="no_internet_access_text">Sieť %1$s nemá prístup k internetu. Chcete k nej zostať pripojený?</string>
   <string name="no_media_button_receiver">Nie</string>
   <string name="no_memory_use_summary">Za posledné 3 hodiny nebola využitá žiadna pamäť</string>
   <string name="no_nearby_wifi">Žiadna wifi sieť nebola nájdená, spustite hľadanie znova, alebo pridajte wifi ručne</string>
@@ -4545,4 +4546,6 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="screen_key_position">Navigačné tlačidlá</string>
   <string name="key_position_cat">Rozloženie tlačidiel</string>
   <string name="dial_application_title">Volanie</string>
+  <string name="attempt_other_network">Vybrať inú sieť</string>
+  <string name="use_this_wlan">Použiť túto Wi-Fi</string>
 </resources>

@@ -387,4 +387,18 @@
   <string name="data_notice_change_settings">Nastavenia</string>
   <string name="data_notice_continue_confirm">Pokračovať</string>
   <string name="zhushen"/>
+  <string name="event_info_jump_to_email">Otvoriť Email</string>
+  <string name="festival_detail_title">Festival</string>
+  <string name="insert_event_dialog_btn_negative">Nie</string>
+  <string name="insert_event_dialog_btn_positive">Áno</string>
+  <string name="insert_event_dialog_message">Pridať túto udalosť do kalendára?</string>
+  <string name="insert_event_dialog_title">Upozornenie</string>
+  <string name="insert_event_toast_add_failed">Pridanie zlyhalo</string>
+  <string name="insert_event_toast_add_success">Udalosť vytvorená</string>
+  <string name="menu_reminder_preferences">Nastavenie upozornenia</string>
+  <string name="preferences_history_events">Show history events</string>
+  <string name="preferences_holidays">Show holidays</string>
+  <string name="preferences_solar_terms">Show solar days</string>
+  <string name="setting_holiday">Holidays</string>
+  <string name="setting_others">Others</string>
 </resources>

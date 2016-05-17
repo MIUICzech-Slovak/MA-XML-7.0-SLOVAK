@@ -416,7 +416,7 @@ Skontrolujte aj SPAM."</string>
   <string name="passport_login_check_find_device">Kontrola stavu vyhľadania zariadenia...</string>
   <string name="passport_login_check_find_device_failed">Nebolo možné načítať stav. Skontrolujte internetové pripojenie.</string>
   <string name="passport_login_failed">Nie je možné sa prihlásiť</string>
-  <string name="passport_login_find_device_bind">Toto zariadenie je prepojené s Xiaomi účtom (%s). Prihláste sa pre aktivovanie tohto zariadenia.</string>
+  <string name="passport_login_find_device_bind">Toto zariadenie je prepojené s Xiaomi účtom (%s).</string>
   <string name="passport_login_instead_reg">Použiť toto číslo</string>
   <string name="passport_login_instead_reg_with_email">Použiť tento email</string>
   <string name="passport_login_notice">Prihlasovanie...</string>
@@ -672,4 +672,20 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="passport_use_generated_pwd_message">Uistite sa, že si pamätáte svoje heslo. Môžete sa ním prihlásiť na inom Xiaomi zariadení.</string>
   <string name="passport_use_generated_pwd_title">Pamätajte si svoje heslo!</string>
   <string name="passport_find_device_display_id">Odblokovať číslo: %s</string>
+  <string name="find_device_access_denied">Nie je možné načítať stav zariadenia, prístup zamietnutý</string>
+  <string name="find_device_account_error">Nie je možné načítať stav zariadenia kvôli chybe účtu</string>
+  <string name="find_device_bad_response_error">Nie je možné načítať stav kvôli chybe servera, skúste to neskôr znova.</string>
+  <string name="find_device_error_password_not_confirmed">Nie je možné deaktivovať vyhľadávanie zariadenia. Zadajte svoje heslo ku Xiaomi účtu znova.</string>
+  <string name="find_device_error_password_recently_changed">Zmenili ste svoje heslo ku Xiaomi účtu v posledných 3 dňoch. Nie je možné deaktivovať vyhľadávanie zariadenia z bezpečnostných dôvodov.</string>
+  <string name="find_device_interrupted">Akcia bola prerušená, skúste to znova neskôr.</string>
+  <string name="find_device_io_error">Nie je možné sa pripojiť k sieti</string>
+  <string name="find_device_null_credential_error">Nie je možné načítať stav zariadenia, kontaktujte Xiaomi podporu zákazníkom</string>
+  <string name="find_device_operation_failed_error">Nastala chyba</string>
+  <string name="find_device_operation_failed_error_unknown">Nastala chyba, skúste to znova neskôr.</string>
+  <string name="find_device_remote_exception">RPC error</string>
+  <string name="find_device_request_error">Nie je možné vyžiadať stav zariadenia, skúste to znova neskôr.</string>
+  <string name="find_device_request_prepare_error">Nie je možné načítať stav zariadenia skúste to znova neskôr.</string>
+  <string name="find_device_unknown_error">Nie je možné načítať stav zariadenia skúste to znova neskôr.</string>
+  <string name="turn_off_find_device_failed_title">Nie je možné deaktivovať vyhľadávanie zariadenia</string>
+  <string name="turning_off_find_device">Deaktivovanie vyhľadania záriadenia...</string>
 </resources>

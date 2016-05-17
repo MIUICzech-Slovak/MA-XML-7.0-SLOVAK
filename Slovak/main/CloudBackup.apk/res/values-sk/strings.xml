@@ -117,4 +117,5 @@ Poznámka: Nastavenie doinštalovaných aplikácií nebude zálohované na MiClo
   <string name="backup_now">Zálohovať teraz</string>
   <string name="backup_successfully">Úspešne zálohované</string>
   <string name="restore_task_unfinished">Obnovenie aplikácií, skúste to neskôr</string>
+  <string name="account_error">Chyba účtu</string>
 </resources>
