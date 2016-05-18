@@ -933,7 +933,6 @@ spoločne!"</string>
   <string name="sync_album_summary">Nahrané vaše fotky do MiCloud</string>
   <string name="sync_battery_low">Slabá batéria</string>
   <string name="sync_cloud_space_full">MiCloud je plný</string>
-  <string name="sync_diabled_toast">Synchr. nie je povolená</string>
   <string name="sync_history_power_on">Synchronizovať fotografie len počas nabíjania.</string>
   <string name="sync_in_progress_message">Prebieha synchronizácia...</string>
   <string name="sync_ok">Synchr.</string>
