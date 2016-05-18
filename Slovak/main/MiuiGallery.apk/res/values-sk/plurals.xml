@@ -201,4 +201,12 @@
         <item quantity="other">Vymazať %1$d videá %2$s?</item>
         <item quantity="one">Vymazať toto video %2$s?</item>
     </plurals>    
+    <plurals name="download_error">
+        <item quantity="other">Sťahovanie zlyhalo: %1$d</item>
+        <item quantity="one">Sťahovanie zlyhalo: %1$d</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">Vybraných: %d</item>
+        <item quantity="one">Vybraných: %d</item>
+    </plurals>	
 </resources>

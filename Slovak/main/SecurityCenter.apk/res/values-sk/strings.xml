@@ -1513,4 +1513,7 @@ Remaining data includes data that has been rolled over from the previous month."
   <string name="ac_firstUseApplock_subTitle">Použite zámok aplikácií pre ochranu vášho súkromia</string>
   <string name="ac_firstUseApplock_title">Vyžadovať heslo pre otvorenie aplikácií</string>
   <string name="notification_subtitle">Povoliť Zámok aplikácií</string>
+  <string name="ac_enter_applock">Zadajte Zámok apl.</string>
+  <string name="ac_summaryOff">Vypnuté, nevyžaduje sa heslo na otvorenie aplikácií</string>
+  <string name="ac_summaryOn">Zapnuté, vyžaduje sa heslo na otvorenie aplikácií</string>
 </resources>

@@ -688,4 +688,5 @@ Uistite sa, že nezabudnete odpovede na otázky."</string>
   <string name="find_device_unknown_error">Nie je možné načítať stav zariadenia skúste to znova neskôr.</string>
   <string name="turn_off_find_device_failed_title">Nie je možné deaktivovať vyhľadávanie zariadenia</string>
   <string name="turning_off_find_device">Deaktivovanie vyhľadania záriadenia...</string>
+  <string name="account_error_all_space_user_name">Meno nesmie byť len z medzier</string>
 </resources>

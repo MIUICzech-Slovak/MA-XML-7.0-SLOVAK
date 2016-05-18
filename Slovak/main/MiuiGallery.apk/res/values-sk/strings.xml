@@ -299,7 +299,7 @@ spoločne!"</string>
   <string name="creating_baby_album">Vytváranie albumu...</string>
   <string name="crop">Orezať</string>
   <string name="crop_fail_to_load_image">Načítavanie obrázku pre orezanie zlyhalo.</string>
-  <string name="crop_label">Orezať obrázok</string>
+  <string name="crop_label">Orezané obrázky</string>
   <string name="crop_recognize_text">Rozpoznať</string>
   <string name="crop_save_text">Uložiť</string>
   <string name="crop_save_text_setas">Použiť</string>
@@ -658,10 +658,10 @@ spoločne!"</string>
   <string name="operation_delete_confirm_message_folder">"Zložky a súbory v nich budú vymazané.
 "</string>
   <string name="operation_detail">Podrobnosti</string>
-  <string name="operation_disable_auto_upload">Vypnúť automatické zálohovanie</string>
+  <string name="operation_disable_auto_upload">Vypnúť automatickú synchr. s MiCloud</string>
   <string name="operation_download">Stiahnuť fotografiu (%s)</string>
   <string name="operation_edit">Upraviť</string>
-  <string name="operation_enable_auto_upload">Zapnúť automatické zálohovanie</string>
+  <string name="operation_enable_auto_upload">Zapnúť automatickú synchr. s MiCloud</string>
   <string name="operation_failed">Operácia zlyhala.</string>
   <string name="operation_force_top">Pripnúť</string>
   <string name="operation_give_name">Meno</string>
@@ -1031,7 +1031,7 @@ spoločne!"</string>
   <string name="yunyi_pocket_camera">YiSports Camera</string>
   <string name="show_hidden_album_title">Zobraziť skryté albumy</string>
   <string name="browse_category_title">Prehliadať</string>
-  <string name="baby_album_needs_auto_backup_tip">Detský album nemôže deaktivovať automatickú zálohu</string>
+  <string name="baby_album_needs_auto_backup_tip">Detský album nemôže deaktivovať synchr. s MiCloud</string>
   <string name="camera_needs_auto_backup_tip">Album fotografií by mal byť zálohovaný</string>
   <string name="cloud_guide_auto_backup_title">Vyberte album ktorý sa má zálohovať na MiCloud</string>
   <string name="cloud_guide_welcome_title">MiCloud</string>
@@ -1066,13 +1066,21 @@ spoločne!"</string>
   <string name="welcome_to_slim">Vitajte v zmenšení albumu</string>
   <string name="cloud_guide_login_title">Zálohujte fotografie a videá automaticky</string>
   <string name="micloud_introduce">Zálohujte fotografie a videá automaticky na váš Xiaomi účet</string>
-  <string name="adding">Pridávanie</string>
+  <string name="adding">Pridávanie...</string>
   <string name="delete_to_trash_tips">Môžete zobraziť nedávno vymazané fotky z koša v nastaveniach</string>
   <string name="video_edit_file_not_exits_tip">Najskôr musíte stiahnuť video</string>
   <string name="other_album">Ostatné albumy</string>
-  <string name="auto_upload_enable_toast_long_press_menu">Automatická záloha je povolená</string>
-  <string name="auto_upload_disable_toast_long_press_menu">Automatická záloha je vypnutá</string>
-  <string name="auto_upload_disable_tip">Automatická záloha je vypnutá</string>
+  <string name="auto_upload_enable_toast_long_press_menu">Synchr. s MiCloud je povolená</string>
+  <string name="auto_upload_disable_toast_long_press_menu">Synchr. s MiCloud je zakázaná</string>
+  <string name="auto_upload_disable_tip">Synchr. s MiCloud je zakázaná</string>
   <string name="more_album_hint">,atď</string>
   <string name="runtime_permission_ungranted">Galéria bude ukončená, pretože nedostala povolenia.</string>
+  <string name="custom_select_title_deselect_all">Odznačiť</string>
+  <string name="custom_select_title_select_all">Všetko</string>
+  <string name="custom_select_title_select_item">Vyberte položký</string>
+  <string name="download_retry_message">Sťahovanie obrázka zlyhalo, skontrolujte nastavenie siete.</string>
+  <string name="download_retry_text">Znova</string>
+  <string name="download_retry_title">Chyba sťahovania</string>
+  <string name="download_title">súbory sa pripravujú...</string>
+  <string name="sync_diabled_toast">Synchr. je vypnutá</string>
 </resources>
