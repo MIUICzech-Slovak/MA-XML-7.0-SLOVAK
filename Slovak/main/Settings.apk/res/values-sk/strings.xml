@@ -4548,4 +4548,5 @@ If you choose not to use personalized ads, the amount of advertising won't be re
   <string name="dial_application_title">Volanie</string>
   <string name="attempt_other_network">Vybrať inú sieť</string>
   <string name="use_this_wlan">Použiť túto Wi-Fi</string>
+  <string name="touch_assistant">Dotykový asistent</string>
 </resources>
