@@ -508,4 +508,5 @@
   <string name="permission_declaration_negative_text">Neskôr</string>
   <string name="permission_declaration_positive_text">Ísť do app Optimalizácia</string>
   <string name="permission_declaration_title">Povoliť</string>
+  <string name="service_and_settings">Služby a nastavenia</string>
 </resources>
