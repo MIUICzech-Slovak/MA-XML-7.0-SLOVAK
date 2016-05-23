@@ -502,6 +502,9 @@ Odoslané ID vášho zariadenia na server Xiaomi bude šifrované."</string>
   <string name="micloud_notif_title_sync_finish">Synchr.</string>
   <string name="micloud_notif_title_sync_not_finish">Nesynchr.</string>
   <string name="micloud_notif_title_sync_progress">Synchr...</string>
-  <string name="micloud_website">Cloud Dáta</string>
+  <string name="micloud_website">MiCloud</string>
   <string name="sub_alert_notif_content">Povoľte MiCloud</string>
+  <string name="micloud_request_permission_confirm">OK</string>
+  <string name="micloud_request_permission_content">MiCloud vyžaduje povolenia pre synchr. dát. Povoľte MiCloud prístup ku kontaktom, kalendáru, Xiaomi účtu, SIM karte, histórie hovorov a SMS.</string>
+  <string name="micloud_request_permission_title">MiCloud vyžaduje povolenia</string>
 </resources>

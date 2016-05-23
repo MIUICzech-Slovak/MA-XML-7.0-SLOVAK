@@ -1040,4 +1040,11 @@ Delta update size: %2$s"</string>
   <string name="att_download_failed_permission_denied">Nemá povolenie pre prístup na externé úložisko</string>
   <string name="download_whole_email">Stiahnuť celú správu</string>
   <string name="mailbox_name_display_ad">Reklamy a upozornenia</string>
+  <string name="failed_read_phone_state_permission">Nemá povolenie pre prístup k stavu zariadenia</string>
+  <string name="failed_read_write_calendar_permission">Nemá povolenie pre prístup ku kalendáru</string>
+  <string name="failed_read_write_contacts_permission">Nemá povolenie pre prístup ku kontaktom</string>
+  <string name="contact_permission_error">Prístup ku kontaktom zamietnutý</string>
+  <string name="request_permission_activity">Vyžadujú sa povolenia</string>
+  <string name="wipe_account_fail_description">Dotykom dáte povolenia</string>
+  <string name="wipe_account_fail_title">Vymazanie osobných údajov zlyhalo</string>
 </resources>

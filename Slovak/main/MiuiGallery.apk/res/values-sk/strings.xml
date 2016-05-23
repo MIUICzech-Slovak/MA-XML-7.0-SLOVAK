@@ -1082,4 +1082,16 @@ spoločne!"</string>
   <string name="download_retry_title">Chyba sťahovania</string>
   <string name="download_title">súbory sa pripravujú...</string>
   <string name="sync_diabled_toast">Synchr. je vypnutá</string>
+    <string name="album_detail_clear_local_page_empty">Žiadne zálohované fotografie alebo videá na vymazanie</string>
+  <string name="backup_detail_page_title">MiCloud zálohy</string>
+  <string name="backup_waiting_button_text">Zálohovať teraz</string>
+  <string name="backuping">Zálohovanie %1$d/%2$d</string>
+  <string name="clear_local_photo_direction">Ak vymažete fotografie alebo videá z vášho zariadenia, stále budú dostupné v MiCloud</string>
+  <string name="cloud_space_full_button_text">Získať viac miesta v MiCloud</string>
+  <string name="local_space_full_button_text">Vyčistiť úložisko</string>
+  <string name="network_unsatisfied_button_text">Pripojte sa k sieti</string>
+  <string name="operation_do_delete_local_thumnail">Vymazať zo zariadenia</string>
+  <string name="operation_enter_delte_thumbnail">Vymazať zálohované fotografie a videá zo zariadenia</string>
+  <string name="release_space_finish_format">Uvoľnené %s na lokálnom úložisku</string>
+  <string name="sync_off_button_text">Zapnúť synchr.</string>
 </resources>
