@@ -140,7 +140,7 @@ Resetujte kameru"</string>
   <string name="camera_alarm_customize_wednesday">Streda</string>
   <string name="camera_alarm_customize_weekend">Víkend</string>
   <string name="camera_alarm_customize_workday">Týždeň</string>
-  <string name="camera_alarm_notify_bad_network">Slabá pripojenie k sieti, prosím skontrolujte nastavenia siete a znovu sa pripojte</string>
+  <string name="camera_alarm_notify_bad_network">Slabé pripojenie k sieti, prosím skontrolujte nastavenia siete a znovu sa pripojte</string>
   <string name="camera_alarm_notify_weixin_not_exist">WeChat sa nenašiel</string>
   <string name="camera_alarm_time_frequency">Frekvencia upozornení</string>
   <string name="camera_alarm_time_frequency_high">Čas medzi záznamom dvoch aktivít je krátky. Budete dostávať časté upozornenia</string>
