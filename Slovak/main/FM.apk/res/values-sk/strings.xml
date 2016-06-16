@@ -163,4 +163,8 @@
   <string name="txt_sleep_mode">Spánok</string>
   <string name="type_rd"/>
   <string name="view_stations_list">Zobraziť zoznam staníc</string>
+  <string name="using_recorder_cancel">Odmietnuť</string>
+  <string name="using_recorder_confirm">Prijať</string>
+  <string name="using_recorder_dialog_message">FM rádio vyžaduje povolenie pre používanie nahrávania pre jeho správne fungovanie.</string>
+  <string name="using_recorder_dialog_title">Povolenie prístupu</string>  
 </resources>
