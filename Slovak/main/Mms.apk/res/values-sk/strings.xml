@@ -638,4 +638,6 @@ Pokus: %s."</string>
   <string name="delete_wild_sims">Vymazať čísla</string>
   <string name="delete_wild_sims_confirm">Všetky správy z tohto čísla budú vymazané z vášho telefónu. Môžete ich obnoviť na i.mi.com.</string>
   <string name="delete_wild_sims_title">Vymazať vybrané čísla</string>  
+  <string name="pref_show_photo_word_summary">Automaticky priradiť obrázok kontaktu bez fotografie</string>
+  <string name="title_show_photo_word">Priradiť obrázok kontaktu</string>
 </resources>
